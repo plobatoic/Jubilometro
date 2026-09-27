@@ -119,7 +119,7 @@ Enlaces que deben apuntar hacia este artículo: portada (bloque de calculadora y
 
 - [ ] Revisión del graduado social o abogado laboralista, con nombre y n.º de colegiado reales en la caja «Revisado por».
 - [ ] Sustituir `[AUTOR]`, `[REVISOR…]` y `[EMAIL DE CONTACTO]` en el texto y en el JSON-LD.
-- [ ] Confirmar el dominio definitivo (se ha usado `jubilometro.es` en canónica, OG y JSON-LD).
+- [ ] Confirmar el dominio definitivo (se ha usado `jubilometro.com` en canónica, OG y JSON-LD).
 - [ ] Ajustar `datePublished`/`article:published_time` al día real de publicación.
 - [ ] Quitar o activar los enlaces internos pendientes (sección 7).
 - [ ] Comprobar que los anclajes del BOE (`#a205`, `#dtseptima`, `#dtnovena`) llevan al punto correcto.

@@ -14,6 +14,13 @@ autor: "PENDIENTE: nombre real del autor"
 revisor: "PENDIENTE: nombre, profesión y n.º de colegiado del revisor"
 estado: borrador pendiente de revisión profesional
 imagen_destacada: imagenes/edad-jubilacion-2013-2027.webp
+imagen_alt: "Gráfico de la subida de la edad de jubilación en España entre 2013 y 2027"
+miga: Edad de jubilación
+fuentes_legales:
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2011-13242
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2022-9850
+  - https://www.boe.es/buscar/act.php?id=BOE-A-2026-11474
 proxima_revision: enero de 2027 (y cuando cambie la normativa)
 ---
 
@@ -29,6 +36,7 @@ proxima_revision: enero de 2027 (y cuando cambie la normativa)
 
 ## Datos clave de la jubilación en 2027
 
+<!-- tabla: Requisitos de edad y cotización en 2027 -->
 | Concepto | En 2027 |
 |---|---|
 | Edad ordinaria de jubilación | 67 años |
@@ -44,6 +52,7 @@ Fuente: artículos 205, 207 y 208 y disposiciones transitorias 7.ª y 9.ª de la
 
 Busca tu año de nacimiento. La segunda columna indica con cuánta cotización puedes jubilarte al cumplir 65 años; la tercera, a qué edad te jubilas si no la alcanzas.
 
+<!-- tabla: Edad de jubilación ordinaria según el año de nacimiento -->
 | Año de nacimiento | A los 65 años, si has cotizado… | Si has cotizado menos, te jubilas a los… |
 |---|---|---|
 | 1959 | 38 años (en 2024) | Nacidos de enero a abril: 66 años y 8 meses (en 2025). De mayo a diciembre: 66 años y 10 meses (en 2026) |
@@ -65,6 +74,8 @@ Cómo leer la tabla:
 - **La cotización exigida es la del año en que te jubilas.** Si naciste en 1961 y te jubilas en 2026, te bastan 38 años y 3 meses; si lo haces en 2027 o más tarde, necesitas 38 años y 6 meses.
 - **Si completas la cotización entre los 65 y los 67 años** porque sigues trabajando, puedes jubilarte en ese momento, sin esperar a los 67 (mira el ejemplo de Marta, más abajo).
 - La tabla está calculada mes a mes aplicando la disposición transitoria 7.ª de la Ley General de la Seguridad Social. No recoge la jubilación anticipada ni las edades reducidas por discapacidad o por profesión.
+
+<!-- calculadora:edad-jubilacion -->
 
 ### Por qué los nacidos en 1960 no se jubilan a los 66 años y 8 meses
 
@@ -92,6 +103,7 @@ La edad real de jubilación también sube: según el Ministerio de Inclusión, S
 
 Esta es la tabla que aplica la Seguridad Social ([disposición transitoria 7.ª de la LGSS](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtseptima)). Recuerda: busca el año en que vas a jubilarte, no el de tu nacimiento.
 
+<!-- tabla: Edad y cotización exigidas por año de jubilación (disposición transitoria 7.ª LGSS) -->
 | Año en que te jubilas | Te jubilas a los 65 años con… | Si no llegas, edad exigida |
 |---|---|---|
 | 2013 | 35 años y 3 meses | 65 años y 1 mes |
@@ -110,7 +122,7 @@ Esta es la tabla que aplica la Seguridad Social ([disposición transitoria 7.ª 
 | 2026 | 38 años y 3 meses | 66 años y 10 meses |
 | **2027 y siguientes** | **38 años y 6 meses** | **67 años** |
 
-![Gráfico de escalones: la edad exigida sin cotización larga sube de 65 años y 1 mes en 2013 a 67 años en 2027, y la cotización para jubilarse a los 65 pasa de 35 años y 3 meses a 38 años y 6 meses](imagenes/edad-jubilacion-2013-2027.webp)
+![Gráfico de escalones: la edad exigida sin cotización larga sube de 65 años y 1 mes en 2013 a 67 años en 2027, y la cotización para jubilarse a los 65 pasa de 35 años y 3 meses a 38 años y 6 meses](imagenes/edad-jubilacion-2013-2027.webp "La subida de la edad de jubilación y de la cotización exigida, año a año. Elaboración propia a partir de la disposición transitoria 7.ª de la LGSS.")
 
 La reforma que puso en marcha este calendario es la [Ley 27/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-13242). En 2025 y 2026 se exigió la misma cotización (38 años y 3 meses); en 2027 sube tres meses más y la edad, dos meses.
 
@@ -145,6 +157,7 @@ Los ejemplos son orientativos y suponen que cada persona cumple el resto de requ
 
 ## ¿Puedes jubilarte antes o después de tu edad ordinaria?
 
+<!-- tabla: Modalidades de jubilación en 2027 -->
 | Modalidad | Desde qué edad en 2027 | Requisitos principales | Efecto en la pensión |
 |---|---|---|---|
 | Anticipada voluntaria | 65 años (63 con 38 años y 6 meses cotizados) | 35 años cotizados, 2 de ellos en los últimos 15; la pensión resultante debe superar la mínima que te correspondería a los 65 años | Recorte de entre el 2,81 % y el 21 %, según los meses de adelanto y los años cotizados |

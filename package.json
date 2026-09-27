@@ -1,0 +1,13 @@
+{
+  "name": "jubilometro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test herramientas/edad-jubilacion/edad-jubilacion.test.mjs herramientas/publicar/publicar.test.mjs",
+    "html": "node herramientas/publicar/construir-articulos.mjs"
+  },
+  "devDependencies": {
+    "js-yaml": "^4.3.2",
+    "marked": "^14.1.4"
+  }
+}

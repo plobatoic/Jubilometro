@@ -1,0 +1,63 @@
+  /* Estilos de la vista previa. En WordPress, el tema aporta la maquetación; estas clases
+     (respuesta-rapida, datos-clave, tabla-scroll, aviso-caja, siguiente-paso...) son las que
+     conviene replicar en el CSS del tema. */
+  :root {
+    color-scheme: light;
+    --fondo: #fbfbf9; --superficie: #ffffff; --tinta: #14213d; --tinta-2: #3d4a63; --tenue: #5f6b80;
+    --borde: #d9dee7; --acento: #1f5fa8; --acento-suave: #eaf2fb; --verde: #1d6b45; --verde-suave: #e8f4ee;
+    --aviso: #7a4300; --aviso-suave: #fff4e0; --fila: #f5f7fa;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme="light"]) {
+      color-scheme: dark;
+      --fondo: #0f1622; --superficie: #151f2e; --tinta: #eef2f7; --tinta-2: #c3ccd9; --tenue: #9aa6b8;
+      --borde: #2d3d54; --acento: #7fb1ea; --acento-suave: #182a40; --verde: #74d3a3; --verde-suave: #14281f;
+      --aviso: #ffcf8a; --aviso-suave: #2e2413; --fila: #1a2536;
+    }
+  }
+  :root[data-theme="dark"] {
+    color-scheme: dark;
+    --fondo: #0f1622; --superficie: #151f2e; --tinta: #eef2f7; --tinta-2: #c3ccd9; --tenue: #9aa6b8;
+    --borde: #2d3d54; --acento: #7fb1ea; --acento-suave: #182a40; --verde: #74d3a3; --verde-suave: #14281f;
+    --aviso: #ffcf8a; --aviso-suave: #2e2413; --fila: #1a2536;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fondo); color: var(--tinta); font: 19px/1.65 system-ui, -apple-system, "Segoe UI", Roboto, "Liberation Sans", sans-serif; }
+  .cabecera-sitio { border-bottom: 1px solid var(--borde); background: var(--superficie); }
+  .cabecera-sitio div { max-width: 46rem; margin: 0 auto; padding: 14px 16px; font-weight: 800; font-size: 1.2rem; }
+  main { max-width: 46rem; margin: 0 auto; padding: 8px 16px 64px; }
+  a { color: var(--acento); text-underline-offset: 3px; }
+  a:focus-visible { outline: 3px solid var(--acento); outline-offset: 2px; }
+  .migas ol { list-style: none; display: flex; flex-wrap: wrap; gap: 6px; padding: 0; margin: 16px 0 0; font-size: 0.9rem; color: var(--tenue); }
+  .migas li + li::before { content: "›"; margin-right: 6px; }
+  h1 { font-size: clamp(1.75rem, 1.2rem + 2.4vw, 2.4rem); line-height: 1.2; margin: 16px 0 8px; text-wrap: balance; }
+  h2 { font-size: 1.5rem; line-height: 1.3; margin: 44px 0 12px; text-wrap: balance; }
+  h3 { font-size: 1.2rem; line-height: 1.35; margin: 28px 0 8px; }
+  p, ul, ol { margin: 0 0 16px; }
+  li { margin-bottom: 8px; }
+  .meta { color: var(--tenue); font-size: 0.95rem; margin-bottom: 20px; }
+  .respuesta-rapida { background: var(--verde-suave); border-left: 6px solid var(--verde); border-radius: 8px; padding: 18px 20px; margin: 20px 0 28px; }
+  .respuesta-rapida .etiqueta { font-weight: 800; color: var(--verde); margin-bottom: 6px; }
+  .respuesta-rapida p:last-child { margin-bottom: 0; }
+  .aviso-caja { background: var(--aviso-suave); border-left: 6px solid var(--aviso); border-radius: 8px; padding: 16px 20px; margin: 20px 0; }
+  .aviso-caja p:last-child { margin-bottom: 0; }
+  .tabla-scroll { overflow-x: auto; margin: 16px 0 8px; border: 1px solid var(--borde); border-radius: 10px; background: var(--superficie); }
+  .tabla-scroll:focus-visible { outline: 3px solid var(--acento); outline-offset: 2px; }
+  table { border-collapse: collapse; width: 100%; font-size: 0.95rem; }
+  caption { text-align: left; font-weight: 700; padding: 12px 14px 4px; }
+  th, td { padding: 10px 14px; text-align: left; vertical-align: top; border-bottom: 1px solid var(--borde); }
+  thead th { background: var(--acento-suave); font-size: 0.9rem; }
+  tbody tr:nth-child(even) { background: var(--fila); }
+  tbody tr:last-child th, tbody tr:last-child td { border-bottom: 0; }
+  td, th { font-variant-numeric: tabular-nums; }
+  .fuente { font-size: 0.85rem; color: var(--tenue); }
+  figure { margin: 24px 0; }
+  figure img { width: 100%; height: auto; border-radius: 10px; border: 1px solid var(--borde); display: block; }
+  figcaption { font-size: 0.85rem; color: var(--tenue); margin-top: 8px; }
+  .ejemplo { border: 1px solid var(--borde); border-radius: 10px; padding: 16px 20px; margin: 16px 0; background: var(--superficie); }
+  .ejemplo p:last-child, .ejemplo ul:last-child { margin-bottom: 0; }
+  .faq h3 { margin-top: 24px; }
+  .siguiente-paso { background: var(--acento-suave); border-radius: 10px; padding: 18px 20px; margin-top: 36px; }
+  .siguiente-paso h2 { margin-top: 0; font-size: 1.3rem; }
+  .siguiente-paso ul { margin-bottom: 0; }
+  .descargo { font-size: 0.9rem; color: var(--tenue); border-top: 1px solid var(--borde); padding-top: 16px; margin-top: 36px; }
