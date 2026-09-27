@@ -1,6 +1,6 @@
 # Plan de publicación · Categoría 1 «Jubilación»
 
-Estado a 27 de septiembre de 2026: **los 21 artículos del apartado 1 del informe están publicados** en jubilometro.com; la calculadora de edad de jubilación (herramienta n.º 94) es la que ya tenía publicada la web. **Pendiente: abrir la web a Google** (punto 5, paso 1).
+Estado a 27 de septiembre de 2026: **los 21 artículos del apartado 1 del informe están publicados** en jubilometro.com; la calculadora de edad de jubilación (herramienta n.º 94) es la que ya tenía publicada la web. La web está abierta a Google desde el 27/09/2026; queda darla de alta en Search Console (punto 5).
 
 La web jubilometro.com ya está montada en Hostinger (tema «Jubilómetro» sobre Kadence, plugin «Jubilómetro · Núcleo», Rank Math, secciones, 10 calculadoras y páginas legales). Los 21 artículos se suben a ella con `npm run subir` (punto 4): el 27/09/2026 se subieron, se revisaron y se publicaron (identificadores en `publicacion/wordpress-entradas.json`). La calculadora de edad de jubilación ya estaba publicada en la web y da los mismos resultados que la del proyecto, así que no se duplica.
 
@@ -86,7 +86,7 @@ Los archivos `wordpress-borradores.xml` y `wordpress-paginas.xml` quedan para un
 
 ## 5. Día del lanzamiento (27/09/2026)
 
-1. [ ] **Abrir la web a Google**: WordPress > Ajustes > Lectura > Visibilidad en los motores de búsqueda: **desmarcar** «Disuadir a los motores de búsqueda de indexar este sitio» y guardar. Mientras esté marcado, Rank Math pone `noindex, nofollow` en todas las páginas y no escribe la URL canónica. Después, `npm run comprobar-web` debe dar «Todo correcto».
+1. [x] **Abrir la web a Google** (hecho el 27/09/2026 y caché de LiteSpeed purgada; `npm run comprobar-web` sin fallos): WordPress > Ajustes > Lectura > Visibilidad en los motores de búsqueda: **desmarcar** «Disuadir a los motores de búsqueda de indexar este sitio» y guardar. Mientras esté marcado, Rank Math pone `noindex, nofollow` en todas las páginas y no escribe la URL canónica. Después, `npm run comprobar-web` debe dar «Todo correcto».
 2. [x] **Publicadas las 21 entradas** con `npm run subir -- --publicar`.
 3. [x] **Portada y secciones**: los 3 enlaces de la portada apuntan a las URL nuevas; la página «Jubilación» dice «22 guías» y «22 artículos», como la portada, que las cuenta sola (21 publicadas y la plantilla «Requisitos para jubilarse», que sale como «Próximamente»); en «Guías» se quitó «62 guías escritas», que no era cierto.
 4. [x] **Comprobado en vivo** (`npm run comprobar-web` y navegador en móvil y ordenador): las 21 páginas responden 200, con el title, la description y el H1 del artículo, JSON-LD válido, todo el texto del artículo, índice, sin desbordes ni errores, y los 55 enlaces internos, fotos y archivos responden 200. La calculadora de «¿compensa?» funciona en la página publicada.
