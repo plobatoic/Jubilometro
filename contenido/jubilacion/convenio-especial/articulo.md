@@ -90,7 +90,7 @@ En los despidos colectivos (ERE) de empresas que afectan a trabajadores de **55 
 
 1. **Solicítalo en la Tesorería General de la Seguridad Social**, por internet en Import@ss o en una oficina, dentro del año siguiente a tu baja.
 2. **Elige la base de cotización.**
-3. **Domicilia la cuota**: se paga cada mes. Si dejas de pagar tres cuotas, el convenio se extingue.
+3. **Domicilia la cuota**: se paga cada mes. Si dejas de pagar tres cuotas seguidas o cinco alternas, el convenio se extingue.
 
 La Seguridad Social tiene una [guía oficial de convenios especiales](https://portal.seg-social.gob.es/wps/portal/importass/importass/Colectivos/convenios+especiales/guia).
 

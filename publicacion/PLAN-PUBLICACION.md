@@ -17,7 +17,7 @@ Por eso la recomendación es:
 - [ ] **Revisor real** en cada artículo: nombre, profesión (graduado social, abogado laboralista o asesor) y n.º de colegiado. Sustituir `[REVISOR, …]` en la línea de firma y `revisor:` en la cabecera. Es un tema YMYL: sin revisor identificable no se publica.
 - [ ] **Autor real**: sustituir `[AUTOR]` y `autor:`.
 - [ ] **Correo de contacto**: sustituir `[EMAIL DE CONTACTO]` en el descargo final.
-- [ ] **Datos «Cotejar en BOE»**: cada artículo tiene su `verificacion-fuentes.md`. Hay 39 filas marcadas así en total porque la red de redacción bloqueaba boe.es y seg-social.es: están confirmadas en fuentes secundarias, pero el revisor debe leerlas en el texto consolidado. Si alguna no cuadra, se corrige el `articulo.md` y se regenera.
+- [x] **Datos «Cotejar en BOE»**: hecho el 27/09/2026. Las 39 filas se leyeron en el texto consolidado del BOE y están como «Verificado en BOE» en cada `verificacion-fuentes.md`. Se corrigieron 4 puntos en los artículos (anticipada involuntaria, convenio especial y jubilación flexible) y 3 referencias legales en las fichas de verificación.
 - [ ] **Páginas de confianza** del sitio (E-E-A-T), enlazadas desde el pie: Quiénes somos (con el autor y el revisor), Política editorial y de revisión, Contacto, Aviso legal y Política de privacidad.
 - [ ] Al terminar las correcciones: `npm run publicar` y `npm run comprobar` (todo en «OK»), y usar el `wordpress-borradores.xml` regenerado.
 

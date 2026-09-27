@@ -9,4 +9,4 @@
 | 5 | PNC 2026: 8.803,20 €/año (628,80 €/mes) | RDL de revalorización 2026 | 65ymas; IMSERSO (guía PNC 2026); Encájame | Verificado |
 | 6 | Pensiones mínimas 2026: 1.256,60 / 936,20 / 888,70 €/mes | RDL de revalorización 2026 | La Moncloa; CaixaBank | Verificado |
 | 7 | Ejemplos: 1.100 × 50 % = 550 €; complemento 386,20 €; 20 años → 61,40 % → 675,40 € | — | Cálculo propio | Cálculo propio |
-| 8 | Reglas específicas del tope con cónyuge a cargo | Art. 59 LGSS | No detallado en el artículo | Cotejar en BOE |
+| 8 | Reglas específicas del tope con cónyuge a cargo | Art. 59 LGSS | No detallado en el artículo | Verificado en BOE (27/09/2026) |

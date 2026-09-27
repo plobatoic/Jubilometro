@@ -50,11 +50,11 @@ La ley enumera las causas de extinción del contrato que permiten esta jubilaci�
 - **Extinción por resolución judicial** en un concurso de acreedores.
 - **Muerte, jubilación o incapacidad del empresario** individual, o extinción de la empresa.
 - **Fuerza mayor** constatada por la autoridad laboral.
-- **Decisión del trabajador en casos tasados**: traslado con cambio de residencia, modificación sustancial de condiciones que le perjudica, víctimas de violencia de género y extinción por incumplimiento grave del empresario (artículos 40, 41.3, 49.1.m y 50 del Estatuto de los Trabajadores). Este último grupo se añadió con la reforma de 2021.
+- **Decisión del trabajador en casos tasados**: traslado con cambio de residencia, modificación sustancial de condiciones que le perjudica, víctimas de violencia de género y extinción por incumplimiento grave del empresario (artículos 40.1, 41.3, 49.1.m y 50 del Estatuto de los Trabajadores). Este último grupo se añadió con la reforma de 2021.
 
 **No dan derecho**: la baja voluntaria sin causa, el despido disciplinario ni el fin de un contrato temporal. En esos casos solo queda la [jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/), con requisitos más duros.
 
-> **Guarda la prueba de la indemnización.** En los despidos colectivos y objetivos por causas económicas, técnicas, organizativas o de producción, tienes que acreditar que cobraste la indemnización (por ejemplo, con el justificante de la transferencia) o que la has reclamado judicialmente.
+> **Guarda la prueba de la indemnización.** En los despidos colectivos y objetivos, y cuando eres tú quien extingue el contrato por traslado, modificación sustancial de condiciones o incumplimiento grave del empresario, tienes que acreditar que cobraste la indemnización (por ejemplo, con el justificante de la transferencia) o que la has reclamado judicialmente.
 
 ## Edad mínima en 2027
 

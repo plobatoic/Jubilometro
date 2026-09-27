@@ -5,7 +5,7 @@ Este artículo reúne datos ya verificados en los artículos de [jubilación fle
 | # | Dato | Estado |
 |---|---|---|
 | 1 | Parcial: hasta 3 años antes; 33 años; 6 años en la empresa; relevo indefinido a jornada completa; reducción del 25 % al 75 % | Ver artículo de parcial (puntos 1-4) |
-| 2 | La jubilación parcial es para trabajadores por cuenta ajena, no para autónomos | Cotejar en BOE |
+| 2 | La jubilación parcial es para trabajadores por cuenta ajena, no para autónomos | Verificado en BOE (27/09/2026) |
 | 3 | Activa: 1 año de demora; 45-100 %; +5 puntos cada 12 meses | Verificado (La Moncloa) |
 | 4 | Flexible: 33-80 %; +15 % / +25 % con 6 meses de espera; autónomos 25 % sin alta en RETA en los 3 años previos | Verificado; base del incremento pendiente de cotejo |
 | 5 | Pago único o mixta de la demorada → no se puede acceder a la flexible | Verificado |

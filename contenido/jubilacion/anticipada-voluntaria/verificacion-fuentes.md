@@ -1,6 +1,6 @@
 # Verificación de datos · Jubilación anticipada voluntaria
 
-Mismo método que el artículo 1: el entorno de redacción no tenía acceso directo a boe.es ni a seg-social.es; los datos se contrastaron en varias fuentes. **Cotejar en BOE** = pendiente de lectura en el texto consolidado de la LGSS por el revisor.
+**Cotejo en el BOE (27/09/2026):** las filas que estaban como «Cotejar en BOE» se han leído en el texto consolidado de las normas (LGSS, Estatuto de los Trabajadores, Ley del IRPF, LRJS, RD 416/2026, RD 1851/2009, RD 1559/1986, RD 2621/1986 y Orden TAS/2865/2003) a través de la API de datos abiertos del BOE y figuran como «Verificado en BOE». seg-social.es siguió sin ser accesible.
 
 | # | Dato | Fuente primaria | Comprobación | Estado |
 |---|---|---|---|---|
@@ -9,11 +9,11 @@ Mismo método que el artículo 1: el entorno de redacción no tenía acceso dire
 | 3 | Mili, prestación social sustitutoria o servicio social femenino: máximo 1 año para los 35 años | Art. 208.1.b) LGSS | BBVA Mi Jubilación; togas.biz | Verificado |
 | 4 | Pensión mínima 2026 a los 65: 17.592,40 €/año con cónyuge a cargo; 13.106,80 €/año unipersonal (1.256,60 y 936,20 €/mes en 14 pagas) | RDL de revalorización de 3/02/2026 | La Moncloa, «Pensiones 2026: subida y revalorización» (10/02/2026); CaixaBank, 65ymas | Verificado |
 | 5 | Edad mínima en 2027: 65 (menos de 38a 6m) o 63 (38a 6m o más) | Art. 208 + DT 7.ª LGSS | Edad ordinaria menos 2 años | Verificado |
-| 6 | Recorte mensual por tramos; 1 mes: 3,26 / 3,11 / 2,96 / 2,81 %; 24 meses: 21 / 19 / 17 / 13 % | Art. 208.2 LGSS (Ley 21/2021) | La Moncloa (rango 2,81-21 %); Instituto Santalucía (3,26-21 % primer tramo); Andalucía Informa (3,11-19 % segundo tramo); calculadora-jubilacion.com (2,96-17 % tercer tramo; 13 % con 44a 6m) | Cotejar en BOE |
-| 7 | Los coeficientes se aplican por mes o fracción de mes y sobre la cuantía de la pensión | Art. 208.2 LGSS | calculadora-jubilacion.com; Jubilistos | Cotejar en BOE |
-| 8 | Si la pensión supera la máxima, reglas graduales de la DT 34.ª | DT 34.ª LGSS | Iberley (título de la DT 34.ª) | Cotejar en BOE |
+| 6 | Recorte mensual por tramos; 1 mes: 3,26 / 3,11 / 2,96 / 2,81 %; 24 meses: 21 / 19 / 17 / 13 % | Art. 208.2 LGSS (Ley 21/2021) | La Moncloa (rango 2,81-21 %); Instituto Santalucía (3,26-21 % primer tramo); Andalucía Informa (3,11-19 % segundo tramo); calculadora-jubilacion.com (2,96-17 % tercer tramo; 13 % con 44a 6m) | Verificado en BOE (27/09/2026) |
+| 7 | Los coeficientes se aplican por mes o fracción de mes y sobre la cuantía de la pensión | Art. 208.2 LGSS | calculadora-jubilacion.com; Jubilistos | Verificado en BOE (27/09/2026) |
+| 8 | Si la pensión supera la máxima, reglas graduales de la DT 34.ª | DT 34.ª LGSS | Iberley (título de la DT 34.ª) | Verificado en BOE (27/09/2026) |
 | 9 | Ejemplos: 2.000 × 0,81 = 1.620 €; 380 × 14 = 5.320 €; 2.200 × 0,87 = 1.914 €; 1.500 × 0,79 = 1.185 € (16.590 €/año) | — | Cálculo propio | Cálculo propio |
-| 10 | Reclamación previa: 30 días desde la notificación | Art. 71 Ley reguladora de la jurisdicción social | Conocimiento general | Cotejar en BOE |
+| 10 | Reclamación previa: 30 días desde la notificación | Art. 71 Ley reguladora de la jurisdicción social | Conocimiento general | Verificado en BOE (27/09/2026) |
 | 11 | Proposición de ley de 40 años sin recortes, tomada en consideración el 22/09/2026 (178/33/136) | Congreso | Infobae (EFE), elDiario.es | Verificado |
 | 12 | Anticipada involuntaria: hasta 4 años antes, 33 años, recorte máximo del 30 % | Art. 207 LGSS | Raisin, BBVA, Campmany | Verificado |
 

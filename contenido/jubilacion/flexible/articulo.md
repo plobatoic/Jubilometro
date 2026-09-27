@@ -84,7 +84,7 @@ Si vuelves a trabajar como autónomo, cobras el **25 % de tu pensión** mientras
 - **Asalariados que se jubilaron recientemente**: si esperan 6 meses a volver, el incremento del 15 % o 25 % mejora mucho la cuenta.
 - **Jubilados que quieren emprender un pequeño negocio** y no han sido autónomos en los 3 años anteriores a su jubilación.
 
-No les interesa, o no pueden acogerse, a quienes eligieron el pago único o la opción mixta de la jubilación demorada, ni a colectivos con régimen propio como los funcionarios de Clases Pasivas.
+No les interesa, o no pueden acogerse, a quienes eligieron el pago único o la opción mixta de la jubilación demorada, ni a los funcionarios de Clases Pasivas. El Real Decreto tampoco se aplica a los regímenes especiales de funcionarios civiles del Estado, Fuerzas Armadas y Administración de Justicia.
 
 ## Cómo solicitarla
 

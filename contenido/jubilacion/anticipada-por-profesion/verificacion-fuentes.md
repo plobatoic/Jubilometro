@@ -9,6 +9,6 @@
 | 5 | Bomberos de administraciones públicas: 0,20 | RD 383/2008 | MAPFRE; Jubilistos | Verificado (norma: cotejar número) |
 | 6 | Ertzaintza y otras policías autonómicas: 0,20 | Normas propias | Jubilistos (Ertzaintza) | Cotejar |
 | 7 | Minería del carbón: 0,05 a 0,50 | RD 2366/1984 | Resultado de búsqueda | Verificado (norma: cotejar número) |
-| 8 | Mar, vuelo, ferroviarios, artistas y taurinos con normas propias (RD 1559/1986, RD 2621/1986) | Normas citadas | Conocimiento general; Jubilistos; SCA | Cotejar en BOE |
+| 8 | Mar, vuelo, ferroviarios, artistas y taurinos con normas propias (RD 1559/1986, RD 2621/1986) | Normas citadas | Conocimiento general; Jubilistos; SCA | Verificado en BOE (27/09/2026) |
 | 9 | RD 402/2025, de 27 de mayo: procedimiento para nuevos coeficientes, con comisión de evaluación | RD 402/2025 | BOE (ficha); Ministerio de Inclusión; laboral-social | Verificado |
 | 10 | Ejemplo: 25 × 0,20 = 5 → de 67 a 62 | — | Cálculo propio | Cálculo propio |
