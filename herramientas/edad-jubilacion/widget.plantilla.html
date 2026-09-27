@@ -1,0 +1,133 @@
+<div class="calc-jubi" id="calc-jubi">
+  <style>
+    .calc-jubi { --cj-fondo: #f2f6fb; --cj-borde: #c9d6e6; --cj-tinta: #14213d; --cj-tinta-2: #3d4a63; --cj-acento: #1f5fa8; --cj-acento-tinta: #ffffff; --cj-aviso: #8a4b00; --cj-aviso-fondo: #fff4e0; --cj-ok: #1d6b45;
+      background: var(--cj-fondo); border: 1px solid var(--cj-borde); border-radius: 12px; padding: 20px; margin: 28px 0; color: var(--cj-tinta); font-size: 1rem; }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) .calc-jubi { --cj-fondo: #16202e; --cj-borde: #2d3d54; --cj-tinta: #eef2f7; --cj-tinta-2: #b9c4d3; --cj-acento: #5b9be0; --cj-acento-tinta: #0b1422; --cj-aviso: #ffcf8a; --cj-aviso-fondo: #2e2413; --cj-ok: #6fd3a0; }
+    }
+    :root[data-theme="dark"] .calc-jubi { --cj-fondo: #16202e; --cj-borde: #2d3d54; --cj-tinta: #eef2f7; --cj-tinta-2: #b9c4d3; --cj-acento: #5b9be0; --cj-acento-tinta: #0b1422; --cj-aviso: #ffcf8a; --cj-aviso-fondo: #2e2413; --cj-ok: #6fd3a0; }
+    .calc-jubi .cj-titulo { font-size: 1.3rem; margin: 0 0 6px; line-height: 1.3; }
+    .calc-jubi p { margin: 0 0 12px; }
+    .calc-jubi fieldset { border: 0; padding: 0; margin: 0 0 16px; min-width: 0; }
+    .calc-jubi legend { font-weight: 700; margin-bottom: 8px; padding: 0; }
+    .calc-jubi .cj-fila { display: flex; flex-wrap: wrap; gap: 12px; }
+    .calc-jubi label { display: flex; flex-direction: column; gap: 4px; font-size: 0.95rem; color: var(--cj-tinta-2); }
+    .calc-jubi input, .calc-jubi select { font: inherit; font-size: 1.05rem; color: var(--cj-tinta); background: transparent; border: 1px solid var(--cj-borde); border-radius: 8px; padding: 10px 12px; min-height: 48px; box-sizing: border-box; }
+    .calc-jubi input[type="number"] { width: 6.5em; }
+    .calc-jubi .cj-radios { display: flex; gap: 20px; flex-wrap: wrap; }
+    .calc-jubi .cj-radios label { flex-direction: row; align-items: center; gap: 8px; color: var(--cj-tinta); font-size: 1rem; min-height: 48px; }
+    .calc-jubi .cj-radios input { width: 22px; height: 22px; min-height: 0; }
+    .calc-jubi .cj-ayuda { font-size: 0.9rem; color: var(--cj-tinta-2); margin: 6px 0 0; }
+    .calc-jubi button { font: inherit; font-weight: 700; font-size: 1.05rem; background: var(--cj-acento); color: var(--cj-acento-tinta); border: 0; border-radius: 8px; padding: 12px 24px; min-height: 48px; cursor: pointer; }
+    .calc-jubi button:focus-visible, .calc-jubi input:focus-visible, .calc-jubi select:focus-visible { outline: 3px solid var(--cj-acento); outline-offset: 2px; }
+    .calc-jubi .cj-resultado { margin-top: 18px; }
+    .calc-jubi .cj-resultado:empty { display: none; }
+    .calc-jubi .cj-fecha { font-size: 1.35rem; font-weight: 700; color: var(--cj-ok); margin-bottom: 8px; }
+    .calc-jubi .cj-error { color: var(--cj-aviso); font-weight: 700; }
+    .calc-jubi .cj-alerta { background: var(--cj-aviso-fondo); color: var(--cj-aviso); border-radius: 8px; padding: 10px 12px; margin: 10px 0 0; }
+    .calc-jubi .cj-nota { font-size: 0.85rem; color: var(--cj-tinta-2); margin: 14px 0 0; }
+  </style>
+  <h3 class="cj-titulo">Calcula tu edad de jubilación ordinaria</h3>
+  <p>Introduce tu fecha de nacimiento y lo que llevas cotizado hoy. El cálculo se hace en tu navegador: no guardamos ni enviamos tus datos.</p>
+  <form class="cj-form" novalidate>
+    <fieldset>
+      <legend>Fecha de nacimiento</legend>
+      <div class="cj-fila">
+        <label>Día <input name="dia" type="number" inputmode="numeric" min="1" max="31" required></label>
+        <label>Mes
+          <select name="mes" required>
+            <option value="">Elige</option>
+            <option value="1">enero</option><option value="2">febrero</option><option value="3">marzo</option>
+            <option value="4">abril</option><option value="5">mayo</option><option value="6">junio</option>
+            <option value="7">julio</option><option value="8">agosto</option><option value="9">septiembre</option>
+            <option value="10">octubre</option><option value="11">noviembre</option><option value="12">diciembre</option>
+          </select>
+        </label>
+        <label>Año <input name="ano" type="number" inputmode="numeric" min="1940" max="2010" required></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Tiempo cotizado hasta hoy</legend>
+      <div class="cj-fila">
+        <label>Años <input name="anosCot" type="number" inputmode="numeric" min="0" max="60" required></label>
+        <label>Meses <input name="mesesCot" type="number" inputmode="numeric" min="0" max="11" value="0"></label>
+      </div>
+      <p class="cj-ayuda">Míralo en tu informe de vida laboral. Cuenta solo años y meses completos, sin pagas extra.</p>
+    </fieldset>
+    <fieldset>
+      <legend>¿Vas a seguir cotizando hasta jubilarte?</legend>
+      <div class="cj-radios">
+        <label><input type="radio" name="sigue" value="si" checked> Sí</label>
+        <label><input type="radio" name="sigue" value="no"> No</label>
+      </div>
+    </fieldset>
+    <button type="submit">Calcular</button>
+  </form>
+  <div class="cj-resultado" aria-live="polite"></div>
+  <p class="cj-nota">Estimación orientativa de la jubilación ordinaria según la disposición transitoria 7.ª de la Ley General de la Seguridad Social. No incluye la jubilación anticipada, las edades reducidas por discapacidad o profesión, la cláusula de salvaguarda ni el requisito de 2 años cotizados en los últimos 15. La fecha oficial la reconoce el INSS.</p>
+  <script>
+  (function () {
+    /*LOGICA*/
+    var MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+    var raiz = document.currentScript.closest('.calc-jubi');
+    var form = raiz.querySelector('.cj-form');
+    var salida = raiz.querySelector('.cj-resultado');
+
+    function fechaTexto(f) { return f.dia + ' de ' + MESES[f.mes - 1] + ' de ' + f.ano; }
+    function numero(nombre) {
+      var v = form.elements[nombre].value.trim();
+      return v === '' ? NaN : Number(v);
+    }
+    function parrafo(texto, clase) {
+      var p = document.createElement('p');
+      if (clase) p.className = clase;
+      p.textContent = texto;
+      return p;
+    }
+
+    form.addEventListener('submit', function (evento) {
+      evento.preventDefault();
+      salida.replaceChildren();
+      var dia = numero('dia'), mes = numero('mes'), ano = numero('ano');
+      var anosCot = numero('anosCot'), mesesCot = numero('mesesCot');
+      if (isNaN(mesesCot)) mesesCot = 0;
+      var hoy = new Date();
+      var referencia = { ano: hoy.getFullYear(), mes: hoy.getMonth() + 1, dia: hoy.getDate() };
+      if (!Number.isInteger(dia) || !Number.isInteger(mes) || !Number.isInteger(ano) || mes < 1 || mes > 12 || ano < 1940 || ano > 2010 ||
+          dia < 1 || dia > new Date(Date.UTC(ano, mes, 0)).getUTCDate()) {
+        salida.append(parrafo('Revisa la fecha de nacimiento.', 'cj-error'));
+        return;
+      }
+      var nacimiento = { ano: ano, mes: mes, dia: dia };
+      var edadHoy = mesesCompletos(nacimiento, referencia);
+      if (!Number.isInteger(anosCot) || !Number.isInteger(mesesCot) || anosCot < 0 || mesesCot < 0 || mesesCot > 11 || anosCot * 12 + mesesCot > edadHoy) {
+        salida.append(parrafo('Revisa el tiempo cotizado: años enteros y de 0 a 11 meses.', 'cj-error'));
+        return;
+      }
+      var sigue = form.elements.sigue.value === 'si';
+      var r = jubilacionOrdinaria({ nacimiento: nacimiento, cotizadoMeses: anosCot * 12 + mesesCot, referencia: referencia, sigueCotizando: sigue });
+
+      salida.append(parrafo(r.yaCumple
+        ? 'Ya cumples la edad y la cotización de la jubilación ordinaria.'
+        : 'Tu jubilación ordinaria: ' + fechaTexto(r.fecha) + ', con ' + formatearEdad(r.edadMeses) + '.', 'cj-fecha'));
+
+      var regla = r.regla;
+      var explicacion = r.via === 'carrera-larga'
+        ? 'Llegas con ' + formatearEdad(r.cotizadoMeses) + ' cotizados, y en ' + regla.ano + ' bastan ' + formatearEdad(regla.umbral) + ' para jubilarte a partir de los 65.'
+        : 'En ' + regla.ano + ' se exigen ' + formatearEdad(regla.edadCarreraCorta) + (regla.umbral !== null ? ' a quien no llega a ' + formatearEdad(regla.umbral) + ' cotizados' : '') + '. Llegarías con ' + formatearEdad(r.cotizadoMeses) + ' cotizados.';
+      salida.append(parrafo(explicacion));
+
+      if (!r.alcanzaPeriodoMinimo) {
+        salida.append(parrafo('Atención: con menos de 15 años cotizados no tendrías derecho a la pensión contributiva de jubilación.', 'cj-alerta'));
+      }
+      var diciembre = { ano: r.fecha.ano, mes: 12, dia: 31 };
+      if (r.via === 'carrera-larga' && r.fecha.ano < 2027) {
+        var cotEnero = r.cotizadoMeses + (sigue ? mesesCompletos(r.fecha, diciembre) : 0);
+        if (cotEnero < reglaDelAno(r.fecha.ano + 1).umbral) {
+          salida.append(parrafo('Ojo: si retrasas la jubilación a ' + (r.fecha.ano + 1) + ', necesitarás ' + formatearEdad(reglaDelAno(r.fecha.ano + 1).umbral) + ' cotizados para jubilarte antes de los 67.', 'cj-alerta'));
+        }
+      }
+    });
+  })();
+  </script>
+</div>

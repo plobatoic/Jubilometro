@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675" role="img" aria-labelledby="t d">
+<title id="t">Edad de jubilación en España, 2013-2027</title>
+<desc id="d">Dos gráficos de escalones. Izquierda: la edad exigida a quien no tiene la cotización larga sube de 65 años y 1 mes en 2013 a 67 años en 2027. Derecha: la cotización necesaria para jubilarse a los 65 pasa de 35 años y 3 meses en 2013 a 38 años y 6 meses en 2027.</desc>
+<rect width="1200" height="675" fill="#fcfcfb"/>
+<text x="48" y="66" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="38" font-weight="700" fill="#0b0b0b" text-anchor="start">Edad de jubilación en España, 2013-2027</text>
+<text x="48" y="102" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="21" font-weight="400" fill="#52514e" text-anchor="start">La subida gradual termina en 2027: 67 años, o 65 si has cotizado 38 años y 6 meses</text>
+<text x="48" y="168" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="start">Edad exigida sin cotización larga</text>
+<line x1="112" x2="572" y1="556" y2="556" stroke="#e1e0d9" stroke-width="1"/>
+<text x="102" y="561" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">65 años</text>
+<line x1="112" x2="572" y1="475.55555555555554" y2="475.55555555555554" stroke="#e1e0d9" stroke-width="1"/>
+<text x="102" y="480.55555555555554" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">65,5 años</text>
+<line x1="112" x2="572" y1="395.1111111111111" y2="395.1111111111111" stroke="#e1e0d9" stroke-width="1"/>
+<text x="102" y="400.1111111111111" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">66 años</text>
+<line x1="112" x2="572" y1="314.6666666666667" y2="314.6666666666667" stroke="#e1e0d9" stroke-width="1"/>
+<text x="102" y="319.6666666666667" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">66,5 años</text>
+<line x1="112" x2="572" y1="234.22222222222223" y2="234.22222222222223" stroke="#e1e0d9" stroke-width="1"/>
+<text x="102" y="239.22222222222223" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">67 años</text>
+<line x1="112" x2="572" y1="556" y2="556" stroke="#c3c2b7" stroke-width="1"/>
+<text x="127.33333333333333" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2013</text>
+<text x="250" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2017</text>
+<text x="372.6666666666667" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2021</text>
+<text x="495.33333333333337" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2025</text>
+<text x="556.6666666666666" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2027</text>
+<path d="M 112 556 V 542.5925925925934 H 142.66666666666666 V 529.1851851851844 H 173.33333333333334 V 515.7777777777778 H 204 V 502.3703703703711 H 234.66666666666669 V 488.9629629629622 H 265.3333333333333 V 475.55555555555554 H 296 V 448.74074074073997 H 326.66666666666663 V 421.92592592592666 H 357.33333333333337 V 395.1111111111111 H 388 V 368.2962962962955 H 418.66666666666663 V 341.48148148148226 H 449.3333333333333 V 314.6666666666667 H 480 V 287.8518518518511 H 510.6666666666667 V 261.0370370370378 H 541.3333333333333 V 234.22222222222223 H 572 V 556 Z" fill="rgba(42,120,214,0.10)" stroke="none"/>
+<path d="M 112 542.5925925925934 H 142.66666666666666 V 529.1851851851844 H 173.33333333333334 V 515.7777777777778 H 204 V 502.3703703703711 H 234.66666666666669 V 488.9629629629622 H 265.3333333333333 V 475.55555555555554 H 296 V 448.74074074073997 H 326.66666666666663 V 421.92592592592666 H 357.33333333333337 V 395.1111111111111 H 388 V 368.2962962962955 H 418.66666666666663 V 341.48148148148226 H 449.3333333333333 V 314.6666666666667 H 480 V 287.8518518518511 H 510.6666666666667 V 261.0370370370378 H 541.3333333333333 V 234.22222222222223 H 572" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="556.6666666666666" cy="234.22222222222223" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="556.6666666666666" y="218.22222222222223" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="end">67 años</text>
+<circle cx="112" cy="542.5925925925934" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="624" y="168" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="20" font-weight="700" fill="#0b0b0b" text-anchor="start">Cotización para jubilarte a los 65</text>
+<line x1="688" x2="1148" y1="556" y2="556" stroke="#e1e0d9" stroke-width="1"/>
+<text x="678" y="561" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">35 años</text>
+<line x1="688" x2="1148" y1="470.8235294117647" y2="470.8235294117647" stroke="#e1e0d9" stroke-width="1"/>
+<text x="678" y="475.8235294117647" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">36 años</text>
+<line x1="688" x2="1148" y1="385.6470588235294" y2="385.6470588235294" stroke="#e1e0d9" stroke-width="1"/>
+<text x="678" y="390.6470588235294" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">37 años</text>
+<line x1="688" x2="1148" y1="300.4705882352941" y2="300.4705882352941" stroke="#e1e0d9" stroke-width="1"/>
+<text x="678" y="305.4705882352941" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">38 años</text>
+<line x1="688" x2="1148" y1="215.29411764705884" y2="215.29411764705884" stroke="#e1e0d9" stroke-width="1"/>
+<text x="678" y="220.29411764705884" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="end">39 años</text>
+<line x1="688" x2="1148" y1="556" y2="556" stroke="#c3c2b7" stroke-width="1"/>
+<text x="703.3333333333333" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2013</text>
+<text x="826" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2017</text>
+<text x="948.6666666666667" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2021</text>
+<text x="1071.3333333333335" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2025</text>
+<text x="1132.6666666666665" y="578" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="15" font-weight="400" fill="#6f6d68" text-anchor="middle">2027</text>
+<path d="M 688 556 V 534.7058823529412 H 718.6666666666666 V 513.4117647058823 H 749.3333333333334 V 492.11764705882354 H 780 V 470.8235294117647 H 810.6666666666666 V 449.52941176470586 H 841.3333333333333 V 428.2352941176471 H 872 V 406.94117647058823 H 902.6666666666666 V 385.6470588235294 H 933.3333333333334 V 364.3529411764706 H 964 V 343.05882352941177 H 994.6666666666666 V 321.7647058823529 H 1025.3333333333333 V 300.4705882352941 H 1056 V 279.1764705882353 H 1086.6666666666667 V 279.1764705882353 H 1117.3333333333333 V 257.88235294117646 H 1148 V 556 Z" fill="rgba(42,120,214,0.10)" stroke="none"/>
+<path d="M 688 534.7058823529412 H 718.6666666666666 V 513.4117647058823 H 749.3333333333334 V 492.11764705882354 H 780 V 470.8235294117647 H 810.6666666666666 V 449.52941176470586 H 841.3333333333333 V 428.2352941176471 H 872 V 406.94117647058823 H 902.6666666666666 V 385.6470588235294 H 933.3333333333334 V 364.3529411764706 H 964 V 343.05882352941177 H 994.6666666666666 V 321.7647058823529 H 1025.3333333333333 V 300.4705882352941 H 1056 V 279.1764705882353 H 1086.6666666666667 V 279.1764705882353 H 1117.3333333333333 V 257.88235294117646 H 1148" fill="none" stroke="#2a78d6" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1132.6666666666665" cy="257.88235294117646" r="6" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="1132.6666666666665" y="241.88235294117646" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="18" font-weight="700" fill="#0b0b0b" text-anchor="end">38 años y 6 meses</text>
+<circle cx="688" cy="534.7058823529412" r="5" fill="#2a78d6" stroke="#fcfcfb" stroke-width="2"/>
+<text x="48" y="640" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="16" font-weight="400" fill="#6f6d68" text-anchor="start">Cuenta el año en que te jubilas. Fuente: disposición transitoria 7.ª de la Ley General de la Seguridad Social.</text>
+<text x="1152" y="640" font-family="'Liberation Sans', 'DejaVu Sans', system-ui, sans-serif" font-size="18" font-weight="700" fill="#52514e" text-anchor="end">Jubilómetro</text>
+</svg>
