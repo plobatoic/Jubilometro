@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Me faltan años cotizados para jubilarme: opciones legales"
 h1: "Me faltan años cotizados para jubilarme: opciones legales para completarlos"
-meta_descripcion: "Si no llegas a 15 años cotizados, o a los 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas, días por parto y más."
+meta_descripcion: "Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto."
 url: /jubilacion/faltan-anos-cotizados/
 categoria: Jubilación
 miga: Me faltan años cotizados
