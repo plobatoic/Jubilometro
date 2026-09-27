@@ -118,7 +118,7 @@ Enlaces que deben apuntar hacia este artículo: portada (bloque de calculadora y
 ## 9. Lista de comprobación antes de publicar
 
 - [ ] Revisión del graduado social o abogado laboralista, con nombre y n.º de colegiado reales en la caja «Revisado por».
-- [x] Autor (Pau Lobato) en el texto y en el JSON-LD; sin revisor. - [ ] Sustituir `[EMAIL DE CONTACTO]`.
+- [x] Autor (Pau Lobato) en el texto y en el JSON-LD; sin revisor. Correo de contacto: plobatoic@gmail.com.
 - [ ] Confirmar el dominio definitivo (se ha usado `jubilometro.com` en canónica, OG y JSON-LD).
 - [ ] Ajustar `datePublished`/`article:published_time` al día real de publicación.
 - [ ] Quitar o activar los enlaces internos pendientes (sección 7).

@@ -16,7 +16,7 @@ Por eso la recomendación es:
 
 - [x] **Firma**: «Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE», sin línea de revisor. No se atribuye una revisión profesional que no existe; si más adelante se contrata a un graduado social o abogado laboralista, se añade su firma y `reviewedBy` en el JSON-LD.
 - [x] **Autor**: Pau Lobato (equipo editorial de Jubilómetro), en la firma, en `autor:` y en el JSON-LD.
-- [ ] **Correo de contacto**: sustituir `[EMAIL DE CONTACTO]` en el descargo final.
+- [x] **Correo de contacto**: plobatoic@gmail.com, con enlace mailto en el descargo final de los 22 artículos.
 - [x] **Datos «Cotejar en BOE»**: hecho el 27/09/2026. Las 39 filas se leyeron en el texto consolidado del BOE y están como «Verificado en BOE» en cada `verificacion-fuentes.md`. Se corrigieron 4 puntos en los artículos (anticipada involuntaria, convenio especial y jubilación flexible) y 3 referencias legales en las fichas de verificación.
 - [ ] **Páginas de confianza** del sitio (E-E-A-T), enlazadas desde el pie: Quiénes somos (con el autor), Política editorial (cómo se verifica cada dato en el BOE), Contacto, Aviso legal y Política de privacidad.
 - [ ] Al terminar las correcciones: `npm run publicar` y `npm run comprobar` (todo en «OK»), y usar el `wordpress-borradores.xml` regenerado.

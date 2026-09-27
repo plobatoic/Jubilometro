@@ -255,6 +255,6 @@ Con carácter general, no. Los convenios colectivos firmados desde 2022 solo pue
 
 ---
 
-*Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y su fecha. Si detectas un error, escríbenos a [EMAIL DE CONTACTO].*
+*Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y su fecha. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
 *Historial de cambios: 27 de septiembre de 2026, primera versión.*

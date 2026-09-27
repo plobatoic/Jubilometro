@@ -121,6 +121,6 @@ Depende de cuándo se resuelva. Una vez aprobada, la cobrarás cada mes en tu ba
 
 ---
 
-*Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [EMAIL DE CONTACTO].*
+*Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
 *Historial de cambios: 27 de septiembre de 2026, primera versión.*

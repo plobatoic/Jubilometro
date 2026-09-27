@@ -125,6 +125,6 @@ Mientras cobras el subsidio, el SEPE ya cotiza por ti para la jubilación. Consu
 
 ---
 
-*Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de la Tesorería General de la Seguridad Social o del INSS. Si detectas un error, escríbenos a [EMAIL DE CONTACTO].*
+*Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de la Tesorería General de la Seguridad Social o del INSS. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
 *Historial de cambios: 27 de septiembre de 2026, primera versión.*

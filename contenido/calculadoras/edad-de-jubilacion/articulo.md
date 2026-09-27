@@ -106,6 +106,6 @@ No. El cálculo se hace en tu propio navegador y los datos no salen de tu dispos
 
 ---
 
-*Esta calculadora es informativa y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [EMAIL DE CONTACTO].*
+*Esta calculadora es informativa y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
 *Historial de cambios: 27 de septiembre de 2026, primera versión.*
