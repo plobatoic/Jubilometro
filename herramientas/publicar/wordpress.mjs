@@ -71,3 +71,57 @@ ${items}
 }
 
 export { esc };
+
+// Páginas del sitio (paginas/<slug>/pagina.md): Quiénes somos, Política editorial, Contacto,
+// Aviso legal, Privacidad y Cookies. Se exportan como PÁGINAS de WordPress en borrador.
+export function exportarPaginas(paginas) {
+  const items = paginas.map((p, i) => {
+    const d = p.datos;
+    const fecha = `${d.fecha_actualizacion} 09:00:00`;
+    return `  <item>
+    <title>${cdata(d.h1)}</title>
+    <link>${DOMINIO}${d.url}</link>
+    <dc:creator>${cdata('admin')}</dc:creator>
+    <description></description>
+    <content:encoded>${cdata(p.html)}</content:encoded>
+    <excerpt:encoded>${cdata('')}</excerpt:encoded>
+    <wp:post_id>${9500 + i}</wp:post_id>
+    <wp:post_date>${cdata(fecha)}</wp:post_date>
+    <wp:post_date_gmt>${cdata(fecha)}</wp:post_date_gmt>
+    <wp:comment_status>${cdata('closed')}</wp:comment_status>
+    <wp:ping_status>${cdata('closed')}</wp:ping_status>
+    <wp:post_name>${cdata(d.url.split('/').filter(Boolean).pop())}</wp:post_name>
+    <wp:status>${cdata('draft')}</wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>${i}</wp:menu_order>
+    <wp:post_type>${cdata('page')}</wp:post_type>
+    <wp:post_password>${cdata('')}</wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+${meta('_yoast_wpseo_title', d.titulo_seo)}
+${meta('_yoast_wpseo_metadesc', d.meta_descripcion)}
+${meta('rank_math_title', d.titulo_seo)}
+${meta('rank_math_description', d.meta_descripcion)}
+  </item>`;
+  }).join('\n');
+
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<!-- Jubilómetro: páginas del sitio como borradores. Importar en Herramientas > Importar > WordPress. -->
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>Jubilómetro</title>
+  <link>${DOMINIO}</link>
+  <description>Jubilación y pensiones en España</description>
+  <language>es-ES</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>${DOMINIO}</wp:base_site_url>
+  <wp:base_blog_url>${DOMINIO}</wp:base_blog_url>
+${items}
+</channel>
+</rss>
+`;
+}

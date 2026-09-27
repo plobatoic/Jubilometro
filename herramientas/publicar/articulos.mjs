@@ -40,11 +40,15 @@ export function listarArticulos(dir = join(RAIZ, 'contenido')) {
 }
 
 export function leerArticulo(ruta) {
+  return leerMarkdown(ruta, CAMPOS_OBLIGATORIOS);
+}
+
+function leerMarkdown(ruta, obligatorios) {
   const texto = readFileSync(ruta, 'utf8');
   const m = texto.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
   if (!m) throw new Error(`${ruta}: falta el front matter`);
   const datos = yaml.load(m[1]);
-  for (const campo of CAMPOS_OBLIGATORIOS) {
+  for (const campo of obligatorios) {
     if (!datos[campo]) throw new Error(`${ruta}: falta el campo «${campo}»`);
   }
   if (!/^\/[a-z0-9-]+(\/[a-z0-9-]+)*\/$/.test(datos.url)) throw new Error(`${ruta}: URL no válida ${datos.url}`);
@@ -235,6 +239,21 @@ export function cuerpoWordPress(articulo, urlsExistentes = null) {
     .replace(/<header>\n<h1>[\s\S]*?<\/h1>\n/, '<header>\n')
     .replace(/<!-- CALCULADORA:INICIO -->\n([\s\S]*?)\n<!-- CALCULADORA:FIN -->/g, '<!-- wp:html -->\n$1\n<!-- /wp:html -->')
     .replace(/(src|href)="(?:imagenes|descargas)\/([^"/]+)"/g, '$1="/wp-content/uploads/$2"');
+}
+
+// Páginas del sitio: paginas/<slug>/pagina.md, en el orden en que deben ir en el pie.
+export const ORDEN_PAGINAS = ['sobre-nosotros', 'politica-editorial', 'contacto', 'aviso-legal',
+  'politica-de-privacidad', 'politica-de-cookies'];
+
+export function leerPaginas(dir = join(RAIZ, 'paginas')) {
+  return ORDEN_PAGINAS.map((nombre) => {
+    const a = leerMarkdown(join(dir, nombre, 'pagina.md'), ['titulo_seo', 'h1', 'meta_descripcion', 'url', 'fecha_actualizacion']);
+    // Sin H1 (lo pone el tema con el título) y con los enlaces externos como en los artículos.
+    const html = marked.parse(a.cuerpo, { gfm: true })
+      .replace(/^<h1>[\s\S]*?<\/h1>\n/, '')
+      .replace(/<a href="(https?:\/\/[^"]+)">/g, '<a href="$1" rel="noopener">');
+    return { ...a, html };
+  });
 }
 
 export function rutaRelativa(ruta) {

@@ -2,8 +2,8 @@
 // Uso: node --test herramientas/publicar/publicar.test.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { listarArticulos, leerArticulo, cuerpoHtml, cuerpoWordPress } from './articulos.mjs';
-import { exportarWordPress } from './wordpress.mjs';
+import { listarArticulos, leerArticulo, leerPaginas, cuerpoHtml, cuerpoWordPress } from './articulos.mjs';
+import { exportarWordPress, exportarPaginas } from './wordpress.mjs';
 
 const articulos = listarArticulos().map(leerArticulo);
 const urls = new Set(articulos.map((a) => a.datos.url));
@@ -45,4 +45,20 @@ test('el WXR tiene todas las entradas como borrador con sus metadatos SEO', () =
   assert.equal((wxr.match(/<wp:status><!\[CDATA\[draft\]\]><\/wp:status>/g) ?? []).length, articulos.length);
   assert.equal((wxr.match(/_yoast_wpseo_metadesc/g) ?? []).length, articulos.length);
   assert.equal((wxr.match(/rank_math_title/g) ?? []).length, articulos.length);
+});
+
+test('las páginas del sitio se exportan como páginas en borrador, sin H1 ni marcadores', () => {
+  const paginas = leerPaginas();
+  const wxr = exportarPaginas(paginas);
+  assert.equal((wxr.match(/<wp:post_type><!\[CDATA\[page\]\]><\/wp:post_type>/g) ?? []).length, paginas.length);
+  assert.equal((wxr.match(/<wp:status><!\[CDATA\[draft\]\]><\/wp:status>/g) ?? []).length, paginas.length);
+  for (const p of paginas) {
+    assert.doesNotMatch(p.html, /<h1/, p.datos.url);
+    assert.doesNotMatch(p.html, /\[[A-ZÁÉÍÓÚ ]{4,}\]|PENDIENTE/, p.datos.url);
+    assert.ok(p.datos.titulo_seo.length <= 62, p.datos.url);
+    assert.ok(p.datos.meta_descripcion.length >= 110 && p.datos.meta_descripcion.length <= 158, p.datos.url);
+    for (const [, u] of p.html.matchAll(/href="(\/[^"#]*)/g)) {
+      assert.ok(paginas.some((q) => q.datos.url === u), `${p.datos.url} -> ${u}`);
+    }
+  }
 });

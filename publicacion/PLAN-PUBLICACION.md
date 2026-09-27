@@ -18,7 +18,7 @@ Por eso la recomendación es:
 - [x] **Autor**: Pau Lobato (equipo editorial de Jubilómetro), en la firma, en `autor:` y en el JSON-LD.
 - [x] **Correo de contacto**: plobatoic@gmail.com, con enlace mailto en el descargo final de los 22 artículos.
 - [x] **Datos «Cotejar en BOE»**: hecho el 27/09/2026. Las 39 filas se leyeron en el texto consolidado del BOE y están como «Verificado en BOE» en cada `verificacion-fuentes.md`. Se corrigieron 4 puntos en los artículos (anticipada involuntaria, convenio especial y jubilación flexible) y 3 referencias legales en las fichas de verificación.
-- [ ] **Páginas de confianza** del sitio (E-E-A-T), enlazadas desde el pie: Quiénes somos (con el autor), Política editorial (cómo se verifica cada dato en el BOE), Contacto, Aviso legal y Política de privacidad.
+- [x] **Páginas de confianza** (E-E-A-T), escritas en `paginas/` y listas en `publicacion/wordpress-paginas.xml`: Quiénes somos, Política editorial, Contacto, Aviso legal, Política de privacidad y Política de cookies. Titular: Pau Lobato, Palafolls 08389 (Barcelona). Hay que enlazarlas desde el pie (punto 4). Si la web empieza a ganar dinero (publicidad, afiliación), el aviso legal debe incluir también el NIF (art. 10 LSSI); si se añaden Google Analytics o AdSense, hay que actualizar privacidad y cookies e instalar un aviso de consentimiento antes de activarlos.
 - [ ] Al terminar las correcciones: `npm run publicar` y `npm run comprobar` (todo en «OK»), y usar el `wordpress-borradores.xml` regenerado.
 
 ## 3. Inventario y orden de revisión
@@ -65,6 +65,7 @@ La meta description de cada página está en su `articulo.md` (campo `meta_descr
 
    Después puedes volver a activar la opción de carpetas si la usas.
 4. **Importar** (Herramientas > Importar > WordPress > Instalar ahora > Ejecutar el importador): subir `publicacion/wordpress-borradores.xml`, asignar las entradas a tu usuario y dejar sin marcar «Descargar e importar archivos adjuntos». Se crean las categorías «Jubilación» (`jubilacion`) y «Calculadoras» (`calculadoras`) y 22 entradas en **borrador**, con su título SEO, meta description y palabra clave en Yoast y en Rank Math.
+   Después, importa del mismo modo `publicacion/wordpress-paginas.xml`: crea las 6 páginas de confianza en borrador (Quiénes somos, Política editorial, Contacto, Aviso legal, Privacidad y Cookies). En Apariencia > Menús (o en el editor del sitio) añádelas al menú del pie, y en Ajustes > Privacidad elige «Política de privacidad» como página de privacidad.
 5. **Calculadoras**: las páginas 1, 2 y 8 llevan la calculadora en un bloque «HTML personalizado». Importa con una cuenta de **administrador**: WordPress quita los `<script>` a los demás roles. En WordPress.com hace falta un plan que permita HTML con scripts y plugins (Business/Creator o superior). Abre la vista previa y prueba la calculadora antes de publicar.
 6. **Imagen destacada** del artículo 1: el PNG subido en el paso 3.
 7. **Revisa en la vista previa** de cada borrador: la respuesta rápida, las tablas, los enlaces y la firma.

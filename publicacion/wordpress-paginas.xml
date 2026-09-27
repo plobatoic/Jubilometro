@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Jubilómetro: páginas del sitio como borradores. Importar en Herramientas > Importar > WordPress. -->
+<rss version="2.0"
+  xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:wp="http://wordpress.org/export/1.2/">
+<channel>
+  <title>Jubilómetro</title>
+  <link>https://jubilometro.com</link>
+  <description>Jubilación y pensiones en España</description>
+  <language>es-ES</language>
+  <wp:wxr_version>1.2</wp:wxr_version>
+  <wp:base_site_url>https://jubilometro.com</wp:base_site_url>
+  <wp:base_blog_url>https://jubilometro.com</wp:base_blog_url>
+  <item>
+    <title><![CDATA[Quiénes somos]]></title>
+    <link>https://jubilometro.com/sobre-nosotros/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<p>Jubilómetro es una web independiente sobre jubilación y pensiones en España. Explicamos con palabras sencillas y ejemplos con cifras cuándo te puedes jubilar, cuánto cobrarás y qué opciones tienes, para que llegues a la Seguridad Social sabiendo qué preguntar.</p>
+<h2>Quién hace Jubilómetro</h2>
+<p>Jubilómetro lo edita <strong>Pau Lobato</strong> desde Palafolls (Barcelona). Pau Lobato firma los artículos como equipo editorial de Jubilómetro y responde de su contenido.</p>
+<p>No somos graduados sociales ni abogados, y no lo aparentamos. Por eso ningún artículo dice «revisado por un profesional colegiado». Lo que sí hacemos es comprobar cada dato en la norma publicada en el Boletín Oficial del Estado (BOE) y citarla, para que puedas leerla tú también. Si algún día un profesional colegiado revisa nuestros artículos, su nombre y su número de colegiado aparecerán en cada uno.</p>
+<h2>Qué hacemos y qué no</h2>
+<ul>
+<li><strong>Explicamos la norma y la aplicamos a ejemplos.</strong> Las calculadoras siguen las reglas de la Ley General de la Seguridad Social.</li>
+<li><strong>No somos la Seguridad Social</strong> ni tenemos relación con ella. Quien reconoce tu pensión, su importe y su fecha es el Instituto Nacional de la Seguridad Social (INSS).</li>
+<li><strong>No damos asesoramiento personalizado.</strong> Si tu caso es complejo, te recomendamos consultarlo con la Seguridad Social, con un graduado social o con un abogado laboralista.</li>
+</ul>
+<h2>Cómo trabajamos</h2>
+<p>Cada artículo se basa en fuentes oficiales, indica su fecha de actualización y se corrige cuando cambia la ley. Lo contamos con detalle en nuestra <a href="/politica-editorial/">política editorial</a>.</p>
+<h2>Contacto</h2>
+<p>Si ves un error o tienes una sugerencia, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>. Más información en la página de <a href="/contacto/">contacto</a>.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9500</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[sobre-nosotros]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Quiénes somos: quién hace Jubilómetro y por qué]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Jubilómetro es una web independiente sobre jubilación y pensiones en España. Quién la hace, cómo trabaja y qué puedes esperar de ella.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Quiénes somos: quién hace Jubilómetro y por qué]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Jubilómetro es una web independiente sobre jubilación y pensiones en España. Quién la hace, cómo trabaja y qué puedes esperar de ella.]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Política editorial]]></title>
+    <link>https://jubilometro.com/politica-editorial/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<p>Las pensiones afectan a decisiones importantes y un dato equivocado puede costar dinero. Por eso seguimos estas reglas en todos los artículos y calculadoras de Jubilómetro.</p>
+<h2>1. Fuentes oficiales primero</h2>
+<p>Cada requisito, porcentaje, edad o plazo que publicamos sale de la norma que lo regula:</p>
+<ul>
+<li>El <strong>Boletín Oficial del Estado (BOE)</strong>, en su texto consolidado: la Ley General de la Seguridad Social, el Estatuto de los Trabajadores y los reales decretos que desarrollan cada tipo de jubilación.</li>
+<li>La <strong>Seguridad Social</strong> (INSS, Tesorería General y su revista oficial) y el <strong>SEPE</strong>, para trámites, plazos y criterios de gestión.</li>
+</ul>
+<p>Usamos prensa y webs especializadas solo para detectar novedades o contrastar cómo se aplica una norma, nunca como única fuente de un dato.</p>
+<h2>2. Comprobación en el BOE</h2>
+<p>Antes de publicar, cada dato del artículo se anota en una ficha de verificación con su fuente. Los datos legales se leen en el texto consolidado de la norma en el BOE. Si no cuadran, se corrige el artículo antes de publicarlo. Al final de cada artículo enlazamos las normas que citamos.</p>
+<h2>3. Cálculos que puedes repetir</h2>
+<p>Los ejemplos con cifras y las calculadoras aplican las reglas de la ley paso a paso, y las calculadoras tienen pruebas automáticas con casos conocidos. En cada ejemplo indicamos los datos de partida (fecha de nacimiento, años cotizados, base reguladora) para que puedas rehacer la cuenta.</p>
+<h2>4. Quién escribe y quién revisa</h2>
+<p>Los artículos los escribe y los firma Pau Lobato, del equipo editorial de Jubilómetro. Usamos herramientas informáticas, incluida la inteligencia artificial, como apoyo para redactar y para programar las calculadoras. Ningún dato se publica sin haberlo comprobado en su fuente.</p>
+<p>Hoy nuestros artículos no los revisa un graduado social ni un abogado colegiado, y por eso no lo decimos. Si en el futuro contamos con esa revisión, lo indicaremos en cada artículo con el nombre y el número de colegiado de quien la haga.</p>
+<h2>5. Actualización</h2>
+<p>Cada artículo muestra la fecha de su última actualización. Lo revisamos cuando se publica una norma que le afecta, y al menos una vez al año, cuando cambian las cuantías de las pensiones y las bases de cotización.</p>
+<h2>6. Independencia</h2>
+<p>No tenemos relación con la Seguridad Social ni con ninguna administración. Si algún día la web incluye publicidad o enlaces patrocinados, estarán identificados y no influirán en el contenido.</p>
+<h2>7. Corrección de errores</h2>
+<p>Si encuentras un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a> indicando la página y el dato. Lo comprobamos y, si hay que corregirlo, actualizamos el artículo y su fecha.</p>
+<h2>8. Qué no hacemos</h2>
+<p>Nuestros contenidos son informativos. No sustituyen el asesoramiento profesional ni la resolución del INSS, que es quien reconoce cada pensión.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9501</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[politica-editorial]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>1</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Política editorial: cómo verificamos cada dato]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Cómo elaboramos y verificamos los artículos de Jubilómetro: fuentes oficiales, comprobación en el BOE, fechas de actualización y corrección de errores.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Política editorial: cómo verificamos cada dato]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Cómo elaboramos y verificamos los artículos de Jubilómetro: fuentes oficiales, comprobación en el BOE, fechas de actualización y corrección de errores.]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Contacto]]></title>
+    <link>https://jubilometro.com/contacto/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<p>Puedes escribirnos a <strong><a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a></strong>.</p>
+<h2>Para qué puedes escribirnos</h2>
+<ul>
+<li><strong>Comunicar un error</strong> en un artículo o en una calculadora. Indica la página y el dato, y si puedes, la norma o la fuente que lo contradice.</li>
+<li><strong>Proponer un tema</strong> que no hayamos tratado.</li>
+<li><strong>Cualquier consulta sobre la web</strong>: uso de los contenidos, privacidad o aviso legal.</li>
+</ul>
+<h2>Lo que no podemos hacer</h2>
+<ul>
+<li><strong>No podemos estudiar tu caso personal</strong> ni decirte cuánto cobrarás. Para eso, pide una simulación de tu pensión en el portal Tu Seguridad Social o consulta con un graduado social o un abogado laboralista.</li>
+<li><strong>No somos la Seguridad Social.</strong> No podemos tramitar solicitudes ni consultar tu expediente. Para eso, contacta con el Instituto Nacional de la Seguridad Social (INSS) a través de la <a href="https://www.seg-social.es" rel="noopener">web de la Seguridad Social</a>.</li>
+</ul>
+<p>Intentamos responder a todos los correos, aunque puede que tardemos unos días.</p>
+<p>Los datos que nos envíes por correo solo se usan para responderte. Más información en la <a href="/politica-de-privacidad/">política de privacidad</a>.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9502</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[contacto]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>2</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Contacto: escribe a Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Cómo contactar con Jubilómetro para comunicar un error, proponer un tema o hacer una consulta sobre la web. Correo de contacto y qué puedes esperar.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Contacto: escribe a Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Cómo contactar con Jubilómetro para comunicar un error, proponer un tema o hacer una consulta sobre la web. Correo de contacto y qué puedes esperar.]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Aviso legal]]></title>
+    <link>https://jubilometro.com/aviso-legal/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<h2>1. Titular de la web</h2>
+<p>En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI), estos son los datos del titular de jubilometro.com:</p>
+<ul>
+<li><strong>Titular:</strong> Pau Lobato</li>
+<li><strong>Domicilio:</strong> Palafolls, 08389 (Barcelona), España</li>
+<li><strong>Correo electrónico:</strong> <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a></li>
+</ul>
+<h2>2. Objeto</h2>
+<p>Jubilometro.com ofrece información divulgativa y calculadoras orientativas sobre la jubilación y las pensiones en España. Usar la web implica aceptar este aviso legal.</p>
+<h2>3. Carácter informativo de los contenidos</h2>
+<p>Los contenidos se elaboran a partir de la normativa publicada en el Boletín Oficial del Estado y de fuentes oficiales, y se actualizan cuando cambia la ley. Aun así:</p>
+<ul>
+<li><strong>Son informativos.</strong> No son asesoramiento jurídico, laboral ni fiscal, ni sustituyen la resolución del Instituto Nacional de la Seguridad Social (INSS) ni de ningún otro organismo.</li>
+<li><strong>Las calculadoras dan resultados orientativos</strong> a partir de los datos que introduces. La cuantía y la fecha de tu pensión solo las fija el INSS.</li>
+<li><strong>La normativa cambia.</strong> Comprueba la fecha de actualización de cada página y, antes de tomar una decisión, confirma tu caso con la Seguridad Social o con un profesional.</li>
+</ul>
+<p>El titular no responde de las decisiones que tomes basándote solo en los contenidos de la web ni de los errores que puedan contener, aunque se compromete a corregirlos en cuanto los conozca. Puedes avisarnos en la dirección de correo de arriba.</p>
+<h2>4. Uso de la web</h2>
+<p>Te comprometes a usar la web de acuerdo con la ley y con este aviso legal, y a no hacer nada que pueda dañarla, impedir su funcionamiento o afectar a otros usuarios.</p>
+<h2>5. Propiedad intelectual</h2>
+<p>Los textos, tablas, gráficos, calculadoras y el diseño de la web son del titular, salvo que se indique otra cosa. Puedes citarlos y enlazarlos indicando la fuente. Para reproducirlos total o parcialmente con otros fines necesitas autorización previa por escrito.</p>
+<p>Los textos legales citados (leyes, reales decretos y demás normas) son de dominio público y se enlazan a su publicación oficial.</p>
+<h2>6. Enlaces a otras webs</h2>
+<p>La web enlaza a páginas de organismos públicos y de terceros para que puedas consultar las fuentes. El titular no controla esas páginas y no responde de su contenido ni de su disponibilidad.</p>
+<h2>7. Privacidad y cookies</h2>
+<p>El tratamiento de datos personales se explica en la <a href="/politica-de-privacidad/">política de privacidad</a> y el uso de cookies, en la <a href="/politica-de-cookies/">política de cookies</a>.</p>
+<h2>8. Legislación aplicable</h2>
+<p>Este aviso legal se rige por la legislación española. Para cualquier controversia, las partes se someten a los juzgados y tribunales que correspondan conforme a la ley. Si eres consumidor, serán los de tu domicilio.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9503</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[aviso-legal]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>3</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Aviso legal de Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Aviso legal de jubilometro.com: titular de la web, condiciones de uso, carácter informativo de los contenidos, propiedad intelectual y legislación aplicable.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Aviso legal de Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Aviso legal de jubilometro.com: titular de la web, condiciones de uso, carácter informativo de los contenidos, propiedad intelectual y legislación aplicable.]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Política de privacidad]]></title>
+    <link>https://jubilometro.com/politica-de-privacidad/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<p>Esta política explica cómo trata jubilometro.com los datos personales, según el Reglamento General de Protección de Datos (RGPD, Reglamento UE 2016/679) y la Ley Orgánica 3/2018, de protección de datos personales y garantía de los derechos digitales.</p>
+<h2>1. Responsable del tratamiento</h2>
+<ul>
+<li><strong>Responsable:</strong> Pau Lobato</li>
+<li><strong>Domicilio:</strong> Palafolls, 08389 (Barcelona), España</li>
+<li><strong>Correo electrónico:</strong> <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a></li>
+</ul>
+<h2>2. Las calculadoras no guardan tus datos</h2>
+<p>Los datos que escribes en las calculadoras (fecha de nacimiento, años cotizados, base reguladora…) se procesan solo en tu navegador. <strong>No se envían a ningún servidor ni se guardan</strong>: al cerrar la página, desaparecen.</p>
+<h2>3. Qué datos tratamos y para qué</h2>
+<table>
+<thead>
+<tr>
+<th>Datos</th>
+<th>Finalidad</th>
+<th>Base legal</th>
+<th>Conservación</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Los que nos envías por correo electrónico (nombre, dirección de correo y lo que nos cuentes)</td>
+<td>Responder a tu mensaje y, si comunicas un error, corregirlo</td>
+<td>Tu consentimiento al escribirnos (art. 6.1.a RGPD)</td>
+<td>El tiempo necesario para atender tu mensaje y, como máximo, un año después</td>
+</tr>
+<tr>
+<td>Datos técnicos de la conexión (dirección IP, navegador, página visitada, fecha y hora), en los registros del servidor</td>
+<td>Mantener la web en funcionamiento y protegerla frente a ataques</td>
+<td>Interés legítimo en la seguridad de la web (art. 6.1.f RGPD)</td>
+<td>El plazo que fija el proveedor de alojamiento para sus registros</td>
+</tr>
+</tbody></table>
+<p>No usamos tus datos para enviarte publicidad, no elaboramos perfiles y no tomamos decisiones automatizadas sobre ti.</p>
+<h2>4. Quién más accede a los datos</h2>
+<p>No cedemos datos a terceros salvo obligación legal. Estos proveedores los tratan por cuenta del responsable, con contrato de encargado de tratamiento:</p>
+<ul>
+<li><strong>Hostinger</strong>, proveedor de alojamiento de la web.</li>
+<li><strong>Google</strong>, proveedor del servicio de correo electrónico (Gmail) con el que respondemos a tus mensajes. Google puede tratar datos fuera del Espacio Económico Europeo con las garantías previstas en el RGPD (Marco de Privacidad de Datos UE-EE. UU. y cláusulas contractuales tipo).</li>
+</ul>
+<h2>5. Tus derechos</h2>
+<p>Puedes pedir en cualquier momento el acceso a tus datos, su rectificación o supresión, la limitación u oposición a su tratamiento y su portabilidad, y retirar tu consentimiento. Escribe a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a> indicando qué derecho ejerces. Te responderemos en el plazo de un mes.</p>
+<p>Si crees que no hemos atendido bien tu solicitud, puedes reclamar ante la <a href="https://www.aepd.es" rel="noopener">Agencia Española de Protección de Datos</a>.</p>
+<h2>6. Menores</h2>
+<p>La web está dirigida a personas adultas. No tratamos a sabiendas datos de menores de 14 años.</p>
+<h2>7. Cambios en esta política</h2>
+<p>Si cambia la forma en que tratamos los datos (por ejemplo, si añadimos estadísticas de visitas o publicidad), actualizaremos esta página y su fecha antes de aplicar el cambio.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9504</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[politica-de-privacidad]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>4</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Política de privacidad de Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Qué datos personales trata Jubilómetro, para qué, durante cuánto tiempo y cómo ejercer tus derechos. Las calculadoras no guardan ni envían tus datos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Política de privacidad de Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Qué datos personales trata Jubilómetro, para qué, durante cuánto tiempo y cómo ejercer tus derechos. Las calculadoras no guardan ni envían tus datos.]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Política de cookies]]></title>
+    <link>https://jubilometro.com/politica-de-cookies/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<p>Esta política explica qué cookies usa jubilometro.com, según el artículo 22.2 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI), y la guía sobre el uso de las cookies de la Agencia Española de Protección de Datos.</p>
+<h2>1. Qué son las cookies</h2>
+<p>Las cookies son pequeños archivos que una web guarda en tu navegador para recordar información entre una visita y otra o entre una página y otra.</p>
+<h2>2. Qué cookies usamos</h2>
+<p><strong>Solo usamos cookies técnicas</strong>, necesarias para que la web funcione y sea segura. Por ley no necesitan tu consentimiento.</p>
+<ul>
+<li><strong>Los lectores</strong> no reciben cookies de publicidad, de análisis ni de redes sociales.</li>
+<li><strong>Las calculadoras</strong> no usan cookies ni guardan nada en tu navegador.</li>
+<li><strong>El panel de administración</strong> de WordPress sí guarda cookies de sesión (<code>wordpress_*</code>, <code>wordpress_logged_in_*</code> y <code>wp-settings-*</code>), pero solo a quien inicia sesión en él.</li>
+<li><strong>El proveedor de alojamiento</strong> (Hostinger) o su servicio de seguridad pueden instalar cookies técnicas para repartir la carga del servidor y frenar ataques.</li>
+</ul>
+<h2>3. Cómo borrar o bloquear las cookies</h2>
+<p>Puedes borrar las cookies o impedir que se guarden desde la configuración de tu navegador:</p>
+<ul>
+<li><a href="https://support.google.com/chrome/answer/95647" rel="noopener">Google Chrome</a></li>
+<li><a href="https://support.mozilla.org/es/kb/Borrar%20cookies" rel="noopener">Mozilla Firefox</a></li>
+<li><a href="https://support.apple.com/es-es/guide/safari/sfri11471/mac" rel="noopener">Safari</a></li>
+<li><a href="https://support.microsoft.com/es-es/microsoft-edge/eliminar-cookies-en-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" rel="noopener">Microsoft Edge</a></li>
+</ul>
+<p>Si bloqueas todas las cookies, puede que alguna función de la web no vaya bien.</p>
+<h2>4. Cambios en esta política</h2>
+<p>Si añadimos cookies de análisis o de publicidad, antes de hacerlo actualizaremos esta página e incorporaremos un aviso para que puedas aceptarlas o rechazarlas.</p>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+    <wp:post_id>9505</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[politica-de-cookies]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>5</wp:menu_order>
+    <wp:post_type><![CDATA[page]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Política de cookies de Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Qué cookies usa jubilometro.com: solo las técnicas necesarias para que la web funcione, sin publicidad ni análisis. Cómo borrarlas o bloquearlas.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Política de cookies de Jubilómetro]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Qué cookies usa jubilometro.com: solo las técnicas necesarias para que la web funcione, sin publicidad ni análisis. Cómo borrarlas o bloquearlas.]]></wp:meta_value></wp:postmeta>
+  </item>
+</channel>
+</rss>

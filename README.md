@@ -16,8 +16,10 @@ herramientas/
   graficos/                      Generación y rasterizado de gráficos
   checklist/                     Lista de documentos en PDF para descargar
   publicar/                      Generador de HTML, archivo de importación de WordPress y comprobaciones
+paginas/<slug>/pagina.md         Páginas de confianza del sitio (Quiénes somos, Política editorial, Contacto, Aviso legal, Privacidad, Cookies)
 publicacion/
   wordpress-borradores.xml       Las 22 páginas como borradores para Herramientas > Importar > WordPress
+  wordpress-paginas.xml          Las 6 páginas de confianza como páginas de WordPress en borrador
   PLAN-PUBLICACION.md            Lista previa, orden de revisión, importación, lanzamiento y mantenimiento
 ```
 
