@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Jubilación de autónomos 2026: requisitos y cuánto cobran"
 h1: "Jubilación de autónomos: requisitos, cuánto cobran y cómo mejorar su pensión"
-meta_descripcion: "Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran de media 670 € menos. Requisitos y cómo mejorarla."
+meta_descripcion: "Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla."
 url: /jubilacion/autonomos/
 categoria: Jubilación
 miga: Jubilación de autónomos
