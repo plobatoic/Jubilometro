@@ -1,86 +1,86 @@
 {
   "/jubilacion/15-anos-cotizados/": {
     "id": 290,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/activa/": {
     "id": 143,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/anticipada-discapacidad/": {
     "id": 292,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/anticipada-involuntaria/": {
     "id": 141,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/anticipada-por-profesion/": {
     "id": 294,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/anticipada-voluntaria/": {
     "id": 140,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/autonomos/": {
     "id": 296,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/compensa-jubilarse-antes/": {
     "id": 297,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/convenio-especial/": {
     "id": 298,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/cuanto-tarda-jubilacion/": {
     "id": 299,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/demorada/": {
     "id": 142,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/despido-a-los-60/": {
     "id": 301,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/documentos-jubilacion/": {
     "id": 302,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/edad-de-jubilacion/": {
     "id": 303,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/faltan-anos-cotizados/": {
     "id": 304,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/flexible-activa-o-parcial/": {
     "id": 305,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/flexible/": {
     "id": 144,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/parcial/": {
     "id": 145,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/solicitar-jubilacion-internet/": {
     "id": 147,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/subsidio-mayores-52/": {
     "id": 309,
-    "estado": "draft"
+    "estado": "publish"
   },
   "/jubilacion/trabajado-en-otro-pais/": {
     "id": 310,
-    "estado": "draft"
+    "estado": "publish"
   }
 }

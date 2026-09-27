@@ -1,8 +1,8 @@
 # Plan de publicación · Categoría 1 «Jubilación»
 
-Estado a 27 de septiembre de 2026: **22 páginas terminadas como borrador** (los 21 artículos del apartado 1 del informe y la calculadora de edad de jubilación, herramienta n.º 94). Ninguna está publicada todavía.
+Estado a 27 de septiembre de 2026: **los 21 artículos del apartado 1 del informe están publicados** en jubilometro.com; la calculadora de edad de jubilación (herramienta n.º 94) es la que ya tenía publicada la web. **Pendiente: abrir la web a Google** (punto 5, paso 1).
 
-La web jubilometro.com ya está montada en Hostinger (tema «Jubilómetro» sobre Kadence, plugin «Jubilómetro · Núcleo», Rank Math, secciones, 10 calculadoras y páginas legales). Los 21 artículos se suben a ella con `npm run subir` (punto 4): **el 27/09/2026 quedaron subidos como borradores** (identificadores en `publicacion/wordpress-entradas.json`) y la portada ya enlaza a sus URL. La calculadora de edad de jubilación ya estaba publicada en la web y da los mismos resultados que la del proyecto, así que no se duplica.
+La web jubilometro.com ya está montada en Hostinger (tema «Jubilómetro» sobre Kadence, plugin «Jubilómetro · Núcleo», Rank Math, secciones, 10 calculadoras y páginas legales). Los 21 artículos se suben a ella con `npm run subir` (punto 4): el 27/09/2026 se subieron, se revisaron y se publicaron (identificadores en `publicacion/wordpress-entradas.json`). La calculadora de edad de jubilación ya estaba publicada en la web y da los mismos resultados que la del proyecto, así que no se duplica.
 
 ## 1. Decisión: lanzar el clúster completo el mismo día
 
@@ -78,21 +78,21 @@ Decisiones al adaptar el proyecto a la web:
 - **Calculadora de edad**: se mantiene la de la web, `/calculadoras/edad-jubilacion/`, que ya está en la portada y el menú. Se comparó con la del proyecto en 201.996 casos (año y mes de nacimiento, años cotizados) y coinciden todos. Los enlaces del proyecto a `/calculadoras/edad-de-jubilacion/` apuntan a ella, y el artículo 1 lleva una llamada a esa calculadora en lugar del widget.
 - **Formato del tema**: respuesta rápida, tablas, avisos, preguntas frecuentes desplegables, tarjetas de «Siguiente paso», lista de documentos con casillas y notas finales usan los componentes `jm-*` del tema. La firma de cada artículo usa la caja «revisado» del tema con el texto «Por Pau Lobato, equipo editorial de Jubilómetro. Fuentes verificadas en el BOE». Las pruebas comprueban que no se pierde ni una palabra del artículo.
 - **Llamadas a las calculadoras de la web**: anticipada voluntaria e involuntaria (calculadora de jubilación anticipada), demorada y activa (demorada y activa), 15 años cotizados y me faltan años cotizados (pensión de jubilación). La de flexible no se enlaza porque aún no incluye los incrementos del 15 % y el 25 % del RD 416/2026.
-- **Imagen destacada del artículo 1**: la foto `requisitos-jubilacion.webp` de la biblioteca. El gráfico no sirve de imagen destacada porque la plantilla la recorta. Los otros 13 artículos nuevos salen sin foto hasta que se añadan.
+- **Imágenes destacadas**: las 7 plantillas conservan su foto. El artículo 1 usa `requisitos-jubilacion.webp`, que ya estaba en la biblioteca (el gráfico no sirve porque la plantilla recorta la imagen). Los otros 13 llevan fotos de dominio público (CC0) de StockSnap y rawpixel, en `publicacion/imagenes-destacadas/` con sus créditos; son de 960-1024 px y se pueden cambiar por el original a mayor resolución.
 - **Anuncios**: no se incluye el bloque «Espacio reservado para anuncio» de las plantillas; AdSense irá con anuncios automáticos (punto 5 bis).
 - **Datos estructurados**: los pone Rank Math. El JSON-LD de los `articulo.html` del repositorio es solo de referencia.
 
 Los archivos `wordpress-borradores.xml` y `wordpress-paginas.xml` quedan para una instalación nueva de WordPress; en jubilometro.com crearían duplicados.
 
-## 5. Día del lanzamiento
+## 5. Día del lanzamiento (27/09/2026)
 
-1. **Revisa la vista previa** de cada borrador en WordPress: respuesta rápida, tablas, enlaces, calculadoras y firma.
-2. **Publica las 21 entradas**: `npm run subir -- --publicar` (o una a una desde WordPress).
-3. **Portada**: los 3 enlaces a las URL antiguas (`/jubilacion/jubilacion-activa/`, `/jubilacion/jubilacion-demorada/` y `/jubilacion/jubilacion-flexible/`) ya apuntan a `/jubilacion/activa/`, `/jubilacion/demorada/` y `/jubilacion/flexible/` (hecho el 27/09/2026). En la página «Jubilación», cambia «8 guías» y «8 artículos» por 21.
-4. **CDN de Hostinger**: vuelve a activarla (se desactivó para diagnosticar la conexión) y purga la caché de LiteSpeed.
-5. Comprueba 4 o 5 URL al azar y la calculadora en el móvil.
-6. **Google Search Console**: verifica el dominio, envía el sitemap (`/sitemap_index.xml` de Rank Math) y pide la indexación manual de la guía de edad de jubilación, la calculadora, la anticipada voluntaria, la flexible y la anticipada involuntaria.
-7. En la portada y en el menú, enlaza a la guía de edad de jubilación y a la calculadora: son las páginas pilar del clúster.
+1. [ ] **Abrir la web a Google**: WordPress > Ajustes > Lectura > Visibilidad en los motores de búsqueda: **desmarcar** «Disuadir a los motores de búsqueda de indexar este sitio» y guardar. Mientras esté marcado, Rank Math pone `noindex, nofollow` en todas las páginas y no escribe la URL canónica. Después, `npm run comprobar-web` debe dar «Todo correcto».
+2. [x] **Publicadas las 21 entradas** con `npm run subir -- --publicar`.
+3. [x] **Portada y secciones**: los 3 enlaces de la portada apuntan a las URL nuevas; la página «Jubilación» dice «22 guías» y «22 artículos», como la portada, que las cuenta sola (21 publicadas y la plantilla «Requisitos para jubilarse», que sale como «Próximamente»); en «Guías» se quitó «62 guías escritas», que no era cierto.
+4. [x] **Comprobado en vivo** (`npm run comprobar-web` y navegador en móvil y ordenador): las 21 páginas responden 200, con el title, la description y el H1 del artículo, JSON-LD válido, todo el texto del artículo, índice, sin desbordes ni errores, y los 55 enlaces internos, fotos y archivos responden 200. La calculadora de «¿compensa?» funciona en la página publicada.
+5. [ ] **CDN de Hostinger**: volver a activarla (se desactivó para diagnosticar la conexión) y purgar la caché.
+6. [ ] **Google Search Console**: verificar el dominio (con el registro DNS que da Google, en el editor de DNS de Hostinger, o pegando el código en Rank Math > General > Herramientas para webmasters), enviar el sitemap `https://jubilometro.com/sitemap_index.xml` y pedir la indexación de la guía de edad de jubilación, la calculadora, la anticipada voluntaria, la flexible y la anticipada involuntaria.
+7. [ ] En el menú, enlazar la guía de edad de jubilación y la calculadora: son las páginas pilar del clúster.
 
 ## 5 bis. Monetización con Google AdSense
 

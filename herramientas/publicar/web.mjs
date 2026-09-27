@@ -45,10 +45,24 @@ export const PLANTILLAS = {
   '/jubilacion/solicitar-jubilacion-internet/': 'solicitar-jubilacion',
 };
 
-// Imagen destacada (de la biblioteca de medios de la web) para los artículos que no heredan
-// la de una plantilla. El gráfico del artículo 1 no sirve: la plantilla recorta la imagen.
+// Imagen destacada de los artículos que no heredan la de una plantilla. Si no está en la
+// biblioteca de medios, se sube desde publicacion/imagenes-destacadas/ (fotos CC0, créditos
+// en CREDITOS.md). El gráfico del artículo 1 no sirve: la plantilla recorta la imagen.
 export const IMAGENES_DESTACADAS = {
   '/jubilacion/edad-de-jubilacion/': { archivo: 'requisitos-jubilacion.webp', alt: 'Pareja de jubilados revisando papeles en casa' },
+  '/jubilacion/15-anos-cotizados/': { archivo: '15-anos-cotizados.webp', alt: 'Pareja de jubilados sonriendo con un café al aire libre', pie: 'Foto: StockSnap' },
+  '/jubilacion/anticipada-discapacidad/': { archivo: 'anticipada-discapacidad.webp', alt: 'Persona en silla de ruedas paseando junto a un acompañante', pie: 'Foto: rawpixel' },
+  '/jubilacion/anticipada-por-profesion/': { archivo: 'anticipada-por-profesion.webp', alt: 'Equipo de bomberas delante de un camión de bomberos', pie: 'Foto: rawpixel' },
+  '/jubilacion/autonomos/': { archivo: 'autonomos.webp', alt: 'Artesano con delantal en su taller', pie: 'Foto: StockSnap' },
+  '/jubilacion/compensa-jubilarse-antes/': { archivo: 'compensa-jubilarse-antes.webp', alt: 'Persona haciendo cuentas con una calculadora y una libreta', pie: 'Foto: StockSnap' },
+  '/jubilacion/convenio-especial/': { archivo: 'convenio-especial.webp', alt: 'Persona firmando un documento', pie: 'Foto: rawpixel' },
+  '/jubilacion/cuanto-tarda-jubilacion/': { archivo: 'cuanto-tarda-jubilacion.webp', alt: 'Hombre esperando con las manos junto al reloj', pie: 'Foto: StockSnap' },
+  '/jubilacion/despido-a-los-60/': { archivo: 'despido-a-los-60.webp', alt: 'Persona recogiendo sus cosas en una caja de cartón en la oficina', pie: 'Foto: StockSnap' },
+  '/jubilacion/documentos-jubilacion/': { archivo: 'documentos-jubilacion.webp', alt: 'Carpetas colgantes con documentos en un archivador', pie: 'Foto: rawpixel' },
+  '/jubilacion/faltan-anos-cotizados/': { archivo: 'faltan-anos-cotizados.webp', alt: 'Mujer mayor sonriente con una tableta en su trabajo', pie: 'Foto: StockSnap' },
+  '/jubilacion/flexible-activa-o-parcial/': { archivo: 'flexible-activa-o-parcial.webp', alt: 'Hombre mayor trabajando en su despacho', pie: 'Foto: StockSnap' },
+  '/jubilacion/subsidio-mayores-52/': { archivo: 'subsidio-mayores-52.webp', alt: 'Hombre pensativo sentado junto a una ventana', pie: 'Foto: StockSnap' },
+  '/jubilacion/trabajado-en-otro-pais/': { archivo: 'trabajado-en-otro-pais.webp', alt: 'Mapa del mundo con una brújula y objetos de viaje', pie: 'Foto: StockSnap' },
 };
 
 // Archivos propios que los artículos enlazan y hay que subir a la biblioteca de medios.

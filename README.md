@@ -22,6 +22,7 @@ publicacion/
   wordpress-borradores.xml       Las 22 páginas como borradores para Herramientas > Importar > WordPress
   wordpress-paginas.xml          Las 6 páginas de confianza como páginas de WordPress en borrador
   wordpress-entradas.json        Identificador y estado de cada artículo en jubilometro.com (lo escribe npm run subir)
+  imagenes-destacadas/           Fotos CC0 de los artículos sin imagen de plantilla, con CREDITOS.md
   PLAN-PUBLICACION.md            Lista previa, orden de revisión, subida, lanzamiento y mantenimiento
 ```
 
@@ -34,7 +35,7 @@ publicacion/
 
 ## Artículos
 
-Categoría 1 «Jubilación» del informe de nicho, completa. Todas las páginas están en **borrador pendiente de revisión profesional**: ver `publicacion/PLAN-PUBLICACION.md`.
+Categoría 1 «Jubilación» del informe de nicho, completa y **publicada en jubilometro.com el 27 de septiembre de 2026** (la calculadora, con la que ya tenía la web). Ver `publicacion/PLAN-PUBLICACION.md`.
 
 | N.º del plan | Título (H1) | URL |
 |---|---|---|
@@ -81,6 +82,7 @@ npm run comprobar    # En navegador: móvil sin desbordes, un H1, title y descri
 npm run e2e          # Calculadoras de edad de jubilación y de «¿compensa?» en móvil y escritorio
 npm run pdf          # Regenera el PDF de la lista de documentos
 npm run subir        # Sube los artículos a jubilometro.com en borrador (WP_USER y WP_APP_PASSWORD; --prueba, --publicar)
+npm run comprobar-web # En la web real: title, description, H1, canonical, noindex, JSON-LD y enlaces de lo publicado
 
 # Tabla por año y mes de nacimiento
 node herramientas/edad-jubilacion/tabla-por-nacimiento.mjs 1958 1972

@@ -2,9 +2,11 @@
 // Uso: node --test herramientas/publicar/publicar.test.mjs
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { listarArticulos, leerArticulo, leerPaginas, cuerpoHtml, cuerpoWordPress } from './articulos.mjs';
+import { listarArticulos, leerArticulo, leerPaginas, cuerpoHtml, cuerpoWordPress, RAIZ } from './articulos.mjs';
 import { exportarWordPress, exportarPaginas } from './wordpress.mjs';
-import { cuerpoWeb, urlsDeLaWeb, NO_SE_SUBEN, PLANTILLAS } from './web.mjs';
+import { cuerpoWeb, urlsDeLaWeb, NO_SE_SUBEN, PLANTILLAS, IMAGENES_DESTACADAS } from './web.mjs';
+import { existsSync, readFileSync } from 'node:fs';
+import { join } from 'node:path';
 
 const articulos = listarArticulos().map(leerArticulo);
 const urls = new Set(articulos.map((a) => a.datos.url));
@@ -113,4 +115,15 @@ test('la calculadora de edad enlaza a la página de la web y el PDF a la bibliot
 
 test('las plantillas de la web se reutilizan solo para artículos que existen', () => {
   for (const url of Object.keys(PLANTILLAS)) assert.ok(porUrl(url), url);
+});
+
+test('las imágenes destacadas propias están en el repositorio, con texto alternativo y créditos', () => {
+  const creditos = readFileSync(join(RAIZ, 'publicacion', 'imagenes-destacadas', 'CREDITOS.md'), 'utf8');
+  for (const [url, imagen] of Object.entries(IMAGENES_DESTACADAS)) {
+    assert.ok(porUrl(url), url);
+    assert.ok(imagen.alt.length > 10, url);
+    if (!imagen.pie) continue;
+    assert.ok(existsSync(join(RAIZ, 'publicacion', 'imagenes-destacadas', imagen.archivo)), imagen.archivo);
+    assert.match(creditos, new RegExp(`\\| \`${imagen.archivo.replace('.', '\\.')}\` \\| ${url.replace(/\//g, '\\/')} \\|`), imagen.archivo);
+  }
 });

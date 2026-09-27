@@ -9,7 +9,7 @@
 //   npm run subir -- --prueba     solo dice qué haría, sin cambiar nada en la web
 //   npm run subir -- --publicar   además, publica las entradas (solo tras revisarlas)
 // La contraseña es una «contraseña de aplicación» (WordPress > Usuarios > Perfil).
-import { readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
 import { listarArticulos, leerArticulo, RAIZ } from './articulos.mjs';
 import { cuerpoWeb, urlsDeLaWeb, NO_SE_SUBEN, PLANTILLAS, IMAGENES_DESTACADAS, ARCHIVOS } from './web.mjs';
@@ -101,10 +101,22 @@ for (const a of articulos) {
   };
   const destacada = IMAGENES_DESTACADAS[d.url];
   if (destacada && !entrada?.featured_media) {
-    const medio = await buscarMedio(destacada.archivo);
-    if (!medio) throw new Error(`No está en la biblioteca: ${destacada.archivo}`);
-    if (!medio.alt_text && !PRUEBA) await api(`/wp/v2/media/${medio.id}`, { method: 'POST', json: { alt_text: destacada.alt } });
-    campos.featured_media = medio.id;
+    let medio = await buscarMedio(destacada.archivo);
+    const local = join(RAIZ, 'publicacion', 'imagenes-destacadas', destacada.archivo);
+    if (!medio && !existsSync(local)) throw new Error(`No está en la biblioteca ni en el repositorio: ${destacada.archivo}`);
+    if (!medio && PRUEBA) {
+      console.log(`Subiría ${destacada.archivo}`);
+    } else if (!medio) {
+      medio = await api('/wp/v2/media', {
+        method: 'POST', reintentar: false, datos: readFileSync(local),
+        cabeceras: { 'Content-Type': TIPOS[destacada.archivo.split('.').pop()], 'Content-Disposition': `attachment; filename="${destacada.archivo}"` },
+      });
+      await api(`/wp/v2/media/${medio.id}`, { method: 'POST', json: { alt_text: destacada.alt, caption: destacada.pie ?? '' } });
+      console.log(`Subido ${destacada.archivo}`);
+    } else if (!medio.alt_text && !PRUEBA) {
+      await api(`/wp/v2/media/${medio.id}`, { method: 'POST', json: { alt_text: destacada.alt } });
+    }
+    if (medio) campos.featured_media = medio.id;
   }
   if (PUBLICAR) campos.status = 'publish';
   if (PRUEBA) {
