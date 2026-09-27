@@ -13,6 +13,7 @@ fecha_actualizacion: 2026-09-27
 En cumplimiento del artículo 10 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI), estos son los datos del titular de jubilometro.com:
 
 - **Titular:** Pau Lobato
+- **NIF:** 46257263P
 - **Domicilio:** Palafolls, 08389 (Barcelona), España
 - **Correo electrónico:** [plobatoic@gmail.com](mailto:plobatoic@gmail.com)
 
