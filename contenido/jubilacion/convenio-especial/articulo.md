@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Convenio especial con la Seguridad Social: cuándo compensa"
 h1: "Convenio especial con la Seguridad Social: cuándo compensa pagarlo antes de jubilarte"
-meta_descripcion: "Si dejas de trabajar antes de jubilarte, el convenio especial te permite seguir cotizando desde unos 392 € al mes en 2026. Requisitos, coste y cuándo compensa."
+meta_descripcion: "Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa."
 url: /jubilacion/convenio-especial/
 categoria: Jubilación
 miga: Convenio especial
