@@ -47,7 +47,7 @@ La pensión es el **50 % de tu base reguladora**. La base reguladora es, en esen
 Con una carrera corta, es probable que en los años que se usan para calcular la base reguladora haya meses sin cotizar (lagunas). Se rellenan así:
 
 - **Trabajadores por cuenta ajena:** las primeras 48 mensualidades vacías, con la base mínima; el resto, con el 50 % de la base mínima. Desde 2026, las **mujeres** tienen una regla más favorable: del mes 49 al 60, el 100 % de la base mínima, y del 61 al 84, el 80 %.
-- **Autónomos:** las lagunas no se rellenan (cuentan como cero), salvo los 6 meses siguientes al fin de una prestación por cese de actividad.
+- **[Autónomos](/jubilacion/autonomos/):** las lagunas no se rellenan (cuentan como cero), salvo los 6 meses siguientes al fin de una prestación por cese de actividad.
 
 ## Ejemplos
 

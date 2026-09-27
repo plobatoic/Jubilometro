@@ -29,7 +29,7 @@
 <p>Introduce tu <strong>fecha de nacimiento</strong> y los <strong>años y meses que llevas cotizados</strong> (están en tu informe de vida laboral). La calculadora te dice <strong>el día</strong> en que cumples los requisitos de la jubilación ordinaria, con las reglas del año en que te jubilas: en 2027, <strong>67 años</strong>, o <strong>65 si tienes 38 años y 6 meses cotizados</strong>.</p>
 <p>El cálculo se hace en tu navegador: no guardamos ni enviamos tus datos.</p>
 </aside>
-<!-- CALCULADORA:INICIO -->
+<!-- wp:html -->
 <div class="calc-jubi" id="calc-jubi">
   <style>
     .calc-jubi { --cj-fondo: #f2f6fb; --cj-borde: #c9d6e6; --cj-tinta: #14213d; --cj-tinta-2: #3d4a63; --cj-acento: #1f5fa8; --cj-acento-tinta: #ffffff; --cj-aviso: #8a4b00; --cj-aviso-fondo: #fff4e0; --cj-ok: #1d6b45;
@@ -284,7 +284,7 @@
   </script>
 </div>
 
-<!-- CALCULADORA:FIN -->
+<!-- /wp:html -->
 
 <h2 id="que-datos-necesitas">Qué datos necesitas</h2>
 <ul>
@@ -460,7 +460,7 @@
 <p>Con una carrera corta, es probable que en los años que se usan para calcular la base reguladora haya meses sin cotizar (lagunas). Se rellenan así:</p>
 <ul>
 <li><strong>Trabajadores por cuenta ajena:</strong> las primeras 48 mensualidades vacías, con la base mínima; el resto, con el 50 % de la base mínima. Desde 2026, las <strong>mujeres</strong> tienen una regla más favorable: del mes 49 al 60, el 100 % de la base mínima, y del 61 al 84, el 80 %.</li>
-<li><strong>Autónomos:</strong> las lagunas no se rellenan (cuentan como cero), salvo los 6 meses siguientes al fin de una prestación por cese de actividad.</li>
+<li><strong><a href="/jubilacion/autonomos/">Autónomos</a>:</strong> las lagunas no se rellenan (cuentan como cero), salvo los 6 meses siguientes al fin de una prestación por cese de actividad.</li>
 </ul>
 <h2 id="ejemplos">Ejemplos</h2>
 <p><strong>1. Juana, asalariada, 15 años cotizados, vive sola.</strong> Su base reguladora es de 1.100 euros. Le corresponde el 50 %: <strong>550 euros al mes</strong>. Como vive sola y sus otros ingresos no superan 9.442 euros al año, puede pedir el complemento a mínimos hasta la pensión mínima de 936,20 euros: el complemento sería de 386,20 euros, por debajo del tope de 628,80 euros. Cobrará <strong>936,20 euros al mes</strong>, en 14 pagas.</p>
@@ -1584,7 +1584,7 @@
 <p>Para comparar: según el INE, a los 65 años un hombre vive de media <strong>19,87 años más</strong> y una mujer <strong>23,64</strong> (<a href="https://www.ine.es/jaxiT3/Tabla.htm?t=1415" rel="noopener">esperanza de vida a los 65 años, 2024</a>). Casi todos los puntos de equilibrio quedan muy por debajo de esas edades.</p>
 <h2 id="y-si-te-jubilas-a-los-64-12-meses-antes">Y si te jubilas a los 64 (12 meses antes)</h2>
 <p>Con un año de adelanto la fórmula es la misma, pero necesitas tu porcentaje exacto de 12 meses, que depende de tus años cotizados y está en la tabla del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a208" rel="noopener">artículo 208 de la Ley General de la Seguridad Social</a>. El simulador de Tu Seguridad Social te lo da con tus datos. Introdúcelo aquí:</p>
-<!-- CALCULADORA:INICIO -->
+<!-- wp:html -->
 <div class="calc-jubi calc-compensa">
   <style>
     .calc-compensa { --cj-fondo: #f2f6fb; --cj-borde: #c9d6e6; --cj-tinta: #14213d; --cj-tinta-2: #3d4a63; --cj-acento: #1f5fa8; --cj-acento-tinta: #fff; --cj-ok: #1d6b45; --cj-aviso: #8a4b00;
@@ -1651,7 +1651,7 @@
   </script>
 </div>
 
-<!-- CALCULADORA:FIN -->
+<!-- /wp:html -->
 
 <h2 id="ejemplo-completo-luis-63-anos-y-39-anos-cotizados">Ejemplo completo: Luis, 63 años y 39 años cotizados</h2>
 <p>Luis tiene una base reguladora de 2.000 euros y 39 años cotizados, así que su edad ordinaria es 65 y cobraría el 100 %.</p>
@@ -1909,7 +1909,7 @@
 </ul>
 <p>Los casos sencillos, como una jubilación ordinaria con la vida laboral en orden, suelen ser los más rápidos. Tardan más:</p>
 <ul>
-<li>Las solicitudes con <strong>periodos trabajados en el extranjero</strong>, porque hay que pedir datos al otro país.</li>
+<li>Las solicitudes con <strong><a href="/jubilacion/trabajado-en-otro-pais/">periodos trabajados en el extranjero</a></strong>, porque hay que pedir datos al otro país.</li>
 <li>Las <strong>jubilaciones anticipadas involuntarias</strong> o con <strong>coeficientes reductores</strong>, que exigen revisar documentos.</li>
 <li>Las solicitudes <strong>incompletas</strong> o con <strong>errores en la vida laboral</strong>.</li>
 </ul>
@@ -2330,7 +2330,7 @@
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
 <p>Para una jubilación ordinaria basta, en la mayoría de los casos, con tu <strong>documento de identidad</strong>, tu <strong>cuenta bancaria</strong> y la <strong>solicitud</strong>: la Seguridad Social ya tiene tus cotizaciones. Según tu situación, te pedirán además el <strong>libro de familia</strong> (cónyuge o hijos), <strong>certificados de empresa</strong> (profesiones con coeficientes reductores), <strong>documentos del despido</strong> (anticipada involuntaria), el <strong>certificado de discapacidad</strong> o los <strong>periodos trabajados en el extranjero</strong>.</p>
-<p><strong><a href="descargas/checklist-documentos-jubilacion.pdf">Descarga la lista para imprimir (PDF)</a></strong> y ve marcando lo que ya tienes.</p>
+<p><strong><a href="/wp-content/uploads/checklist-documentos-jubilacion.pdf">Descarga la lista para imprimir (PDF)</a></strong> y ve marcando lo que ya tienes.</p>
 </aside>
 <h2 id="documentos-que-necesita-todo-el-mundo">Documentos que necesita todo el mundo</h2>
 <ul>
@@ -2379,7 +2379,7 @@
 </tr>
 <tr>
 <th scope="row">Has trabajado en otro país</th>
-<td>Documentos de los periodos cotizados en el extranjero; si es un país de la UE o con convenio, la Seguridad Social los pide al otro país</td>
+<td>Documentos de los periodos cotizados en el extranjero; si es un país de la UE o con convenio, la Seguridad Social los pide al otro país (<a href="/jubilacion/trabajado-en-otro-pais/">cómo se suman esos años</a>)</td>
 </tr>
 <tr>
 <th scope="row">Autónomo con cuotas pendientes</th>
@@ -2582,7 +2582,7 @@
 <li><strong>Si completas la cotización entre los 65 y los 67 años</strong> porque sigues trabajando, puedes jubilarte en ese momento, sin esperar a los 67 (mira el ejemplo de Marta, más abajo).</li>
 <li>La tabla está calculada mes a mes aplicando la disposición transitoria 7.ª de la Ley General de la Seguridad Social. No recoge la jubilación anticipada ni las edades reducidas por discapacidad o por profesión.</li>
 </ul>
-<!-- CALCULADORA:INICIO -->
+<!-- wp:html -->
 <div class="calc-jubi" id="calc-jubi">
   <style>
     .calc-jubi { --cj-fondo: #f2f6fb; --cj-borde: #c9d6e6; --cj-tinta: #14213d; --cj-tinta-2: #3d4a63; --cj-acento: #1f5fa8; --cj-acento-tinta: #ffffff; --cj-aviso: #8a4b00; --cj-aviso-fondo: #fff4e0; --cj-ok: #1d6b45;
@@ -2837,7 +2837,7 @@
   </script>
 </div>
 
-<!-- CALCULADORA:FIN -->
+<!-- /wp:html -->
 
 <h3 id="por-que-los-nacidos-en-1960-no-se-jubilan-a-los-66-anos-y-8">Por qué los nacidos en 1960 no se jubilan a los 66 años y 8 meses</h3>
 <p>La ley no fija la edad según tu año de nacimiento, sino según el año en que se produce la jubilación (lo que la Seguridad Social llama «hecho causante»). Cada año tiene su edad exigida: 66 años y 8 meses en 2025, 66 años y 10 meses en 2026 y 67 años desde 2027.</p>
@@ -2942,7 +2942,7 @@
 </tbody></table>
 </div>
 <figure>
-<img src="imagenes/edad-jubilacion-2013-2027.webp" width="1200" height="675" loading="lazy" decoding="async" alt="Gráfico de escalones: la edad exigida sin cotización larga sube de 65 años y 1 mes en 2013 a 67 años en 2027, y la cotización para jubilarse a los 65 pasa de 35 años y 3 meses a 38 años y 6 meses">
+<img src="/wp-content/uploads/edad-jubilacion-2013-2027.webp" width="1200" height="675" loading="lazy" decoding="async" alt="Gráfico de escalones: la edad exigida sin cotización larga sube de 65 años y 1 mes en 2013 a 67 años en 2027, y la cotización para jubilarse a los 65 pasa de 35 años y 3 meses a 38 años y 6 meses">
 <figcaption>La subida de la edad de jubilación y de la cotización exigida, año a año. Elaboración propia a partir de la disposición transitoria 7.ª de la LGSS.</figcaption>
 </figure>
 <p>La reforma que puso en marcha este calendario es la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2011-13242" rel="noopener">Ley 27/2011</a>. En 2025 y 2026 se exigió la misma cotización (38 años y 3 meses); en 2027 sube tres meses más y la edad, dos meses.</p>
@@ -3018,7 +3018,7 @@
 <p>Si quieres saber cuánto cobrarás, consulta cómo se calcula la pensión de jubilación con el sistema dual y el porcentaje de pensión según los años cotizados.</p>
 <h2 id="casos-especiales">Casos especiales</h2>
 <ul>
-<li><strong>Autónomos.</strong> Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados.</li>
+<li><strong>Autónomos.</strong> Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados. Lo que cambia lo explicamos en <a href="/jubilacion/autonomos/">jubilación de autónomos</a>.</li>
 <li><strong>Funcionarios.</strong> Los de Clases Pasivas tienen su propio régimen: jubilación forzosa a los 65 años (70 en algunos cuerpos, como profesores universitarios, jueces y fiscales) y voluntaria desde los 60 con 30 años de servicios. Los que ingresaron desde el 1 de enero de 2011 están en el Régimen General y siguen esta tabla.</li>
 <li><strong>Discapacidad y profesiones con edad reducida.</strong> Las personas con un grado de discapacidad elevado y algunos colectivos (bomberos, policías locales, mineros o trabajadores del mar, entre otros) pueden jubilarse antes sin recorte, gracias a coeficientes reductores de la edad.</li>
 <li><strong>Cláusula de salvaguarda.</strong> Si tu relación laboral terminó antes del 1 de abril de 2013 y desde entonces no has vuelto a estar de alta en ningún régimen de la Seguridad Social, se te aplican las reglas anteriores a la reforma de 2011, con jubilación a los 65 años (disposición transitoria 4.ª de la LGSS). Hay matices, así que, si crees que es tu caso, consúltalo con el INSS.</li>
@@ -3149,7 +3149,7 @@
 </tr>
 </tbody></table>
 </div>
-<p>Consulta tu <strong>informe de vida laboral</strong> para saber exactamente cuántos días tienes. Recuerda que para la edad y para el mínimo de 15 años se cuentan años y meses completos, sin la parte proporcional de las pagas extra.</p>
+<p>Consulta tu <strong>informe de vida laboral</strong> para saber exactamente cuántos días tienes. Recuerda que para la edad y para el mínimo de 15 años se cuentan años y meses completos, sin la parte proporcional de las pagas extra. Con esos datos, la <a href="/calculadoras/edad-de-jubilacion/">calculadora de edad de jubilación</a> te dice qué día cumplirías los requisitos si sigues cotizando.</p>
 <h2 id="via-1-seguir-cotizando-trabajando">Vía 1: seguir cotizando trabajando</h2>
 <p>Cualquier trabajo con alta en la Seguridad Social suma: a tiempo completo, parcial, como autónomo o como empleada del hogar. Si tienes derecho a paro, los meses en que lo cobras también cotizan.</p>
 <p>Si ya has cumplido tu edad ordinaria, trabajar más además te da derecho a la <a href="/jubilacion/demorada/">jubilación demorada</a>.</p>
@@ -3472,7 +3472,7 @@
 <p><strong>Pendiente de confirmar con el INSS.</strong> Las fuentes consultadas describen el incremento como un porcentaje «sobre el importe de la pensión anterior a la jubilación flexible», que es como lo hemos calculado. Antes de tomar una decisión, pide que te confirmen la cuantía con tus datos.</p>
 </div>
 <h3 id="por-cuenta-propia-autonomos">Por cuenta propia (autónomos)</h3>
-<p>Si vuelves a trabajar como autónomo, cobras el <strong>25 % de tu pensión</strong> mientras dure la actividad. Para acogerte, <strong>no puedes haber estado de alta como autónomo en los 3 años anteriores a tu jubilación</strong>. En este caso no hay que esperar 6 meses.</p>
+<p>Si vuelves a trabajar como autónomo, cobras el <strong>25 % de tu pensión</strong> mientras dure la actividad. Para acogerte, <strong>no puedes haber estado de alta como autónomo en los 3 años anteriores a tu jubilación</strong>. En este caso no hay que esperar 6 meses. Si aún no te has jubilado, repasa antes los requisitos de la <a href="/jubilacion/autonomos/">jubilación de autónomos</a>.</p>
 <h2 id="a-quien-le-interesa">A quién le interesa</h2>
 <ul>
 <li><strong>Jubilados que quieren seguir en activo a media jornada</strong>, por dinero o por gusto, sin renunciar a toda la pensión.</li>

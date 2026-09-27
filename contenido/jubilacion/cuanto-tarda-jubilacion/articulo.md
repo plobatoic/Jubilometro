@@ -33,7 +33,7 @@ fuentes_legales:
 
 Los casos sencillos, como una jubilación ordinaria con la vida laboral en orden, suelen ser los más rápidos. Tardan más:
 
-- Las solicitudes con **periodos trabajados en el extranjero**, porque hay que pedir datos al otro país.
+- Las solicitudes con **[periodos trabajados en el extranjero](/jubilacion/trabajado-en-otro-pais/)**, porque hay que pedir datos al otro país.
 - Las **jubilaciones anticipadas involuntarias** o con **coeficientes reductores**, que exigen revisar documentos.
 - Las solicitudes **incompletas** o con **errores en la vida laboral**.
 

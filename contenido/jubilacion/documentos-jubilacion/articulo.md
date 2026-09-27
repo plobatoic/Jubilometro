@@ -46,7 +46,7 @@ No hace falta que lleves tu vida laboral: la Seguridad Social ya tiene tus cotiz
 | Profesión con coeficientes reductores (bomberos, policía local, mineros, mar…) | Certificado de empresa con la categoría profesional y los periodos trabajados en ella |
 | Discapacidad | Certificado del grado de discapacidad y, en la vía del 45 %, informes que acrediten la patología |
 | Servicio militar para la anticipada | Certificado del periodo de servicio militar o de prestación social sustitutoria |
-| Has trabajado en otro país | Documentos de los periodos cotizados en el extranjero; si es un país de la UE o con convenio, la Seguridad Social los pide al otro país |
+| Has trabajado en otro país | Documentos de los periodos cotizados en el extranjero; si es un país de la UE o con convenio, la Seguridad Social los pide al otro país ([cómo se suman esos años](/jubilacion/trabajado-en-otro-pais/)) |
 | Autónomo con cuotas pendientes | Justificante de pago de las cuotas (tras la invitación al pago) |
 | Solicitud a través de un representante | Documento que acredite la representación y DNI del representante |
 

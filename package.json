@@ -4,7 +4,11 @@
   "type": "module",
   "scripts": {
     "test": "node --test herramientas/edad-jubilacion/edad-jubilacion.test.mjs herramientas/publicar/publicar.test.mjs",
-    "html": "node herramientas/publicar/construir-articulos.mjs"
+    "publicar": "node herramientas/edad-jubilacion/construir.mjs && node herramientas/publicar/construir-articulos.mjs",
+    "html": "node herramientas/publicar/construir-articulos.mjs",
+    "comprobar": "NODE_PATH=$(npm root -g) node herramientas/publicar/comprobar.cjs",
+    "e2e": "NODE_PATH=$(npm root -g) node herramientas/edad-jubilacion/widget.e2e.cjs && NODE_PATH=$(npm root -g) node herramientas/edad-jubilacion/widget.e2e.cjs contenido/calculadoras/edad-de-jubilacion/articulo.html && NODE_PATH=$(npm root -g) node herramientas/compensa/widget.e2e.cjs",
+    "pdf": "NODE_PATH=$(npm root -g) node herramientas/checklist/pdf.cjs"
   },
   "devDependencies": {
     "js-yaml": "^4.3.2",

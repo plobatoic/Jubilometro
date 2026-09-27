@@ -45,7 +45,7 @@ No es lo mismo que te falten años para cobrar una pensión que para mejorarla:
 | 37 años | Cobrar el 100 % de la base reguladora (desde 2027) |
 | 38 años y 6 meses | Jubilarte a los 65 en lugar de a los 67 (desde 2027) |
 
-Consulta tu **informe de vida laboral** para saber exactamente cuántos días tienes. Recuerda que para la edad y para el mínimo de 15 años se cuentan años y meses completos, sin la parte proporcional de las pagas extra.
+Consulta tu **informe de vida laboral** para saber exactamente cuántos días tienes. Recuerda que para la edad y para el mínimo de 15 años se cuentan años y meses completos, sin la parte proporcional de las pagas extra. Con esos datos, la [calculadora de edad de jubilación](/calculadoras/edad-de-jubilacion/) te dice qué día cumplirías los requisitos si sigues cotizando.
 
 ## Vía 1: seguir cotizando trabajando
 

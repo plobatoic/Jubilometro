@@ -75,7 +75,7 @@ Si hubiera vuelto al trabajo a los 3 meses de jubilarse, cobraría solo los 600 
 
 ### Por cuenta propia (autónomos)
 
-Si vuelves a trabajar como autónomo, cobras el **25 % de tu pensión** mientras dure la actividad. Para acogerte, **no puedes haber estado de alta como autónomo en los 3 años anteriores a tu jubilación**. En este caso no hay que esperar 6 meses.
+Si vuelves a trabajar como autónomo, cobras el **25 % de tu pensión** mientras dure la actividad. Para acogerte, **no puedes haber estado de alta como autónomo en los 3 años anteriores a tu jubilación**. En este caso no hay que esperar 6 meses. Si aún no te has jubilado, repasa antes los requisitos de la [jubilación de autónomos](/jubilacion/autonomos/).
 
 ## A quién le interesa
 

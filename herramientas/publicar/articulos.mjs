@@ -227,8 +227,14 @@ ${cuerpoHtml(articulo, urlsExistentes)}</article>
 }
 
 // Cuerpo para el editor de WordPress: sin H1 (el título del post ya lo es).
+// Cuerpo para WordPress: sin H1 (lo pone el tema con el título), calculadoras en un
+// bloque «HTML personalizado» y archivos propios (imágenes, PDF) en /wp-content/uploads/,
+// donde quedan si se suben con la opción de carpetas por mes y año desactivada.
 export function cuerpoWordPress(articulo, urlsExistentes = null) {
-  return cuerpoHtml(articulo, urlsExistentes).replace(/<header>\n<h1>[\s\S]*?<\/h1>\n/, '<header>\n');
+  return cuerpoHtml(articulo, urlsExistentes)
+    .replace(/<header>\n<h1>[\s\S]*?<\/h1>\n/, '<header>\n')
+    .replace(/<!-- CALCULADORA:INICIO -->\n([\s\S]*?)\n<!-- CALCULADORA:FIN -->/g, '<!-- wp:html -->\n$1\n<!-- /wp:html -->')
+    .replace(/(src|href)="(?:imagenes|descargas)\/([^"/]+)"/g, '$1="/wp-content/uploads/$2"');
 }
 
 export function rutaRelativa(ruta) {
