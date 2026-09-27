@@ -468,6 +468,162 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Jubilación anticipada por profesión (bomberos, policía local, mineros…): coeficientes reductores de edad]]></title>
+    <link>https://jubilometro.com/jubilacion/anticipada-por-profesion/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-27">27 de septiembre de 2026</time> · Por [AUTOR] · Revisado por [REVISOR, graduado social colegiado n.º …]</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Algunas profesiones especialmente penosas o peligrosas tienen <strong>coeficientes reductores de la edad de jubilación</strong>: por cada año trabajado en ellas, tu edad de jubilación baja una fracción de año. Por ejemplo, con un coeficiente de 0,20, cada 5 años trabajados adelantan un año tu jubilación.</p>
+<p>A diferencia de la jubilación anticipada voluntaria, <strong>no se recorta la pensión</strong>: el tiempo adelantado cuenta como cotizado para calcularla. Tienen coeficientes, entre otros, los bomberos, los policías locales, los bomberos y agentes forestales, los mineros, los trabajadores del mar y el personal de vuelo.</p>
+</aside>
+<h2 id="como-funcionan-los-coeficientes-reductores-de-la-edad">Cómo funcionan los coeficientes reductores de la edad</h2>
+<p>Se multiplica el coeficiente por los años <strong>efectivamente trabajados</strong> en la profesión, y el resultado se resta de tu edad ordinaria de jubilación.</p>
+<p><strong>Ejemplo con un coeficiente de 0,20.</strong> Un policía local con 25 años de servicio: 25 × 0,20 = 5 años. Si su edad ordinaria es 67, podría jubilarse <strong>a los 62</strong>. Con 30 años de servicio el cálculo daría 6 años, pero ese sexto año exige una carrera de 37 años como policía local, así que se quedaría también en 5 (ver los límites más abajo).</p>
+<p>Dos reglas generales (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a206" rel="noopener">artículo 206 de la Ley General de la Seguridad Social</a>):</p>
+<ul>
+<li><strong>Sin recorte en la pensión:</strong> el periodo en que se adelanta la edad cuenta como cotizado para calcular el porcentaje de tu base reguladora.</li>
+<li><strong>Cotización adicional:</strong> estos colectivos y sus empresas pagan una cotización extra para financiar el adelanto. En policías locales y agentes forestales es del <strong>10,60 %</strong> (en su mayor parte a cargo de la administración).</li>
+</ul>
+<h2 id="profesiones-con-coeficientes-reductores">Profesiones con coeficientes reductores</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Principales colectivos con coeficientes reductores de la edad de jubilación</caption>
+<thead>
+<tr>
+<th scope="col">Colectivo</th>
+<th scope="col">Coeficiente</th>
+<th scope="col">Norma</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Bomberos al servicio de las administraciones públicas</th>
+<td>0,20</td>
+<td>Real Decreto 383/2008</td>
+</tr>
+<tr>
+<th scope="row">Policías locales</th>
+<td>0,20</td>
+<td><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-17135" rel="noopener">Real Decreto 1449/2018</a></td>
+</tr>
+<tr>
+<th scope="row">Miembros de la Ertzaintza y de otros cuerpos policiales autonómicos, según su norma</th>
+<td>0,20</td>
+<td>Normas propias</td>
+</tr>
+<tr>
+<th scope="row">Bomberos forestales</th>
+<td>0,20</td>
+<td>Real Decreto 817/2025</td>
+</tr>
+<tr>
+<th scope="row">Agentes forestales y medioambientales de las administraciones públicas</th>
+<td>0,20</td>
+<td><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20696" rel="noopener">Real Decreto 919/2025</a></td>
+</tr>
+<tr>
+<th scope="row">Minería del carbón</th>
+<td>Del 0,05 al 0,50 según la categoría</td>
+<td>Real Decreto 2366/1984</td>
+</tr>
+<tr>
+<th scope="row">Trabajadores del mar</th>
+<td>Según el tipo de embarcación y actividad</td>
+<td>Régimen Especial del Mar</td>
+</tr>
+<tr>
+<th scope="row">Personal de vuelo de trabajos aéreos</th>
+<td>Según la función</td>
+<td>Real Decreto 1559/1986</td>
+</tr>
+<tr>
+<th scope="row">Trabajadores ferroviarios</th>
+<td>Según la categoría</td>
+<td>Real Decreto 2621/1986</td>
+</tr>
+<tr>
+<th scope="row">Artistas y profesionales taurinos</th>
+<td>Reglas propias de edad</td>
+<td>Real Decreto 2621/1986</td>
+</tr>
+</tbody></table>
+</div>
+<p>El coeficiente concreto de cada categoría de minería, mar, vuelo o ferrocarril está en su norma. Si trabajas en uno de estos sectores, pide a tu empresa el certificado de los periodos trabajados con derecho a coeficiente.</p>
+<h2 id="limites-de-adelanto">Límites de adelanto</h2>
+<p>Los colectivos con coeficiente de 0,20 no pueden adelantar la jubilación sin límite. En los casos de policías locales y agentes forestales:</p>
+<ul>
+<li><strong>Como máximo 5 años antes</strong> de tu edad ordinaria.</li>
+<li><strong>Hasta 6 años antes</strong> si acreditas una carrera muy larga en el colectivo. En los policías locales, desde 2027 se exigen <strong>37 años de cotización efectiva como policía local</strong> para ese sexto año (36 años y 6 meses entre 2023 y 2026).</li>
+</ul>
+<p>Además, estas normas exigen haber trabajado un mínimo de años en la profesión: por ejemplo, <strong>15 años</strong> cotizados como agente forestal y medioambiental.</p>
+<h2 id="bomberos-y-agentes-forestales-lo-ultimo">Bomberos y agentes forestales: lo último</h2>
+<ul>
+<li><strong>Bomberos forestales:</strong> el Real Decreto 817/2025 (BOE del 17 de septiembre de 2025) les reconoce un coeficiente del 0,20.</li>
+<li><strong>Agentes forestales y medioambientales:</strong> el Real Decreto 919/2025, de 15 de octubre, fija también un 0,20 para los funcionarios del Régimen General con funciones de vigilancia y custodia del medio natural. Su aplicación quedó ligada a la norma que fije su cotización adicional; si es tu caso, confirma con la Seguridad Social que ya se aplica.</li>
+</ul>
+<h2 id="nuevas-profesiones-el-procedimiento-de-2025">Nuevas profesiones: el procedimiento de 2025</h2>
+<p>Desde 2025 existe un procedimiento reglado para que otros colectivos puedan conseguir coeficientes reductores (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2025-10488" rel="noopener">Real Decreto 402/2025</a>). Lo pueden iniciar las organizaciones empresariales y sindicales, y lo evalúa una comisión con indicadores objetivos de penosidad, peligrosidad, morbilidad y mortalidad. Solo se aprueban coeficientes cuando no es posible mejorar las condiciones de trabajo o cambiar de puesto.</p>
+<h2 id="como-solicitarla">Cómo solicitarla</h2>
+<ol>
+<li><strong>Pide a tu empresa o administración el certificado</strong> de los periodos trabajados en la actividad con derecho a coeficiente.</li>
+<li><strong>Comprueba tu vida laboral</strong> y calcula cuánto se reduce tu edad.</li>
+<li><strong>Solicita la pensión</strong> en Tu Seguridad Social o con cita previa, aportando el certificado.</li>
+</ol>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="los-policias-nacionales-y-guardias-civiles-tienen-coeficient">¿Los policías nacionales y guardias civiles tienen coeficientes reductores?</h3>
+<p>Tienen su propio régimen de jubilación, con reglas distintas según si están en Clases Pasivas o en el Régimen General. Este artículo trata de los colectivos del sistema de la Seguridad Social; consulta tu caso con tu unidad de personal.</p>
+<h3 id="se-recorta-la-pension-si-me-jubilo-antes-por-mi-profesion">¿Se recorta la pensión si me jubilo antes por mi profesión?</h3>
+<p>No. Es una de las grandes diferencias con la jubilación anticipada voluntaria: el tiempo que adelantas cuenta como cotizado para calcular tu pensión.</p>
+<h3 id="puedo-sumar-el-coeficiente-de-mi-profesion-y-la-jubilacion-a">¿Puedo sumar el coeficiente de mi profesión y la jubilación anticipada voluntaria?</h3>
+<p>Son figuras distintas. Si te planteas combinarlas, pide que la Seguridad Social calcule tu caso.</p>
+<h3 id="mi-profesion-es-dura-pero-no-esta-en-la-lista-que-puedo-hace">Mi profesión es dura pero no está en la lista, ¿qué puedo hacer?</h3>
+<p>Los sindicatos o asociaciones empresariales de tu sector pueden iniciar el procedimiento del Real Decreto 402/2025 para pedir un coeficiente.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a206" rel="noopener">Ley General de la Seguridad Social, artículo 206</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-17135" rel="noopener">Real Decreto 1449/2018, policías locales</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20696" rel="noopener">Real Decreto 919/2025, agentes forestales y medioambientales</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2025-10488" rel="noopener">Real Decreto 402/2025, procedimiento para nuevos coeficientes</a> (BOE).</li>
+<li><a href="https://www.inclusion.gob.es/en/w/el-gobierno-aprueba-un-coeficiente-reductor-de-la-edad-de-jubilacion-para-los-bomberos-forestales" rel="noopener">Ministerio de Inclusión: coeficiente reductor para los bomberos forestales</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Tienes una discapacidad reconocida? Mira la <a href="/jubilacion/anticipada-discapacidad/">jubilación anticipada por discapacidad</a>.</li>
+<li>¿Cuál es tu edad ordinaria? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
+<li>¿Quieres adelantar más? Lee la <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [EMAIL DE CONTACTO].</p>
+<p>Historial de cambios: 27 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién puede y cómo se calcula.]]></excerpt:encoded>
+    <wp:post_id>9003</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[anticipada-por-profesion]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación anticipada por profesión: coeficientes reductores]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién puede y cómo se calcula.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[coeficientes reductores edad jubilación profesión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación anticipada por profesión: coeficientes reductores]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién puede y cómo se calcula.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[coeficientes reductores edad jubilación profesión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Jubilación anticipada voluntaria: requisitos, coeficientes reductores y ejemplos con cifras]]></title>
     <link>https://jubilometro.com/jubilacion/anticipada-voluntaria/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -634,7 +790,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9003</wp:post_id>
+    <wp:post_id>9004</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -793,7 +949,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9004</wp:post_id>
+    <wp:post_id>9005</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1015,7 +1171,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9005</wp:post_id>
+    <wp:post_id>9006</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1185,7 +1341,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9006</wp:post_id>
+    <wp:post_id>9007</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1834,7 +1990,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9007</wp:post_id>
+    <wp:post_id>9008</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2012,7 +2168,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9008</wp:post_id>
+    <wp:post_id>9009</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2146,7 +2302,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9010</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2270,7 +2426,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
