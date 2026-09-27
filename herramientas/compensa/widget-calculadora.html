@@ -1,0 +1,66 @@
+<!-- Calculadora del punto de equilibrio de la jubilación anticipada (escrita a mano; sin dependencias) -->
+<div class="calc-jubi calc-compensa">
+  <style>
+    .calc-compensa { --cj-fondo: #f2f6fb; --cj-borde: #c9d6e6; --cj-tinta: #14213d; --cj-tinta-2: #3d4a63; --cj-acento: #1f5fa8; --cj-acento-tinta: #fff; --cj-ok: #1d6b45; --cj-aviso: #8a4b00;
+      background: var(--cj-fondo); border: 1px solid var(--cj-borde); border-radius: 12px; padding: 20px; margin: 28px 0; color: var(--cj-tinta); }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .calc-compensa { --cj-fondo: #16202e; --cj-borde: #2d3d54; --cj-tinta: #eef2f7; --cj-tinta-2: #b9c4d3; --cj-acento: #5b9be0; --cj-acento-tinta: #0b1422; --cj-ok: #6fd3a0; --cj-aviso: #ffcf8a; } }
+    :root[data-theme="dark"] .calc-compensa { --cj-fondo: #16202e; --cj-borde: #2d3d54; --cj-tinta: #eef2f7; --cj-tinta-2: #b9c4d3; --cj-acento: #5b9be0; --cj-acento-tinta: #0b1422; --cj-ok: #6fd3a0; --cj-aviso: #ffcf8a; }
+    .calc-compensa .cj-titulo { font-size: 1.3rem; margin: 0 0 6px; line-height: 1.3; }
+    .calc-compensa p { margin: 0 0 12px; }
+    .calc-compensa .cj-fila { display: flex; flex-wrap: wrap; gap: 12px; margin-bottom: 16px; }
+    .calc-compensa label { display: flex; flex-direction: column; gap: 4px; font-size: 0.95rem; color: var(--cj-tinta-2); }
+    .calc-compensa input, .calc-compensa select { font: inherit; font-size: 1.05rem; color: var(--cj-tinta); background: transparent; border: 1px solid var(--cj-borde); border-radius: 8px; padding: 10px 12px; min-height: 48px; width: 9em; box-sizing: border-box; }
+    .calc-compensa button { font: inherit; font-weight: 700; font-size: 1.05rem; background: var(--cj-acento); color: var(--cj-acento-tinta); border: 0; border-radius: 8px; padding: 12px 24px; min-height: 48px; cursor: pointer; }
+    .calc-compensa button:focus-visible, .calc-compensa input:focus-visible, .calc-compensa select:focus-visible { outline: 3px solid var(--cj-acento); outline-offset: 2px; }
+    .calc-compensa .cj-resultado:empty { display: none; }
+    .calc-compensa .cj-resultado { margin-top: 18px; }
+    .calc-compensa .cj-fecha { font-size: 1.3rem; font-weight: 700; color: var(--cj-ok); }
+    .calc-compensa .cj-error { color: var(--cj-aviso); font-weight: 700; }
+    .calc-compensa .cj-nota { font-size: 0.85rem; color: var(--cj-tinta-2); margin: 14px 0 0; }
+  </style>
+  <h3 class="cj-titulo">¿A qué edad recuperas lo cobrado por jubilarte antes?</h3>
+  <p>Mira en el simulador de la Seguridad Social tu recorte (coeficiente reductor) y los meses que adelantas. El cálculo se hace en tu navegador.</p>
+  <form class="cj-form" novalidate>
+    <div class="cj-fila">
+      <label>Edad ordinaria
+        <select name="edad"><option value="65">65 años</option><option value="67" selected>67 años</option></select>
+      </label>
+      <label>Meses de adelanto <input name="meses" type="number" inputmode="numeric" min="1" max="48" value="24"></label>
+      <label>Recorte (%) <input name="recorte" type="number" inputmode="decimal" min="0.1" max="30" step="0.01" value="21"></label>
+      <label>Pensión sin recorte (€/mes, opcional) <input name="pension" type="number" inputmode="decimal" min="0" step="1"></label>
+    </div>
+    <button type="submit">Calcular</button>
+  </form>
+  <div class="cj-resultado" aria-live="polite"></div>
+  <p class="cj-nota">Compara solo pensiones: no incluye salario, paro, impuestos ni revalorizaciones (que afectan por igual a las dos opciones). Es orientativo.</p>
+  <script>
+  (function () {
+    var raiz = document.currentScript.closest('.calc-compensa');
+    var form = raiz.querySelector('form');
+    var salida = raiz.querySelector('.cj-resultado');
+    function p(texto, clase) { var e = document.createElement('p'); if (clase) e.className = clase; e.textContent = texto; return e; }
+    function euros(n) { return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, '.') + ' €'; }
+    form.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      salida.replaceChildren();
+      var edad = Number(form.elements.edad.value);
+      var meses = Number(form.elements.meses.value);
+      var r = Number(String(form.elements.recorte.value).replace(',', '.')) / 100;
+      var pension = Number(form.elements.pension.value);
+      if (!Number.isInteger(meses) || meses < 1 || meses > 48 || !(r > 0 && r < 1)) {
+        salida.append(p('Revisa los meses (1 a 48) y el recorte (mayor que 0).', 'cj-error'));
+        return;
+      }
+      var mesesEquilibrio = meses * (1 - r) / r;
+      var total = edad * 12 + mesesEquilibrio;
+      var anos = Math.floor(total / 12), resto = Math.round(total - anos * 12);
+      if (resto === 12) { anos += 1; resto = 0; }
+      salida.append(p('Punto de equilibrio: a los ' + anos + ' años' + (resto ? ' y ' + resto + (resto === 1 ? ' mes' : ' meses') : '') + '.', 'cj-fecha'));
+      salida.append(p('Si vives menos, cobras más en total jubilándote antes; si vives más, cobras menos.'));
+      if (pension > 0) {
+        salida.append(p('Cobras antes ' + euros(pension * (1 - r) * meses * 14 / 12) + ' en total durante el adelanto, y a partir de tu edad ordinaria dejas de cobrar ' + euros(pension * r * 14) + ' al año.'));
+      }
+    });
+  })();
+  </script>
+</div>
