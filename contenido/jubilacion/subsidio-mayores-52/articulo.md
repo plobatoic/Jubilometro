@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Subsidio para mayores de 52 años 2026: requisitos y cuantía"
 h1: "Subsidio para mayores de 52 años: requisitos, cuantía y efecto en tu futura pensión"
-meta_descripcion: "El subsidio para mayores de 52 años paga 480 € al mes hasta tu edad de jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y cómo afecta a tu pensión."
+meta_descripcion: "El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión."
 url: /jubilacion/subsidio-mayores-52/
 categoria: Jubilación
 miga: Subsidio para mayores de 52 años

@@ -1,5 +1,5 @@
 ---
-titulo_seo: "Cuánto tarda en resolverse la jubilación y qué hacer si se retrasa"
+titulo_seo: "Cuánto tarda la jubilación y qué hacer si se retrasa"
 h1: "Cuánto tarda en resolverse la jubilación y qué hacer si se retrasa"
 meta_descripcion: "La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos."
 url: /jubilacion/cuanto-tarda-jubilacion/

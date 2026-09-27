@@ -1282,10 +1282,10 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Cuánto tarda en resolverse la jubilación y qué hacer si se retrasa]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Cuánto tarda la jubilación y qué hacer si se retrasa]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[cuánto tarda en resolverse la jubilación]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cuánto tarda en resolverse la jubilación y qué hacer si se retrasa]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cuánto tarda la jubilación y qué hacer si se retrasa]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cuánto tarda en resolverse la jubilación]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
@@ -3064,7 +3064,7 @@
 <p>Historial de cambios: 27 de septiembre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
-    <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu edad de jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y cómo afecta a tu pensión.]]></excerpt:encoded>
+    <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
     <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
@@ -3079,10 +3079,10 @@
     <wp:is_sticky>0</wp:is_sticky>
     <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Subsidio para mayores de 52 años 2026: requisitos y cuantía]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu edad de jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y cómo afecta a tu pensión.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[subsidio mayores de 52 años]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Subsidio para mayores de 52 años 2026: requisitos y cuantía]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu edad de jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y cómo afecta a tu pensión.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[subsidio mayores de 52 años]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
   </item>
