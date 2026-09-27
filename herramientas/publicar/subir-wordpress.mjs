@@ -103,7 +103,7 @@ for (const a of articulos) {
   if (destacada && !entrada?.featured_media) {
     const medio = await buscarMedio(destacada.archivo);
     if (!medio) throw new Error(`No está en la biblioteca: ${destacada.archivo}`);
-    if (!medio.alt_text) await api(`/wp/v2/media/${medio.id}`, { method: 'POST', json: { alt_text: destacada.alt } });
+    if (!medio.alt_text && !PRUEBA) await api(`/wp/v2/media/${medio.id}`, { method: 'POST', json: { alt_text: destacada.alt } });
     campos.featured_media = medio.id;
   }
   if (PUBLICAR) campos.status = 'publish';

@@ -1,0 +1,86 @@
+{
+  "/jubilacion/15-anos-cotizados/": {
+    "id": 290,
+    "estado": "draft"
+  },
+  "/jubilacion/activa/": {
+    "id": 143,
+    "estado": "draft"
+  },
+  "/jubilacion/anticipada-discapacidad/": {
+    "id": 292,
+    "estado": "draft"
+  },
+  "/jubilacion/anticipada-involuntaria/": {
+    "id": 141,
+    "estado": "draft"
+  },
+  "/jubilacion/anticipada-por-profesion/": {
+    "id": 294,
+    "estado": "draft"
+  },
+  "/jubilacion/anticipada-voluntaria/": {
+    "id": 140,
+    "estado": "draft"
+  },
+  "/jubilacion/autonomos/": {
+    "id": 296,
+    "estado": "draft"
+  },
+  "/jubilacion/compensa-jubilarse-antes/": {
+    "id": 297,
+    "estado": "draft"
+  },
+  "/jubilacion/convenio-especial/": {
+    "id": 298,
+    "estado": "draft"
+  },
+  "/jubilacion/cuanto-tarda-jubilacion/": {
+    "id": 299,
+    "estado": "draft"
+  },
+  "/jubilacion/demorada/": {
+    "id": 142,
+    "estado": "draft"
+  },
+  "/jubilacion/despido-a-los-60/": {
+    "id": 301,
+    "estado": "draft"
+  },
+  "/jubilacion/documentos-jubilacion/": {
+    "id": 302,
+    "estado": "draft"
+  },
+  "/jubilacion/edad-de-jubilacion/": {
+    "id": 303,
+    "estado": "draft"
+  },
+  "/jubilacion/faltan-anos-cotizados/": {
+    "id": 304,
+    "estado": "draft"
+  },
+  "/jubilacion/flexible-activa-o-parcial/": {
+    "id": 305,
+    "estado": "draft"
+  },
+  "/jubilacion/flexible/": {
+    "id": 144,
+    "estado": "draft"
+  },
+  "/jubilacion/parcial/": {
+    "id": 145,
+    "estado": "draft"
+  },
+  "/jubilacion/solicitar-jubilacion-internet/": {
+    "id": 147,
+    "estado": "draft"
+  },
+  "/jubilacion/subsidio-mayores-52/": {
+    "id": 309,
+    "estado": "draft"
+  },
+  "/jubilacion/trabajado-en-otro-pais/": {
+    "id": 310,
+    "estado": "draft"
+  }
+}

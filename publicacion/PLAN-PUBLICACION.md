@@ -2,7 +2,7 @@
 
 Estado a 27 de septiembre de 2026: **22 páginas terminadas como borrador** (los 21 artículos del apartado 1 del informe y la calculadora de edad de jubilación, herramienta n.º 94). Ninguna está publicada todavía.
 
-La web jubilometro.com ya está montada en Hostinger (tema «Jubilómetro» sobre Kadence, plugin «Jubilómetro · Núcleo», Rank Math, secciones, 10 calculadoras y páginas legales). Los 21 artículos se suben a ella con `npm run subir` (punto 4). La calculadora de edad de jubilación ya estaba publicada en la web y da los mismos resultados que la del proyecto, así que no se duplica.
+La web jubilometro.com ya está montada en Hostinger (tema «Jubilómetro» sobre Kadence, plugin «Jubilómetro · Núcleo», Rank Math, secciones, 10 calculadoras y páginas legales). Los 21 artículos se suben a ella con `npm run subir` (punto 4): **el 27/09/2026 quedaron subidos como borradores** (identificadores en `publicacion/wordpress-entradas.json`) y la portada ya enlaza a sus URL. La calculadora de edad de jubilación ya estaba publicada en la web y da los mismos resultados que la del proyecto, así que no se duplica.
 
 ## 1. Decisión: lanzar el clúster completo el mismo día
 
@@ -88,7 +88,7 @@ Los archivos `wordpress-borradores.xml` y `wordpress-paginas.xml` quedan para un
 
 1. **Revisa la vista previa** de cada borrador en WordPress: respuesta rápida, tablas, enlaces, calculadoras y firma.
 2. **Publica las 21 entradas**: `npm run subir -- --publicar` (o una a una desde WordPress).
-3. **Portada**: cambia los 3 enlaces a las URL antiguas (`/jubilacion/jubilacion-activa/`, `/jubilacion/jubilacion-demorada/` y `/jubilacion/jubilacion-flexible/`) por `/jubilacion/activa/`, `/jubilacion/demorada/` y `/jubilacion/flexible/`. En la página «Jubilación», cambia «8 guías» y «8 artículos» por 21.
+3. **Portada**: los 3 enlaces a las URL antiguas (`/jubilacion/jubilacion-activa/`, `/jubilacion/jubilacion-demorada/` y `/jubilacion/jubilacion-flexible/`) ya apuntan a `/jubilacion/activa/`, `/jubilacion/demorada/` y `/jubilacion/flexible/` (hecho el 27/09/2026). En la página «Jubilación», cambia «8 guías» y «8 artículos» por 21.
 4. **CDN de Hostinger**: vuelve a activarla (se desactivó para diagnosticar la conexión) y purga la caché de LiteSpeed.
 5. Comprueba 4 o 5 URL al azar y la calculadora en el móvil.
 6. **Google Search Console**: verifica el dominio, envía el sitemap (`/sitemap_index.xml` de Rank Math) y pide la indexación manual de la guía de edad de jubilación, la calculadora, la anticipada voluntaria, la flexible y la anticipada involuntaria.
