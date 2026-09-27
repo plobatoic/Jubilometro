@@ -1,0 +1,132 @@
+// Sube los artículos a jubilometro.com por la API REST de WordPress, con el cuerpo adaptado al
+// tema de la web (web.mjs), título, extracto, categoría y título, descripción y palabra clave
+// de Rank Math. Las entradas nuevas se crean como BORRADOR. Si la entrada ya existe (mismo
+// slug, o la plantilla del mismo tema que ya tenía la web), se actualiza sin cambiar su
+// estado, así que sirve también para subir correcciones de artículos ya publicados.
+//
+// Uso:
+//   WP_USER=usuario WP_APP_PASSWORD='xxxx xxxx xxxx xxxx xxxx xxxx' npm run subir
+//   npm run subir -- --prueba     solo dice qué haría, sin cambiar nada en la web
+//   npm run subir -- --publicar   además, publica las entradas (solo tras revisarlas)
+// La contraseña es una «contraseña de aplicación» (WordPress > Usuarios > Perfil).
+import { readFileSync, writeFileSync } from 'node:fs';
+import { basename, join } from 'node:path';
+import { listarArticulos, leerArticulo, RAIZ } from './articulos.mjs';
+import { cuerpoWeb, urlsDeLaWeb, NO_SE_SUBEN, PLANTILLAS, IMAGENES_DESTACADAS, ARCHIVOS } from './web.mjs';
+
+const WEB = process.env.WP_URL ?? 'https://jubilometro.com';
+const { WP_USER, WP_APP_PASSWORD } = process.env;
+if (!WP_USER || !WP_APP_PASSWORD) {
+  console.error('Faltan las variables WP_USER y WP_APP_PASSWORD.');
+  process.exit(1);
+}
+const AUTORIZACION = `Basic ${Buffer.from(`${WP_USER}:${WP_APP_PASSWORD}`).toString('base64')}`;
+const PUBLICAR = process.argv.includes('--publicar');
+const PRUEBA = process.argv.includes('--prueba');
+const CATEGORIAS = { 'Jubilación': 'jubilacion', 'Cuánto cobraré': 'cuanto-cobrare', 'Calculadoras': 'calculadoras' };
+const TIPOS = { webp: 'image/webp', png: 'image/png', pdf: 'application/pdf' };
+
+// Las lecturas y las actualizaciones se reintentan si se corta la conexión; las altas no,
+// para no duplicar nada (volver a ejecutar el script encuentra lo que ya se creó).
+async function api(ruta, { method = 'GET', json, datos, cabeceras = {}, reintentar = true } = {}) {
+  for (let intento = 1; ; intento++) {
+    let respuesta;
+    try {
+      respuesta = await fetch(`${WEB}/wp-json${ruta}`, {
+        method,
+        headers: { Authorization: AUTORIZACION, ...(json ? { 'Content-Type': 'application/json' } : {}), ...cabeceras },
+        body: json ? JSON.stringify(json) : datos,
+      });
+    } catch (e) {
+      if (!reintentar || intento === 5) throw e;
+      await new Promise((ok) => setTimeout(ok, 2000 * intento));
+      continue;
+    }
+    const texto = await respuesta.text();
+    if (!respuesta.ok) throw new Error(`${method} ${ruta}: ${respuesta.status} ${texto.slice(0, 300)}`);
+    return texto ? JSON.parse(texto) : null;
+  }
+}
+
+const ruta = (url) => new URL(url).pathname;
+
+async function buscarMedio(nombre) {
+  const base = nombre.replace(/\.[a-z0-9]+$/, '');
+  const lista = await api(`/wp/v2/media?search=${encodeURIComponent(base)}&per_page=50&context=edit&_fields=id,source_url,alt_text`);
+  return lista.find((m) => ruta(m.source_url).endsWith(`/${nombre}`));
+}
+
+async function subirArchivo(relativa) {
+  const nombre = basename(relativa);
+  const existente = await buscarMedio(nombre);
+  if (existente) return ruta(existente.source_url);
+  if (PRUEBA) {
+    console.log(`Subiría ${nombre}`);
+    return `/wp-content/uploads/${nombre}`;
+  }
+  const medio = await api('/wp/v2/media', {
+    method: 'POST', reintentar: false, datos: readFileSync(join(RAIZ, relativa)),
+    cabeceras: { 'Content-Type': TIPOS[nombre.split('.').pop()], 'Content-Disposition': `attachment; filename="${nombre}"` },
+  });
+  console.log(`Subido ${nombre}`);
+  return ruta(medio.source_url);
+}
+
+async function buscarEntrada(slug) {
+  const lista = await api(`/wp/v2/posts?slug=${encodeURIComponent(slug)}&status=any&context=edit&_fields=id,slug,status,featured_media`);
+  return lista[0];
+}
+
+const articulos = listarArticulos().map(leerArticulo).filter((a) => !NO_SE_SUBEN.includes(a.datos.url));
+const existe = urlsDeLaWeb(listarArticulos().map(leerArticulo));
+
+const medios = {};
+for (const archivo of ARCHIVOS) medios[basename(archivo)] = await subirArchivo(archivo);
+
+const idsCategoria = {};
+for (const slug of new Set(articulos.map((a) => CATEGORIAS[a.datos.categoria]))) {
+  const [categoria] = await api(`/wp/v2/categories?slug=${slug}&_fields=id`);
+  if (!categoria) throw new Error(`No existe la categoría ${slug}`);
+  idsCategoria[slug] = categoria.id;
+}
+
+const resumen = {};
+for (const a of articulos) {
+  const d = a.datos;
+  const slug = d.url.split('/').filter(Boolean).pop();
+  const entrada = (await buscarEntrada(slug)) ?? (PLANTILLAS[d.url] ? await buscarEntrada(PLANTILLAS[d.url]) : undefined);
+  const campos = {
+    title: d.h1, slug, content: cuerpoWeb(a, existe, medios), excerpt: d.meta_descripcion,
+    categories: [idsCategoria[CATEGORIAS[d.categoria]]], comment_status: 'closed', ping_status: 'closed',
+  };
+  const destacada = IMAGENES_DESTACADAS[d.url];
+  if (destacada && !entrada?.featured_media) {
+    const medio = await buscarMedio(destacada.archivo);
+    if (!medio) throw new Error(`No está en la biblioteca: ${destacada.archivo}`);
+    if (!medio.alt_text) await api(`/wp/v2/media/${medio.id}`, { method: 'POST', json: { alt_text: destacada.alt } });
+    campos.featured_media = medio.id;
+  }
+  if (PUBLICAR) campos.status = 'publish';
+  if (PRUEBA) {
+    const plantilla = entrada && entrada.slug !== slug ? ` (plantilla «${entrada.slug}»)` : '';
+    console.log(`${entrada ? `Actualizaría ${entrada.id} ${entrada.status}${plantilla}` : 'Crearía borrador'} ${d.url}` +
+      `${campos.featured_media ? ` · imagen ${campos.featured_media}` : ''} · ${campos.content.length} caracteres`);
+    continue;
+  }
+  const post = entrada
+    ? await api(`/wp/v2/posts/${entrada.id}`, { method: 'POST', json: campos })
+    : await api('/wp/v2/posts', { method: 'POST', reintentar: false, json: { status: 'draft', ...campos } });
+  await api('/rankmath/v1/updateMeta', {
+    method: 'POST',
+    json: {
+      objectType: 'post', objectID: post.id,
+      meta: { rank_math_title: d.titulo_seo, rank_math_description: d.meta_descripcion, rank_math_focus_keyword: d.palabra_clave_principal },
+    },
+  });
+  resumen[d.url] = { id: post.id, estado: post.status };
+  console.log(`${entrada ? 'Actualizada' : 'Creada    '} ${String(post.id).padStart(4)} ${post.status.padEnd(7)} ${d.url}`);
+}
+
+if (PRUEBA) process.exit(0);
+writeFileSync(join(RAIZ, 'publicacion', 'wordpress-entradas.json'), `${JSON.stringify(resumen, null, 2)}\n`);
+console.log(`\n${Object.keys(resumen).length} entradas. Lista en publicacion/wordpress-entradas.json`);

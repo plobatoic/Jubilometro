@@ -1,6 +1,8 @@
 # Plan de publicación · Categoría 1 «Jubilación»
 
-Estado a 27 de septiembre de 2026: **22 páginas terminadas como borrador** (los 21 artículos del apartado 1 del informe y la calculadora de edad de jubilación, herramienta n.º 94). Ninguna está publicada: todas esperan la revisión profesional.
+Estado a 27 de septiembre de 2026: **22 páginas terminadas como borrador** (los 21 artículos del apartado 1 del informe y la calculadora de edad de jubilación, herramienta n.º 94). Ninguna está publicada todavía.
+
+La web jubilometro.com ya está montada en Hostinger (tema «Jubilómetro» sobre Kadence, plugin «Jubilómetro · Núcleo», Rank Math, secciones, 10 calculadoras y páginas legales). Los 21 artículos se suben a ella con `npm run subir` (punto 4). La calculadora de edad de jubilación ya estaba publicada en la web y da los mismos resultados que la del proyecto, así que no se duplica.
 
 ## 1. Decisión: lanzar el clúster completo el mismo día
 
@@ -18,9 +20,10 @@ Por eso la recomendación es:
 - [x] **Autor**: Pau Lobato (equipo editorial de Jubilómetro), en la firma, en `autor:` y en el JSON-LD.
 - [x] **Correo de contacto**: plobatoic@gmail.com, con enlace mailto en el descargo final de los 22 artículos.
 - [x] **Datos «Cotejar en BOE»**: hecho el 27/09/2026. Las 39 filas se leyeron en el texto consolidado del BOE y están como «Verificado en BOE» en cada `verificacion-fuentes.md`. Se corrigieron 4 puntos en los artículos (anticipada involuntaria, convenio especial y jubilación flexible) y 3 referencias legales en las fichas de verificación.
-- [x] **Páginas de confianza** (E-E-A-T), escritas en `paginas/` y listas en `publicacion/wordpress-paginas.xml`: Quiénes somos, Política editorial, Contacto, Aviso legal, Política de privacidad y Política de cookies. Titular: Pau Lobato, Palafolls 08389 (Barcelona). Privacidad y cookies ya cubren Google AdSense. Hay que enlazarlas desde el pie (punto 4).
+- [x] **Páginas de confianza** (E-E-A-T), escritas en `paginas/` y listas en `publicacion/wordpress-paginas.xml`: Quiénes somos, Política editorial, Contacto, Aviso legal, Política de privacidad y Política de cookies. Titular: Pau Lobato, Palafolls 08389 (Barcelona). Privacidad y cookies ya cubren Google AdSense.
+- [ ] **Páginas de confianza en la web**: jubilometro.com ya tiene publicadas Quiénes somos (`/sobre-nosotros/`), Metodología (`/metodologia/`), Contacto, Aviso legal, `/politica-privacidad/` y `/politica-cookies/`, pero con textos más cortos que no mencionan AdSense ni el NIF. Hay que copiar en ellas el texto de `paginas/` manteniendo sus URL (no importar `wordpress-paginas.xml`, que crearía duplicados).
 - [x] **NIF en el aviso legal**: añadido (art. 10 LSSI).
-- [x] **Regenerado y comprobado** (27/09/2026): `npm run publicar` y `npm run comprobar` con las 22 páginas en «OK» y sin enlaces internos rotos. Usar el `wordpress-borradores.xml` actual.
+- [x] **Regenerado y comprobado** (27/09/2026): `npm run publicar` y `npm run comprobar` con las 22 páginas en «OK» y sin enlaces internos rotos. Los artículos se suben con `npm run subir` (punto 4).
 
 ## 3. Inventario y orden de revisión
 
@@ -29,7 +32,7 @@ Ordenado por prioridad (fase del informe, novedad legal y peso en el enlazado in
 | # | URL | Título SEO | Palabra clave principal | Fase | Entrantes | BOE por cotejar |
 |---|---|---|---|---|---|---|
 | 1 | /jubilacion/edad-de-jubilacion/ | Edad de jubilación en 2027: tabla por año de nacimiento | edad de jubilación 2027 | F1 | 15 | 9 |
-| 2 | /calculadoras/edad-de-jubilacion/ | Calculadora de edad de jubilación 2027: tu fecha exacta | calculadora edad de jubilación | F1 | 2 | 3 |
+| 2 | /calculadoras/edad-de-jubilacion/ (en la web: la calculadora ya publicada en /calculadoras/edad-jubilacion/, punto 4) | Calculadora de edad de jubilación 2027: tu fecha exacta | calculadora edad de jubilación | F1 | 2 | 3 |
 | 3 | /jubilacion/anticipada-voluntaria/ | Jubilación anticipada voluntaria 2027: requisitos y recortes | jubilación anticipada voluntaria | F1 | 6 | 4 |
 | 4 | /jubilacion/flexible/ | Jubilación flexible 2026: qué cambia con el RD 416/2026 | jubilación flexible 2026 | F1 | 7 | 1 |
 | 5 | /jubilacion/activa/ | Jubilación activa 2026: requisitos y cuánta pensión cobras | jubilación activa | F1 | 6 | 3 |
@@ -53,31 +56,43 @@ Ordenado por prioridad (fase del informe, novedad legal y peso en el enlazado in
 
 La meta description de cada página está en su `articulo.md` (campo `meta_descripcion`) y ya va dentro del archivo de importación para Yoast y Rank Math.
 
-## 4. Cómo importar en WordPress (jubilometro.com)
+## 4. Cómo subirlos a WordPress (jubilometro.com)
 
-1. **Enlaces permanentes** (Ajustes > Enlaces permanentes): estructura personalizada `/%category%/%postname%/`.
-2. **Quitar la base de categoría** para que las URL queden como `/jubilacion/…` y no `/category/jubilacion/…`:
-   - Yoast: Yoast SEO > Ajustes > Avanzado > URL de categorías > «Eliminar el prefijo de categorías».
-   - Rank Math: Rank Math > Ajustes generales > Enlaces > «Eliminar la base de categoría».
-3. **Medios** (Ajustes > Medios): desmarcar «Organizar mis archivos subidos en carpetas basadas en mes y año» y subir estos 3 archivos a la biblioteca. Los artículos ya los enlazan en `/wp-content/uploads/`:
-   - `contenido/jubilacion/edad-de-jubilacion/imagenes/edad-jubilacion-2013-2027.webp` (gráfico del artículo)
-   - `contenido/jubilacion/edad-de-jubilacion/imagenes/edad-jubilacion-2013-2027.png` (imagen destacada del artículo 1 y para redes sociales)
-   - `contenido/jubilacion/documentos-jubilacion/descargas/checklist-documentos-jubilacion.pdf`
+La web ya tiene los enlaces permanentes `/%category%/%postname%/`, la categoría «Jubilación» y un diseño propio, así que los artículos no se importan con el archivo WXR: se suben por la API REST con `herramientas/publicar/subir-wordpress.mjs`, que les da el formato del tema (`herramientas/publicar/web.mjs`).
 
-   Después puedes volver a activar la opción de carpetas si la usas.
-4. **Importar** (Herramientas > Importar > WordPress > Instalar ahora > Ejecutar el importador): subir `publicacion/wordpress-borradores.xml`, asignar las entradas a tu usuario y dejar sin marcar «Descargar e importar archivos adjuntos». Se crean las categorías «Jubilación» (`jubilacion`) y «Calculadoras» (`calculadoras`) y 22 entradas en **borrador**, con su título SEO, meta description y palabra clave en Yoast y en Rank Math.
-   Después, importa del mismo modo `publicacion/wordpress-paginas.xml`: crea las 6 páginas de confianza en borrador (Quiénes somos, Política editorial, Contacto, Aviso legal, Privacidad y Cookies). En Apariencia > Menús (o en el editor del sitio) añádelas al menú del pie, y en Ajustes > Privacidad elige «Política de privacidad» como página de privacidad.
-5. **Calculadoras**: las páginas 1, 2 y 8 llevan la calculadora en un bloque «HTML personalizado». Importa con una cuenta de **administrador**: WordPress quita los `<script>` a los demás roles. En WordPress.com hace falta un plan que permita HTML con scripts y plugins (Business/Creator o superior). Abre la vista previa y prueba la calculadora antes de publicar.
-6. **Imagen destacada** del artículo 1: el PNG subido en el paso 3.
-7. **Revisa en la vista previa** de cada borrador: la respuesta rápida, las tablas, los enlaces y la firma.
-8. **Datos estructurados**: Yoast o Rank Math ya generan Article, BreadcrumbList, WebSite y Organization. Los `articulo.html` del repositorio llevan su propio JSON-LD solo como referencia: no lo pegues en WordPress o saldrá duplicado.
+1. **Contraseña de aplicación**: en WordPress, Usuarios > Perfil > Contraseñas de aplicación. El usuario es el nombre de acceso (`paulobato`), no el correo ni el nombre visible.
+2. **Cabecera de autorización**: el servidor de Hostinger no pasaba la contraseña a WordPress. Se añadieron estas líneas al principio de `public_html/.htaccess`:
+
+   ```
+   SetEnvIf Authorization "(.*)" HTTP_AUTHORIZATION=$1
+   RewriteEngine On
+   RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+   ```
+3. **Prueba sin cambiar nada**: `WP_USER=paulobato WP_APP_PASSWORD='…' npm run subir -- --prueba` dice qué entradas crearía o actualizaría.
+4. **Subida**: `npm run subir`. Sube a la biblioteca de medios el gráfico del artículo 1 y el PDF de la lista de documentos, y crea o actualiza las 21 entradas **en borrador** con su título, extracto, categoría y el título, la descripción y la palabra clave de Rank Math. Guarda los identificadores en `publicacion/wordpress-entradas.json`. Se puede repetir: actualiza sin duplicar y sin cambiar el estado, así que también sirve para subir correcciones.
+
+Decisiones al adaptar el proyecto a la web:
+
+- **Plantillas reutilizadas**: la web tenía 62 borradores de plantilla (textos entre corchetes y una foto destacada). Los 7 que coinciden con artículos del proyecto (anticipada voluntaria e involuntaria, demorada, activa, flexible, parcial y solicitud por internet) se rellenan con el artículo y conservan su foto. Los otros 55 siguen en borrador para las próximas categorías.
+- **URL del proyecto**: más cortas y sin repetir «jubilacion» (`/jubilacion/demorada/` y no `/jubilacion/jubilacion-demorada/`). La portada enlazaba a 3 de las antiguas (activa, demorada y flexible) y hay que cambiarlas (punto 5).
+- **Calculadora de edad**: se mantiene la de la web, `/calculadoras/edad-jubilacion/`, que ya está en la portada y el menú. Se comparó con la del proyecto en 201.996 casos (año y mes de nacimiento, años cotizados) y coinciden todos. Los enlaces del proyecto a `/calculadoras/edad-de-jubilacion/` apuntan a ella, y el artículo 1 lleva una llamada a esa calculadora en lugar del widget.
+- **Formato del tema**: respuesta rápida, tablas, avisos, preguntas frecuentes desplegables, tarjetas de «Siguiente paso», lista de documentos con casillas y notas finales usan los componentes `jm-*` del tema. La firma de cada artículo usa la caja «revisado» del tema con el texto «Por Pau Lobato, equipo editorial de Jubilómetro. Fuentes verificadas en el BOE». Las pruebas comprueban que no se pierde ni una palabra del artículo.
+- **Llamadas a las calculadoras de la web**: anticipada voluntaria e involuntaria (calculadora de jubilación anticipada), demorada y activa (demorada y activa), 15 años cotizados y me faltan años cotizados (pensión de jubilación). La de flexible no se enlaza porque aún no incluye los incrementos del 15 % y el 25 % del RD 416/2026.
+- **Imagen destacada del artículo 1**: la foto `requisitos-jubilacion.webp` de la biblioteca. El gráfico no sirve de imagen destacada porque la plantilla la recorta. Los otros 13 artículos nuevos salen sin foto hasta que se añadan.
+- **Anuncios**: no se incluye el bloque «Espacio reservado para anuncio» de las plantillas; AdSense irá con anuncios automáticos (punto 5 bis).
+- **Datos estructurados**: los pone Rank Math. El JSON-LD de los `articulo.html` del repositorio es solo de referencia.
+
+Los archivos `wordpress-borradores.xml` y `wordpress-paginas.xml` quedan para una instalación nueva de WordPress; en jubilometro.com crearían duplicados.
 
 ## 5. Día del lanzamiento
 
-1. Publica las 22 entradas.
-2. Comprueba 4 o 5 URL al azar y la calculadora en el móvil.
-3. **Google Search Console**: verifica el dominio, envía el sitemap (`/sitemap_index.xml` en Yoast o Rank Math) y pide la indexación manual de las páginas 1, 2, 3, 4 y 7.
-4. En la portada y en el menú, enlaza a la guía de edad de jubilación y a la calculadora: son las páginas pilar del clúster.
+1. **Revisa la vista previa** de cada borrador en WordPress: respuesta rápida, tablas, enlaces, calculadoras y firma.
+2. **Publica las 21 entradas**: `npm run subir -- --publicar` (o una a una desde WordPress).
+3. **Portada**: cambia los 3 enlaces a las URL antiguas (`/jubilacion/jubilacion-activa/`, `/jubilacion/jubilacion-demorada/` y `/jubilacion/jubilacion-flexible/`) por `/jubilacion/activa/`, `/jubilacion/demorada/` y `/jubilacion/flexible/`. En la página «Jubilación», cambia «8 guías» y «8 artículos» por 21.
+4. **CDN de Hostinger**: vuelve a activarla (se desactivó para diagnosticar la conexión) y purga la caché de LiteSpeed.
+5. Comprueba 4 o 5 URL al azar y la calculadora en el móvil.
+6. **Google Search Console**: verifica el dominio, envía el sitemap (`/sitemap_index.xml` de Rank Math) y pide la indexación manual de la guía de edad de jubilación, la calculadora, la anticipada voluntaria, la flexible y la anticipada involuntaria.
+7. En la portada y en el menú, enlaza a la guía de edad de jubilación y a la calculadora: son las páginas pilar del clúster.
 
 ## 5 bis. Monetización con Google AdSense
 

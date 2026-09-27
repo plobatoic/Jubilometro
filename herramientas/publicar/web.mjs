@@ -1,0 +1,337 @@
+// Cuerpo de los artículos para la web real, jubilometro.com: tema «Jubilómetro» (hijo de
+// Kadence) con el plugin «Jubilómetro · Núcleo». La plantilla de entrada ya pone el H1, la
+// firma, la imagen destacada y el índice, así que el contenido va en bloques de Gutenberg con
+// los componentes jm-* del tema (respuesta rápida, tablas, avisos, preguntas frecuentes,
+// siguiente paso) para que se vea igual que el resto de la web.
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+import { marked } from 'marked';
+import { RAIZ, slug } from './articulos.mjs';
+
+// Páginas publicadas en jubilometro.com que no salen de este repositorio (27/09/2026).
+export const PAGINAS_WEB = [
+  '/', '/jubilacion/', '/cuanto-cobrare/', '/viudedad/', '/incapacidad/', '/ayudas/', '/dependencia/', '/dinero/',
+  '/imserso/', '/datos/', '/guias/', '/calculadoras/', '/calculadoras/edad-jubilacion/',
+  '/calculadoras/pension-jubilacion/', '/calculadoras/jubilacion-anticipada/', '/calculadoras/pension-neta-irpf/',
+  '/calculadoras/jubilacion-demorada-flexible/', '/calculadoras/pension-viudedad/',
+  '/calculadoras/incapacidad-permanente/', '/calculadoras/cuanto-ahorrar-jubilacion/',
+  '/calculadoras/comparador-ingresos-jubilacion/', '/datos/pension-media-provincia/', '/sobre-nosotros/',
+  '/metodologia/', '/contacto/', '/aviso-legal/', '/politica-privacidad/', '/politica-cookies/',
+  '/descargo-responsabilidad/', '/accesibilidad/',
+];
+
+// Direcciones del proyecto que en la web ya existen con otra URL.
+export const EQUIVALENCIAS = {
+  // La calculadora publicada da los mismos resultados que la del proyecto (comparadas en
+  // 201.996 casos) y ya está enlazada desde la portada y el menú.
+  '/calculadoras/edad-de-jubilacion/': '/calculadoras/edad-jubilacion/',
+  '/politica-editorial/': '/metodologia/',
+  '/politica-de-privacidad/': '/politica-privacidad/',
+  '/politica-de-cookies/': '/politica-cookies/',
+};
+
+// Artículos del proyecto que no se suben como entrada porque la web ya tiene esa página.
+export const NO_SE_SUBEN = ['/calculadoras/edad-de-jubilacion/'];
+
+// Borradores de plantilla que la web ya tenía para el mismo tema: se reutilizan (conservan
+// su imagen destacada y su sitio en la portada) y pasan a la URL del proyecto.
+export const PLANTILLAS = {
+  '/jubilacion/anticipada-voluntaria/': 'anticipada-voluntaria',
+  '/jubilacion/anticipada-involuntaria/': 'anticipada-involuntaria',
+  '/jubilacion/demorada/': 'jubilacion-demorada',
+  '/jubilacion/activa/': 'jubilacion-activa',
+  '/jubilacion/flexible/': 'jubilacion-flexible',
+  '/jubilacion/parcial/': 'jubilacion-parcial',
+  '/jubilacion/solicitar-jubilacion-internet/': 'solicitar-jubilacion',
+};
+
+// Imagen destacada (de la biblioteca de medios de la web) para los artículos que no heredan
+// la de una plantilla. El gráfico del artículo 1 no sirve: la plantilla recorta la imagen.
+export const IMAGENES_DESTACADAS = {
+  '/jubilacion/edad-de-jubilacion/': { archivo: 'requisitos-jubilacion.webp', alt: 'Pareja de jubilados revisando papeles en casa' },
+};
+
+// Archivos propios que los artículos enlazan y hay que subir a la biblioteca de medios.
+export const ARCHIVOS = [
+  'contenido/jubilacion/edad-de-jubilacion/imagenes/edad-jubilacion-2013-2027.webp',
+  'contenido/jubilacion/documentos-jubilacion/descargas/checklist-documentos-jubilacion.pdf',
+];
+
+// Calculadoras de la web a las que se invita desde los artículos.
+const CALCULADORAS = {
+  edad: {
+    url: '/calculadoras/edad-jubilacion/', icono: 'calendar', titulo: 'Calculadora de edad de jubilación',
+    texto: 'Indica cuándo naciste y cuánto has cotizado: te dice a qué edad y en qué mes puedes jubilarte.',
+  },
+  anticipada: {
+    url: '/calculadoras/jubilacion-anticipada/', icono: 'rewind', titulo: 'Calculadora de jubilación anticipada',
+    texto: 'Cuánto se reduce tu pensión si te jubilas antes, con los coeficientes reductores mes a mes.',
+  },
+  demorada: {
+    url: '/calculadoras/jubilacion-demorada-flexible/', icono: 'clockplus', titulo: 'Calculadora de jubilación demorada y activa',
+    texto: 'Cuánto aumenta tu pensión si retrasas la jubilación y cuánto cobras si sigues trabajando.',
+  },
+  pension: {
+    url: '/calculadoras/pension-jubilacion/', icono: 'calculator', titulo: 'Calculadora de pensión de jubilación',
+    texto: 'Estima tu pensión con los dos métodos de cálculo que conviven desde 2026 y mira cuál te favorece.',
+  },
+};
+
+// Calculadora que se ofrece en cada artículo, justo antes de las preguntas frecuentes. La de
+// edad sustituye, además, al widget del proyecto donde el Markdown lo inserta.
+export const CALCULADORA_DEL_ARTICULO = {
+  '/jubilacion/anticipada-voluntaria/': 'anticipada',
+  '/jubilacion/anticipada-involuntaria/': 'anticipada',
+  '/jubilacion/demorada/': 'demorada',
+  '/jubilacion/activa/': 'demorada',
+  '/jubilacion/15-anos-cotizados/': 'pension',
+  '/jubilacion/faltan-anos-cotizados/': 'pension',
+};
+
+export function urlsDeLaWeb(articulos) {
+  return new Set([
+    ...PAGINAS_WEB,
+    ...articulos.map((a) => a.datos.url).filter((u) => !NO_SE_SUBEN.includes(u)),
+  ]);
+}
+
+const icono = (id) => `<svg class="jm-i" aria-hidden="true"><use href="#i-${id}"/></svg>`;
+const bloqueHtml = (html) => `<!-- wp:html -->\n${html.trim()}\n<!-- /wp:html -->`;
+const sinP = (html) => html.trim().replace(/^<p>([\s\S]*)<\/p>$/, '$1');
+const sinEtiquetas = (s) => s.replace(/<[^>]+>/g, '');
+const mayuscula = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+const render = (tokens) => marked.parser(tokens);
+
+function llamadaCalculadora(nombre) {
+  const c = CALCULADORAS[nombre];
+  return bloqueHtml(`<aside class="jm-calc-cta"><span class="jm-tile__icon">${icono(c.icono)}</span><div><h3>${c.titulo}</h3>` +
+    `<p>${c.texto}</p></div><a class="jm-btn jm-btn--ink" href="${c.url}">Calcular${icono('arrow')}</a></aside>`);
+}
+
+// Widgets del proyecto con los colores de la web. La web solo tiene modo claro, así que esta
+// regla también anula el modo oscuro del widget (misma especificidad, va después).
+const COLORES_WIDGET = '<style>.jm-prose .calc-jubi.calc-jubi{--cj-fondo:var(--jm-sky);--cj-borde:var(--jm-line-2);' +
+  '--cj-tinta:var(--jm-ink);--cj-tinta-2:var(--jm-text);--cj-acento:var(--jm-ink);--cj-acento-tinta:#fff;' +
+  '--cj-ok:var(--jm-accent-strong);--cj-aviso:var(--jm-warn-ink);--cj-aviso-fondo:var(--jm-warn-bg)}</style>';
+
+function widget(nombre) {
+  const ruta = join(RAIZ, 'herramientas', nombre, 'widget-calculadora.html');
+  return readFileSync(ruta, 'utf8').replace(/^<!--[^\n]*-->\n/, '') + COLORES_WIDGET;
+}
+
+// Enlaces: archivos propios a la biblioteca de medios, direcciones equivalentes, enlaces a
+// páginas que aún no existen como texto y enlaces externos sin referer de sesión.
+function ajustarEnlaces(html, existe, medios) {
+  return html
+    .replace(/(src|href)="(?:imagenes|descargas)\/([^"/]+)"/g,
+      (_, atributo, archivo) => `${atributo}="${medios[archivo] ?? `/wp-content/uploads/${archivo}`}"`)
+    .replace(/<a href="(\/[^"]*)">([\s\S]*?)<\/a>/g, (enlace, url, texto) => {
+      if (url.startsWith('/wp-content/')) return enlace;
+      const [ruta, ancla] = url.split('#');
+      const destino = EQUIVALENCIAS[ruta] ?? ruta;
+      if (!existe.has(destino)) return texto;
+      return `<a href="${destino}${ancla ? `#${ancla}` : ''}">${texto}</a>`;
+    })
+    .replace(/<a href="(https?:\/\/[^"]+)">/g, '<a href="$1" rel="noopener">');
+}
+
+function tabla(html, titulo, n) {
+  const id = `tabla-${n}`;
+  const cuerpo = html.trim()
+    .replace(/^<table>/, '').replace(/<\/table>$/, '')
+    .replace(/<th(?: align="[a-z]+")?>/g, '<th scope="col">')
+    .replace(/<tr>\n<td(?: align="[a-z]+")?>([\s\S]*?)<\/td>/g, (_, c) => `<tr>\n<th scope="row">${c}</th>`);
+  const caption = titulo
+    ? `<caption id="${id}" style="caption-side:top;text-align:left;font-weight:700;color:var(--jm-ink);padding:.9rem 1rem">${titulo}</caption>`
+    : '';
+  const etiqueta = titulo ? `aria-labelledby="${id}"` : 'aria-label="Tabla"';
+  return bloqueHtml(`<div class="jm-table-card"><div class="jm-table-wrap" role="region" ${etiqueta} tabindex="0">` +
+    `<table class="jm-table">${caption}${cuerpo}</table></div></div>`);
+}
+
+// Cita que empieza por **Respuesta rápida** -> caja de respuesta rápida; el resto, avisos.
+function cita(token, existe, medios) {
+  const interior = ajustarEnlaces(render(token.tokens), existe, medios).trim();
+  if (/^<p><strong>Respuesta rápida<\/strong><\/p>/.test(interior)) {
+    const texto = interior.replace(/^<p><strong>Respuesta rápida<\/strong><\/p>\n?/, '');
+    return bloqueHtml(`<section class="jm-answer" aria-labelledby="respuesta-rapida"><h2 class="jm-answer__title" id="respuesta-rapida">` +
+      `${icono('check')}Respuesta rápida</h2>${texto}</section>`);
+  }
+  return bloqueHtml(`<div class="jm-alert" role="note">${icono('alert')}<div>${interior}</div></div>`);
+}
+
+function titulo(nivel, html, ids) {
+  let id = slug(sinEtiquetas(html));
+  while (ids.has(id)) id += '-2';
+  ids.add(id);
+  const atributos = nivel === 2 ? '' : ` {"level":${nivel}}`;
+  return `<!-- wp:heading${atributos} -->\n<h${nivel} class="wp-block-heading" id="${id}">${html}</h${nivel}>\n<!-- /wp:heading -->`;
+}
+
+// Lista de casillas («- [ ]»): casillas que el lector puede marcar, con el componente
+// jm-check del tema; las sublistas quedan debajo, con viñetas.
+function listaDeCasillas(token, existe, medios) {
+  const items = token.items.map((i) => {
+    const texto = i.tokens.filter((t) => t.type !== 'list' && t.type !== 'space');
+    const sublistas = i.tokens.filter((t) => t.type === 'list');
+    const etiqueta = ajustarEnlaces(sinP(render(texto)), existe, medios);
+    const debajo = sublistas.map((t) => ajustarEnlaces(render([t]), existe, medios).trim()
+      .replace(/^<ul>/, '<ul style="margin-top:.5rem;margin-left:2.25rem">')).join('');
+    return `<li><label class="jm-check"><input type="checkbox"${i.checked ? ' checked' : ''}><span>${etiqueta}</span></label>${debajo}</li>`;
+  });
+  return bloqueHtml(`<ul class="jm-checklist" style="list-style:none;padding-left:0;display:grid;gap:.9rem">${items.join('')}</ul>`);
+}
+
+function lista(token, existe, medios) {
+  if (token.items.some((i) => i.task)) return listaDeCasillas(token, existe, medios);
+  // Listas anidadas: tal cual, en un bloque HTML.
+  if (token.items.some((i) => i.tokens.some((t) => t.type === 'list'))) {
+    return bloqueHtml(ajustarEnlaces(render([token]), existe, medios));
+  }
+  const etiqueta = token.ordered ? 'ol' : 'ul';
+  const inicio = token.ordered && token.start !== 1 && token.start !== '' ? `,"start":${token.start}` : '';
+  const atributos = token.ordered ? ` {"ordered":true${inicio}}` : '';
+  const items = token.items.map((i) => {
+    const html = ajustarEnlaces(sinP(marked.parser(i.tokens).trim()), existe, medios);
+    return `<!-- wp:list-item -->\n<li>${html}</li>\n<!-- /wp:list-item -->`;
+  }).join('\n');
+  const start = inicio ? ` start="${token.start}"` : '';
+  return `<!-- wp:list${atributos} -->\n<${etiqueta}${start} class="wp-block-list">${items}</${etiqueta}>\n<!-- /wp:list -->`;
+}
+
+// Preguntas frecuentes: cada H3 y su respuesta pasan a un desplegable.
+function preguntas(tokens, existe, medios) {
+  const grupos = [];
+  for (const t of tokens) {
+    if (t.type === 'space') continue;
+    if (t.type === 'heading' && t.depth === 3) grupos.push({ pregunta: marked.parseInline(t.text), respuesta: [] });
+    else if (grupos.length) grupos.at(-1).respuesta.push(t);
+    else throw new Error('Preguntas frecuentes: contenido antes de la primera pregunta');
+  }
+  const detalles = grupos.map((g) => `<details><summary>${g.pregunta}${icono('plus')}</summary>` +
+    `<div>${ajustarEnlaces(render(g.respuesta), existe, medios).trim()}</div></details>`);
+  return bloqueHtml(`<div class="jm-faq">${detalles.join('')}</div>`);
+}
+
+// Siguiente paso: cada punto de la lista pasa a una tarjeta enlazada. Se omiten las que
+// apuntan a páginas que aún no existen.
+function siguientePaso(token, existe) {
+  if (!token || token.type !== 'list') throw new Error('«Siguiente paso» debe ser una lista');
+  const tarjetas = token.items.map((i) => {
+    const m = i.text.match(/^(?:(¿[^?]*\?)\s+)?[\s\S]*?\[([^\]]+)\]\((\/[^)]*)\)/);
+    if (!m) return null;
+    const [, pregunta, texto, url] = m;
+    const destino = EQUIVALENCIAS[url] ?? url;
+    if (!existe.has(destino.split('#')[0])) return null;
+    return `<a class="jm-next" href="${destino}"><span><span class="jm-next__label">${icono('arrow')}${pregunta ?? 'Siguiente paso'}</span>` +
+      `<span class="jm-next__title">${mayuscula(sinEtiquetas(marked.parseInline(texto)))}</span></span><span class="jm-next__arrow">${icono('arrow')}</span></a>`;
+  }).filter(Boolean);
+  if (!tarjetas.length) return '';
+  return bloqueHtml(`<nav aria-label="Siguiente paso" style="display:grid;gap:.75rem">${tarjetas.join('')}</nav>`);
+}
+
+function notas(tokens, existe, medios) {
+  const lineas = tokens.filter((t) => t.type === 'paragraph').map((t) => {
+    const html = ajustarEnlaces(sinP(render([t])).replace(/<\/?em>/g, ''), existe, medios);
+    const id = /^Historial de cambios/.test(html) ? 'refresh' : 'info';
+    return `<p class="jm-note">${icono(id)}<span>${html}</span></p>`;
+  });
+  return bloqueHtml(`<aside class="jm-notes" aria-label="Aviso">${lineas.join('')}</aside>`);
+}
+
+// Firma al principio del artículo, con el componente «revisado» del tema. No atribuye una
+// revisión profesional: dice quién escribe y que las fuentes se han comprobado en el BOE.
+function firma(articulo) {
+  const d = articulo.datos;
+  const [a, m, dia] = d.fecha_actualizacion.split('-');
+  return bloqueHtml(`<div class="jm-reviewed"><div class="jm-reviewed__avatar">${icono('user')}</div><p class="jm-reviewed__text">` +
+    `Por <strong>Pau Lobato</strong>, equipo editorial de Jubilómetro. Fuentes verificadas en el BOE. ` +
+    `Actualizado el <time datetime="${d.fecha_actualizacion}">${dia}/${m}/${a}</time>. <a href="/metodologia/">Cómo trabajamos</a></p></div>`);
+}
+
+export function cuerpoWeb(articulo, existe, medios = {}) {
+  const tokens = marked.lexer(articulo.cuerpo, { gfm: true });
+  const url = articulo.datos.url;
+  const bloques = [firma(articulo)];
+  const ids = new Set(['respuesta-rapida']);
+  let captionPendiente = null;
+  let nTabla = 0;
+  let calculadoraPuesta = false;
+  const ponerCalculadora = () => {
+    if (CALCULADORA_DEL_ARTICULO[url] && !calculadoraPuesta) {
+      bloques.push(llamadaCalculadora(CALCULADORA_DEL_ARTICULO[url]));
+      calculadoraPuesta = true;
+    }
+  };
+
+  for (let i = 0; i < tokens.length; i++) {
+    const t = tokens[i];
+    if (t.type === 'space') continue;
+    if (t.type === 'heading' && t.depth === 1) {
+      // El H1 lo pone la plantilla; la línea en cursiva de fecha y autor pasa a la firma.
+      if (tokens[i + 1]?.type === 'paragraph' && /^\*[^*][\s\S]*\*$/.test(tokens[i + 1].raw.trim())) i += 1;
+      continue;
+    }
+    if (t.type === 'heading' && t.depth === 2 && t.text === 'Preguntas frecuentes') {
+      ponerCalculadora();
+      const fin = tokens.findIndex((x, j) => j > i && ((x.type === 'heading' && x.depth <= 2) || x.type === 'hr'));
+      const hasta = fin === -1 ? tokens.length : fin;
+      bloques.push(titulo(2, marked.parseInline(t.text), ids));
+      bloques.push(preguntas(tokens.slice(i + 1, hasta), existe, medios));
+      i = hasta - 1;
+      continue;
+    }
+    if (t.type === 'heading' && t.depth === 2 && t.text === 'Siguiente paso') {
+      const siguiente = tokens.slice(i + 1).find((x) => x.type !== 'space');
+      const html = siguientePaso(siguiente, existe);
+      if (html) bloques.push(html);
+      i = tokens.indexOf(siguiente);
+      continue;
+    }
+    if (t.type === 'heading') {
+      bloques.push(titulo(t.depth, marked.parseInline(t.text), ids));
+      continue;
+    }
+    if (t.type === 'hr') {
+      bloques.push(notas(tokens.slice(i + 1), existe, medios));
+      break;
+    }
+    if (t.type === 'blockquote') {
+      bloques.push(cita(t, existe, medios));
+      continue;
+    }
+    if (t.type === 'html') {
+      const caption = t.raw.match(/^<!-- tabla: ([\s\S]*?) -->/);
+      const calculadora = t.raw.match(/^<!-- calculadora:([a-z-]+) -->/);
+      if (caption) captionPendiente = caption[1];
+      else if (calculadora?.[1] === 'edad-jubilacion') bloques.push(llamadaCalculadora('edad'));
+      else if (calculadora) bloques.push(bloqueHtml(widget(calculadora[1])));
+      else throw new Error(`${url}: HTML sin convertir: ${t.raw.slice(0, 60)}`);
+      continue;
+    }
+    if (t.type === 'table') {
+      nTabla += 1;
+      bloques.push(tabla(ajustarEnlaces(render([t]), existe, medios), captionPendiente, nTabla));
+      captionPendiente = null;
+      continue;
+    }
+    if (t.type === 'list') {
+      bloques.push(lista(t, existe, medios));
+      continue;
+    }
+    if (t.type === 'paragraph') {
+      const imagen = t.tokens.length === 1 && t.tokens[0].type === 'image' ? t.tokens[0] : null;
+      if (imagen) {
+        const src = ajustarEnlaces(`src="${imagen.href}"`, existe, medios);
+        bloques.push(bloqueHtml(`<figure class="wp-block-image"><img ${src} width="1200" height="675" loading="lazy" decoding="async" ` +
+          `alt="${imagen.text.replace(/"/g, '&quot;')}">${imagen.title ? `<figcaption>${imagen.title}</figcaption>` : ''}</figure>`));
+        continue;
+      }
+      bloques.push(`<!-- wp:paragraph -->\n${ajustarEnlaces(render([t]), existe, medios).trim()}\n<!-- /wp:paragraph -->`);
+      continue;
+    }
+    throw new Error(`${url}: bloque sin convertir (${t.type})`);
+  }
+  if (CALCULADORA_DEL_ARTICULO[url] && !calculadoraPuesta) throw new Error(`${url}: falta la sección de preguntas frecuentes`);
+  return `${bloques.join('\n\n')}\n`;
+}

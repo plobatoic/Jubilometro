@@ -4,6 +4,7 @@ import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { listarArticulos, leerArticulo, leerPaginas, cuerpoHtml, cuerpoWordPress } from './articulos.mjs';
 import { exportarWordPress, exportarPaginas } from './wordpress.mjs';
+import { cuerpoWeb, urlsDeLaWeb, NO_SE_SUBEN, PLANTILLAS } from './web.mjs';
 
 const articulos = listarArticulos().map(leerArticulo);
 const urls = new Set(articulos.map((a) => a.datos.url));
@@ -61,4 +62,55 @@ test('las páginas del sitio se exportan como páginas en borrador, sin H1 ni ma
       assert.ok(paginas.some((q) => q.datos.url === u), `${p.datos.url} -> ${u}`);
     }
   }
+});
+
+// Cuerpo para la web real (tema Jubilómetro): bloques de Gutenberg y componentes jm-*.
+const existeEnLaWeb = urlsDeLaWeb(articulos);
+const enLaWeb = articulos.filter((a) => !NO_SE_SUBEN.includes(a.datos.url));
+const medios = { 'checklist-documentos-jubilacion.pdf': '/wp-content/uploads/2026/09/checklist-documentos-jubilacion.pdf' };
+const texto = (h) => h.replace(/<style[\s\S]*?<\/style>|<script[\s\S]*?<\/script>|<!--[\s\S]*?-->|<[^>]+>/g, ' ')
+  .replace(/&quot;/g, '"').replace(/&amp;/g, '&').split(/\s+/).filter(Boolean);
+
+test('el cuerpo para la web no lleva H1, usa los componentes del tema y no enlaza a páginas inexistentes', () => {
+  for (const a of enLaWeb) {
+    const html = cuerpoWeb(a, existeEnLaWeb, medios);
+    assert.doesNotMatch(html, /<h1/, a.datos.url);
+    assert.match(html, /<section class="jm-answer"/, a.datos.url);
+    assert.match(html, /<div class="jm-reviewed">/, a.datos.url);
+    assert.match(html, /<div class="jm-faq"><details>/, a.datos.url);
+    assert.doesNotMatch(html, /class="(respuesta-rapida|aviso-caja|tabla-scroll|descargo)"/, a.datos.url);
+    assert.equal((html.match(/<!-- wp:[a-z-]+/g) ?? []).length, (html.match(/<!-- \/wp:[a-z-]+/g) ?? []).length, a.datos.url);
+    for (const [, u] of html.matchAll(/href="(\/[^"#]*)/g)) {
+      assert.ok(existeEnLaWeb.has(u) || u.startsWith('/wp-content/'), `${a.datos.url} -> ${u}`);
+    }
+  }
+});
+
+test('el cuerpo para la web conserva todo el texto del artículo', () => {
+  for (const a of enLaWeb) {
+    const original = cuerpoHtml(a, urls).replace(/<header>[\s\S]*?<\/header>/, '')
+      .replace(/<!-- CALCULADORA:INICIO -->[\s\S]*?<!-- CALCULADORA:FIN -->/g, '')
+      .replace(/<nav class="siguiente-paso"[\s\S]*?<\/nav>/, '');
+    const web = new Map();
+    for (const p of texto(cuerpoWeb(a, existeEnLaWeb, medios))) web.set(p, (web.get(p) ?? 0) + 1);
+    for (const p of texto(original)) {
+      assert.ok((web.get(p) ?? 0) > 0, `${a.datos.url}: falta «${p}»`);
+      web.set(p, web.get(p) - 1);
+    }
+  }
+});
+
+test('la calculadora de edad enlaza a la página de la web y el PDF a la biblioteca de medios', () => {
+  const pilar = cuerpoWeb(porUrl('/jubilacion/edad-de-jubilacion/'), existeEnLaWeb, medios);
+  assert.doesNotMatch(pilar, /calc-jubi|\/calculadoras\/edad-de-jubilacion\//);
+  assert.match(pilar, /<aside class="jm-calc-cta">[\s\S]*?href="\/calculadoras\/edad-jubilacion\/"/);
+  const docs = cuerpoWeb(porUrl('/jubilacion/documentos-jubilacion/'), existeEnLaWeb, medios);
+  assert.match(docs, /href="\/wp-content\/uploads\/2026\/09\/checklist-documentos-jubilacion\.pdf"/);
+  assert.match(docs, /<label class="jm-check"><input type="checkbox">/);
+  const compensa = cuerpoWeb(porUrl('/jubilacion/compensa-jubilarse-antes/'), existeEnLaWeb, medios);
+  assert.match(compensa, /<!-- wp:html -->\n<div class="calc-jubi calc-compensa">/);
+});
+
+test('las plantillas de la web se reutilizan solo para artículos que existen', () => {
+  for (const url of Object.keys(PLANTILLAS)) assert.ok(porUrl(url), url);
 });

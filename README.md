@@ -15,12 +15,14 @@ herramientas/
   compensa/                      Calculadora de «¿compensa jubilarse antes?»
   graficos/                      Generación y rasterizado de gráficos
   checklist/                     Lista de documentos en PDF para descargar
-  publicar/                      Generador de HTML, archivo de importación de WordPress y comprobaciones
+  publicar/                      Generador de HTML, archivos de importación de WordPress, comprobaciones
+                                 y subida a jubilometro.com (web.mjs: formato del tema; subir-wordpress.mjs)
 paginas/<slug>/pagina.md         Páginas de confianza del sitio (Quiénes somos, Política editorial, Contacto, Aviso legal, Privacidad, Cookies)
 publicacion/
   wordpress-borradores.xml       Las 22 páginas como borradores para Herramientas > Importar > WordPress
   wordpress-paginas.xml          Las 6 páginas de confianza como páginas de WordPress en borrador
-  PLAN-PUBLICACION.md            Lista previa, orden de revisión, importación, lanzamiento y mantenimiento
+  wordpress-entradas.json        Identificador y estado de cada artículo en jubilometro.com (lo escribe npm run subir)
+  PLAN-PUBLICACION.md            Lista previa, orden de revisión, subida, lanzamiento y mantenimiento
 ```
 
 ### Convenciones del Markdown
@@ -57,7 +59,7 @@ Categoría 1 «Jubilación» del informe de nicho, completa. Todas las páginas 
 | 19 | Jubilación con 15 años cotizados: cuánto se cobra y ejemplos | `/jubilacion/15-anos-cotizados/` |
 | 20 | Me faltan años cotizados para jubilarme: opciones legales para completarlos | `/jubilacion/faltan-anos-cotizados/` |
 | 21 | Jubilarse habiendo trabajado en otro país de la UE o de Latinoamérica: cómo se suman los años | `/jubilacion/trabajado-en-otro-pais/` |
-| Herramienta | Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado | `/calculadoras/edad-de-jubilacion/` |
+| Herramienta | Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado | `/calculadoras/edad-de-jubilacion/` (en jubilometro.com se usa la calculadora ya publicada en `/calculadoras/edad-jubilacion/`) |
 
 ## Flujo editorial de cada artículo
 
@@ -66,7 +68,7 @@ Categoría 1 «Jubilación» del informe de nicho, completa. Todas las páginas 
 3. Tabla `verificacion-fuentes.md`: un dato sin fuente se elimina.
 4. Cálculos con código testeado cuando el artículo incluye tablas o ejemplos numéricos.
 5. Revisión por un profesional colegiado (nombre y n.º de colegiado reales en la caja «Revisado por»).
-6. `npm run publicar` y `npm run comprobar`, e importación en WordPress según `publicacion/PLAN-PUBLICACION.md`.
+6. `npm run publicar` y `npm run comprobar`, y subida a WordPress con `npm run subir` según `publicacion/PLAN-PUBLICACION.md`.
 
 ## Comandos
 
@@ -78,6 +80,7 @@ npm run publicar     # Regenera el widget, todos los articulo.html y publicacion
 npm run comprobar    # En navegador: móvil sin desbordes, un H1, title y description, JSON-LD, errores de consola
 npm run e2e          # Calculadoras de edad de jubilación y de «¿compensa?» en móvil y escritorio
 npm run pdf          # Regenera el PDF de la lista de documentos
+npm run subir        # Sube los artículos a jubilometro.com en borrador (WP_USER y WP_APP_PASSWORD; --prueba, --publicar)
 
 # Tabla por año y mes de nacimiento
 node herramientas/edad-jubilacion/tabla-por-nacimiento.mjs 1958 1972
