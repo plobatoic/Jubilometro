@@ -10,8 +10,7 @@ intencion: informativa
 fase_plan: F1 (artículo n.º 1 del plan de contenidos)
 fecha_actualizacion: 2026-09-27
 fecha_publicacion: PENDIENTE
-autor: "PENDIENTE: nombre real del autor"
-revisor: "PENDIENTE: nombre, profesión y n.º de colegiado del revisor"
+autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: borrador pendiente de revisión profesional
 imagen_destacada: imagenes/edad-jubilacion-2013-2027.webp
 imagen_alt: "Gráfico de la subida de la edad de jubilación en España entre 2013 y 2027"
@@ -26,7 +25,7 @@ proxima_revision: enero de 2027 (y cuando cambie la normativa)
 
 # Edad de jubilación en 2027: tabla por año de nacimiento y años cotizados
 
-*Actualizado el 27 de septiembre de 2026 · Por [AUTOR] · Revisado por [REVISOR, graduado social colegiado n.º …]*
+*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

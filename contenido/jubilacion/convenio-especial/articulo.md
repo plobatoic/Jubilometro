@@ -9,8 +9,7 @@ palabra_clave_principal: convenio especial Seguridad Social
 intencion: comparativa
 fase_plan: F3 (artículo n.º 18)
 fecha_actualizacion: 2026-09-27
-autor: "PENDIENTE: nombre real del autor"
-revisor: "PENDIENTE: nombre, profesión y n.º de colegiado del revisor"
+autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: borrador pendiente de revisión profesional
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7296
@@ -18,7 +17,7 @@ fuentes_legales:
 
 # Convenio especial con la Seguridad Social: cuándo compensa pagarlo antes de jubilarte
 
-*Actualizado el 27 de septiembre de 2026 · Por [AUTOR] · Revisado por [REVISOR, graduado social colegiado n.º …]*
+*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

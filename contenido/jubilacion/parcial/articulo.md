@@ -9,8 +9,7 @@ palabra_clave_principal: jubilación parcial
 intencion: informativa
 fase_plan: F2 (artículo n.º 8)
 fecha_actualizacion: 2026-09-27
-autor: "PENDIENTE: nombre real del autor"
-revisor: "PENDIENTE: nombre, profesión y n.º de colegiado del revisor"
+autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: borrador pendiente de revisión profesional
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -19,7 +18,7 @@ fuentes_legales:
 
 # Jubilación parcial con contrato de relevo: requisitos y quién puede pedirla
 
-*Actualizado el 27 de septiembre de 2026 · Por [AUTOR] · Revisado por [REVISOR, graduado social colegiado n.º …]*
+*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

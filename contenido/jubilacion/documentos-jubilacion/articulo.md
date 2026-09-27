@@ -9,14 +9,13 @@ palabra_clave_principal: documentos para pedir la jubilación
 intencion: transaccional
 fase_plan: F2 (artículo n.º 14)
 fecha_actualizacion: 2026-09-27
-autor: "PENDIENTE: nombre real del autor"
-revisor: "PENDIENTE: nombre, profesión y n.º de colegiado del revisor"
+autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: borrador pendiente de revisión profesional
 ---
 
 # Documentos para pedir la jubilación: checklist descargable
 
-*Actualizado el 27 de septiembre de 2026 · Por [AUTOR] · Revisado por [REVISOR, graduado social colegiado n.º …]*
+*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

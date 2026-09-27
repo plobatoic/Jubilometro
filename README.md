@@ -8,7 +8,7 @@ Contenidos y herramientas de Jubilómetro, web de referencia sobre jubilación y
 contenido/<categoría>/<slug>/    Un artículo por carpeta; la ruta coincide con su URL
   articulo.md                    Versión maestra (texto + ficha de publicación en el front matter)
   articulo.html                  Versión maquetada, generada: HTML semántico, metaetiquetas, JSON-LD y calculadora
-  verificacion-fuentes.md        Cada dato del artículo con su fuente, para el revisor profesional
+  verificacion-fuentes.md        Cada dato del artículo con su fuente, para la verificación en el BOE
   ficha-seo.md, imagenes/, descargas/   Solo en los artículos que los necesitan
 herramientas/
   edad-jubilacion/               Lógica de la edad de jubilación (DT 7.ª LGSS), tests y widget de calculadora

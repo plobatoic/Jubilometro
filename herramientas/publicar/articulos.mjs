@@ -146,7 +146,7 @@ export function jsonLd(articulo) {
       '@type': 'Article', '@id': `${url}#articulo`, headline: d.h1, description: d.meta_descripcion,
       inLanguage: 'es-ES', datePublished: d.fecha_publicacion_iso ?? fecha, dateModified: fecha,
       ...(imagen ? { image: imagen } : {}),
-      author: { '@type': 'Person', name: '[AUTOR]', url: `${DOMINIO}/sobre-nosotros/` },
+      author: { '@type': 'Person', name: 'Pau Lobato', url: `${DOMINIO}/sobre-nosotros/` },
       publisher: { '@id': `${DOMINIO}/#organizacion` },
       mainEntityOfPage: { '@id': url },
       articleSection: d.categoria,

@@ -104,7 +104,7 @@ Enlaces que salen de este artículo. **Los que apuntan a páginas aún no public
 | pensión no contributiva | `/ayudas/pension-no-contributiva/` | Pendiente (art. n.º 55, F1) |
 | calculadora de edad de jubilación | `/calculadoras/edad-de-jubilacion/` | Pendiente (herramienta n.º 94, F1; puede reutilizar el widget ya construido) |
 | Jubilación (miga de pan) | `/jubilacion/` | Pendiente (pilar) |
-| [AUTOR] | `/sobre-nosotros/` | Pendiente |
+| Pau Lobato | `/sobre-nosotros/` | Pendiente |
 
 Enlaces que deben apuntar hacia este artículo: portada (bloque de calculadora y «lo más consultado»), pilar `/jubilacion/`, calculadora de edad de jubilación, y los artículos de anticipada, demorada, porcentaje por años cotizados y subsidio de mayores de 52. Anclas recomendadas y variadas: «edad de jubilación en 2027», «tabla de jubilación por año de nacimiento», «a qué edad te jubilas según tu año de nacimiento».
 
@@ -118,7 +118,7 @@ Enlaces que deben apuntar hacia este artículo: portada (bloque de calculadora y
 ## 9. Lista de comprobación antes de publicar
 
 - [ ] Revisión del graduado social o abogado laboralista, con nombre y n.º de colegiado reales en la caja «Revisado por».
-- [ ] Sustituir `[AUTOR]`, `[REVISOR…]` y `[EMAIL DE CONTACTO]` en el texto y en el JSON-LD.
+- [x] Autor (Pau Lobato) en el texto y en el JSON-LD; sin revisor. - [ ] Sustituir `[EMAIL DE CONTACTO]`.
 - [ ] Confirmar el dominio definitivo (se ha usado `jubilometro.com` en canónica, OG y JSON-LD).
 - [ ] Ajustar `datePublished`/`article:published_time` al día real de publicación.
 - [ ] Quitar o activar los enlaces internos pendientes (sección 7).

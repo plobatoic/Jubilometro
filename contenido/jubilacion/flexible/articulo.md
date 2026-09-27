@@ -9,8 +9,7 @@ palabra_clave_principal: jubilación flexible 2026
 intencion: informativa
 fase_plan: F1 (artículo n.º 6)
 fecha_actualizacion: 2026-09-27
-autor: "PENDIENTE: nombre real del autor"
-revisor: "PENDIENTE: nombre, profesión y n.º de colegiado del revisor"
+autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: borrador pendiente de revisión profesional
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2026-11474
@@ -19,7 +18,7 @@ fuentes_legales:
 
 # Jubilación flexible 2026: qué cambia con el Real Decreto 416/2026 y a quién le interesa
 
-*Actualizado el 27 de septiembre de 2026 · Por [AUTOR] · Revisado por [REVISOR, graduado social colegiado n.º …]*
+*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

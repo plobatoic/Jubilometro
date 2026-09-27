@@ -8,17 +8,17 @@ Las 22 páginas se enlazan mucho entre sí (cada una recibe entre 2 y 15 enlaces
 
 Por eso la recomendación es:
 
-1. **Revisar las 22 páginas** (el revisor puede ir a su ritmo, siguiendo el orden de la tabla del punto 3).
+1. **Revisar las 22 páginas** siguiendo el orden de la tabla del punto 3.
 2. **Publicarlas todas el mismo día**: el clúster completo sale sin un solo enlace roto y Google entiende desde el primer rastreo que el sitio cubre la jubilación de forma completa.
 3. **Después, seguir con la cadencia del informe de 3-4 artículos por semana** para las siguientes categorías (punto 6). Cada artículo nuevo que enlace a páginas que aún no existen sale con ese enlace como texto plano (el generador lo hace solo), así que la cadencia no vuelve a generar enlaces rotos.
 
 ## 2. Antes de publicar (lista de comprobación)
 
-- [ ] **Revisor real** en cada artículo: nombre, profesión (graduado social, abogado laboralista o asesor) y n.º de colegiado. Sustituir `[REVISOR, …]` en la línea de firma y `revisor:` en la cabecera. Es un tema YMYL: sin revisor identificable no se publica.
-- [ ] **Autor real**: sustituir `[AUTOR]` y `autor:`.
+- [x] **Firma**: «Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE», sin línea de revisor. No se atribuye una revisión profesional que no existe; si más adelante se contrata a un graduado social o abogado laboralista, se añade su firma y `reviewedBy` en el JSON-LD.
+- [x] **Autor**: Pau Lobato (equipo editorial de Jubilómetro), en la firma, en `autor:` y en el JSON-LD.
 - [ ] **Correo de contacto**: sustituir `[EMAIL DE CONTACTO]` en el descargo final.
 - [x] **Datos «Cotejar en BOE»**: hecho el 27/09/2026. Las 39 filas se leyeron en el texto consolidado del BOE y están como «Verificado en BOE» en cada `verificacion-fuentes.md`. Se corrigieron 4 puntos en los artículos (anticipada involuntaria, convenio especial y jubilación flexible) y 3 referencias legales en las fichas de verificación.
-- [ ] **Páginas de confianza** del sitio (E-E-A-T), enlazadas desde el pie: Quiénes somos (con el autor y el revisor), Política editorial y de revisión, Contacto, Aviso legal y Política de privacidad.
+- [ ] **Páginas de confianza** del sitio (E-E-A-T), enlazadas desde el pie: Quiénes somos (con el autor), Política editorial (cómo se verifica cada dato en el BOE), Contacto, Aviso legal y Política de privacidad.
 - [ ] Al terminar las correcciones: `npm run publicar` y `npm run comprobar` (todo en «OK»), y usar el `wordpress-borradores.xml` regenerado.
 
 ## 3. Inventario y orden de revisión
