@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Documentos para pedir la jubilación: lista para descargar"
 h1: "Documentos para pedir la jubilación: checklist descargable"
-meta_descripcion: "Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido, discapacidad o extranjero. Con lista en PDF."
+meta_descripcion: "Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF."
 url: /jubilacion/documentos-jubilacion/
 categoria: Jubilación
 miga: Documentos para pedir la jubilación

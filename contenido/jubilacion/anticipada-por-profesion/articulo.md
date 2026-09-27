@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Jubilación anticipada por profesión: coeficientes reductores"
 h1: "Jubilación anticipada por profesión (bomberos, policía local, mineros…): coeficientes reductores de edad"
-meta_descripcion: "Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién puede y cómo se calcula."
+meta_descripcion: "Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo."
 url: /jubilacion/anticipada-por-profesion/
 categoria: Jubilación
 miga: Jubilación anticipada por profesión
