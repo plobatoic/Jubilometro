@@ -18,7 +18,8 @@ Por eso la recomendación es:
 - [x] **Autor**: Pau Lobato (equipo editorial de Jubilómetro), en la firma, en `autor:` y en el JSON-LD.
 - [x] **Correo de contacto**: plobatoic@gmail.com, con enlace mailto en el descargo final de los 22 artículos.
 - [x] **Datos «Cotejar en BOE»**: hecho el 27/09/2026. Las 39 filas se leyeron en el texto consolidado del BOE y están como «Verificado en BOE» en cada `verificacion-fuentes.md`. Se corrigieron 4 puntos en los artículos (anticipada involuntaria, convenio especial y jubilación flexible) y 3 referencias legales en las fichas de verificación.
-- [x] **Páginas de confianza** (E-E-A-T), escritas en `paginas/` y listas en `publicacion/wordpress-paginas.xml`: Quiénes somos, Política editorial, Contacto, Aviso legal, Política de privacidad y Política de cookies. Titular: Pau Lobato, Palafolls 08389 (Barcelona). Hay que enlazarlas desde el pie (punto 4). Si la web empieza a ganar dinero (publicidad, afiliación), el aviso legal debe incluir también el NIF (art. 10 LSSI); si se añaden Google Analytics o AdSense, hay que actualizar privacidad y cookies e instalar un aviso de consentimiento antes de activarlos.
+- [x] **Páginas de confianza** (E-E-A-T), escritas en `paginas/` y listas en `publicacion/wordpress-paginas.xml`: Quiénes somos, Política editorial, Contacto, Aviso legal, Política de privacidad y Política de cookies. Titular: Pau Lobato, Palafolls 08389 (Barcelona). Privacidad y cookies ya cubren Google AdSense. Hay que enlazarlas desde el pie (punto 4).
+- [ ] **NIF en el aviso legal**: la web se monetiza con AdSense, así que el art. 10 LSSI exige el NIF del titular. Añadirlo en `paginas/aviso-legal/pagina.md` antes de activar los anuncios.
 - [ ] Al terminar las correcciones: `npm run publicar` y `npm run comprobar` (todo en «OK»), y usar el `wordpress-borradores.xml` regenerado.
 
 ## 3. Inventario y orden de revisión
@@ -77,6 +78,18 @@ La meta description de cada página está en su `articulo.md` (campo `meta_descr
 2. Comprueba 4 o 5 URL al azar y la calculadora en el móvil.
 3. **Google Search Console**: verifica el dominio, envía el sitemap (`/sitemap_index.xml` en Yoast o Rank Math) y pide la indexación manual de las páginas 1, 2, 3, 4 y 7.
 4. En la portada y en el menú, enlaza a la guía de edad de jubilación y a la calculadora: son las páginas pilar del clúster.
+
+## 5 bis. Monetización con Google AdSense
+
+Pedir AdSense **después del lanzamiento**, con las 22 páginas y las 6 páginas de confianza ya publicadas: Google revisa que el sitio tenga contenido propio suficiente, quiénes somos, contacto y privacidad.
+
+1. **NIF** en el aviso legal (ver la lista del punto 2) y regenerar con `npm run publicar`.
+2. **Alta** en adsense.google.com con la cuenta de Google del titular; añadir el sitio `jubilometro.com` y pegar el código de verificación en la cabecera (con Site Kit de Google, o con el campo de código de cabecera del tema).
+3. **ads.txt**: AdSense da la línea `google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0` con tu ID de editor. Súbela como archivo `ads.txt` a la raíz del dominio (`https://jubilometro.com/ads.txt`), desde el administrador de archivos de Hostinger o con un plugin de ads.txt.
+4. **Aviso de consentimiento (obligatorio en el EEE)**: en AdSense > Privacidad y mensajes > Consentimiento europeo, crear el mensaje con las opciones «Consentir», «No consentir» y «Gestionar opciones», en español, y publicarlo. Es la plataforma de consentimiento certificada de Google (TCF) que describe la política de cookies. No instales otro banner de cookies a la vez.
+5. **Enlace «Configuración de privacidad» en el pie**: la política de cookies promete que el lector puede cambiar su elección. Activar el enlace de revocación del mensaje de Google (o un enlace que llame a `googlefc.showRevocationMessage()`).
+6. **Anuncios automáticos** con moderación: excluir las calculadoras (no poner anuncios dentro ni pegados al botón de calcular, para no provocar clics accidentales, que AdSense sanciona) y limitar la densidad en móvil.
+7. Cuando se añada Google Analytics, actualizar antes privacidad y cookies e incluirlo en el mensaje de consentimiento.
 
 ## 6. Semanas siguientes: 3-4 artículos por semana
 

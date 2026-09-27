@@ -20,6 +20,7 @@ No somos graduados sociales ni abogados, y no lo aparentamos. Por eso ningún ar
 
 - **Explicamos la norma y la aplicamos a ejemplos.** Las calculadoras siguen las reglas de la Ley General de la Seguridad Social.
 - **No somos la Seguridad Social** ni tenemos relación con ella. Quien reconoce tu pensión, su importe y su fecha es el Instituto Nacional de la Seguridad Social (INSS).
+- **Nos financiamos con publicidad** de Google AdSense, que no influye en el contenido. Lo explicamos en la [política editorial](/politica-editorial/).
 - **No damos asesoramiento personalizado.** Si tu caso es complejo, te recomendamos consultarlo con la Seguridad Social, con un graduado social o con un abogado laboralista.
 
 ## Cómo trabajamos

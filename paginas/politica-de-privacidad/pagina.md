@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Política de privacidad de Jubilómetro"
 h1: "Política de privacidad"
-meta_descripcion: "Qué datos personales trata Jubilómetro, para qué, durante cuánto tiempo y cómo ejercer tus derechos. Las calculadoras no guardan ni envían tus datos."
+meta_descripcion: "Qué datos trata Jubilómetro, para qué y cómo ejercer tus derechos. Las calculadoras no guardan tus datos; los anuncios de Google, solo si lo aceptas."
 url: /politica-de-privacidad/
 fecha_actualizacion: 2026-09-27
 ---
@@ -25,16 +25,19 @@ Los datos que escribes en las calculadoras (fecha de nacimiento, años cotizados
 | Datos | Finalidad | Base legal | Conservación |
 |---|---|---|---|
 | Los que nos envías por correo electrónico (nombre, dirección de correo y lo que nos cuentes) | Responder a tu mensaje y, si comunicas un error, corregirlo | Tu consentimiento al escribirnos (art. 6.1.a RGPD) | El tiempo necesario para atender tu mensaje y, como máximo, un año después |
+| Identificadores de cookies y del dispositivo, dirección IP y páginas que visitas, que recogen Google y sus socios publicitarios al mostrar anuncios | Mostrar anuncios, medirlos y evitar el fraude; si lo aceptas, personalizarlos según tu navegación | Tu consentimiento en el aviso de cookies (art. 6.1.a RGPD). Algunos socios alegan interés legítimo para ciertos fines: puedes oponerte en el mismo aviso | Según la [política de cookies](/politica-de-cookies/); hasta 13 meses en las cookies de Google |
 | Datos técnicos de la conexión (dirección IP, navegador, página visitada, fecha y hora), en los registros del servidor | Mantener la web en funcionamiento y protegerla frente a ataques | Interés legítimo en la seguridad de la web (art. 6.1.f RGPD) | El plazo que fija el proveedor de alojamiento para sus registros |
 
-No usamos tus datos para enviarte publicidad, no elaboramos perfiles y no tomamos decisiones automatizadas sobre ti.
+Jubilómetro no te envía publicidad por correo, no elabora perfiles con tus datos y no toma decisiones automatizadas sobre ti. Los anuncios los selecciona Google.
 
 ## 4. Quién más accede a los datos
 
-No cedemos datos a terceros salvo obligación legal. Estos proveedores los tratan por cuenta del responsable, con contrato de encargado de tratamiento:
+No cedemos datos a terceros salvo obligación legal. Estos proveedores tratan datos por cuenta del responsable, con contrato de encargado de tratamiento:
 
 - **Hostinger**, proveedor de alojamiento de la web.
 - **Google**, proveedor del servicio de correo electrónico (Gmail) con el que respondemos a tus mensajes. Google puede tratar datos fuera del Espacio Económico Europeo con las garantías previstas en el RGPD (Marco de Privacidad de Datos UE-EE. UU. y cláusulas contractuales tipo).
+
+**Publicidad.** Los anuncios los sirve **Google Ireland Limited** (Google AdSense). Google y los socios publicitarios que aparecen en el aviso de cookies tratan los datos de publicidad como responsables propios, según sus políticas. Más información: [Cómo utiliza Google la información de sitios o aplicaciones que utilizan sus servicios](https://policies.google.com/technologies/partner-sites). Puedes retirar tu consentimiento en cualquier momento desde «Configuración de privacidad», en el pie de página.
 
 ## 5. Tus derechos
 
@@ -48,4 +51,4 @@ La web está dirigida a personas adultas. No tratamos a sabiendas datos de menor
 
 ## 7. Cambios en esta política
 
-Si cambia la forma en que tratamos los datos (por ejemplo, si añadimos estadísticas de visitas o publicidad), actualizaremos esta página y su fecha antes de aplicar el cambio.
+Si cambia la forma en que tratamos los datos (por ejemplo, si añadimos estadísticas de visitas), actualizaremos esta página y su fecha antes de aplicar el cambio.

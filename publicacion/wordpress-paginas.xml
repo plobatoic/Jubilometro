@@ -27,6 +27,7 @@
 <ul>
 <li><strong>Explicamos la norma y la aplicamos a ejemplos.</strong> Las calculadoras siguen las reglas de la Ley General de la Seguridad Social.</li>
 <li><strong>No somos la Seguridad Social</strong> ni tenemos relación con ella. Quien reconoce tu pensión, su importe y su fecha es el Instituto Nacional de la Seguridad Social (INSS).</li>
+<li><strong>Nos financiamos con publicidad</strong> de Google AdSense, que no influye en el contenido. Lo explicamos en la <a href="/politica-editorial/">política editorial</a>.</li>
 <li><strong>No damos asesoramiento personalizado.</strong> Si tu caso es complejo, te recomendamos consultarlo con la Seguridad Social, con un graduado social o con un abogado laboralista.</li>
 </ul>
 <h2>Cómo trabajamos</h2>
@@ -75,7 +76,7 @@
 <h2>5. Actualización</h2>
 <p>Cada artículo muestra la fecha de su última actualización. Lo revisamos cuando se publica una norma que le afecta, y al menos una vez al año, cuando cambian las cuantías de las pensiones y las bases de cotización.</p>
 <h2>6. Independencia</h2>
-<p>No tenemos relación con la Seguridad Social ni con ninguna administración. Si algún día la web incluye publicidad o enlaces patrocinados, estarán identificados y no influirán en el contenido.</p>
+<p>No tenemos relación con la Seguridad Social ni con ninguna administración. La web se financia con anuncios de Google AdSense: los elige Google, se distinguen del contenido y no influyen en lo que escribimos. No cobramos por recomendar productos ni servicios. Si algún día un contenido fuera patrocinado, lo diríamos claramente en esa misma página.</p>
 <h2>7. Corrección de errores</h2>
 <p>Si encuentras un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a> indicando la página y el dato. Lo comprobamos y, si hay que corregirlo, actualizamos el artículo y su fecha.</p>
 <h2>8. Qué no hacemos</h2>
@@ -220,26 +221,33 @@
 <td>El tiempo necesario para atender tu mensaje y, como máximo, un año después</td>
 </tr>
 <tr>
+<td>Identificadores de cookies y del dispositivo, dirección IP y páginas que visitas, que recogen Google y sus socios publicitarios al mostrar anuncios</td>
+<td>Mostrar anuncios, medirlos y evitar el fraude; si lo aceptas, personalizarlos según tu navegación</td>
+<td>Tu consentimiento en el aviso de cookies (art. 6.1.a RGPD). Algunos socios alegan interés legítimo para ciertos fines: puedes oponerte en el mismo aviso</td>
+<td>Según la <a href="/politica-de-cookies/">política de cookies</a>; hasta 13 meses en las cookies de Google</td>
+</tr>
+<tr>
 <td>Datos técnicos de la conexión (dirección IP, navegador, página visitada, fecha y hora), en los registros del servidor</td>
 <td>Mantener la web en funcionamiento y protegerla frente a ataques</td>
 <td>Interés legítimo en la seguridad de la web (art. 6.1.f RGPD)</td>
 <td>El plazo que fija el proveedor de alojamiento para sus registros</td>
 </tr>
 </tbody></table>
-<p>No usamos tus datos para enviarte publicidad, no elaboramos perfiles y no tomamos decisiones automatizadas sobre ti.</p>
+<p>Jubilómetro no te envía publicidad por correo, no elabora perfiles con tus datos y no toma decisiones automatizadas sobre ti. Los anuncios los selecciona Google.</p>
 <h2>4. Quién más accede a los datos</h2>
-<p>No cedemos datos a terceros salvo obligación legal. Estos proveedores los tratan por cuenta del responsable, con contrato de encargado de tratamiento:</p>
+<p>No cedemos datos a terceros salvo obligación legal. Estos proveedores tratan datos por cuenta del responsable, con contrato de encargado de tratamiento:</p>
 <ul>
 <li><strong>Hostinger</strong>, proveedor de alojamiento de la web.</li>
 <li><strong>Google</strong>, proveedor del servicio de correo electrónico (Gmail) con el que respondemos a tus mensajes. Google puede tratar datos fuera del Espacio Económico Europeo con las garantías previstas en el RGPD (Marco de Privacidad de Datos UE-EE. UU. y cláusulas contractuales tipo).</li>
 </ul>
+<p><strong>Publicidad.</strong> Los anuncios los sirve <strong>Google Ireland Limited</strong> (Google AdSense). Google y los socios publicitarios que aparecen en el aviso de cookies tratan los datos de publicidad como responsables propios, según sus políticas. Más información: <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">Cómo utiliza Google la información de sitios o aplicaciones que utilizan sus servicios</a>. Puedes retirar tu consentimiento en cualquier momento desde «Configuración de privacidad», en el pie de página.</p>
 <h2>5. Tus derechos</h2>
 <p>Puedes pedir en cualquier momento el acceso a tus datos, su rectificación o supresión, la limitación u oposición a su tratamiento y su portabilidad, y retirar tu consentimiento. Escribe a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a> indicando qué derecho ejerces. Te responderemos en el plazo de un mes.</p>
 <p>Si crees que no hemos atendido bien tu solicitud, puedes reclamar ante la <a href="https://www.aepd.es" rel="noopener">Agencia Española de Protección de Datos</a>.</p>
 <h2>6. Menores</h2>
 <p>La web está dirigida a personas adultas. No tratamos a sabiendas datos de menores de 14 años.</p>
 <h2>7. Cambios en esta política</h2>
-<p>Si cambia la forma en que tratamos los datos (por ejemplo, si añadimos estadísticas de visitas o publicidad), actualizaremos esta página y su fecha antes de aplicar el cambio.</p>
+<p>Si cambia la forma en que tratamos los datos (por ejemplo, si añadimos estadísticas de visitas), actualizaremos esta página y su fecha antes de aplicar el cambio.</p>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>9504</wp:post_id>
@@ -255,9 +263,9 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Política de privacidad de Jubilómetro]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Qué datos personales trata Jubilómetro, para qué, durante cuánto tiempo y cómo ejercer tus derechos. Las calculadoras no guardan ni envían tus datos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Qué datos trata Jubilómetro, para qué y cómo ejercer tus derechos. Las calculadoras no guardan tus datos; los anuncios de Google, solo si lo aceptas.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Política de privacidad de Jubilómetro]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Qué datos personales trata Jubilómetro, para qué, durante cuánto tiempo y cómo ejercer tus derechos. Las calculadoras no guardan ni envían tus datos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Qué datos trata Jubilómetro, para qué y cómo ejercer tus derechos. Las calculadoras no guardan tus datos; los anuncios de Google, solo si lo aceptas.]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Política de cookies]]></title>
@@ -266,17 +274,64 @@
     <description></description>
     <content:encoded><![CDATA[<p>Esta política explica qué cookies usa jubilometro.com, según el artículo 22.2 de la Ley 34/2002, de servicios de la sociedad de la información y de comercio electrónico (LSSI), y la guía sobre el uso de las cookies de la Agencia Española de Protección de Datos.</p>
 <h2>1. Qué son las cookies</h2>
-<p>Las cookies son pequeños archivos que una web guarda en tu navegador para recordar información entre una visita y otra o entre una página y otra.</p>
-<h2>2. Qué cookies usamos</h2>
-<p><strong>Solo usamos cookies técnicas</strong>, necesarias para que la web funcione y sea segura. Por ley no necesitan tu consentimiento.</p>
+<p>Las cookies son pequeños archivos que una web guarda en tu navegador para recordar información entre una visita y otra o entre una página y otra. Aquí llamamos también «cookies» a tecnologías parecidas, como el almacenamiento local del navegador o los identificadores de publicidad.</p>
+<h2>2. Cómo te pedimos permiso</h2>
+<p>La primera vez que entras en la web te mostramos un aviso de cookies de Google, que es una plataforma de gestión del consentimiento certificada según el estándar TCF de IAB Europe. En ese aviso puedes:</p>
 <ul>
-<li><strong>Los lectores</strong> no reciben cookies de publicidad, de análisis ni de redes sociales.</li>
-<li><strong>Las calculadoras</strong> no usan cookies ni guardan nada en tu navegador.</li>
-<li><strong>El panel de administración</strong> de WordPress sí guarda cookies de sesión (<code>wordpress_*</code>, <code>wordpress_logged_in_*</code> y <code>wp-settings-*</code>), pero solo a quien inicia sesión en él.</li>
-<li><strong>El proveedor de alojamiento</strong> (Hostinger) o su servicio de seguridad pueden instalar cookies técnicas para repartir la carga del servidor y frenar ataques.</li>
+<li><strong>Aceptar</strong> las cookies de publicidad.</li>
+<li><strong>Rechazarlas.</strong> La web funciona igual y puede seguir mostrando anuncios no personalizados.</li>
+<li><strong>Configurar</strong> tu elección por finalidades y por empresas.</li>
 </ul>
-<h2>3. Cómo borrar o bloquear las cookies</h2>
-<p>Puedes borrar las cookies o impedir que se guarden desde la configuración de tu navegador:</p>
+<p>Puedes <strong>cambiar tu elección en cualquier momento</strong> desde el enlace «Configuración de privacidad» del pie de página.</p>
+<h2>3. Qué cookies usamos</h2>
+<h3>Cookies técnicas (no necesitan tu consentimiento)</h3>
+<ul>
+<li><strong>Tu elección de cookies:</strong> la guarda el propio aviso de consentimiento para no volver a preguntarte.</li>
+<li><strong>El panel de administración</strong> de WordPress guarda cookies de sesión (<code>wordpress_*</code>, <code>wordpress_logged_in_*</code> y <code>wp-settings-*</code>), pero solo a quien inicia sesión en él.</li>
+<li><strong>El proveedor de alojamiento</strong> (Hostinger) o su servicio de seguridad pueden instalar cookies técnicas para repartir la carga del servidor y frenar ataques.</li>
+<li><strong>Las calculadoras</strong> no usan cookies ni guardan nada en tu navegador.</li>
+</ul>
+<h3>Cookies de publicidad de Google AdSense (solo si las aceptas)</h3>
+<p>La web se financia con anuncios de Google AdSense. Google y sus socios publicitarios usan cookies para mostrar anuncios, limitar las veces que ves el mismo, medir su rendimiento, evitar el fraude y, si lo aceptas, mostrarte anuncios personalizados según tu navegación.</p>
+<!-- tabla: Principales cookies de Google AdSense -->
+<table>
+<thead>
+<tr>
+<th>Cookie</th>
+<th>Titular</th>
+<th>Para qué sirve</th>
+<th>Duración</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><code>__gads</code>, <code>__gpi</code></td>
+<td>Google</td>
+<td>Publicidad y medición de anuncios en esta web</td>
+<td>13 meses</td>
+</tr>
+<tr>
+<td><code>IDE</code></td>
+<td>Google (doubleclick.net)</td>
+<td>Publicidad personalizada</td>
+<td>13 meses</td>
+</tr>
+<tr>
+<td><code>DSID</code></td>
+<td>Google (doubleclick.net)</td>
+<td>Asociar tu actividad entre dispositivos si has iniciado sesión en Google</td>
+<td>2 semanas</td>
+</tr>
+<tr>
+<td><code>test_cookie</code></td>
+<td>Google (doubleclick.net)</td>
+<td>Comprobar si tu navegador acepta cookies</td>
+<td>15 minutos</td>
+</tr>
+</tbody></table>
+<p>Google puede usar otras cookies y cambiar las duraciones. La lista completa y actualizada está en la página de Google sobre las <a href="https://business.safety.google/adscookies/" rel="noopener">cookies de publicidad</a>. Cómo trata Google los datos en las webs que muestran sus anuncios: <a href="https://policies.google.com/technologies/partner-sites" rel="noopener">Cómo utiliza Google la información de sitios o aplicaciones que utilizan sus servicios</a>.</p>
+<p>Puedes gestionar la personalización de los anuncios de Google en <a href="https://adssettings.google.com" rel="noopener">Mi Centro de Publicidad</a>.</p>
+<h2>4. Cómo borrar o bloquear las cookies</h2>
+<p>Además de cambiar tu elección en el aviso, puedes borrar las cookies o impedir que se guarden desde la configuración de tu navegador:</p>
 <ul>
 <li><a href="https://support.google.com/chrome/answer/95647" rel="noopener">Google Chrome</a></li>
 <li><a href="https://support.mozilla.org/es/kb/Borrar%20cookies" rel="noopener">Mozilla Firefox</a></li>
@@ -284,8 +339,8 @@
 <li><a href="https://support.microsoft.com/es-es/microsoft-edge/eliminar-cookies-en-microsoft-edge-63947406-40ac-c3b8-57b9-2a946a29ae09" rel="noopener">Microsoft Edge</a></li>
 </ul>
 <p>Si bloqueas todas las cookies, puede que alguna función de la web no vaya bien.</p>
-<h2>4. Cambios en esta política</h2>
-<p>Si añadimos cookies de análisis o de publicidad, antes de hacerlo actualizaremos esta página e incorporaremos un aviso para que puedas aceptarlas o rechazarlas.</p>
+<h2>5. Más información</h2>
+<p>Cómo tratamos los datos personales se explica en la <a href="/politica-de-privacidad/">política de privacidad</a>. Si añadimos otras cookies, por ejemplo de estadísticas de visitas, actualizaremos antes esta página y el aviso de consentimiento.</p>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[]]></excerpt:encoded>
     <wp:post_id>9505</wp:post_id>
@@ -301,9 +356,9 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Política de cookies de Jubilómetro]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Qué cookies usa jubilometro.com: solo las técnicas necesarias para que la web funcione, sin publicidad ni análisis. Cómo borrarlas o bloquearlas.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Qué cookies usa jubilometro.com: las técnicas y, si lo aceptas, las de anuncios de Google AdSense. Cómo cambiar tu elección y cómo borrarlas.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Política de cookies de Jubilómetro]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Qué cookies usa jubilometro.com: solo las técnicas necesarias para que la web funcione, sin publicidad ni análisis. Cómo borrarlas o bloquearlas.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Qué cookies usa jubilometro.com: las técnicas y, si lo aceptas, las de anuncios de Google AdSense. Cómo cambiar tu elección y cómo borrarlas.]]></wp:meta_value></wp:postmeta>
   </item>
 </channel>
 </rss>

@@ -39,7 +39,7 @@ Cada artículo muestra la fecha de su última actualización. Lo revisamos cuand
 
 ## 6. Independencia
 
-No tenemos relación con la Seguridad Social ni con ninguna administración. Si algún día la web incluye publicidad o enlaces patrocinados, estarán identificados y no influirán en el contenido.
+No tenemos relación con la Seguridad Social ni con ninguna administración. La web se financia con anuncios de Google AdSense: los elige Google, se distinguen del contenido y no influyen en lo que escribimos. No cobramos por recomendar productos ni servicios. Si algún día un contenido fuera patrocinado, lo diríamos claramente en esa misma página.
 
 ## 7. Corrección de errores
 
