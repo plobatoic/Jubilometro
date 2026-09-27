@@ -10,9 +10,9 @@ function meta(clave, valor) {
   return `    <wp:postmeta><wp:meta_key>${clave}</wp:meta_key><wp:meta_value>${cdata(valor)}</wp:meta_value></wp:postmeta>`;
 }
 
-export function exportarWordPress(articulos) {
+export function exportarWordPress(articulos, urlsExistentes = null) {
   const categorias = [...new Set(articulos.map((a) => a.datos.categoria))];
-  const slugCategoria = (c) => ({ 'Jubilación': 'jubilacion', 'Cuánto cobraré': 'cuanto-cobrare' }[c] ?? c);
+  const slugCategoria = (c) => ({ 'Jubilación': 'jubilacion', 'Cuánto cobraré': 'cuanto-cobrare', 'Calculadoras': 'calculadoras' }[c] ?? c);
   const items = articulos.map((a, i) => {
     const d = a.datos;
     const slug = d.url.split('/').filter(Boolean).pop();
@@ -22,7 +22,7 @@ export function exportarWordPress(articulos) {
     <link>${DOMINIO}${d.url}</link>
     <dc:creator>${cdata('admin')}</dc:creator>
     <description></description>
-    <content:encoded>${cdata(cuerpoWordPress(a))}</content:encoded>
+    <content:encoded>${cdata(cuerpoWordPress(a, urlsExistentes))}</content:encoded>
     <excerpt:encoded>${cdata(d.meta_descripcion)}</excerpt:encoded>
     <wp:post_id>${9000 + i}</wp:post_id>
     <wp:post_date>${cdata(fecha)}</wp:post_date>

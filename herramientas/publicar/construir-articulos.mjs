@@ -10,11 +10,13 @@ const urls = new Set();
 for (const a of articulos) {
   if (urls.has(a.datos.url)) throw new Error(`URL duplicada: ${a.datos.url}`);
   urls.add(a.datos.url);
-  writeFileSync(join(a.dir, 'articulo.html'), paginaHtml(a));
+}
+for (const a of articulos) {
+  writeFileSync(join(a.dir, 'articulo.html'), paginaHtml(a, urls));
   console.log(rutaRelativa(join(a.dir, 'articulo.html')));
 }
 
 mkdirSync(join(RAIZ, 'publicacion'), { recursive: true });
 const wxr = join(RAIZ, 'publicacion', 'wordpress-borradores.xml');
-writeFileSync(wxr, exportarWordPress(articulos));
+writeFileSync(wxr, exportarWordPress(articulos, urls));
 console.log(rutaRelativa(wxr), `(${articulos.length} artículos)`);

@@ -26,6 +26,7 @@ const CAMPOS_OBLIGATORIOS = ['titulo_seo', 'h1', 'meta_descripcion', 'url', 'cat
 const CATEGORIAS = {
   'Jubilación': '/jubilacion/',
   'Cuánto cobraré': '/cuanto-cobrare/',
+  'Calculadoras': '/calculadoras/',
 };
 
 export function listarArticulos(dir = join(RAIZ, 'contenido')) {
@@ -66,8 +67,15 @@ function widget(nombre) {
 }
 
 // Convierte el cuerpo Markdown en el HTML del <article>.
-export function cuerpoHtml(articulo) {
+export function cuerpoHtml(articulo, urlsExistentes = null) {
   let html = marked.parse(articulo.cuerpo, { gfm: true });
+
+  // Enlaces internos a páginas que todavía no existen: se publican como texto para no
+  // dejar enlaces rotos. En cuanto exista el artículo de destino, vuelven a ser enlaces.
+  if (urlsExistentes) {
+    html = html.replace(/<a href="(\/[^"]*)">([\s\S]*?)<\/a>/g, (enlace, url, texto) =>
+      urlsExistentes.has(url.split('#')[0]) ? enlace : texto);
+  }
   const ids = new Set();
 
   // H1 + línea de metadatos -> cabecera del artículo.
@@ -163,7 +171,7 @@ export function jsonLd(articulo) {
   return JSON.stringify({ '@context': 'https://schema.org', '@graph': grafo }, null, 2);
 }
 
-export function paginaHtml(articulo) {
+export function paginaHtml(articulo, urlsExistentes = null) {
   const d = articulo.datos;
   const url = `${DOMINIO}${d.url}`;
   const fecha = `${d.fecha_actualizacion}T09:00:00+02:00`;
@@ -210,7 +218,7 @@ ${CSS}</style>
 
 <!-- ===== INICIO DEL CONTENIDO DEL ARTÍCULO ===== -->
 <article>
-${cuerpoHtml(articulo)}</article>
+${cuerpoHtml(articulo, urlsExistentes)}</article>
 <!-- ===== FIN DEL CONTENIDO DEL ARTÍCULO ===== -->
 </main>
 </body>
@@ -219,8 +227,8 @@ ${cuerpoHtml(articulo)}</article>
 }
 
 // Cuerpo para el editor de WordPress: sin H1 (el título del post ya lo es).
-export function cuerpoWordPress(articulo) {
-  return cuerpoHtml(articulo).replace(/<header>\n<h1>[\s\S]*?<\/h1>\n/, '<header>\n');
+export function cuerpoWordPress(articulo, urlsExistentes = null) {
+  return cuerpoHtml(articulo, urlsExistentes).replace(/<header>\n<h1>[\s\S]*?<\/h1>\n/, '<header>\n');
 }
 
 export function rutaRelativa(ruta) {

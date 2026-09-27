@@ -1,5 +1,5 @@
 ---
-titulo_seo: "Jubilarse habiendo trabajado en otro país: cómo se suman los años"
+titulo_seo: "Jubilación con años trabajados en otro país: cómo se suman"
 h1: "Jubilarse habiendo trabajado en otro país de la UE o de Latinoamérica: cómo se suman los años"
 meta_descripcion: "Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla."
 url: /jubilacion/trabajado-en-otro-pais/

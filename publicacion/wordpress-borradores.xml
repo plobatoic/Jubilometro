@@ -14,7 +14,409 @@
   <wp:wxr_version>1.2</wp:wxr_version>
   <wp:base_site_url>https://jubilometro.com</wp:base_site_url>
   <wp:base_blog_url>https://jubilometro.com</wp:base_blog_url>
-  <wp:category><wp:term_id>100</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>100</wp:term_id><wp:category_nicename><![CDATA[calculadoras]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Calculadoras]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>101</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
+  <item>
+    <title><![CDATA[Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado]]></title>
+    <link>https://jubilometro.com/calculadoras/edad-de-jubilacion/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-27">27 de septiembre de 2026</time> · Por [AUTOR] · Revisado por [REVISOR, graduado social colegiado n.º …]</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Introduce tu <strong>fecha de nacimiento</strong> y los <strong>años y meses que llevas cotizados</strong> (están en tu informe de vida laboral). La calculadora te dice <strong>el día</strong> en que cumples los requisitos de la jubilación ordinaria, con las reglas del año en que te jubilas: en 2027, <strong>67 años</strong>, o <strong>65 si tienes 38 años y 6 meses cotizados</strong>.</p>
+<p>El cálculo se hace en tu navegador: no guardamos ni enviamos tus datos.</p>
+</aside>
+<!-- CALCULADORA:INICIO -->
+<div class="calc-jubi" id="calc-jubi">
+  <style>
+    .calc-jubi { --cj-fondo: #f2f6fb; --cj-borde: #c9d6e6; --cj-tinta: #14213d; --cj-tinta-2: #3d4a63; --cj-acento: #1f5fa8; --cj-acento-tinta: #ffffff; --cj-aviso: #8a4b00; --cj-aviso-fondo: #fff4e0; --cj-ok: #1d6b45;
+      background: var(--cj-fondo); border: 1px solid var(--cj-borde); border-radius: 12px; padding: 20px; margin: 28px 0; color: var(--cj-tinta); font-size: 1rem; }
+    @media (prefers-color-scheme: dark) {
+      :root:not([data-theme="light"]) .calc-jubi { --cj-fondo: #16202e; --cj-borde: #2d3d54; --cj-tinta: #eef2f7; --cj-tinta-2: #b9c4d3; --cj-acento: #5b9be0; --cj-acento-tinta: #0b1422; --cj-aviso: #ffcf8a; --cj-aviso-fondo: #2e2413; --cj-ok: #6fd3a0; }
+    }
+    :root[data-theme="dark"] .calc-jubi { --cj-fondo: #16202e; --cj-borde: #2d3d54; --cj-tinta: #eef2f7; --cj-tinta-2: #b9c4d3; --cj-acento: #5b9be0; --cj-acento-tinta: #0b1422; --cj-aviso: #ffcf8a; --cj-aviso-fondo: #2e2413; --cj-ok: #6fd3a0; }
+    .calc-jubi .cj-titulo { font-size: 1.3rem; margin: 0 0 6px; line-height: 1.3; }
+    .calc-jubi p { margin: 0 0 12px; }
+    .calc-jubi fieldset { border: 0; padding: 0; margin: 0 0 16px; min-width: 0; }
+    .calc-jubi legend { font-weight: 700; margin-bottom: 8px; padding: 0; }
+    .calc-jubi .cj-fila { display: flex; flex-wrap: wrap; gap: 12px; }
+    .calc-jubi label { display: flex; flex-direction: column; gap: 4px; font-size: 0.95rem; color: var(--cj-tinta-2); }
+    .calc-jubi input, .calc-jubi select { font: inherit; font-size: 1.05rem; color: var(--cj-tinta); background: transparent; border: 1px solid var(--cj-borde); border-radius: 8px; padding: 10px 12px; min-height: 48px; box-sizing: border-box; }
+    .calc-jubi input[type="number"] { width: 6.5em; }
+    .calc-jubi .cj-radios { display: flex; gap: 20px; flex-wrap: wrap; }
+    .calc-jubi .cj-radios label { flex-direction: row; align-items: center; gap: 8px; color: var(--cj-tinta); font-size: 1rem; min-height: 48px; }
+    .calc-jubi .cj-radios input { width: 22px; height: 22px; min-height: 0; }
+    .calc-jubi .cj-ayuda { font-size: 0.9rem; color: var(--cj-tinta-2); margin: 6px 0 0; }
+    .calc-jubi button { font: inherit; font-weight: 700; font-size: 1.05rem; background: var(--cj-acento); color: var(--cj-acento-tinta); border: 0; border-radius: 8px; padding: 12px 24px; min-height: 48px; cursor: pointer; }
+    .calc-jubi button:focus-visible, .calc-jubi input:focus-visible, .calc-jubi select:focus-visible { outline: 3px solid var(--cj-acento); outline-offset: 2px; }
+    .calc-jubi .cj-resultado { margin-top: 18px; }
+    .calc-jubi .cj-resultado:empty { display: none; }
+    .calc-jubi .cj-fecha { font-size: 1.35rem; font-weight: 700; color: var(--cj-ok); margin-bottom: 8px; }
+    .calc-jubi .cj-error { color: var(--cj-aviso); font-weight: 700; }
+    .calc-jubi .cj-alerta { background: var(--cj-aviso-fondo); color: var(--cj-aviso); border-radius: 8px; padding: 10px 12px; margin: 10px 0 0; }
+    .calc-jubi .cj-nota { font-size: 0.85rem; color: var(--cj-tinta-2); margin: 14px 0 0; }
+  </style>
+  <h3 class="cj-titulo">Calcula tu edad de jubilación ordinaria</h3>
+  <p>Introduce tu fecha de nacimiento y lo que llevas cotizado hoy. El cálculo se hace en tu navegador: no guardamos ni enviamos tus datos.</p>
+  <form class="cj-form" novalidate>
+    <fieldset>
+      <legend>Fecha de nacimiento</legend>
+      <div class="cj-fila">
+        <label>Día <input name="dia" type="number" inputmode="numeric" min="1" max="31" required></label>
+        <label>Mes
+          <select name="mes" required>
+            <option value="">Elige</option>
+            <option value="1">enero</option><option value="2">febrero</option><option value="3">marzo</option>
+            <option value="4">abril</option><option value="5">mayo</option><option value="6">junio</option>
+            <option value="7">julio</option><option value="8">agosto</option><option value="9">septiembre</option>
+            <option value="10">octubre</option><option value="11">noviembre</option><option value="12">diciembre</option>
+          </select>
+        </label>
+        <label>Año <input name="ano" type="number" inputmode="numeric" min="1940" max="2010" required></label>
+      </div>
+    </fieldset>
+    <fieldset>
+      <legend>Tiempo cotizado hasta hoy</legend>
+      <div class="cj-fila">
+        <label>Años <input name="anosCot" type="number" inputmode="numeric" min="0" max="60" required></label>
+        <label>Meses <input name="mesesCot" type="number" inputmode="numeric" min="0" max="11" value="0"></label>
+      </div>
+      <p class="cj-ayuda">Míralo en tu informe de vida laboral. Cuenta solo años y meses completos, sin pagas extra.</p>
+    </fieldset>
+    <fieldset>
+      <legend>¿Vas a seguir cotizando hasta jubilarte?</legend>
+      <div class="cj-radios">
+        <label><input type="radio" name="sigue" value="si" checked> Sí</label>
+        <label><input type="radio" name="sigue" value="no"> No</label>
+      </div>
+    </fieldset>
+    <button type="submit">Calcular</button>
+  </form>
+  <div class="cj-resultado" aria-live="polite"></div>
+  <p class="cj-nota">Estimación orientativa de la jubilación ordinaria según la disposición transitoria 7.ª de la Ley General de la Seguridad Social. No incluye la jubilación anticipada, las edades reducidas por discapacidad o profesión, la cláusula de salvaguarda ni el requisito de 2 años cotizados en los últimos 15. La fecha oficial la reconoce el INSS.</p>
+  <script>
+  (function () {
+    // Edad ordinaria de jubilación en España (Régimen General y RETA).
+    //
+    // Norma aplicada:
+    //   - Art. 205.1.a) del texto refundido de la Ley General de la Seguridad Social
+    //     (Real Decreto Legislativo 8/2015): 67 años, o 65 con 38 años y 6 meses cotizados,
+    //     sin contar la parte proporcional de pagas extra y en años y meses completos.
+    //   - Disposición transitoria 7.ª LGSS: calendario 2013-2027. Cada fila se aplica
+    //     según el AÑO DEL HECHO CAUSANTE (el año en que te jubilas), no según el año
+    //     de nacimiento ni el año en que cumples 65.
+    //   - Art. 205.1.b) LGSS: periodo mínimo de 15 años cotizados.
+    //
+    // Lo que NO calcula: jubilación anticipada, edades reducidas (discapacidad, profesiones
+    // con coeficientes reductores), cláusula de salvaguarda (DT 4.ª LGSS), Clases Pasivas
+    // ni el requisito de 2 años cotizados dentro de los últimos 15.
+    // Es una estimación orientativa: la fecha oficial la fija el INSS.
+    
+    // [año, cotización para jubilarse a los 65 (meses), edad exigida si no se alcanza (meses)]
+    const CALENDARIO = [
+      [2013, 35 * 12 + 3, 65 * 12 + 1],
+      [2014, 35 * 12 + 6, 65 * 12 + 2],
+      [2015, 35 * 12 + 9, 65 * 12 + 3],
+      [2016, 36 * 12, 65 * 12 + 4],
+      [2017, 36 * 12 + 3, 65 * 12 + 5],
+      [2018, 36 * 12 + 6, 65 * 12 + 6],
+      [2019, 36 * 12 + 9, 65 * 12 + 8],
+      [2020, 37 * 12, 65 * 12 + 10],
+      [2021, 37 * 12 + 3, 66 * 12],
+      [2022, 37 * 12 + 6, 66 * 12 + 2],
+      [2023, 37 * 12 + 9, 66 * 12 + 4],
+      [2024, 38 * 12, 66 * 12 + 6],
+      [2025, 38 * 12 + 3, 66 * 12 + 8],
+      [2026, 38 * 12 + 3, 66 * 12 + 10],
+      [2027, 38 * 12 + 6, 67 * 12],
+    ];
+    
+    const EDAD_MINIMA = 65 * 12;
+    const EDAD_MAXIMA = 67 * 12;
+    const PERIODO_MINIMO = 15 * 12;
+    
+    function reglaDelAno(ano) {
+      if (ano < 2013) return { ano, umbral: null, edadCarreraCorta: EDAD_MINIMA };
+      const fila = CALENDARIO.find(([a]) => a === Math.min(ano, 2027));
+      return { ano, umbral: fila[1], edadCarreraCorta: fila[2] };
+    }
+    
+    // Suma meses a una fecha. Si el día no existe en el mes de destino (p. ej., 31 de
+    // febrero), se toma el último día de ese mes.
+    function sumarMeses({ ano, mes, dia }, meses) {
+      const total = ano * 12 + (mes - 1) + meses;
+      const a = Math.floor(total / 12);
+      const m = (total % 12) + 1;
+      const ultimoDia = new Date(Date.UTC(a, m, 0)).getUTCDate();
+      return { ano: a, mes: m, dia: Math.min(dia, ultimoDia) };
+    }
+    
+    function comparar(f1, f2) {
+      return f1.ano - f2.ano || f1.mes - f2.mes || f1.dia - f2.dia;
+    }
+    
+    // Meses completos transcurridos entre dos fechas (0 si hasta <= desde).
+    function mesesCompletos(desde, hasta) {
+      if (comparar(hasta, desde) <= 0) return 0;
+      let meses = (hasta.ano - desde.ano) * 12 + (hasta.mes - desde.mes);
+      if (comparar(sumarMeses(desde, meses), hasta) > 0) meses -= 1;
+      return meses;
+    }
+    
+    // Fecha de jubilación ordinaria (la primera fecha, desde `referencia`, en la que se
+    // cumplen los requisitos de edad y cotización del año en curso).
+    //   nacimiento:      { ano, mes, dia }
+    //   cotizadoMeses:   años y meses completos cotizados a fecha de referencia, en meses
+    //                    (sin la parte proporcional de pagas extra)
+    //   referencia:      fecha a la que corresponde cotizadoMeses (normalmente, hoy)
+    //   sigueCotizando:  si seguirá cotizando sin interrupción hasta jubilarse
+    function jubilacionOrdinaria({ nacimiento, cotizadoMeses, referencia, sigueCotizando }) {
+      const cumple65 = sumarMeses(nacimiento, EDAD_MINIMA);
+      const cumple67 = sumarMeses(nacimiento, EDAD_MAXIMA);
+      const inicio = comparar(referencia, cumple65) > 0 ? referencia : cumple65;
+    
+      // Solo puedes pasar a cumplir los requisitos cuando cumples un mes más de edad o
+      // sumas un mes más cotizado. El cambio de año nunca los facilita (el calendario
+      // solo endurece), así que no hace falta evaluarlo.
+      const candidatas = [inicio];
+      for (let edad = EDAD_MINIMA; edad <= EDAD_MAXIMA; edad++) {
+        candidatas.push(sumarMeses(nacimiento, edad));
+      }
+      if (sigueCotizando) {
+        const hasta = mesesCompletos(referencia, cumple67) + 1;
+        for (let n = 1; n <= hasta; n++) candidatas.push(sumarMeses(referencia, n));
+      }
+      const fechas = candidatas
+        .filter((f) => comparar(f, inicio) >= 0)
+        .sort(comparar)
+        .filter((f, i, lista) => i === 0 || comparar(f, lista[i - 1]) !== 0);
+    
+      for (const fecha of fechas) {
+        const edadMeses = mesesCompletos(nacimiento, fecha);
+        const cotizado = cotizadoMeses + (sigueCotizando ? mesesCompletos(referencia, fecha) : 0);
+        const regla = reglaDelAno(fecha.ano);
+        const porCarreraLarga = regla.umbral !== null && cotizado >= regla.umbral;
+        if (edadMeses >= EDAD_MINIMA && (porCarreraLarga || edadMeses >= regla.edadCarreraCorta)) {
+          return {
+            fecha,
+            edadMeses,
+            cotizadoMeses: cotizado,
+            via: porCarreraLarga ? 'carrera-larga' : 'edad',
+            regla,
+            yaCumple: comparar(fecha, referencia) <= 0,
+            alcanzaPeriodoMinimo: cotizado >= PERIODO_MINIMO,
+          };
+        }
+      }
+      throw new Error('Sin resultado: revisa los datos de entrada');
+    }
+    
+    function formatearEdad(meses) {
+      const anos = Math.floor(meses / 12);
+      const resto = meses % 12;
+      if (resto === 0) return `${anos} años`;
+      return `${anos} años y ${resto} ${resto === 1 ? 'mes' : 'meses'}`;
+    }
+    var MESES = ['enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre'];
+    var raiz = document.currentScript.closest('.calc-jubi');
+    var form = raiz.querySelector('.cj-form');
+    var salida = raiz.querySelector('.cj-resultado');
+
+    function fechaTexto(f) { return f.dia + ' de ' + MESES[f.mes - 1] + ' de ' + f.ano; }
+    function numero(nombre) {
+      var v = form.elements[nombre].value.trim();
+      return v === '' ? NaN : Number(v);
+    }
+    function parrafo(texto, clase) {
+      var p = document.createElement('p');
+      if (clase) p.className = clase;
+      p.textContent = texto;
+      return p;
+    }
+
+    form.addEventListener('submit', function (evento) {
+      evento.preventDefault();
+      salida.replaceChildren();
+      var dia = numero('dia'), mes = numero('mes'), ano = numero('ano');
+      var anosCot = numero('anosCot'), mesesCot = numero('mesesCot');
+      if (isNaN(mesesCot)) mesesCot = 0;
+      var hoy = new Date();
+      var referencia = { ano: hoy.getFullYear(), mes: hoy.getMonth() + 1, dia: hoy.getDate() };
+      if (!Number.isInteger(dia) || !Number.isInteger(mes) || !Number.isInteger(ano) || mes < 1 || mes > 12 || ano < 1940 || ano > 2010 ||
+          dia < 1 || dia > new Date(Date.UTC(ano, mes, 0)).getUTCDate()) {
+        salida.append(parrafo('Revisa la fecha de nacimiento.', 'cj-error'));
+        return;
+      }
+      var nacimiento = { ano: ano, mes: mes, dia: dia };
+      var edadHoy = mesesCompletos(nacimiento, referencia);
+      if (!Number.isInteger(anosCot) || !Number.isInteger(mesesCot) || anosCot < 0 || mesesCot < 0 || mesesCot > 11 || anosCot * 12 + mesesCot > edadHoy) {
+        salida.append(parrafo('Revisa el tiempo cotizado: años enteros y de 0 a 11 meses.', 'cj-error'));
+        return;
+      }
+      var sigue = form.elements.sigue.value === 'si';
+      var r = jubilacionOrdinaria({ nacimiento: nacimiento, cotizadoMeses: anosCot * 12 + mesesCot, referencia: referencia, sigueCotizando: sigue });
+
+      salida.append(parrafo(r.yaCumple
+        ? 'Ya cumples la edad y la cotización de la jubilación ordinaria.'
+        : 'Tu jubilación ordinaria: ' + fechaTexto(r.fecha) + ', con ' + formatearEdad(r.edadMeses) + '.', 'cj-fecha'));
+
+      var regla = r.regla;
+      var explicacion = r.via === 'carrera-larga'
+        ? 'Llegas con ' + formatearEdad(r.cotizadoMeses) + ' cotizados, y en ' + regla.ano + ' bastan ' + formatearEdad(regla.umbral) + ' para jubilarte a partir de los 65.'
+        : 'En ' + regla.ano + ' se exigen ' + formatearEdad(regla.edadCarreraCorta) + (regla.umbral !== null ? ' a quien no llega a ' + formatearEdad(regla.umbral) + ' cotizados' : '') + '. Llegarías con ' + formatearEdad(r.cotizadoMeses) + ' cotizados.';
+      salida.append(parrafo(explicacion));
+
+      if (!r.alcanzaPeriodoMinimo) {
+        salida.append(parrafo('Atención: con menos de 15 años cotizados no tendrías derecho a la pensión contributiva de jubilación.', 'cj-alerta'));
+      }
+      var diciembre = { ano: r.fecha.ano, mes: 12, dia: 31 };
+      if (r.via === 'carrera-larga' && r.fecha.ano < 2027) {
+        var cotEnero = r.cotizadoMeses + (sigue ? mesesCompletos(r.fecha, diciembre) : 0);
+        if (cotEnero < reglaDelAno(r.fecha.ano + 1).umbral) {
+          salida.append(parrafo('Ojo: si retrasas la jubilación a ' + (r.fecha.ano + 1) + ', necesitarás ' + formatearEdad(reglaDelAno(r.fecha.ano + 1).umbral) + ' cotizados para jubilarte antes de los 67.', 'cj-alerta'));
+        }
+      }
+    });
+  })();
+  </script>
+</div>
+
+<!-- CALCULADORA:FIN -->
+
+<h2 id="que-datos-necesitas">Qué datos necesitas</h2>
+<ul>
+<li><strong>Fecha de nacimiento</strong>, con día, mes y año. Importa el día: la edad se cuenta en años y meses completos.</li>
+<li><strong>Tiempo cotizado hasta hoy</strong>, en años y meses completos. Lo encontrarás en tu <strong>informe de vida laboral</strong>, que puedes descargar al momento en Import@ss. No sumes la parte proporcional de las pagas extra: para la edad de jubilación no cuenta.</li>
+<li><strong>Si vas a seguir cotizando</strong>. Si sigues trabajando, cobrando el paro o con un convenio especial, cada mes suma y puede adelantar tu fecha. Si has dejado de cotizar, la calculadora usa solo lo que ya tienes.</li>
+</ul>
+<h2 id="como-calcula-tu-fecha">Cómo calcula tu fecha</h2>
+<p>La calculadora aplica el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">artículo 205 y la disposición transitoria 7.ª de la Ley General de la Seguridad Social</a>:</p>
+<ol>
+<li>Desde que cumples 65 años, busca <strong>el primer día</strong> en que cumples una de las dos condiciones <strong>del año en que te jubilarías</strong>: tener la edad exigida con carrera corta o tener cotizado el umbral de carrera larga.</li>
+<li>Si sigues cotizando, suma cada mes completo a lo que llevas hoy.</li>
+<li>Te muestra la fecha, la edad que tendrás, lo que habrás cotizado entonces y por qué vía llegas (por edad o por años cotizados).</li>
+</ol>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Requisitos de la jubilación ordinaria que aplica la calculadora</caption>
+<thead>
+<tr>
+<th scope="col">Año de jubilación</th>
+<th scope="col">Edad con carrera larga</th>
+<th scope="col">Años cotizados necesarios</th>
+<th scope="col">Edad con carrera corta</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">2026</th>
+<td>65 años</td>
+<td>38 años y 3 meses</td>
+<td>66 años y 10 meses</td>
+</tr>
+<tr>
+<th scope="row">2027 y siguientes</th>
+<td>65 años</td>
+<td>38 años y 6 meses</td>
+<td>67 años</td>
+</tr>
+</tbody></table>
+</div>
+<p>La clave es que <strong>se aplican las reglas del año en que te jubilas</strong>, no del año en que naciste. Por eso a quien nació entre marzo y diciembre de 1960 y no llega a 38 años y 3 meses cotizados le toca jubilarse a los 67: cumple 66 años y 10 meses ya en 2027, cuando se exigen 67. La tabla completa por año de nacimiento está en nuestra guía de la <a href="/jubilacion/edad-de-jubilacion/">edad de jubilación</a>.</p>
+<h2 id="ejemplos-calculados">Ejemplos calculados</h2>
+<p>Calculados a 27 de septiembre de 2026 con la misma lógica que la calculadora:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Ejemplos de fecha de jubilación ordinaria</caption>
+<thead>
+<tr>
+<th scope="col">Persona</th>
+<th scope="col">Datos</th>
+<th scope="col">Resultado</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Rosa</th>
+<td>Nació el 10/05/1960; 30 años cotizados; sigue trabajando</td>
+<td><strong>10 de mayo de 2027, con 67 años</strong>. No llega al umbral de carrera larga</td>
+</tr>
+<tr>
+<th scope="row">Luis</th>
+<td>Nació el 15/03/1962; 40 años cotizados; ya no cotiza</td>
+<td><strong>15 de marzo de 2027, con 65 años</strong>, por carrera larga</td>
+</tr>
+<tr>
+<th scope="row">Elena</th>
+<td>Nació el 15/03/1962; 37 años y 6 meses cotizados; sigue trabajando</td>
+<td><strong>27 de septiembre de 2027, con 65 años y 6 meses</strong>: ese día llega a 38 años y 6 meses cotizados</td>
+</tr>
+<tr>
+<th scope="row">Pedro</th>
+<td>Nació el 08/01/1961; 38 años y 6 meses cotizados</td>
+<td><strong>Ya cumple los requisitos</strong>: en 2026 bastan 38 años y 3 meses y ya tiene 65</td>
+</tr>
+</tbody></table>
+</div>
+<p>El caso de Elena muestra por qué conviene contar bien: con 6 meses más cotizados adelanta su jubilación <strong>año y medio</strong> respecto a los 67.</p>
+<h2 id="que-no-calcula-y-donde-mirarlo">Qué no calcula (y dónde mirarlo)</h2>
+<p>Esta herramienta estima la <strong>jubilación ordinaria</strong>. No tiene en cuenta:</p>
+<ul>
+<li>La <strong>jubilación anticipada</strong>, que permite adelantar hasta 2 años (voluntaria) o 4 (involuntaria) con recorte: <a href="/jubilacion/anticipada-voluntaria/">anticipada voluntaria</a> y <a href="/jubilacion/anticipada-involuntaria/">anticipada involuntaria</a>.</li>
+<li>Las <strong>edades reducidas</strong> por <a href="/jubilacion/anticipada-discapacidad/">discapacidad</a> o por <a href="/jubilacion/anticipada-por-profesion/">profesión</a> (policías, bomberos, trabajadores del mar…).</li>
+<li>La <strong>cláusula de salvaguarda</strong> para quienes dejaron de trabajar antes del 1 de abril de 2013.</li>
+<li>El requisito de haber cotizado <strong>2 años dentro de los últimos 15</strong>, además de los 15 años mínimos. Si te faltan años, lee <a href="/jubilacion/faltan-anos-cotizados/">me faltan años cotizados para jubilarme</a>.</li>
+<li><strong>Cuánto cobrarás</strong>: la calculadora da la fecha, no el importe.</li>
+</ul>
+<p>La fecha oficial solo la reconoce el INSS al resolver tu solicitud. Para contrastarla, usa también el simulador de jubilación de <strong>Tu Seguridad Social</strong>, que tiene tus datos reales de cotización.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="es-fiable-la-fecha-que-da-la-calculadora">¿Es fiable la fecha que da la calculadora?</h3>
+<p>Aplica exactamente la tabla de la ley y cuenta años y meses completos, como hace la Seguridad Social. El resultado depende de que el tiempo cotizado que introduzcas sea correcto: cópialo de tu informe de vida laboral.</p>
+<h3 id="por-que-me-sale-una-fecha-en-2027-si-cumplo-66-anos-y-10-mes">¿Por qué me sale una fecha en 2027 si cumplo 66 años y 10 meses en 2026?</h3>
+<p>Porque la edad exigida depende del año en que te jubilas. Si cumples 66 años y 10 meses después del 31 de diciembre de 2026, ya se te aplican las reglas de 2027: 67 años con menos de 38 años y 6 meses cotizados.</p>
+<h3 id="cuentan-los-dias-de-paro">¿Cuentan los días de paro?</h3>
+<p>Sí, los meses en que cobras la prestación contributiva por desempleo cotizan y aparecen en tu vida laboral. Los del subsidio de mayores de 52 años también cotizan para la jubilación, pero no sirven para completar los 15 años mínimos.</p>
+<h3 id="guardais-mis-datos">¿Guardáis mis datos?</h3>
+<p>No. El cálculo se hace en tu propio navegador y los datos no salen de tu dispositivo.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social, artículo 205 y disposición transitoria 7.ª</a> (BOE).</li>
+<li><a href="https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10963/28393/28396/28472" rel="noopener">Seguridad Social: jubilación ordinaria</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación por año de nacimiento</a>.</li>
+<li>¿Te interesa adelantarla? Echa cuentas con <a href="/jubilacion/compensa-jubilarse-antes/">¿compensa jubilarse antes?</a>.</li>
+<li>Prepara la solicitud: <a href="/jubilacion/solicitar-jubilacion-internet/">cómo pedir la jubilación por internet</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Esta calculadora es informativa y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [EMAIL DE CONTACTO].</p>
+<p>Historial de cambios: 27 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Calcula gratis el día en que podrás jubilarte con tu fecha de nacimiento y tus años cotizados, con las reglas de 2026, 2027 y siguientes. Sin guardar datos.]]></excerpt:encoded>
+    <wp:post_id>9000</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[edad-de-jubilacion]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="calculadoras"><![CDATA[Calculadoras]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Calculadora de edad de jubilación 2027: tu fecha exacta]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Calcula gratis el día en que podrás jubilarte con tu fecha de nacimiento y tus años cotizados, con las reglas de 2026, 2027 y siguientes. Sin guardar datos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[calculadora edad de jubilación]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Calculadora de edad de jubilación 2027: tu fecha exacta]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Calcula gratis el día en que podrás jubilarte con tu fecha de nacimiento y tus años cotizados, con las reglas de 2026, 2027 y siguientes. Sin guardar datos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[calculadora edad de jubilación]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
+  </item>
   <item>
     <title><![CDATA[Jubilación con 15 años cotizados: cuánto se cobra y ejemplos]]></title>
     <link>https://jubilometro.com/jubilacion/15-anos-cotizados/</link>
@@ -51,9 +453,9 @@
 </tr>
 </tbody></table>
 </div>
-<p><strong>Ojo con la cotización reciente.</strong> Si cotizaste 15 años de joven y después no volviste a cotizar, puedes <strong>no tener derecho a pensión contributiva</strong> aunque sumes 15 años. En ese caso, la alternativa es la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva</a>.</p>
+<p><strong>Ojo con la cotización reciente.</strong> Si cotizaste 15 años de joven y después no volviste a cotizar, puedes <strong>no tener derecho a pensión contributiva</strong> aunque sumes 15 años. En ese caso, la alternativa es la pensión no contributiva.</p>
 <h2 id="cuanto-se-cobra">Cuánto se cobra</h2>
-<p>La pensión es el <strong>50 % de tu base reguladora</strong>. La base reguladora es, en esencia, la media de tus bases de cotización de los últimos años (desde 2026, la Seguridad Social compara dos cálculos y aplica el más favorable). Lo explicamos en <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</p>
+<p>La pensión es el <strong>50 % de tu base reguladora</strong>. La base reguladora es, en esencia, la media de tus bases de cotización de los últimos años (desde 2026, la Seguridad Social compara dos cálculos y aplica el más favorable). Lo explicamos en cómo se calcula la pensión de jubilación.</p>
 <h3 id="los-meses-sin-cotizar-dentro-del-periodo-de-calculo">Los meses sin cotizar dentro del periodo de cálculo</h3>
 <p>Con una carrera corta, es probable que en los años que se usan para calcular la base reguladora haya meses sin cotizar (lagunas). Se rellenan así:</p>
 <ul>
@@ -124,7 +526,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Te faltan años? Lee <a href="/jubilacion/faltan-anos-cotizados/">me faltan años cotizados para jubilarme</a>.</li>
-<li>¿No llegas a 15 años? Consulta la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva</a>.</li>
+<li>¿No llegas a 15 años? Consulta la pensión no contributiva.</li>
 <li>¿Cuándo te jubilas? Mira la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
 </ul>
 </nav>
@@ -134,7 +536,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9000</wp:post_id>
+    <wp:post_id>9001</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -270,7 +672,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9001</wp:post_id>
+    <wp:post_id>9002</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -405,7 +807,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9002</wp:post_id>
+    <wp:post_id>9003</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -586,7 +988,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9003</wp:post_id>
+    <wp:post_id>9004</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -742,7 +1144,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9004</wp:post_id>
+    <wp:post_id>9005</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -930,7 +1332,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9005</wp:post_id>
+    <wp:post_id>9006</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1039,7 +1441,7 @@
 <h2 id="como-se-calcula-la-pension-de-un-autonomo">Cómo se calcula la pensión de un autónomo</h2>
 <p>Igual que la de un asalariado:</p>
 <ol>
-<li><strong>Base reguladora:</strong> desde 2026 la Seguridad Social compara dos cálculos y aplica el más favorable: el de los últimos 25 años y otro que, poco a poco, amplía el periodo y descarta los peores meses. Te lo explicamos en <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión</a>.</li>
+<li><strong>Base reguladora:</strong> desde 2026 la Seguridad Social compara dos cálculos y aplica el más favorable: el de los últimos 25 años y otro que, poco a poco, amplía el periodo y descarta los peores meses. Te lo explicamos en cómo se calcula la pensión.</li>
 <li><strong>Porcentaje según los años cotizados:</strong> 50 % con 15 años y 100 % con 37 años si te jubilas en 2027 o después.</li>
 <li><strong>Recortes o incrementos</strong>, si adelantas o retrasas la jubilación.</li>
 </ol>
@@ -1089,7 +1491,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9006</wp:post_id>
+    <wp:post_id>9007</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1311,7 +1713,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9007</wp:post_id>
+    <wp:post_id>9008</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1466,7 +1868,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9008</wp:post_id>
+    <wp:post_id>9009</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1564,7 +1966,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9010</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1734,7 +2136,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1896,7 +2298,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2026,7 +2428,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2613,7 +3015,7 @@
 <li><strong>Para cobrar el 100 % de tu base reguladora</strong> bastan 37 años cotizados si te jubilas en 2027 o después (en 2026 eran 36 años y 6 meses).</li>
 </ul>
 <p>Desde 2027, con 15 años cotizados cobras el 50 % de la base reguladora. Cada mes adicional suma un 0,19 % hasta el mes 248 y un 0,18 % a partir de ahí, hasta llegar al 100 % con 37 años (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtnovena" rel="noopener">disposición transitoria 9.ª de la LGSS</a>). Por eso Antonio, con 34 años, cobrará el 93,32 %.</p>
-<p>Si quieres saber cuánto cobrarás, consulta <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación con el sistema dual</a> y el <a href="/cuanto-cobrare/porcentaje-por-anos-cotizados/">porcentaje de pensión según los años cotizados</a>.</p>
+<p>Si quieres saber cuánto cobrarás, consulta cómo se calcula la pensión de jubilación con el sistema dual y el porcentaje de pensión según los años cotizados.</p>
 <h2 id="casos-especiales">Casos especiales</h2>
 <ul>
 <li><strong>Autónomos.</strong> Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados.</li>
@@ -2648,7 +3050,7 @@
 <h3 id="cuenta-la-mili-para-jubilarse-a-los-65">¿Cuenta la mili para jubilarse a los 65?</h3>
 <p>No. El servicio militar obligatorio o la prestación social sustitutoria solo cuentan, con un máximo de un año, para la jubilación anticipada y la parcial.</p>
 <h3 id="que-pasa-si-no-llego-a-15-anos-cotizados">¿Qué pasa si no llego a 15 años cotizados?</h3>
-<p>No tendrás derecho a la pensión contributiva de jubilación. A partir de los 65 años podrías pedir la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva</a> si cumples los requisitos de residencia y de falta de ingresos.</p>
+<p>No tendrás derecho a la pensión contributiva de jubilación. A partir de los 65 años podrías pedir la pensión no contributiva si cumples los requisitos de residencia y de falta de ingresos.</p>
 <h3 id="me-pueden-obligar-a-jubilarme-a-los-67">¿Me pueden obligar a jubilarme a los 67?</h3>
 <p>Con carácter general, no. Los convenios colectivos firmados desde 2022 solo pueden fijar la jubilación obligatoria a partir de los 68 años y con condiciones, como que tengas derecho al 100 % de la pensión, salvo excepciones muy concretas (disposición adicional 10.ª del Estatuto de los Trabajadores).</p>
 <h2 id="fuentes-oficiales">Fuentes oficiales</h2>
@@ -2665,7 +3067,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Cuándo te jubilas tú? Calcúlalo con la <a href="/calculadoras/edad-de-jubilacion/">calculadora de edad de jubilación</a>.</li>
-<li>¿Cuánto cobrarás? Lee <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación en 2026</a>.</li>
+<li>¿Cuánto cobrarás? Lee cómo se calcula la pensión de jubilación en 2026.</li>
 <li>¿Quieres adelantarla? Consulta la <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria y sus coeficientes reductores</a>.</li>
 </ul>
 </nav>
@@ -2675,7 +3077,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2770,7 +3172,7 @@
 <li><strong>Periodos mal registrados:</strong> si trabajaste y no aparece en tu vida laboral, reclámalo a la Tesorería con contratos, nóminas o certificados de empresa.</li>
 </ul>
 <h2 id="via-5-si-no-llegas-a-15-anos">Vía 5: si no llegas a 15 años</h2>
-<p>Si no alcanzas el mínimo, puedes pedir la <strong><a href="/ayudas/pension-no-contributiva/">pensión no contributiva</a></strong> de jubilación a partir de los 65 años, si tienes pocos ingresos y has residido legalmente en España el tiempo exigido. En 2026 es de 628,80 euros al mes en 14 pagas.</p>
+<p>Si no alcanzas el mínimo, puedes pedir la <strong>pensión no contributiva</strong> de jubilación a partir de los 65 años, si tienes pocos ingresos y has residido legalmente en España el tiempo exigido. En 2026 es de 628,80 euros al mes en 14 pagas.</p>
 <h2 id="ejemplos">Ejemplos</h2>
 <p><strong>1. Ana, 63 años, 14 años y 2 meses cotizados, dejó de trabajar hace 8 meses.</strong> Como cotizó más de 1.080 días en los 12 años anteriores a su baja, puede firmar un convenio especial. Con 10 meses de convenio llega a los 15 años y, a los 67, se jubila con pensión contributiva.</p>
 <p><strong>2. Javier, 60 años, 37 años y 6 meses cotizados, sigue trabajando.</strong> Le falta un año para los 38 años y 6 meses. Si sigue trabajando hasta los 61, podrá jubilarse a los 65 sin recorte en lugar de a los 67.</p>
@@ -2805,7 +3207,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2983,7 +3385,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3117,7 +3519,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3241,7 +3643,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3358,7 +3760,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3490,7 +3892,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3590,7 +3992,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3603,10 +4005,10 @@
     <wp:post_password><![CDATA[]]></wp:post_password>
     <wp:is_sticky>0</wp:is_sticky>
     <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Jubilarse habiendo trabajado en otro país: cómo se suman los años]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación con años trabajados en otro país: cómo se suman]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[jubilación trabajado en otro país]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilarse habiendo trabajado en otro país: cómo se suman los años]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación con años trabajados en otro país: cómo se suman]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[jubilación trabajado en otro país]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
