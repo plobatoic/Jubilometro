@@ -20,7 +20,7 @@ Por eso la recomendación es:
 - [x] **Datos «Cotejar en BOE»**: hecho el 27/09/2026. Las 39 filas se leyeron en el texto consolidado del BOE y están como «Verificado en BOE» en cada `verificacion-fuentes.md`. Se corrigieron 4 puntos en los artículos (anticipada involuntaria, convenio especial y jubilación flexible) y 3 referencias legales en las fichas de verificación.
 - [x] **Páginas de confianza** (E-E-A-T), escritas en `paginas/` y listas en `publicacion/wordpress-paginas.xml`: Quiénes somos, Política editorial, Contacto, Aviso legal, Política de privacidad y Política de cookies. Titular: Pau Lobato, Palafolls 08389 (Barcelona). Privacidad y cookies ya cubren Google AdSense. Hay que enlazarlas desde el pie (punto 4).
 - [x] **NIF en el aviso legal**: añadido (art. 10 LSSI).
-- [ ] Al terminar las correcciones: `npm run publicar` y `npm run comprobar` (todo en «OK»), y usar el `wordpress-borradores.xml` regenerado.
+- [x] **Regenerado y comprobado** (27/09/2026): `npm run publicar` y `npm run comprobar` con las 22 páginas en «OK» y sin enlaces internos rotos. Usar el `wordpress-borradores.xml` actual.
 
 ## 3. Inventario y orden de revisión
 
