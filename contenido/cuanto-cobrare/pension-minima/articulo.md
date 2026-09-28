@@ -25,7 +25,7 @@ fuentes_legales:
 >
 > En 2026, la pensión mínima de jubilación a partir de los 65 años es de **1.256,60 euros al mes con cónyuge a cargo**, **936,20 euros si vives solo** y **888,70 euros con cónyuge que no está a cargo**, en 14 pagas.
 >
-> No es una pensión aparte: si tu pensión contributiva no llega a esa cifra, la Seguridad Social te paga la diferencia (el **complemento a mínimos**), siempre que **vivas en España** y tus otros ingresos no superen **9.442 euros al año** (11.013 euros si tienes cónyuge a cargo, sumando los de los dos). Desde 2013, ese complemento no puede ser mayor que la pensión no contributiva: 628,80 euros al mes.
+> No es una pensión aparte: si tu pensión contributiva no llega a esa cifra, la Seguridad Social te paga la diferencia (el **complemento a mínimos**), siempre que **vivas en España** y tus otros ingresos no superen **9.442 euros al año** (11.013 euros si tienes cónyuge a cargo, sumando los de los dos). Desde 2013, ese complemento no puede ser mayor que la pensión no contributiva: 628,80 euros al mes, o 1.068,96 euros si tienes cónyuge a cargo.
 
 ## Cuantías de la pensión mínima de jubilación en 2026
 
@@ -54,7 +54,7 @@ La pensión mínima se consigue con el **complemento a mínimos**, que cubre la 
 2. **Residir en España**, para las pensiones reconocidas desde el 1 de enero de 2013.
 3. **No superar el límite de ingresos** en 2026, sin contar la propia pensión: **9.442 euros al año** si no tienes cónyuge a cargo, o **11.013 euros al año** entre los dos si lo tienes. Cuentan los rendimientos del trabajo, del capital, de actividades económicas y las ganancias patrimoniales, como se definen en el IRPF.
 
-**El complemento tiene un tope.** En las pensiones reconocidas desde 2013 no puede superar el importe de la pensión no contributiva: **628,80 euros al mes en 2026**. Si tu pensión es muy baja, puedes quedarte por debajo de la mínima aunque cumplas todo lo demás.
+**El complemento tiene un tope.** En las pensiones reconocidas desde 2013 no puede superar el importe de la pensión no contributiva: **628,80 euros al mes en 2026**, o **1.068,96 euros** si tienes cónyuge a cargo (la no contributiva de dos beneficiarios). Si tu pensión es muy baja, puedes quedarte por debajo de la mínima aunque cumplas todo lo demás.
 
 ### Si tus ingresos superan un poco el límite
 
@@ -132,4 +132,4 @@ Tienes que comunicarlo a la Seguridad Social en el plazo de un mes. Si al final 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y sus complementos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 28 de septiembre de 2026, primera versión, con el tope del complemento para quien tiene cónyuge a cargo.*

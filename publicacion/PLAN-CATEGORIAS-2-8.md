@@ -26,13 +26,13 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | |
 | 26 | Pensión máxima de jubilación 2026 | /cuanto-cobrare/pension-maxima/ | pension-maxima-minima | F1 | programado 01/10 |
 | 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | programado 02/10 |
-| 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | |
+| 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | programado 23/10 |
 | 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | |
 | 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | |
 | 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | |
 | 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | |
 | 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | programado 06/10 (actualizar con cada IPC) |
-| 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | |
+| 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | programado 22/10 |
 | 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | programado 07/10 |
 | 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | |
 | 37a | Pensión de viudedad: requisitos | /viudedad/requisitos/ | requisitos | F1 | programado 09/10 |
@@ -49,7 +49,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | |
 | 45 | Grados de incapacidad permanente | /incapacidad/grados-incapacidad/ | | F1 | programado 12/10 (la URL /incapacidad/grados/ no es posible: el slug «grados» es de la plantilla de dependencia) |
 | 46 | Incapacidad permanente total | /incapacidad/incapacidad-total/ | incapacidad-total | F1 | programado 13/10 |
-| 47 | Incapacidad permanente absoluta | /incapacidad/incapacidad-absoluta/ | incapacidad-absoluta | F2 | |
+| 47 | Incapacidad permanente absoluta | /incapacidad/incapacidad-absoluta/ | incapacidad-absoluta | F2 | programado 26/10 |
 | 48 | Enfermedades y tribunal médico | /incapacidad/enfermedades/ | | F2 | |
 | 49 | Cómo solicitar la incapacidad permanente | /incapacidad/solicitar/ | | F2 | |
 | 50 | Incapacidad denegada: reclamación y demanda | /incapacidad/denegada/ | | F2 | |

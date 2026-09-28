@@ -11,6 +11,14 @@
     "id": 149,
     "estado": "future"
   },
+  "/cuanto-cobrare/complemento-a-minimos/": {
+    "id": 152,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/pagas-extra/": {
+    "id": 412,
+    "estado": "future"
+  },
   "/cuanto-cobrare/pension-maxima/": {
     "id": 151,
     "estado": "future"
@@ -53,6 +61,10 @@
   },
   "/incapacidad/grados-incapacidad/": {
     "id": 395,
+    "estado": "future"
+  },
+  "/incapacidad/incapacidad-absoluta/": {
+    "id": 165,
     "estado": "future"
   },
   "/incapacidad/incapacidad-total/": {

@@ -1035,7 +1035,7 @@
 <ul>
 <li>¿Cuántos años te faltan para el 100 %? Consulta el <a href="/cuanto-cobrare/porcentaje-anos-cotizados/">porcentaje de la pensión según los años cotizados</a>.</li>
 <li>¿Cuándo te puedes jubilar? Mira la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
-<li>¿Te quedarás cerca del mínimo? Lee cómo funciona el complemento a mínimos.</li>
+<li>¿Te quedarás cerca del mínimo? Lee cómo funciona el <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -1063,6 +1063,265 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cómo se calcula la pensión de jubilación 2026: sistema dual]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Desde 2026 la base reguladora se calcula de dos formas y se aplica la que más te favorece. Los tres pasos del cálculo, con tablas y ejemplos con cifras.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cómo se calcula la pensión de jubilación]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Complemento a mínimos en 2026: quién lo cobra, límite de ingresos, tope y cómo se pide]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/complemento-a-minimos/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>El complemento a mínimos es la cantidad que la Seguridad Social <strong>añade a tu pensión contributiva para que llegue a la pensión mínima</strong> (en 2026, por ejemplo, 936,20 euros al mes si tienes 65 años o más y vives solo).</p>
+<p>Lo cobras si <strong>vives en España</strong> y tus <strong>otros ingresos</strong> (sin contar la pensión) <strong>no pasan de 9.442 euros al año</strong>, o de 11.013 euros entre los dos si tienes cónyuge a cargo. En las pensiones causadas desde 2013 tiene un <strong>tope</strong>: <strong>628,80 euros al mes</strong>, o <strong>1.068,96 euros</strong> con cónyuge a cargo.</p>
+</aside>
+<h2 id="como-funciona">Cómo funciona</h2>
+<p>No es una pensión distinta: es un <strong>complemento de tu propia pensión</strong> contributiva (jubilación, incapacidad permanente, viudedad, orfandad o a favor de familiares). Si tu pensión es menor que la mínima que te corresponde, se te paga la diferencia en las mismas 14 pagas (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59" rel="noopener">artículo 59 de la Ley General de la Seguridad Social</a>).</p>
+<p>Las cuantías mínimas de cada pensión las fija cada año la revalorización. Todas las de 2026 están en <a href="/cuanto-cobrare/pension-minima/">pensión mínima de jubilación</a>, incluidas las de viudedad e incapacidad.</p>
+<h2 id="requisitos-en-2026">Requisitos en 2026</h2>
+<p>Según los <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">artículos 9 y 10 del Real Decreto 241/2026</a>:</p>
+<ol>
+<li><strong>Tener una pensión contributiva</strong> por debajo de la mínima.</li>
+<li><strong>Residir en España</strong>, si tu pensión se causó a partir del 1 de enero de 2013.</li>
+<li><strong>No superar el límite de ingresos</strong>, sin contar la pensión que se complementa:</li>
+</ol>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Límite de ingresos para el complemento a mínimos en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Tu situación</th>
+<th scope="col">Límite de otros ingresos al año</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Sin cónyuge a cargo (vives solo o tu cónyuge tiene ingresos o pensión propia)</th>
+<td>9.442 €</td>
+</tr>
+<tr>
+<th scope="row">Con cónyuge a cargo</th>
+<td>11.013 € (sumando los tuyos y los de tu cónyuge)</td>
+</tr>
+</tbody></table>
+</div>
+<h3 id="que-ingresos-cuentan">Qué ingresos cuentan</h3>
+<p>Cuentan los rendimientos del <strong>trabajo</strong>, del <strong>capital</strong> (intereses, dividendos, alquileres), de <strong>actividades económicas</strong> y las <strong>ganancias patrimoniales</strong>, con el concepto del IRPF, y <strong>descontando los gastos deducibles</strong> que permite la ley fiscal. No cuenta la propia pensión que se complementa.</p>
+<h3 id="conyuge-a-cargo">Cónyuge a cargo</h3>
+<p>Tienes cónyuge a cargo si convivís (se presume mientras sigáis casados, salvo separación judicial) y tu cónyuge <strong>no cobra ninguna pensión pública</strong>, tampoco de otro país, y los <strong>ingresos de los dos</strong> no pasan de 11.013 euros al año. Si tu cónyuge tiene pensión propia o más ingresos, es un cónyuge <strong>no a cargo</strong> y te corresponde una mínima más baja.</p>
+<h2 id="el-tope-del-complemento">El tope del complemento</h2>
+<p>En las pensiones causadas <strong>desde el 1 de enero de 2013</strong>, el complemento <strong>no puede ser mayor que la pensión no contributiva</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59" rel="noopener">artículo 59.4</a>):</p>
+<ul>
+<li><strong>628,80 euros al mes</strong> en 2026 (8.803,20 al año) con carácter general.</li>
+<li><strong>1.068,96 euros al mes</strong> (14.965,44 al año) si tienes <strong>cónyuge a cargo</strong>: la cuantía de la no contributiva para dos beneficiarios.</li>
+<li>Sin tope en las pensiones de <strong>gran incapacidad</strong> con complemento por tercera persona.</li>
+</ul>
+<p>Si tu pensión es muy baja, puedes quedarte por debajo de la mínima aunque cumplas todo lo demás. Las pensiones causadas antes de 2013 no tienen este tope (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 27.ª</a>).</p>
+<h2 id="si-tus-ingresos-pasan-un-poco-del-limite-complemento-parcial">Si tus ingresos pasan un poco del límite: complemento parcial</h2>
+<p>No lo pierdes todo. Si <strong>tus otros ingresos más tu pensión</strong>, al año, quedan por debajo de <strong>9.442 euros más la pensión mínima anual</strong> que te corresponde, cobras un complemento igual a la diferencia, repartido en 14 pagas. Con cónyuge a cargo, la cuenta se hace con 11.013 euros y los ingresos de los dos.</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Julián, 70 años, viudo, pensión de jubilación de 750 euros al mes y sin otros ingresos.</strong> Le corresponde la mínima de 65 años o más sin cónyuge, 936,20 euros. Cobra un complemento de <strong>186,20 euros al mes</strong>, por debajo del tope de 628,80.</p>
+<p><strong>Pilar, 66 años, vive sola, pensión de 700 euros al mes (9.800 al año) y 9.800 euros al año de un alquiler.</strong> Sus otros ingresos superan 9.442 euros, pero:</p>
+<ul>
+<li>Límite total: 9.442 + 13.106,80 (mínima anual) = 22.548,80 euros.</li>
+<li>Sus ingresos: 9.800 + 9.800 = 19.600 euros.</li>
+<li>Complemento: 2.948,80 euros al año, <strong>210,63 euros al mes</strong> en 14 pagas (sin el alquiler cobraría 236,20).</li>
+</ul>
+<h2 id="como-se-pide-y-que-obligaciones-tiene">Cómo se pide y qué obligaciones tiene</h2>
+<ul>
+<li><strong>Se pide con la pensión</strong>: en la solicitud declaras los ingresos que prevés tener en el año (y los de tu cónyuge, si está a cargo). Si cumples, te lo reconocen junto con la pensión.</li>
+<li><strong>Si lo pides más tarde</strong>, tiene efectos desde los <strong>tres meses anteriores</strong> a la solicitud, si ya cumplías los requisitos.</li>
+<li><strong>Cada año</strong> se revisa con tus ingresos: basta con que declares que no superarás el límite.</li>
+<li><strong>Avisa en un mes</strong> si tus ingresos superan el límite o cambia tu estado civil o la situación de tu cónyuge. Si al final del año resulta que superaste el límite, <strong>tendrás que devolver todo el complemento</strong> cobrado ese año, aunque hayas avisado.</li>
+<li><strong>No es consolidable</strong>: se reduce cuando sube tu pensión o si empiezas a cobrar otra.</li>
+</ul>
+<h3 id="si-cobras-dos-pensiones">Si cobras dos pensiones</h3>
+<p>Solo tienes complemento si <strong>la suma de tus pensiones</strong> es menor que la mínima más alta de las que cobras, y se completa hasta esa mínima. Por ejemplo, con una jubilación y una viudedad pequeñas, se suman las dos antes de ver si llegas a la mínima.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-es-el-complemento-a-minimos">¿Qué es el complemento a mínimos?</h3>
+<p>La cantidad que la Seguridad Social añade a una pensión contributiva baja para que llegue a la pensión mínima fijada para ese año, siempre que vivas en España y tus otros ingresos no superen el límite.</p>
+<h3 id="cual-es-el-limite-de-ingresos-para-el-complemento-a-minimos">¿Cuál es el límite de ingresos para el complemento a mínimos en 2026?</h3>
+<p>9.442 euros al año sin cónyuge a cargo y 11.013 euros con cónyuge a cargo (sumando los de los dos). No cuenta la pensión que se complementa.</p>
+<h3 id="cuanto-es-el-maximo-del-complemento-a-minimos">¿Cuánto es el máximo del complemento a mínimos?</h3>
+<p>En las pensiones causadas desde 2013, 628,80 euros al mes en 2026, o 1.068,96 euros si tienes cónyuge a cargo. Las anteriores a 2013 no tienen tope.</p>
+<h3 id="puedo-trabajar-y-cobrar-el-complemento-a-minimos">¿Puedo trabajar y cobrar el complemento a mínimos?</h3>
+<p>Solo si lo que ganas (más tus otros ingresos) no supera 9.442 euros al año, o si queda en la franja del complemento parcial. Si ganas más, pierdes el complemento, pero no la pensión.</p>
+<h3 id="se-cobra-el-complemento-a-minimos-viviendo-fuera-de-espana">¿Se cobra el complemento a mínimos viviendo fuera de España?</h3>
+<p>No, en las pensiones causadas desde 2013: exige residir en España. Las anteriores lo mantienen.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social, artículo 59 y disposición transitoria 27.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, artículos 9, 10 y 16 y anexo I</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuál es tu mínima? Mira todas las cuantías en <a href="/cuanto-cobrare/pension-minima/">pensión mínima de jubilación en 2026</a>.</li>
+<li>¿No tienes pensión contributiva? Consulta la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva</a>.</li>
+<li>¿Cuánto subirá en 2027? Lee la <a href="/cuanto-cobrare/revalorizacion-pensiones/">revalorización de las pensiones</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></excerpt:encoded>
+    <wp:post_id>9004</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[complemento-a-minimos]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Complemento a mínimos 2026: requisitos, límites y cómo pedirlo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[complemento a mínimos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Complemento a mínimos 2026: requisitos, límites y cómo pedirlo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[complemento a mínimos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Pagas extra de los pensionistas: cuándo se cobran en junio y noviembre, cuánto son y cómo se calculan]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/pagas-extra/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Las pensiones de la Seguridad Social se cobran en <strong>14 pagas</strong>: las 12 mensualidades y <strong>dos pagas extra</strong>, que llegan <strong>junto con la pensión de junio y la de noviembre</strong>. Cada paga extra es igual a <strong>una mensualidad</strong> de tu pensión si la has cobrado todo el semestre anterior.</p>
+<p>La mayoría de bancos adelantan el ingreso, así que la extra de noviembre suele llegar <strong>entre el 22 y el 26 de noviembre</strong>. Las pensiones por accidente de trabajo o enfermedad profesional se cobran en 12 pagas, con las extra repartidas en cada mes.</p>
+</aside>
+<h2 id="cuantas-pagas-extra-hay-y-cuando-se-cobran">Cuántas pagas extra hay y cuándo se cobran</h2>
+<p>Lo dice el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a46" rel="noopener">artículo 46 de la Ley General de la Seguridad Social</a>: las pensiones contributivas derivadas de contingencias comunes (jubilación, incapacidad por enfermedad común o accidente no laboral, viudedad, orfandad…) se pagan en <strong>catorce pagas</strong>: una por cada mes y <strong>dos extraordinarias que se devengan en junio y noviembre</strong>. Las <strong>pensiones no contributivas</strong> de jubilación e invalidez también se cobran en 14 pagas.</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Cuándo llegan las pagas extra de los pensionistas</caption>
+<thead>
+<tr>
+<th scope="col">Paga extra</th>
+<th scope="col">Se genera entre</th>
+<th scope="col">Llega con</th>
+<th scope="col">Fecha habitual de ingreso</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Junio</th>
+<td>1 de diciembre y 31 de mayo</td>
+<td>La pensión de junio</td>
+<td>Entre el 22 y el 26 de junio (como tarde, a primeros de julio)</td>
+</tr>
+<tr>
+<th scope="row">Noviembre</th>
+<td>1 de junio y 30 de noviembre</td>
+<td>La pensión de noviembre</td>
+<td>Entre el 22 y el 26 de noviembre (como tarde, a primeros de diciembre)</td>
+</tr>
+</tbody></table>
+</div>
+<p>Las fechas de ingreso dependen de tu banco: la Seguridad Social paga como tarde el primer día hábil del mes siguiente, pero la mayoría de bancos lo adelantan. Lo explicamos en el <a href="/cuanto-cobrare/calendario-pago-pensiones/">calendario de pago de las pensiones</a>.</p>
+<p><strong>Excepción: accidente de trabajo o enfermedad profesional.</strong> Estas pensiones se cobran en <strong>12 pagas</strong>, porque las dos extra van <strong>prorrateadas</strong> en las mensualidades: cada mes cobras un poco más y en junio y noviembre no hay paga doble.</p>
+<h2 id="cuanto-es-la-paga-extra">Cuánto es la paga extra</h2>
+<ul>
+<li><strong>Una mensualidad completa</strong> de tu pensión, si has cobrado la pensión todo el semestre en que se genera.</li>
+<li><strong>Incluye los complementos</strong> que cobras cada mes en 14 pagas, como el complemento a mínimos.</li>
+<li><strong>Tributa igual que la pensión</strong>: la Seguridad Social aplica el mismo porcentaje de retención de IRPF, así que ese mes se retiene el doble porque cobras el doble.</li>
+<li><strong>Cuenta para la pensión máxima</strong>: el límite de 2026 es de 3.359,60 euros al mes en 14 pagas, 47.034,40 al año. Si cobras en 12 pagas, el límite mensual se ajusta para que al año no pase de esa cifra.</li>
+</ul>
+<h2 id="el-primer-ano-la-paga-extra-proporcional">El primer año: la paga extra proporcional</h2>
+<p>Si empiezas a cobrar la pensión a mitad de semestre, la extra se paga <strong>por sextas partes</strong>: <strong>una sexta parte por cada mes</strong> del semestre en que hayas tenido pensión, y <strong>basta un solo día</strong> para que cuente el mes entero (<a href="https://revista.seg-social.es/-/20220610-cobro-pensiones" rel="noopener">Seguridad Social</a>).</p>
+<p><strong>Ejemplo de la Seguridad Social</strong>: si te reconocen la pensión con efectos del <strong>8 de marzo</strong>, a finales de junio cobras la pensión de junio más <strong>media paga extra</strong> (por marzo, abril y mayo). Desde entonces, las extra son completas.</p>
+<p><strong>Ejemplo: Luis se jubila con efectos del 10 de septiembre de 2026</strong> con una pensión de 1.500 euros al mes. La paga extra de noviembre se genera de junio a noviembre y él tiene pensión en septiembre, octubre y noviembre: <strong>3/6 de 1.500 = 750 euros</strong>. En junio de 2027 ya cobrará la extra completa.</p>
+<p>La primera mensualidad también se paga en proporción a los días del mes con pensión, si no empieza el día 1.</p>
+<h2 id="si-la-pension-se-termina">Si la pensión se termina</h2>
+<p>Si la pensión se extingue o se suspende (por ejemplo, por fallecimiento), se hace un <strong>finiquito de la paga extra</strong>: se cobra la parte proporcional, una sexta parte por cada mes del semestre en curso, entendiéndose generada el día 1 del mes de la baja. En caso de fallecimiento, lo cobran los herederos junto con la mensualidad del mes, que se paga entera.</p>
+<h2 id="ejemplos-de-noviembre">Ejemplos de noviembre</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Lo que se cobra en noviembre con la paga extra (pensión completa todo el semestre, importes brutos)</caption>
+<thead>
+<tr>
+<th scope="col">Pensión mensual</th>
+<th scope="col">Noviembre (pensión + extra)</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">936,20 € (mínima sin cónyuge, 65 años o más)</th>
+<td>1.872,40 €</td>
+</tr>
+<tr>
+<th scope="row">1.200 €</th>
+<td>2.400 €</td>
+</tr>
+<tr>
+<th scope="row">1.500 €</th>
+<td>3.000 €</td>
+</tr>
+<tr>
+<th scope="row">3.359,60 € (máxima)</th>
+<td>6.719,20 €</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuando-se-cobra-la-paga-extra-de-noviembre-de-los-pensionist">¿Cuándo se cobra la paga extra de noviembre de los pensionistas?</h3>
+<p>Con la pensión de noviembre. La Seguridad Social la paga como tarde a primeros de diciembre, pero la mayoría de bancos la adelantan y llega entre el 22 y el 26 de noviembre.</p>
+<h3 id="cuanto-es-la-paga-extra-de-los-jubilados">¿Cuánto es la paga extra de los jubilados?</h3>
+<p>Una mensualidad completa de la pensión si la has cobrado durante todo el semestre anterior. Si empezaste a cobrarla a mitad de semestre, una sexta parte por cada mes con pensión.</p>
+<h3 id="todas-las-pensiones-tienen-paga-extra">¿Todas las pensiones tienen paga extra?</h3>
+<p>Las contributivas por contingencias comunes y las no contributivas, sí: 14 pagas. Las que vienen de un accidente de trabajo o una enfermedad profesional se cobran en 12 pagas, con las extra repartidas en las mensualidades.</p>
+<h3 id="la-paga-extra-tiene-retencion-de-irpf">¿La paga extra tiene retención de IRPF?</h3>
+<p>Sí, la misma que la pensión. Como ese mes cobras el doble, la retención en euros también es el doble.</p>
+<h3 id="hay-paga-extra-en-diciembre">¿Hay paga extra en diciembre?</h3>
+<p>No en las pensiones de la Seguridad Social: las extra son en junio y noviembre. Lo que llega a finales de diciembre es la pensión de diciembre.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social, artículo 46 (catorce pagas)</a> (BOE).</li>
+<li><a href="https://www.seg-social.es/wps/portal/wss/internet/FAQ/48456/49300/49083/49090?view=FAQs_detalle_tema" rel="noopener">Seguridad Social: devengo y pago de la pensión (preguntas frecuentes)</a>.</li>
+<li><a href="https://revista.seg-social.es/-/20220610-cobro-pensiones" rel="noopener">Revista de la Seguridad Social: ¿cuándo y cómo se cobran las pensiones?</a></li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, artículo 3 (pensión máxima en 14 pagas)</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Qué día llega cada mes? Consulta el <a href="/cuanto-cobrare/calendario-pago-pensiones/">calendario de pago de las pensiones</a>.</li>
+<li>¿Cuánto subirá tu pensión en enero? Mira la <a href="/cuanto-cobrare/revalorizacion-pensiones/">revalorización de las pensiones en 2027</a>.</li>
+<li>¿Cuánto te queda limpio? Calcula tu pensión neta con la retención de IRPF.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la información de la Seguridad Social ni la de tu banco. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></excerpt:encoded>
+    <wp:post_id>9005</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[pagas-extra]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Paga extra de los pensionistas: cuándo se cobra y cuánto es]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[paga extra pensionistas]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Paga extra de los pensionistas: cuándo se cobra y cuánto es]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[paga extra pensionistas]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -1163,7 +1422,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></excerpt:encoded>
-    <wp:post_id>9004</wp:post_id>
+    <wp:post_id>9006</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1195,7 +1454,7 @@
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
 <p>En 2026, la pensión mínima de jubilación a partir de los 65 años es de <strong>1.256,60 euros al mes con cónyuge a cargo</strong>, <strong>936,20 euros si vives solo</strong> y <strong>888,70 euros con cónyuge que no está a cargo</strong>, en 14 pagas.</p>
-<p>No es una pensión aparte: si tu pensión contributiva no llega a esa cifra, la Seguridad Social te paga la diferencia (el <strong>complemento a mínimos</strong>), siempre que <strong>vivas en España</strong> y tus otros ingresos no superen <strong>9.442 euros al año</strong> (11.013 euros si tienes cónyuge a cargo, sumando los de los dos). Desde 2013, ese complemento no puede ser mayor que la pensión no contributiva: 628,80 euros al mes.</p>
+<p>No es una pensión aparte: si tu pensión contributiva no llega a esa cifra, la Seguridad Social te paga la diferencia (el <strong>complemento a mínimos</strong>), siempre que <strong>vivas en España</strong> y tus otros ingresos no superen <strong>9.442 euros al año</strong> (11.013 euros si tienes cónyuge a cargo, sumando los de los dos). Desde 2013, ese complemento no puede ser mayor que la pensión no contributiva: 628,80 euros al mes, o 1.068,96 euros si tienes cónyuge a cargo.</p>
 </aside>
 <h2 id="cuantias-de-la-pension-minima-de-jubilacion-en-2026">Cuantías de la pensión mínima de jubilación en 2026</h2>
 <p>Estas son las cuantías del <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a> (anexo I), que desarrolla la revalorización de este año. Las mensuales son en 14 pagas:</p>
@@ -1243,7 +1502,7 @@
 <li><strong>Residir en España</strong>, para las pensiones reconocidas desde el 1 de enero de 2013.</li>
 <li><strong>No superar el límite de ingresos</strong> en 2026, sin contar la propia pensión: <strong>9.442 euros al año</strong> si no tienes cónyuge a cargo, o <strong>11.013 euros al año</strong> entre los dos si lo tienes. Cuentan los rendimientos del trabajo, del capital, de actividades económicas y las ganancias patrimoniales, como se definen en el IRPF.</li>
 </ol>
-<p><strong>El complemento tiene un tope.</strong> En las pensiones reconocidas desde 2013 no puede superar el importe de la pensión no contributiva: <strong>628,80 euros al mes en 2026</strong>. Si tu pensión es muy baja, puedes quedarte por debajo de la mínima aunque cumplas todo lo demás.</p>
+<p><strong>El complemento tiene un tope.</strong> En las pensiones reconocidas desde 2013 no puede superar el importe de la pensión no contributiva: <strong>628,80 euros al mes en 2026</strong>, o <strong>1.068,96 euros</strong> si tienes cónyuge a cargo (la no contributiva de dos beneficiarios). Si tu pensión es muy baja, puedes quedarte por debajo de la mínima aunque cumplas todo lo demás.</p>
 <h3 id="si-tus-ingresos-superan-un-poco-el-limite">Si tus ingresos superan un poco el límite</h3>
 <p>No lo pierdes todo de golpe. Si tus otros ingresos más tu pensión, en cómputo anual, quedan por debajo de la suma de 9.442 euros y la pensión mínima anual que te corresponde, cobras un <strong>complemento parcial</strong> igual a esa diferencia.</p>
 <h2 id="ejemplos">Ejemplos</h2>
@@ -1322,18 +1581,18 @@
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
-<li>¿Cómo se pide y qué ingresos cuentan? Lee la guía del complemento a mínimos.</li>
+<li>¿Cómo se pide y qué ingresos cuentan? Lee la guía del <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
 <li>¿No llegas a 15 años cotizados? Mira la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva</a>.</li>
 <li>¿Cuánto te corresponde con pocos años? Consulta la <a href="/jubilacion/15-anos-cotizados/">jubilación con 15 años cotizados</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y sus complementos. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión, con el tope del complemento para quien tiene cónyuge a cargo.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9005</wp:post_id>
+    <wp:post_id>9007</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1584,7 +1843,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9006</wp:post_id>
+    <wp:post_id>9008</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1851,7 +2110,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></excerpt:encoded>
-    <wp:post_id>9007</wp:post_id>
+    <wp:post_id>9009</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2077,7 +2336,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></excerpt:encoded>
-    <wp:post_id>9008</wp:post_id>
+    <wp:post_id>9010</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2249,7 +2508,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2499,7 +2758,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2668,7 +2927,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2840,7 +3099,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3180,7 +3439,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3398,7 +3657,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3417,6 +3676,145 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Grados de incapacidad permanente: diferencias y cuánto cobras]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[grados de incapacidad permanente]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Incapacidad permanente absoluta en 2026: requisitos, cuánto se cobra, IRPF y si se puede trabajar]]></title>
+    <link>https://jubilometro.com/incapacidad/incapacidad-absoluta/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La incapacidad permanente absoluta se reconoce cuando tu estado te <strong>impide trabajar en cualquier profesión u oficio</strong>. Da derecho a una pensión vitalicia del <strong>100 % de tu base reguladora</strong>, en 14 pagas, <strong>exenta de IRPF</strong>.</p>
+<p>Si viene de enfermedad común, necesitas un mínimo de años cotizados que depende de tu edad (y <strong>15 años</strong> si no estás de alta). Solo puedes hacer actividades compatibles con tu estado, y a partir de la edad de jubilación no puedes trabajar.</p>
+</aside>
+<h2 id="que-es-la-incapacidad-permanente-absoluta">Qué es la incapacidad permanente absoluta</h2>
+<p>Es el grado que <strong>inhabilita por completo</strong> al trabajador <strong>para toda profesión u oficio</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 26.ª de la Ley General de la Seguridad Social</a>). A diferencia de la total, no basta con no poder hacer tu trabajo: tiene que quedar acreditado que no puedes desempeñar <strong>ninguna</strong> profesión u oficio.</p>
+<p>Si además necesitas la ayuda de otra persona para comer, vestirte o moverte, lo que corresponde es la <strong>gran incapacidad</strong>, que añade un complemento. Los cuatro grados, comparados, están en <a href="/incapacidad/grados-incapacidad/">grados de incapacidad permanente</a>.</p>
+<h2 id="requisitos">Requisitos</h2>
+<ol>
+<li><strong>Estar de alta</strong> o en situación asimilada (por ejemplo, cobrando el paro), con el periodo mínimo de cotización si es por enfermedad común (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a195" rel="noopener">artículo 195</a>):<ul>
+<li>Menos de 31 años: un tercio del tiempo transcurrido desde los 16.</li>
+<li>31 años o más: un cuarto del tiempo transcurrido desde los 20, con un mínimo de 5 años y una quinta parte en los últimos 10.</li>
+</ul>
+</li>
+<li><strong>Sin estar de alta</strong> también se puede conseguir la absoluta (y la gran incapacidad): entonces hacen falta <strong>15 años cotizados</strong>, con al menos 3 en los últimos 10.</li>
+<li>Si es por <strong>accidente</strong>, laboral o no, o <strong>enfermedad profesional</strong>, no se exige cotización previa.</li>
+<li>Si la causa es común, no se reconoce si ya tienes la <strong>edad ordinaria de jubilación</strong> y cumples los requisitos para jubilarte.</li>
+</ol>
+<h2 id="cuanto-se-cobra">Cuánto se cobra</h2>
+<p>La pensión es el <strong>100 % de la base reguladora</strong>, en 14 pagas. La base depende de la causa:</p>
+<ul>
+<li><strong>Enfermedad común</strong>: la suma de tus bases de cotización de los últimos 96 meses dividida entre 112, a la que se aplica el porcentaje por años cotizados de la jubilación, <strong>contando como cotizados los años que te faltan hasta la edad de jubilación</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a197" rel="noopener">artículo 197</a>). Con menos de 15 años, el 50 %.</li>
+<li><strong>Accidente no laboral</strong>: 24 meses seguidos de bases, elegidos por ti dentro de los últimos 7 años, divididos entre 28.</li>
+<li><strong>Accidente de trabajo o enfermedad profesional</strong>: se calcula con tu salario real.</li>
+</ul>
+<h3 id="pension-minima-de-incapacidad-absoluta-en-2026">Pensión mínima de incapacidad absoluta en 2026</h3>
+<p>Si tu pensión queda por debajo y cumples los requisitos de ingresos, se completa hasta la mínima (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a>, anexo I):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Pensión mínima de incapacidad permanente absoluta en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Situación</th>
+<th scope="col">Al mes (14 pagas)</th>
+<th scope="col">Al año</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Con cónyuge a cargo</th>
+<td>1.256,60 €</td>
+<td>17.592,40 €</td>
+</tr>
+<tr>
+<th scope="row">Sin cónyuge (vives solo)</th>
+<td>936,20 €</td>
+<td>13.106,80 €</td>
+</tr>
+<tr>
+<th scope="row">Con cónyuge no a cargo</th>
+<td>888,70 €</td>
+<td>12.441,80 €</td>
+</tr>
+</tbody></table>
+</div>
+<!-- calculadora-web:incapacidad -->
+
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Teresa, 58 años, enfermedad común, 30 años cotizados.</strong> Sus bases de los últimos 96 meses suman, actualizadas, 201.600 euros.</p>
+<ul>
+<li>201.600 ÷ 112 = 1.800 euros.</li>
+<li>Años: 30 cotizados más los 9 que le faltan hasta los 67 = 39 años → <strong>100 %</strong>.</li>
+<li>Pensión: 100 % de 1.800 = <strong>1.800 euros al mes</strong>, en 14 pagas y <strong>sin retención de IRPF</strong>. Con la total habría cobrado el 55 % (990 euros) y tributando.</li>
+</ul>
+<p><strong>Jorge, 45 años, accidente de tráfico fuera del trabajo.</strong> No se le exige cotización previa. Sus mejores 24 meses seguidos de los últimos 7 años suman 48.000 euros: base de 48.000 ÷ 28 = 1.714,29 euros, y esa es su <strong>pensión mensual</strong>.</p>
+<h2 id="impuestos-y-otras-ventajas">Impuestos y otras ventajas</h2>
+<ul>
+<li><strong>Sin IRPF</strong>: las prestaciones de la Seguridad Social por incapacidad permanente absoluta y gran incapacidad están <strong>exentas</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7" rel="noopener">artículo 7.f de la Ley del IRPF</a>). La Seguridad Social no te retiene nada.</li>
+<li><strong>Discapacidad del 33 %</strong>: a efectos de la ley de discapacidad y del IRPF se te considera persona con discapacidad de al menos el 33 %, lo que da acceso a sus beneficios (por ejemplo, el mínimo por discapacidad en la renta si tienes otros ingresos).</li>
+</ul>
+<h2 id="se-puede-trabajar-con-la-incapacidad-absoluta">¿Se puede trabajar con la incapacidad absoluta?</h2>
+<ul>
+<li>La pensión <strong>no impide actividades, lucrativas o no, compatibles con tu estado</strong> y que no demuestren una mejora de tu capacidad de trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198.2</a>).</li>
+<li>Si trabajas, el INSS puede <strong>revisar tu grado en cualquier momento</strong>, sin esperar al plazo de la resolución (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a200" rel="noopener">artículo 200.2</a>). Antes de aceptar un trabajo, comunícaselo.</li>
+<li><strong>Desde la edad de jubilación</strong>, cobrar la absoluta es <strong>incompatible con trabajar</strong> por cuenta propia o ajena, en las mismas condiciones que la jubilación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198.3</a>).</li>
+<li><strong>Tu contrato</strong>: desde mayo de 2025 no se extingue automáticamente. Tienes 10 días naturales para comunicar a la empresa si quieres seguir y la empresa tiene tres meses para adaptar tu puesto o cambiarte, si es posible (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567" rel="noopener">Ley 2/2025</a>).</li>
+</ul>
+<h2 id="revision-y-jubilacion">Revisión y jubilación</h2>
+<p>La resolución indica <strong>desde cuándo se puede revisar</strong> el grado por mejoría o empeoramiento. Si hubo un error de diagnóstico, puede revisarse en cualquier momento hasta la edad de jubilación. A los <strong>67 años</strong> la pensión pasa a llamarse de jubilación, <strong>sin ninguna modificación</strong> de las condiciones de la prestación que venías cobrando (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a200" rel="noopener">artículo 200.4</a>).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-se-cobra-con-una-incapacidad-permanente-absoluta">¿Cuánto se cobra con una incapacidad permanente absoluta?</h3>
+<p>El 100 % de tu base reguladora, en 14 pagas y sin IRPF. La mínima en 2026 es de 936,20 euros al mes si vives solo, 1.256,60 euros con cónyuge a cargo y 888,70 euros con cónyuge no a cargo.</p>
+<h3 id="la-incapacidad-absoluta-paga-irpf">¿La incapacidad absoluta paga IRPF?</h3>
+<p>No. Las prestaciones de la Seguridad Social por incapacidad permanente absoluta y gran incapacidad están exentas del IRPF.</p>
+<h3 id="cual-es-la-diferencia-entre-la-incapacidad-total-y-la-absolu">¿Cuál es la diferencia entre la incapacidad total y la absoluta?</h3>
+<p>Con la total no puedes hacer tu trabajo habitual pero sí otro, y cobras el 55 % (75 % desde los 55 años si no trabajas), tributando. Con la absoluta no puedes trabajar en nada y cobras el 100 %, sin IRPF.</p>
+<h3 id="puedo-trabajar-si-tengo-la-incapacidad-absoluta">¿Puedo trabajar si tengo la incapacidad absoluta?</h3>
+<p>Solo en actividades compatibles con tu estado que no demuestren una mejoría de tu capacidad; si trabajas, el INSS puede revisar tu grado en cualquier momento. Desde la edad de jubilación, trabajar es incompatible con la pensión.</p>
+<h3 id="se-puede-conseguir-la-absoluta-sin-estar-trabajando">¿Se puede conseguir la absoluta sin estar trabajando?</h3>
+<p>Sí: si no estás de alta ni en situación asimilada, hacen falta 15 años cotizados, al menos 3 de ellos en los últimos 10.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 195 a 198, 200 y disposición transitoria 26.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, cuantías mínimas (anexo I)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley del IRPF, artículos 7.f y 60</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567" rel="noopener">Ley 2/2025, sobre la extinción del contrato por incapacidad permanente</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto te correspondería? Calcúlalo con la calculadora de incapacidad permanente.</li>
+<li>¿Puedes hacer otro trabajo? Compara con la <a href="/incapacidad/incapacidad-total/">incapacidad permanente total</a>.</li>
+<li>¿Todos los grados de un vistazo? Mira los <a href="/incapacidad/grados-incapacidad/">grados de incapacidad permanente</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y su grado. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
+    <wp:post_id>9017</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[incapacidad-absoluta]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="incapacidad"><![CDATA[Incapacidad]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad permanente absoluta 2026: cuánto se cobra]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[incapacidad permanente absoluta]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad permanente absoluta 2026: cuánto se cobra]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[incapacidad permanente absoluta]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -3579,7 +3977,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Qué te correspondería a ti? Calcúlalo con la calculadora de incapacidad permanente.</li>
-<li>¿No puedes trabajar en nada? Compara con la incapacidad permanente absoluta.</li>
+<li>¿No puedes trabajar en nada? Compara con la <a href="/incapacidad/incapacidad-absoluta/">incapacidad permanente absoluta</a>.</li>
 <li>¿Todos los grados de un vistazo? Mira los <a href="/incapacidad/grados-incapacidad/">grados de incapacidad permanente</a>.</li>
 </ul>
 </nav>
@@ -3589,7 +3987,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3729,7 +4127,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3865,7 +4263,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4000,7 +4398,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4181,7 +4579,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4337,7 +4735,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4525,7 +4923,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4684,7 +5082,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4906,7 +5304,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5061,7 +5459,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5159,7 +5557,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5329,7 +5727,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5491,7 +5889,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5621,7 +6019,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6270,7 +6668,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6400,7 +6798,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6578,7 +6976,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6712,7 +7110,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6836,7 +7234,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6953,7 +7351,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9037</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7085,7 +7483,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7185,7 +7583,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9036</wp:post_id>
+    <wp:post_id>9039</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7386,7 +7784,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9037</wp:post_id>
+    <wp:post_id>9040</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7575,7 +7973,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9038</wp:post_id>
+    <wp:post_id>9041</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
