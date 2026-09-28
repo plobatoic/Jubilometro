@@ -33,9 +33,9 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | |
 | 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | programado 06/10 (actualizar con cada IPC) |
 | 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | |
-| 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | |
+| 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | programado 07/10 |
 | 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | |
-| 37a | Pensión de viudedad: requisitos | /viudedad/requisitos/ | requisitos | F1 | |
+| 37a | Pensión de viudedad: requisitos | /viudedad/requisitos/ | requisitos | F1 | programado 09/10 |
 | 37b | Pensión de viudedad: cuantía (52, 60 y 70 %) | /viudedad/cuantia/ | cuantia | F1 | |
 | 37c | Cómo solicitar la pensión de viudedad | /viudedad/solicitar-viudedad/ | solicitar-viudedad | F2 | |
 | 38 | Viudedad en parejas de hecho | /viudedad/pareja-de-hecho/ | pareja-de-hecho | F2 | |
@@ -61,7 +61,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Incapacidad permanente parcial | /incapacidad/incapacidad-parcial/ | incapacidad-parcial | | |
 | extra | Revisión del grado | /incapacidad/revision-grado/ | revision-grado | | |
 | extra | Incapacidad permanente y trabajo | /incapacidad/incapacidad-y-trabajo/ | incapacidad-y-trabajo | | |
-| 55 | Pensión no contributiva de jubilación | /ayudas/pension-no-contributiva/ | pension-no-contributiva | F1 | |
+| 55 | Pensión no contributiva de jubilación | /ayudas/pension-no-contributiva/ | pension-no-contributiva | F1 | programado 08/10 |
 | 56 | Pensión no contributiva de invalidez | /ayudas/pnc-invalidez/ | | F2 | |
 | 57 | Ingreso Mínimo Vital para mayores de 65 | /ayudas/ingreso-minimo-vital-mayores/ | ingreso-minimo-vital-mayores | F3 | |
 | 58 | Bono social eléctrico para pensionistas | /ayudas/bono-social-electrico/ | bono-social-electrico | F2 | |

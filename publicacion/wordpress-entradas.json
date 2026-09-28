@@ -1,4 +1,12 @@
 {
+  "/ayudas/pension-no-contributiva/": {
+    "id": 172,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/calendario-pago-pensiones/": {
+    "id": 155,
+    "estado": "future"
+  },
   "/cuanto-cobrare/como-se-calcula-la-pension/": {
     "id": 149,
     "estado": "future"
@@ -106,5 +114,9 @@
   "/jubilacion/trabajado-en-otro-pais/": {
     "id": 310,
     "estado": "publish"
+  },
+  "/viudedad/requisitos/": {
+    "id": 156,
+    "estado": "future"
   }
 }

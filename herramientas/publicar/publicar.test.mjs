@@ -19,7 +19,7 @@ test('las URL son únicas y no llevan año', () => {
 
 test('los enlaces a páginas que no existen salen como texto', () => {
   const a = porUrl('/jubilacion/faltan-anos-cotizados/');
-  const html = cuerpoHtml(a, urls);
+  const html = cuerpoHtml(a, new Set([...urls].filter((u) => u !== '/ayudas/pension-no-contributiva/')));
   assert.doesNotMatch(html, /href="\/ayudas\/pension-no-contributiva\/"/);
   assert.match(html, /pensión no contributiva/);
   assert.match(html, /href="\/jubilacion\/convenio-especial\/"/);
