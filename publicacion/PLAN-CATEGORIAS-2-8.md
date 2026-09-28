@@ -79,7 +79,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | programado 09/11 |
 | 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | |
 | 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | |
-| 71 | Residencia pública o privada | /dependencia/residencias-publicas/ | residencias-publicas | F2 | |
+| 71 | Residencia pública o privada | /dependencia/residencias-publicas/ | residencias-publicas | F2 | programado 19/11 |
 | 72 | Precio de las residencias por comunidad (no hay datos oficiales por provincia) | /dependencia/precio-residencias/ | | F1 | programado 21/10 |
 | 73 | Cuidadora interna o externa | /dependencia/cuidadora-interna-externa/ | | F2 | |
 | 74 | Teleasistencia | /dependencia/teleasistencia/ | teleasistencia | F3 | |
@@ -92,8 +92,8 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 79 | Retención de IRPF en la pensión (modelo 145) | /dinero/irpf-pensiones/ | irpf-pensiones | F3 | |
 | 80 | Rescatar el plan de pensiones al jubilarte | /dinero/rescate-plan-pensiones/ | rescate-plan-pensiones | F1 | programado 16/10 |
 | 81 | Rescate de aportaciones de más de 10 años | /dinero/rescate-aportaciones-10-anos/ | | F2 | |
-| 82 | Hipoteca inversa, nuda propiedad o renta vitalicia | /dinero/hipoteca-inversa/ | hipoteca-inversa | F2 | |
-| 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | |
+| 82 | Hipoteca inversa, nuda propiedad o renta vitalicia | /dinero/hipoteca-inversa/ | hipoteca-inversa | F2 | programado 20/11 |
+| 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | programado 23/11 |
 | 84 | Renta vitalicia asegurada: exención para mayores de 65 | /dinero/renta-vitalicia/ | renta-vitalicia | F3 | |
 | 85 | Seguro de decesos a partir de los 60 | /dinero/seguro-decesos/ | | F2 | |
 | 86 | Seguros de salud para mayores de 65 | /dinero/seguro-salud-mayores/ | | F2 | |

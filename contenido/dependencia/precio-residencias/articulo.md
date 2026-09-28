@@ -69,7 +69,7 @@ En España había **5.465 residencias con 401.644 plazas** a finales de 2024; el
 
 Tu aportación depende de tu **capacidad económica**. El [acuerdo del Consejo Territorial de 2012](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468), que fija los criterios mínimos comunes, establece:
 
-1. **Capacidad económica** = tu renta anual más el **5 % de tu patrimonio neto** si tienes 65 años o más. En una residencia se cuenta también tu **vivienda habitual**, salvo que siga viviendo en ella alguien a tu cargo (tu cónyuge o pareja, por ejemplo).
+1. **Capacidad económica** = tu renta anual más el **5 % de tu patrimonio neto** si tienes 65 años o más. En una residencia se cuenta también tu **vivienda habitual**, salvo que siga viviendo en ella alguien a tu cargo (tu cónyuge o pareja, por ejemplo), por su valor catastral y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros).
 2. **Tu aportación** = tu capacidad económica menos una cantidad para gastos personales del **19 % del IPREM**: **114 euros al mes** en 2026 (el IPREM es de 600 euros).
 3. **Tope**: nunca pagas más del **90 % del coste** de la plaza.
 4. **Nadie se queda sin plaza por falta de dinero**: si tus ingresos no llegan, la Administración pone el resto.
@@ -100,7 +100,7 @@ Depende de tu comunidad, pero el criterio mínimo común es que pagas según tu 
 
 ### ¿Cuentan la casa y los ahorros para pagar la residencia?
 
-Sí: a partir de los 65 años se suma a tu renta el 5 % de tu patrimonio neto, y en una residencia se cuenta también la vivienda habitual, salvo que en ella siga viviendo alguien a tu cargo.
+Sí: a partir de los 65 años se suma a tu renta el 5 % de tu patrimonio neto. En una residencia se cuenta también la vivienda habitual, salvo que en ella siga viviendo alguien a tu cargo, por su valor catastral y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros).
 
 ### ¿Qué ayuda hay para pagar una residencia privada?
 

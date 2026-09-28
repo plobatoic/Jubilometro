@@ -83,12 +83,24 @@
     "id": 182,
     "estado": "future"
   },
+  "/dependencia/residencias-publicas/": {
+    "id": 185,
+    "estado": "future"
+  },
   "/dinero/declaracion-renta-jubilados/": {
     "id": 189,
     "estado": "future"
   },
+  "/dinero/hipoteca-inversa/": {
+    "id": 192,
+    "estado": "future"
+  },
   "/dinero/rescate-plan-pensiones/": {
     "id": 190,
+    "estado": "future"
+  },
+  "/dinero/vender-vivienda-65/": {
+    "id": 193,
     "estado": "future"
   },
   "/imserso/viajes-imserso/": {

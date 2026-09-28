@@ -3572,7 +3572,7 @@
 <ul>
 <li>¿Todavía no la has pedido? Sigue la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
 <li>¿Te cuida un familiar? Mira la <a href="/dependencia/prestacion-cuidados-familiares/">prestación por cuidados en el entorno familiar</a>.</li>
-<li>¿Necesita residencia? Compara residencia pública o privada.</li>
+<li>¿Necesita residencia? Compara <a href="/dependencia/residencias-publicas/">residencia pública o privada</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -3744,7 +3744,7 @@
 <ul>
 <li>¿Qué grado te corresponde? Mira los <a href="/dependencia/grados/">grados de dependencia y el baremo</a>.</li>
 <li>¿Te cuida un familiar? Lee la guía de la <a href="/dependencia/prestacion-cuidados-familiares/">prestación por cuidados en el entorno familiar</a>.</li>
-<li>¿Buscas plaza? Compara residencia pública o privada.</li>
+<li>¿Buscas plaza? Compara <a href="/dependencia/residencias-publicas/">residencia pública o privada</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -3953,7 +3953,7 @@
 <h2 id="cuanto-pagas-en-una-residencia-publica">Cuánto pagas en una residencia pública</h2>
 <p>Tu aportación depende de tu <strong>capacidad económica</strong>. El <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468" rel="noopener">acuerdo del Consejo Territorial de 2012</a>, que fija los criterios mínimos comunes, establece:</p>
 <ol>
-<li><strong>Capacidad económica</strong> = tu renta anual más el <strong>5 % de tu patrimonio neto</strong> si tienes 65 años o más. En una residencia se cuenta también tu <strong>vivienda habitual</strong>, salvo que siga viviendo en ella alguien a tu cargo (tu cónyuge o pareja, por ejemplo).</li>
+<li><strong>Capacidad económica</strong> = tu renta anual más el <strong>5 % de tu patrimonio neto</strong> si tienes 65 años o más. En una residencia se cuenta también tu <strong>vivienda habitual</strong>, salvo que siga viviendo en ella alguien a tu cargo (tu cónyuge o pareja, por ejemplo), por su valor catastral y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros).</li>
 <li><strong>Tu aportación</strong> = tu capacidad económica menos una cantidad para gastos personales del <strong>19 % del IPREM</strong>: <strong>114 euros al mes</strong> en 2026 (el IPREM es de 600 euros).</li>
 <li><strong>Tope</strong>: nunca pagas más del <strong>90 % del coste</strong> de la plaza.</li>
 <li><strong>Nadie se queda sin plaza por falta de dinero</strong>: si tus ingresos no llegan, la Administración pone el resto.</li>
@@ -3977,7 +3977,7 @@
 <h3 id="cuanto-se-paga-en-una-residencia-publica-con-la-pension">¿Cuánto se paga en una residencia pública con la pensión?</h3>
 <p>Depende de tu comunidad, pero el criterio mínimo común es que pagas según tu renta y el 5 % de tu patrimonio, quedándote al menos 114 euros al mes para gastos personales y sin pasar del 90 % del coste de la plaza.</p>
 <h3 id="cuentan-la-casa-y-los-ahorros-para-pagar-la-residencia">¿Cuentan la casa y los ahorros para pagar la residencia?</h3>
-<p>Sí: a partir de los 65 años se suma a tu renta el 5 % de tu patrimonio neto, y en una residencia se cuenta también la vivienda habitual, salvo que en ella siga viviendo alguien a tu cargo.</p>
+<p>Sí: a partir de los 65 años se suma a tu renta el 5 % de tu patrimonio neto. En una residencia se cuenta también la vivienda habitual, salvo que en ella siga viviendo alguien a tu cargo, por su valor catastral y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros).</p>
 <h3 id="que-ayuda-hay-para-pagar-una-residencia-privada">¿Qué ayuda hay para pagar una residencia privada?</h3>
 <p>La prestación vinculada al servicio de la ley de dependencia: hasta 747,25 euros al mes con grado II o III, si no hay plaza pública y la residencia está acreditada. La cuantía concreta depende de tu capacidad económica.</p>
 <h3 id="donde-es-mas-facil-conseguir-plaza">¿Dónde es más fácil conseguir plaza?</h3>
@@ -3994,7 +3994,7 @@
 <ul>
 <li>¿Todavía no tienes la dependencia? Empieza por la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
 <li>¿Qué grado te corresponde? Mira los <a href="/dependencia/grados/">grados de dependencia y el baremo</a>.</li>
-<li>¿Pública o privada? Compara residencia pública o privada.</li>
+<li>¿Pública o privada? Compara <a href="/dependencia/residencias-publicas/">residencia pública o privada</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -4147,6 +4147,179 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Residencia de mayores pública, concertada o privada: diferencias, cuánto pagas en cada una y cómo conseguir plaza]]></title>
+    <link>https://jubilometro.com/dependencia/residencias-publicas/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>En una <strong>residencia pública o en una plaza concertada</strong> (una plaza pública en una residencia privada) <strong>pagas según tu capacidad económica</strong>: tus ingresos y el 5 % de tu patrimonio, con un máximo del <strong>90 % del coste</strong> y quedándote al menos <strong>114 euros al mes</strong>. Se accede con la <strong>dependencia reconocida en grado II o III</strong>, y suele haber lista de espera.</p>
+<p>En una <strong>residencia privada</strong> pagas el <strong>precio entero</strong>, pero eliges centro y entras antes. Si tienes la dependencia reconocida y no hay plaza pública, puedes cobrar la <strong>prestación vinculada</strong>: hasta <strong>747,25 euros al mes</strong> para pagarla, si la residencia está acreditada.</p>
+</aside>
+<h2 id="las-tres-opciones-comparadas">Las tres opciones, comparadas</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Residencia pública, concertada y privada: diferencias</caption>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">Pública</th>
+<th scope="col">Concertada</th>
+<th scope="col">Privada</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Quién es el dueño</th>
+<td>La comunidad autónoma o el ayuntamiento</td>
+<td>Una empresa o entidad privada</td>
+<td>Una empresa o entidad privada</td>
+</tr>
+<tr>
+<th scope="row">Cómo se entra</th>
+<td>Con la dependencia reconocida (grado II o III) y el Programa Individual de Atención</td>
+<td>Igual que en la pública</td>
+<td>Contratando directamente con la residencia</td>
+</tr>
+<tr>
+<th scope="row">Cuánto pagas</th>
+<td>Según tu capacidad económica (máximo, el 90 % del coste)</td>
+<td>Igual que en la pública</td>
+<td>El precio que fije la residencia</td>
+</tr>
+<tr>
+<th scope="row">Ayuda pública</th>
+<td>La Administración paga el resto</td>
+<td>La Administración paga el resto</td>
+<td>Prestación vinculada de hasta 747,25 € al mes, si tienes dependencia y no hay plaza pública</td>
+</tr>
+<tr>
+<th scope="row">¿Eliges centro?</th>
+<td>Según la oferta disponible</td>
+<td>Según la oferta disponible</td>
+<td>Sí</td>
+</tr>
+<tr>
+<th scope="row">Espera</th>
+<td>Suele haber lista de espera</td>
+<td>Suele haber lista de espera</td>
+<td>Depende de las plazas libres</td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Pública y concertada funcionan igual para ti</strong>: las dos forman parte de la red pública de servicios sociales (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a16" rel="noopener">artículo 16 de la Ley 39/2006</a>) y pagas lo mismo. La diferencia es quién gestiona la residencia. Todas las residencias que atienden a personas dependientes, también las privadas, deben estar <strong>acreditadas</strong> por la comunidad autónoma.</p>
+<h2 id="quien-puede-ir-a-una-residencia-publica">Quién puede ir a una residencia pública</h2>
+<ul>
+<li><strong>Con la ley de dependencia</strong>, la atención residencial es un servicio para los <strong>grados II y III</strong>; con el grado I no está en el catálogo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">artículo 2 del Real Decreto 1051/2013</a>).</li>
+<li><strong>También hay estancias temporales</strong>: para convalecencias, vacaciones, fines de semana o para que descanse la familia que cuida.</li>
+<li><strong>Algunas comunidades tienen plazas para mayores sin dependencia</strong>, con sus propias normas. Pregunta en tus servicios sociales.</li>
+</ul>
+<p>Para empezar, hay que pedir el reconocimiento de la dependencia: lo explicamos en la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a> y en los <a href="/dependencia/grados/">grados de dependencia</a>.</p>
+<h2 id="cuanto-pagas-en-cada-caso">Cuánto pagas en cada caso</h2>
+<p><strong>En una plaza pública o concertada</strong>, según los criterios mínimos comunes del <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468" rel="noopener">acuerdo del Consejo Territorial de 2012</a>:</p>
+<ul>
+<li><strong>Tu capacidad económica</strong> es tu renta anual más, desde los 65 años, el <strong>5 % de tu patrimonio neto</strong>. Se divide entre 12.</li>
+<li><strong>La vivienda habitual</strong> solo cuenta si no queda viviendo en ella nadie a tu cargo, por su <strong>valor catastral</strong> y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (<strong>hasta 300.000 euros</strong>): con estos mínimos, en muchos casos cuenta poco o nada.</li>
+<li><strong>Pagas</strong> esa cantidad menos <strong>114 euros</strong> para tus gastos personales (el 19 % del IPREM), sin pasar del <strong>90 % del coste</strong> de la plaza.</li>
+</ul>
+<p><strong>En una privada con prestación vinculada</strong>, la ayuda es el <strong>coste de la plaza más 114 euros menos tu capacidad económica</strong>, con el máximo de <strong>747,25 euros al mes</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013, anexo IV</a>). Toda la ayuda tiene que ir a pagar la residencia.</p>
+<p>Cada comunidad aplica su propia normativa de copago a partir de estos mínimos: pide que te expliquen tu cálculo. Los precios medios de las plazas públicas en cada comunidad están en <a href="/dependencia/precio-residencias/">precio de las residencias</a>.</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Antonio, 85 años, grado II</strong>, cobra una pensión de 1.100 euros al mes en 14 pagas (15.400 al año), tiene 20.000 euros ahorrados y vive de alquiler. Su capacidad económica es 15.400 + 5 % de 20.000 = 16.400 euros al año, <strong>1.366,67 al mes</strong>.</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Lo que pagaría Antonio al mes según el tipo de residencia (ejemplo)</caption>
+<thead>
+<tr>
+<th scope="col">Opción</th>
+<th scope="col">Precio de la plaza</th>
+<th scope="col">Ayuda pública</th>
+<th scope="col">Paga Antonio</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Plaza pública o concertada (coste de 1.958,95 €, la media de España)</th>
+<td>1.958,95 €</td>
+<td>706,28 €</td>
+<td>1.252,67 €</td>
+</tr>
+<tr>
+<th scope="row">Privada de 2.000 € con prestación vinculada</th>
+<td>2.000 €</td>
+<td>747,25 € (máximo)</td>
+<td>1.252,75 €</td>
+</tr>
+<tr>
+<th scope="row">Privada de 2.000 € sin ayuda</th>
+<td>2.000 €</td>
+<td>0 €</td>
+<td>2.000 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Con los ingresos de Antonio, la plaza pública y la privada con prestación vinculada le cuestan casi lo mismo. <strong>Con más ingresos, la vinculada baja</strong>: si su capacidad económica fuera de 1.800 euros al mes, la ayuda para esa privada sería de 2.000 + 114 − 1.800 = <strong>314 euros</strong>.</p>
+<p><strong>Si Antonio tuviera un piso en propiedad</strong> en el que ya no vive nadie a su cargo, con los mínimos comunes solo contaría el 5 % de la parte de su valor catastral que pasara de 300.000 euros. Tu comunidad puede aplicar reglas propias: pregúntalo.</p>
+<h2 id="como-elegir">Cómo elegir</h2>
+<ul>
+<li><strong>Si tienes grado II o III</strong>, pide la residencia en tu Programa Individual de Atención aunque haya lista de espera: mientras esperas, puedes pedir la <strong>prestación vinculada</strong> para una privada acreditada.</li>
+<li><strong>Comprueba que la residencia privada está acreditada</strong> por la comunidad autónoma: sin acreditación no puedes usar la prestación vinculada.</li>
+<li><strong>Visítala antes</strong> y pide por escrito el precio, lo que incluye y lo que se paga aparte (farmacia, peluquería, pañales…).</li>
+<li><strong>Ten en cuenta los impuestos</strong>: las ayudas públicas para pagar una residencia a mayores de 65 años están exentas del IRPF si tus otras rentas no superan el doble del IPREM, y la prestación vinculada también (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7" rel="noopener">artículo 7 de la Ley del IRPF</a>).</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-diferencia-hay-entre-una-residencia-publica-y-una-concer">¿Qué diferencia hay entre una residencia pública y una concertada?</h3>
+<p>Para ti, ninguna en el precio: en las dos pagas según tu capacidad económica. La pública la gestiona la Administración y la concertada es una residencia privada con plazas pagadas por la Administración.</p>
+<h3 id="cuanto-se-paga-en-una-residencia-publica">¿Cuánto se paga en una residencia pública?</h3>
+<p>Tu capacidad económica mensual (ingresos más el 5 % de tu patrimonio, dividido entre 12) menos 114 euros para gastos personales, sin pasar del 90 % del coste de la plaza. Cada comunidad lo concreta con su normativa.</p>
+<h3 id="se-puede-ir-a-una-residencia-publica-con-el-grado-i-de-depen">¿Se puede ir a una residencia pública con el grado I de dependencia?</h3>
+<p>Con la ley de dependencia, no: la residencia es un servicio para los grados II y III. Algunas comunidades tienen plazas para mayores sin dependencia o con grado I con sus propias normas.</p>
+<h3 id="que-ayuda-hay-para-pagar-una-residencia-privada">¿Qué ayuda hay para pagar una residencia privada?</h3>
+<p>La prestación económica vinculada al servicio: hasta 747,25 euros al mes con grado II o III, si no hay plaza pública disponible y la residencia está acreditada. Se calcula con el coste de la plaza y tu capacidad económica.</p>
+<h3 id="cuenta-la-casa-para-pagar-la-residencia">¿Cuenta la casa para pagar la residencia?</h3>
+<p>Solo si no sigue viviendo en ella alguien a tu cargo, como tu cónyuge. Según los mínimos comunes, se toma su valor catastral aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros), y de lo que quede se suma el 5 %. Cada comunidad puede concretarlo con su normativa.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" rel="noopener">Ley 39/2006 de dependencia: artículos 14, 16 y 17</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013: artículos 2 y 10 y anexo IV</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468" rel="noopener">Acuerdo del Consejo Territorial de 2012 sobre capacidad económica y participación en el coste (Resolución de 13 de julio de 2012)</a> (BOE).</li>
+<li><a href="https://imserso.es/el-imserso/documentacion/estadisticas/servicios-sociales-dirigidos-a-personas-mayores-en-espana-diciembre-2024" rel="noopener">Imserso: Servicios sociales dirigidos a personas mayores en España, diciembre de 2024</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto cuesta una plaza en tu comunidad? Mira el <a href="/dependencia/precio-residencias/">precio de las residencias</a>.</li>
+<li>¿Todavía no tienes la dependencia? Sigue la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
+<li>¿Prefieres que te cuiden en casa? Consulta la <a href="/dependencia/prestacion-cuidados-familiares/">prestación por cuidados familiares</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la información de los servicios sociales de tu comunidad autónoma, que es quien reconoce la dependencia y fija el copago. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[En una residencia pública pagas según tus ingresos; en una privada, el precio entero, con hasta 747,25 € de ayuda si eres dependiente. Diferencias y ejemplos.]]></excerpt:encoded>
+    <wp:post_id>9022</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[residencias-publicas]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dependencia"><![CDATA[Dependencia]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Residencia pública o privada: diferencias, precio y ayudas]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[En una residencia pública pagas según tus ingresos; en una privada, el precio entero, con hasta 747,25 € de ayuda si eres dependiente. Diferencias y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[residencia pública o privada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Residencia pública o privada: diferencias, precio y ayudas]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[En una residencia pública pagas según tus ingresos; en una privada, el precio entero, con hasta 747,25 € de ayuda si eres dependiente. Diferencias y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[residencia pública o privada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Declaración de la renta de los jubilados: cuándo estás obligado, qué pensiones tributan y cómo pagar menos]]></title>
     <link>https://jubilometro.com/dinero/declaracion-renta-jubilados/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -4294,7 +4467,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4313,6 +4486,154 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Declaración de la renta de los jubilados: quién debe hacerla]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[declaración de la renta jubilados]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Hipoteca inversa, venta de la nuda propiedad o renta vitalicia: cómo sacar dinero de tu casa sin dejar de vivir en ella]]></title>
+    <link>https://jubilometro.com/dinero/hipoteca-inversa/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Si tienes 65 años o más y tu casa en propiedad, hay tres formas de convertirla en dinero <strong>sin dejar de vivir en ella</strong>:</p>
+<ul>
+<li><strong>Hipoteca inversa</strong>: un préstamo con tu casa como garantía que cobras de una vez o cada mes. <strong>Sigues siendo el dueño</strong> y la deuda la pagan tus herederos (o venden la casa) cuando falleces. Lo que cobras <strong>no tributa en el IRPF</strong>.</li>
+<li><strong>Venta de la nuda propiedad</strong>: vendes la casa pero te quedas el <strong>usufructo vitalicio</strong>, el derecho a vivir en ella toda tu vida. Si es tu vivienda habitual, la ganancia <strong>está exenta</strong> con más de 65 años.</li>
+<li><strong>Renta vitalicia</strong>: vendes la casa (o la nuda propiedad) y con el dinero contratas una renta de por vida con una aseguradora. Con más de 70 años, solo tributa el <strong>8 %</strong> de cada pago.</li>
+</ul>
+</aside>
+<h2 id="las-tres-opciones-comparadas">Las tres opciones, comparadas</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Hipoteca inversa, nuda propiedad y renta vitalicia comparadas</caption>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">Hipoteca inversa</th>
+<th scope="col">Venta de la nuda propiedad</th>
+<th scope="col">Renta vitalicia</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">¿Sigues siendo el dueño?</th>
+<td>Sí</td>
+<td>No: tienes el usufructo</td>
+<td>Depende de si vendes la casa</td>
+</tr>
+<tr>
+<th scope="row">¿Sigues viviendo en casa?</th>
+<td>Sí</td>
+<td>Sí, de por vida</td>
+<td>Solo si vendes la nuda propiedad y conservas el usufructo</td>
+</tr>
+<tr>
+<th scope="row">Qué cobras</th>
+<td>Un préstamo, en un pago o en pagos periódicos</td>
+<td>El precio de la nuda propiedad</td>
+<td>Una renta mensual de por vida</td>
+</tr>
+<tr>
+<th scope="row">Qué heredan tus hijos</th>
+<td>La casa con la deuda (pueden pagarla o vender)</td>
+<td>Nada de la casa</td>
+<td>Nada de lo invertido en la renta (salvo que el contrato prevea otra cosa)</td>
+</tr>
+<tr>
+<th scope="row">IRPF de lo que cobras</th>
+<td>No es renta</td>
+<td>Ganancia exenta si es tu vivienda habitual y tienes más de 65 años</td>
+<td>Solo tributa un porcentaje de cada pago según tu edad (8 % con más de 70 años)</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="hipoteca-inversa">Hipoteca inversa</h2>
+<p>La regula la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-21086" rel="noopener">disposición adicional primera de la Ley 41/2007</a>:</p>
+<ul>
+<li><strong>Quién puede pedirla</strong>: personas de <strong>65 años o más</strong>, en situación de <strong>dependencia</strong> o con una <strong>discapacidad del 33 % o más</strong>, sobre su <strong>vivienda habitual</strong>.</li>
+<li><strong>Cómo cobras</strong>: en un <strong>pago único</strong> o en <strong>pagos periódicos</strong>, según lo que pactes.</li>
+<li><strong>Cuándo se paga la deuda</strong>: solo cuando <strong>fallece</strong> el titular (o el último beneficiario, si así se pacta). Mientras vivas, no pagas cuotas.</li>
+<li><strong>Tus herederos</strong> pueden <strong>pagar la deuda</strong> con sus intereses, sin penalización, y quedarse la casa, o <strong>no pagarla</strong>: entonces el banco solo puede cobrar <strong>hasta donde alcancen los bienes de la herencia</strong>, no con el patrimonio de los herederos.</li>
+<li><strong>Si vendes la casa</strong> en vida, el banco puede reclamar la deuda de una vez, salvo que aportes otra garantía suficiente.</li>
+<li><strong>Quién la da</strong>: solo bancos, establecimientos financieros de crédito y aseguradoras autorizadas, que están <strong>obligados a ofrecerte asesoramiento independiente</strong>. La vivienda tiene que estar <strong>tasada y asegurada</strong>.</li>
+<li><strong>Gastos</strong>: la escritura está <strong>exenta del impuesto de actos jurídicos documentados</strong> y los aranceles de notaría y registro son reducidos.</li>
+</ul>
+<p><strong>Fiscalidad</strong>: lo que cobras con una hipoteca inversa sobre tu vivienda habitual <strong>no se considera renta</strong> si tienes más de 65 años o dependencia severa o gran dependencia (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">disposición adicional 15.ª de la Ley del IRPF</a>).</p>
+<p><strong>Lo que debes saber</strong>: la deuda <strong>crece cada mes</strong> con lo que cobras y con los intereses. Cuanto más vivas y más cobres, menos quedará para tus herederos. Pide que te den por escrito cuánto deberás en varios escenarios.</p>
+<h2 id="venta-de-la-nuda-propiedad">Venta de la nuda propiedad</h2>
+<p>Vendes la <strong>nuda propiedad</strong> (la casa sin el derecho a usarla) y te reservas el <strong>usufructo vitalicio</strong>. Cobras el precio al momento y sigues viviendo en tu casa hasta tu fallecimiento; entonces el comprador pasa a tener la propiedad completa.</p>
+<ul>
+<li><strong>Precio</strong>: menor que el de la casa entera, porque el comprador no podrá usarla hasta tu fallecimiento. Cuanto mayor eres, más alto. Como referencia fiscal, el usufructo vitalicio vale el <strong>70 % menos un 1 % por cada año de edad por encima de 19</strong>, con un mínimo del 10 %: con 78 años, el 11 %, y la nuda propiedad, el 89 % (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141#a26" rel="noopener">artículo 26 de la Ley del Impuesto sobre Sucesiones</a>). El precio real lo pactáis tú y el comprador.</li>
+<li><strong>IRPF</strong>: si es tu <strong>vivienda habitual</strong> y tienes <strong>más de 65 años</strong>, la ganancia está <strong>exenta</strong>, también cuando vendes la nuda propiedad y te reservas el usufructo vitalicio (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a33" rel="noopener">artículo 33.4.b de la Ley del IRPF</a> y <a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-especifico-irpf-2025-personas-anos/rentas-que-no-se-declaran-irpf/transmision-vivienda-habitual-mayores-65-anos.html" rel="noopener">Agencia Tributaria</a>).</li>
+<li><strong>Gastos de la casa</strong>: como usufructuario, sigues pagando el <strong>IBI</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214#a61" rel="noopener">artículo 61 de la Ley de Haciendas Locales</a>) y los gastos de uso.</li>
+</ul>
+<h2 id="renta-vitalicia">Renta vitalicia</h2>
+<p>Una <strong>renta vitalicia asegurada</strong> es un contrato con una aseguradora: le entregas un capital y te paga una cantidad <strong>cada mes mientras vivas</strong>. Se puede combinar con la venta de la casa o de la nuda propiedad.</p>
+<ul>
+<li><strong>Tributa poco</strong>: de cada pago, solo se considera rendimiento un porcentaje fijo según tu edad al contratarla: <strong>24 %</strong> entre 60 y 65 años, <strong>20 %</strong> entre 66 y 69 y <strong>8 %</strong> con más de 70 (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a25" rel="noopener">artículo 25.3 de la Ley del IRPF</a>).</li>
+<li><strong>Si vendes otros bienes</strong> (una segunda vivienda, acciones) con más de 65 años y reinviertes el dinero en una renta vitalicia asegurada <strong>en seis meses</strong>, la ganancia no tributa, con un máximo de <strong>240.000 euros</strong> reinvertidos (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38" rel="noopener">artículo 38.3</a>).</li>
+</ul>
+<p><strong>Ejemplo</strong>: Pilar contrata a los 72 años una renta vitalicia de <strong>6.000 euros al año</strong>. Solo <strong>480 euros</strong> (el 8 %) cuentan como rendimiento en su declaración de la renta.</p>
+<h2 id="antes-de-firmar">Antes de firmar</h2>
+<ul>
+<li><strong>Compara varias ofertas</strong> y pide todo por escrito: cuánto cobrarás, qué intereses y gastos hay y qué pasará con tus herederos.</li>
+<li><strong>Comprueba que la entidad está autorizada</strong> por el Banco de España o la Dirección General de Seguros.</li>
+<li><strong>Habla con tu familia</strong>: todas estas opciones reducen lo que heredarán de tu casa.</li>
+<li><strong>Valora las alternativas</strong>: vender la casa y mudarte a una más pequeña o alquilada (con más de 65 años, la ganancia de vender tu vivienda habitual está exenta; lo explicamos en <a href="/dinero/vender-vivienda-65/">vender la vivienda con más de 65 años</a>).</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-es-una-hipoteca-inversa">¿Qué es una hipoteca inversa?</h3>
+<p>Un préstamo con tu vivienda habitual como garantía, para mayores de 65 años, personas dependientes o con discapacidad del 33 % o más. Cobras de una vez o cada mes, sigues siendo propietario y la deuda se paga cuando fallece el titular.</p>
+<h3 id="que-pasa-con-la-hipoteca-inversa-cuando-fallece-el-titular">¿Qué pasa con la hipoteca inversa cuando fallece el titular?</h3>
+<p>Los herederos pueden pagar la deuda con sus intereses y quedarse la casa, o no pagarla. En ese caso, el banco solo puede cobrarse con los bienes de la herencia, no con el patrimonio de los herederos.</p>
+<h3 id="tributa-la-hipoteca-inversa">¿Tributa la hipoteca inversa?</h3>
+<p>No. Lo que cobras sobre tu vivienda habitual no se considera renta en el IRPF si tienes más de 65 años o dependencia severa o gran dependencia.</p>
+<h3 id="tributa-la-venta-de-la-nuda-propiedad">¿Tributa la venta de la nuda propiedad?</h3>
+<p>Si es tu vivienda habitual y tienes más de 65 años, la ganancia está exenta, también cuando te reservas el usufructo vitalicio.</p>
+<h3 id="quien-paga-el-ibi-si-vendo-la-nuda-propiedad">¿Quién paga el IBI si vendo la nuda propiedad?</h3>
+<p>Tú, como usufructuario: el IBI lo paga el titular del usufructo antes que el propietario.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-21086" rel="noopener">Ley 41/2007, disposición adicional primera (hipoteca inversa)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley del IRPF: artículos 25.3, 33.4 y 38.3 y disposición adicional 15.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141" rel="noopener">Ley del Impuesto sobre Sucesiones y Donaciones: artículo 26 (valor del usufructo)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214" rel="noopener">Ley de Haciendas Locales: artículo 61 (IBI)</a> (BOE).</li>
+<li><a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-especifico-irpf-2025-personas-anos/rentas-que-no-se-declaran-irpf/transmision-vivienda-habitual-mayores-65-anos.html" rel="noopener">Agencia Tributaria: transmisión de la vivienda habitual por mayores de 65 años</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto necesitas? Calcúlalo con la calculadora de ahorro para la jubilación.</li>
+<li>¿Tienes un plan de pensiones? Mira cómo <a href="/dinero/rescate-plan-pensiones/">rescatarlo pagando menos impuestos</a>.</li>
+<li>¿Cómo declarar todo esto? Consulta la <a href="/dinero/declaracion-renta-jubilados/">declaración de la renta de los jubilados</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento financiero, fiscal o legal independiente, obligatorio en la hipoteca inversa. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Tres formas de obtener dinero de tu vivienda después de los 65 y seguir viviendo en ella. Cómo funcionan, qué pasa con los herederos y cómo tributa cada una.]]></excerpt:encoded>
+    <wp:post_id>9024</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[hipoteca-inversa]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Hipoteca inversa, nuda propiedad o renta vitalicia en 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Tres formas de obtener dinero de tu vivienda después de los 65 y seguir viviendo en ella. Cómo funcionan, qué pasa con los herederos y cómo tributa cada una.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[hipoteca inversa]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Hipoteca inversa, nuda propiedad o renta vitalicia en 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Tres formas de obtener dinero de tu vivienda después de los 65 y seguir viviendo en ella. Cómo funcionan, qué pasa con los herederos y cómo tributa cada una.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[hipoteca inversa]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -4466,7 +4787,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4485,6 +4806,132 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Rescatar el plan de pensiones al jubilarse: cómo pagar menos]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[rescate plan de pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Vender tu vivienda habitual con más de 65 años: por qué no pagas IRPF, qué impuestos sí pagas y qué hacer con el dinero]]></title>
+    <link>https://jubilometro.com/dinero/vender-vivienda-65/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Si tienes <strong>más de 65 años</strong> y vendes tu <strong>vivienda habitual</strong>, la ganancia <strong>está exenta del IRPF</strong> y <strong>no tienes que declararla</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a33" rel="noopener">artículo 33.4.b de la Ley del IRPF</a>). Da igual lo que ganes y lo que hagas con el dinero. Lo mismo si tienes reconocida una <strong>dependencia severa o gran dependencia</strong>, a cualquier edad.</p>
+<p>Lo que <strong>sí</strong> pagas es la <strong>plusvalía municipal</strong>, que no tiene exención por edad. Y la exención es <strong>personal</strong>: si la casa es de los dos y tu pareja tiene menos de 65 años, su parte tributa, salvo que reinvierta en otra vivienda habitual.</p>
+</aside>
+<h2 id="requisitos-de-la-exencion">Requisitos de la exención</h2>
+<ol>
+<li><strong>Tener más de 65 años</strong> el día de la venta (o dependencia severa o gran dependencia reconocida).</li>
+<li><strong>Que sea tu vivienda habitual</strong>: en general, haber vivido en ella al menos <strong>tres años seguidos</strong>, salvo cambios de casa forzosos como un traslado laboral o una separación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">disposición adicional 23.ª</a>).</li>
+<li><strong>Que lo siga siendo al venderla</strong>, o que lo haya sido en algún momento de los <strong>dos años anteriores</strong> a la venta. Si te fuiste a una residencia o a casa de un hijo, tienes dos años para vender con la exención (<a href="https://sede.agenciatributaria.gob.es/Sede/vivienda-otros-inmuebles/que-ocurre-cuando-vendo-inmueble/transmision-vivienda-habitual-mayores-65-anos.html" rel="noopener">Agencia Tributaria</a>).</li>
+</ol>
+<p><strong>También vale si vendes la nuda propiedad</strong> y te quedas el usufructo vitalicio, para seguir viviendo en la casa. No se aplica, en cambio, si la propiedad ya estaba dividida antes entre un nudo propietario y un usufructuario. Lo explicamos en <a href="/dinero/hipoteca-inversa/">hipoteca inversa y nuda propiedad</a>.</p>
+<p><strong>No vale para una segunda vivienda</strong>: la ganancia de vender un piso que no es tu vivienda habitual tributa, aunque tengas más de 65 años. Para esos casos existe otra vía: reinvertir el dinero en una <strong>renta vitalicia</strong> (ver abajo).</p>
+<h2 id="cuanto-te-ahorras-un-ejemplo">Cuánto te ahorras: un ejemplo</h2>
+<p><strong>Luisa, 70 años, viuda</strong>, compró su piso en 1995 y lo vende ahora con una ganancia de <strong>180.000 euros</strong>. Como es su vivienda habitual y tiene más de 65 años, <strong>no paga nada de IRPF</strong> por esa ganancia. Sin la exención, habría pagado unos <strong>40.280 euros</strong> con la escala del ahorro de 2026:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Escala del IRPF para las ganancias patrimoniales en 2026 (estatal más autonómica)</caption>
+<thead>
+<tr>
+<th scope="col">Ganancia</th>
+<th scope="col">Tipo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Hasta 6.000 €</th>
+<td>19 %</td>
+</tr>
+<tr>
+<th scope="row">De 6.000 a 50.000 €</th>
+<td>21 %</td>
+</tr>
+<tr>
+<th scope="row">De 50.000 a 200.000 €</th>
+<td>23 %</td>
+</tr>
+<tr>
+<th scope="row">De 200.000 a 300.000 €</th>
+<td>27 %</td>
+</tr>
+<tr>
+<th scope="row">Más de 300.000 €</th>
+<td>30 %</td>
+</tr>
+</tbody></table>
+</div>
+<p>Escala de los <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a66" rel="noopener">artículos 66 y 76 de la Ley del IRPF</a>. El cálculo es orientativo: no incluye otros ajustes de la declaración.</p>
+<h2 id="si-tu-pareja-tiene-menos-de-65-anos">Si tu pareja tiene menos de 65 años</h2>
+<p>El IRPF es individual: cada propietario declara <strong>su parte</strong> de la ganancia (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a11" rel="noopener">artículo 11.5</a>). Si la casa es de los dos a partes iguales, tú tienes 67 años y tu pareja 62:</p>
+<ul>
+<li><strong>Tu mitad</strong> está exenta.</li>
+<li><strong>Su mitad tributa</strong>, salvo que <strong>reinvierta</strong> lo que le corresponde de la venta en una <strong>nueva vivienda habitual</strong> en un plazo de <strong>dos años</strong>. Si reinvierte solo una parte, queda exenta la parte proporcional de la ganancia (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38" rel="noopener">artículo 38.1 de la Ley del IRPF</a> y <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a41" rel="noopener">artículo 41 del Reglamento</a>).</li>
+</ul>
+<p>Con la ganancia de Luisa (180.000 euros) repartida entre dos, la mitad de la pareja menor de 65 años pagaría unos <strong>19.580 euros</strong> si no reinvierte. <strong>Si podéis esperar</strong> a que cumpla 65 años para vender, os ahorráis ese impuesto.</p>
+<h2 id="que-impuestos-si-pagas">Qué impuestos sí pagas</h2>
+<ul>
+<li><strong>Plusvalía municipal</strong> (impuesto sobre el incremento de valor de los terrenos): <strong>no tiene exención por edad</strong>. No se paga si vendes por menos de lo que compraste, y puedes pedir que se calcule sobre la <strong>ganancia real</strong> si te sale menos que el cálculo por años (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214#a104" rel="noopener">artículos 104.5 y 107.5 de la Ley de Haciendas Locales</a>).</li>
+<li><strong>Los gastos de la venta</strong>: notaría, inmobiliaria o certificado energético, según lo que pactes con el comprador.</li>
+<li><strong>El IBI del año</strong>: lo paga quien era propietario el 1 de enero, aunque es habitual repartirlo en la compraventa.</li>
+</ul>
+<h2 id="que-hacer-con-el-dinero">Qué hacer con el dinero</h2>
+<ul>
+<li><strong>Cuidado con las ayudas</strong>: si cobras <strong>complemento a mínimos</strong> o una <strong>pensión no contributiva</strong>, las ganancias patrimoniales y los intereses del dinero cuentan como rentas para esas ayudas (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59" rel="noopener">artículo 59 de la Ley General de la Seguridad Social</a>). Consúltalo antes con la Seguridad Social o tu comunidad.</li>
+<li><strong>Renta vitalicia</strong>: si con el dinero contratas una renta vitalicia asegurada, cada pago tributa muy poco (el 8 % se considera rendimiento si tienes más de 70 años al contratarla). Y si vendes <strong>otros bienes</strong> con más de 65 años y reinviertes en una renta vitalicia en seis meses, esa ganancia tampoco tributa, hasta 240.000 euros (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38" rel="noopener">artículo 38.3</a>).</li>
+<li><strong>Tus rendimientos sí tributan</strong>: los intereses o dividendos que te dé ese dinero se declaran cada año.</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="tengo-que-pagar-irpf-si-vendo-mi-casa-con-mas-de-65-anos">¿Tengo que pagar IRPF si vendo mi casa con más de 65 años?</h3>
+<p>No, si es tu vivienda habitual (o lo fue en los dos años anteriores) y tienes más de 65 años el día de la venta. La ganancia está exenta y no hay que declararla.</p>
+<h3 id="y-si-me-fui-a-una-residencia-y-vendo-el-piso">¿Y si me fui a una residencia y vendo el piso?</h3>
+<p>Si lo vendes en los dos años siguientes a dejar de vivir en él, sigue contando como vivienda habitual y la ganancia está exenta.</p>
+<h3 id="tengo-que-reinvertir-el-dinero">¿Tengo que reinvertir el dinero?</h3>
+<p>No. Con más de 65 años, la exención no depende de lo que hagas con el dinero. La reinversión solo hace falta si tienes menos de 65 años.</p>
+<h3 id="se-paga-la-plusvalia-municipal-si-tengo-mas-de-65-anos">¿Se paga la plusvalía municipal si tengo más de 65 años?</h3>
+<p>Sí. La plusvalía municipal no tiene exención por edad. Solo no se paga si no hay ganancia, y puedes pedir que se calcule sobre la ganancia real si te sale menos.</p>
+<h3 id="y-si-vendo-un-piso-que-no-es-mi-vivienda-habitual">¿Y si vendo un piso que no es mi vivienda habitual?</h3>
+<p>La ganancia tributa aunque tengas más de 65 años. Puedes evitarlo si reinviertes lo obtenido en una renta vitalicia asegurada en seis meses, con un máximo de 240.000 euros.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley del IRPF: artículos 11.5, 33.4.b, 38, 66 y 76 y disposición adicional 23.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820" rel="noopener">Reglamento del IRPF: artículo 41</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214" rel="noopener">Ley de Haciendas Locales: artículos 104, 105 y 107 (plusvalía municipal)</a> (BOE).</li>
+<li><a href="https://sede.agenciatributaria.gob.es/Sede/vivienda-otros-inmuebles/que-ocurre-cuando-vendo-inmueble/transmision-vivienda-habitual-mayores-65-anos.html" rel="noopener">Agencia Tributaria: transmisión de la vivienda habitual por mayores de 65 años</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Prefieres seguir viviendo en tu casa? Mira la <a href="/dinero/hipoteca-inversa/">hipoteca inversa y la nuda propiedad</a>.</li>
+<li>¿Cómo declarar el resto de tus ingresos? Consulta la <a href="/dinero/declaracion-renta-jubilados/">declaración de la renta de los jubilados</a>.</li>
+<li>¿Cuánto te hace falta? Calcúlalo con la calculadora de ahorro para la jubilación.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de la Agencia Tributaria. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></excerpt:encoded>
+    <wp:post_id>9026</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[vender-vivienda-65]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Vender la vivienda con más de 65 años: impuestos en 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[vender vivienda habitual mayores de 65 años]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Vender la vivienda con más de 65 años: impuestos en 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[vender vivienda habitual mayores de 65 años]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -4806,7 +5253,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4935,7 +5382,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa y otros 30 para demandar. Plazos, pruebas y qué pasa con tu baja.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5126,7 +5573,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[No hay lista de enfermedades que den la incapacidad: se valoran tus limitaciones para trabajar. Cómo es el tribunal médico y las enfermedades profesionales.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5344,7 +5791,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5483,7 +5930,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5644,7 +6091,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5835,7 +6282,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5968,7 +6415,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente se pide al INSS o la inicia él tras la baja. Documentos, el tribunal médico, 10 días para alegar y 135 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6108,7 +6555,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6244,7 +6691,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6379,7 +6826,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9037</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6560,7 +7007,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6716,7 +7163,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9036</wp:post_id>
+    <wp:post_id>9039</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6904,7 +7351,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9037</wp:post_id>
+    <wp:post_id>9040</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7063,7 +7510,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9038</wp:post_id>
+    <wp:post_id>9041</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7285,7 +7732,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9039</wp:post_id>
+    <wp:post_id>9042</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7440,7 +7887,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9040</wp:post_id>
+    <wp:post_id>9043</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7538,7 +7985,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9041</wp:post_id>
+    <wp:post_id>9044</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7708,7 +8155,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9042</wp:post_id>
+    <wp:post_id>9045</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7870,7 +8317,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9043</wp:post_id>
+    <wp:post_id>9046</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8000,7 +8447,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9044</wp:post_id>
+    <wp:post_id>9047</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8649,7 +9096,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9045</wp:post_id>
+    <wp:post_id>9048</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8779,7 +9226,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9046</wp:post_id>
+    <wp:post_id>9049</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8957,7 +9404,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9047</wp:post_id>
+    <wp:post_id>9050</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9091,7 +9538,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9048</wp:post_id>
+    <wp:post_id>9051</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9215,7 +9662,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9049</wp:post_id>
+    <wp:post_id>9052</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9332,7 +9779,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9050</wp:post_id>
+    <wp:post_id>9053</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9464,7 +9911,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9051</wp:post_id>
+    <wp:post_id>9054</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9564,7 +10011,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9052</wp:post_id>
+    <wp:post_id>9055</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9765,7 +10212,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9053</wp:post_id>
+    <wp:post_id>9056</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9910,7 +10357,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9054</wp:post_id>
+    <wp:post_id>9057</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10019,7 +10466,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años (con hijos comunes basta la inscripción). Sin límite de ingresos.]]></excerpt:encoded>
-    <wp:post_id>9055</wp:post_id>
+    <wp:post_id>9058</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10208,7 +10655,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9056</wp:post_id>
+    <wp:post_id>9059</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10313,7 +10760,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9057</wp:post_id>
+    <wp:post_id>9060</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10430,7 +10877,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9058</wp:post_id>
+    <wp:post_id>9061</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
