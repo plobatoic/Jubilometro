@@ -18,8 +18,9 @@
   <wp:category><wp:term_id>101</wp:term_id><wp:category_nicename><![CDATA[calculadoras]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Calculadoras]]></wp:cat_name></wp:category>
   <wp:category><wp:term_id>102</wp:term_id><wp:category_nicename><![CDATA[cuanto-cobrare]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Cuánto cobraré]]></wp:cat_name></wp:category>
   <wp:category><wp:term_id>103</wp:term_id><wp:category_nicename><![CDATA[imserso]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[IMSERSO]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>104</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>105</wp:term_id><wp:category_nicename><![CDATA[viudedad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Viudedad]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>104</wp:term_id><wp:category_nicename><![CDATA[incapacidad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Incapacidad]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>105</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>106</wp:term_id><wp:category_nicename><![CDATA[viudedad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Viudedad]]></wp:cat_name></wp:category>
   <item>
     <title><![CDATA[Pensión no contributiva de jubilación en 2026: requisitos, cuánto se cobra y cómo pedirla]]></title>
     <link>https://jubilometro.com/ayudas/pension-no-contributiva/</link>
@@ -2210,6 +2211,415 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Grados de incapacidad permanente: parcial, total, absoluta y gran incapacidad, qué significa cada uno y cuánto se cobra]]></title>
+    <link>https://jubilometro.com/incapacidad/grados-incapacidad/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La incapacidad permanente tiene <strong>cuatro grados</strong>, según cuánto te impide trabajar:</p>
+<ul>
+<li><strong>Parcial</strong>: rindes al menos un 33 % menos en tu trabajo, pero puedes hacerlo. Cobras una <strong>indemnización única de 24 mensualidades</strong>.</li>
+<li><strong>Total</strong>: no puedes hacer tu trabajo habitual, pero sí otro. Cobras el <strong>55 %</strong> de tu base reguladora (el <strong>75 %</strong> desde los 55 años si no trabajas).</li>
+<li><strong>Absoluta</strong>: no puedes trabajar en nada. Cobras el <strong>100 %</strong>, sin IRPF.</li>
+<li><strong>Gran incapacidad</strong>: además, necesitas ayuda de otra persona para comer, vestirte o moverte. Cobras el <strong>100 % más un complemento</strong> para pagar a quien te cuide.</li>
+</ul>
+</aside>
+<h2 id="los-cuatro-grados-uno-a-uno">Los cuatro grados, uno a uno</h2>
+<p>Mientras no se apruebe el reglamento con la lista de enfermedades que prevé la ley, los grados se definen por cómo afecta tu estado a tu <strong>profesión habitual</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 26.ª de la Ley General de la Seguridad Social</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Grados de incapacidad permanente: definición, prestación y trabajo</caption>
+<thead>
+<tr>
+<th scope="col">Grado</th>
+<th scope="col">Qué significa</th>
+<th scope="col">Qué se cobra</th>
+<th scope="col">¿Puedes trabajar?</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Parcial para la profesión habitual</th>
+<td>Rindes al menos un 33 % menos, pero puedes hacer las tareas fundamentales de tu trabajo</td>
+<td>Indemnización única de 24 mensualidades de la base reguladora</td>
+<td>Sí, en tu mismo trabajo</td>
+</tr>
+<tr>
+<th scope="row">Total para la profesión habitual</th>
+<td>No puedes hacer tu trabajo habitual (todas o sus tareas fundamentales), pero sí otro distinto</td>
+<td>Pensión del 55 % de la base reguladora; 75 % desde los 55 años si no trabajas (total cualificada)</td>
+<td>Sí, en otro puesto o profesión</td>
+</tr>
+<tr>
+<th scope="row">Absoluta para todo trabajo</th>
+<td>No puedes hacer ninguna profesión u oficio</td>
+<td>Pensión del 100 % de la base reguladora, exenta de IRPF</td>
+<td>Solo actividades compatibles con tu estado</td>
+</tr>
+<tr>
+<th scope="row">Gran incapacidad</th>
+<td>Además de la absoluta, necesitas a otra persona para los actos esenciales (vestirte, desplazarte, comer…)</td>
+<td>Pensión del 100 % más un complemento para la persona que te atiende, exenta de IRPF</td>
+<td>Solo actividades compatibles con tu estado</td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Profesión habitual</strong> es la que tenías al sufrir el accidente o, si es por enfermedad, a la que dedicabas tu actividad fundamental en el periodo anterior que marca el reglamento. Por eso una misma lesión puede dar una total a un albañil y ninguna incapacidad a un administrativo.</p>
+<h2 id="requisitos-para-cobrarla">Requisitos para cobrarla</h2>
+<p>La decide el <strong>Instituto Nacional de la Seguridad Social (INSS)</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a200" rel="noopener">artículo 200</a>) cuando, tras el tratamiento, tienes lesiones graves y previsiblemente definitivas que reducen o anulan tu capacidad de trabajo. Normalmente llega después de una baja por incapacidad temporal. Además, hay que estar <strong>dado de alta</strong> (o en situación asimilada) y cumplir un periodo mínimo de cotización (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a195" rel="noopener">artículo 195</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Cotización mínima para la incapacidad permanente por enfermedad común</caption>
+<thead>
+<tr>
+<th scope="col">Caso</th>
+<th scope="col">Cotización mínima</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Accidente (de trabajo o no) o enfermedad profesional</th>
+<td>Ninguna</td>
+</tr>
+<tr>
+<th scope="row">Parcial por enfermedad común</th>
+<td>1.800 días en los 10 años anteriores al fin de la baja</td>
+</tr>
+<tr>
+<th scope="row">Pensión con menos de 31 años</th>
+<td>Un tercio del tiempo transcurrido desde los 16 años</td>
+</tr>
+<tr>
+<th scope="row">Pensión con 31 años o más</th>
+<td>Un cuarto del tiempo transcurrido desde los 20 años, con un mínimo de 5 años; al menos una quinta parte, en los últimos 10 años</td>
+</tr>
+<tr>
+<th scope="row">Absoluta o gran incapacidad sin estar de alta</th>
+<td>15 años, con al menos 3 en los últimos 10</td>
+</tr>
+</tbody></table>
+</div>
+<p>Por ejemplo, con 51 años necesitas 7 años y 9 meses cotizados (un cuarto de los 31 años transcurridos desde los 20), de los cuales al menos 1 año, 6 meses y 18 días deben estar en los últimos 10 años.</p>
+<p><strong>Un límite importante:</strong> si la incapacidad es por enfermedad común o accidente no laboral y, cuando se produce, ya tienes la <strong>edad ordinaria de jubilación y cumples los requisitos para jubilarte</strong>, no se reconoce la incapacidad permanente: te corresponde la jubilación.</p>
+<h2 id="cuanto-se-cobra-en-cada-grado">Cuánto se cobra en cada grado</h2>
+<p>Todas las cuantías se calculan sobre una <strong>base reguladora</strong>, que depende del origen de la incapacidad:</p>
+<ul>
+<li><strong>Enfermedad común</strong>: la suma de tus bases de cotización de los últimos 96 meses dividida entre 112, y a ese resultado se le aplica el porcentaje por años cotizados de la jubilación, contando como cotizados los años que te faltan hasta la edad de jubilación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a197" rel="noopener">artículo 197</a>). Si no llegas a 15 años, el 50 %.</li>
+<li><strong>Accidente no laboral</strong>: la suma de 24 meses seguidos de bases de cotización, elegidos por ti dentro de los últimos 7 años, dividida entre 28 (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972, artículo 7</a>).</li>
+<li><strong>Accidente de trabajo o enfermedad profesional</strong>: se calcula con tu salario real.</li>
+</ul>
+<p>Sobre esa base se aplica el porcentaje del grado: <strong>55 %</strong> en la total (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1969-575" rel="noopener">Orden de 15 de abril de 1969</a>), <strong>75 %</strong> en la total cualificada (el 55 % más un 20 % desde los 55 años, mientras no trabajes, según el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972</a>) y <strong>100 %</strong> en la absoluta y en la gran incapacidad.</p>
+<p><strong>El complemento de gran incapacidad</strong> es igual al 45 % de la base mínima de cotización más el 30 % de tu última base de cotización, y nunca menos del 45 % de tu pensión (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a196" rel="noopener">artículo 196.4</a>). La base mínima de 2026 es de 1.424,40 euros al mes.</p>
+<!-- calculadora-web:incapacidad -->
+
+<h3 id="pensiones-minimas-de-incapacidad-permanente-en-2026">Pensiones mínimas de incapacidad permanente en 2026</h3>
+<p>Si tu pensión queda por debajo y cumples los requisitos de ingresos, se completa hasta la mínima (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a>, anexo I). En euros al mes, en 14 pagas:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Pensiones mínimas de incapacidad permanente en 2026 (al mes, 14 pagas)</caption>
+<thead>
+<tr>
+<th scope="col">Grado</th>
+<th scope="col">Con cónyuge a cargo</th>
+<th scope="col">Sin cónyuge</th>
+<th scope="col">Con cónyuge no a cargo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Gran incapacidad</th>
+<td>1.884,70 €</td>
+<td>1.404,30 €</td>
+<td>1.333 €</td>
+</tr>
+<tr>
+<th scope="row">Absoluta</th>
+<td>1.256,60 €</td>
+<td>936,20 €</td>
+<td>888,70 €</td>
+</tr>
+<tr>
+<th scope="row">Total, con 65 años o más</th>
+<td>1.256,60 €</td>
+<td>936,20 €</td>
+<td>888,70 €</td>
+</tr>
+<tr>
+<th scope="row">Total, entre 60 y 64 años</th>
+<td>1.256,60 €</td>
+<td>875,90 €</td>
+<td>827,90 €</td>
+</tr>
+<tr>
+<th scope="row">Total por enfermedad común, menos de 60 años</th>
+<td>690,20 €</td>
+<td>690,20 €</td>
+<td>684,30 €</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="ejemplos-con-una-base-reguladora-de-1-600-euros">Ejemplos con una base reguladora de 1.600 euros</h2>
+<ul>
+<li><strong>Parcial (Luis)</strong>: una indemnización única de 24 × 1.600 = <strong>38.400 euros</strong>, y sigue en su trabajo.</li>
+<li><strong>Total (Ana, 50 años)</strong>: 55 % → <strong>880 euros al mes</strong> en 14 pagas, compatibles con un sueldo en otro puesto. Si a los 55 años no trabaja, pasa al 75 %: 1.200 euros.</li>
+<li><strong>Absoluta (Pedro)</strong>: 100 % → <strong>1.600 euros al mes</strong>, sin retención de IRPF.</li>
+<li><strong>Gran incapacidad (Carmen, última base de cotización de 2.000 euros)</strong>: pensión de 1.600 euros más un complemento de 45 % × 1.424,40 + 30 % × 2.000 = <strong>1.240,98 euros</strong>: <strong>2.840,98 euros al mes</strong>, exentos de IRPF.</li>
+</ul>
+<h2 id="trabajar-con-una-incapacidad-permanente">Trabajar con una incapacidad permanente</h2>
+<ul>
+<li><strong>Total</strong>: puedes trabajar en otra empresa o en la misma, siempre que las funciones <strong>no sean las que dieron lugar a la incapacidad</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198</a>). El 20 % extra de la total cualificada se suspende mientras trabajes.</li>
+<li><strong>Absoluta y gran incapacidad</strong>: solo actividades compatibles con tu estado que no demuestren que tu capacidad ha mejorado. Desde la edad de jubilación, trabajar es incompatible con la pensión, igual que en la jubilación.</li>
+<li><strong>Tu contrato</strong>: desde el 1 de mayo de 2025, la incapacidad total, absoluta o gran incapacidad <strong>ya no extingue automáticamente el contrato</strong>. Tienes <strong>10 días naturales</strong> para comunicar por escrito a la empresa que quieres seguir, y la empresa tiene <strong>tres meses</strong> para adaptar tu puesto o cambiarte a otro compatible; solo puede despedirte si eso le supone una carga excesiva o no hay puesto (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567" rel="noopener">Ley 2/2025</a>).</li>
+</ul>
+<h2 id="revision-del-grado">Revisión del grado</h2>
+<p>La resolución que te reconoce la incapacidad indica <strong>desde cuándo puede revisarse</strong> por mejoría o empeoramiento. Si trabajas, el INSS puede revisarla en cualquier momento, y si hubo un error de diagnóstico, también, hasta la edad de jubilación. A los 67 años, la pensión pasa a llamarse de jubilación sin cambiar su cuantía (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a200" rel="noopener">artículo 200</a>).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cual-es-la-diferencia-entre-incapacidad-total-y-absoluta">¿Cuál es la diferencia entre incapacidad total y absoluta?</h3>
+<p>Con la total no puedes hacer tu trabajo habitual, pero sí otro, y cobras el 55 % de la base reguladora. Con la absoluta no puedes trabajar en nada y cobras el 100 %, sin IRPF.</p>
+<h3 id="cuanto-se-cobra-con-una-incapacidad-permanente-total">¿Cuánto se cobra con una incapacidad permanente total?</h3>
+<p>El 55 % de la base reguladora, en 14 pagas. Desde los 55 años, si no trabajas, sube al 75 % (total cualificada). La mínima en 2026 va de 684,30 a 1.256,60 euros al mes según la edad y la situación familiar.</p>
+<h3 id="la-incapacidad-permanente-absoluta-paga-irpf">¿La incapacidad permanente absoluta paga IRPF?</h3>
+<p>No. Las prestaciones de la Seguridad Social por incapacidad permanente absoluta y gran incapacidad están exentas de IRPF. La total sí tributa.</p>
+<h3 id="se-puede-trabajar-con-una-incapacidad-permanente-total">¿Se puede trabajar con una incapacidad permanente total?</h3>
+<p>Sí, en otra empresa o en la misma, siempre que las funciones no sean las que dieron lugar a la incapacidad. Lo que se suspende es el 20 % extra de la total cualificada.</p>
+<h3 id="me-pueden-despedir-si-me-dan-la-incapacidad-permanente">¿Me pueden despedir si me dan la incapacidad permanente?</h3>
+<p>Desde mayo de 2025, no de forma automática. Si comunicas en 10 días que quieres seguir, la empresa debe adaptar tu puesto o cambiarte a otro compatible en tres meses; solo puede extinguir el contrato si eso le supone una carga excesiva o no hay puesto disponible.</p>
+<h3 id="que-grado-corresponde-a-mi-enfermedad">¿Qué grado corresponde a mi enfermedad?</h3>
+<p>No hay una lista oficial de enfermedades: el INSS valora cómo tus limitaciones afectan a tu profesión habitual. La misma enfermedad puede dar distintos grados a dos personas con trabajos diferentes.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 193 a 200 y disposición transitoria 26.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1969-575" rel="noopener">Orden de 15 de abril de 1969, de prestaciones por invalidez</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972 (incapacidad parcial y total cualificada)</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, cuantías mínimas para 2026</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567" rel="noopener">Ley 2/2025, sobre la extinción del contrato por incapacidad permanente</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7" rel="noopener">Ley del IRPF, artículo 7.f)</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto te correspondería? Usa la calculadora de incapacidad permanente.</li>
+<li>¿Te han dado la total? Lee la guía de la <a href="/incapacidad/incapacidad-total/">incapacidad permanente total</a>.</li>
+<li>¿Estás cerca de la jubilación? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad permanente y su grado. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
+    <wp:post_id>9009</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[grados-incapacidad]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="incapacidad"><![CDATA[Incapacidad]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Grados de incapacidad permanente: diferencias y cuánto cobras]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[grados de incapacidad permanente]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Grados de incapacidad permanente: diferencias y cuánto cobras]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[grados de incapacidad permanente]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Incapacidad permanente total en 2026: cuánto se cobra, requisitos, cómo trabajar con ella y la total cualificada]]></title>
+    <link>https://jubilometro.com/incapacidad/incapacidad-total/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La incapacidad permanente total se reconoce cuando <strong>no puedes hacer tu trabajo habitual</strong>, o sus tareas fundamentales, pero <strong>sí otro distinto</strong>. Da derecho a una pensión vitalicia del <strong>55 % de tu base reguladora</strong>, en 14 pagas, que sube al <strong>75 %</strong> desde los <strong>55 años</strong> si no trabajas (la <em>total cualificada</em>).</p>
+<p>La pensión es <strong>compatible con un sueldo</strong> en otro puesto, en tu empresa o en otra. Desde mayo de 2025 la empresa ya no puede despedirte automáticamente: primero tiene que intentar adaptar tu puesto o cambiarte a otro.</p>
+</aside>
+<h2 id="que-es-la-incapacidad-permanente-total">Qué es la incapacidad permanente total</h2>
+<p>Es el grado que inhabilita al trabajador para <strong>todas o las tareas fundamentales de su profesión habitual</strong>, siempre que pueda dedicarse a otra distinta (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 26.ª de la Ley General de la Seguridad Social</a>). La clave es tu <strong>profesión</strong>: una hernia discal puede dar la total a un repartidor y no a un programador. Si ni siquiera puedes hacer otro trabajo, lo que corresponde es la absoluta; lo comparamos en <a href="/incapacidad/grados-incapacidad/">grados de incapacidad permanente</a>.</p>
+<h2 id="requisitos">Requisitos</h2>
+<ol>
+<li><strong>Estar dado de alta</strong> o en situación asimilada (por ejemplo, cobrando el paro) cuando se produce.</li>
+<li><strong>Haber cotizado el mínimo</strong> si la causa es una enfermedad común (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a195" rel="noopener">artículo 195</a>):<ul>
+<li>Con <strong>menos de 31 años</strong>: un tercio del tiempo transcurrido desde los 16.</li>
+<li>Con <strong>31 años o más</strong>: un cuarto del tiempo transcurrido desde los 20, con un mínimo de <strong>5 años</strong>, y al menos una quinta parte en los últimos 10 años.</li>
+<li>Si es por <strong>accidente</strong>, laboral o no, o por <strong>enfermedad profesional</strong>, no se exige cotización previa.</li>
+</ul>
+</li>
+<li><strong>No tener la edad ordinaria de jubilación</strong> con los requisitos para jubilarte, si la causa es común: en ese caso te corresponde la jubilación.</li>
+</ol>
+<h2 id="cuanto-se-cobra">Cuánto se cobra</h2>
+<p>La pensión es el <strong>55 % de la base reguladora</strong>, en 14 pagas. La base reguladora depende de la causa:</p>
+<ul>
+<li><strong>Enfermedad común</strong>: las bases de cotización de los últimos <strong>96 meses divididas entre 112</strong>. A ese resultado se le aplica el porcentaje por años cotizados de la jubilación, <strong>contando como cotizados los años que te faltan hasta la edad de jubilación</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a197" rel="noopener">artículo 197</a>). Por eso, a una persona joven con pocos años cotizados le suele salir el 100 %.</li>
+<li><strong>Accidente no laboral</strong>: 24 meses seguidos de bases, elegidos por ti dentro de los últimos 7 años, divididos entre 28.</li>
+<li><strong>Accidente de trabajo o enfermedad profesional</strong>: tu salario real.</li>
+</ul>
+<p><strong>Tiene dos suelos en 2026:</strong></p>
+<ul>
+<li>Si viene de enfermedad común, la pensión no puede ser inferior al <strong>55 % de la base mínima de cotización</strong>, en términos anuales (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a196" rel="noopener">artículo 196.2</a>): 9.401,04 euros al año, <strong>671,50 euros al mes</strong> en 14 pagas.</li>
+<li>Si cumples los requisitos de ingresos del complemento a mínimos, se completa hasta la <strong>pensión mínima</strong> (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a>):</li>
+</ul>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Pensión mínima de incapacidad permanente total en 2026 (al mes, 14 pagas)</caption>
+<thead>
+<tr>
+<th scope="col">Edad y causa</th>
+<th scope="col">Con cónyuge a cargo</th>
+<th scope="col">Sin cónyuge</th>
+<th scope="col">Con cónyuge no a cargo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">65 años o más</th>
+<td>1.256,60 €</td>
+<td>936,20 €</td>
+<td>888,70 €</td>
+</tr>
+<tr>
+<th scope="row">Entre 60 y 64 años</th>
+<td>1.256,60 €</td>
+<td>875,90 €</td>
+<td>827,90 €</td>
+</tr>
+<tr>
+<th scope="row">Menos de 60 años, por enfermedad común</th>
+<td>690,20 €</td>
+<td>690,20 €</td>
+<td>684,30 €</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="la-total-cualificada-el-75-desde-los-55-anos">La total cualificada: el 75 % desde los 55 años</h2>
+<p>A partir de los <strong>55 años</strong>, la pensión sube un <strong>20 % de la base reguladora</strong>, hasta el <strong>75 %</strong>, porque se presume que es difícil encontrar un empleo distinto por la edad, la falta de preparación y las circunstancias del lugar donde vives (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972, artículo 6</a>).</p>
+<ul>
+<li><strong>Si la total te la reconocieron antes de los 55</strong>, el aumento corresponde desde que los cumples, si no trabajas. Si no te lo aplican, pídelo al INSS.</li>
+<li><strong>Se suspende mientras trabajes</strong>, por cuenta propia o ajena, y se recupera cuando dejas de trabajar.</li>
+</ul>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Raúl, 48 años, albañil, por enfermedad común.</strong> Lleva 25 años cotizados y sus bases de los últimos 96 meses suman, actualizadas, 172.800 euros (1.800 al mes de media).</p>
+<ul>
+<li>172.800 ÷ 112 = 1.542,86 euros.</li>
+<li>Años cotizados: 25 más los 19 que le faltan hasta los 67 = 44 años → <strong>100 %</strong>.</li>
+<li>Base reguladora: 1.542,86 euros. Pensión: 55 % = <strong>848,57 euros al mes</strong> en 14 pagas.</li>
+<li>Si a los 55 años no trabaja: 75 % = <strong>1.157,14 euros al mes</strong>.</li>
+</ul>
+<p><strong>Isabel, 52 años, cocinera.</strong> Le reconocen la total por una lesión en el hombro y su hotel la recoloca en recepción. Cobra <strong>su pensión del 55 % y su nuevo sueldo a la vez</strong>, porque las funciones no son las de cocinera.</p>
+<h2 id="trabajar-con-la-incapacidad-total">Trabajar con la incapacidad total</h2>
+<ul>
+<li><strong>Puedes trabajar</strong> en la misma empresa o en otra, siempre que las funciones <strong>no coincidan</strong> con las que dieron lugar a la incapacidad (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198</a>). Si haces el mismo trabajo, el INSS puede revisar el grado en cualquier momento.</li>
+<li><strong>Tu contrato no se extingue solo.</strong> Desde el 1 de mayo de 2025, tienes <strong>10 días naturales</strong> desde la notificación para decir por escrito a la empresa que quieres seguir. La empresa tiene <strong>tres meses</strong> para adaptar tu puesto o cambiarte a uno vacante compatible, y solo puede extinguir el contrato si el ajuste es una carga excesiva, no hay puesto o rechazas el cambio adecuado (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567" rel="noopener">Ley 2/2025</a>). En las empresas de menos de 25 trabajadores, la carga es excesiva si la adaptación cuesta más que la indemnización por despido o que seis meses de tu sueldo (lo mayor de las dos).</li>
+<li><strong>El paro</strong> solo es compatible con la pensión si esta era compatible con el trabajo que te dio derecho al paro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a282" rel="noopener">artículo 282.2</a>).</li>
+</ul>
+<h2 id="cobrarla-de-una-vez-la-indemnizacion-para-menores-de-60-anos">Cobrarla de una vez: la indemnización para menores de 60 años</h2>
+<p>Si tienes <strong>menos de 60 años</strong>, puedes pedir, de forma excepcional, cambiar la pensión por una <strong>indemnización a tanto alzado</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-1210" rel="noopener">Orden de 31 de julio de 1972, artículo 5</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Indemnización que sustituye a la pensión de incapacidad total, según la edad al pedirla</caption>
+<thead>
+<tr>
+<th scope="col">Edad al pedirla</th>
+<th scope="col">Mensualidades de la pensión</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Menos de 54 años</th>
+<td>84</td>
+</tr>
+<tr>
+<th scope="row">54 años</th>
+<td>72</td>
+</tr>
+<tr>
+<th scope="row">55 años</th>
+<td>60</td>
+</tr>
+<tr>
+<th scope="row">56 años</th>
+<td>48</td>
+</tr>
+<tr>
+<th scope="row">57 años</th>
+<td>36</td>
+</tr>
+<tr>
+<th scope="row">58 años</th>
+<td>24</td>
+</tr>
+<tr>
+<th scope="row">59 años</th>
+<td>12</td>
+</tr>
+</tbody></table>
+</div>
+<p>Hay que pedirla en los <strong>tres años</strong> siguientes a la resolución, que se presuma que las lesiones no van a cambiar y acreditar que trabajas o que invertirás el dinero en una actividad por cuenta propia. <strong>A los 60 años vuelves a cobrar la pensión</strong>, revalorizada. Una vez concedida, no se puede deshacer.</p>
+<h2 id="impuestos">Impuestos</h2>
+<p>La pensión de incapacidad total <strong>sí tributa en el IRPF</strong> (a diferencia de la absoluta), pero Hacienda te considera persona con discapacidad de al menos el 33 %, lo que te da derecho a un <strong>mínimo por discapacidad de 3.000 euros</strong> en la declaración (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a60" rel="noopener">artículo 60 de la Ley del IRPF</a>).</p>
+<!-- calculadora-web:incapacidad -->
+
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-se-cobra-con-una-incapacidad-permanente-total">¿Cuánto se cobra con una incapacidad permanente total?</h3>
+<p>El 55 % de tu base reguladora en 14 pagas, y el 75 % desde los 55 años si no trabajas. Con una base de 1.600 euros, 880 euros al mes (1.200 con la cualificada).</p>
+<h3 id="puedo-trabajar-con-una-incapacidad-permanente-total">¿Puedo trabajar con una incapacidad permanente total?</h3>
+<p>Sí, en otra profesión o en otro puesto de tu empresa cuyas funciones no sean las que dieron lugar a la incapacidad. La pensión y el sueldo se cobran a la vez; solo se suspende el 20 % extra de la cualificada.</p>
+<h3 id="que-es-la-incapacidad-total-cualificada">¿Qué es la incapacidad total cualificada?</h3>
+<p>Un aumento del 20 % de la base reguladora para quien tiene 55 años o más y no trabaja: la pensión pasa del 55 % al 75 %. Se suspende mientras trabajes.</p>
+<h3 id="me-pueden-despedir-por-la-incapacidad-total">¿Me pueden despedir por la incapacidad total?</h3>
+<p>No de forma automática desde mayo de 2025. Si comunicas en 10 días que quieres seguir, la empresa tiene tres meses para adaptar tu puesto o cambiarte a otro compatible. Solo puede extinguir el contrato si no es posible o si rechazas un cambio adecuado.</p>
+<h3 id="la-incapacidad-total-paga-irpf">¿La incapacidad total paga IRPF?</h3>
+<p>Sí, a diferencia de la absoluta y la gran incapacidad. Pero se te considera persona con discapacidad de al menos el 33 %, con un mínimo por discapacidad de 3.000 euros.</p>
+<h3 id="que-pasa-con-la-incapacidad-total-al-llegar-a-la-jubilacion">¿Qué pasa con la incapacidad total al llegar a la jubilación?</h3>
+<p>A los 67 años la pensión pasa a llamarse de jubilación, con la misma cuantía. Si sigues trabajando en otra profesión, al jubilarte podrás tener tu propia pensión de jubilación por ese trabajo.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 195 a 198, 200, 282 y disposición transitoria 26.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972 (total cualificada y base de accidente no laboral)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-1210" rel="noopener">Orden de 31 de julio de 1972 (indemnización sustitutiva)</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, cuantías mínimas para 2026</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567" rel="noopener">Ley 2/2025, sobre la extinción del contrato por incapacidad permanente</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a60" rel="noopener">Ley del IRPF, artículo 60</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Qué te correspondería a ti? Calcúlalo con la calculadora de incapacidad permanente.</li>
+<li>¿No puedes trabajar en nada? Compara con la incapacidad permanente absoluta.</li>
+<li>¿Todos los grados de un vistazo? Mira los <a href="/incapacidad/grados-incapacidad/">grados de incapacidad permanente</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y calcula la pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
+    <wp:post_id>9010</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[incapacidad-total]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="incapacidad"><![CDATA[Incapacidad]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad permanente total 2026: cuánto cobras y requisitos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[incapacidad permanente total]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad permanente total 2026: cuánto cobras y requisitos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[incapacidad permanente total]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Jubilación con 15 años cotizados: cuánto se cobra y ejemplos]]></title>
     <link>https://jubilometro.com/jubilacion/15-anos-cotizados/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -2328,7 +2738,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2464,7 +2874,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2599,7 +3009,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2780,7 +3190,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2936,7 +3346,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3124,7 +3534,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3283,7 +3693,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3505,7 +3915,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3660,7 +4070,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3758,7 +4168,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3928,7 +4338,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4090,7 +4500,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4220,7 +4630,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4869,7 +5279,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4999,7 +5409,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5177,7 +5587,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5311,7 +5721,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5435,7 +5845,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5552,7 +5962,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5684,7 +6094,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5784,7 +6194,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5973,7 +6383,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

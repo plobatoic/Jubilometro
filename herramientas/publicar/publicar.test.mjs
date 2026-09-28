@@ -17,6 +17,11 @@ test('las URL son únicas y no llevan año', () => {
   for (const u of urls) assert.doesNotMatch(u, /20\d\d/, u);
 });
 
+test('el slug de cada artículo es único (WordPress no repite slugs entre categorías)', () => {
+  const slugs = articulos.filter((a) => !NO_SE_SUBEN.includes(a.datos.url)).map((a) => a.datos.url.split('/').filter(Boolean).pop());
+  assert.equal(new Set(slugs).size, slugs.length);
+});
+
 test('los enlaces a páginas que no existen salen como texto', () => {
   const a = porUrl('/jubilacion/faltan-anos-cotizados/');
   const html = cuerpoHtml(a, new Set([...urls].filter((u) => u !== '/ayudas/pension-no-contributiva/')));

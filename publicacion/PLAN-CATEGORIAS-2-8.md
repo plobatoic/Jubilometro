@@ -47,8 +47,8 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | |
 | extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | |
 | extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | |
-| 45 | Grados de incapacidad permanente | /incapacidad/grados/ | | F1 | |
-| 46 | Incapacidad permanente total | /incapacidad/incapacidad-total/ | incapacidad-total | F1 | |
+| 45 | Grados de incapacidad permanente | /incapacidad/grados-incapacidad/ | | F1 | programado 12/10 (la URL /incapacidad/grados/ no es posible: el slug «grados» es de la plantilla de dependencia) |
+| 46 | Incapacidad permanente total | /incapacidad/incapacidad-total/ | incapacidad-total | F1 | programado 13/10 |
 | 47 | Incapacidad permanente absoluta | /incapacidad/incapacidad-absoluta/ | incapacidad-absoluta | F2 | |
 | 48 | Enfermedades y tribunal médico | /incapacidad/enfermedades/ | | F2 | |
 | 49 | Cómo solicitar la incapacidad permanente | /incapacidad/solicitar/ | | F2 | |

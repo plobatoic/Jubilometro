@@ -102,10 +102,16 @@ for (const a of articulos) {
   const d = a.datos;
   const slug = d.url.split('/').filter(Boolean).pop();
   const entrada = (await buscarEntrada(slug)) ?? (PLANTILLAS[d.url] ? await buscarEntrada(PLANTILLAS[d.url]) : undefined);
+  // En WordPress el slug es único para todas las entradas: si ya lo usa una entrada de otra
+  // categoría (por ejemplo, la plantilla «grados» de Dependencia), no se sobrescribe.
+  const idCategoria = idsCategoria[CATEGORIAS[d.categoria].slug];
+  if (entrada && !entrada.categories.includes(idCategoria)) {
+    throw new Error(`${d.url}: el slug «${entrada.slug}» ya es de la entrada ${entrada.id}, de otra categoría`);
+  }
   const fechaEnlaces = d.publicacion && d.publicacion > hoy ? d.publicacion : hoy;
   const campos = {
     title: d.h1, slug, content: cuerpoWeb(a, urlsDeLaWeb(todos, fechaEnlaces), medios), excerpt: d.meta_descripcion,
-    categories: [idsCategoria[CATEGORIAS[d.categoria].slug]], comment_status: 'closed', ping_status: 'closed',
+    categories: [idCategoria], comment_status: 'closed', ping_status: 'closed',
   };
   // Programación: fecha futura -> «future» a las 8:00; fecha pasada -> publicado. Una entrada ya
   // publicada no se toca.
