@@ -607,6 +607,151 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Base reguladora de la pensión de jubilación: qué es, qué bases cuentan y cómo calcular la tuya]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/base-reguladora/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La base reguladora es la <strong>media de tus bases de cotización</strong> de los últimos años, repartida en 14 pagas. A ella se le aplica el porcentaje por años cotizados para obtener tu pensión.</p>
+<p>En 2026 se calcula de dos formas y se aplica la más favorable: la clásica (<strong>los últimos 300 meses divididos entre 350</strong>) y la nueva (los últimos <strong>304 meses descartando los 2 peores</strong>, que llegará a 348 meses descartando 24 en 2037). Las bases de los dos últimos años cuentan tal cual; las anteriores se <strong>actualizan con el IPC</strong>, y los meses sin cotizar se rellenan con la base mínima.</p>
+</aside>
+<h2 id="que-es-una-base-de-cotizacion">Qué es una base de cotización</h2>
+<p>Es la cantidad por la que cotizas cada mes a la Seguridad Social. En un trabajo por cuenta ajena equivale, más o menos, a tu <strong>sueldo bruto mensual más la parte proporcional de las pagas extra</strong>, con dos límites en 2026 (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026</a>):</p>
+<ul>
+<li><strong>Base mínima</strong>: 1.424,40 euros al mes en la mayoría de categorías (más alta en los grupos de titulados).</li>
+<li><strong>Base máxima</strong>: 5.101,20 euros al mes. Lo que ganes por encima no cotiza ni cuenta para la pensión.</li>
+</ul>
+<p>Los autónomos cotizan por la base que eligen dentro de los límites de su tramo de rendimientos.</p>
+<h2 id="como-se-calcula-la-base-reguladora">Cómo se calcula la base reguladora</h2>
+<p>La fórmula está en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209" rel="noopener">artículo 209 de la Ley General de la Seguridad Social</a>:</p>
+<ol>
+<li><strong>Se toman las bases del periodo de cálculo</strong>, empezando en el mes anterior al de tu jubilación.</li>
+<li><strong>Las de los últimos 24 meses cuentan por su importe nominal.</strong></li>
+<li><strong>Las anteriores se actualizan con el IPC</strong>, desde el mes de cada base hasta el mes anterior a esos 24 últimos. Así, lo que cotizaste hace 20 años no pierde valor por la inflación.</li>
+<li><strong>Los meses sin cotizar se rellenan</strong> (integración de lagunas): los primeros 48 con la base mínima de cada mes y el resto con el 50 %. Las mujeres (y algunos hombres) tienen reglas más favorables; lo explicamos en lagunas de cotización.</li>
+<li><strong>Se suman y se dividen</strong> entre el divisor, que reparte la media en 14 pagas.</li>
+</ol>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Periodo y divisor de la base reguladora según el sistema y el año</caption>
+<thead>
+<tr>
+<th scope="col">Sistema</th>
+<th scope="col">Meses que se miran</th>
+<th scope="col">Bases que cuentan</th>
+<th scope="col">Divisor</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Clásico (hasta 2040)</th>
+<td>300</td>
+<td>Todas</td>
+<td>350</td>
+</tr>
+<tr>
+<th scope="row">Nuevo en 2026</th>
+<td>304</td>
+<td>Las 302 mejores</td>
+<td>352,33</td>
+</tr>
+<tr>
+<th scope="row">Nuevo en 2027</th>
+<td>308</td>
+<td>Las 304 mejores</td>
+<td>354,67</td>
+</tr>
+<tr>
+<th scope="row">Nuevo desde 2037</th>
+<td>348</td>
+<td>Las 324 mejores</td>
+<td>378</td>
+</tr>
+</tbody></table>
+</div>
+<p>La Seguridad Social calcula las dos y <strong>aplica la más alta de oficio</strong> hasta 2040. El calendario completo y ejemplos de quién gana con cada sistema están en <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</p>
+<h2 id="lo-que-no-cuenta-o-tiene-limite">Lo que no cuenta o tiene límite</h2>
+<ul>
+<li><strong>Las subidas de sueldo anormales de los dos últimos años</strong>: si tu base sube en los dos años anteriores a jubilarte por encima del incremento medio de tu convenio, ese exceso <strong>no se computa</strong>, salvo que venga de la antigüedad, un ascenso reglamentario u otro concepto del convenio aplicado con carácter general (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209" rel="noopener">artículo 209.2 a 209.4</a>). Tampoco las subidas pactadas en función de tener una edad próxima a la jubilación.</li>
+<li><strong>Varios empleos a la vez (pluriempleo)</strong>: se suman las bases de todas las empresas, pero <strong>sin pasar de la base máxima</strong> de cada mes.</li>
+<li><strong>Lo que ganes por encima de la base máxima</strong>, como se ha dicho, no cuenta.</li>
+</ul>
+<h2 id="las-bases-cuando-estas-en-paro">Las bases cuando estás en paro</h2>
+<ul>
+<li><strong>Con la prestación contributiva por desempleo</strong>, el SEPE sigue cotizando por ti a la Seguridad Social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a273" rel="noopener">artículo 273</a>), así que esos meses no son lagunas.</li>
+<li><strong>Con el subsidio para mayores de 52 años</strong>, el SEPE cotiza para la jubilación por el <strong>125 % de la base mínima</strong>: 1.780,50 euros al mes en 2026 (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a280" rel="noopener">artículo 280</a>). Esas bases cuentan para la base reguladora. Lo explicamos en el <a href="/jubilacion/subsidio-mayores-52/">subsidio para mayores de 52 años</a>.</li>
+</ul>
+<h2 id="ejemplo-sencillo">Ejemplo sencillo</h2>
+<p><strong>Rosa se jubila en 2026</strong> y ha cotizado de forma estable. Con sus bases actualizadas, los últimos 300 meses suman 630.000 euros (una media de 2.100 euros al mes):</p>
+<ul>
+<li><strong>Sistema clásico</strong>: 630.000 ÷ 350 = <strong>1.800 euros</strong> de base reguladora.</li>
+<li><strong>Sistema nuevo</strong>: como cotizó siempre parecido, el resultado es prácticamente el mismo. Se le aplica el que dé más.</li>
+<li>Con 38 años cotizados le corresponde el 100 %: su pensión es de <strong>1.800 euros al mes</strong> en 14 pagas.</li>
+</ul>
+<p>Si a Rosa le faltaran años, el porcentaje bajaría: lo ves en la tabla de <a href="/cuanto-cobrare/porcentaje-anos-cotizados/">porcentaje por años cotizados</a>.</p>
+<h2 id="como-consultar-tus-bases-de-cotizacion">Cómo consultar tus bases de cotización</h2>
+<ol>
+<li>Entra en <strong>Tu Seguridad Social</strong> o en la aplicación <strong>Importass</strong> con Cl@ve, certificado o DNI electrónico.</li>
+<li>Descarga el <strong>informe de bases de cotización</strong>: muestra la base de cada mes de los últimos años.</li>
+<li>Revisa que <strong>no falten meses</strong> trabajados y que las bases cuadren con tus nóminas: un error ahí reduce la base reguladora. Si encuentras uno, pide la corrección a la Tesorería General de la Seguridad Social con tus nóminas o contratos.</li>
+<li>Calcula tu pensión con esas bases en la calculadora o en el simulador de Tu Seguridad Social.</li>
+</ol>
+<!-- calculadora-web:pension -->
+
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-es-la-base-reguladora-de-la-jubilacion">¿Qué es la base reguladora de la jubilación?</h3>
+<p>La media de tus bases de cotización de los últimos años, actualizada con el IPC y repartida en 14 pagas. Es la cantidad a la que se aplica el porcentaje por años cotizados para calcular tu pensión.</p>
+<h3 id="cuantos-anos-cuentan-para-la-base-reguladora-en-2026">¿Cuántos años cuentan para la base reguladora en 2026?</h3>
+<p>Con el sistema clásico, los últimos 25 años (300 meses). Con el nuevo, los últimos 304 meses descartando los 2 peores. Se aplica el más favorable.</p>
+<h3 id="por-que-se-divide-entre-350-y-no-entre-300">¿Por qué se divide entre 350 y no entre 300?</h3>
+<p>Porque la pensión se cobra en 14 pagas y las bases de cotización ya incluyen la parte de las pagas extra. Dividir 300 meses entre 350 reparte la media de 12 meses en 14 pagas.</p>
+<h3 id="cuenta-el-paro-para-la-base-reguladora">¿Cuenta el paro para la base reguladora?</h3>
+<p>Sí. Con la prestación contributiva, el SEPE cotiza por ti. Con el subsidio para mayores de 52 años, cotiza por el 125 % de la base mínima, y esas bases cuentan para la base reguladora.</p>
+<h3 id="que-pasa-si-me-suben-mucho-el-sueldo-antes-de-jubilarme">¿Qué pasa si me suben mucho el sueldo antes de jubilarme?</h3>
+<p>Si la subida de los dos últimos años supera la media de tu convenio y no se debe a la antigüedad, un ascenso reglamentario u otro concepto general del convenio, el exceso no cuenta para la base reguladora.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 209, 273 y 280 y disposiciones transitorias 4.ª y 40.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, bases de cotización de 2026</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Qué sistema te favorece? Mira <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
+<li>¿Tienes meses sin cotizar? Lee cómo se rellenan las lagunas de cotización.</li>
+<li>¿Cuánto es lo máximo? Consulta la <a href="/cuanto-cobrare/pension-maxima/">pensión máxima de 2026</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[La base reguladora es la media de tus bases de cotización de los últimos 25 a 29 años, con IPC y lagunas. Qué cuenta, qué no y cómo consultar tus bases.]]></excerpt:encoded>
+    <wp:post_id>9002</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[base-reguladora]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Base reguladora de la jubilación: qué es y cómo se calcula]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La base reguladora es la media de tus bases de cotización de los últimos 25 a 29 años, con IPC y lagunas. Qué cuenta, qué no y cómo consultar tus bases.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[base reguladora jubilación]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Base reguladora de la jubilación: qué es y cómo se calcula]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La base reguladora es la media de tus bases de cotización de los últimos 25 a 29 años, con IPC y lagunas. Qué cuenta, qué no y cómo consultar tus bases.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[base reguladora jubilación]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Calendario de pago de las pensiones: qué día se cobra cada mes, las pagas extra y el primer pago]]></title>
     <link>https://jubilometro.com/cuanto-cobrare/calendario-pago-pensiones/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -779,7 +924,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social paga la pensión entre el día 1 y el 4 del mes siguiente, pero los bancos suelen adelantarla al 22-26. Calendario 2026-2027 y pagas extra.]]></excerpt:encoded>
-    <wp:post_id>9002</wp:post_id>
+    <wp:post_id>9003</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1044,7 +1189,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2026 la base reguladora se calcula de dos formas y se aplica la que más te favorece. Los tres pasos del cálculo, con tablas y ejemplos con cifras.]]></excerpt:encoded>
-    <wp:post_id>9003</wp:post_id>
+    <wp:post_id>9004</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1168,7 +1313,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></excerpt:encoded>
-    <wp:post_id>9004</wp:post_id>
+    <wp:post_id>9005</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1187,6 +1332,143 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Complemento a mínimos 2026: requisitos, límites y cómo pedirlo]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[complemento a mínimos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Complemento de brecha de género en 2026: 36,90 euros por hijo, quién lo cobra y cómo se pide]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/complemento-brecha-genero/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>El complemento para la reducción de la brecha de género es una cantidad fija que se suma a la pensión de <strong>jubilación, incapacidad permanente o viudedad</strong> de quien haya tenido hijos: en 2026, <strong>36,90 euros al mes por cada hijo</strong>, con un <strong>máximo de cuatro</strong> (147,60 euros), en 14 pagas.</p>
+<p>Lo cobran <strong>las madres</strong> con carácter general. <strong>Los padres</strong> solo si cumplen requisitos concretos (por ejemplo, que su carrera se viera afectada por el nacimiento) y su pensión es menor que la de la madre. Cada hijo da derecho a un solo complemento.</p>
+</aside>
+<h2 id="cuanto-es">Cuánto es</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Importe del complemento de brecha de género en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Hijos</th>
+<th scope="col">Al mes (14 pagas)</th>
+<th scope="col">Al año</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">1</th>
+<td>36,90 €</td>
+<td>516,60 €</td>
+</tr>
+<tr>
+<th scope="row">2</th>
+<td>73,80 €</td>
+<td>1.033,20 €</td>
+</tr>
+<tr>
+<th scope="row">3</th>
+<td>110,70 €</td>
+<td>1.549,80 €</td>
+</tr>
+<tr>
+<th scope="row">4 o más</th>
+<td>147,60 €</td>
+<td>2.066,40 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>El importe de 2026 lo fija el <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">artículo 12 del Real Decreto 241/2026</a> y <strong>sube cada año con la revalorización</strong> de las pensiones. El límite de cuatro hijos está en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a60" rel="noopener">artículo 60 de la Ley General de la Seguridad Social</a>.</p>
+<p>Además, el complemento:</p>
+<ul>
+<li><strong>No cuenta para la pensión máxima</strong>: se cobra aunque tu pensión ya esté en el tope.</li>
+<li><strong>No cuenta como ingreso para el complemento a mínimos</strong>: si te corresponde la pensión mínima, este complemento se suma encima.</li>
+<li><strong>Se cobra en 14 pagas</strong>, junto con la pensión.</li>
+</ul>
+<h2 id="quien-tiene-derecho">Quién tiene derecho</h2>
+<h3 id="las-madres">Las madres</h3>
+<p>Tienen derecho las <strong>mujeres que hayan tenido uno o más hijos</strong> (biológicos o adoptados) y cobren una pensión contributiva de <strong>jubilación, incapacidad permanente o viudedad</strong> causada desde febrero de 2021. Solo cuentan los hijos nacidos con vida o adoptados <strong>antes</strong> de causar la pensión.</p>
+<h3 id="los-padres">Los padres</h3>
+<p>Un hombre solo puede cobrarlo si cumple <strong>una</strong> de estas condiciones:</p>
+<ol>
+<li><strong>Cobra una pensión de viudedad</strong> por el fallecimiento de la otra progenitora y alguno de los hijos tiene derecho a pensión de orfandad.</li>
+<li><strong>Cobra una jubilación o incapacidad permanente</strong> y su <strong>carrera se vio afectada por el nacimiento o la adopción</strong>:<ul>
+<li>Hijos nacidos hasta 1994: más de <strong>120 días sin cotizar</strong> entre los nueve meses anteriores al nacimiento y los tres años posteriores.</li>
+<li>Hijos nacidos desde 1995: que sus bases de cotización de los <strong>24 meses siguientes</strong> al nacimiento sean <strong>más de un 15 % inferiores</strong> a las de los 24 meses anteriores.</li>
+</ul>
+</li>
+</ol>
+<p>En el segundo caso, además, la suma de sus pensiones tiene que ser <strong>inferior a la de la madre</strong>. Si se reconoce al segundo progenitor, el primero lo pierde (y se le da audiencia antes).</p>
+<h3 id="quien-no-lo-cobra">Quién no lo cobra</h3>
+<ul>
+<li>Quien se jubila <strong>parcialmente</strong> (sí al pasar a la jubilación plena).</li>
+<li>Quien fue <strong>privado de la patria potestad</strong> por incumplir sus deberes o condenado por <strong>violencia contra la mujer</strong> ejercida sobre la madre o contra los hijos.</li>
+</ul>
+<h2 id="si-te-jubilaste-entre-2016-y-2021">Si te jubilaste entre 2016 y 2021</h2>
+<p>Las pensiones causadas entre el 1 de enero de 2016 y la entrada en vigor del nuevo complemento en febrero de 2021 tenían el antiguo <strong>complemento por maternidad</strong>, un porcentaje de la pensión. Quien lo cobra <strong>lo mantiene</strong>, pero es incompatible con el nuevo complemento si luego se le reconoce otra pensión: en ese caso hay que <strong>elegir uno de los dos</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 33.ª</a>).</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Carmen se jubila en 2026 con 1.400 euros de pensión y tres hijos.</strong> Suma 3 × 36,90 = <strong>110,70 euros al mes</strong>: cobra 1.510,70 euros en 14 pagas.</p>
+<p><strong>Pilar cobra la pensión mínima de viudedad de 65 años o más (936,20 euros) y tiene dos hijos.</strong> El complemento no cuenta como ingreso, así que mantiene la mínima y además cobra 73,80 euros: <strong>1.010 euros al mes</strong>.</p>
+<p><strong>Andrés se jubila en 2026 con dos hijos nacidos en 1998 y 2001.</strong> Tras el nacimiento de su primer hijo redujo su jornada y sus bases de los 24 meses siguientes fueron un 30 % menores que las anteriores. Como su pensión es menor que la de su mujer, puede pedir el complemento por ese hijo: <strong>36,90 euros al mes</strong>. Por el segundo, si su carrera no se vio afectada, lo mantiene la madre.</p>
+<h2 id="como-se-pide">Cómo se pide</h2>
+<ul>
+<li><strong>Las mujeres</strong>: se pide junto con la pensión, indicando los hijos en la solicitud. Si ya cobras una pensión con derecho al complemento y no lo tienes, puedes solicitarlo al INSS.</li>
+<li><strong>Los hombres</strong>: tienen que <strong>solicitarlo</strong> acreditando los requisitos; el INSS da audiencia a la madre si ya lo cobraba.</li>
+<li>Si se reconoce al segundo progenitor, los efectos empiezan el mes siguiente a la resolución si se dicta en seis meses; si tarda más, desde el séptimo mes.</li>
+</ul>
+<h2 id="hasta-cuando-existira">¿Hasta cuándo existirá?</h2>
+<p>La ley lo mantiene <strong>mientras la brecha de género de las pensiones de jubilación causadas cada año sea superior al 5 %</strong>. Cuando baje de ese nivel, el Gobierno deberá proponer su derogación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición adicional 37.ª</a>).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-es-el-complemento-de-brecha-de-genero-en-2026">¿Cuánto es el complemento de brecha de género en 2026?</h3>
+<p>36,90 euros al mes por hijo, con un máximo de cuatro hijos (147,60 euros al mes), en 14 pagas. Sube cada año con la revalorización de las pensiones.</p>
+<h3 id="lo-pueden-cobrar-los-hombres">¿Lo pueden cobrar los hombres?</h3>
+<p>Solo si cobran una viudedad por la muerte de la madre con hijos con derecho a orfandad, o si su carrera se vio afectada por el nacimiento de los hijos (más de 120 días sin cotizar o una caída de más del 15 % en sus bases) y su pensión es menor que la de la madre.</p>
+<h3 id="se-cobra-con-la-jubilacion-anticipada">¿Se cobra con la jubilación anticipada?</h3>
+<p>Sí, la ley solo excluye la jubilación parcial. Con la jubilación anticipada, la incapacidad permanente y la viudedad se cobra si se cumplen los requisitos.</p>
+<h3 id="el-complemento-de-brecha-de-genero-cuenta-para-la-pension-ma">¿El complemento de brecha de género cuenta para la pensión máxima?</h3>
+<p>No. Se cobra aunque la pensión esté en la máxima, y tampoco cuenta como ingreso para el complemento a mínimos.</p>
+<h3 id="que-pasa-si-ya-cobro-el-complemento-por-maternidad">¿Qué pasa si ya cobro el complemento por maternidad?</h3>
+<p>Lo mantienes. Si te reconocen una nueva pensión con derecho al complemento de brecha de género, tienes que elegir entre uno y otro.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículo 60, disposición adicional 37.ª y disposición transitoria 33.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, artículo 12 (importe de 2026)</a> (BOE).</li>
+<li><a href="https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx" rel="noopener">La Moncloa: revalorización de las pensiones en 2026</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto será tu pensión? Mira <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
+<li>¿Te quedas cerca de la mínima? Lee el <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
+<li>¿Cuidaste de tus hijos sin cotizar? Descubre cómo se rellenan las lagunas de cotización.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[El complemento de brecha de género suma 36,90 € al mes por hijo (hasta 4) a la jubilación, incapacidad o viudedad. Quién lo cobra, también padres, y ejemplos.]]></excerpt:encoded>
+    <wp:post_id>9006</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[complemento-brecha-genero]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Complemento de brecha de género 2026: 36,90 € por hijo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El complemento de brecha de género suma 36,90 € al mes por hijo (hasta 4) a la jubilación, incapacidad o viudedad. Quién lo cobra, también padres, y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[complemento brecha de género]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Complemento de brecha de género 2026: 36,90 € por hijo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El complemento de brecha de género suma 36,90 € al mes por hijo (hasta 4) a la jubilación, incapacidad o viudedad. Quién lo cobra, también padres, y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[complemento brecha de género]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -1303,7 +1585,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></excerpt:encoded>
-    <wp:post_id>9005</wp:post_id>
+    <wp:post_id>9007</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1386,7 +1668,7 @@
 <li><strong>Si ya cobrabas una pensión y en 2026 se te reconoce otra</strong>, la nueva se limita a la diferencia entre tu pensión anterior (ya revalorizada) y 3.359,60 euros.</li>
 <li><strong>Si una de ellas se extingue</strong>, la otra se recalcula a lo que te habría correspondido sin la reducción.</li>
 </ul>
-<p><strong>Ejemplo: Mercedes</strong> cobra una pensión de jubilación de 2.600 euros al mes y en 2026 enviuda con derecho a una pensión de viudedad de 1.200 euros. Como la suma (3.800 euros) supera la máxima, la viudedad se le reconoce por <strong>759,60 euros</strong>: 3.359,60 − 2.600. En viudedad y jubilación a la vez explicamos todas las combinaciones.</p>
+<p><strong>Ejemplo: Mercedes</strong> cobra una pensión de jubilación de 2.600 euros al mes y en 2026 enviuda con derecho a una pensión de viudedad de 1.200 euros. Como la suma (3.800 euros) supera la máxima, la viudedad se le reconoce por <strong>759,60 euros</strong>: 3.359,60 − 2.600. En <a href="/viudedad/viudedad-y-jubilacion/">viudedad y jubilación a la vez</a> explicamos todas las combinaciones.</p>
 <p>Si la pensión nueva está exenta de IRPF (como la de incapacidad permanente absoluta o gran incapacidad), puedes pedir que se reduzca la pensión anterior en lugar de la nueva, lo que suele salir mejor fiscalmente.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="cual-es-la-pension-maxima-de-jubilacion-en-2026">¿Cuál es la pensión máxima de jubilación en 2026?</h3>
@@ -1422,7 +1704,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></excerpt:encoded>
-    <wp:post_id>9006</wp:post_id>
+    <wp:post_id>9008</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1592,7 +1874,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9007</wp:post_id>
+    <wp:post_id>9009</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1843,7 +2125,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9008</wp:post_id>
+    <wp:post_id>9010</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2110,7 +2392,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2336,7 +2618,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2508,7 +2790,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2758,7 +3040,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2927,7 +3209,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3099,7 +3381,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3439,7 +3721,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3657,7 +3939,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3796,7 +4078,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3987,7 +4269,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4127,7 +4409,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4263,7 +4545,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4398,7 +4680,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4579,7 +4861,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4735,7 +5017,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4923,7 +5205,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5082,7 +5364,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5304,7 +5586,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5459,7 +5741,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5557,7 +5839,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5727,7 +6009,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5889,7 +6171,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6019,7 +6301,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6668,7 +6950,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6798,7 +7080,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6976,7 +7258,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7110,7 +7392,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9037</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7234,7 +7516,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9036</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7351,7 +7633,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9037</wp:post_id>
+    <wp:post_id>9039</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7483,7 +7765,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9038</wp:post_id>
+    <wp:post_id>9040</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7583,7 +7865,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9039</wp:post_id>
+    <wp:post_id>9041</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7775,7 +8057,7 @@
 <ul>
 <li>¿Tienes derecho? Repasa los <a href="/viudedad/requisitos/">requisitos de la pensión de viudedad</a>.</li>
 <li>¿Cuánto te quedaría? Calcúlalo con la calculadora de pensión de viudedad.</li>
-<li>¿Ya cobras tu jubilación? Mira la viudedad y la jubilación a la vez.</li>
+<li>¿Ya cobras tu jubilación? Mira la <a href="/viudedad/viudedad-y-jubilacion/">viudedad y la jubilación a la vez</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -7784,7 +8066,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9040</wp:post_id>
+    <wp:post_id>9042</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7963,7 +8245,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Cuánto te quedará? Calcula tu pensión de viudedad.</li>
-<li>¿Ya cobras tu jubilación? Mira cómo funciona la viudedad y la jubilación a la vez.</li>
+<li>¿Ya cobras tu jubilación? Mira cómo funciona la <a href="/viudedad/viudedad-y-jubilacion/">viudedad y la jubilación a la vez</a>.</li>
 <li>¿Cuál es el mínimo garantizado? Consulta la <a href="/cuanto-cobrare/pension-minima/">pensión mínima en 2026</a>.</li>
 </ul>
 </nav>
@@ -7973,7 +8255,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9041</wp:post_id>
+    <wp:post_id>9043</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7992,6 +8274,123 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Requisitos de la pensión de viudedad en 2026: quién la cobra]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[requisitos pensión de viudedad]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Pensión de viudedad y de jubilación a la vez: se pueden cobrar las dos, con qué límite y qué cambia al jubilarte]]></title>
+    <link>https://jubilometro.com/viudedad/viudedad-y-jubilacion/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p><strong>Sí, puedes cobrar la pensión de viudedad y tu propia jubilación a la vez</strong>, cada una con su cálculo. El único límite es que <strong>la suma de todas tus pensiones públicas no puede superar la pensión máxima</strong>: 3.359,60 euros al mes en 2026 (47.034,40 al año).</p>
+<p>Al jubilarte, la viudedad <strong>no se reduce</strong>, salvo dos casos: si cobrabas el <strong>60 %</strong> (que exige no tener otra pensión pública) vuelves al <strong>52 %</strong>, y si cobrabas <strong>complemento a mínimos</strong>, se recalcula con la suma de las dos pensiones.</p>
+</aside>
+<h2 id="son-compatibles">Son compatibles</h2>
+<p>La pensión de viudedad es compatible con cualquier sueldo y con otras pensiones, incluida tu propia jubilación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a223" rel="noopener">artículo 223 de la Ley General de la Seguridad Social</a>). Las dos se calculan por separado: la jubilación con tu carrera de cotización y la viudedad con la base reguladora de la persona fallecida.</p>
+<p>Si las dos las paga la Seguridad Social, en la declaración de la renta cuentan como <strong>un único pagador</strong>.</p>
+<h2 id="el-limite-la-pension-maxima-para-la-suma">El límite: la pensión máxima para la suma</h2>
+<p>La suma de todas tus pensiones públicas (Seguridad Social, Clases Pasivas y otras) no puede superar <strong>3.359,60 euros al mes</strong> en 2026 (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">artículo 3 del Real Decreto 241/2026</a>):</p>
+<ul>
+<li><strong>Si ya cobrabas una pensión y en 2026 se te reconoce la otra</strong>, la nueva se limita a la diferencia entre la que ya cobras (revalorizada) y 3.359,60 euros.</li>
+<li><strong>Si las dos se causan a la vez</strong>, se reducen las dos en proporción.</li>
+<li><strong>Si una se extingue</strong>, la otra se recalcula a lo que le habría correspondido sin el límite.</li>
+</ul>
+<p>Lo explicamos con más detalle en <a href="/cuanto-cobrare/pension-maxima/">pensión máxima de jubilación</a>.</p>
+<h2 id="que-cambia-en-la-viudedad-cuando-te-jubilas">Qué cambia en la viudedad cuando te jubilas</h2>
+<h3 id="si-cobrabas-el-60">Si cobrabas el 60 %</h3>
+<p>El porcentaje del <strong>60 %</strong> es para viudos y viudas de <strong>65 años o más que no tienen derecho a otra pensión pública</strong> y no trabajan (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-10397" rel="noopener">Real Decreto 900/2018</a>). Al reconocerte tu jubilación dejas de cumplirlo, y la viudedad <strong>vuelve al 52 %</strong> desde el mes siguiente.</p>
+<p><strong>Ejemplo:</strong> Rosa cobraba 900 euros de viudedad (60 % de una base de 1.500). Al reconocerle una pequeña jubilación, la viudedad pasa a 780 euros (52 %). Le compensa pedir la jubilación si su pensión propia supera esos 120 euros de pérdida, algo que ocurre casi siempre.</p>
+<h3 id="si-cobrabas-complemento-a-minimos">Si cobrabas complemento a mínimos</h3>
+<p>Con dos pensiones, el complemento a mínimos solo existe si <strong>la suma de las dos</strong> es menor que la <strong>mínima más alta</strong> de las dos, y completa hasta esa cifra (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">artículo 16 del Real Decreto 241/2026</a>). Es decir: <strong>no se completan las dos por separado</strong>.</p>
+<p><strong>Ejemplo:</strong> Rosario tiene 67 años, cobra 400 euros de viudedad y le reconocen 500 euros de jubilación. La suma, 900 euros, es menor que la mínima de 65 años o más sin cónyuge (936,20 euros). Si cumple el límite de ingresos, cobra un complemento de <strong>36,20 euros</strong> para llegar a 936,20 en total.</p>
+<h3 id="si-cobrabas-el-70">Si cobrabas el 70 %</h3>
+<p>El 70 % exige que la viudedad sea tu <strong>principal fuente de ingresos</strong> (al menos el 50 %) y que tus ingresos totales no pasen del límite. Con la jubilación sumada, es habitual dejar de cumplirlo y volver al 52 %. Los detalles están en <a href="/viudedad/cuantia/">cuantía de la pensión de viudedad</a>.</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Ejemplos de viudedad y jubilación a la vez en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Caso</th>
+<th scope="col">Jubilación</th>
+<th scope="col">Viudedad</th>
+<th scope="col">Total al mes</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Manuela: las dos por debajo del límite</th>
+<td>1.100 €</td>
+<td>900 €</td>
+<td>2.000 €</td>
+</tr>
+<tr>
+<th scope="row">Tomás: ya cobraba 2.800 € y enviuda en 2026 (viudedad teórica de 1.000 €)</th>
+<td>2.800 €</td>
+<td>559,60 €</td>
+<td>3.359,60 € (la máxima)</td>
+</tr>
+<tr>
+<th scope="row">Rosario: pensiones bajas con complemento a mínimos</th>
+<td>500 €</td>
+<td>400 € + 36,20 € de complemento</td>
+<td>936,20 €</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="se-puede-cobrar-la-viudedad-y-la-jubilacion-a-la-vez">¿Se puede cobrar la viudedad y la jubilación a la vez?</h3>
+<p>Sí. Las dos son compatibles y se cobran completas, siempre que la suma no supere la pensión máxima: 3.359,60 euros al mes en 2026.</p>
+<h3 id="me-quitan-la-viudedad-si-me-jubilo">¿Me quitan la viudedad si me jubilo?</h3>
+<p>No. La viudedad se mantiene. Solo cambia si cobrabas el 60 % (vuelves al 52 %), el 70 % (si dejas de cumplir los requisitos) o el complemento a mínimos (se recalcula con la suma de las dos pensiones).</p>
+<h3 id="que-pasa-si-la-suma-de-las-dos-pensiones-supera-la-maxima">¿Qué pasa si la suma de las dos pensiones supera la máxima?</h3>
+<p>Se reduce la última pensión reconocida hasta que la suma quede en 3.359,60 euros al mes. Si las dos se reconocen a la vez, se reducen las dos en proporción.</p>
+<h3 id="cuanto-irpf-se-paga-por-la-viudedad-y-la-jubilacion">¿Cuánto IRPF se paga por la viudedad y la jubilación?</h3>
+<p>Las dos tributan como rendimientos del trabajo y se suman. Si las paga la Seguridad Social, es un único pagador y la retención se calcula con el total.</p>
+<h3 id="puedo-cobrar-la-pension-minima-de-las-dos">¿Puedo cobrar la pensión mínima de las dos?</h3>
+<p>No. Con dos pensiones, el complemento a mínimos solo completa la suma de ambas hasta la mínima más alta de las dos, si cumples el límite de ingresos.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, artículos 3 (límite de concurrencia) y 16 (mínimos en concurrencia)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-10397" rel="noopener">Real Decreto 900/2018 (porcentaje del 60 %)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social, artículo 223</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1966-21116" rel="noopener">Decreto 3158/1966, artículo 31 (porcentajes del 52 y el 70 %)</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto es tu viudedad? Mira la <a href="/viudedad/cuantia/">cuantía de la pensión de viudedad</a>.</li>
+<li>¿Cuánto será tu jubilación? Lee <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
+<li>¿Cuánto te queda limpio? Calcula tu pensión neta con la retención de IRPF.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
+    <wp:post_id>9044</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[viudedad-y-jubilacion]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="viudedad"><![CDATA[Viudedad]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Viudedad y jubilación a la vez: límites y cuánto se cobra]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[viudedad y jubilación compatible]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Viudedad y jubilación a la vez: límites y cuánto se cobra]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[viudedad y jubilación compatible]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
 </channel>

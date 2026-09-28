@@ -21,13 +21,13 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | # | Artículo | URL | Plantilla | Fase | Estado |
 |---|---|---|---|---|---|
 | 22 | Cómo se calcula la pensión de jubilación: el sistema dual | /cuanto-cobrare/como-se-calcula-la-pension/ | sistema-dual | F1 | programado 30/09 |
-| 23 | Base reguladora de jubilación | /cuanto-cobrare/base-reguladora/ | base-reguladora | F2 | |
+| 23 | Base reguladora de jubilación | /cuanto-cobrare/base-reguladora/ | base-reguladora | F2 | programado 27/10 |
 | 24 | Porcentaje de pensión según años cotizados | /cuanto-cobrare/porcentaje-anos-cotizados/ | porcentaje-anos-cotizados | F1 | programado 05/10 |
 | 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | |
 | 26 | Pensión máxima de jubilación 2026 | /cuanto-cobrare/pension-maxima/ | pension-maxima-minima | F1 | programado 01/10 |
 | 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | programado 02/10 |
 | 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | programado 23/10 |
-| 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | |
+| 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | programado 28/10 |
 | 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | |
 | 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | |
 | 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | |
@@ -39,7 +39,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 37b | Pensión de viudedad: cuantía (52, 60 y 70 %) | /viudedad/cuantia/ | cuantia | F1 | programado 20/10 |
 | 37c | Cómo solicitar la pensión de viudedad | /viudedad/solicitar-viudedad/ | solicitar-viudedad | F2 | |
 | 38 | Viudedad en parejas de hecho | /viudedad/pareja-de-hecho/ | pareja-de-hecho | F2 | |
-| 39 | Viudedad y jubilación a la vez | /viudedad/viudedad-y-jubilacion/ | | F2 | |
+| 39 | Viudedad y jubilación a la vez | /viudedad/viudedad-y-jubilacion/ | | F2 | programado 29/10 |
 | 40 | Viudedad si vuelves a casarte | /viudedad/nuevo-matrimonio/ | | F3 | |
 | 41 | Viudedad tras divorcio o separación | /viudedad/divorcio-separacion/ | divorcio-separacion | F3 | |
 | 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | |

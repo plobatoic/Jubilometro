@@ -3,6 +3,10 @@
     "id": 172,
     "estado": "future"
   },
+  "/cuanto-cobrare/base-reguladora/": {
+    "id": 148,
+    "estado": "future"
+  },
   "/cuanto-cobrare/calendario-pago-pensiones/": {
     "id": 155,
     "estado": "future"
@@ -13,6 +17,10 @@
   },
   "/cuanto-cobrare/complemento-a-minimos/": {
     "id": 152,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/complemento-brecha-genero/": {
+    "id": 153,
     "estado": "future"
   },
   "/cuanto-cobrare/pagas-extra/": {
@@ -161,6 +169,10 @@
   },
   "/viudedad/requisitos/": {
     "id": 156,
+    "estado": "future"
+  },
+  "/viudedad/viudedad-y-jubilacion/": {
+    "id": 417,
     "estado": "future"
   }
 }
