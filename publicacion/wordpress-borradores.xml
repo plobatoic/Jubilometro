@@ -17,10 +17,12 @@
   <wp:category><wp:term_id>100</wp:term_id><wp:category_nicename><![CDATA[ayudas]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Ayudas]]></wp:cat_name></wp:category>
   <wp:category><wp:term_id>101</wp:term_id><wp:category_nicename><![CDATA[calculadoras]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Calculadoras]]></wp:cat_name></wp:category>
   <wp:category><wp:term_id>102</wp:term_id><wp:category_nicename><![CDATA[cuanto-cobrare]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Cuánto cobraré]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>103</wp:term_id><wp:category_nicename><![CDATA[imserso]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[IMSERSO]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>104</wp:term_id><wp:category_nicename><![CDATA[incapacidad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Incapacidad]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>105</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>106</wp:term_id><wp:category_nicename><![CDATA[viudedad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Viudedad]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>103</wp:term_id><wp:category_nicename><![CDATA[dependencia]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Dependencia]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>104</wp:term_id><wp:category_nicename><![CDATA[dinero]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Dinero]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>105</wp:term_id><wp:category_nicename><![CDATA[imserso]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[IMSERSO]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>106</wp:term_id><wp:category_nicename><![CDATA[incapacidad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Incapacidad]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>107</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>108</wp:term_id><wp:category_nicename><![CDATA[viudedad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Viudedad]]></wp:cat_name></wp:category>
   <item>
     <title><![CDATA[Pensión no contributiva de jubilación en 2026: requisitos, cuánto se cobra y cómo pedirla]]></title>
     <link>https://jubilometro.com/ayudas/pension-no-contributiva/</link>
@@ -1871,6 +1873,576 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Grados de dependencia: cómo se puntúa el baremo y qué ayudas corresponden al grado I, II y III]]></title>
+    <link>https://jubilometro.com/dependencia/grados/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>El grado de dependencia se decide con un <strong>baremo oficial que puntúa de 0 a 100</strong> cuánta ayuda necesitas para las actividades básicas: comer, ir al baño, asearte, vestirte, moverte, cuidar tu salud o hacer las tareas de casa.</p>
+<ul>
+<li><strong>Menos de 25 puntos</strong>: sin grado.</li>
+<li><strong>Grado I (25 a 49)</strong>: dependencia moderada.</li>
+<li><strong>Grado II (50 a 74)</strong>: dependencia severa.</li>
+<li><strong>Grado III (75 a 100)</strong>: gran dependencia.</li>
+</ul>
+<p>A más grado, más horas de ayuda a domicilio y ayudas más altas: hasta <strong>747,25 euros al mes</strong> en el grado III.</p>
+</aside>
+<h2 id="que-significa-cada-grado">Qué significa cada grado</h2>
+<p>Los define el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a26" rel="noopener">artículo 26 de la Ley 39/2006</a>, y los puntos, el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174" rel="noopener">baremo del Real Decreto 174/2011</a>:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Grados de dependencia: definición y puntos del baremo</caption>
+<thead>
+<tr>
+<th scope="col">Grado</th>
+<th scope="col">Definición</th>
+<th scope="col">Puntos</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Sin grado</th>
+<td>No hay dependencia a efectos de la ley (aunque no siempre significa autonomía total)</td>
+<td>0 a 24</td>
+</tr>
+<tr>
+<th scope="row">Grado I. Dependencia moderada</th>
+<td>Necesitas ayuda para varias actividades básicas al menos una vez al día, o apoyo intermitente o limitado</td>
+<td>25 a 49</td>
+</tr>
+<tr>
+<th scope="row">Grado II. Dependencia severa</th>
+<td>Necesitas ayuda para varias actividades básicas dos o tres veces al día, sin necesitar un cuidador permanente, o apoyo extenso</td>
+<td>50 a 74</td>
+</tr>
+<tr>
+<th scope="row">Grado III. Gran dependencia</th>
+<td>Necesitas ayuda varias veces al día y, por la pérdida total de autonomía, el apoyo continuo de otra persona</td>
+<td>75 a 100</td>
+</tr>
+</tbody></table>
+</div>
+<p>Por encima del grado III está el <strong>Grado III+ de dependencia extrema</strong>, creado en octubre de 2025 para personas con grado III y <strong>ELA</strong> en fase avanzada u otras enfermedades de alta complejidad y curso irreversible (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21205" rel="noopener">Real Decreto-ley 11/2025</a>).</p>
+<h2 id="que-se-valora-las-actividades-del-baremo">Qué se valora: las actividades del baremo</h2>
+<p>La valoración la hace un profesional de tu comunidad autónoma <strong>en tu casa</strong>, a partir de los <strong>informes de salud</strong> y del entorno, la <strong>observación directa</strong> y una <strong>entrevista</strong>. Si la persona tiene deterioro cognitivo o problemas para comunicarse, en la entrevista participa también alguien que la conozca bien.</p>
+<p>Se valoran diez actividades. Cada una tiene un <strong>peso</strong> en el total de 100 puntos (escala general para mayores de 18 años):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Peso de cada actividad en el baremo de dependencia (escala general, 18 años o más)</caption>
+<thead>
+<tr>
+<th scope="col">Actividad</th>
+<th scope="col">Peso</th>
+<th scope="col">Ejemplos de tareas</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Comer y beber</th>
+<td>16,8</td>
+<td>Cortar la comida, usar los cubiertos, llevarse el vaso a la boca</td>
+</tr>
+<tr>
+<th scope="row">Higiene relacionada con la micción y la defecación</th>
+<td>14,8</td>
+<td>Ir al baño, manipular la ropa, limpiarse</td>
+</tr>
+<tr>
+<th scope="row">Desplazarse dentro del hogar</th>
+<td>12,3</td>
+<td>Moverse entre habitaciones, ir a comer o a lavarse</td>
+</tr>
+<tr>
+<th scope="row">Desplazarse fuera del hogar</th>
+<td>12,2</td>
+<td>Salir a la calle, moverse por el barrio o por sitios desconocidos</td>
+</tr>
+<tr>
+<th scope="row">Vestirse</th>
+<td>11,9</td>
+<td>Calzarse, abrocharse, ponerse la ropa</td>
+</tr>
+<tr>
+<th scope="row">Cambiar y mantener la posición del cuerpo</th>
+<td>9,4</td>
+<td>Levantarse de la cama o de la silla, permanecer de pie</td>
+</tr>
+<tr>
+<th scope="row">Lavarse</th>
+<td>8,8</td>
+<td>Lavarse las manos, entrar en la ducha, lavarse el cuerpo</td>
+</tr>
+<tr>
+<th scope="row">Realizar tareas domésticas</th>
+<td>8,0</td>
+<td>Preparar comidas, hacer la compra, limpiar, lavar la ropa</td>
+</tr>
+<tr>
+<th scope="row">Realizar otros cuidados corporales</th>
+<td>2,9</td>
+<td>Peinarse, cortarse las uñas, lavarse el pelo y los dientes</td>
+</tr>
+<tr>
+<th scope="row">Mantenimiento de la salud</th>
+<td>2,9</td>
+<td>Tomar la medicación, pedir ayuda en una urgencia, evitar riesgos</td>
+</tr>
+</tbody></table>
+</div>
+<p>Para personas con enfermedades que afectan a las funciones mentales (demencia, discapacidad intelectual, enfermedad mental), se aplica además una <strong>escala específica</strong> que incluye la actividad de <strong>tomar decisiones</strong>, y se queda la puntuación más alta de las dos.</p>
+<h3 id="como-se-calcula-la-puntuacion">Cómo se calcula la puntuación</h3>
+<p>Dentro de cada actividad, cada tarea tiene su propio peso. Por cada tarea en la que se demuestra que necesitas ayuda, se suma su valor multiplicado por un <strong>coeficiente según el tipo de apoyo</strong>: <strong>0,90</strong> si basta con supervisión o ayuda física parcial, <strong>0,95</strong> si otra persona tiene que hacerla por ti y <strong>1</strong> si necesitas un apoyo especial. El total se redondea al entero más cercano.</p>
+<p><strong>Ejemplo simplificado: María, 81 años.</strong> Necesita ayuda física parcial (0,90) en todas las tareas de lavarse, vestirse, otros cuidados corporales, mantenimiento de la salud, tareas domésticas y desplazarse fuera de casa:</p>
+<ul>
+<li>(8,8 + 11,9 + 2,9 + 2,9 + 8,0 + 12,2) × 0,90 = 46,7 × 0,90 = <strong>42 puntos → grado I</strong>.</li>
+<li>Si además necesitara ayuda para levantarse y para moverse por casa: 42,03 + (9,4 + 12,3) × 0,90 = 61,56 → <strong>62 puntos → grado II</strong>.</li>
+</ul>
+<h2 id="que-ayudas-corresponden-a-cada-grado">Qué ayudas corresponden a cada grado</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Ayudas máximas según el grado de dependencia (2026)</caption>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">Grado I</th>
+<th scope="col">Grado II</th>
+<th scope="col">Grado III</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Ayuda a domicilio (horas al mes)</th>
+<td>20 a 37</td>
+<td>38 a 64</td>
+<td>65 a 94</td>
+</tr>
+<tr>
+<th scope="row">Prestación vinculada a un servicio (máximo al mes)</th>
+<td>313,50 € (445,30 € para centro de día)</td>
+<td>445,30 € (747,25 € para residencia)</td>
+<td>747,25 €</td>
+</tr>
+<tr>
+<th scope="row">Cuidados en el entorno familiar (máximo al mes)</th>
+<td>180 €</td>
+<td>315,90 €</td>
+<td>455,40 €</td>
+</tr>
+<tr>
+<th scope="row">Asistencia personal (máximo al mes)</th>
+<td>313,50 €</td>
+<td>747,25 €</td>
+<td>747,25 €</td>
+</tr>
+<tr>
+<th scope="row">Cuantía mínima de las ayudas económicas</th>
+<td>100 €</td>
+<td>150 €</td>
+<td>200 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Horas y cuantías del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013</a> (anexos II, IV y V). Las ayudas económicas se ajustan a tu <strong>capacidad económica</strong>, y en todos los grados puedes tener <strong>teleasistencia</strong>, centro de día y servicios de promoción de la autonomía. En el <strong>Grado III+</strong>, la ayuda vinculada a la ayuda a domicilio y la de asistencia personal llegan a <strong>9.859 euros</strong>.</p>
+<p>Qué servicio o ayuda concreta recibes lo decide tu <strong>Programa Individual de Atención</strong>, consultándote a ti y a tu familia. Todos los pasos están en la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</p>
+<h2 id="revision-del-grado">Revisión del grado</h2>
+<p>El grado <strong>puede revisarse</strong> a petición tuya o de tu familia, o de oficio, si la situación <strong>mejora o empeora</strong> o si hubo un <strong>error</strong> en la valoración o en la aplicación del baremo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a30" rel="noopener">artículo 30 de la Ley 39/2006</a>). En la práctica, lo habitual es pedirla cuando la persona empeora, con un informe de salud actualizado.</p>
+<p>Si no estás de acuerdo con el grado reconocido, puedes <strong>recurrir la resolución</strong> ante tu comunidad autónoma en el plazo que indique la propia resolución.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuantos-puntos-hacen-falta-para-el-grado-i-de-dependencia">¿Cuántos puntos hacen falta para el grado I de dependencia?</h3>
+<p>25 puntos. Con menos de 25 no se reconoce grado. El grado I va de 25 a 49 puntos, el II de 50 a 74 y el III de 75 a 100.</p>
+<h3 id="que-diferencia-hay-entre-el-grado-ii-y-el-grado-iii">¿Qué diferencia hay entre el grado II y el grado III?</h3>
+<p>En el grado II necesitas ayuda dos o tres veces al día; en el grado III, varias veces al día y el apoyo continuo de otra persona. El III da más horas de ayuda a domicilio (65 a 94 al mes) y ayudas más altas (hasta 747,25 euros).</p>
+<h3 id="cuanto-se-cobra-con-un-grado-ii-de-dependencia">¿Cuánto se cobra con un grado II de dependencia?</h3>
+<p>Depende de la ayuda: hasta 315,90 euros al mes si te cuida un familiar, hasta 445,30 euros para pagar un servicio (747,25 si es una residencia) y como mínimo 150 euros, según tu capacidad económica.</p>
+<h3 id="quien-hace-la-valoracion-de-la-dependencia">¿Quién hace la valoración de la dependencia?</h3>
+<p>Un profesional de la comunidad autónoma, en tu domicilio, con el baremo oficial, los informes de salud, la observación y una entrevista.</p>
+<h3 id="se-puede-pedir-un-grado-mas-alto-si-la-persona-empeora">¿Se puede pedir un grado más alto si la persona empeora?</h3>
+<p>Sí. La revisión del grado se puede pedir en cualquier momento si la situación empeora, aportando un informe de salud actualizado.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174" rel="noopener">Real Decreto 174/2011, baremo de valoración de la situación de dependencia (anexos A a C)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" rel="noopener">Ley 39/2006, artículos 26, 27 y 30</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013, anexos II, IV y V</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21205" rel="noopener">Real Decreto-ley 11/2025, Grado III+ de dependencia extrema</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Todavía no la has pedido? Sigue la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
+<li>¿Te cuida un familiar? Mira la prestación por cuidados en el entorno familiar.</li>
+<li>¿Necesita residencia? Compara residencia pública o privada.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de tu comunidad autónoma, que es quien valora la dependencia y reconoce el grado. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></excerpt:encoded>
+    <wp:post_id>9008</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[grados]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dependencia"><![CDATA[Dependencia]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Grados de dependencia y baremo: puntos y ayudas de cada grado]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[grados de dependencia]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Grados de dependencia y baremo: puntos y ayudas de cada grado]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[grados de dependencia]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Ley de dependencia en 2026: guía para familias con las ayudas, las cuantías y los pasos para pedirla]]></title>
+    <link>https://jubilometro.com/dependencia/ley-dependencia/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La ley de dependencia (Ley 39/2006) protege a quien <strong>necesita ayuda de otra persona para las actividades básicas</strong> del día a día: comer, asearse, vestirse, moverse por casa. Tras una <strong>valoración en el domicilio</strong>, la comunidad autónoma reconoce un <strong>grado (I, II o III)</strong> y, con él, un <strong>servicio</strong> (teleasistencia, ayuda a domicilio, centro de día, residencia) o, si no hay plaza pública, una <strong>ayuda económica</strong>.</p>
+<p>Las ayudas económicas llegan a <strong>747,25 euros al mes</strong> para pagar un servicio privado y a <strong>455,40 euros</strong> si te cuida un familiar (grado III). La Administración tiene <strong>seis meses</strong> para resolver desde la solicitud. Se pide en los <strong>servicios sociales</strong> de tu ayuntamiento o comunidad.</p>
+</aside>
+<h2 id="quien-tiene-derecho">Quién tiene derecho</h2>
+<p>Según el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a5" rel="noopener">artículo 5 de la Ley 39/2006</a>:</p>
+<ol>
+<li><strong>Estar en situación de dependencia</strong> en alguno de sus grados, reconocida con el baremo oficial.</li>
+<li><strong>Residir en España</strong> y haberlo hecho durante <strong>cinco años</strong>, dos de ellos inmediatamente antes de la solicitud. Los extranjeros acceden según la ley de extranjería y los convenios internacionales.</li>
+</ol>
+<p>No hay edad mínima ni máxima, ni límite de ingresos para tener el derecho: los ingresos solo influyen en <strong>cuánto pagas</strong> por un servicio o <strong>cuánto recibes</strong> de ayuda.</p>
+<h2 id="los-tres-grados">Los tres grados</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Grados de dependencia según la Ley 39/2006 y el baremo</caption>
+<thead>
+<tr>
+<th scope="col">Grado</th>
+<th scope="col">Cuándo se reconoce</th>
+<th scope="col">Puntos en el baremo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Grado I. Dependencia moderada</th>
+<td>Necesitas ayuda para varias actividades básicas al menos una vez al día</td>
+<td>25 a 49</td>
+</tr>
+<tr>
+<th scope="row">Grado II. Dependencia severa</th>
+<td>Necesitas ayuda dos o tres veces al día, pero no un cuidador permanente</td>
+<td>50 a 74</td>
+</tr>
+<tr>
+<th scope="row">Grado III. Gran dependencia</th>
+<td>Necesitas ayuda varias veces al día y el apoyo continuo de otra persona</td>
+<td>75 a 100</td>
+</tr>
+</tbody></table>
+</div>
+<p>Desde octubre de 2025 existe además el <strong>Grado III+ de dependencia extrema</strong>, para personas con grado III y <strong>ELA</strong> avanzada u otras enfermedades de alta complejidad y curso irreversible (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21205" rel="noopener">Real Decreto-ley 11/2025</a>). Cómo se puntúa cada actividad lo explicamos en <a href="/dependencia/grados/">grados de dependencia y baremo</a>.</p>
+<h2 id="que-ayudas-da">Qué ayudas da</h2>
+<p>La ley da <strong>prioridad a los servicios</strong> públicos o concertados (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a14" rel="noopener">artículo 14</a>). Si no hay plaza, se reconoce una <strong>prestación económica</strong> para pagar el servicio en un centro privado acreditado.</p>
+<h3 id="servicios">Servicios</h3>
+<ul>
+<li><strong>Teleasistencia</strong>: un botón para pedir ayuda las 24 horas. Compatible con casi todo.</li>
+<li><strong>Ayuda a domicilio</strong>: auxiliares que ayudan con el aseo, la comida o la casa. Horas al mes según el grado: <strong>20 a 37</strong> (grado I), <strong>38 a 64</strong> (grado II) y <strong>65 a 94</strong> (grado III) (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013, anexo II</a>).</li>
+<li><strong>Centro de día o de noche</strong>: atención durante el día y vuelta a casa (en el grado I, un mínimo de 15 horas a la semana).</li>
+<li><strong>Residencia</strong>: plaza pública o concertada.</li>
+<li><strong>Prevención y promoción de la autonomía</strong>: rehabilitación, estimulación cognitiva, terapia ocupacional.</li>
+</ul>
+<h3 id="prestaciones-economicas-cuantias-maximas-en-2026">Prestaciones económicas: cuantías máximas en 2026</h3>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Cuantías máximas mensuales de las prestaciones económicas de dependencia</caption>
+<thead>
+<tr>
+<th scope="col">Grado</th>
+<th scope="col">Vinculada a un servicio</th>
+<th scope="col">Asistencia personal</th>
+<th scope="col">Cuidados en el entorno familiar</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Grado III</th>
+<td>747,25 €</td>
+<td>747,25 €</td>
+<td>455,40 €</td>
+</tr>
+<tr>
+<th scope="row">Grado II</th>
+<td>445,30 € (747,25 € si es para residencia)</td>
+<td>747,25 €</td>
+<td>315,90 €</td>
+</tr>
+<tr>
+<th scope="row">Grado I</th>
+<td>313,50 € (445,30 € si es para centro de día)</td>
+<td>313,50 €</td>
+<td>180 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Son <strong>máximos</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">anexo IV del Real Decreto 1051/2013</a>): la cantidad concreta se reduce según tu capacidad económica, con unos <strong>mínimos de 200, 150 y 100 euros</strong> para los grados III, II y I. Para el Grado III+ de dependencia extrema, la vinculada a ayuda a domicilio y la de asistencia personal llegan a <strong>9.859 euros</strong>.</p>
+<p>Estas prestaciones <strong>no tributan en el IRPF</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7" rel="noopener">artículo 7.x de la Ley del IRPF</a>) y son inembargables.</p>
+<h3 id="la-ayuda-por-cuidados-en-el-entorno-familiar">La ayuda por cuidados en el entorno familiar</h3>
+<p>Es <strong>excepcional</strong>: se concede cuando ya te cuida alguien de tu entorno y la casa reúne condiciones adecuadas (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">artículo 12 del Real Decreto 1051/2013</a>).</p>
+<ul>
+<li>Puede ser cuidador tu <strong>cónyuge o pareja de hecho</strong>, un <strong>pariente hasta el cuarto grado</strong> (también por afinidad) o una persona de tu entorno que tú propongas.</li>
+<li>En los <strong>grados II y III</strong>, el cuidador tiene que <strong>vivir contigo</strong>. En el grado I se puede exceptuar si se asegura la atención inmediata.</li>
+<li>El cuidador puede firmar un <strong>convenio especial con la Seguridad Social</strong>, cuyas cuotas <strong>paga el Estado</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690" rel="noopener">Real Decreto 615/2007, artículo 4</a>): así sigue cotizando para su propia jubilación.</li>
+</ul>
+<h3 id="que-se-puede-combinar">Qué se puede combinar</h3>
+<p>Las prestaciones económicas son <strong>incompatibles entre sí</strong> y con los servicios, salvo con la teleasistencia y la prevención y promoción de la autonomía. La teleasistencia es compatible con la ayuda a domicilio y el centro de día. Las comunidades pueden permitir más combinaciones para que la persona siga en casa (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" rel="noopener">artículo 25 bis</a>).</p>
+<h2 id="cuanto-se-paga-el-copago">Cuánto se paga: el copago</h2>
+<p>Quien recibe un servicio <strong>participa en su coste</strong> según su <strong>capacidad económica</strong> (renta y patrimonio), y esa misma capacidad reduce la cuantía de las ayudas económicas. Pero la ley garantiza que <strong>nadie se queda sin atención por no tener recursos</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a33" rel="noopener">artículo 33</a>). Cada comunidad fija sus reglas concretas de copago.</p>
+<h2 id="como-se-pide-paso-a-paso">Cómo se pide, paso a paso</h2>
+<ol>
+<li><strong>Solicitud</strong> en los servicios sociales de tu ayuntamiento o de la comunidad autónoma (también por su sede electrónica), con un <strong>informe de salud</strong>, que suele emitir tu centro de salud.</li>
+<li><strong>Valoración</strong>: un profesional de la comunidad visita a la persona en su casa y aplica el <strong>baremo</strong> oficial.</li>
+<li><strong>Resolución de grado</strong>: la comunidad reconoce el grado y los servicios o ayudas a los que da derecho. Es válida en toda España.</li>
+<li><strong>Programa Individual de Atención (PIA)</strong>: los servicios sociales proponen, <strong>consultando a la persona y a su familia</strong>, el servicio o la ayuda concreta.</li>
+<li><strong>Resolución de la prestación</strong>: desde ese momento empieza a recibirse.</li>
+</ol>
+<p><strong>Plazo máximo: seis meses</strong> desde la solicitud hasta la resolución de la prestación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" rel="noopener">disposición final primera</a>). Si pasan sin respuesta, el derecho se genera igualmente desde el fin de ese plazo, aunque en la ayuda por cuidados familiares la ley permite aplazar el pago hasta dos años. Muchas comunidades tardan más: si es tu caso, reclama por escrito.</p>
+<p>Si la situación <strong>empeora o mejora</strong>, se puede pedir la <strong>revisión del grado</strong> en cualquier momento (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a30" rel="noopener">artículo 30</a>).</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Carmen, 84 años, grado II, vive con su hija, que la cuida.</strong> Le reconocen la ayuda por cuidados en el entorno familiar: como máximo <strong>315,90 euros al mes</strong>, menos lo que corresponda por su capacidad económica, y no menos de 150. Su hija firma el convenio especial y <strong>el Estado paga su cotización</strong>.</p>
+<p><strong>Antonio, 79 años, grado III, necesita residencia y no hay plaza pública en su zona.</strong> Le reconocen la prestación vinculada al servicio residencial: hasta <strong>747,25 euros al mes</strong> para pagar una residencia privada acreditada, que puede combinar con teleasistencia.</p>
+<p><strong>Julia, 72 años, grado I, vive sola.</strong> Le asignan <strong>teleasistencia</strong> y <strong>ayuda a domicilio</strong> de entre 20 y 37 horas al mes, pagando la parte que le corresponda según su pensión.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="quien-puede-pedir-la-ley-de-dependencia">¿Quién puede pedir la ley de dependencia?</h3>
+<p>Cualquier persona que necesite ayuda de otra para las actividades básicas del día a día y que lleve cinco años viviendo en España, dos de ellos justo antes de pedirla. No hay límite de edad ni de ingresos.</p>
+<h3 id="cuanto-se-cobra-por-la-ley-de-dependencia">¿Cuánto se cobra por la ley de dependencia?</h3>
+<p>Depende del grado, del tipo de ayuda y de tu capacidad económica. En 2026, como máximo: 747,25 euros al mes para pagar un servicio privado (grado III) y 455,40 euros si te cuida un familiar (grado III). Los mínimos son 200, 150 y 100 euros según el grado.</p>
+<h3 id="cuanto-tarda-la-dependencia">¿Cuánto tarda la dependencia?</h3>
+<p>La ley fija un máximo de seis meses desde la solicitud hasta la resolución de la prestación, pero en muchas comunidades se tarda más. Si se supera, el derecho se genera igualmente desde el fin de ese plazo.</p>
+<h3 id="un-familiar-puede-cobrar-por-cuidar-a-una-persona-dependient">¿Un familiar puede cobrar por cuidar a una persona dependiente?</h3>
+<p>Sí, con la ayuda por cuidados en el entorno familiar, que cobra la persona dependiente. El cuidador debe ser su pareja, un pariente hasta el cuarto grado o alguien de su entorno, y en los grados II y III tiene que vivir con ella. Además puede cotizar a la Seguridad Social gratis con un convenio especial.</p>
+<h3 id="las-ayudas-de-dependencia-tributan-en-el-irpf">¿Las ayudas de dependencia tributan en el IRPF?</h3>
+<p>No. La prestación vinculada al servicio, la de cuidados en el entorno familiar y la de asistencia personal están exentas.</p>
+<h3 id="se-puede-cambiar-de-grado">¿Se puede cambiar de grado?</h3>
+<p>Sí. Si la situación empeora o mejora, o si hubo un error en la valoración, se puede pedir la revisión del grado en cualquier momento.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" rel="noopener">Ley 39/2006, de promoción de la autonomía personal y atención a las personas en situación de dependencia</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013, de prestaciones del sistema de dependencia (anexos II, IV y V)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174" rel="noopener">Real Decreto 174/2011, baremo de valoración de la dependencia</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690" rel="noopener">Real Decreto 615/2007, Seguridad Social de los cuidadores</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2025-21205" rel="noopener">Real Decreto-ley 11/2025, Grado III+ de dependencia extrema</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Qué grado te corresponde? Mira los <a href="/dependencia/grados/">grados de dependencia y el baremo</a>.</li>
+<li>¿Te cuida un familiar? Lee la guía de la prestación por cuidados en el entorno familiar.</li>
+<li>¿Buscas plaza? Compara residencia pública o privada.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></excerpt:encoded>
+    <wp:post_id>9009</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[ley-dependencia]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dependencia"><![CDATA[Dependencia]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Ley de dependencia 2026: ayudas, cuantías y cómo pedirla]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[ley de dependencia]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Ley de dependencia 2026: ayudas, cuantías y cómo pedirla]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[ley de dependencia]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Rescatar el plan de pensiones al jubilarte: cuándo puedes, cómo tributa y cómo pagar menos IRPF]]></title>
+    <link>https://jubilometro.com/dinero/rescate-plan-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Puedes rescatar el plan de pensiones <strong>cuando te jubilas</strong> (también si es anticipada), y <strong>no tienes plazo</strong>: puedes dejarlo invertido y cobrarlo cuando quieras, de una vez (<strong>capital</strong>), en pagos periódicos (<strong>renta</strong>), combinando ambos (<strong>mixto</strong>) o con <strong>pagos sueltos</strong>.</p>
+<p>Todo lo que cobras <strong>tributa en el IRPF como un sueldo</strong>, sumado a tu pensión. Por eso sacar mucho en un solo año puede costarte miles de euros. Si aportaste <strong>antes de 2007</strong>, esa parte tiene una <strong>reducción del 40 %</strong> si la cobras en capital en el año de tu jubilación o en los <strong>dos siguientes</strong>.</p>
+</aside>
+<h2 id="cuando-se-puede-rescatar">Cuándo se puede rescatar</h2>
+<p>Los planes de pensiones se cobran cuando se produce una <strong>contingencia</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">artículo 7 del Reglamento de planes y fondos de pensiones</a>):</p>
+<ul>
+<li><strong>Jubilación</strong>: cuando accedes de verdad a la jubilación en la Seguridad Social, a la edad ordinaria, <strong>anticipada</strong> o más tarde. Si no puedes jubilarte, desde los <strong>65 años</strong> si ya no trabajas ni cotizas.</li>
+<li><strong>Incapacidad permanente</strong> total, absoluta o gran incapacidad.</li>
+<li><strong>Dependencia</strong> severa o gran dependencia.</li>
+<li><strong>Fallecimiento</strong>: cobran tus beneficiarios.</li>
+</ul>
+<p>Además, puedes sacar el dinero antes en estos casos, si las especificaciones del plan lo permiten:</p>
+<ul>
+<li><strong>Aportaciones con más de 10 años</strong>: desde el 1 de enero de 2025 puedes rescatar lo aportado hasta el 31 de diciembre de 2015 con su rentabilidad, y a partir de ahí cada aportación cuando cumple 10 años (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">disposición transitoria 7.ª de la Ley de planes y fondos de pensiones</a>).</li>
+<li><strong>Paro de larga duración</strong>: sin prestación contributiva (o agotada) e inscrito como demandante de empleo.</li>
+<li><strong>Enfermedad grave</strong> tuya, de tu cónyuge o de padres o hijos.</li>
+<li><strong>Desde los 60 años</strong>, si has dejado de trabajar y aún no puedes jubilarte.</li>
+<li><strong>A cualquier edad</strong>, si pierdes el empleo por un despido colectivo (ERE), por causas objetivas o por otras causas del artículo 8.2 del reglamento y pasas a situación legal de desempleo.</li>
+</ul>
+<h2 id="como-se-puede-cobrar">Cómo se puede cobrar</h2>
+<p>La forma y la fecha las eliges tú, dentro de lo que permita tu plan (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">artículo 10 del reglamento</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Formas de cobrar el plan de pensiones</caption>
+<thead>
+<tr>
+<th scope="col">Forma</th>
+<th scope="col">Qué es</th>
+<th scope="col">Para quién suele convenir</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Capital</th>
+<td>Un único pago, inmediato o en la fecha que elijas</td>
+<td>La parte aportada antes de 2007 (por la reducción del 40 %) o planes pequeños</td>
+</tr>
+<tr>
+<th scope="row">Renta</th>
+<td>Pagos periódicos, al menos uno al año, temporales o vitalicios</td>
+<td>Planes grandes: reparte el IRPF entre varios años</td>
+</tr>
+<tr>
+<th scope="row">Mixta</th>
+<td>Parte en capital y parte en renta</td>
+<td>Quien tiene aportaciones antes y después de 2007</td>
+</tr>
+<tr>
+<th scope="row">Pagos sin periodicidad</th>
+<td>Rescates parciales cuando los necesites</td>
+<td>Quien quiere controlar cuánto saca cada año</td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Plazos de la gestora</strong>: debe comunicarte el reconocimiento de la prestación en un máximo de <strong>15 días hábiles</strong> desde que entregas la documentación, y pagar un <strong>capital inmediato en 7 días hábiles</strong>.</p>
+<h2 id="como-tributa">Cómo tributa</h2>
+<ul>
+<li>Todo lo que cobras del plan es <strong>rendimiento del trabajo</strong> en el IRPF (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a17" rel="noopener">artículo 17.2.a) de la Ley del IRPF</a>): se suma a tu pensión y a tus otros ingresos y tributa a tu <strong>tipo marginal</strong>. No es una ganancia del ahorro.</li>
+<li>La gestora te <strong>retiene IRPF</strong> en cada pago, a cuenta de tu declaración.</li>
+<li><strong>Reducción del 40 %</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">disposición transitoria 12.ª de la Ley del IRPF</a>): solo para la parte que corresponde a <strong>aportaciones hechas hasta el 31 de diciembre de 2006</strong> (con su rentabilidad), cobrada <strong>en forma de capital</strong>, si pasaron más de dos años desde la primera aportación, y siempre que lo cobres <strong>en el año de la jubilación o en los dos siguientes</strong>. Según la <a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html" rel="noopener">Agencia Tributaria</a>, si tienes varios planes puedes aplicarla a todos los cobros en capital de esos tres años.</li>
+</ul>
+<h3 id="la-escala-estatal-del-irpf">La escala estatal del IRPF</h3>
+<p>Tu tipo marginal suma la escala <strong>estatal</strong> y la de tu <strong>comunidad autónoma</strong>, que suele ser parecida. La estatal es esta (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a63" rel="noopener">artículo 63</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Escala estatal del IRPF (base liquidable general)</caption>
+<thead>
+<tr>
+<th scope="col">Base liquidable</th>
+<th scope="col">Tipo estatal</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Hasta 12.450 €</th>
+<td>9,5 %</td>
+</tr>
+<tr>
+<th scope="row">De 12.450 a 20.200 €</th>
+<td>12 %</td>
+</tr>
+<tr>
+<th scope="row">De 20.200 a 35.200 €</th>
+<td>15 %</td>
+</tr>
+<tr>
+<th scope="row">De 35.200 a 60.000 €</th>
+<td>18,5 %</td>
+</tr>
+<tr>
+<th scope="row">De 60.000 a 300.000 €</th>
+<td>22,5 %</td>
+</tr>
+<tr>
+<th scope="row">Más de 300.000 €</th>
+<td>24,5 %</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="ejemplo-sacarlo-de-golpe-o-repartirlo">Ejemplo: sacarlo de golpe o repartirlo</h2>
+<p><strong>Luis se jubila en 2026.</strong> Con su pensión, su base liquidable es de unos 20.000 euros al año. Tiene un plan de 60.000 euros: 20.000 corresponden a aportaciones anteriores a 2007 (con su rentabilidad) y 40.000 a aportaciones posteriores.</p>
+<p><strong>Opción A: todo en capital en 2026.</strong> Tributan 52.000 euros (los 20.000 anteriores a 2007 con la reducción del 40 %, que quedan en 12.000, más los 40.000). Su base sube de 20.000 a 72.000 euros y buena parte paga el 18,5 % y el 22,5 % estatal: <strong>9.562 euros de IRPF estatal</strong> por el rescate.</p>
+<p><strong>Opción B: la parte anterior a 2007 en capital en 2026 y el resto en cuatro años.</strong> En 2026 tributan 12.000 euros (1.794 euros estatales) y de 2027 a 2030, 10.000 euros cada año (1.494 euros por año): <strong>7.770 euros de IRPF estatal</strong>.</p>
+<p>Repartiendo, Luis se ahorra <strong>1.792 euros solo en la parte estatal</strong>, y otro tanto parecido en la autonómica: en total, del orden de <strong>3.500 euros</strong>.</p>
+<p>Los cálculos son una simplificación: el impuesto real depende de tu comunidad, tu mínimo personal y familiar y tus otros ingresos. Antes de decidir, pide a tu gestora una simulación o calcula la declaración con el simulador de Renta WEB.</p>
+<h2 id="consejos-antes-de-rescatar">Consejos antes de rescatar</h2>
+<ol>
+<li><strong>No tienes prisa</strong>: el plan no caduca. Puedes esperar a un año con menos ingresos.</li>
+<li><strong>Separa lo anterior a 2007</strong>: pide a la gestora el desglose de tus derechos por aportaciones hasta 2006 y posteriores.</li>
+<li><strong>Aprovecha la ventana de tres años</strong> para cobrar en capital la parte con reducción.</li>
+<li><strong>Reparte el resto</strong> en rentas o rescates parciales para no saltar de tramo.</li>
+<li><strong>Si vas a cobrar el paro o tienes otros ingresos altos ese año</strong>, retrasa el rescate.</li>
+</ol>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuando-puedo-rescatar-mi-plan-de-pensiones">¿Cuándo puedo rescatar mi plan de pensiones?</h3>
+<p>Al jubilarte (también anticipadamente), por incapacidad permanente, dependencia severa o fallecimiento. Además, desde 2025 puedes rescatar las aportaciones con más de 10 años de antigüedad, y en casos de paro de larga duración o enfermedad grave.</p>
+<h3 id="cuanto-irpf-se-paga-al-rescatar-un-plan-de-pensiones">¿Cuánto IRPF se paga al rescatar un plan de pensiones?</h3>
+<p>Tributa como un sueldo, a tu tipo marginal: entre el 19 % y más del 45 % sumando la escala estatal y la autonómica, según tus ingresos del año. Por eso conviene repartir el cobro.</p>
+<h3 id="que-es-la-reduccion-del-40">¿Qué es la reducción del 40 %?</h3>
+<p>Una rebaja en el IRPF para la parte del plan que corresponde a aportaciones hechas hasta el 31 de diciembre de 2006, si la cobras en forma de capital en el año de la jubilación o en los dos siguientes. Solo tributa el 60 % de esa parte.</p>
+<h3 id="tengo-que-rescatar-el-plan-al-jubilarme">¿Tengo que rescatar el plan al jubilarme?</h3>
+<p>No. Puedes dejarlo invertido todo el tiempo que quieras y cobrarlo más tarde. Lo único que pierdes si no cobras en capital en el año de la jubilación o en los dos siguientes es la reducción del 40 % sobre la parte anterior a 2007.</p>
+<h3 id="me-retienen-irpf-al-rescatar-el-plan">¿Me retienen IRPF al rescatar el plan?</h3>
+<p>Sí. La gestora aplica una retención en cada pago, que luego se ajusta en tu declaración de la renta.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">Reglamento de planes y fondos de pensiones (Real Decreto 304/2004), artículos 7 a 10</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">Ley de regulación de los planes y fondos de pensiones (Real Decreto Legislativo 1/2002), artículo 8.8 y disposición transitoria 7.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley 35/2006 del IRPF: artículos 17 y 63 y disposición transitoria 12.ª</a> (BOE).</li>
+<li><a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html" rel="noopener">Agencia Tributaria: prestaciones en forma de capital y régimen transitorio</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto te quedará de pensión limpia? Calcula tu pensión neta con la retención de IRPF.</li>
+<li>¿Cuánto necesitas ahorrado? Prueba la calculadora ¿cuánto necesito ahorrar?.</li>
+<li>¿Cuándo te jubilas? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de tu gestora. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
+    <wp:post_id>9010</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[rescate-plan-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Rescatar el plan de pensiones al jubilarse: cómo pagar menos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[rescate plan de pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Rescatar el plan de pensiones al jubilarse: cómo pagar menos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[rescate plan de pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza]]></title>
     <link>https://jubilometro.com/imserso/viajes-imserso/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -2189,7 +2761,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9008</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2407,7 +2979,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2598,7 +3170,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2738,7 +3310,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2874,7 +3446,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3009,7 +3581,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3190,7 +3762,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3346,7 +3918,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3534,7 +4106,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3693,7 +4265,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3915,7 +4487,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4070,7 +4642,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4168,7 +4740,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4338,7 +4910,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4500,7 +5072,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4630,7 +5202,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5279,7 +5851,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5409,7 +5981,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5587,7 +6159,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5721,7 +6293,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5845,7 +6417,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5962,7 +6534,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6094,7 +6666,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6194,7 +6766,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6383,7 +6955,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

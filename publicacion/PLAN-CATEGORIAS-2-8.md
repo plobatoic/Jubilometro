@@ -70,12 +70,12 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 61 | Complemento de alquiler | /ayudas/complemento-alquiler/ | complemento-alquiler | F3 | |
 | 76 | Adaptar la casa de una persona mayor | /ayudas/ayudas-vivienda/ | ayudas-vivienda | F3 | |
 | extra | Trámites online para mayores | /ayudas/tramites-online/ | tramites-online | | |
-| 62 | Ley de dependencia: guía para familias | /dependencia/ley-dependencia/ | | F1 | |
+| 62 | Ley de dependencia: guía para familias | /dependencia/ley-dependencia/ | | F1 | programado 14/10 |
 | 63 | Dependencia en Andalucía | /dependencia/andalucia/ | | F2 | |
 | 64 | Dependencia en la Comunidad de Madrid | /dependencia/madrid/ | | F2 | |
 | 65 | Dependencia en Cataluña | /dependencia/cataluna/ | | F2 | |
 | 66 | Dependencia en la Comunitat Valenciana | /dependencia/comunitat-valenciana/ | | F2 | |
-| 67 | Grados de dependencia y baremo | /dependencia/grados/ | grados | F1 | |
+| 67 | Grados de dependencia y baremo | /dependencia/grados/ | grados | F1 | programado 15/10 |
 | 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | |
 | 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | |
 | 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | |
@@ -90,7 +90,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Convenio especial del cuidador | /dependencia/convenio-cuidador/ | convenio-cuidador | | |
 | 78 | Declaración de la renta de los jubilados | /dinero/declaracion-renta-jubilados/ | declaracion-renta-jubilados | F1 | |
 | 79 | Retención de IRPF en la pensión (modelo 145) | /dinero/irpf-pensiones/ | irpf-pensiones | F3 | |
-| 80 | Rescatar el plan de pensiones al jubilarte | /dinero/rescate-plan-pensiones/ | rescate-plan-pensiones | F1 | |
+| 80 | Rescatar el plan de pensiones al jubilarte | /dinero/rescate-plan-pensiones/ | rescate-plan-pensiones | F1 | programado 16/10 |
 | 81 | Rescate de aportaciones de más de 10 años | /dinero/rescate-aportaciones-10-anos/ | | F2 | |
 | 82 | Hipoteca inversa, nuda propiedad o renta vitalicia | /dinero/hipoteca-inversa/ | hipoteca-inversa | F2 | |
 | 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | |
