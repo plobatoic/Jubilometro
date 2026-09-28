@@ -65,6 +65,10 @@ export const IMAGENES_DESTACADAS = {
   '/jubilacion/flexible-activa-o-parcial/': { archivo: 'flexible-activa-o-parcial.webp', alt: 'Hombre mayor trabajando en su despacho', pie: 'Foto: StockSnap' },
   '/jubilacion/subsidio-mayores-52/': { archivo: 'subsidio-mayores-52.webp', alt: 'Hombre pensativo sentado junto a una ventana', pie: 'Foto: StockSnap' },
   '/jubilacion/trabajado-en-otro-pais/': { archivo: 'trabajado-en-otro-pais.webp', alt: 'Mapa del mundo con una brújula y objetos de viaje', pie: 'Foto: StockSnap' },
+  '/cuanto-cobrare/pension-minima/': { archivo: 'pension-minima.webp', alt: 'Billetes y monedas de euro', pie: 'Foto: StockSnap' },
+  '/incapacidad/grados-incapacidad/': { archivo: 'grados-incapacidad.webp', alt: 'Médico atendiendo en su consulta a un hombre en silla de ruedas', pie: 'Foto: StockSnap' },
+  '/dependencia/ley-dependencia/': { archivo: 'ley-dependencia.webp', alt: 'Cuidador dando la mano a una mujer mayor en silla de ruedas', pie: 'Foto: StockSnap' },
+  '/dependencia/precio-residencias/': { archivo: 'precio-residencias.webp', alt: 'Enfermera acompañando a un hombre mayor en silla de ruedas en una residencia', pie: 'Foto: StockSnap' },
 };
 
 // Archivos propios que los artículos enlazan y hay que subir a la biblioteca de medios.

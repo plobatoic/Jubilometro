@@ -19,5 +19,9 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `flexible-activa-o-parcial.webp` | /jubilacion/flexible-activa-o-parcial/ | StockSnap | CC0 1.0 (dominio público) | https://stocksnap.io/photo/older-businessman-5BRQF1DZ8W | Hombre mayor trabajando en su despacho |
 | `subsidio-mayores-52.webp` | /jubilacion/subsidio-mayores-52/ | StockSnap | CC0 1.0 (dominio público) | https://stocksnap.io/photo/man-waiting-8YM7T7AERK | Hombre pensativo sentado junto a una ventana |
 | `trabajado-en-otro-pais.webp` | /jubilacion/trabajado-en-otro-pais/ | StockSnap | CC0 1.0 (dominio público) | https://stocksnap.io/photo/background-travel-HJGIY622S1 | Mapa del mundo con una brújula y objetos de viaje |
+| `pension-minima.webp` | /cuanto-cobrare/pension-minima/ | StockSnap (Martin Vorel) | CC0 1.0 (dominio público) | https://stocksnap.io/photo/money-euros-WX191DV28C | Billetes y monedas de euro |
+| `grados-incapacidad.webp` | /incapacidad/grados-incapacidad/ | StockSnap (Direct Media) | CC0 1.0 (dominio público) | https://stocksnap.io/photo/wheelchair-person-KJIS7ELUI3 | Médico atendiendo en su consulta a un hombre en silla de ruedas |
+| `ley-dependencia.webp` | /dependencia/ley-dependencia/ | StockSnap (Direct Media) | CC0 1.0 (dominio público) | https://stocksnap.io/photo/caregiver-nurse-TBEMNLXLVQ | Cuidador dando la mano a una mujer mayor en silla de ruedas |
+| `precio-residencias.webp` | /dependencia/precio-residencias/ | StockSnap (Direct Media) | CC0 1.0 (dominio público) | https://stocksnap.io/photo/wheelchair-hospital-M38DGA9LK7 | Enfermera acompañando a un hombre mayor en silla de ruedas en una residencia |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).
