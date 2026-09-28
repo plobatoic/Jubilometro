@@ -35,6 +35,14 @@
     "id": 398,
     "estado": "future"
   },
+  "/dependencia/precio-residencias/": {
+    "id": 400,
+    "estado": "future"
+  },
+  "/dinero/declaracion-renta-jubilados/": {
+    "id": 189,
+    "estado": "future"
+  },
   "/dinero/rescate-plan-pensiones/": {
     "id": 190,
     "estado": "future"
@@ -134,6 +142,10 @@
   "/jubilacion/trabajado-en-otro-pais/": {
     "id": 310,
     "estado": "publish"
+  },
+  "/viudedad/cuantia/": {
+    "id": 157,
+    "estado": "future"
   },
   "/viudedad/requisitos/": {
     "id": 156,

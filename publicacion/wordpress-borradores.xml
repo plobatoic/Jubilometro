@@ -2271,6 +2271,425 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Precio de las residencias de mayores: cuánto cuesta una plaza pública o concertada en cada comunidad y cuánto pagas tú]]></title>
+    <link>https://jubilometro.com/dependencia/precio-residencias/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del Imserso y del BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Según el último informe del Imserso (datos de diciembre de 2024), una <strong>plaza pública</strong> en una residencia de mayores cuesta de media <strong>1.958,95 euros al mes</strong> en España, y el residente paga de media <strong>692,40 euros</strong> (el 35 %); el resto lo pone la Administración. Una <strong>plaza concertada</strong> cuesta de media <strong>1.967,45 euros</strong>.</p>
+<p>En una plaza pública pagas <strong>según tus ingresos y tu patrimonio</strong>, con un máximo del <strong>90 % del coste</strong> y garantizándote al menos <strong>114 euros al mes</strong> para tus gastos. Si no hay plaza pública, la ley de dependencia da una ayuda de hasta <strong>747,25 euros al mes</strong> para pagar una residencia privada acreditada (grados II y III).</p>
+</aside>
+<h2 id="cuanto-cuesta-una-plaza-en-cada-comunidad">Cuánto cuesta una plaza en cada comunidad</h2>
+<p>Estos son los precios que declaran las comunidades autónomas al <a href="https://imserso.es/el-imserso/documentacion/estadisticas/servicios-sociales-dirigidos-a-personas-mayores-en-espana-diciembre-2024" rel="noopener">Imserso</a> (informe <em>Servicios sociales dirigidos a personas mayores en España</em>, datos a diciembre de 2024), pasados de anuales a mensuales:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Precio mensual de una plaza residencial pública y concertada por comunidad autónoma (datos de diciembre de 2024)</caption>
+<thead>
+<tr>
+<th scope="col">Comunidad</th>
+<th scope="col">Precio plaza pública</th>
+<th scope="col">Paga el residente (media)</th>
+<th scope="col">Precio plaza concertada</th>
+<th scope="col">Plazas por cada 100 mayores de 65</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Andalucía</th>
+<td>1.922,96 €</td>
+<td>638,77 €</td>
+<td>1.956,50 €</td>
+<td>2,79</td>
+</tr>
+<tr>
+<th scope="row">Aragón</th>
+<td>1.830,17 €</td>
+<td>761,25 €</td>
+<td>1.830,17 €</td>
+<td>6,24</td>
+</tr>
+<tr>
+<th scope="row">Asturias</th>
+<td>1.383,05 €</td>
+<td>818,66 €</td>
+<td>1.535,56 €</td>
+<td>5,28</td>
+</tr>
+<tr>
+<th scope="row">Baleares</th>
+<td>1.466,55 €</td>
+<td>835,33 €</td>
+<td>1.304,34 €</td>
+<td>2,57</td>
+</tr>
+<tr>
+<th scope="row">Canarias</th>
+<td>1.610,26 €</td>
+<td>1.207,69 €</td>
+<td>2.013,06 €</td>
+<td>2,42</td>
+</tr>
+<tr>
+<th scope="row">Cantabria</th>
+<td>2.098,45 €</td>
+<td>716,02 €</td>
+<td>2.098,45 €</td>
+<td>4,41</td>
+</tr>
+<tr>
+<th scope="row">Castilla y León</th>
+<td>2.113,65 €</td>
+<td>677,24 €</td>
+<td>2.113,65 €</td>
+<td>7,55</td>
+</tr>
+<tr>
+<th scope="row">Castilla-La Mancha</th>
+<td>1.495,80 €</td>
+<td>680,73 €</td>
+<td>1.495,80 €</td>
+<td>6,42</td>
+</tr>
+<tr>
+<th scope="row">Cataluña</th>
+<td>1.878,81 €</td>
+<td>690,18 €</td>
+<td>1.878,81 €</td>
+<td>3,95</td>
+</tr>
+<tr>
+<th scope="row">Comunitat Valenciana</th>
+<td>2.330,00 €</td>
+<td>618,09 €</td>
+<td>1.825,00 €</td>
+<td>2,56</td>
+</tr>
+<tr>
+<th scope="row">Extremadura</th>
+<td>934,55 €</td>
+<td>770,25 €</td>
+<td>1.800,00 €</td>
+<td>6,41</td>
+</tr>
+<tr>
+<th scope="row">Galicia</th>
+<td>1.780,08 €</td>
+<td>523,76 €</td>
+<td>1.780,08 €</td>
+<td>3,21</td>
+</tr>
+<tr>
+<th scope="row">Madrid</th>
+<td>2.547,78 €</td>
+<td>484,16 €</td>
+<td>2.190,00 €</td>
+<td>4,13</td>
+</tr>
+<tr>
+<th scope="row">Murcia</th>
+<td>1.800,01 €</td>
+<td>879,09 €</td>
+<td>2.178,75 €</td>
+<td>2,22</td>
+</tr>
+<tr>
+<th scope="row">Navarra</th>
+<td>2.334,75 €</td>
+<td>1.059,69 €</td>
+<td>2.334,75 €</td>
+<td>4,47</td>
+</tr>
+<tr>
+<th scope="row">País Vasco</th>
+<td>2.525,74 €</td>
+<td>1.181,57 €</td>
+<td>3.235,01 €</td>
+<td>3,61</td>
+</tr>
+<tr>
+<th scope="row">La Rioja</th>
+<td>831,34 €</td>
+<td>545,15 €</td>
+<td>748,32 €</td>
+<td>5,32</td>
+</tr>
+<tr>
+<th scope="row">Ceuta</th>
+<td>1.200,00 €</td>
+<td>850,00 €</td>
+<td>1.321,77 €</td>
+<td>1,93</td>
+</tr>
+<tr>
+<th scope="row">Melilla</th>
+<td>1.735,23 €</td>
+<td>547,56 €</td>
+<td>2.159,28 €</td>
+<td>1,94</td>
+</tr>
+<tr>
+<th scope="row"><strong>España</strong></th>
+<td><strong>1.958,95 €</strong></td>
+<td><strong>692,40 €</strong></td>
+<td><strong>1.967,45 €</strong></td>
+<td><strong>3,95</strong></td>
+</tr>
+</tbody></table>
+</div>
+<p>Cómo leer la tabla:</p>
+<ul>
+<li><strong>Precio de la plaza</strong>: lo que cuesta la plaza según cada comunidad. En la concertada, es lo que la Administración paga a la residencia privada por esa plaza.</li>
+<li><strong>Paga el residente</strong>: la aportación media de los residentes en plazas públicas. Depende de sus ingresos, así que la tuya puede ser mayor o menor.</li>
+<li><strong>Plazas por cada 100 mayores</strong>: da una idea de lo difícil que es conseguir plaza. Castilla y León tiene 7,55; Murcia, Ceuta y Melilla, alrededor de 2.</li>
+<li>Cada comunidad calcula sus precios a su manera: algunas cifras (como las de La Rioja o la plaza pública de Extremadura) son mucho más bajas que el resto y conviene tomarlas con cautela.</li>
+</ul>
+<p>En España había <strong>5.465 residencias con 401.644 plazas</strong> a finales de 2024; el <strong>71,6 %</strong> de ellas eran de financiación pública.</p>
+<h2 id="cuanto-pagas-en-una-residencia-publica">Cuánto pagas en una residencia pública</h2>
+<p>Tu aportación depende de tu <strong>capacidad económica</strong>. El <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468" rel="noopener">acuerdo del Consejo Territorial de 2012</a>, que fija los criterios mínimos comunes, establece:</p>
+<ol>
+<li><strong>Capacidad económica</strong> = tu renta anual más el <strong>5 % de tu patrimonio neto</strong> si tienes 65 años o más. En una residencia se cuenta también tu <strong>vivienda habitual</strong>, salvo que siga viviendo en ella alguien a tu cargo (tu cónyuge o pareja, por ejemplo).</li>
+<li><strong>Tu aportación</strong> = tu capacidad económica menos una cantidad para gastos personales del <strong>19 % del IPREM</strong>: <strong>114 euros al mes</strong> en 2026 (el IPREM es de 600 euros).</li>
+<li><strong>Tope</strong>: nunca pagas más del <strong>90 % del coste</strong> de la plaza.</li>
+<li><strong>Nadie se queda sin plaza por falta de dinero</strong>: si tus ingresos no llegan, la Administración pone el resto.</li>
+</ol>
+<p>Son <strong>mínimos comunes</strong>: cada comunidad tiene su propia normativa de copago y puede concretarlos de otra forma, así que pide que te expliquen el cálculo cuando te ofrezcan la plaza.</p>
+<h2 id="si-vas-a-una-residencia-privada">Si vas a una residencia privada</h2>
+<ul>
+<li><strong>No hay un precio oficial</strong> de las plazas privadas: depende de la ciudad, la residencia y el grado de dependencia. Como referencia, la Administración paga de media 1.967,45 euros al mes por una plaza concertada.</li>
+<li><strong>Si tienes reconocida la dependencia</strong> y no hay plaza pública, puedes recibir la <strong>prestación vinculada al servicio de residencia</strong>: hasta <strong>747,25 euros al mes</strong> con grado II o III (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013, anexo IV</a>), según tu capacidad económica. La residencia tiene que estar <strong>acreditada</strong>.</li>
+<li><strong>Impuestos</strong>: las ayudas de las administraciones para pagar la residencia o el centro de día a mayores de 65 años están <strong>exentas del IRPF</strong> si tus otras rentas no superan el doble del IPREM (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7" rel="noopener">artículo 7.i de la Ley del IRPF</a>), y la prestación vinculada de dependencia también.</li>
+</ul>
+<h2 id="como-conseguir-una-plaza-publica-o-concertada">Cómo conseguir una plaza pública o concertada</h2>
+<ol>
+<li><strong>Pide el reconocimiento de la dependencia</strong> en los servicios sociales. Lo explicamos en la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
+<li>Si te reconocen el <strong>grado II o III</strong>, en el Programa Individual de Atención puedes pedir la <strong>residencia</strong> como servicio.</li>
+<li>Si no hay plaza disponible, te pueden reconocer la <strong>prestación vinculada</strong> para una residencia privada acreditada mientras esperas.</li>
+</ol>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-cuesta-una-residencia-de-mayores-al-mes">¿Cuánto cuesta una residencia de mayores al mes?</h3>
+<p>Una plaza pública cuesta de media 1.958,95 euros al mes y una concertada, 1.967,45 euros, según los datos oficiales de diciembre de 2024. En las públicas, el residente paga de media 692,40 euros al mes, según sus ingresos.</p>
+<h3 id="cuanto-se-paga-en-una-residencia-publica-con-la-pension">¿Cuánto se paga en una residencia pública con la pensión?</h3>
+<p>Depende de tu comunidad, pero el criterio mínimo común es que pagas según tu renta y el 5 % de tu patrimonio, quedándote al menos 114 euros al mes para gastos personales y sin pasar del 90 % del coste de la plaza.</p>
+<h3 id="cuentan-la-casa-y-los-ahorros-para-pagar-la-residencia">¿Cuentan la casa y los ahorros para pagar la residencia?</h3>
+<p>Sí: a partir de los 65 años se suma a tu renta el 5 % de tu patrimonio neto, y en una residencia se cuenta también la vivienda habitual, salvo que en ella siga viviendo alguien a tu cargo.</p>
+<h3 id="que-ayuda-hay-para-pagar-una-residencia-privada">¿Qué ayuda hay para pagar una residencia privada?</h3>
+<p>La prestación vinculada al servicio de la ley de dependencia: hasta 747,25 euros al mes con grado II o III, si no hay plaza pública y la residencia está acreditada. La cuantía concreta depende de tu capacidad económica.</p>
+<h3 id="donde-es-mas-facil-conseguir-plaza">¿Dónde es más fácil conseguir plaza?</h3>
+<p>Donde hay más plazas por habitante mayor: Castilla y León (7,55 por cada 100 mayores de 65), Castilla-La Mancha (6,42), Extremadura (6,41) y Aragón (6,24). La media de España es de 3,95.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://imserso.es/el-imserso/documentacion/estadisticas/servicios-sociales-dirigidos-a-personas-mayores-en-espana-diciembre-2024" rel="noopener">Imserso: Servicios sociales dirigidos a personas mayores en España, diciembre de 2024 (atención residencial: plazas, cobertura y precios)</a>.</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468" rel="noopener">Acuerdo del Consejo Territorial para la mejora del sistema de dependencia (Resolución de 13 de julio de 2012)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013, anexo IV (cuantías de la prestación vinculada)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley del IRPF, artículo 7</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Todavía no tienes la dependencia? Empieza por la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
+<li>¿Qué grado te corresponde? Mira los <a href="/dependencia/grados/">grados de dependencia y el baremo</a>.</li>
+<li>¿Pública o privada? Compara residencia pública o privada.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien fija el precio y el copago de sus plazas. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></excerpt:encoded>
+    <wp:post_id>9010</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[precio-residencias]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dependencia"><![CDATA[Dependencia]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Precio de las residencias de mayores por comunidad en 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[precio residencia de mayores]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Precio de las residencias de mayores por comunidad en 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[precio residencia de mayores]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Declaración de la renta de los jubilados: cuándo estás obligado, qué pensiones tributan y cómo pagar menos]]></title>
+    <link>https://jubilometro.com/dinero/declaracion-renta-jubilados/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Si solo cobras tu pensión y te la paga <strong>un único pagador</strong> (por ejemplo, la Seguridad Social, aunque sean jubilación y viudedad), <strong>no estás obligado a declarar</strong> si cobras <strong>menos de 22.000 euros brutos al año</strong>.</p>
+<p>Si tienes <strong>dos o más pagadores</strong> y lo que te paga el segundo (y los demás) <strong>pasa de 1.500 euros</strong>, el límite baja a <strong>15.876 euros</strong>. También baja si cobras una <strong>pensión extranjera</strong> o una pensión compensatoria. La incapacidad permanente absoluta y las ayudas de dependencia no tributan, y a partir de 65 años tu mínimo exento sube.</p>
+</aside>
+<h2 id="estoy-obligado-a-declarar">¿Estoy obligado a declarar?</h2>
+<p>Lo regula el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a96" rel="noopener">artículo 96 de la Ley del IRPF</a>. Si tus únicos ingresos son pensiones (y, como mucho, algo de intereses o dividendos), estos son los límites para el ejercicio 2026, que se declara en la primavera de 2027:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Límites de la obligación de declarar para pensionistas (ingresos brutos anuales)</caption>
+<thead>
+<tr>
+<th scope="col">Tu caso</th>
+<th scope="col">No declaras si tus pensiones no superan</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Un solo pagador</th>
+<td>22.000 €</td>
+</tr>
+<tr>
+<th scope="row">Varios pagadores, pero el segundo y los demás suman 1.500 € o menos</th>
+<td>22.000 €</td>
+</tr>
+<tr>
+<th scope="row">Varios pagadores con procedimiento especial de retenciones (modelo 146)</th>
+<td>22.000 €</td>
+</tr>
+<tr>
+<th scope="row">Varios pagadores y el segundo y los demás suman más de 1.500 €</th>
+<td>15.876 €</td>
+</tr>
+<tr>
+<th scope="row">Pensión de un pagador que no retiene en España (por ejemplo, una pensión extranjera)</th>
+<td>15.876 €</td>
+</tr>
+<tr>
+<th scope="row">Pensión compensatoria del excónyuge o anualidades por alimentos no exentas</th>
+<td>15.876 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Además, tampoco declaras por intereses, dividendos y ganancias con retención si no pasan de <strong>1.600 euros</strong> en conjunto, ni por la imputación de rentas de una segunda vivienda y otras rentas similares si no pasan de <strong>1.000 euros</strong>.</p>
+<p><strong>Estás obligado siempre</strong>, aunque ganes poco, si quieres aplicarte la reducción por <strong>aportaciones a planes de pensiones</strong> o tienes derecho a la <strong>deducción por doble imposición internacional</strong> (algo habitual si cobras una pensión de otro país).</p>
+<p>Aunque no estés obligado, <strong>te puede interesar declarar</strong>: si te retuvieron de más, solo recuperas el dinero presentando la declaración.</p>
+<h3 id="el-procedimiento-especial-para-quien-cobra-de-varios-pagador">El procedimiento especial para quien cobra de varios pagadores</h3>
+<p>Si cobras varias pensiones de distintos pagadores que <strong>en total no superan 22.000 euros</strong>, todas en forma de renta y con retención, puedes pedir a la Agencia Tributaria que calcule tu retención conjunta con el <strong>modelo 146</strong>, en <strong>enero o febrero</strong> de cada año (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820" rel="noopener">artículo 89.A del Reglamento del IRPF</a>). La Agencia Tributaria te entrega una comunicación para cada pagador, que debes darles antes del 30 de abril. Así cada uno te retiene lo correcto y el límite para declarar vuelve a ser de 22.000 euros.</p>
+<h2 id="que-tributa-y-que-no">Qué tributa y qué no</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Tributación en el IRPF de las prestaciones más habituales de los mayores</caption>
+<thead>
+<tr>
+<th scope="col">Prestación</th>
+<th scope="col">¿Tributa?</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Pensión de jubilación y de viudedad</th>
+<td>Sí, como rendimiento del trabajo</td>
+</tr>
+<tr>
+<th scope="row">Incapacidad permanente total</th>
+<td>Sí (pero te da un mínimo por discapacidad de 3.000 €)</td>
+</tr>
+<tr>
+<th scope="row">Incapacidad permanente absoluta y gran incapacidad</th>
+<td>No, exentas</td>
+</tr>
+<tr>
+<th scope="row">Ayudas de dependencia (cuidados familiares, vinculada, asistencia personal)</th>
+<td>No, exentas</td>
+</tr>
+<tr>
+<th scope="row">Rescate de un plan de pensiones</th>
+<td>Sí, como rendimiento del trabajo</td>
+</tr>
+<tr>
+<th scope="row">Pensión de otro país</th>
+<td>Sí, si vives en España, con las reglas del convenio con ese país</td>
+</tr>
+<tr>
+<th scope="row">Venta de tu vivienda habitual con más de 65 años</th>
+<td>No, la ganancia está exenta</td>
+</tr>
+</tbody></table>
+</div>
+<p>Las exenciones están en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7" rel="noopener">artículo 7 de la ley</a> (letras f y x) y la de la vivienda, en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a33" rel="noopener">artículo 33.4</a>.</p>
+<h2 id="lo-que-te-favorece-a-partir-de-los-65">Lo que te favorece a partir de los 65</h2>
+<ul>
+<li><strong>Mínimo personal más alto</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a57" rel="noopener">artículo 57</a>): la parte de tu renta que no tributa es de <strong>5.550 euros</strong>, más <strong>1.150</strong> desde los 65 años y otros <strong>1.400</strong> desde los 75: <strong>6.700 euros</strong> con 65 años y <strong>8.100</strong> con 75.</li>
+<li><strong>2.000 euros de gastos deducibles</strong> de la pensión, como cualquier rendimiento del trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a19" rel="noopener">artículo 19</a>).</li>
+<li><strong>Reducción por rendimientos del trabajo</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a20" rel="noopener">artículo 20</a>): si tu pensión neta (tras los gastos) no pasa de 14.852 euros, se reduce en <strong>7.302 euros</strong>; entre 14.852 y 19.747,50 euros la reducción va bajando hasta desaparecer.</li>
+<li><strong>Discapacidad</strong>: si tienes una discapacidad reconocida del 33 % o más, o cobras una incapacidad permanente total, absoluta o gran incapacidad, sumas un <strong>mínimo por discapacidad de 3.000 euros</strong> (9.000 con el 65 %).</li>
+<li><strong>Deducciones de 1.200 euros</strong> que también pueden aplicarse los pensionistas: por cónyuge con discapacidad sin rentas superiores a 8.000 euros, o por ascendiente o descendiente con discapacidad a tu cargo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">artículo 81 bis</a>).</li>
+<li><strong>Declaración conjunta</strong>: en un matrimonio, la declaración conjunta reduce la base en <strong>3.400 euros</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a84" rel="noopener">artículo 84</a>). Suele compensar cuando uno de los dos no tiene ingresos o tiene muy pocos: compara siempre individual y conjunta.</li>
+</ul>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Antonio, 72 años, cobra 24.000 euros al año entre jubilación y viudedad, las dos de la Seguridad Social.</strong> Es un solo pagador, pero supera los 22.000 euros: <strong>está obligado a declarar</strong>. Como la Seguridad Social le retiene teniendo en cuenta las dos pensiones, lo normal es que el resultado salga cerca de cero.</p>
+<p><strong>María, 68 años, cobra 14.000 euros de la Seguridad Social y 3.000 euros de un plan de pensiones de su antigua empresa.</strong> Tiene dos pagadores y el segundo supera 1.500 euros, así que su límite es de 15.876 euros y, con 17.000, <strong>está obligada a declarar</strong>. Su cuenta en la parte estatal:</p>
+<ul>
+<li>Rendimiento neto: 17.000 − 2.000 de gastos = 15.000 euros.</li>
+<li>Reducción del artículo 20: 7.302 − 1,75 × (15.000 − 14.852) = 7.043 euros. Queda una base de 7.957 euros.</li>
+<li>Su mínimo personal (65 años o más) es de 6.700 euros: tributa por la diferencia al 9,5 %, <strong>119,42 euros de cuota estatal</strong>, más una cantidad parecida de su comunidad.</li>
+</ul>
+<p>Si sus pagadores le retuvieron menos, le saldrá a pagar la diferencia. Con el modelo 146 habría repartido bien las retenciones durante el año.</p>
+<h2 id="como-y-cuando-se-presenta">Cómo y cuándo se presenta</h2>
+<ul>
+<li><strong>Cuándo</strong>: la declaración del año 2026 se presenta en la campaña de la primavera de 2027. En los últimos años, la campaña ha ido de principios de abril a finales de junio.</li>
+<li><strong>Cómo</strong>: con <strong>Renta WEB</strong> en la sede de la Agencia Tributaria, entrando con Cl@ve, certificado o número de referencia. El borrador ya trae tus pensiones: revisa que estén todas y añade lo que falte.</li>
+<li><strong>Si no te manejas con internet</strong>, puedes pedir cita para que te la hagan por teléfono o en una oficina de la Agencia Tributaria.</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="un-jubilado-tiene-que-hacer-la-declaracion-de-la-renta">¿Un jubilado tiene que hacer la declaración de la renta?</h3>
+<p>Solo si supera los límites: 22.000 euros brutos al año con un pagador, o 15.876 euros si tiene dos o más pagadores y el segundo le paga más de 1.500 euros. También si quiere deducir aportaciones a planes de pensiones o tiene derecho a la deducción por doble imposición internacional.</p>
+<h3 id="la-pension-de-jubilacion-y-la-de-viudedad-cuentan-como-dos-p">¿La pensión de jubilación y la de viudedad cuentan como dos pagadores?</h3>
+<p>No, si las dos las paga la Seguridad Social: es un único pagador. Sí cuentan como dos si una es de la Seguridad Social y la otra de un plan de pensiones, de una mutualidad o de otro país.</p>
+<h3 id="tributa-la-pension-de-incapacidad-permanente-absoluta">¿Tributa la pensión de incapacidad permanente absoluta?</h3>
+<p>No. La absoluta y la gran incapacidad de la Seguridad Social están exentas del IRPF. La total sí tributa.</p>
+<h3 id="cuanto-es-el-minimo-exento-para-un-jubilado">¿Cuánto es el mínimo exento para un jubilado?</h3>
+<p>5.550 euros más 1.150 si tiene más de 65 años (6.700 en total) y otros 1.400 si tiene más de 75 (8.100). Además, puede restar 2.000 euros de gastos y, si su pensión es baja, la reducción por rendimientos del trabajo, de hasta 7.302 euros.</p>
+<h3 id="que-pasa-si-cobro-una-pension-de-otro-pais">¿Qué pasa si cobro una pensión de otro país?</h3>
+<p>Si vives en España, en general tributa aquí según el convenio con ese país. Como el pagador extranjero no retiene en España, tu límite para declarar es de 15.876 euros, y si tienes derecho a la deducción por doble imposición internacional, tienes que declarar siempre.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley 35/2006 del IRPF: artículos 7, 19, 20, 33, 57, 60, 81 bis, 84 y 96</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820" rel="noopener">Reglamento del IRPF (Real Decreto 439/2007), artículo 89.A</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto te queda limpio cada mes? Calcula tu pensión neta con la retención de IRPF.</li>
+<li>¿Vas a rescatar un plan de pensiones? Lee cómo <a href="/dinero/rescate-plan-pensiones/">rescatar el plan de pensiones pagando menos</a>.</li>
+<li>¿Cuánto subirá tu pensión en enero? Mira la <a href="/cuanto-cobrare/revalorizacion-pensiones/">revalorización de las pensiones en 2027</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de la Agencia Tributaria. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></excerpt:encoded>
+    <wp:post_id>9011</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[declaracion-renta-jubilados]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Declaración de la renta de los jubilados: quién debe hacerla]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[declaración de la renta jubilados]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Declaración de la renta de los jubilados: quién debe hacerla]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[declaración de la renta jubilados]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Rescatar el plan de pensiones al jubilarte: cuándo puedes, cómo tributa y cómo pagar menos IRPF]]></title>
     <link>https://jubilometro.com/dinero/rescate-plan-pensiones/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -2421,7 +2840,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2761,7 +3180,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2979,7 +3398,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3170,7 +3589,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3310,7 +3729,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3446,7 +3865,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3581,7 +4000,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3762,7 +4181,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3918,7 +4337,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4106,7 +4525,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4265,7 +4684,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4487,7 +4906,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4642,7 +5061,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4740,7 +5159,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4910,7 +5329,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5072,7 +5491,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5202,7 +5621,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5851,7 +6270,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5981,7 +6400,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6159,7 +6578,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6293,7 +6712,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6417,7 +6836,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6534,7 +6953,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6666,7 +7085,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6766,7 +7185,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6786,6 +7205,207 @@
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[jubilación trabajado en otro país]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Cuánto se cobra de pensión de viudedad en 2026: el 52, el 60 o el 70 % de la base reguladora, con ejemplos]]></title>
+    <link>https://jubilometro.com/viudedad/cuantia/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La pensión de viudedad es un porcentaje de la <strong>base reguladora de la persona fallecida</strong>:</p>
+<ul>
+<li><strong>52 %</strong> con carácter general.</li>
+<li><strong>60 %</strong> si tienes <strong>65 años o más</strong>, no cobras otra pensión pública ni trabajas y tus otras rentas no pasan de <strong>9.442 euros</strong> al año. Hay que pedirlo.</li>
+<li><strong>70 %</strong> si tienes <strong>cargas familiares</strong>, la viudedad es tu principal ingreso y tus ingresos son bajos.</li>
+</ul>
+<p>Si el resultado queda por debajo de la <strong>mínima</strong> y cumples los requisitos de ingresos, se completa: en 2026, entre <strong>709,40</strong> y <strong>1.256,60 euros</strong> al mes según tu edad y tus cargas.</p>
+</aside>
+<h2 id="como-se-calcula">Cómo se calcula</h2>
+<p>Pensión de viudedad = <strong>base reguladora</strong> del fallecido × <strong>porcentaje</strong> que te corresponda. Se cobra en 14 pagas.</p>
+<h3 id="la-base-reguladora">La base reguladora</h3>
+<p>Depende de la situación de la persona fallecida (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972, artículo 7</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Base reguladora de la pensión de viudedad según la situación del fallecido</caption>
+<thead>
+<tr>
+<th scope="col">Situación de la persona fallecida</th>
+<th scope="col">Base reguladora</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Trabajando (enfermedad común o accidente no laboral)</th>
+<td>Suma de las bases de cotización de 24 meses seguidos, elegidos por ti dentro de los últimos 15 años, dividida entre 28</td>
+</tr>
+<tr>
+<th scope="row">Pensionista de jubilación o de incapacidad permanente</th>
+<td>La misma base reguladora de su pensión, actualizada con las subidas de las pensiones de viudedad</td>
+</tr>
+<tr>
+<th scope="row">Accidente de trabajo o enfermedad profesional</th>
+<td>Se calcula con su salario real</td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Elige bien los 24 meses</strong>: el decreto deja que los elija la persona beneficiaria, así que conviene indicar en la solicitud el periodo de 24 meses seguidos de los últimos 15 años en el que la persona fallecida cotizó más.</p>
+<h3 id="el-porcentaje">El porcentaje</h3>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Porcentaje de la pensión de viudedad y requisitos de cada uno</caption>
+<thead>
+<tr>
+<th scope="col">Porcentaje</th>
+<th scope="col">Requisitos</th>
+<th scope="col">Norma</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">52 %</th>
+<td>Ninguno: es el general</td>
+<td><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1966-21116" rel="noopener">Decreto 3158/1966, art. 31.1</a></td>
+</tr>
+<tr>
+<th scope="row">60 %</th>
+<td>65 años o más; sin derecho a otra pensión pública, española o extranjera; sin ingresos por trabajo; rentas de capital, actividades o ganancias por debajo de 9.442 € al año</td>
+<td><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-10397" rel="noopener">Real Decreto 900/2018</a></td>
+</tr>
+<tr>
+<th scope="row">70 %</th>
+<td>Cargas familiares; la viudedad es al menos el 50 % de tus ingresos; tus ingresos totales no superan el límite de la tabla siguiente</td>
+<td><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1966-21116" rel="noopener">Decreto 3158/1966, art. 31.2</a></td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Cargas familiares</strong> significa vivir con hijos menores de 26 años o mayores incapacitados, o con menores acogidos, siempre que los ingresos de toda la familia (incluida tu pensión) divididos entre el número de miembros no superen el 75 % del salario mínimo sin pagas extra: <strong>10.989 euros al año por persona en 2026</strong> (salario mínimo de 1.221 euros al mes).</p>
+<p><strong>Límite de ingresos para el 70 % en 2026</strong>: tus rendimientos anuales por todos los conceptos, contando la propia pensión, no pueden superar 9.442 euros más la pensión mínima de viudedad de tu edad:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Límite anual de ingresos para cobrar el 70 % en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Tu edad</th>
+<th scope="col">Límite de ingresos al año</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Menos de 60 años</th>
+<td>19.373,60 €</td>
+</tr>
+<tr>
+<th scope="row">Entre 60 y 64 años</th>
+<td>21.704,60 €</td>
+</tr>
+<tr>
+<th scope="row">65 años o más</th>
+<td>22.548,80 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Si al aplicar el 70 % la pensión más tus otros ingresos superaran ese límite, la pensión se reduce lo necesario para no pasarlo. Y si dejas de cumplir algún requisito, vuelves al 52 % desde el mes siguiente.</p>
+<h2 id="las-pensiones-minimas-de-viudedad-en-2026">Las pensiones mínimas de viudedad en 2026</h2>
+<p>Si tu pensión queda por debajo de la mínima, la Seguridad Social la completa con el <strong>complemento a mínimos</strong>, siempre que residas en España y tus otros ingresos no pasen de <strong>9.442 euros</strong> al año (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-4" tabindex="0">
+<table><caption id="tabla-4">Pensión mínima de viudedad en 2026 (al mes y al año)</caption>
+<thead>
+<tr>
+<th scope="col">Situación</th>
+<th scope="col">Al mes (14 pagas)</th>
+<th scope="col">Al año</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Con cargas familiares</th>
+<td>1.256,60 €</td>
+<td>17.592,40 €</td>
+</tr>
+<tr>
+<th scope="row">65 años o más, o discapacidad del 65 % o más</th>
+<td>936,20 €</td>
+<td>13.106,80 €</td>
+</tr>
+<tr>
+<th scope="row">Entre 60 y 64 años</th>
+<td>875,90 €</td>
+<td>12.262,60 €</td>
+</tr>
+<tr>
+<th scope="row">Menos de 60 años</th>
+<td>709,40 €</td>
+<td>9.931,60 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Si trabajas y ganas más de 9.442 euros al año, no tienes complemento a mínimos, aunque sí cobras tu pensión de viudedad entera: <strong>la viudedad es compatible con cualquier sueldo</strong>. Tampoco se complementan las pensiones de viudedad de divorciados limitadas a la pensión compensatoria.</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Elena, 55 años.</strong> Su marido murió trabajando. Sus mejores 24 meses seguidos de los últimos 15 años suman 50.400 euros de bases de cotización:</p>
+<ul>
+<li>Base reguladora: 50.400 ÷ 28 = 1.800 euros.</li>
+<li>Pensión: 52 % → <strong>936 euros al mes</strong> en 14 pagas (por encima de la mínima de 709,40), compatible con su sueldo.</li>
+</ul>
+<p><strong>Rosa, 70 años, sin pensión propia ni otros ingresos.</strong> Su marido era jubilado y la base reguladora de su pensión, actualizada, es de 1.500 euros. Rosa cumple los requisitos del 60 % y lo pide: <strong>900 euros al mes</strong>, en lugar de 780 con el 52 %.</p>
+<p><strong>Ana, 42 años, con dos hijos de 9 y 13 años y sin otros ingresos.</strong> La base reguladora de su marido es de 1.300 euros: con el 52 % cobraría 676 euros. Pide el 70 %:</p>
+<ul>
+<li>Pensión: 1.300 × 70 % = <strong>910 euros al mes</strong>, 12.740 euros al año.</li>
+<li>Límite de ingresos (menos de 60 años): 19.373,60 euros. Cumple.</li>
+<li>Ingresos por miembro de la familia: 12.740 ÷ 3 = 4.246,67 euros, por debajo de 10.989. Cumple.</li>
+</ul>
+<p>Como su pensión queda por debajo de la mínima con cargas familiares (1.256,60 euros), puede pedir además el <strong>complemento a mínimos</strong>.</p>
+<!-- calculadora-web:viudedad -->
+
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-se-cobra-de-pension-de-viudedad">¿Cuánto se cobra de pensión de viudedad?</h3>
+<p>El 52 % de la base reguladora de la persona fallecida, el 60 % si tienes 65 años o más y no tienes otra pensión ni otros ingresos relevantes, o el 70 % si tienes cargas familiares e ingresos bajos. Con una base de 1.500 euros: 780, 900 o 1.050 euros al mes.</p>
+<h3 id="cual-es-la-pension-minima-de-viudedad-en-2026">¿Cuál es la pensión mínima de viudedad en 2026?</h3>
+<p>1.256,60 euros al mes con cargas familiares; 936,20 con 65 años o más o discapacidad del 65 %; 875,90 entre 60 y 64 años y 709,40 con menos de 60, en 14 pagas y si cumples los requisitos de ingresos.</p>
+<h3 id="como-se-consigue-el-60-de-la-viudedad">¿Cómo se consigue el 60 % de la viudedad?</h3>
+<p>Pidiéndolo a la Seguridad Social cuando tengas 65 años o más, si no cobras otra pensión pública (española o extranjera), no trabajas y tus otras rentas no pasan de 9.442 euros al año. Si lo pides más tarde, tiene efectos desde los tres meses anteriores a la solicitud.</p>
+<h3 id="si-trabajo-me-bajan-la-pension-de-viudedad">¿Si trabajo me bajan la pensión de viudedad?</h3>
+<p>No. La viudedad es compatible con cualquier sueldo y no se reduce. Lo único que puedes perder es el 60 %, el 70 % o el complemento a mínimos, que dependen de tus ingresos.</p>
+<h3 id="como-se-calcula-la-viudedad-si-el-fallecido-ya-estaba-jubila">¿Cómo se calcula la viudedad si el fallecido ya estaba jubilado?</h3>
+<p>Con la misma base reguladora de su pensión de jubilación, actualizada con las subidas de las pensiones de viudedad desde que se jubiló.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1966-21116" rel="noopener">Decreto 3158/1966, artículo 31 (porcentajes del 52 y el 70 %)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972, artículo 7 (base reguladora)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-10397" rel="noopener">Real Decreto 900/2018 (porcentaje del 60 %)</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, mínimas y límite de ingresos de 2026</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-3815" rel="noopener">Real Decreto 126/2026, salario mínimo interprofesional para 2026</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Tienes derecho? Repasa los <a href="/viudedad/requisitos/">requisitos de la pensión de viudedad</a>.</li>
+<li>¿Cuánto te quedaría? Calcúlalo con la calculadora de pensión de viudedad.</li>
+<li>¿Ya cobras tu jubilación? Mira la viudedad y la jubilación a la vez.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula la pensión de viudedad. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
+    <wp:post_id>9037</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[cuantia]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="viudedad"><![CDATA[Viudedad]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Cuantía de la pensión de viudedad 2026: 52, 60 o 70 %]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[cuantía pensión de viudedad]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cuantía de la pensión de viudedad 2026: 52, 60 o 70 %]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cuantía pensión de viudedad]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Requisitos de la pensión de viudedad en 2026: quién puede cobrarla y qué tiene que haber cotizado el fallecido]]></title>
@@ -6955,7 +7575,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

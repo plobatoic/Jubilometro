@@ -36,7 +36,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | programado 07/10 |
 | 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | |
 | 37a | Pensión de viudedad: requisitos | /viudedad/requisitos/ | requisitos | F1 | programado 09/10 |
-| 37b | Pensión de viudedad: cuantía (52, 60 y 70 %) | /viudedad/cuantia/ | cuantia | F1 | |
+| 37b | Pensión de viudedad: cuantía (52, 60 y 70 %) | /viudedad/cuantia/ | cuantia | F1 | programado 20/10 |
 | 37c | Cómo solicitar la pensión de viudedad | /viudedad/solicitar-viudedad/ | solicitar-viudedad | F2 | |
 | 38 | Viudedad en parejas de hecho | /viudedad/pareja-de-hecho/ | pareja-de-hecho | F2 | |
 | 39 | Viudedad y jubilación a la vez | /viudedad/viudedad-y-jubilacion/ | | F2 | |
@@ -80,7 +80,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | |
 | 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | |
 | 71 | Residencia pública o privada | /dependencia/residencias-publicas/ | residencias-publicas | F2 | |
-| 72 | Precio de las residencias por provincia | /dependencia/precio-residencias/ | | F1 | |
+| 72 | Precio de las residencias por comunidad (no hay datos oficiales por provincia) | /dependencia/precio-residencias/ | | F1 | programado 21/10 |
 | 73 | Cuidadora interna o externa | /dependencia/cuidadora-interna-externa/ | | F2 | |
 | 74 | Teleasistencia | /dependencia/teleasistencia/ | teleasistencia | F3 | |
 | 75 | Centro de día | /dependencia/centro-de-dia/ | centro-de-dia | F3 | |
@@ -88,7 +88,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Cómo solicitar la dependencia | /dependencia/solicitar-dependencia/ | solicitar-dependencia | | |
 | extra | Servicio de ayuda a domicilio | /dependencia/ayuda-a-domicilio/ | ayuda-a-domicilio | | |
 | extra | Convenio especial del cuidador | /dependencia/convenio-cuidador/ | convenio-cuidador | | |
-| 78 | Declaración de la renta de los jubilados | /dinero/declaracion-renta-jubilados/ | declaracion-renta-jubilados | F1 | |
+| 78 | Declaración de la renta de los jubilados | /dinero/declaracion-renta-jubilados/ | declaracion-renta-jubilados | F1 | programado 19/10 (actualizar en marzo con las fechas de la campaña) |
 | 79 | Retención de IRPF en la pensión (modelo 145) | /dinero/irpf-pensiones/ | irpf-pensiones | F3 | |
 | 80 | Rescatar el plan de pensiones al jubilarte | /dinero/rescate-plan-pensiones/ | rescate-plan-pensiones | F1 | programado 16/10 |
 | 81 | Rescate de aportaciones de más de 10 años | /dinero/rescate-aportaciones-10-anos/ | | F2 | |
