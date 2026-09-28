@@ -8,6 +8,7 @@
 //   - Cualquier otra cita -> caja de aviso.
 //   - <!-- tabla: Título --> justo antes de una tabla -> <caption>.
 //   - <!-- calculadora:edad-jubilacion --> -> widget de la calculadora.
+//   - <!-- calculadora-web:pension --> -> llamada a una calculadora de la web (solo en WordPress).
 //   - Sección "## Siguiente paso" -> bloque de navegación; tras la línea "---", aviso legal.
 import { readFileSync, readdirSync, statSync } from 'node:fs';
 import { dirname, join, relative } from 'node:path';

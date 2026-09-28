@@ -1,4 +1,16 @@
 {
+  "/cuanto-cobrare/como-se-calcula-la-pension/": {
+    "id": 149,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/pension-maxima/": {
+    "id": 151,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/pension-minima/": {
+    "id": 388,
+    "estado": "future"
+  },
   "/imserso/viajes-imserso/": {
     "id": 196,
     "estado": "future"

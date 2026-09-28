@@ -96,6 +96,7 @@ for (const slug of new Set(articulos.map((a) => CATEGORIAS[a.datos.categoria].sl
 }
 
 const resumen = {};
+const cambiosDeUrl = new Map();
 for (const a of articulos) {
   const d = a.datos;
   const slug = d.url.split('/').filter(Boolean).pop();
@@ -138,6 +139,7 @@ for (const a of articulos) {
       `${campos.featured_media ? ` · imagen ${campos.featured_media}` : ''} · ${campos.content.length} caracteres`);
     continue;
   }
+  if (entrada && entrada.slug !== slug) cambiosDeUrl.set(`${CATEGORIAS[d.categoria].url}${entrada.slug}/`, d.url);
   const post = entrada
     ? await api(`/wp/v2/posts/${entrada.id}`, { method: 'POST', json: campos })
     : await api('/wp/v2/posts', { method: 'POST', reintentar: false, json: { status: 'draft', ...campos } });
@@ -150,6 +152,20 @@ for (const a of articulos) {
   });
   resumen[d.url] = { id: post.id, estado: post.status };
   console.log(`${entrada ? 'Actualizada' : 'Creada    '} ${String(post.id).padStart(4)} ${post.status.padEnd(7)} ${d.url}`);
+}
+
+// Plantillas que han cambiado de URL: las páginas de la web (la portada, sobre todo) que
+// enlazaban a la URL antigua pasan a enlazar a la nueva.
+if (cambiosDeUrl.size && !PRUEBA) {
+  const paginas = await api('/wp/v2/pages?per_page=100&status=publish&context=edit&_fields=id,slug,content');
+  for (const pagina of paginas) {
+    let contenido = pagina.content.raw;
+    for (const [antes, despues] of cambiosDeUrl) contenido = contenido.split(`href="${antes}"`).join(`href="${despues}"`);
+    if (contenido !== pagina.content.raw) {
+      await api(`/wp/v2/pages/${pagina.id}`, { method: 'POST', json: { content: contenido } });
+      console.log(`Enlaces actualizados en la página «${pagina.slug}»`);
+    }
+  }
 }
 
 if (PRUEBA) process.exit(0);

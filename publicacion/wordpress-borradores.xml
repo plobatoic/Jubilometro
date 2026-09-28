@@ -15,8 +15,9 @@
   <wp:base_site_url>https://jubilometro.com</wp:base_site_url>
   <wp:base_blog_url>https://jubilometro.com</wp:base_blog_url>
   <wp:category><wp:term_id>100</wp:term_id><wp:category_nicename><![CDATA[calculadoras]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Calculadoras]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>101</wp:term_id><wp:category_nicename><![CDATA[imserso]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[IMSERSO]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>102</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>101</wp:term_id><wp:category_nicename><![CDATA[cuanto-cobrare]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Cuánto cobraré]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>102</wp:term_id><wp:category_nicename><![CDATA[imserso]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[IMSERSO]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>103</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
   <item>
     <title><![CDATA[Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado]]></title>
     <link>https://jubilometro.com/calculadoras/edad-de-jubilacion/</link>
@@ -419,6 +420,560 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Cómo se calcula la pensión de jubilación en 2026: el nuevo sistema dual de base reguladora]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/como-se-calcula-la-pension/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La pensión de jubilación se calcula en tres pasos: <strong>1)</strong> la <strong>base reguladora</strong>, que es la media de tus bases de cotización de los últimos años; <strong>2)</strong> el <strong>porcentaje</strong> que te corresponde por los años cotizados (del 50 % con 15 años al 100 % con 36 años y 6 meses en 2026, o con 37 años desde 2027); y <strong>3)</strong> los <strong>ajustes</strong>: recorte si te jubilas antes, aumento si te jubilas después, complemento a mínimos y tope de la pensión máxima (3.359,60 euros al mes en 2026).</p>
+<p>La novedad de 2026 es el <strong>sistema dual</strong>: la Seguridad Social calcula la base reguladora de dos formas, con los últimos 25 años o con un periodo más largo en el que puedes descartar los peores meses, y <strong>aplica de oficio la que te dé más pensión</strong>.</p>
+</aside>
+<h2 id="la-formula-de-la-pension-en-tres-pasos">La fórmula de la pensión en tres pasos</h2>
+<p><strong>Pensión mensual = base reguladora × porcentaje por años cotizados × ajustes</strong></p>
+<p>Con límites por arriba y por abajo:</p>
+<ul>
+<li><strong>No puede superar la pensión máxima</strong>: 3.359,60 euros al mes en 2026, 47.034,40 euros al año.</li>
+<li><strong>Si queda por debajo de la pensión mínima</strong>, puedes cobrar el complemento a mínimos si tus ingresos no superan el límite legal (9.442 euros al año en 2026 si no tienes cónyuge a cargo).</li>
+<li>Se cobra en <strong>14 pagas</strong>: 12 mensualidades y 2 pagas extra, en junio y noviembre.</li>
+</ul>
+<h2 id="paso-1-la-base-reguladora-con-el-sistema-dual">Paso 1: la base reguladora con el sistema dual</h2>
+<p>La base reguladora es la media de lo que has cotizado. Hasta 2025 se calculaba siempre igual: la suma de las bases de cotización de los <strong>últimos 300 meses (25 años) dividida entre 350</strong>. Se divide entre 350 y no entre 300 porque la pensión se cobra en 14 pagas: 300 × 14 ÷ 12 = 350.</p>
+<p>La reforma del <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967" rel="noopener">Real Decreto-ley 2/2023</a> cambió el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209" rel="noopener">artículo 209 de la Ley General de la Seguridad Social</a> a partir del 1 de enero de 2026. El cálculo nuevo, cuando esté completo en 2037, toma <strong>los últimos 348 meses (29 años) y descarta los 24 peores</strong>: suma las 324 mejores bases y las divide entre 378. Para no perjudicar a nadie durante el cambio, la ley establece dos garantías:</p>
+<ol>
+<li><strong>El periodo nuevo se alarga poco a poco</strong> (disposición transitoria 40.ª): en 2026 se toman las 302 mejores bases de los últimos 304 meses, y cada año se amplía el periodo en 4 meses y el descarte en 2 meses.</li>
+<li><strong>Hasta 2040 se aplica el cálculo más favorable</strong> (disposición transitoria 4.ª, apartado 7): la Seguridad Social calcula también la base reguladora con el sistema antiguo de 25 años y te reconoce la más alta. No tienes que pedirlo.</li>
+</ol>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Periodo de cálculo de la base reguladora con el sistema nuevo, año a año</caption>
+<thead>
+<tr>
+<th scope="col">Año de jubilación</th>
+<th scope="col">Meses que se miran</th>
+<th scope="col">Bases que cuentan (se descartan las peores)</th>
+<th scope="col">Divisor</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">2026</th>
+<td>304</td>
+<td>302 (se descartan 2)</td>
+<td>352,33</td>
+</tr>
+<tr>
+<th scope="row">2027</th>
+<td>308</td>
+<td>304 (se descartan 4)</td>
+<td>354,67</td>
+</tr>
+<tr>
+<th scope="row">2028</th>
+<td>312</td>
+<td>306 (se descartan 6)</td>
+<td>357</td>
+</tr>
+<tr>
+<th scope="row">2029</th>
+<td>316</td>
+<td>308 (se descartan 8)</td>
+<td>359,33</td>
+</tr>
+<tr>
+<th scope="row">2030</th>
+<td>320</td>
+<td>310 (se descartan 10)</td>
+<td>361,67</td>
+</tr>
+<tr>
+<th scope="row">2031</th>
+<td>324</td>
+<td>312 (se descartan 12)</td>
+<td>364</td>
+</tr>
+<tr>
+<th scope="row">2032</th>
+<td>328</td>
+<td>314 (se descartan 14)</td>
+<td>366,33</td>
+</tr>
+<tr>
+<th scope="row">2033</th>
+<td>332</td>
+<td>316 (se descartan 16)</td>
+<td>368,67</td>
+</tr>
+<tr>
+<th scope="row">2034</th>
+<td>336</td>
+<td>318 (se descartan 18)</td>
+<td>371</td>
+</tr>
+<tr>
+<th scope="row">2035</th>
+<td>340</td>
+<td>320 (se descartan 20)</td>
+<td>373,33</td>
+</tr>
+<tr>
+<th scope="row">2036</th>
+<td>344</td>
+<td>322 (se descartan 22)</td>
+<td>375,67</td>
+</tr>
+<tr>
+<th scope="row">2037 en adelante</th>
+<td>348</td>
+<td>324 (se descartan 24)</td>
+<td>378</td>
+</tr>
+</tbody></table>
+</div>
+<p>La comparación con el sistema antiguo se mantiene tal cual hasta 2040. En 2041, 2042 y 2043 el cálculo antiguo también se alarga (306, 312 y 318 meses) y <strong>desde 2044 solo existe el sistema nuevo</strong>.</p>
+<h3 id="dos-reglas-que-no-cambian">Dos reglas que no cambian</h3>
+<ul>
+<li><strong>Las bases de los dos últimos años cuentan por su importe real; las anteriores se actualizan con el IPC</strong> hasta el mes anterior a esos dos años. Así, lo que cotizaste hace 20 años no pierde valor por la inflación.</li>
+<li><strong>Los meses sin cotizar (lagunas) se rellenan</strong>: los primeros 48, con la base mínima del Régimen General de cada mes; el resto, con el 50 % de esa base mínima. Desde 2026, las trabajadoras por cuenta ajena rellenan también los meses 49 a 60 con el 100 % de la base mínima y los meses 61 a 84 con el 80 % (disposición transitoria 41.ª), y lo mismo los hombres que cumplan los requisitos del complemento por hijos. Los autónomos no tienen esta integración, salvo excepciones.</li>
+</ul>
+<h2 id="a-quien-beneficia-el-calculo-nuevo">¿A quién beneficia el cálculo nuevo?</h2>
+<p>Como la media se hace en proporción a 14 pagas en los dos sistemas (300 ÷ 350 = 324 ÷ 378), <strong>si has cotizado siempre lo mismo, el resultado es prácticamente igual</strong>: con 2.000 euros al mes en todo el periodo, la base reguladora sale 1.714,29 euros con los dos cálculos.</p>
+<p>El cálculo nuevo da más a quien tiene <strong>malos meses que puede descartar</strong> o <strong>mejores años antes de los 25 últimos</strong>: personas despedidas al final de su carrera, con reducciones de jornada, periodos de paro o bajadas de sueldo cerca de la jubilación. El antiguo favorece a quien <strong>ha cotizado más en los últimos años</strong> que antes.</p>
+<p><strong>Ejemplo 1. Carlos se jubila en 2027.</strong> Ha cotizado durante toda su carrera por 2.400 euros al mes (en euros de hoy), pero los dos últimos años redujo su jornada a la mitad y cotizó por 1.200 euros.</p>
+<ul>
+<li><strong>Cálculo antiguo</strong> (300 meses entre 350): 24 meses a 1.200 euros y 276 a 2.400 euros suman 691.200 euros. Entre 350: <strong>1.974,86 euros</strong>.</li>
+<li><strong>Cálculo nuevo de 2027</strong> (las 304 mejores bases de 308 meses entre 354,67): descarta 4 de los meses a 1.200 euros. Quedan 20 a 1.200 y 284 a 2.400, que suman 705.600 euros. Entre 354,67: <strong>1.989,45 euros</strong>.</li>
+</ul>
+<p>Se le aplica el nuevo: 14,59 euros más al mes. La diferencia crece cada año, porque el descarte llega a 24 meses en 2037.</p>
+<p><strong>Ejemplo 2. Elena se jubila en 2026.</strong> Cotizó por 1.500 euros hasta hace 25 años y desde entonces por 2.500 euros.</p>
+<ul>
+<li><strong>Cálculo antiguo</strong>: 300 meses a 2.500 euros entre 350: <strong>2.142,86 euros</strong>.</li>
+<li><strong>Cálculo nuevo de 2026</strong>: de los 304 meses, 300 son a 2.500 y 4 a 1.500; las 302 mejores (300 a 2.500 y 2 a 1.500) entre 352,33: <strong>2.137,20 euros</strong>.</li>
+</ul>
+<p>Se le aplica el antiguo, que es más favorable. Por eso el sistema dual no puede hacer que nadie cobre menos que con las reglas de 2025 hasta 2040.</p>
+<h2 id="paso-2-el-porcentaje-segun-los-anos-cotizados">Paso 2: el porcentaje según los años cotizados</h2>
+<p>Con <strong>15 años cotizados</strong> te corresponde el <strong>50 % de la base reguladora</strong>, y cada mes adicional suma un porcentaje hasta llegar al 100 % (disposición transitoria 9.ª de la ley). La escala se endurece en 2027:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Porcentaje de la base reguladora según los años cotizados en 2026 y desde 2027</caption>
+<thead>
+<tr>
+<th scope="col">Años cotizados</th>
+<th scope="col">Jubilación en 2026</th>
+<th scope="col">Jubilación desde 2027</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">15 años</th>
+<td>50 %</td>
+<td>50 %</td>
+</tr>
+<tr>
+<th scope="row">20 años</th>
+<td>62,38 %</td>
+<td>61,40 %</td>
+</tr>
+<tr>
+<th scope="row">25 años</th>
+<td>73,78 %</td>
+<td>72,80 %</td>
+</tr>
+<tr>
+<th scope="row">30 años</th>
+<td>85,18 %</td>
+<td>84,20 %</td>
+</tr>
+<tr>
+<th scope="row">35 años</th>
+<td>96,58 %</td>
+<td>95,60 %</td>
+</tr>
+<tr>
+<th scope="row">36 años</th>
+<td>98,86 %</td>
+<td>97,84 %</td>
+</tr>
+<tr>
+<th scope="row">36 años y 6 meses</th>
+<td>100 %</td>
+<td>98,92 %</td>
+</tr>
+<tr>
+<th scope="row">37 años</th>
+<td>100 %</td>
+<td>100 %</td>
+</tr>
+</tbody></table>
+</div>
+<p>En 2026, los meses 1 a 49 por encima de los 15 años suman un 0,21 % cada uno y los 209 siguientes un 0,19 %. Desde 2027, los meses 1 a 248 suman un 0,19 % y los 16 siguientes un 0,18 %. Con menos de 15 años cotizados no hay pensión contributiva.</p>
+<h2 id="paso-3-los-ajustes">Paso 3: los ajustes</h2>
+<ul>
+<li><strong>Jubilación anticipada</strong>: la pensión se reduce con un coeficiente por cada mes de adelanto, entre un 2,81 % y un 21 % si es voluntaria (hasta 2 años) y hasta un 30 % si es involuntaria (hasta 4 años). Lo explicamos en <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria</a> y en <a href="/jubilacion/anticipada-involuntaria/">jubilación anticipada involuntaria</a>.</li>
+<li><strong>Jubilación demorada</strong>: si retrasas la jubilación después de tu edad ordinaria, ganas un 4 % por cada año completo, un pago único o una combinación de ambos. Está en <a href="/jubilacion/demorada/">jubilación demorada</a>.</li>
+<li><strong>Complemento a mínimos</strong>: si la pensión no llega a la mínima (en 2026, 1.256,60 euros al mes con cónyuge a cargo y 936,20 euros si vives solo, a partir de los 65 años) y tus ingresos no superan el límite, la Seguridad Social te paga la diferencia, con un tope.</li>
+<li><strong>Complemento para reducir la brecha de género</strong>: una cantidad fija por hijo que se suma a la pensión de uno de los progenitores.</li>
+<li><strong>Pensión máxima</strong>: si el resultado supera 3.359,60 euros al mes, se cobra la máxima.</li>
+</ul>
+<h2 id="ejemplo-completo">Ejemplo completo</h2>
+<p><strong>Juan se jubila en 2027 a los 67 años con 30 años cotizados</strong> y una base reguladora de 1.500 euros:</p>
+<ol>
+<li>Base reguladora: <strong>1.500 euros</strong> (la mayor de los dos cálculos).</li>
+<li>Porcentaje por 30 años cotizados en 2027: <strong>84,20 %</strong>. 1.500 × 84,20 % = <strong>1.263 euros al mes</strong>.</li>
+<li>Ajustes: se jubila a su edad ordinaria, así que no hay recorte ni aumento. Supera la pensión mínima, así que no cobra complemento a mínimos.</li>
+</ol>
+<p>Resultado: <strong>1.263 euros al mes en 14 pagas</strong>, 17.682 euros al año, antes de la retención de IRPF.</p>
+<h2 id="como-calcular-tu-propia-pension">Cómo calcular tu propia pensión</h2>
+<ol>
+<li><strong>Descarga tu informe de bases de cotización</strong> en Tu Seguridad Social: muestra la base de cada mes, que es el dato que necesitas para la base reguladora.</li>
+<li><strong>Comprueba tus años cotizados</strong> en el informe de vida laboral: de ellos depende el porcentaje y también tu <a href="/jubilacion/edad-de-jubilacion/">edad de jubilación</a>.</li>
+<li><strong>Haz la simulación</strong> con nuestra calculadora, que aplica los dos sistemas y te dice cuál te favorece, o con el simulador de Tu Seguridad Social, que usa tus datos reales.</li>
+</ol>
+<!-- calculadora-web:pension -->
+
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-es-el-sistema-dual-de-calculo-de-la-pension">¿Qué es el sistema dual de cálculo de la pensión?</h3>
+<p>Es la regla que se aplica desde 2026 hasta 2040: la Seguridad Social calcula la base reguladora con el sistema antiguo (los últimos 25 años) y con el nuevo (un periodo más largo en el que se descartan los peores meses) y te reconoce la más alta.</p>
+<h3 id="tengo-que-pedir-que-me-apliquen-el-calculo-mas-favorable">¿Tengo que pedir que me apliquen el cálculo más favorable?</h3>
+<p>No. La ley obliga a la entidad gestora a aplicar el cálculo antiguo cuando resulte más favorable. Aun así, revisa la resolución de tu pensión: si crees que hay un error, tienes 30 días para presentar una reclamación previa.</p>
+<h3 id="cuantos-anos-se-tienen-en-cuenta-para-calcular-la-pension-en">¿Cuántos años se tienen en cuenta para calcular la pensión en 2026?</h3>
+<p>Con el sistema antiguo, los últimos 25 años (300 meses). Con el nuevo, los últimos 304 meses (25 años y 4 meses), de los que se descartan los 2 peores. Cada año siguiente el periodo nuevo se alarga 4 meses, hasta 29 años en 2037.</p>
+<h3 id="se-aplica-el-sistema-dual-a-los-autonomos">¿Se aplica el sistema dual a los autónomos?</h3>
+<p>Sí. La ley dice que el nuevo cálculo se aplica a todos los regímenes de la Seguridad Social. La diferencia de los autónomos está en las lagunas: en general no se rellenan con la base mínima.</p>
+<h3 id="por-que-se-divide-entre-350-si-se-toman-300-meses">¿Por qué se divide entre 350 si se toman 300 meses?</h3>
+<p>Porque la pensión se cobra en 14 pagas y las bases de cotización ya incluyen la parte de las pagas extra: dividir entre 350 reparte la media de 12 meses en 14 pagas. En el sistema nuevo pasa lo mismo: 324 meses entre 378.</p>
+<h3 id="cual-es-la-pension-maxima-en-2026">¿Cuál es la pensión máxima en 2026?</h3>
+<p>3.359,60 euros al mes en 14 pagas, 47.034,40 euros al año. Aunque tu cálculo dé más, no cobrarás más de esa cifra.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículo 209 (base reguladora) y disposiciones transitorias 4.ª, 9.ª, 40.ª y 41.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967" rel="noopener">Real Decreto-ley 2/2023, que introdujo el sistema dual</a> (BOE).</li>
+<li><a href="https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx" rel="noopener">La Moncloa: revalorización de las pensiones en 2026 (Real Decreto-ley 3/2026)</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuántos años te faltan para el 100 %? Consulta el porcentaje de la pensión según los años cotizados.</li>
+<li>¿Cuándo te puedes jubilar? Mira la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
+<li>¿Te quedarás cerca del mínimo? Lee cómo funciona el complemento a mínimos.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Desde 2026 la base reguladora se calcula de dos formas y se aplica la que más te favorece. Los tres pasos del cálculo, con tablas y ejemplos con cifras.]]></excerpt:encoded>
+    <wp:post_id>9001</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[como-se-calcula-la-pension]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Cómo se calcula la pensión de jubilación 2026: sistema dual]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Desde 2026 la base reguladora se calcula de dos formas y se aplica la que más te favorece. Los tres pasos del cálculo, con tablas y ejemplos con cifras.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[cómo se calcula la pensión de jubilación]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cómo se calcula la pensión de jubilación 2026: sistema dual]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Desde 2026 la base reguladora se calcula de dos formas y se aplica la que más te favorece. Los tres pasos del cálculo, con tablas y ejemplos con cifras.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cómo se calcula la pensión de jubilación]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Pensión máxima de jubilación en 2026: cuánto es, quién la cobra y qué pasa si tu pensión la supera]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/pension-maxima/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La pensión máxima en 2026 es de <strong>3.359,60 euros brutos al mes en 14 pagas</strong>, <strong>47.034,40 euros al año</strong>. Es el tope para cualquier pensión pública que se cause este año y también para <strong>la suma de varias pensiones</strong> de una misma persona, por ejemplo, jubilación y viudedad.</p>
+<p>Para llegar a ella hace falta una <strong>base reguladora de 3.359,60 euros o más</strong> y el <strong>100 %</strong> por años cotizados: en la práctica, haber cotizado de media por unos <strong>3.920 euros al mes</strong> (un sueldo bruto de unos 47.000 euros al año, en euros de hoy) en los años que cuentan para el cálculo.</p>
+</aside>
+<h2 id="cuanto-es-la-pension-maxima-en-2026">Cuánto es la pensión máxima en 2026</h2>
+<p>El <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a>, que desarrolla la revalorización de este año (Real Decreto-ley 3/2026), fija el límite de la cuantía inicial de las pensiones públicas causadas en 2026 en:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Pensión máxima en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Periodo</th>
+<th scope="col">Importe bruto</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Al mes (14 pagas)</th>
+<td>3.359,60 €</td>
+</tr>
+<tr>
+<th scope="row">Al año</th>
+<td>47.034,40 €</td>
+</tr>
+<tr>
+<th scope="row">Al mes si se cobra en 12 pagas</th>
+<td>3.919,53 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Si alguien cobra su pensión en menos de 14 pagas, el límite mensual se ajusta para que al año no supere los 47.034,40 euros. Son cantidades <strong>brutas</strong>: de ellas se descuenta la retención de IRPF, que depende de tu comunidad autónoma y de tu situación familiar.</p>
+<h3 id="sube-mas-que-las-demas-pensiones">Sube más que las demás pensiones</h3>
+<p>Desde 2025, la pensión máxima no sube solo con el IPC. La <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 39.ª de la Ley General de la Seguridad Social</a> establece que cada año se le aplica la revalorización general <strong>más 0,115 puntos adicionales acumulativos hasta 2050</strong>. En 2026 la revalorización general fue del 2,7 %, así que la máxima subió un 2,815 %. A partir de 2051 los incrementos adicionales serán mayores.</p>
+<p>Una vez reconocida, tu pensión sube cada año con la revalorización general, aunque sea la máxima.</p>
+<h2 id="quien-cobra-la-pension-maxima">Quién cobra la pensión máxima</h2>
+<p>Hay que cumplir dos condiciones a la vez:</p>
+<ol>
+<li><strong>Una base reguladora igual o superior a 3.359,60 euros.</strong> La base reguladora es la media de tus bases de cotización de los últimos años (lo explicamos en <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión</a>). Como se divide entre 350 los últimos 300 meses, para llegar a 3.359,60 euros hacen falta bases de cotización de <strong>3.919,53 euros al mes de media</strong>, en euros actualizados. La base de cotización equivale, más o menos, al sueldo bruto anual dividido entre 12: unos <strong>47.000 euros brutos al año</strong>.</li>
+<li><strong>El 100 % por años cotizados</strong>: 36 años y 6 meses si te jubilas en 2026, o 37 años desde 2027. Con menos años, el porcentaje baja y la pensión queda por debajo de la máxima aunque hayas cotizado mucho.</li>
+</ol>
+<p>El tope de cotización en 2026 es de <strong>5.101,20 euros al mes</strong> (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026</a>): quien gana más no cotiza ni genera pensión por el exceso.</p>
+<p><strong>Ejemplo: Ana se jubila en 2026 con 40 años cotizados.</strong> Su base reguladora es de 3.700 euros y le corresponde el 100 %: su pensión sería de 3.700 euros, pero <strong>cobra 3.359,60 euros</strong>, la máxima. Los 340,40 euros de diferencia no los recupera.</p>
+<h2 id="que-pasa-si-te-jubilas-antes-con-una-pension-por-encima-de-l">Qué pasa si te jubilas antes con una pensión por encima de la máxima</h2>
+<p>Si te jubilas anticipadamente de forma voluntaria y tu pensión antes del recorte supera la máxima, <strong>los coeficientes reductores se aplican sobre la pensión máxima</strong>, no sobre tu cálculo teórico (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210" rel="noopener">artículo 210.3 de la ley</a>). Para estas pensiones hay un calendario especial de coeficientes en la disposición transitoria 34.ª. Lo explicamos con detalle en <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria</a>.</p>
+<h2 id="que-pasa-si-retrasas-la-jubilacion-y-ya-estas-en-la-maxima">Qué pasa si retrasas la jubilación y ya estás en la máxima</h2>
+<p>Si retrasas la jubilación, ganas un 4 % por cada año completo de demora. Pero la pensión resultante <strong>no puede superar la máxima</strong>. Para que no pierdas el incentivo, el artículo 210.2 prevé que la parte del porcentaje que no cabe se pague aparte: una cantidad anual igual a <strong>la pensión máxima multiplicada por el porcentaje no utilizado</strong>, repartida en 14 pagas. La suma de esta cantidad y tus pensiones no puede superar el tope máximo de cotización en cómputo anual (61.214,40 euros en 2026).</p>
+<p><strong>Ejemplo: Luis</strong> tiene una base reguladora de 3.500 euros y el 100 %, así que su pensión ya estaría en la máxima. Retrasa la jubilación 2 años completos y gana un 8 % adicional, que no cabe en la pensión. Cobra la máxima, 3.359,60 euros, y además 3.359,60 × 8 % = <strong>268,77 euros al mes en 14 pagas</strong>.</p>
+<p>También puedes elegir cobrar el incentivo como un pago único en lugar del porcentaje. Todas las opciones están en <a href="/jubilacion/demorada/">jubilación demorada</a>.</p>
+<h2 id="dos-pensiones-el-limite-es-para-la-suma">Dos pensiones: el límite es para la suma</h2>
+<p>La pensión máxima no es solo el tope de cada pensión: <strong>la suma de todas las pensiones públicas</strong> de una persona tampoco puede superarla (artículo 3 del Real Decreto 241/2026). Cuentan las de la Seguridad Social, las de Clases Pasivas, las de mutualidades financiadas con dinero público, las de otros regímenes públicos y las no contributivas. <strong>No cuentan</strong> los planes de pensiones de empleo ni los seguros colectivos.</p>
+<ul>
+<li><strong>Si las dos pensiones se causan en 2026 a la vez</strong>, se reducen las dos en proporción hasta que la suma quede en 3.359,60 euros.</li>
+<li><strong>Si ya cobrabas una pensión y en 2026 se te reconoce otra</strong>, la nueva se limita a la diferencia entre tu pensión anterior (ya revalorizada) y 3.359,60 euros.</li>
+<li><strong>Si una de ellas se extingue</strong>, la otra se recalcula a lo que te habría correspondido sin la reducción.</li>
+</ul>
+<p><strong>Ejemplo: Mercedes</strong> cobra una pensión de jubilación de 2.600 euros al mes y en 2026 enviuda con derecho a una pensión de viudedad de 1.200 euros. Como la suma (3.800 euros) supera la máxima, la viudedad se le reconoce por <strong>759,60 euros</strong>: 3.359,60 − 2.600. En viudedad y jubilación a la vez explicamos todas las combinaciones.</p>
+<p>Si la pensión nueva está exenta de IRPF (como la de incapacidad permanente absoluta o gran incapacidad), puedes pedir que se reduzca la pensión anterior en lugar de la nueva, lo que suele salir mejor fiscalmente.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cual-es-la-pension-maxima-de-jubilacion-en-2026">¿Cuál es la pensión máxima de jubilación en 2026?</h3>
+<p>3.359,60 euros brutos al mes en 14 pagas, 47.034,40 euros al año. La fija el Real Decreto 241/2026, que desarrolla el Real Decreto-ley 3/2026.</p>
+<h3 id="cuanto-hay-que-haber-cotizado-para-cobrar-la-pension-maxima">¿Cuánto hay que haber cotizado para cobrar la pensión máxima?</h3>
+<p>Una base reguladora de al menos 3.359,60 euros, que equivale a haber cotizado de media por unos 3.920 euros al mes en los años del cálculo, y el 100 % por años cotizados: 36 años y 6 meses en 2026 o 37 años desde 2027.</p>
+<h3 id="la-pension-maxima-es-neta-o-bruta">¿La pensión máxima es neta o bruta?</h3>
+<p>Bruta. A esos 3.359,60 euros se les descuenta la retención de IRPF, que depende de tu comunidad autónoma y de tu situación familiar. Puedes calcular la cifra neta con nuestra calculadora de pensión neta.</p>
+<h3 id="puedo-cobrar-mas-que-la-pension-maxima">¿Puedo cobrar más que la pensión máxima?</h3>
+<p>Solo en casos concretos: el complemento por demora que no cabe en la pensión se paga aparte, el complemento de gran incapacidad no cuenta para el límite y hay excepciones para pensiones por actos terroristas.</p>
+<h3 id="si-cobro-jubilacion-y-viudedad-puedo-pasar-de-la-maxima">¿Si cobro jubilación y viudedad puedo pasar de la máxima?</h3>
+<p>No. La suma de todas tus pensiones públicas tiene el mismo límite de 3.359,60 euros al mes. Si la supera, se reduce la última pensión reconocida o ambas en proporción.</p>
+<h3 id="cuanto-sube-la-pension-maxima-cada-ano">¿Cuánto sube la pensión máxima cada año?</h3>
+<p>Lo que suban las pensiones, más 0,115 puntos adicionales acumulativos cada año hasta 2050. En 2026 subió un 2,815 %.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, sobre limitación de la cuantía inicial de las pensiones públicas y revalorización para 2026</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 57 y 210 y disposición transitoria 39.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, de cotización a la Seguridad Social para 2026</a> (BOE).</li>
+<li><a href="https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx" rel="noopener">La Moncloa: revalorización de las pensiones en 2026</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Y por abajo? Consulta la <a href="/cuanto-cobrare/pension-minima/">pensión mínima de jubilación en 2026</a>.</li>
+<li>¿Cuánto te quedará limpio? Calcula tu pensión neta con la retención de IRPF.</li>
+<li>¿Cómo se llega a la base reguladora? Lee <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></excerpt:encoded>
+    <wp:post_id>9002</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[pension-maxima]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Pensión máxima de jubilación 2026: cuantía y quién la cobra]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[pensión máxima de jubilación 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensión máxima de jubilación 2026: cuantía y quién la cobra]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión máxima de jubilación 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Pensión mínima de jubilación en 2026: cuantías con y sin cónyuge a cargo y requisitos para cobrarla]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/pension-minima/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>En 2026, la pensión mínima de jubilación a partir de los 65 años es de <strong>1.256,60 euros al mes con cónyuge a cargo</strong>, <strong>936,20 euros si vives solo</strong> y <strong>888,70 euros con cónyuge que no está a cargo</strong>, en 14 pagas.</p>
+<p>No es una pensión aparte: si tu pensión contributiva no llega a esa cifra, la Seguridad Social te paga la diferencia (el <strong>complemento a mínimos</strong>), siempre que <strong>vivas en España</strong> y tus otros ingresos no superen <strong>9.442 euros al año</strong> (11.013 euros si tienes cónyuge a cargo, sumando los de los dos). Desde 2013, ese complemento no puede ser mayor que la pensión no contributiva: 628,80 euros al mes.</p>
+</aside>
+<h2 id="cuantias-de-la-pension-minima-de-jubilacion-en-2026">Cuantías de la pensión mínima de jubilación en 2026</h2>
+<p>Estas son las cuantías del <a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a> (anexo I), que desarrolla la revalorización de este año. Las mensuales son en 14 pagas:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Pensión mínima de jubilación en 2026, al mes y al año</caption>
+<thead>
+<tr>
+<th scope="col">Situación</th>
+<th scope="col">Con cónyuge a cargo</th>
+<th scope="col">Sin cónyuge (vives solo)</th>
+<th scope="col">Con cónyuge no a cargo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">65 años o más</th>
+<td>1.256,60 €/mes · 17.592,40 €/año</td>
+<td>936,20 €/mes · 13.106,80 €/año</td>
+<td>888,70 €/mes · 12.441,80 €/año</td>
+</tr>
+<tr>
+<th scope="row">Menos de 65 años</th>
+<td>1.256,60 €/mes · 17.592,40 €/año</td>
+<td>875,90 €/mes · 12.262,60 €/año</td>
+<td>827,90 €/mes · 11.590,60 €/año</td>
+</tr>
+<tr>
+<th scope="row">65 años o más, procedente de gran incapacidad</th>
+<td>1.884,70 €/mes · 26.385,80 €/año</td>
+<td>1.404,30 €/mes · 19.660,20 €/año</td>
+<td>1.333 €/mes · 18.662 €/año</td>
+</tr>
+</tbody></table>
+</div>
+<p>La cuantía de <strong>menos de 65 años</strong> es la de quien se jubila anticipadamente: se aplica hasta que cumple los 65, y desde entonces pasa a la de 65 o más.</p>
+<h3 id="que-significa-cada-situacion">Qué significa cada situación</h3>
+<ul>
+<li><strong>Con cónyuge a cargo</strong>: convives con tu cónyuge, que <strong>no cobra ninguna pensión pública</strong> (tampoco de otro país) y los <strong>ingresos de los dos juntos</strong> no superan 11.013 euros al año. Mientras sigáis casados y sin separación judicial se presume que convivís.</li>
+<li><strong>Con cónyuge no a cargo</strong>: convives con tu cónyuge, pero él o ella tiene pensión propia o ingresos que superan ese límite.</li>
+<li><strong>Sin cónyuge (unidad económica unipersonal)</strong>: vives solo o sola a efectos económicos, por ejemplo, porque eres viudo, soltero o estás separado.</li>
+</ul>
+<h2 id="requisitos-para-cobrar-la-pension-minima">Requisitos para cobrar la pensión mínima</h2>
+<p>La pensión mínima se consigue con el <strong>complemento a mínimos</strong>, que cubre la diferencia entre tu pensión y la mínima. Estos son los requisitos (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">artículos 9 y 10 del Real Decreto 241/2026</a> y <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59" rel="noopener">artículo 59 de la Ley General de la Seguridad Social</a>):</p>
+<ol>
+<li><strong>Tener una pensión contributiva</strong> por debajo de la mínima. Si no tienes derecho a pensión contributiva (menos de 15 años cotizados), la alternativa es la pensión no contributiva, que tiene otros requisitos.</li>
+<li><strong>Residir en España</strong>, para las pensiones reconocidas desde el 1 de enero de 2013.</li>
+<li><strong>No superar el límite de ingresos</strong> en 2026, sin contar la propia pensión: <strong>9.442 euros al año</strong> si no tienes cónyuge a cargo, o <strong>11.013 euros al año</strong> entre los dos si lo tienes. Cuentan los rendimientos del trabajo, del capital, de actividades económicas y las ganancias patrimoniales, como se definen en el IRPF.</li>
+</ol>
+<p><strong>El complemento tiene un tope.</strong> En las pensiones reconocidas desde 2013 no puede superar el importe de la pensión no contributiva: <strong>628,80 euros al mes en 2026</strong>. Si tu pensión es muy baja, puedes quedarte por debajo de la mínima aunque cumplas todo lo demás.</p>
+<h3 id="si-tus-ingresos-superan-un-poco-el-limite">Si tus ingresos superan un poco el límite</h3>
+<p>No lo pierdes todo de golpe. Si tus otros ingresos más tu pensión, en cómputo anual, quedan por debajo de la suma de 9.442 euros y la pensión mínima anual que te corresponde, cobras un <strong>complemento parcial</strong> igual a esa diferencia.</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Rosa, 66 años, viuda, sin otros ingresos.</strong> Su pensión de jubilación es de 700 euros al mes. Le corresponde la mínima sin cónyuge de 65 o más años: 936,20 euros. Cobra un complemento de <strong>236,20 euros al mes</strong>, por debajo del tope de 628,80, y su pensión queda en <strong>936,20 euros en 14 pagas</strong>.</p>
+<p><strong>Pedro, 67 años, vive solo, cobra 800 euros de pensión y 10.000 euros al año de un alquiler.</strong> Sus ingresos superan el límite de 9.442 euros, pero no por mucho:</p>
+<ul>
+<li>Límite total: 9.442 + 13.106,80 (mínima anual) = 22.548,80 euros.</li>
+<li>Sus ingresos: 10.000 + 11.200 (800 × 14) = 21.200 euros.</li>
+<li>Diferencia: 1.348,80 euros al año, <strong>96,34 euros al mes</strong> de complemento en 14 pagas, en lugar de los 136,20 euros que cobraría sin el alquiler.</li>
+</ul>
+<p><strong>Antonio, 68 años, casado; su mujer no tiene pensión ni ingresos.</strong> Cobra 950 euros de pensión y ninguno de los dos tiene otros ingresos. Le corresponde la mínima con cónyuge a cargo, 1.256,60 euros: cobra un complemento de <strong>306,60 euros al mes</strong>.</p>
+<h2 id="como-se-pide-y-que-obligaciones-tiene">Cómo se pide y qué obligaciones tiene</h2>
+<ul>
+<li><strong>Se pide con la propia pensión.</strong> En la solicitud de jubilación declaras tus ingresos previstos para el año y, si tienes cónyuge a cargo, los suyos. La Seguridad Social lo reconoce junto con la pensión si cumples los requisitos.</li>
+<li><strong>Si lo pides más tarde</strong>, tiene efectos desde los tres meses anteriores a la solicitud, siempre que ya cumplieras los requisitos.</li>
+<li><strong>Tienes que avisar</strong> en el plazo de un mes si durante el año tus ingresos superan el límite, o si cambia tu estado civil o la situación de tu cónyuge. Si se descubre después que superaste el límite, tendrás que <strong>devolver todo el complemento cobrado ese año</strong>.</li>
+<li><strong>No es consolidable</strong>: se reduce cuando tu pensión sube o si empiezas a cobrar otra pensión.</li>
+</ul>
+<h2 id="otras-pensiones-minimas-de-2026">Otras pensiones mínimas de 2026</h2>
+<p>El mismo real decreto fija las mínimas de las demás pensiones contributivas. Algunas de las más consultadas:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Otras pensiones mínimas contributivas en 2026 (al mes, en 14 pagas)</caption>
+<thead>
+<tr>
+<th scope="col">Pensión</th>
+<th scope="col">Cuantía mínima mensual</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Viudedad con cargas familiares</th>
+<td>1.256,60 €</td>
+</tr>
+<tr>
+<th scope="row">Viudedad con 65 años o más, o con discapacidad del 65 % o más</th>
+<td>936,20 €</td>
+</tr>
+<tr>
+<th scope="row">Viudedad entre 60 y 64 años</th>
+<td>875,90 €</td>
+</tr>
+<tr>
+<th scope="row">Viudedad con menos de 60 años</th>
+<td>709,40 €</td>
+</tr>
+<tr>
+<th scope="row">Incapacidad permanente absoluta (sin cónyuge)</th>
+<td>936,20 €</td>
+</tr>
+<tr>
+<th scope="row">Orfandad (por persona)</th>
+<td>286,50 €</td>
+</tr>
+<tr>
+<th scope="row">Pensión no contributiva de jubilación o invalidez</th>
+<td>628,80 €</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cual-es-la-pension-minima-de-jubilacion-en-2026">¿Cuál es la pensión mínima de jubilación en 2026?</h3>
+<p>A partir de 65 años: 1.256,60 euros al mes con cónyuge a cargo, 936,20 euros sin cónyuge y 888,70 euros con cónyuge no a cargo, en 14 pagas. Por debajo de 65 años, la de sin cónyuge baja a 875,90 euros y la de cónyuge no a cargo a 827,90.</p>
+<h3 id="cuanto-cobra-un-jubilado-que-vive-solo-con-la-pension-minima">¿Cuánto cobra un jubilado que vive solo con la pensión mínima?</h3>
+<p>936,20 euros al mes en 14 pagas si tiene 65 años o más, 13.106,80 euros al año, siempre que no supere 9.442 euros de otros ingresos y que el complemento no pase de 628,80 euros al mes.</p>
+<h3 id="que-es-tener-el-conyuge-a-cargo">¿Qué es tener el cónyuge a cargo?</h3>
+<p>Que convives con tu cónyuge, que este no cobra ninguna pensión pública (tampoco de otro país) y que los ingresos de los dos juntos no superan 11.013 euros al año.</p>
+<h3 id="la-pension-minima-se-cobra-fuera-de-espana">¿La pensión mínima se cobra fuera de España?</h3>
+<p>No, para las pensiones reconocidas desde 2013: el complemento a mínimos exige residir en España. Si te vas a vivir fuera, cobras tu pensión contributiva sin el complemento.</p>
+<h3 id="que-pasa-si-a-mitad-de-ano-mis-ingresos-superan-el-limite">¿Qué pasa si a mitad de año mis ingresos superan el límite?</h3>
+<p>Tienes que comunicarlo a la Seguridad Social en el plazo de un mes. Si al final del año tus ingresos han superado el límite, todo el complemento cobrado ese año se considera indebido y tendrás que devolverlo, aunque hayas avisado.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, sobre revalorización y cuantías mínimas de las pensiones para 2026 (anexo I y artículos 8 a 10)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59" rel="noopener">Ley General de la Seguridad Social, artículo 59 (complementos para pensiones inferiores a la mínima)</a> (BOE).</li>
+<li><a href="https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx" rel="noopener">La Moncloa: revalorización de las pensiones en 2026</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cómo se pide y qué ingresos cuentan? Lee la guía del complemento a mínimos.</li>
+<li>¿No llegas a 15 años cotizados? Mira la pensión no contributiva.</li>
+<li>¿Cuánto te corresponde con pocos años? Consulta la <a href="/jubilacion/15-anos-cotizados/">jubilación con 15 años cotizados</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y sus complementos. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></excerpt:encoded>
+    <wp:post_id>9003</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[pension-minima]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Pensión mínima de jubilación 2026, con y sin cónyuge a cargo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[pensión mínima de jubilación 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensión mínima de jubilación 2026, con y sin cónyuge a cargo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión mínima de jubilación 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza]]></title>
     <link>https://jubilometro.com/imserso/viajes-imserso/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -737,7 +1292,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9001</wp:post_id>
+    <wp:post_id>9004</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -796,7 +1351,7 @@
 </div>
 <p><strong>Ojo con la cotización reciente.</strong> Si cotizaste 15 años de joven y después no volviste a cotizar, puedes <strong>no tener derecho a pensión contributiva</strong> aunque sumes 15 años. En ese caso, la alternativa es la pensión no contributiva.</p>
 <h2 id="cuanto-se-cobra">Cuánto se cobra</h2>
-<p>La pensión es el <strong>50 % de tu base reguladora</strong>. La base reguladora es, en esencia, la media de tus bases de cotización de los últimos años (desde 2026, la Seguridad Social compara dos cálculos y aplica el más favorable). Lo explicamos en cómo se calcula la pensión de jubilación.</p>
+<p>La pensión es el <strong>50 % de tu base reguladora</strong>. La base reguladora es, en esencia, la media de tus bases de cotización de los últimos años (desde 2026, la Seguridad Social compara dos cálculos y aplica el más favorable). Lo explicamos en <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</p>
 <h3 id="los-meses-sin-cotizar-dentro-del-periodo-de-calculo">Los meses sin cotizar dentro del periodo de cálculo</h3>
 <p>Con una carrera corta, es probable que en los años que se usan para calcular la base reguladora haya meses sin cotizar (lagunas). Se rellenan así:</p>
 <ul>
@@ -877,7 +1432,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9002</wp:post_id>
+    <wp:post_id>9005</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1013,7 +1568,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9003</wp:post_id>
+    <wp:post_id>9006</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1148,7 +1703,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9004</wp:post_id>
+    <wp:post_id>9007</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1329,7 +1884,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9005</wp:post_id>
+    <wp:post_id>9008</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1485,7 +2040,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9006</wp:post_id>
+    <wp:post_id>9009</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1673,7 +2228,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9007</wp:post_id>
+    <wp:post_id>9010</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1782,7 +2337,7 @@
 <h2 id="como-se-calcula-la-pension-de-un-autonomo">Cómo se calcula la pensión de un autónomo</h2>
 <p>Igual que la de un asalariado:</p>
 <ol>
-<li><strong>Base reguladora:</strong> desde 2026 la Seguridad Social compara dos cálculos y aplica el más favorable: el de los últimos 25 años y otro que, poco a poco, amplía el periodo y descarta los peores meses. Te lo explicamos en cómo se calcula la pensión.</li>
+<li><strong>Base reguladora:</strong> desde 2026 la Seguridad Social compara dos cálculos y aplica el más favorable: el de los últimos 25 años y otro que, poco a poco, amplía el periodo y descarta los peores meses. Te lo explicamos en <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión</a>.</li>
 <li><strong>Porcentaje según los años cotizados:</strong> 50 % con 15 años y 100 % con 37 años si te jubilas en 2027 o después.</li>
 <li><strong>Recortes o incrementos</strong>, si adelantas o retrasas la jubilación.</li>
 </ol>
@@ -1832,7 +2387,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9008</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2054,7 +2609,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2209,7 +2764,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2307,7 +2862,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2477,7 +3032,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2639,7 +3194,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2769,7 +3324,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3356,7 +3911,7 @@
 <li><strong>Para cobrar el 100 % de tu base reguladora</strong> bastan 37 años cotizados si te jubilas en 2027 o después (en 2026 eran 36 años y 6 meses).</li>
 </ul>
 <p>Desde 2027, con 15 años cotizados cobras el 50 % de la base reguladora. Cada mes adicional suma un 0,19 % hasta el mes 248 y un 0,18 % a partir de ahí, hasta llegar al 100 % con 37 años (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtnovena" rel="noopener">disposición transitoria 9.ª de la LGSS</a>). Por eso Antonio, con 34 años, cobrará el 93,32 %.</p>
-<p>Si quieres saber cuánto cobrarás, consulta cómo se calcula la pensión de jubilación con el sistema dual y el porcentaje de pensión según los años cotizados.</p>
+<p>Si quieres saber cuánto cobrarás, consulta <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación con el sistema dual</a> y el porcentaje de pensión según los años cotizados.</p>
 <h2 id="casos-especiales">Casos especiales</h2>
 <ul>
 <li><strong>Autónomos.</strong> Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados. Lo que cambia lo explicamos en <a href="/jubilacion/autonomos/">jubilación de autónomos</a>.</li>
@@ -3408,7 +3963,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Cuándo te jubilas tú? Calcúlalo con la <a href="/calculadoras/edad-de-jubilacion/">calculadora de edad de jubilación</a>.</li>
-<li>¿Cuánto cobrarás? Lee cómo se calcula la pensión de jubilación en 2026.</li>
+<li>¿Cuánto cobrarás? Lee <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación en 2026</a>.</li>
 <li>¿Quieres adelantarla? Consulta la <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria y sus coeficientes reductores</a>.</li>
 </ul>
 </nav>
@@ -3418,7 +3973,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3548,7 +4103,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3726,7 +4281,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3860,7 +4415,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3984,7 +4539,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4101,7 +4656,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4233,7 +4788,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4333,7 +4888,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

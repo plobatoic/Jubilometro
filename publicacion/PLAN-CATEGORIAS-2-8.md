@@ -20,12 +20,12 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 
 | # | Artículo | URL | Plantilla | Fase | Estado |
 |---|---|---|---|---|---|
-| 22 | Cómo se calcula la pensión de jubilación: el sistema dual | /cuanto-cobrare/como-se-calcula-la-pension/ | sistema-dual | F1 | |
+| 22 | Cómo se calcula la pensión de jubilación: el sistema dual | /cuanto-cobrare/como-se-calcula-la-pension/ | sistema-dual | F1 | programado 30/09 |
 | 23 | Base reguladora de jubilación | /cuanto-cobrare/base-reguladora/ | base-reguladora | F2 | |
 | 24 | Porcentaje de pensión según años cotizados | /cuanto-cobrare/porcentaje-anos-cotizados/ | porcentaje-anos-cotizados | F1 | |
 | 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | |
-| 26 | Pensión máxima de jubilación 2026 | /cuanto-cobrare/pension-maxima/ | pension-maxima-minima | F1 | |
-| 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | |
+| 26 | Pensión máxima de jubilación 2026 | /cuanto-cobrare/pension-maxima/ | pension-maxima-minima | F1 | programado 01/10 |
+| 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | programado 02/10 |
 | 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | |
 | 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | |
 | 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | |
@@ -101,7 +101,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 88 | Cobrar la pensión viviendo en el extranjero | /dinero/pension-extranjero/ | | F3 | |
 | 89 | Domiciliar la pensión | /dinero/domiciliar-pension/ | | F3 | |
 | extra | Herencias y donaciones en vida | /dinero/herencias-donaciones/ | herencias-donaciones | | |
-| 90 | Viajes del Imserso 2026-2027 | /imserso/viajes-imserso/ | viajes-imserso | F1 | |
+| 90 | Viajes del Imserso 2026-2027 | /imserso/viajes-imserso/ | viajes-imserso | F1 | programado 29/09 |
 | 91 | Termalismo del Imserso | /imserso/termalismo/ | termalismo | F3 | |
 | 92 | Tarjeta dorada y carné de mayores | /imserso/tarjeta-mayores/ | | F3 | |
 | 93 | Universidades y cursos para mayores | /imserso/universidad-mayores/ | | F3 | |
@@ -109,5 +109,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Cómo solicitar los viajes del Imserso | /imserso/solicitar-viajes/ | solicitar-viajes | | |
 | extra | Plazas libres del Imserso | /imserso/plazas-libres/ | plazas-libres | | |
 | extra | Programas de viajes de las comunidades | /imserso/turismo-autonomico/ | turismo-autonomico | | |
+
+Los artículos nuevos sin plantilla salen sin foto destacada: hay que añadírsela (fotos CC0, como en la categoría 1).
 
 Además, las portadas de categoría (Cuánto cobraré, Viudedad, Incapacidad, Ayudas, Dependencia, Dinero e IMSERSO) necesitan su texto pilar de 600-1.000 palabras en la «zona de redacción» y el número de guías al día.

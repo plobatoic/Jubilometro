@@ -43,6 +43,8 @@ export const PLANTILLAS = {
   '/jubilacion/flexible/': 'jubilacion-flexible',
   '/jubilacion/parcial/': 'jubilacion-parcial',
   '/jubilacion/solicitar-jubilacion-internet/': 'solicitar-jubilacion',
+  '/cuanto-cobrare/como-se-calcula-la-pension/': 'sistema-dual',
+  '/cuanto-cobrare/pension-maxima/': 'pension-maxima-minima',
 };
 
 // Imagen destacada de los artículos que no heredan la de una plantilla. Si no está en la
@@ -88,6 +90,26 @@ const CALCULADORAS = {
   pension: {
     url: '/calculadoras/pension-jubilacion/', icono: 'calculator', titulo: 'Calculadora de pensión de jubilación',
     texto: 'Estima tu pensión con los dos métodos de cálculo que conviven desde 2026 y mira cuál te favorece.',
+  },
+  neta: {
+    url: '/calculadoras/pension-neta-irpf/', icono: 'receipt', titulo: 'Calculadora de pensión neta',
+    texto: 'Cuánto te retienen de IRPF y cuánto cobrarás limpio según tu pensión y tu comunidad autónoma.',
+  },
+  viudedad: {
+    url: '/calculadoras/pension-viudedad/', icono: 'heart', titulo: 'Calculadora de pensión de viudedad',
+    texto: 'Qué porcentaje te corresponde (52, 60 o 70 %) y si puedes cobrar el complemento a mínimos.',
+  },
+  incapacidad: {
+    url: '/calculadoras/incapacidad-permanente/', icono: 'shield', titulo: 'Calculadora de incapacidad permanente',
+    texto: 'Cuánto cobrarías según el grado de incapacidad y tu base reguladora.',
+  },
+  ahorro: {
+    url: '/calculadoras/cuanto-ahorrar-jubilacion/', icono: 'piggy', titulo: '¿Cuánto necesito ahorrar?',
+    texto: 'Cuánto dinero te hace falta para completar tu pensión y mantener tu nivel de vida.',
+  },
+  comparador: {
+    url: '/calculadoras/comparador-ingresos-jubilacion/', icono: 'chart', titulo: 'Anticipada, ordinaria o demorada',
+    texto: 'Compara cuánto cobrarás en total según la edad a la que te jubiles.',
   },
 };
 
@@ -321,7 +343,12 @@ export function cuerpoWeb(articulo, existe, medios = {}) {
     if (t.type === 'html') {
       const caption = t.raw.match(/^<!-- tabla: ([\s\S]*?) -->/);
       const calculadora = t.raw.match(/^<!-- calculadora:([a-z-]+) -->/);
-      if (caption) captionPendiente = caption[1];
+      const calculadoraWeb = t.raw.match(/^<!-- calculadora-web:([a-z-]+) -->/);
+      if (calculadoraWeb) {
+        if (!CALCULADORAS[calculadoraWeb[1]]) throw new Error(`${url}: calculadora de la web desconocida ${calculadoraWeb[1]}`);
+        bloques.push(llamadaCalculadora(calculadoraWeb[1]));
+        calculadoraPuesta = true;
+      } else if (caption) captionPendiente = caption[1];
       else if (calculadora?.[1] === 'edad-jubilacion') bloques.push(llamadaCalculadora('edad'));
       else if (calculadora) bloques.push(bloqueHtml(widget(calculadora[1])));
       else throw new Error(`${url}: HTML sin convertir: ${t.raw.slice(0, 60)}`);
