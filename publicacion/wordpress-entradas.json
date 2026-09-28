@@ -7,6 +7,10 @@
     "id": 172,
     "estado": "future"
   },
+  "/ayudas/pnc-invalidez/": {
+    "id": 420,
+    "estado": "future"
+  },
   "/cuanto-cobrare/base-reguladora/": {
     "id": 148,
     "estado": "future"
@@ -81,6 +85,10 @@
   },
   "/incapacidad/incapacidad-absoluta/": {
     "id": 165,
+    "estado": "future"
+  },
+  "/incapacidad/incapacidad-temporal/": {
+    "id": 171,
     "estado": "future"
   },
   "/incapacidad/incapacidad-total/": {
@@ -175,8 +183,16 @@
     "id": 157,
     "estado": "future"
   },
+  "/viudedad/pareja-de-hecho/": {
+    "id": 158,
+    "estado": "future"
+  },
   "/viudedad/requisitos/": {
     "id": 156,
+    "estado": "future"
+  },
+  "/viudedad/solicitar-viudedad/": {
+    "id": 163,
     "estado": "future"
   },
   "/viudedad/viudedad-y-jubilacion/": {
