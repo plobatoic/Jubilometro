@@ -77,7 +77,8 @@ async function subirArchivo(relativa) {
 }
 
 async function buscarEntrada(slug) {
-  const lista = await api(`/wp/v2/posts?slug=${encodeURIComponent(slug)}&status=any&context=edit&_fields=id,slug,status,featured_media`);
+  const lista = await api(`/wp/v2/posts?slug=${encodeURIComponent(slug)}&status=any&context=edit` +
+    '&_fields=id,slug,status,date,featured_media,categories,title,excerpt,content');
   return lista[0];
 }
 
@@ -132,6 +133,24 @@ for (const a of articulos) {
     if (medio) campos.featured_media = medio.id;
   }
   if (PUBLICAR && !d.publicacion) campos.status = 'publish';
+  // Una entrada que ya está igual no se reescribe: WordPress cambiaría su fecha de modificación
+  // (la que ven Google y el sitemap) sin que haya cambiado nada.
+  const sinCambios = entrada && entrada.slug === slug && entrada.content.raw === campos.content &&
+    entrada.title.raw === campos.title && entrada.excerpt.raw === campos.excerpt &&
+    String(entrada.categories) === String(campos.categories) && !campos.featured_media &&
+    (!campos.status || campos.status === entrada.status) && (!campos.date || campos.date === entrada.date);
+  if (sinCambios) {
+    console.log(`Sin cambios ${entrada.id} ${entrada.status} ${d.url}`);
+    if (!PRUEBA) await api('/rankmath/v1/updateMeta', {
+      method: 'POST',
+      json: {
+        objectType: 'post', objectID: entrada.id,
+        meta: { rank_math_title: d.titulo_seo, rank_math_description: d.meta_descripcion, rank_math_focus_keyword: d.palabra_clave_principal },
+      },
+    });
+    resumen[d.url] = { id: entrada.id, estado: entrada.status };
+    continue;
+  }
   if (PRUEBA) {
     const plantilla = entrada && entrada.slug !== slug ? ` (plantilla «${entrada.slug}»)` : '';
     const estado = campos.status ? ` -> ${campos.status}${campos.date ? ` ${campos.date}` : ''}` : '';

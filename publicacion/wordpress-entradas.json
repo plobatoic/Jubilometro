@@ -11,6 +11,14 @@
     "id": 388,
     "estado": "future"
   },
+  "/cuanto-cobrare/porcentaje-anos-cotizados/": {
+    "id": 150,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/revalorizacion-pensiones/": {
+    "id": 154,
+    "estado": "future"
+  },
   "/imserso/viajes-imserso/": {
     "id": 196,
     "estado": "future"

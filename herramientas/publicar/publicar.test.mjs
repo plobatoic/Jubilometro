@@ -70,7 +70,9 @@ test('las páginas del sitio se exportan como páginas en borrador, sin H1 ni ma
 const existeEnLaWeb = urlsDeLaWeb(articulos);
 const enLaWeb = articulos.filter((a) => !NO_SE_SUBEN.includes(a.datos.url));
 const medios = { 'checklist-documentos-jubilacion.pdf': '/wp-content/uploads/2026/09/checklist-documentos-jubilacion.pdf' };
-const texto = (h) => h.replace(/<style[\s\S]*?<\/style>|<script[\s\S]*?<\/script>|<!--[\s\S]*?-->|<[^>]+>/g, ' ')
+// Las etiquetas en línea se quitan sin espacio: un enlace que solo existe en la web no debe separar «neta</a>.».
+const texto = (h) => h.replace(/<\/?(?:a|strong|em|code)\b[^>]*>/g, '')
+  .replace(/<style[\s\S]*?<\/style>|<script[\s\S]*?<\/script>|<!--[\s\S]*?-->|<[^>]+>/g, ' ')
   .replace(/&quot;/g, '"').replace(/&amp;/g, '&').split(/\s+/).filter(Boolean);
 
 test('el cuerpo para la web no lleva H1, usa los componentes del tema y no enlaza a páginas inexistentes', () => {

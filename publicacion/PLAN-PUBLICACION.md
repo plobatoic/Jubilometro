@@ -113,7 +113,7 @@ Pedir AdSense **después del lanzamiento**, con las 22 páginas y las 6 páginas
 | Página pendiente | La mencionan |
 |---|---|
 | /cuanto-cobrare/como-se-calcula-la-pension/ | edad de jubilación, 15 años cotizados, autónomos |
-| /cuanto-cobrare/porcentaje-por-anos-cotizados/ | edad de jubilación |
+| /cuanto-cobrare/porcentaje-anos-cotizados/ | edad de jubilación |
 | /ayudas/pension-no-contributiva/ | edad de jubilación, 15 años cotizados, me faltan años cotizados |
 
 Cuando se publique cada una, regenera (`npm run publicar`) y actualiza en WordPress el cuerpo de las entradas que la mencionan: el enlace aparece solo. `npm run comprobar` lista las URL mencionadas que todavía no existen.

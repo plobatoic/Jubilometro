@@ -10,7 +10,7 @@ Igual que la categoría 1: `contenido/<categoría>/<slug>/articulo.md` con su `v
 
 El informe (5.7) recomienda un ritmo sostenible: publicar decenas de artículos a la vez es lo que castigaron las actualizaciones de Google de 2026. Cada artículo lleva `publicacion: AAAA-MM-DD` en el front matter; `npm run subir` lo deja **programado** en WordPress para ese día a las 8:00 y WordPress lo publica solo. Un artículo por día laborable, empezando por los de temporada (Imserso en otoño, revalorización y rescate de planes antes de diciembre) y los que llevan cifras de 2026.
 
-Cada artículo enlaza solo a lo ya publicado en su fecha. **Una vez por semana hay que volver a ejecutar `npm run subir`** para que los artículos antiguos enlacen a los nuevos (y `npm run comprobar-web`).
+Cada artículo enlaza solo a lo ya publicado en su fecha. **Una vez por semana hay que volver a ejecutar `npm run subir`** para que los artículos antiguos enlacen a los nuevos (y `npm run comprobar-web`). Las entradas que no han cambiado no se reescriben, así su fecha de modificación solo cambia cuando cambia de verdad el contenido.
 
 Las cifras de 2026 caducan con la revalorización de enero de 2027: ese mes hay que actualizar también los artículos programados.
 
@@ -22,7 +22,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 |---|---|---|---|---|---|
 | 22 | Cómo se calcula la pensión de jubilación: el sistema dual | /cuanto-cobrare/como-se-calcula-la-pension/ | sistema-dual | F1 | programado 30/09 |
 | 23 | Base reguladora de jubilación | /cuanto-cobrare/base-reguladora/ | base-reguladora | F2 | |
-| 24 | Porcentaje de pensión según años cotizados | /cuanto-cobrare/porcentaje-anos-cotizados/ | porcentaje-anos-cotizados | F1 | |
+| 24 | Porcentaje de pensión según años cotizados | /cuanto-cobrare/porcentaje-anos-cotizados/ | porcentaje-anos-cotizados | F1 | programado 05/10 |
 | 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | |
 | 26 | Pensión máxima de jubilación 2026 | /cuanto-cobrare/pension-maxima/ | pension-maxima-minima | F1 | programado 01/10 |
 | 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | programado 02/10 |
@@ -31,7 +31,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | |
 | 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | |
 | 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | |
-| 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | |
+| 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | programado 06/10 (actualizar con cada IPC) |
 | 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | |
 | 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | |
 | 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | |

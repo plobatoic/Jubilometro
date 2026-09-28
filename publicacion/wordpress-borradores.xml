@@ -652,7 +652,7 @@
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
-<li>¿Cuántos años te faltan para el 100 %? Consulta el porcentaje de la pensión según los años cotizados.</li>
+<li>¿Cuántos años te faltan para el 100 %? Consulta el <a href="/cuanto-cobrare/porcentaje-anos-cotizados/">porcentaje de la pensión según los años cotizados</a>.</li>
 <li>¿Cuándo te puedes jubilar? Mira la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
 <li>¿Te quedarás cerca del mínimo? Lee cómo funciona el complemento a mínimos.</li>
 </ul>
@@ -974,6 +974,524 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Porcentaje de la pensión según los años cotizados: tabla año a año para 2026 y 2027]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/porcentaje-anos-cotizados/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Con <strong>15 años cotizados</strong> cobras el <strong>50 % de tu base reguladora</strong>, y cada mes cotizado de más suma un porcentaje hasta el <strong>100 %</strong>. Si te jubilas en <strong>2026</strong>, llegas al 100 % con <strong>36 años y 6 meses</strong>; si te jubilas en <strong>2027 o después</strong>, necesitas <strong>37 años</strong>.</p>
+<p>Por ejemplo, con 30 años cotizados te corresponde el <strong>85,18 %</strong> en 2026 y el <strong>84,20 %</strong> desde 2027. Con menos de 15 años no hay pensión contributiva.</p>
+</aside>
+<h2 id="como-se-calcula-el-porcentaje">Cómo se calcula el porcentaje</h2>
+<p>La pensión de jubilación es tu <a href="/cuanto-cobrare/como-se-calcula-la-pension/">base reguladora</a> multiplicada por un porcentaje que depende de cuánto has cotizado. Las reglas están en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210" rel="noopener">artículo 210 de la Ley General de la Seguridad Social</a> y en su disposición transitoria 9.ª, que fija una escala para cada periodo:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Porcentaje por cada mes cotizado por encima de 15 años</caption>
+<thead>
+<tr>
+<th scope="col">Año de jubilación</th>
+<th scope="col">Primeros 15 años</th>
+<th scope="col">Meses siguientes</th>
+<th scope="col">Llegas al 100 % con</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">2023 a 2026</th>
+<td>50 %</td>
+<td>0,21 % por mes en los meses 1 a 49; 0,19 % en los 209 siguientes</td>
+<td>36 años y 6 meses</td>
+</tr>
+<tr>
+<th scope="row">2027 en adelante</th>
+<td>50 %</td>
+<td>0,19 % por mes en los meses 1 a 248; 0,18 % en los 16 siguientes</td>
+<td>37 años</td>
+</tr>
+</tbody></table>
+</div>
+<p>Lo que cuenta es el <strong>año en que te jubilas</strong>, no el año en que naciste: si te jubilas en enero de 2027 se te aplica la escala de 2027, aunque cumplieras los requisitos en 2026.</p>
+<h2 id="tabla-completa-porcentaje-por-anos-cotizados">Tabla completa: porcentaje por años cotizados</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Porcentaje de la base reguladora según los años completos cotizados</caption>
+<thead>
+<tr>
+<th scope="col">Años cotizados</th>
+<th scope="col">Jubilación en 2026</th>
+<th scope="col">Jubilación desde 2027</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">15 años</th>
+<td>50 %</td>
+<td>50 %</td>
+</tr>
+<tr>
+<th scope="row">16 años</th>
+<td>52,52 %</td>
+<td>52,28 %</td>
+</tr>
+<tr>
+<th scope="row">17 años</th>
+<td>55,04 %</td>
+<td>54,56 %</td>
+</tr>
+<tr>
+<th scope="row">18 años</th>
+<td>57,56 %</td>
+<td>56,84 %</td>
+</tr>
+<tr>
+<th scope="row">19 años</th>
+<td>60,08 %</td>
+<td>59,12 %</td>
+</tr>
+<tr>
+<th scope="row">20 años</th>
+<td>62,38 %</td>
+<td>61,40 %</td>
+</tr>
+<tr>
+<th scope="row">21 años</th>
+<td>64,66 %</td>
+<td>63,68 %</td>
+</tr>
+<tr>
+<th scope="row">22 años</th>
+<td>66,94 %</td>
+<td>65,96 %</td>
+</tr>
+<tr>
+<th scope="row">23 años</th>
+<td>69,22 %</td>
+<td>68,24 %</td>
+</tr>
+<tr>
+<th scope="row">24 años</th>
+<td>71,50 %</td>
+<td>70,52 %</td>
+</tr>
+<tr>
+<th scope="row">25 años</th>
+<td>73,78 %</td>
+<td>72,80 %</td>
+</tr>
+<tr>
+<th scope="row">26 años</th>
+<td>76,06 %</td>
+<td>75,08 %</td>
+</tr>
+<tr>
+<th scope="row">27 años</th>
+<td>78,34 %</td>
+<td>77,36 %</td>
+</tr>
+<tr>
+<th scope="row">28 años</th>
+<td>80,62 %</td>
+<td>79,64 %</td>
+</tr>
+<tr>
+<th scope="row">29 años</th>
+<td>82,90 %</td>
+<td>81,92 %</td>
+</tr>
+<tr>
+<th scope="row">30 años</th>
+<td>85,18 %</td>
+<td>84,20 %</td>
+</tr>
+<tr>
+<th scope="row">31 años</th>
+<td>87,46 %</td>
+<td>86,48 %</td>
+</tr>
+<tr>
+<th scope="row">32 años</th>
+<td>89,74 %</td>
+<td>88,76 %</td>
+</tr>
+<tr>
+<th scope="row">33 años</th>
+<td>92,02 %</td>
+<td>91,04 %</td>
+</tr>
+<tr>
+<th scope="row">34 años</th>
+<td>94,30 %</td>
+<td>93,32 %</td>
+</tr>
+<tr>
+<th scope="row">35 años</th>
+<td>96,58 %</td>
+<td>95,60 %</td>
+</tr>
+<tr>
+<th scope="row">36 años</th>
+<td>98,86 %</td>
+<td>97,84 %</td>
+</tr>
+<tr>
+<th scope="row">36 años y 6 meses</th>
+<td>100 %</td>
+<td>98,92 %</td>
+</tr>
+<tr>
+<th scope="row">37 años o más</th>
+<td>100 %</td>
+<td>100 %</td>
+</tr>
+</tbody></table>
+</div>
+<p>Cómo leer la tabla:</p>
+<ul>
+<li><strong>Cada año de más vale unos 2,3 puntos</strong> (12 meses × 0,19 % = 2,28 puntos desde 2027). Los primeros años por encima de 15 valían algo más hasta 2026, porque sus meses sumaban un 0,21 %.</li>
+<li><strong>Por encima del 100 % no se gana nada</strong>, salvo que retrases la jubilación más allá de tu edad ordinaria: entonces cada año completo suma un 4 % adicional (lo explicamos en <a href="/jubilacion/demorada/">jubilación demorada</a>).</li>
+<li><strong>La escala de 2027 es algo más dura</strong>: con los mismos años cotizados, el porcentaje es alrededor de un punto menor que en 2026, y hace falta medio año más para el 100 %.</li>
+</ul>
+<h2 id="como-calcular-tu-porcentaje-exacto">Cómo calcular tu porcentaje exacto</h2>
+<ol>
+<li><strong>Cuenta tus meses cotizados</strong> en el informe de vida laboral de Tu Seguridad Social (aparecen en días: divídelos entre 365 para tener los años).</li>
+<li><strong>Réstale 180 meses</strong> (los 15 años que dan el 50 %).</li>
+<li><strong>Aplica la escala del año en que te jubilas.</strong> Desde 2027: los primeros 248 meses de ese resto, al 0,19 %; los 16 siguientes, al 0,18 %.</li>
+</ol>
+<p><strong>Ejemplo 1: María se jubila en 2027 con 33 años y 4 meses cotizados</strong> (400 meses) y una base reguladora de 1.800 euros.</p>
+<ul>
+<li>Meses por encima de 15 años: 400 − 180 = 220.</li>
+<li>Porcentaje: 50 % + 220 × 0,19 % = 50 % + 41,80 % = <strong>91,80 %</strong>.</li>
+<li>Pensión: 1.800 × 91,80 % = <strong>1.652,40 euros al mes</strong>.</li>
+</ul>
+<p>Si se hubiera jubilado en 2026, con la escala anterior tendría el 92,78 % y cobraría 1.670,04 euros.</p>
+<p><strong>Ejemplo 2: José se jubila en 2027 con 36 años cotizados</strong> y una base reguladora de 2.200 euros. Le corresponde el 97,84 %: <strong>2.152,48 euros</strong>. Con un año más cotizado llegaría al 100 % y cobraría 2.200 euros: <strong>47,52 euros más al mes de por vida</strong>, unos 665 euros al año.</p>
+<h2 id="como-sube-tu-porcentaje-si-te-faltan-anos">Cómo sube tu porcentaje si te faltan años</h2>
+<ul>
+<li><strong>Seguir trabajando</strong>, aunque sea a tiempo parcial.</li>
+<li><strong>Firmar un convenio especial</strong> con la Seguridad Social para cotizar por tu cuenta si no trabajas.</li>
+<li><strong>Recuperar periodos que no constan</strong>: cotizaciones en otros países, prácticas o becas antiguas, beneficios por cuidado de hijos.</li>
+</ul>
+<p>Todas las vías, con sus costes, están en <a href="/jubilacion/faltan-anos-cotizados/">me faltan años cotizados para jubilarme</a>.</p>
+<!-- calculadora-web:pension -->
+
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-porcentaje-de-pension-me-corresponde-con-15-anos-cotizad">¿Qué porcentaje de pensión me corresponde con 15 años cotizados?</h3>
+<p>El 50 % de tu base reguladora, tanto en 2026 como después. Es el mínimo para tener pensión contributiva; lo explicamos con ejemplos en <a href="/jubilacion/15-anos-cotizados/">jubilación con 15 años cotizados</a>.</p>
+<h3 id="cuantos-anos-hay-que-cotizar-para-cobrar-el-100-de-la-pensio">¿Cuántos años hay que cotizar para cobrar el 100 % de la pensión?</h3>
+<p>36 años y 6 meses si te jubilas en 2026, y 37 años si te jubilas en 2027 o después.</p>
+<h3 id="que-porcentaje-se-cobra-con-30-anos-cotizados">¿Qué porcentaje se cobra con 30 años cotizados?</h3>
+<p>El 85,18 % si te jubilas en 2026 y el 84,20 % si lo haces en 2027 o después.</p>
+<h3 id="y-con-35-anos-cotizados">¿Y con 35 años cotizados?</h3>
+<p>El 96,58 % en 2026 y el 95,60 % desde 2027. Te faltarían 18 meses (o 24 desde 2027) para el 100 %.</p>
+<h3 id="el-porcentaje-depende-de-mi-edad">¿El porcentaje depende de mi edad?</h3>
+<p>No. Depende solo de los años cotizados y del año en que te jubilas. La edad influye en otra cosa: si te jubilas antes de tu edad ordinaria se aplica un recorte aparte, y si te jubilas después, un aumento.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículo 210 y disposición transitoria 9.ª</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cómo se calcula la base a la que se aplica el porcentaje? Lee <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
+<li>¿Te faltan años? Mira las <a href="/jubilacion/faltan-anos-cotizados/">opciones legales para completarlos</a>.</li>
+<li>¿Cuándo te jubilas? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></excerpt:encoded>
+    <wp:post_id>9004</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[porcentaje-anos-cotizados]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Porcentaje de pensión según años cotizados: tabla 2026-2027]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[porcentaje pensión años cotizados]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Porcentaje de pensión según años cotizados: tabla 2026-2027]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[porcentaje pensión años cotizados]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/revalorizacion-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>En enero de 2027, las pensiones contributivas subirán lo que marque la <strong>inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026</strong>. Con los datos del INE hasta agosto, esa media va por el <strong>3,16 %</strong>, así que la subida apunta a <strong>entre el 3,1 % y el 3,5 %</strong>. La cifra exacta se sabrá a finales de noviembre.</p>
+<p>La subida se aplica sola, sin pedir nada, y se cobra desde la <strong>pensión de enero</strong>. Las pensiones mínimas y las no contributivas subirán además lo necesario para acercarse al umbral de la pobreza, como marca la ley para 2027.</p>
+</aside>
+<h2 id="como-se-calcula-la-subida-de-las-pensiones">Cómo se calcula la subida de las pensiones</h2>
+<p>La regla está en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">artículo 58.2 de la Ley General de la Seguridad Social</a>: cada 1 de enero, las pensiones contributivas suben el <strong>valor medio de las tasas de inflación interanual</strong> (IPC) de los doce meses anteriores a diciembre del año anterior. Para 2027 cuentan los meses de <strong>diciembre de 2025 a noviembre de 2026</strong>.</p>
+<p>Estos son los datos que ha publicado el <a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607" rel="noopener">Instituto Nacional de Estadística (INE)</a> hasta ahora:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Inflación interanual (IPC general) que cuenta para la subida de 2027</caption>
+<thead>
+<tr>
+<th scope="col">Mes</th>
+<th scope="col">IPC interanual</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Diciembre de 2025</th>
+<td>2,9 %</td>
+</tr>
+<tr>
+<th scope="row">Enero de 2026</th>
+<td>2,3 %</td>
+</tr>
+<tr>
+<th scope="row">Febrero de 2026</th>
+<td>2,3 %</td>
+</tr>
+<tr>
+<th scope="row">Marzo de 2026</th>
+<td>3,4 %</td>
+</tr>
+<tr>
+<th scope="row">Abril de 2026</th>
+<td>3,2 %</td>
+</tr>
+<tr>
+<th scope="row">Mayo de 2026</th>
+<td>3,2 %</td>
+</tr>
+<tr>
+<th scope="row">Junio de 2026</th>
+<td>3,2 %</td>
+</tr>
+<tr>
+<th scope="row">Julio de 2026</th>
+<td>3,6 %</td>
+</tr>
+<tr>
+<th scope="row">Agosto de 2026</th>
+<td>4,3 %</td>
+</tr>
+<tr>
+<th scope="row">Septiembre, octubre y noviembre de 2026</th>
+<td>Pendientes de publicar</td>
+</tr>
+<tr>
+<th scope="row"><strong>Media de los nueve meses conocidos</strong></th>
+<td><strong>3,16 %</strong></td>
+</tr>
+</tbody></table>
+</div>
+<p>El Gobierno aplica la media <strong>redondeada a un decimal</strong>: en 2026 la media fue del 2,67 % y las pensiones subieron un 2,7 %; en 2025 fue del 2,8 % exacto.</p>
+<h2 id="cuanto-pueden-subir-las-pensiones-en-2027">Cuánto pueden subir las pensiones en 2027</h2>
+<p>Faltan tres meses por conocer. Según cómo se comporte la inflación de septiembre a noviembre, la subida quedaría así:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Subida de las pensiones en 2027 según la inflación de septiembre a noviembre de 2026</caption>
+<thead>
+<tr>
+<th scope="col">Si la inflación media de septiembre a noviembre es del…</th>
+<th scope="col">La subida de 2027 sería del…</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">3,0 %</th>
+<td>3,1 %</td>
+</tr>
+<tr>
+<th scope="row">3,5 %</th>
+<td>3,2 %</td>
+</tr>
+<tr>
+<th scope="row">4,0 %</th>
+<td>3,4 %</td>
+</tr>
+<tr>
+<th scope="row">4,3 % (como en agosto)</th>
+<td>3,4 %</td>
+</tr>
+<tr>
+<th scope="row">4,5 %</th>
+<td>3,5 %</td>
+</tr>
+</tbody></table>
+</div>
+<p>Es una <strong>estimación con los datos oficiales disponibles</strong>, no una cifra aprobada. La actualizaremos cada mes, cuando el INE publique el dato nuevo.</p>
+<h2 id="cuanto-subira-tu-pension-ejemplos">Cuánto subirá tu pensión: ejemplos</h2>
+<p>Estas son las subidas en euros al mes, en bruto, según el porcentaje final:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Subida mensual de la pensión en 2027 según el porcentaje final (en bruto, 14 pagas)</caption>
+<thead>
+<tr>
+<th scope="col">Tu pensión en 2026</th>
+<th scope="col">Si sube un 3,1 %</th>
+<th scope="col">Si sube un 3,3 %</th>
+<th scope="col">Si sube un 3,5 %</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">1.000 €</th>
+<td>+31 €</td>
+<td>+33 €</td>
+<td>+35 €</td>
+</tr>
+<tr>
+<th scope="row">1.200 €</th>
+<td>+37,20 €</td>
+<td>+39,60 €</td>
+<td>+42 €</td>
+</tr>
+<tr>
+<th scope="row">1.500 €</th>
+<td>+46,50 €</td>
+<td>+49,50 €</td>
+<td>+52,50 €</td>
+</tr>
+<tr>
+<th scope="row">2.000 €</th>
+<td>+62 €</td>
+<td>+66 €</td>
+<td>+70 €</td>
+</tr>
+<tr>
+<th scope="row">2.500 €</th>
+<td>+77,50 €</td>
+<td>+82,50 €</td>
+<td>+87,50 €</td>
+</tr>
+<tr>
+<th scope="row">3.000 €</th>
+<td>+93 €</td>
+<td>+99 €</td>
+<td>+105 €</td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Ejemplo: Carmen cobra 1.450 euros de jubilación.</strong> Si la subida es del 3,3 %, su pensión pasa a <strong>1.497,85 euros al mes</strong> (47,85 euros más), casi <strong>670 euros más al año</strong> contando las 14 pagas.</p>
+<p>La subida se aplica sobre la pensión <strong>bruta</strong>. Lo que llega al banco puede subir algo menos, porque en enero la Seguridad Social recalcula la retención de IRPF con la pensión nueva. Puedes ver tu cifra neta con la calculadora de pensión neta.</p>
+<p><strong>Si cobras complemento a mínimos</strong>, la cuenta es distinta: lo que manda es la nueva pensión mínima. Tu pensión propia sube el porcentaje general y el complemento cubre la diferencia hasta la mínima de 2027. Por ejemplo, Rosa cobra 700 euros de pensión propia más 236,20 de complemento para llegar a la mínima de 936,20. En 2027 su pensión propia pasará a 723,10 euros (con un 3,3 %) y cobrará la mínima nueva, que será más alta.</p>
+<h2 id="que-pensiones-suben-y-cuanto">Qué pensiones suben y cuánto</h2>
+<ul>
+<li><strong>Pensiones contributivas</strong> de jubilación, incapacidad permanente, viudedad, orfandad y a favor de familiares, y las de <strong>Clases Pasivas</strong> (funcionarios): el porcentaje general.</li>
+<li><strong>Complemento para la reducción de la brecha de género</strong>: el mismo porcentaje (en 2026 es de 36,90 euros al mes por hijo).</li>
+<li><strong>Pensiones que ya están en la máxima</strong>: también suben el porcentaje general. Desde 2025 el tope ya no frena la revalorización de las pensiones en curso.</li>
+<li><strong>Pensión máxima para las pensiones nuevas</strong>: sube el porcentaje general <strong>más 0,115 puntos</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 39.ª</a>). En 2026 es de 3.359,60 euros al mes.</li>
+<li><strong>Pensiones mínimas</strong>: suben el porcentaje general y, además, lo que marca la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición adicional 53.ª de la ley</a>. Desde 2027, la mínima de jubilación con cónyuge a cargo <strong>no puede ser inferior al umbral de la pobreza de un hogar de dos adultos</strong>; el resto de mínimas suben la mitad de ese incremento adicional.</li>
+<li><strong>Pensiones no contributivas</strong>: al menos el porcentaje general (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a62" rel="noopener">artículo 62</a>), más el incremento adicional que las acerca al 75 % del umbral de la pobreza de una persona. En 2026 son de 628,80 euros al mes.</li>
+</ul>
+<p>Para hacerte una idea: en 2026, con una subida general del 2,7 %, las pensiones mínimas con cónyuge a cargo y las no contributivas subieron un <strong>11,4 %</strong>, y el resto de mínimas, más del 7 %. Las cuantías concretas de 2027 se conocerán cuando se aprueben, a finales de diciembre.</p>
+<h2 id="cuando-se-sabe-y-cuando-se-cobra-la-subida">Cuándo se sabe y cuándo se cobra la subida</h2>
+<ol>
+<li><strong>Finales de noviembre de 2026</strong>: el INE publica el dato adelantado del IPC de noviembre. Con él ya se puede calcular la media de los doce meses.</li>
+<li><strong>Mediados de diciembre</strong>: el INE publica el dato definitivo.</li>
+<li><strong>Finales de diciembre</strong>: el Gobierno aprueba la subida, en la ley de presupuestos o, si no hay presupuestos nuevos, por real decreto-ley, y después fija las cuantías en un real decreto.</li>
+<li><strong>1 de enero de 2027</strong>: la subida tiene efectos desde ese día. No hay que pedirla: la Seguridad Social la aplica de oficio.</li>
+<li><strong>Pensión de enero</strong>: es la primera que se cobra con la subida. La Seguridad Social envía una carta a cada pensionista con su nueva cuantía.</li>
+</ol>
+<p>En 2026 el camino tuvo un tropiezo: el Congreso no convalidó en enero el primer real decreto-ley, y el Gobierno aprobó otro, el <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2548" rel="noopener">Real Decreto-ley 3/2026</a>, el 3 de febrero, convalidado el 26 de febrero. Aun así, la subida se aplicó con efectos desde el 1 de enero.</p>
+<h2 id="cuanto-han-subido-las-pensiones-cada-ano">Cuánto han subido las pensiones cada año</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-4" tabindex="0">
+<table><caption id="tabla-4">Revalorización general de las pensiones contributivas desde 2022</caption>
+<thead>
+<tr>
+<th scope="col">Año</th>
+<th scope="col">Subida general</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">2022</th>
+<td>2,5 %</td>
+</tr>
+<tr>
+<th scope="row">2023</th>
+<td>8,5 %</td>
+</tr>
+<tr>
+<th scope="row">2024</th>
+<td>3,8 %</td>
+</tr>
+<tr>
+<th scope="row">2025</th>
+<td>2,8 %</td>
+</tr>
+<tr>
+<th scope="row">2026</th>
+<td>2,7 %</td>
+</tr>
+<tr>
+<th scope="row">2027</th>
+<td>Pendiente (estimación: 3,1 % a 3,5 %)</td>
+</tr>
+</tbody></table>
+</div>
+<p>Desde 2022 las pensiones suben con la inflación media: es la fórmula de la Ley 21/2021, de garantía del poder adquisitivo de las pensiones. Si la media saliera negativa, las pensiones <strong>no bajarían</strong>: se quedarían igual (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">artículo 58.3</a>).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-subiran-las-pensiones-en-2027">¿Cuánto subirán las pensiones en 2027?</h3>
+<p>Lo que salga de la inflación media de diciembre de 2025 a noviembre de 2026, redondeada a un decimal. Con los datos hasta agosto, la media va por el 3,16 % y la subida apunta a entre el 3,1 % y el 3,5 %.</p>
+<h3 id="cuando-se-sabra-la-subida-definitiva">¿Cuándo se sabrá la subida definitiva?</h3>
+<p>A finales de noviembre de 2026, cuando el INE publique el dato adelantado del IPC de noviembre. El Gobierno la aprueba a finales de diciembre.</p>
+<h3 id="cuando-se-cobra-la-subida">¿Cuándo se cobra la subida?</h3>
+<p>Con la pensión de enero de 2027, que es la primera con el importe nuevo. La subida tiene efectos desde el 1 de enero.</p>
+<h3 id="hay-que-pedir-la-revalorizacion">¿Hay que pedir la revalorización?</h3>
+<p>No. La Seguridad Social la aplica de oficio a todas las pensiones y envía una carta con la cuantía nueva.</p>
+<h3 id="habra-paga-compensatoria-en-2027">¿Habrá paga compensatoria en 2027?</h3>
+<p>No. Como la subida se calcula con la inflación ya conocida de los doce meses anteriores, no hay desviación que compensar después.</p>
+<h3 id="suben-igual-las-pensiones-minimas">¿Suben igual las pensiones mínimas?</h3>
+<p>No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la mínima de jubilación con cónyuge a cargo alcance el umbral de la pobreza de un hogar de dos adultos, y el resto de mínimas suben la mitad de ese extra.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 58 y 62, disposición adicional 53.ª y disposición transitoria 39.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, sobre revalorización de las pensiones para 2026</a> (BOE).</li>
+<li><a href="https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607" rel="noopener">Índice de Precios de Consumo: últimos datos</a> (INE).</li>
+<li><a href="https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx" rel="noopener">La Moncloa: revalorización de las pensiones en 2026</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto es la mínima que te garantiza la ley? Consulta la <a href="/cuanto-cobrare/pension-minima/">pensión mínima de jubilación en 2026</a>.</li>
+<li>¿Qué día llega la pensión al banco? Mira el calendario de pago de las pensiones.</li>
+<li>¿Cuánto te quedará limpio? Calcula tu pensión neta con la retención de IRPF.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></excerpt:encoded>
+    <wp:post_id>9005</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[revalorizacion-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Subida de las pensiones en 2027: cuánto suben y cuándo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[subida pensiones 2027]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Subida de las pensiones en 2027: cuánto suben y cuándo]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[subida pensiones 2027]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza]]></title>
     <link>https://jubilometro.com/imserso/viajes-imserso/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -1292,7 +1810,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9004</wp:post_id>
+    <wp:post_id>9006</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1432,7 +1950,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9005</wp:post_id>
+    <wp:post_id>9007</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1568,7 +2086,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9006</wp:post_id>
+    <wp:post_id>9008</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1703,7 +2221,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9007</wp:post_id>
+    <wp:post_id>9009</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -1884,7 +2402,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9008</wp:post_id>
+    <wp:post_id>9010</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2040,7 +2558,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2228,7 +2746,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2387,7 +2905,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2609,7 +3127,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2764,7 +3282,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2862,7 +3380,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3032,7 +3550,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3194,7 +3712,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3324,7 +3842,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3911,7 +4429,7 @@
 <li><strong>Para cobrar el 100 % de tu base reguladora</strong> bastan 37 años cotizados si te jubilas en 2027 o después (en 2026 eran 36 años y 6 meses).</li>
 </ul>
 <p>Desde 2027, con 15 años cotizados cobras el 50 % de la base reguladora. Cada mes adicional suma un 0,19 % hasta el mes 248 y un 0,18 % a partir de ahí, hasta llegar al 100 % con 37 años (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtnovena" rel="noopener">disposición transitoria 9.ª de la LGSS</a>). Por eso Antonio, con 34 años, cobrará el 93,32 %.</p>
-<p>Si quieres saber cuánto cobrarás, consulta <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación con el sistema dual</a> y el porcentaje de pensión según los años cotizados.</p>
+<p>Si quieres saber cuánto cobrarás, consulta <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación con el sistema dual</a> y el <a href="/cuanto-cobrare/porcentaje-anos-cotizados/">porcentaje de pensión según los años cotizados</a>.</p>
 <h2 id="casos-especiales">Casos especiales</h2>
 <ul>
 <li><strong>Autónomos.</strong> Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados. Lo que cambia lo explicamos en <a href="/jubilacion/autonomos/">jubilación de autónomos</a>.</li>
@@ -3973,7 +4491,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4103,7 +4621,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4281,7 +4799,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4415,7 +4933,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4539,7 +5057,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4656,7 +5174,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4788,7 +5306,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4888,7 +5406,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

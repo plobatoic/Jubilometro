@@ -177,7 +177,7 @@ Son dos requisitos distintos que se suelen mezclar:
 
 Desde 2027, con 15 años cotizados cobras el 50 % de la base reguladora. Cada mes adicional suma un 0,19 % hasta el mes 248 y un 0,18 % a partir de ahí, hasta llegar al 100 % con 37 años ([disposición transitoria 9.ª de la LGSS](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtnovena)). Por eso Antonio, con 34 años, cobrará el 93,32 %.
 
-Si quieres saber cuánto cobrarás, consulta [cómo se calcula la pensión de jubilación con el sistema dual](/cuanto-cobrare/como-se-calcula-la-pension/) y el [porcentaje de pensión según los años cotizados](/cuanto-cobrare/porcentaje-por-anos-cotizados/).
+Si quieres saber cuánto cobrarás, consulta [cómo se calcula la pensión de jubilación con el sistema dual](/cuanto-cobrare/como-se-calcula-la-pension/) y el [porcentaje de pensión según los años cotizados](/cuanto-cobrare/porcentaje-anos-cotizados/).
 
 ## Casos especiales
 

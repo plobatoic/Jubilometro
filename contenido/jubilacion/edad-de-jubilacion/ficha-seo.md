@@ -100,7 +100,7 @@ Enlaces que salen de este artículo. **Los que apuntan a páginas aún no public
 | jubilación demorada | `/jubilacion/demorada/` | Pendiente (art. n.º 5, F2) |
 | jubilación flexible | `/jubilacion/flexible/` | Pendiente (art. n.º 6, F1) |
 | cómo se calcula la pensión de jubilación (con el sistema dual / en 2026) | `/cuanto-cobrare/como-se-calcula-la-pension/` | Pendiente (art. n.º 22, F1) |
-| porcentaje de pensión según los años cotizados | `/cuanto-cobrare/porcentaje-por-anos-cotizados/` | Pendiente (art. n.º 24, F1) |
+| porcentaje de pensión según los años cotizados | `/cuanto-cobrare/porcentaje-anos-cotizados/` | Pendiente (art. n.º 24, F1) |
 | pensión no contributiva | `/ayudas/pension-no-contributiva/` | Pendiente (art. n.º 55, F1) |
 | calculadora de edad de jubilación | `/calculadoras/edad-de-jubilacion/` | Pendiente (herramienta n.º 94, F1; puede reutilizar el widget ya construido) |
 | Jubilación (miga de pan) | `/jubilacion/` | Pendiente (pilar) |
