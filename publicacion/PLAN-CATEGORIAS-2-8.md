@@ -29,7 +29,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | programado 23/10 |
 | 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | programado 28/10 |
 | 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | |
-| 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | |
+| 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | programado 30/10 |
 | 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | |
 | 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | programado 06/10 (actualizar con cada IPC) |
 | 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | programado 22/10 |
@@ -64,7 +64,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 55 | Pensión no contributiva de jubilación | /ayudas/pension-no-contributiva/ | pension-no-contributiva | F1 | programado 08/10 |
 | 56 | Pensión no contributiva de invalidez | /ayudas/pnc-invalidez/ | | F2 | |
 | 57 | Ingreso Mínimo Vital para mayores de 65 | /ayudas/ingreso-minimo-vital-mayores/ | ingreso-minimo-vital-mayores | F3 | |
-| 58 | Bono social eléctrico para pensionistas | /ayudas/bono-social-electrico/ | bono-social-electrico | F2 | |
+| 58 | Bono social eléctrico para pensionistas | /ayudas/bono-social-electrico/ | bono-social-electrico | F2 | programado 02/11 |
 | 59 | Ayudas para mayores por comunidad autónoma | /ayudas/ayudas-autonomicas/ | ayudas-autonomicas | F3 | |
 | 60 | Descuentos para pensionistas | /ayudas/descuentos-transporte/ | descuentos-transporte | F3 | |
 | 61 | Complemento de alquiler | /ayudas/complemento-alquiler/ | complemento-alquiler | F3 | |
