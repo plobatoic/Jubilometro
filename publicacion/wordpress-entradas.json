@@ -95,6 +95,14 @@
     "id": 196,
     "estado": "future"
   },
+  "/incapacidad/denegada/": {
+    "id": 430,
+    "estado": "future"
+  },
+  "/incapacidad/enfermedades/": {
+    "id": 431,
+    "estado": "future"
+  },
   "/incapacidad/grados-incapacidad/": {
     "id": 395,
     "estado": "future"
@@ -109,6 +117,10 @@
   },
   "/incapacidad/incapacidad-total/": {
     "id": 164,
+    "estado": "future"
+  },
+  "/incapacidad/solicitar/": {
+    "id": 432,
     "estado": "future"
   },
   "/jubilacion/15-anos-cotizados/": {

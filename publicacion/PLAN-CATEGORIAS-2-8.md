@@ -50,9 +50,9 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 45 | Grados de incapacidad permanente | /incapacidad/grados-incapacidad/ | | F1 | programado 12/10 (la URL /incapacidad/grados/ no es posible: el slug «grados» es de la plantilla de dependencia) |
 | 46 | Incapacidad permanente total | /incapacidad/incapacidad-total/ | incapacidad-total | F1 | programado 13/10 |
 | 47 | Incapacidad permanente absoluta | /incapacidad/incapacidad-absoluta/ | incapacidad-absoluta | F2 | programado 26/10 |
-| 48 | Enfermedades y tribunal médico | /incapacidad/enfermedades/ | | F2 | |
-| 49 | Cómo solicitar la incapacidad permanente | /incapacidad/solicitar/ | | F2 | |
-| 50 | Incapacidad denegada: reclamación y demanda | /incapacidad/denegada/ | | F2 | |
+| 48 | Enfermedades y tribunal médico | /incapacidad/enfermedades/ | | F2 | programado 16/11 |
+| 49 | Cómo solicitar la incapacidad permanente | /incapacidad/solicitar/ | | F2 | programado 17/11 |
+| 50 | Incapacidad denegada: reclamación y demanda | /incapacidad/denegada/ | | F2 | programado 18/11 |
 | 51 | Incapacidad total cualificada | /incapacidad/total-cualificada/ | | F3 | |
 | 52 | Incapacidad temporal: qué pasa a los 545 días | /incapacidad/incapacidad-temporal/ | incapacidad-temporal | F2 | programado 03/11 |
 | 53 | Incapacidad permanente y jubilación | /incapacidad/incapacidad-y-jubilacion/ | incapacidad-y-jubilacion | F3 | |
