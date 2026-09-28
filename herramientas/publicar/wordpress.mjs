@@ -1,7 +1,7 @@
 // Archivo WXR (formato de exportación de WordPress) con todos los artículos como BORRADORES.
 // Se importa en WordPress desde Herramientas > Importar > WordPress.
 // Incluye título SEO, meta description y palabra clave para Yoast y Rank Math.
-import { cuerpoWordPress, DOMINIO } from './articulos.mjs';
+import { cuerpoWordPress, DOMINIO, CATEGORIAS } from './articulos.mjs';
 
 const cdata = (s) => `<![CDATA[${String(s).replace(/]]>/g, ']]]]><![CDATA[>')}]]>`;
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
@@ -12,7 +12,7 @@ function meta(clave, valor) {
 
 export function exportarWordPress(articulos, urlsExistentes = null) {
   const categorias = [...new Set(articulos.map((a) => a.datos.categoria))];
-  const slugCategoria = (c) => ({ 'Jubilación': 'jubilacion', 'Cuánto cobraré': 'cuanto-cobrare', 'Calculadoras': 'calculadoras' }[c] ?? c);
+  const slugCategoria = (c) => CATEGORIAS[c]?.slug ?? c;
   const items = articulos.map((a, i) => {
     const d = a.datos;
     const slug = d.url.split('/').filter(Boolean).pop();

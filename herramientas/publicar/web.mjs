@@ -102,10 +102,14 @@ export const CALCULADORA_DEL_ARTICULO = {
   '/jubilacion/faltan-anos-cotizados/': 'pension',
 };
 
-export function urlsDeLaWeb(articulos) {
+// URL que existen en la web en una fecha (AAAA-MM-DD): las páginas de la web y los artículos
+// ya publicados ese día. Sin fecha, todos los artículos. Así un artículo programado no enlaza a
+// otro que todavía no ha salido; al volver a subirlo después, el enlace aparece.
+export function urlsDeLaWeb(articulos, fecha = null) {
   return new Set([
     ...PAGINAS_WEB,
-    ...articulos.map((a) => a.datos.url).filter((u) => !NO_SE_SUBEN.includes(u)),
+    ...articulos.filter((a) => !fecha || !a.datos.publicacion || a.datos.publicacion <= fecha)
+      .map((a) => a.datos.url).filter((u) => !NO_SE_SUBEN.includes(u)),
   ]);
 }
 

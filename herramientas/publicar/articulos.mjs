@@ -23,10 +23,17 @@ const CSS = readFileSync(join(aqui, 'estilos.css'), 'utf8');
 const CAMPOS_OBLIGATORIOS = ['titulo_seo', 'h1', 'meta_descripcion', 'url', 'categoria', 'palabra_clave_principal',
   'fecha_actualizacion', 'estado'];
 
-const CATEGORIAS = {
-  'Jubilación': '/jubilacion/',
-  'Cuánto cobraré': '/cuanto-cobrare/',
-  'Calculadoras': '/calculadoras/',
+// Categorías de la web: nombre (como en WordPress), carpeta de la URL y slug.
+export const CATEGORIAS = {
+  'Jubilación': { url: '/jubilacion/', slug: 'jubilacion' },
+  'Cuánto cobraré': { url: '/cuanto-cobrare/', slug: 'cuanto-cobrare' },
+  'Viudedad': { url: '/viudedad/', slug: 'viudedad' },
+  'Incapacidad': { url: '/incapacidad/', slug: 'incapacidad' },
+  'Ayudas': { url: '/ayudas/', slug: 'ayudas' },
+  'Dependencia': { url: '/dependencia/', slug: 'dependencia' },
+  'Dinero': { url: '/dinero/', slug: 'dinero' },
+  'IMSERSO': { url: '/imserso/', slug: 'imserso' },
+  'Calculadoras': { url: '/calculadoras/', slug: 'calculadoras' },
 };
 
 export function listarArticulos(dir = join(RAIZ, 'contenido')) {
@@ -52,9 +59,14 @@ function leerMarkdown(ruta, obligatorios) {
     if (!datos[campo]) throw new Error(`${ruta}: falta el campo «${campo}»`);
   }
   if (!/^\/[a-z0-9-]+(\/[a-z0-9-]+)*\/$/.test(datos.url)) throw new Error(`${ruta}: URL no válida ${datos.url}`);
-  const fecha = datos.fecha_actualizacion instanceof Date
-    ? datos.fecha_actualizacion.toISOString().slice(0, 10) : String(datos.fecha_actualizacion);
-  return { ruta, dir: dirname(ruta), datos: { ...datos, fecha_actualizacion: fecha }, cuerpo: m[2] };
+  const iso = (f) => (f instanceof Date ? f.toISOString().slice(0, 10) : String(f));
+  const fecha = iso(datos.fecha_actualizacion);
+  if (datos.categoria && !CATEGORIAS[datos.categoria]) throw new Error(`${ruta}: categoría desconocida «${datos.categoria}»`);
+  if (datos.categoria && !datos.url.startsWith(CATEGORIAS[datos.categoria].url)) throw new Error(`${ruta}: la URL no está en su categoría`);
+  // publicacion: día en que WordPress publica el artículo (programado). Sin ella, se publica al subirlo.
+  const publicacion = datos.publicacion ? iso(datos.publicacion) : undefined;
+  if (publicacion && !/^\d{4}-\d{2}-\d{2}$/.test(publicacion)) throw new Error(`${ruta}: fecha de publicación no válida`);
+  return { ruta, dir: dirname(ruta), datos: { ...datos, fecha_actualizacion: fecha, publicacion }, cuerpo: m[2] };
 }
 
 export function slug(texto) {
@@ -140,7 +152,7 @@ export function cuerpoHtml(articulo, urlsExistentes = null) {
 export function jsonLd(articulo) {
   const d = articulo.datos;
   const url = `${DOMINIO}${d.url}`;
-  const categoriaUrl = `${DOMINIO}${CATEGORIAS[d.categoria] ?? '/'}`;
+  const categoriaUrl = `${DOMINIO}${CATEGORIAS[d.categoria]?.url ?? '/'}`;
   const imagen = d.imagen_destacada
     ? { '@type': 'ImageObject', url: `${url}${d.imagen_destacada.replace(/\.webp$/, '.png')}`, width: 1200, height: 675 }
     : undefined;
@@ -184,7 +196,7 @@ export function paginaHtml(articulo, urlsExistentes = null) {
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="675">
 <meta property="og:image:alt" content="${escapar(d.imagen_alt ?? d.h1)}">` : '';
-  const categoriaUrl = CATEGORIAS[d.categoria] ?? '/';
+  const categoriaUrl = CATEGORIAS[d.categoria]?.url ?? '/';
   return `<!doctype html>
 <html lang="es-ES">
 <head>

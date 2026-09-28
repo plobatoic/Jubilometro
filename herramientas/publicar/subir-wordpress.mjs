@@ -4,6 +4,11 @@
 // slug, o la plantilla del mismo tema que ya tenía la web), se actualiza sin cambiar su
 // estado, así que sirve también para subir correcciones de artículos ya publicados.
 //
+// Los artículos con «publicacion: AAAA-MM-DD» en el front matter se programan en WordPress para
+// ese día a las 8:00 (hora de Madrid) si la fecha es futura, y se publican si ya ha pasado. Cada
+// artículo solo enlaza a lo ya publicado en su fecha: volver a ejecutar el script más adelante
+// activa los enlaces a los que han ido saliendo.
+//
 // Uso:
 //   WP_USER=usuario WP_APP_PASSWORD='xxxx xxxx xxxx xxxx xxxx xxxx' npm run subir
 //   npm run subir -- --prueba     solo dice qué haría, sin cambiar nada en la web
@@ -11,7 +16,7 @@
 // La contraseña es una «contraseña de aplicación» (WordPress > Usuarios > Perfil).
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
-import { listarArticulos, leerArticulo, RAIZ } from './articulos.mjs';
+import { listarArticulos, leerArticulo, RAIZ, CATEGORIAS } from './articulos.mjs';
 import { cuerpoWeb, urlsDeLaWeb, NO_SE_SUBEN, PLANTILLAS, IMAGENES_DESTACADAS, ARCHIVOS } from './web.mjs';
 
 const WEB = process.env.WP_URL ?? 'https://jubilometro.com';
@@ -23,7 +28,6 @@ if (!WP_USER || !WP_APP_PASSWORD) {
 const AUTORIZACION = `Basic ${Buffer.from(`${WP_USER}:${WP_APP_PASSWORD}`).toString('base64')}`;
 const PUBLICAR = process.argv.includes('--publicar');
 const PRUEBA = process.argv.includes('--prueba');
-const CATEGORIAS = { 'Jubilación': 'jubilacion', 'Cuánto cobraré': 'cuanto-cobrare', 'Calculadoras': 'calculadoras' };
 const TIPOS = { webp: 'image/webp', png: 'image/png', pdf: 'application/pdf' };
 
 // Las lecturas y las actualizaciones se reintentan si se corta la conexión; las altas no,
@@ -77,14 +81,15 @@ async function buscarEntrada(slug) {
   return lista[0];
 }
 
-const articulos = listarArticulos().map(leerArticulo).filter((a) => !NO_SE_SUBEN.includes(a.datos.url));
-const existe = urlsDeLaWeb(listarArticulos().map(leerArticulo));
+const todos = listarArticulos().map(leerArticulo);
+const articulos = todos.filter((a) => !NO_SE_SUBEN.includes(a.datos.url));
+const hoy = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Madrid' }).format(new Date());
 
 const medios = {};
 for (const archivo of ARCHIVOS) medios[basename(archivo)] = await subirArchivo(archivo);
 
 const idsCategoria = {};
-for (const slug of new Set(articulos.map((a) => CATEGORIAS[a.datos.categoria]))) {
+for (const slug of new Set(articulos.map((a) => CATEGORIAS[a.datos.categoria].slug))) {
   const [categoria] = await api(`/wp/v2/categories?slug=${slug}&_fields=id`);
   if (!categoria) throw new Error(`No existe la categoría ${slug}`);
   idsCategoria[slug] = categoria.id;
@@ -95,10 +100,17 @@ for (const a of articulos) {
   const d = a.datos;
   const slug = d.url.split('/').filter(Boolean).pop();
   const entrada = (await buscarEntrada(slug)) ?? (PLANTILLAS[d.url] ? await buscarEntrada(PLANTILLAS[d.url]) : undefined);
+  const fechaEnlaces = d.publicacion && d.publicacion > hoy ? d.publicacion : hoy;
   const campos = {
-    title: d.h1, slug, content: cuerpoWeb(a, existe, medios), excerpt: d.meta_descripcion,
-    categories: [idsCategoria[CATEGORIAS[d.categoria]]], comment_status: 'closed', ping_status: 'closed',
+    title: d.h1, slug, content: cuerpoWeb(a, urlsDeLaWeb(todos, fechaEnlaces), medios), excerpt: d.meta_descripcion,
+    categories: [idsCategoria[CATEGORIAS[d.categoria].slug]], comment_status: 'closed', ping_status: 'closed',
   };
+  // Programación: fecha futura -> «future» a las 8:00; fecha pasada -> publicado. Una entrada ya
+  // publicada no se toca.
+  if (d.publicacion && entrada?.status !== 'publish') {
+    campos.date = `${d.publicacion}T08:00:00`;
+    campos.status = d.publicacion > hoy ? 'future' : 'publish';
+  }
   const destacada = IMAGENES_DESTACADAS[d.url];
   if (destacada && !entrada?.featured_media) {
     let medio = await buscarMedio(destacada.archivo);
@@ -118,10 +130,11 @@ for (const a of articulos) {
     }
     if (medio) campos.featured_media = medio.id;
   }
-  if (PUBLICAR) campos.status = 'publish';
+  if (PUBLICAR && !d.publicacion) campos.status = 'publish';
   if (PRUEBA) {
     const plantilla = entrada && entrada.slug !== slug ? ` (plantilla «${entrada.slug}»)` : '';
-    console.log(`${entrada ? `Actualizaría ${entrada.id} ${entrada.status}${plantilla}` : 'Crearía borrador'} ${d.url}` +
+    const estado = campos.status ? ` -> ${campos.status}${campos.date ? ` ${campos.date}` : ''}` : '';
+    console.log(`${entrada ? `Actualizaría ${entrada.id} ${entrada.status}${plantilla}` : 'Crearía borrador'}${estado} ${d.url}` +
       `${campos.featured_media ? ` · imagen ${campos.featured_media}` : ''} · ${campos.content.length} caracteres`);
     continue;
   }

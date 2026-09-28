@@ -1,4 +1,8 @@
 {
+  "/imserso/viajes-imserso/": {
+    "id": 196,
+    "estado": "future"
+  },
   "/jubilacion/15-anos-cotizados/": {
     "id": 290,
     "estado": "publish"
