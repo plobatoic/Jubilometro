@@ -121,11 +121,11 @@ for (const a of articulos) {
     title: d.h1, slug, content: cuerpoWeb(a, urlsDeLaWeb(todos, fechaEnlaces), medios), excerpt: d.meta_descripcion,
     categories: [idCategoria], comment_status: 'closed', ping_status: 'closed',
   };
-  // Programación: fecha futura -> «future» a las 8:00; fecha pasada -> publicado. Una entrada ya
-  // publicada no se toca.
+  // Programación: fecha futura o de hoy -> «future» a las 8:00 (si ya han pasado las 8:00 de hoy,
+  // WordPress la publica al momento); fecha pasada -> publicado. Una entrada ya publicada no se toca.
   if (d.publicacion && entrada?.status !== 'publish') {
     campos.date = `${d.publicacion}T08:00:00`;
-    campos.status = d.publicacion > hoy ? 'future' : 'publish';
+    campos.status = d.publicacion >= hoy ? 'future' : 'publish';
   }
   const destacada = IMAGENES_DESTACADAS[d.url];
   if (destacada && !entrada?.featured_media) {

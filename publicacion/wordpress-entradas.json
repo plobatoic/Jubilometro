@@ -31,6 +31,10 @@
     "id": 153,
     "estado": "future"
   },
+  "/cuanto-cobrare/informe-vida-laboral/": {
+    "id": 427,
+    "estado": "future"
+  },
   "/cuanto-cobrare/lagunas-de-cotizacion/": {
     "id": 425,
     "estado": "future"
@@ -49,6 +53,10 @@
   },
   "/cuanto-cobrare/pension-minima/": {
     "id": 388,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/pension-segun-sueldo/": {
+    "id": 428,
     "estado": "future"
   },
   "/cuanto-cobrare/porcentaje-anos-cotizados/": {
@@ -189,6 +197,10 @@
   },
   "/viudedad/cuantia/": {
     "id": 157,
+    "estado": "future"
+  },
+  "/viudedad/fallecimiento-pensionista/": {
+    "id": 429,
     "estado": "future"
   },
   "/viudedad/pareja-de-hecho/": {

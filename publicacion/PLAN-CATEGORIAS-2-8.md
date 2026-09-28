@@ -28,9 +28,9 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | programado 02/10 |
 | 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | programado 23/10 |
 | 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | programado 28/10 |
-| 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | |
+| 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | programado 11/11 |
 | 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | programado 30/10 |
-| 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | |
+| 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | programado 12/11 |
 | 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | programado 06/10 (actualizar con cada IPC) |
 | 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | programado 22/10 |
 | 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | programado 07/10 |
@@ -43,7 +43,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 40 | Viudedad si vuelves a casarte | /viudedad/nuevo-matrimonio/ | | F3 | |
 | 41 | Viudedad tras divorcio o separación | /viudedad/divorcio-separacion/ | divorcio-separacion | F3 | |
 | 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | |
-| 43 | Qué hacer cuando fallece un pensionista | /viudedad/fallecimiento-pensionista/ | | F2 | |
+| 43 | Qué hacer cuando fallece un pensionista | /viudedad/fallecimiento-pensionista/ | | F2 | programado 13/11 |
 | 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | |
 | extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | |
 | extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | |
