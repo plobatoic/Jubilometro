@@ -947,7 +947,7 @@
 <li><strong>Se toman las bases del periodo de cálculo</strong>, empezando en el mes anterior al de tu jubilación.</li>
 <li><strong>Las de los últimos 24 meses cuentan por su importe nominal.</strong></li>
 <li><strong>Las anteriores se actualizan con el IPC</strong>, desde el mes de cada base hasta el mes anterior a esos 24 últimos. Así, lo que cotizaste hace 20 años no pierde valor por la inflación.</li>
-<li><strong>Los meses sin cotizar se rellenan</strong> (integración de lagunas): los primeros 48 con la base mínima de cada mes y el resto con el 50 %. Las mujeres (y algunos hombres) tienen reglas más favorables; lo explicamos en lagunas de cotización.</li>
+<li><strong>Los meses sin cotizar se rellenan</strong> (integración de lagunas): los primeros 48 con la base mínima de cada mes y el resto con el 50 %. Las mujeres (y algunos hombres) tienen reglas más favorables; lo explicamos en <a href="/cuanto-cobrare/lagunas-de-cotizacion/">lagunas de cotización</a>.</li>
 <li><strong>Se suman y se dividen</strong> entre el divisor, que reparte la media en 14 pagas.</li>
 </ol>
 <div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
@@ -1035,7 +1035,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Qué sistema te favorece? Mira <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
-<li>¿Tienes meses sin cotizar? Lee cómo se rellenan las lagunas de cotización.</li>
+<li>¿Tienes meses sin cotizar? Lee cómo se rellenan las <a href="/cuanto-cobrare/lagunas-de-cotizacion/">lagunas de cotización</a>.</li>
 <li>¿Cuánto es lo máximo? Consulta la <a href="/cuanto-cobrare/pension-maxima/">pensión máxima de 2026</a>.</li>
 </ul>
 </nav>
@@ -1756,7 +1756,7 @@
 <ul>
 <li>¿Cuánto será tu pensión? Mira <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
 <li>¿Te quedas cerca de la mínima? Lee el <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
-<li>¿Cuidaste de tus hijos sin cotizar? Descubre cómo se rellenan las lagunas de cotización.</li>
+<li>¿Cuidaste de tus hijos sin cotizar? Descubre cómo se rellenan las <a href="/cuanto-cobrare/lagunas-de-cotizacion/">lagunas de cotización</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -1784,6 +1784,145 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Complemento de brecha de género 2026: 36,90 € por hijo]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El complemento de brecha de género suma 36,90 € al mes por hijo (hasta 4) a la jubilación, incapacidad o viudedad. Quién lo cobra, también padres, y ejemplos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[complemento brecha de género]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Lagunas de cotización: cómo se rellenan los meses sin cotizar al calcular la pensión de jubilación]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/lagunas-de-cotizacion/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Una laguna es un mes <strong>sin obligación de cotizar</strong> dentro del periodo que se usa para calcular tu base reguladora (los últimos 25 a 29 años). Esos meses no cuentan como cero: se <strong>rellenan</strong>. Los <strong>48 primeros</strong> con la <strong>base mínima</strong> de cotización de cada mes y el <strong>resto con el 50 %</strong> de esa base.</p>
+<p>Desde 2026, las <strong>trabajadoras por cuenta ajena</strong> rellenan además los meses <strong>49 a 60 con el 100 %</strong> y los <strong>61 a 84 con el 80 %</strong>, y lo mismo los hombres cuya carrera se vio afectada por el nacimiento de sus hijos. Los meses rellenados <strong>no suman años cotizados</strong>.</p>
+</aside>
+<h2 id="que-es-una-laguna-de-cotizacion">Qué es una laguna de cotización</h2>
+<p>Es cualquier mes, dentro del periodo de cálculo de la base reguladora, en el que <strong>no estabas obligado a cotizar</strong>: por ejemplo, porque estabas en paro sin cobrar prestación ni subsidio, o habías dejado de trabajar. No son lagunas los meses en que el SEPE cotiza por ti (paro contributivo o subsidio para mayores de 52 años), porque ahí sí hay cotización.</p>
+<p>Solo importan las lagunas <strong>dentro del periodo de cálculo</strong>: los últimos 300 meses con el sistema clásico o, con el nuevo, 304 meses en 2026 hasta 348 en 2037. Un hueco de hace 30 años no afecta a la base reguladora (aunque sí a tus años cotizados).</p>
+<h2 id="como-se-rellenan">Cómo se rellenan</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Integración de lagunas en la base reguladora de jubilación (desde 2026)</caption>
+<thead>
+<tr>
+<th scope="col">Meses sin cotizar dentro del periodo</th>
+<th scope="col">Régimen general</th>
+<th scope="col">Mujeres por cuenta ajena (y hombres con carrera afectada por hijos)</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Del 1 al 48</th>
+<td>100 % de la base mínima</td>
+<td>100 % de la base mínima</td>
+</tr>
+<tr>
+<th scope="row">Del 49 al 60</th>
+<td>50 %</td>
+<td>100 %</td>
+</tr>
+<tr>
+<th scope="row">Del 61 al 84</th>
+<td>50 %</td>
+<td>80 %</td>
+</tr>
+<tr>
+<th scope="row">Del 85 en adelante</th>
+<td>50 %</td>
+<td>50 %</td>
+</tr>
+</tbody></table>
+</div>
+<p>Se usa la <strong>base mínima del Régimen General de cada mes</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209" rel="noopener">artículo 209.1.b de la Ley General de la Seguridad Social</a>). En 2026 es de <strong>1.424,40 euros</strong>: su 50 % son 712,20 euros y su 80 %, 1.139,52. Para meses de años anteriores se toma la base mínima de entonces, actualizada con el IPC como el resto de bases.</p>
+<p>La mejora para las mujeres es la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 41.ª</a> y se mantendrá <strong>mientras la brecha de género de las pensiones supere el 5 %</strong>. Los hombres pueden aplicarla si cumplen alguno de los requisitos de carrera afectada del complemento de brecha de género (más de 120 días sin cotizar tras el nacimiento de un hijo antes de 1995, o una caída de más del 15 % en sus bases tras el nacimiento desde 1995).</p>
+<p><strong>Meses con cotización parcial</strong>: si en un mes cotizaste solo unos días o por menos de la base mínima, se completa la parte del mes sin obligación de cotizar hasta la base mínima.</p>
+<h2 id="autonomos">Autónomos</h2>
+<p>En el régimen de autónomos, las lagunas <strong>en general no se rellenan</strong>. Desde 2026 hay una excepción: tras agotar la <strong>prestación por cese de actividad</strong>, los <strong>seis meses siguientes</strong> sin cotizar de cada periodo se rellenan con la base mínima de autónomos (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a322" rel="noopener">artículo 322</a>).</p>
+<h2 id="ejemplo-cuanto-cambia-la-pension">Ejemplo: cuánto cambia la pensión</h2>
+<p><strong>Luis y Rosa se jubilan en 2026</strong> con el sistema clásico (300 meses entre 350). Los dos han cotizado 228 meses por 2.000 euros y tienen 72 meses sin cotizar dentro del periodo. Para simplificar, contamos la base mínima de todos esos meses como la de 2026:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Efecto de la integración de lagunas en la base reguladora (ejemplo simplificado)</caption>
+<thead>
+<tr>
+<th scope="col"></th>
+<th scope="col">Suma de bases</th>
+<th scope="col">Base reguladora</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Sin rellenar lagunas (si contaran como cero)</th>
+<td>456.000 €</td>
+<td>1.302,86 €</td>
+</tr>
+<tr>
+<th scope="row">Luis: 48 meses al 100 % y 24 al 50 %</th>
+<td>541.464 €</td>
+<td>1.547,04 €</td>
+</tr>
+<tr>
+<th scope="row">Rosa: 60 meses al 100 % y 12 al 80 %</th>
+<td>555.138,24 €</td>
+<td>1.586,11 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>La integración le da a Luis <strong>244 euros más de base reguladora</strong> que si esos meses contaran como cero, y a Rosa, <strong>283 euros más</strong>. Recuerda que la pensión es la base reguladora multiplicada por el porcentaje de años cotizados, y los meses rellenados no suman años.</p>
+<h2 id="como-reducir-el-efecto-de-las-lagunas">Cómo reducir el efecto de las lagunas</h2>
+<ul>
+<li><strong>Si estás en paro</strong>, cobra la prestación o el subsidio: el SEPE cotiza por ti. El subsidio para mayores de 52 años cotiza por el 125 % de la base mínima.</li>
+<li><strong>Firma un convenio especial</strong> con la Seguridad Social si dejas de trabajar: pagas tú las cuotas, pero evitas las lagunas y sumas años. Lo explicamos en <a href="/jubilacion/convenio-especial/">convenio especial</a>.</li>
+<li><strong>Revisa tu vida laboral</strong>: algunos meses que parecen lagunas son errores o periodos que sí cotizaron.</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-son-las-lagunas-de-cotizacion">¿Qué son las lagunas de cotización?</h3>
+<p>Los meses sin obligación de cotizar dentro de los años que se usan para calcular la base reguladora de tu pensión. No cuentan como cero: se rellenan con la base mínima o con un porcentaje de ella.</p>
+<h3 id="como-se-rellenan-las-lagunas-en-2026">¿Cómo se rellenan las lagunas en 2026?</h3>
+<p>Los 48 primeros meses con el 100 % de la base mínima de cada mes y el resto con el 50 %. Las trabajadoras por cuenta ajena rellenan también los meses 49 a 60 al 100 % y 61 a 84 al 80 %.</p>
+<h3 id="las-lagunas-cuentan-como-anos-cotizados">¿Las lagunas cuentan como años cotizados?</h3>
+<p>No. Solo sirven para calcular la base reguladora. Los años cotizados, de los que depende el porcentaje de tu pensión, son solo los que cotizaste de verdad.</p>
+<h3 id="los-autonomos-tienen-integracion-de-lagunas">¿Los autónomos tienen integración de lagunas?</h3>
+<p>En general no. Desde 2026, solo se rellenan los seis meses siguientes al fin de la prestación por cese de actividad, con la base mínima de autónomos.</p>
+<h3 id="el-paro-cuenta-como-laguna">¿El paro cuenta como laguna?</h3>
+<p>No, si cobras la prestación contributiva o el subsidio para mayores de 52 años, porque el SEPE cotiza por ti. Sí es laguna si estás en paro sin cobrar nada.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 60, 209 y 322 y disposición transitoria 41.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, base mínima de cotización de 2026</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cómo se calcula tu base? Mira la <a href="/cuanto-cobrare/base-reguladora/">base reguladora de la jubilación</a>.</li>
+<li>¿Te faltan años? Consulta las <a href="/jubilacion/faltan-anos-cotizados/">opciones para completarlos</a>.</li>
+<li>¿Cuánto te quedará? Calcúlalo con la calculadora de pensión.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Los meses sin cotizar se rellenan: los 48 primeros con la base mínima y el resto al 50 %. Las mujeres tienen 12 meses más al 100 % y 24 al 80 %. Ejemplos.]]></excerpt:encoded>
+    <wp:post_id>9009</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[lagunas-de-cotizacion]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Lagunas de cotización: cómo se rellenan para la pensión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Los meses sin cotizar se rellenan: los 48 primeros con la base mínima y el resto al 50 %. Las mujeres tienen 12 meses más al 100 % y 24 al 80 %. Ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[lagunas de cotización]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Lagunas de cotización: cómo se rellenan para la pensión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Los meses sin cotizar se rellenan: los 48 primeros con la base mínima y el resto al 50 %. Las mujeres tienen 12 meses más al 100 % y 24 al 80 %. Ejemplos.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[lagunas de cotización]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -1900,7 +2039,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></excerpt:encoded>
-    <wp:post_id>9009</wp:post_id>
+    <wp:post_id>9010</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2086,7 +2225,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una pensión de menos de 16.476 € al año no tiene retención de IRPF. Tabla de retenciones de 2026 para pensiones de 1.100 a 3.000 € al mes y cómo se calculan.]]></excerpt:encoded>
-    <wp:post_id>9010</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2205,7 +2344,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2375,7 +2514,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2626,7 +2765,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2893,7 +3032,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3109,7 +3248,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Todavía no la has pedido? Sigue la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
-<li>¿Te cuida un familiar? Mira la prestación por cuidados en el entorno familiar.</li>
+<li>¿Te cuida un familiar? Mira la <a href="/dependencia/prestacion-cuidados-familiares/">prestación por cuidados en el entorno familiar</a>.</li>
 <li>¿Necesita residencia? Compara residencia pública o privada.</li>
 </ul>
 </nav>
@@ -3119,7 +3258,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3281,7 +3420,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Qué grado te corresponde? Mira los <a href="/dependencia/grados/">grados de dependencia y el baremo</a>.</li>
-<li>¿Te cuida un familiar? Lee la guía de la prestación por cuidados en el entorno familiar.</li>
+<li>¿Te cuida un familiar? Lee la guía de la <a href="/dependencia/prestacion-cuidados-familiares/">prestación por cuidados en el entorno familiar</a>.</li>
 <li>¿Buscas plaza? Compara residencia pública o privada.</li>
 </ul>
 </nav>
@@ -3291,7 +3430,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3541,7 +3680,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3560,6 +3699,128 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Precio de las residencias de mayores por comunidad en 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[precio residencia de mayores]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Prestación por cuidados en el entorno familiar en 2026: cuánto se cobra, requisitos del cuidador y cotización gratis]]></title>
+    <link>https://jubilometro.com/dependencia/prestacion-cuidados-familiares/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Es la ayuda de la ley de dependencia para cuando a la persona dependiente <strong>la cuida alguien de su familia o de su entorno</strong> en casa. La cobra la <strong>persona dependiente</strong> y, en 2026, llega como máximo a <strong>455,40 euros al mes</strong> con grado III, <strong>315,90</strong> con grado II y <strong>180</strong> con grado I, según su capacidad económica.</p>
+<p>El cuidador puede firmar un <strong>convenio especial con la Seguridad Social</strong> para seguir cotizando para su jubilación, y <strong>las cuotas las paga el Estado</strong>. La ayuda <strong>no tributa en el IRPF</strong>.</p>
+</aside>
+<h2 id="cuanto-se-cobra">Cuánto se cobra</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Cuantías de la prestación por cuidados en el entorno familiar en 2026 (al mes)</caption>
+<thead>
+<tr>
+<th scope="col">Grado de dependencia</th>
+<th scope="col">Máximo</th>
+<th scope="col">Mínimo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Grado III</th>
+<td>455,40 €</td>
+<td>200 €</td>
+</tr>
+<tr>
+<th scope="row">Grado II</th>
+<td>315,90 €</td>
+<td>150 €</td>
+</tr>
+<tr>
+<th scope="row">Grado I</th>
+<td>180 €</td>
+<td>100 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Cuantías de los anexos IV y V del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013</a>. La cantidad concreta se fija según la <strong>capacidad económica</strong> de la persona dependiente (su renta y parte de su patrimonio) y no puede bajar del mínimo. Está <strong>exenta del IRPF</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7" rel="noopener">artículo 7.x de la Ley del IRPF</a>) y es inembargable.</p>
+<h2 id="es-una-prestacion-excepcional">Es una prestación excepcional</h2>
+<p>La ley de dependencia da prioridad a los <strong>servicios</strong> (ayuda a domicilio, centro de día, residencia). La prestación por cuidados familiares se concede <strong>excepcionalmente</strong>, cuando la persona ya está siendo atendida en su entorno, la vivienda reúne condiciones adecuadas y así lo recoge su <strong>Programa Individual de Atención</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a18" rel="noopener">artículos 14.4 y 18 de la Ley 39/2006</a>).</p>
+<h2 id="quien-puede-ser-el-cuidador">Quién puede ser el cuidador</h2>
+<p>Según el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">artículo 12 del Real Decreto 1051/2013</a>:</p>
+<ul>
+<li>El <strong>cónyuge o pareja de hecho</strong>.</li>
+<li>Los <strong>parientes hasta el cuarto grado</strong>, por consanguinidad, afinidad o adopción (hijos, nietos, hermanos, sobrinos, primos, y los de tu pareja).</li>
+<li>Una <strong>persona de su entorno</strong> que la persona dependiente proponga y que pueda prestarle los cuidados.</li>
+</ul>
+<p><strong>Convivencia</strong>: con grado <strong>II o III</strong>, el cuidador tiene que <strong>vivir con la persona dependiente</strong>. Con grado I se puede exceptuar si se garantiza la atención inmediata.</p>
+<p>Además, el cuidador debe ser <strong>idóneo</strong> para prestar los cuidados, <strong>comprometerse formalmente</strong> a hacerlo, hacer la <strong>formación</strong> que le propongan y permitir que los servicios sociales <strong>visiten la vivienda</strong> para comprobarlo.</p>
+<h2 id="la-cotizacion-del-cuidador-la-paga-el-estado">La cotización del cuidador la paga el Estado</h2>
+<p>El cuidador no profesional puede suscribir un <strong>convenio especial</strong> con la Seguridad Social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690" rel="noopener">Real Decreto 615/2007</a>):</p>
+<ul>
+<li><strong>Las cuotas las asume la Administración General del Estado</strong>: al cuidador no le cuesta nada.</li>
+<li><strong>Cuenta para su jubilación, incapacidad permanente y muerte y supervivencia</strong>.</li>
+<li><strong>Base de cotización</strong>: la base mínima del Régimen General, <strong>1.424,40 euros al mes en 2026</strong>, con dedicación completa (grados II y III). Con <strong>grado I</strong>, el <strong>50 %</strong> (712,20 euros). Si la dedicación no es completa, la base se reduce en proporción.</li>
+<li><strong>Si dejaste un trabajo</strong> para cuidar, puedes mantener la base de tu último año pagando tú la diferencia sobre la mínima.</li>
+<li><strong>No hace falta firmarlo</strong> si el cuidador trabaja y ya cotiza, cobra el paro, es pensionista de jubilación o incapacidad permanente, o es pensionista de viudedad o en favor de familiares con 65 años o más.</li>
+</ul>
+<p>Para suscribirlo hay que presentar la resolución que concede la prestación y la documentación del cuidador en la Tesorería General de la Seguridad Social.</p>
+<h2 id="que-se-puede-combinar">Qué se puede combinar</h2>
+<p>La prestación es <strong>incompatible</strong> con las demás prestaciones económicas y con los servicios de la ley, salvo la <strong>teleasistencia</strong> y los servicios de <strong>prevención y promoción de la autonomía</strong>. Las comunidades pueden permitir combinarla con la <strong>ayuda a domicilio</strong> o el <strong>centro de día</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">artículo 16 del Real Decreto 1051/2013</a>).</p>
+<h2 id="cuando-se-empieza-a-cobrar">Cuándo se empieza a cobrar</h2>
+<p>La Administración tiene <strong>seis meses</strong> desde la solicitud para resolver la prestación. El derecho nace con la resolución o al acabar ese plazo sin respuesta, pero en esta prestación la ley permite <strong>aplazar el pago hasta dos años</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" rel="noopener">disposición final primera de la Ley 39/2006</a>). Cada comunidad aplica sus propios plazos: pregúntalo al pedirla.</p>
+<h2 id="ejemplos">Ejemplos</h2>
+<p><strong>Pedro, 88 años, grado III, vive con su hijo Luis, que le cuida.</strong> Le reconocen la prestación: como máximo <strong>455,40 euros al mes</strong> (según su capacidad económica, no menos de 200). Luis, que dejó su trabajo, firma el convenio especial y el Estado <strong>cotiza por él sobre 1.424,40 euros al mes</strong>, que le cuentan para su propia jubilación.</p>
+<p><strong>Ana, 80 años, grado I, vive sola y la cuida su sobrina, que vive al lado.</strong> Con grado I se puede exceptuar la convivencia si la sobrina puede atenderla de inmediato. Máximo: <strong>180 euros al mes</strong>. Si la sobrina firma el convenio, cotiza sobre 712,20 euros.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-se-cobra-por-cuidar-a-un-familiar-dependiente">¿Cuánto se cobra por cuidar a un familiar dependiente?</h3>
+<p>La prestación la cobra la persona dependiente: como máximo 455,40 euros al mes con grado III, 315,90 con grado II y 180 con grado I en 2026, según su capacidad económica.</p>
+<h3 id="quien-puede-ser-cuidador-no-profesional">¿Quién puede ser cuidador no profesional?</h3>
+<p>El cónyuge o pareja, un pariente hasta el cuarto grado o una persona del entorno que proponga la persona dependiente. Con grado II o III tiene que vivir con ella.</p>
+<h3 id="el-cuidador-cotiza-a-la-seguridad-social">¿El cuidador cotiza a la Seguridad Social?</h3>
+<p>Puede hacerlo con un convenio especial cuyas cuotas paga el Estado, sobre la base mínima (1.424,40 euros al mes en 2026) o el 50 % con grado I. Cuenta para su jubilación.</p>
+<h3 id="tributa-la-prestacion-por-cuidados-familiares">¿Tributa la prestación por cuidados familiares?</h3>
+<p>No. Está exenta del IRPF.</p>
+<h3 id="se-puede-cobrar-con-la-ayuda-a-domicilio">¿Se puede cobrar con la ayuda a domicilio?</h3>
+<p>En general no, salvo que tu comunidad lo permita. Sí es compatible con la teleasistencia.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" rel="noopener">Ley 39/2006: artículos 14, 18 y 25 bis y disposición final primera</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811" rel="noopener">Real Decreto 1051/2013: artículos 12 y 16 y anexos IV y V</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690" rel="noopener">Real Decreto 615/2007, Seguridad Social de los cuidadores</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, base mínima de cotización de 2026</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Todavía no la has pedido? Sigue la <a href="/dependencia/ley-dependencia/">guía de la ley de dependencia</a>.</li>
+<li>¿Qué grado te corresponde? Mira los <a href="/dependencia/grados/">grados de dependencia y el baremo</a>.</li>
+<li>¿Y si hace falta residencia? Consulta el <a href="/dependencia/precio-residencias/">precio de las residencias</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la resolución de tu comunidad autónoma, que es quien reconoce la prestación. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Si te cuida un familiar, la dependencia te da hasta 455,40 € al mes (grado III), 315,90 € (II) o 180 € (I). Requisitos del cuidador y su cotización pagada.]]></excerpt:encoded>
+    <wp:post_id>9019</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[prestacion-cuidados-familiares]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dependencia"><![CDATA[Dependencia]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Prestación por cuidados familiares 2026: cuantía y cuidador]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Si te cuida un familiar, la dependencia te da hasta 455,40 € al mes (grado III), 315,90 € (II) o 180 € (I). Requisitos del cuidador y su cotización pagada.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[prestación cuidados entorno familiar]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Prestación por cuidados familiares 2026: cuantía y cuidador]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Si te cuida un familiar, la dependencia te da hasta 455,40 € al mes (grado III), 315,90 € (II) o 180 € (I). Requisitos del cuidador y su cotización pagada.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[prestación cuidados entorno familiar]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -3710,7 +3971,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3882,7 +4143,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4222,7 +4483,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4440,7 +4701,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4579,7 +4840,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4740,7 +5001,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4931,7 +5192,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5071,7 +5332,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5207,7 +5468,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5342,7 +5603,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5523,7 +5784,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5679,7 +5940,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5867,7 +6128,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6026,7 +6287,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6248,7 +6509,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6403,7 +6664,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6501,7 +6762,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6671,7 +6932,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9037</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6833,7 +7094,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9036</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6963,7 +7224,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9037</wp:post_id>
+    <wp:post_id>9039</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7612,7 +7873,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9038</wp:post_id>
+    <wp:post_id>9040</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7742,7 +8003,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9039</wp:post_id>
+    <wp:post_id>9041</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7920,7 +8181,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9040</wp:post_id>
+    <wp:post_id>9042</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8054,7 +8315,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9041</wp:post_id>
+    <wp:post_id>9043</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8178,7 +8439,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9042</wp:post_id>
+    <wp:post_id>9044</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8295,7 +8556,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9043</wp:post_id>
+    <wp:post_id>9045</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8427,7 +8688,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9044</wp:post_id>
+    <wp:post_id>9046</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8527,7 +8788,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9045</wp:post_id>
+    <wp:post_id>9047</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8728,7 +8989,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9046</wp:post_id>
+    <wp:post_id>9048</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8837,7 +9098,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años (con hijos comunes basta la inscripción). Sin límite de ingresos.]]></excerpt:encoded>
-    <wp:post_id>9047</wp:post_id>
+    <wp:post_id>9049</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9026,7 +9287,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9048</wp:post_id>
+    <wp:post_id>9050</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9131,7 +9392,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9049</wp:post_id>
+    <wp:post_id>9051</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9248,7 +9509,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9050</wp:post_id>
+    <wp:post_id>9052</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

@@ -31,6 +31,10 @@
     "id": 153,
     "estado": "future"
   },
+  "/cuanto-cobrare/lagunas-de-cotizacion/": {
+    "id": 425,
+    "estado": "future"
+  },
   "/cuanto-cobrare/pagas-extra/": {
     "id": 412,
     "estado": "future"
@@ -65,6 +69,10 @@
   },
   "/dependencia/precio-residencias/": {
     "id": 400,
+    "estado": "future"
+  },
+  "/dependencia/prestacion-cuidados-familiares/": {
+    "id": 182,
     "estado": "future"
   },
   "/dinero/declaracion-renta-jubilados/": {

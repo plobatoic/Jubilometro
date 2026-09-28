@@ -86,6 +86,14 @@ const todos = listarArticulos().map(leerArticulo);
 const articulos = todos.filter((a) => !NO_SE_SUBEN.includes(a.datos.url));
 const hoy = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Madrid' }).format(new Date());
 
+// Los mismos límites que comprueba `npm run comprobar`: nada se sube con un título o una
+// descripción que Google recortaría.
+const fueraDeLimite = articulos.filter(({ datos: d }) =>
+  d.titulo_seo.length > 62 || d.meta_descripcion.length < 110 || d.meta_descripcion.length > 158);
+if (fueraDeLimite.length) {
+  throw new Error(`Título o descripción fuera de límites: ${fueraDeLimite.map((a) => a.datos.url).join(', ')}`);
+}
+
 const medios = {};
 for (const archivo of ARCHIVOS) medios[basename(archivo)] = await subirArchivo(archivo);
 

@@ -23,7 +23,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 22 | Cómo se calcula la pensión de jubilación: el sistema dual | /cuanto-cobrare/como-se-calcula-la-pension/ | sistema-dual | F1 | programado 30/09 |
 | 23 | Base reguladora de jubilación | /cuanto-cobrare/base-reguladora/ | base-reguladora | F2 | programado 27/10 |
 | 24 | Porcentaje de pensión según años cotizados | /cuanto-cobrare/porcentaje-anos-cotizados/ | porcentaje-anos-cotizados | F1 | programado 05/10 |
-| 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | |
+| 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | programado 10/11 |
 | 26 | Pensión máxima de jubilación 2026 | /cuanto-cobrare/pension-maxima/ | pension-maxima-minima | F1 | programado 01/10 |
 | 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | programado 02/10 |
 | 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | programado 23/10 |
@@ -76,7 +76,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 65 | Dependencia en Cataluña | /dependencia/cataluna/ | | F2 | |
 | 66 | Dependencia en la Comunitat Valenciana | /dependencia/comunitat-valenciana/ | | F2 | |
 | 67 | Grados de dependencia y baremo | /dependencia/grados/ | grados | F1 | programado 15/10 |
-| 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | |
+| 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | programado 09/11 |
 | 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | |
 | 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | |
 | 71 | Residencia pública o privada | /dependencia/residencias-publicas/ | residencias-publicas | F2 | |
