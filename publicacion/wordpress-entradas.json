@@ -67,6 +67,18 @@
     "id": 154,
     "estado": "future"
   },
+  "/dependencia/andalucia/": {
+    "id": 445,
+    "estado": "future"
+  },
+  "/dependencia/cataluna/": {
+    "id": 446,
+    "estado": "future"
+  },
+  "/dependencia/comunitat-valenciana/": {
+    "id": 447,
+    "estado": "future"
+  },
   "/dependencia/cuidadora-interna-externa/": {
     "id": 440,
     "estado": "future"
@@ -81,6 +93,10 @@
   },
   "/dependencia/ley-dependencia/": {
     "id": 398,
+    "estado": "future"
+  },
+  "/dependencia/madrid/": {
+    "id": 448,
     "estado": "future"
   },
   "/dependencia/precio-residencias/": {

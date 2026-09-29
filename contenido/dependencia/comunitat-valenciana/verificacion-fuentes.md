@@ -1,0 +1,12 @@
+# Verificación de datos · Dependencia en la Comunitat Valenciana
+
+| # | Dato | Fuente | Comprobación | Estado |
+|---|---|---|---|---|
+| 1 | Solicitud ante los servicios sociales de atención primaria del ayuntamiento de empadronamiento; documentos (solicitud, informe de salud, empadronamiento histórico, domiciliación bancaria); valoración, informe social, dictamen técnico, resolución de grado y PIA; plazo de 3 meses para el grado y 3 para el PIA; transcurridos 6 meses sin resolución, estimación y abono retroactivo; Decreto 62/2017 modificado por el Decreto 102/2022 | Generalitat Valenciana, «Reconocimiento inicial de la dependencia» | Página oficial (29/09/2026) | Verificado |
+| 2 | Presentación preferente en el registro del ayuntamiento, también en registros de la Generalitat (art. 16.4 Ley 39/2015) o por internet con firma electrónica; informe de salud en modelo normalizado de la sanidad pública, salvo necesidad de tercera persona con 45 puntos o más; preferencia de prestación; compromiso de la persona cuidadora; informe social de entorno; aviso de la fecha de valoración; PIA automático si las preferencias son compatibles o propuesta con 15 días de alegaciones; grado III en todo caso con complemento de gran invalidez; recurso de alzada en un mes; teléfono 012 | Generalitat Valenciana, ficha del procedimiento 3256 (versión de 25/02/2023) | Documento oficial | Verificado |
+| 3 | Tiempos medios: 254 / 42 / 299 días (España: 228 / 52 / 302) | Imserso, estadística SAAD a 31/08/2026, tabla 9 | Documento oficial | Verificado |
+| 4 | Personas pendientes 6 meses o más: 15.463 | Misma estadística, tabla 10.3 | Documento oficial | Verificado |
+| 5 | Personas con PIA: 185.958; con prestación efectiva: 183.329 (98,59 %) | Misma estadística, tabla 12 | Documento oficial | Verificado |
+| 6 | Prestaciones: cuidados familiares 134.610 (48,25 %); teleasistencia 82.446 (29,55 %); vinculada 28.586 (10,25 %); residencia 12.994 (4,66 %); centros 10.134 (3,63 %); SAD 7.120 (2,55 %; España 16,24 %) | Misma estadística, tabla 4.1 | Documento oficial | Verificado |
+| 7 | Cuantía media de la prestación por cuidados familiares: 180,95 / 313,13 / 446,02 € (la más alta de España en el grado III; España 172,90 / 275,03 / 381,50 €) | Misma estadística, tabla 8.1.a | Documento oficial | Verificado |
+| 8 | Máximos estatales 180 / 315,90 / 455,40 €; las comunidades pueden definir niveles de protección adicionales con cargo a sus presupuestos | RD 1051/2013, anexo IV; Ley 39/2006, art. 11.2 | Texto del BOE | Verificado en BOE |
