@@ -390,5 +390,17 @@
   "/dependencia/convenio-cuidador/": {
     "id": 187,
     "estado": "publish"
+  },
+  "/incapacidad/incapacidad-y-trabajo/": {
+    "id": 170,
+    "estado": "publish"
+  },
+  "/incapacidad/revision-grado/": {
+    "id": 169,
+    "estado": "publish"
+  },
+  "/incapacidad/abogado/": {
+    "id": 582,
+    "estado": "publish"
   }
 }

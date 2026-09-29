@@ -12,3 +12,4 @@
 | 8 | Revisión en cualquier momento si trabaja; error de diagnóstico hasta la edad de jubilación; a los 67 años pasa a denominarse jubilación sin modificación de condiciones | LGSS, art. 200.2 y 200.4 | Texto del BOE | Verificado en BOE |
 | 9 | Contrato: Ley 2/2025 (10 días naturales; 3 meses para ajustes) | Ley 2/2025, art. 1.Tres | Texto del BOE | Verificado en BOE |
 | 10 | Ejemplos (Teresa: 201.600/112 = 1.800 €; 39 años → 100 %; 55 % = 990 €; Jorge: 48.000/28 = 1.714,29 €) | — | Cálculo propio | Cálculo propio |
+| 11 | Desde el 22-12-2024, suspensión del pago de la pensión absoluta o de gran incapacidad si el trabajo da lugar a alta en la Seguridad Social; reanudación al cesar; el complemento de gran incapacidad no se suspende | LGSS, art. 198.2 en la redacción de la Ley 7/2024 (BOE-A-2024-26694), disposición final decimotercera; vigencia del bloque 22-12-2024 | Texto consolidado del BOE y versiones del artículo | Verificado en BOE (29/09/2026) |

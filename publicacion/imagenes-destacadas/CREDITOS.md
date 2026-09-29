@@ -51,5 +51,6 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `tarjeta-mayores.webp` | /imserso/tarjeta-mayores/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6075748/trains-empty-train-station | Andén de una estación de tren con dos trenes regionales parados |
 | `universidad-mayores.webp` | /imserso/universidad-mayores/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5921219/photo-image-public-domain-student-woman | Profesor escribiendo en una pizarra verde ante un aula con estudiantes tomando apuntes |
 | `reclamar-dependencia.webp` | /dependencia/reclamar-dependencia/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5919319/image-paper-public-domain-hand | Manos de una persona mayor con anillos escribiendo en una libreta sobre una carpeta azul |
+| `incapacidad-abogado.webp` | /incapacidad/abogado/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/3305593/free-photo-image-law-library-book | Vitrina de madera con libros antiguos encuadernados en piel |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

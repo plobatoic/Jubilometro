@@ -83,7 +83,7 @@ En la práctica, como el complemento (más de 640 euros al mes) suele superar la
 
 ## Trabajar, revisar y tributar
 
-- **Trabajar**: puedes hacer actividades compatibles con tu estado que no demuestren una mejoría a efectos de revisión ([artículo 198](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198)). Desde la edad de jubilación, trabajar es incompatible con la pensión, como en la jubilación.
+- **Trabajar**: puedes hacer actividades compatibles con tu estado que no demuestren una mejoría a efectos de revisión, pero si el trabajo requiere **alta en la Seguridad Social**, el INSS **suspende la pensión** mientras trabajes. El **complemento** para pagar a la persona que te atiende **no se suspende** ([artículo 198.2](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198), en la redacción de la Ley 7/2024). Desde la edad de jubilación, trabajar es incompatible con la pensión, como en la jubilación. Más detalles en [incapacidad permanente y trabajo](/incapacidad/incapacidad-y-trabajo/).
 - **Revisión**: si tienes una absoluta y empeoras hasta necesitar ayuda de otra persona, puedes pedir la **revisión por agravación** desde la fecha que indique tu resolución ([artículo 200](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a200)). El trámite es el de [solicitar la incapacidad permanente](/incapacidad/solicitar/).
 - **IRPF**: la pensión y el complemento de gran incapacidad de la Seguridad Social están **exentos** ([artículo 7.f de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7)).
 
@@ -128,4 +128,4 @@ Sí. El tope de 3.359,60 euros al mes se aplica solo a la pensión, no al comple
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 29 de septiembre de 2026, primera versión; ese mismo día, suspensión de la pensión si se trabaja con alta (artículo 198.2).*

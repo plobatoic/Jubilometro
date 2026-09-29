@@ -57,11 +57,11 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 51 | Incapacidad total cualificada | /incapacidad/total-cualificada/ | | F3 | publicado 29/09 |
 | 52 | Incapacidad temporal: qué pasa a los 545 días | /incapacidad/incapacidad-temporal/ | incapacidad-temporal | F2 | publicado 29/09 |
 | 53 | Incapacidad permanente y jubilación | /incapacidad/incapacidad-y-jubilacion/ | incapacidad-y-jubilacion | F3 | publicado 29/09 |
-| 54 | Abogado de incapacidad permanente | /incapacidad/abogado/ | | F3 | |
+| 54 | Abogado de incapacidad permanente | /incapacidad/abogado/ | | F3 | publicado 29/09 |
 | extra | Gran incapacidad | /incapacidad/gran-incapacidad/ | gran-incapacidad | | publicado 29/09 |
 | extra | Incapacidad permanente parcial | /incapacidad/incapacidad-parcial/ | incapacidad-parcial | | publicado 29/09 |
-| extra | Revisión del grado | /incapacidad/revision-grado/ | revision-grado | | |
-| extra | Incapacidad permanente y trabajo | /incapacidad/incapacidad-y-trabajo/ | incapacidad-y-trabajo | | |
+| extra | Revisión del grado | /incapacidad/revision-grado/ | revision-grado | | publicado 29/09 |
+| extra | Incapacidad permanente y trabajo | /incapacidad/incapacidad-y-trabajo/ | incapacidad-y-trabajo | | publicado 29/09 |
 | 55 | Pensión no contributiva de jubilación | /ayudas/pension-no-contributiva/ | pension-no-contributiva | F1 | publicado 29/09 |
 | 56 | Pensión no contributiva de invalidez | /ayudas/pnc-invalidez/ | | F2 | publicado 29/09 |
 | 57 | Ingreso Mínimo Vital para mayores de 65 | /ayudas/ingreso-minimo-vital-mayores/ | ingreso-minimo-vital-mayores | F3 | publicado 29/09 |

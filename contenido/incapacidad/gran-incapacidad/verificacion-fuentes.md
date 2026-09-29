@@ -18,3 +18,4 @@
 | 14 | Revisión por agravación o mejoría desde el plazo de la resolución, hasta la edad de jubilación | LGSS, art. 200.2 | Texto del BOE | Verificado en BOE |
 | 15 | Exención de IRPF de la absoluta y la gran incapacidad | Ley del IRPF, art. 7.f (mismo dato que en «Incapacidad permanente absoluta») | Texto del BOE | Verificado en BOE |
 | 16 | Ejemplos: 640,98 + 600 = 1.240,98 (> 720) → 2.840,98; 640,98 + 960 = 1.600,98 → 4.600,98; 640,98 + 427,32 = 1.068,30 → 1.968,30 (> 1.404,30) | — | Cálculo propio | Cálculo propio |
+| 17 | Desde el 22-12-2024, suspensión del pago de la pensión absoluta o de gran incapacidad si el trabajo da lugar a alta en la Seguridad Social; reanudación al cesar; el complemento de gran incapacidad no se suspende | LGSS, art. 198.2 en la redacción de la Ley 7/2024 (BOE-A-2024-26694), disposición final decimotercera; vigencia del bloque 22-12-2024 | Texto consolidado del BOE y versiones del artículo | Verificado en BOE (29/09/2026) |

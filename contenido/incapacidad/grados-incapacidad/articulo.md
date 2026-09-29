@@ -8,7 +8,7 @@ miga: Grados de incapacidad
 palabra_clave_principal: grados de incapacidad permanente
 intencion: informativa
 fase_plan: F1 (artículo n.º 45)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-09-29
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Grados de incapacidad permanente: parcial, total, absoluta y gran incapacidad, qué significa cada uno y cuánto se cobra
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -40,8 +40,8 @@ Mientras no se apruebe el reglamento con la lista de enfermedades que prevé la 
 |---|---|---|---|
 | Parcial para la profesión habitual | Rindes al menos un 33 % menos, pero puedes hacer las tareas fundamentales de tu trabajo | Indemnización única de 24 mensualidades de la base reguladora | Sí, en tu mismo trabajo |
 | Total para la profesión habitual | No puedes hacer tu trabajo habitual (todas o sus tareas fundamentales), pero sí otro distinto | Pensión del 55 % de la base reguladora; 75 % desde los 55 años si no trabajas (total cualificada) | Sí, en otro puesto o profesión |
-| Absoluta para todo trabajo | No puedes hacer ninguna profesión u oficio | Pensión del 100 % de la base reguladora, exenta de IRPF | Solo actividades compatibles con tu estado |
-| Gran incapacidad | Además de la absoluta, necesitas a otra persona para los actos esenciales (vestirte, desplazarte, comer…) | Pensión del 100 % más un complemento para la persona que te atiende, exenta de IRPF | Solo actividades compatibles con tu estado |
+| Absoluta para todo trabajo | No puedes hacer ninguna profesión u oficio | Pensión del 100 % de la base reguladora, exenta de IRPF | Actividades compatibles con tu estado; si trabajas con alta, se suspende el pago |
+| Gran incapacidad | Además de la absoluta, necesitas a otra persona para los actos esenciales (vestirte, desplazarte, comer…) | Pensión del 100 % más un complemento para la persona que te atiende, exenta de IRPF | Actividades compatibles con tu estado; si trabajas con alta, se suspende el pago |
 
 **Profesión habitual** es la que tenías al sufrir el accidente o, si es por enfermedad, a la que dedicabas tu actividad fundamental en el periodo anterior que marca el reglamento. Por eso una misma lesión puede dar una total a un albañil y ninguna incapacidad a un administrativo.
 
@@ -99,7 +99,7 @@ Si tu pensión queda por debajo y cumples los requisitos de ingresos, se complet
 ## Trabajar con una incapacidad permanente
 
 - **Total**: puedes trabajar en otra empresa o en la misma, siempre que las funciones **no sean las que dieron lugar a la incapacidad** ([artículo 198](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198)). El 20 % extra de la total cualificada se suspende mientras trabajes.
-- **Absoluta y gran incapacidad**: solo actividades compatibles con tu estado que no demuestren que tu capacidad ha mejorado. Desde la edad de jubilación, trabajar es incompatible con la pensión, igual que en la jubilación.
+- **Absoluta y gran incapacidad**: actividades compatibles con tu estado que no demuestren que tu capacidad ha mejorado. Si el trabajo exige **alta en la Seguridad Social**, se **suspende el pago** de la pensión mientras dure (salvo el complemento de la gran incapacidad) y se reanuda al dejarlo, desde el 22 de diciembre de 2024. Desde la edad de jubilación, trabajar es incompatible con la pensión, igual que en la jubilación. Lo detallamos en [incapacidad permanente y trabajo](/incapacidad/incapacidad-y-trabajo/).
 - **Tu contrato**: desde el 1 de mayo de 2025, la incapacidad total, absoluta o gran incapacidad **ya no extingue automáticamente el contrato**. Tienes **10 días naturales** para comunicar por escrito a la empresa que quieres seguir, y la empresa tiene **tres meses** para adaptar tu puesto o cambiarte a otro compatible; solo puede despedirte si eso le supone una carga excesiva o no hay puesto ([Ley 2/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567)).
 
 ## Revisión del grado
@@ -151,4 +151,4 @@ No hay una lista oficial de enfermedades: el INSS valora cómo tus limitaciones 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad permanente y su grado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión absoluta o de gran incapacidad si se trabaja con alta (artículo 198.2).*

@@ -8,7 +8,7 @@ miga: Incapacidad absoluta
 palabra_clave_principal: incapacidad permanente absoluta
 intencion: informativa
 fase_plan: F2 (artículo n.º 47)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-09-29
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Incapacidad permanente absoluta en 2026: requisitos, cuánto se cobra, IRPF y si se puede trabajar
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > La incapacidad permanente absoluta se reconoce cuando tu estado te **impide trabajar en cualquier profesión u oficio**. Da derecho a una pensión vitalicia del **100 % de tu base reguladora**, en 14 pagas, **exenta de IRPF**.
 >
-> Si viene de enfermedad común, necesitas un mínimo de años cotizados que depende de tu edad (y **15 años** si no estás de alta). Solo puedes hacer actividades compatibles con tu estado, y a partir de la edad de jubilación no puedes trabajar.
+> Si viene de enfermedad común, necesitas un mínimo de años cotizados que depende de tu edad (y **15 años** si no estás de alta). Puedes hacer actividades compatibles con tu estado, pero si trabajas con **alta en la Seguridad Social** se **suspende el pago** de la pensión mientras dure el trabajo; y a partir de la edad de jubilación no puedes trabajar.
 
 ## Qué es la incapacidad permanente absoluta
 
@@ -82,6 +82,7 @@ Si tu pensión queda por debajo y cumples los requisitos de ingresos, se complet
 ## ¿Se puede trabajar con la incapacidad absoluta?
 
 - La pensión **no impide actividades, lucrativas o no, compatibles con tu estado** y que no demuestren una mejora de tu capacidad de trabajo ([artículo 198.2](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198)).
+- Pero desde el **22 de diciembre de 2024**, si el trabajo exige **darte de alta en la Seguridad Social** (por cuenta ajena o como autónomo), el INSS **suspende el pago de la pensión** mientras trabajes y lo **reanuda cuando lo dejas** ([Ley 7/2024, disposición final decimotercera](https://www.boe.es/buscar/act.php?id=BOE-A-2024-26694#df-13)). No la pierdes, pero no cobras las dos cosas a la vez. Lo explicamos con detalle en [incapacidad permanente y trabajo](/incapacidad/incapacidad-y-trabajo/).
 - Si trabajas, el INSS puede **revisar tu grado en cualquier momento**, sin esperar al plazo de la resolución ([artículo 200.2](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a200)). Antes de aceptar un trabajo, comunícaselo.
 - **Desde la edad de jubilación**, cobrar la absoluta es **incompatible con trabajar** por cuenta propia o ajena, en las mismas condiciones que la jubilación ([artículo 198.3](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198)).
 - **Tu contrato**: desde mayo de 2025 no se extingue automáticamente. Tienes 10 días naturales para comunicar a la empresa si quieres seguir y la empresa tiene tres meses para adaptar tu puesto o cambiarte, si es posible ([Ley 2/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567)).
@@ -106,7 +107,7 @@ Con la total no puedes hacer tu trabajo habitual pero sí otro, y cobras el 55 %
 
 ### ¿Puedo trabajar si tengo la incapacidad absoluta?
 
-Solo en actividades compatibles con tu estado que no demuestren una mejoría de tu capacidad; si trabajas, el INSS puede revisar tu grado en cualquier momento. Desde la edad de jubilación, trabajar es incompatible con la pensión.
+Puedes hacer actividades compatibles con tu estado, pero si el trabajo requiere alta en la Seguridad Social, el INSS suspende el pago de la pensión mientras trabajes y lo reanuda cuando lo dejes. Además, puede revisar tu grado en cualquier momento. Desde la edad de jubilación, trabajar es incompatible con la pensión.
 
 ### ¿Se puede conseguir la absoluta sin estar trabajando?
 
@@ -129,4 +130,4 @@ Sí: si no estás de alta ni en situación asimilada, hacen falta 15 años cotiz
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y su grado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión si se trabaja con alta (artículo 198.2 en la redacción de la Ley 7/2024).*
