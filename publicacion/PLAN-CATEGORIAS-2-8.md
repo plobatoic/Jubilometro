@@ -67,7 +67,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 57 | Ingreso Mínimo Vital para mayores de 65 | /ayudas/ingreso-minimo-vital-mayores/ | ingreso-minimo-vital-mayores | F3 | publicado 29/09 |
 | 58 | Bono social eléctrico para pensionistas | /ayudas/bono-social-electrico/ | bono-social-electrico | F2 | publicado 29/09 |
 | 59 | Ayudas para mayores por comunidad autónoma | /ayudas/ayudas-autonomicas/ | ayudas-autonomicas | F3 | |
-| 60 | Descuentos para pensionistas | /ayudas/descuentos-transporte/ | descuentos-transporte | F3 | |
+| 60 | Descuentos para pensionistas | /ayudas/descuentos-transporte/ | descuentos-transporte | F3 | publicado 29/09 |
 | 61 | Complemento de alquiler | /ayudas/complemento-alquiler/ | complemento-alquiler | F3 | publicado 29/09 |
 | 76 | Adaptar la casa de una persona mayor | /ayudas/ayudas-vivienda/ | ayudas-vivienda | F3 | |
 | extra | Trámites online para mayores | /ayudas/tramites-online/ | tramites-online | | |

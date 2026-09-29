@@ -422,5 +422,9 @@
   "/dinero/herencias-donaciones/": {
     "id": 194,
     "estado": "publish"
+  },
+  "/ayudas/descuentos-transporte/": {
+    "id": 177,
+    "estado": "publish"
   }
 }
