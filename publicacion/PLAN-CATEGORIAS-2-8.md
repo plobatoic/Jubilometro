@@ -90,12 +90,12 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Servicio de ayuda a domicilio | /dependencia/ayuda-a-domicilio/ | ayuda-a-domicilio | | publicado 29/09 |
 | extra | Convenio especial del cuidador | /dependencia/convenio-cuidador/ | convenio-cuidador | | publicado 29/09 |
 | 78 | Declaración de la renta de los jubilados | /dinero/declaracion-renta-jubilados/ | declaracion-renta-jubilados | F1 | publicado 29/09 |
-| 79 | Retención de IRPF en la pensión (modelo 145) | /dinero/irpf-pensiones/ | irpf-pensiones | F3 | |
+| 79 | Retención de IRPF en la pensión (modelo 145) | /dinero/irpf-pensiones/ | irpf-pensiones | F3 | publicado 29/09 |
 | 80 | Rescatar el plan de pensiones al jubilarte | /dinero/rescate-plan-pensiones/ | rescate-plan-pensiones | F1 | publicado 29/09 |
 | 81 | Rescate de aportaciones de más de 10 años | /dinero/rescate-aportaciones-10-anos/ | | F2 | publicado 29/09 |
 | 82 | Hipoteca inversa, nuda propiedad o renta vitalicia | /dinero/hipoteca-inversa/ | hipoteca-inversa | F2 | publicado 29/09 |
 | 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | publicado 29/09 |
-| 84 | Renta vitalicia asegurada: exención para mayores de 65 | /dinero/renta-vitalicia/ | renta-vitalicia | F3 | |
+| 84 | Renta vitalicia asegurada: exención para mayores de 65 | /dinero/renta-vitalicia/ | renta-vitalicia | F3 | publicado 29/09 |
 | 85 | Seguro de decesos a partir de los 60 | /dinero/seguro-decesos/ | | F2 | publicado 29/09 |
 | 86 | Seguros de salud para mayores de 65 | /dinero/seguro-salud-mayores/ | | F2 | publicado 29/09 |
 | 87 | Cuánto dinero necesitas ahorrado para jubilarte | /dinero/ahorro-jubilacion/ | ahorro-jubilacion | F2 | publicado 29/09 |

@@ -402,5 +402,13 @@
   "/incapacidad/abogado/": {
     "id": 582,
     "estado": "publish"
+  },
+  "/dinero/irpf-pensiones/": {
+    "id": 188,
+    "estado": "publish"
+  },
+  "/dinero/renta-vitalicia/": {
+    "id": 191,
+    "estado": "publish"
   }
 }
