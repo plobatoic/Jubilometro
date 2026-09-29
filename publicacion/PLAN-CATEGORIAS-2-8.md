@@ -34,17 +34,17 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | programado 06/10 (actualizar con cada IPC) |
 | 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | programado 22/10 |
 | 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | programado 07/10 |
-| 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | |
+| 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | programado 15/12 |
 | 37a | Pensión de viudedad: requisitos | /viudedad/requisitos/ | requisitos | F1 | programado 09/10 |
 | 37b | Pensión de viudedad: cuantía (52, 60 y 70 %) | /viudedad/cuantia/ | cuantia | F1 | programado 20/10 |
 | 37c | Cómo solicitar la pensión de viudedad | /viudedad/solicitar-viudedad/ | solicitar-viudedad | F2 | programado 04/11 |
 | 38 | Viudedad en parejas de hecho | /viudedad/pareja-de-hecho/ | pareja-de-hecho | F2 | programado 05/11 |
 | 39 | Viudedad y jubilación a la vez | /viudedad/viudedad-y-jubilacion/ | | F2 | programado 29/10 |
-| 40 | Viudedad si vuelves a casarte | /viudedad/nuevo-matrimonio/ | | F3 | |
+| 40 | Viudedad si vuelves a casarte | /viudedad/nuevo-matrimonio/ | | F3 | programado 11/12 |
 | 41 | Viudedad tras divorcio o separación | /viudedad/divorcio-separacion/ | divorcio-separacion | F3 | programado 10/12 |
 | 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | programado 09/12 |
 | 43 | Qué hacer cuando fallece un pensionista | /viudedad/fallecimiento-pensionista/ | | F2 | programado 13/11 |
-| 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | |
+| 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | programado 14/12 |
 | extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | |
 | extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | |
 | 45 | Grados de incapacidad permanente | /incapacidad/grados-incapacidad/ | | F1 | programado 12/10 (la URL /incapacidad/grados/ no es posible: el slug «grados» es de la plantilla de dependencia) |
@@ -63,7 +63,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Incapacidad permanente y trabajo | /incapacidad/incapacidad-y-trabajo/ | incapacidad-y-trabajo | | |
 | 55 | Pensión no contributiva de jubilación | /ayudas/pension-no-contributiva/ | pension-no-contributiva | F1 | programado 08/10 |
 | 56 | Pensión no contributiva de invalidez | /ayudas/pnc-invalidez/ | | F2 | programado 06/11 |
-| 57 | Ingreso Mínimo Vital para mayores de 65 | /ayudas/ingreso-minimo-vital-mayores/ | ingreso-minimo-vital-mayores | F3 | |
+| 57 | Ingreso Mínimo Vital para mayores de 65 | /ayudas/ingreso-minimo-vital-mayores/ | ingreso-minimo-vital-mayores | F3 | programado 16/12 |
 | 58 | Bono social eléctrico para pensionistas | /ayudas/bono-social-electrico/ | bono-social-electrico | F2 | programado 02/11 |
 | 59 | Ayudas para mayores por comunidad autónoma | /ayudas/ayudas-autonomicas/ | ayudas-autonomicas | F3 | |
 | 60 | Descuentos para pensionistas | /ayudas/descuentos-transporte/ | descuentos-transporte | F3 | |

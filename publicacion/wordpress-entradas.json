@@ -3,6 +3,10 @@
     "id": 174,
     "estado": "future"
   },
+  "/ayudas/ingreso-minimo-vital-mayores/": {
+    "id": 173,
+    "estado": "future"
+  },
   "/ayudas/pension-no-contributiva/": {
     "id": 172,
     "estado": "future"
@@ -37,6 +41,10 @@
   },
   "/cuanto-cobrare/lagunas-de-cotizacion/": {
     "id": 425,
+    "estado": "future"
+  },
+  "/cuanto-cobrare/mei-cuota-solidaridad/": {
+    "id": 495,
     "estado": "future"
   },
   "/cuanto-cobrare/pagas-extra/": {
@@ -273,6 +281,14 @@
   },
   "/viudedad/fallecimiento-pensionista/": {
     "id": 429,
+    "estado": "future"
+  },
+  "/viudedad/favor-de-familiares/": {
+    "id": 496,
+    "estado": "future"
+  },
+  "/viudedad/nuevo-matrimonio/": {
+    "id": 493,
     "estado": "future"
   },
   "/viudedad/pareja-de-hecho/": {
