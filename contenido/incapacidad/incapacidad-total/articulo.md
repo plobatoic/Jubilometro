@@ -8,7 +8,7 @@ miga: Incapacidad total
 palabra_clave_principal: incapacidad permanente total
 intencion: informativa
 fase_plan: F1 (artículo n.º 46)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-09-29
 publicacion: 2026-10-13
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicación programada
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Incapacidad permanente total en 2026: cuánto se cobra, requisitos, cómo trabajar con ella y la total cualificada
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -51,7 +51,7 @@ La pensión es el **55 % de la base reguladora**, en 14 pagas. La base regulador
 
 **Tiene dos suelos en 2026:**
 
-- Si viene de enfermedad común, la pensión no puede ser inferior al **55 % de la base mínima de cotización**, en términos anuales ([artículo 196.2](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a196)): 9.401,04 euros al año, **671,50 euros al mes** en 14 pagas.
+- Si viene de enfermedad común, la pensión no puede ser inferior a la **mínima de la total por enfermedad común de menores de 60 años con cónyuge no a cargo** ([artículo 196.2](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a196)): 9.580,20 euros al año, **684,30 euros al mes** en 14 pagas.
 - Si cumples los requisitos de ingresos del complemento a mínimos, se completa hasta la **pensión mínima** ([Real Decreto 241/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977)):
 
 <!-- tabla: Pensión mínima de incapacidad permanente total en 2026 (al mes, 14 pagas) -->
@@ -153,4 +153,4 @@ A los 67 años la pensión pasa a llamarse de jubilación, con la misma cuantía
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y calcula la pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 28 de septiembre de 2026, primera versión. 29 de septiembre de 2026: corregido el suelo de la total por enfermedad común, que desde 2019 es la pensión mínima de menores de 60 años con cónyuge no a cargo (684,30 euros al mes).*

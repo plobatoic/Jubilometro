@@ -7,7 +7,7 @@
 | 3 | 55 % de la base reguladora | Orden de 15/04/1969 (art. 16) | Texto consolidado del BOE | Verificado en BOE |
 | 4 | Base reguladora por enfermedad común: 96 meses / 112, porcentaje de la escala del art. 210.1 contando los años hasta la edad ordinaria; 50 % si < 15 años | Art. 197.1 LGSS | Texto del BOE | Verificado en BOE |
 | 5 | Base por accidente no laboral: 24 meses ininterrumpidos elegidos en los 7 años anteriores / 28 | Decreto 1646/1972, art. 7.1 | Texto del BOE | Verificado en BOE |
-| 6 | Suelo de la total por enfermedad común: 55 % de la base mínima para mayores de 18 en términos anuales: 1.424,40 × 12 × 0,55 = 9.401,04 €/año; ÷ 14 = 671,50 € | Art. 196.2 LGSS; Orden PJC/297/2026 (base mínima 1.424,40 €) | Texto del BOE y cálculo propio | Verificado |
+| 6 | Suelo de la total por enfermedad común: la mínima de la IPT por enfermedad común de menores de 60 años con cónyuge no a cargo: 9.580,20 €/año; ÷ 14 = 684,30 € (redacción vigente desde el 1/1/2019; la anterior, del 55 % de la base mínima, está derogada) | Art. 196.2 LGSS, redacción del RDL 28/2018 (versión consolidada vigente, API de datos abiertos del BOE); RD 241/2026, anexo I | Texto del BOE | Corregido y verificado en BOE (29/09/2026) |
 | 7 | Mínimas de total 2026: ≥ 65, 60-64 y común < 60 (anexo I, ÷ 14) | RD 241/2026, anexo I | Texto del BOE | Verificado en BOE |
 | 8 | Total cualificada: +20 % de la base reguladora desde 55 años; presunción de dificultad de empleo; en suspenso mientras trabaje | Decreto 1646/1972, art. 6; art. 196.2 y 198.1 LGSS | Texto del BOE | Verificado en BOE |
 | 9 | Compatibilidad con salario en la misma u otra empresa si las funciones no coinciden | Art. 198.1 LGSS | Texto del BOE | Verificado en BOE |

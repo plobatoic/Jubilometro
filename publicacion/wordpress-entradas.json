@@ -171,6 +171,10 @@
     "id": 395,
     "estado": "future"
   },
+  "/incapacidad/gran-incapacidad/": {
+    "id": 166,
+    "estado": "future"
+  },
   "/incapacidad/incapacidad-absoluta/": {
     "id": 165,
     "estado": "future"
@@ -185,6 +189,10 @@
   },
   "/incapacidad/solicitar/": {
     "id": 432,
+    "estado": "future"
+  },
+  "/incapacidad/total-cualificada/": {
+    "id": 499,
     "estado": "future"
   },
   "/jubilacion/15-anos-cotizados/": {

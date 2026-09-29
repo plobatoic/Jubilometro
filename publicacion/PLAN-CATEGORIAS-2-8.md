@@ -53,11 +53,11 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 48 | Enfermedades y tribunal médico | /incapacidad/enfermedades/ | | F2 | programado 16/11 |
 | 49 | Cómo solicitar la incapacidad permanente | /incapacidad/solicitar/ | | F2 | programado 17/11 |
 | 50 | Incapacidad denegada: reclamación y demanda | /incapacidad/denegada/ | | F2 | programado 18/11 |
-| 51 | Incapacidad total cualificada | /incapacidad/total-cualificada/ | | F3 | |
+| 51 | Incapacidad total cualificada | /incapacidad/total-cualificada/ | | F3 | programado 18/12 |
 | 52 | Incapacidad temporal: qué pasa a los 545 días | /incapacidad/incapacidad-temporal/ | incapacidad-temporal | F2 | programado 03/11 |
 | 53 | Incapacidad permanente y jubilación | /incapacidad/incapacidad-y-jubilacion/ | incapacidad-y-jubilacion | F3 | |
 | 54 | Abogado de incapacidad permanente | /incapacidad/abogado/ | | F3 | |
-| extra | Gran incapacidad | /incapacidad/gran-incapacidad/ | gran-incapacidad | | |
+| extra | Gran incapacidad | /incapacidad/gran-incapacidad/ | gran-incapacidad | | programado 17/12 |
 | extra | Incapacidad permanente parcial | /incapacidad/incapacidad-parcial/ | incapacidad-parcial | | |
 | extra | Revisión del grado | /incapacidad/revision-grado/ | revision-grado | | |
 | extra | Incapacidad permanente y trabajo | /incapacidad/incapacidad-y-trabajo/ | incapacidad-y-trabajo | | |
