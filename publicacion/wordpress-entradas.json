@@ -67,6 +67,10 @@
     "id": 154,
     "estado": "future"
   },
+  "/dependencia/grado-discapacidad/": {
+    "id": 437,
+    "estado": "future"
+  },
   "/dependencia/grados/": {
     "id": 180,
     "estado": "future"
@@ -87,12 +91,20 @@
     "id": 185,
     "estado": "future"
   },
+  "/dinero/ahorro-jubilacion/": {
+    "id": 195,
+    "estado": "future"
+  },
   "/dinero/declaracion-renta-jubilados/": {
     "id": 189,
     "estado": "future"
   },
   "/dinero/hipoteca-inversa/": {
     "id": 192,
+    "estado": "future"
+  },
+  "/dinero/rescate-aportaciones-10-anos/": {
+    "id": 439,
     "estado": "future"
   },
   "/dinero/rescate-plan-pensiones/": {
@@ -105,7 +117,7 @@
   },
   "/imserso/viajes-imserso/": {
     "id": 196,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/denegada/": {
     "id": 430,
