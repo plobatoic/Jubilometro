@@ -1,0 +1,16 @@
+# Verificación de datos · Viajes y balnearios para mayores de las comunidades
+
+| # | Dato | Fuente | Comprobación | Estado |
+|---|---|---|---|---|
+| 1 | Castilla-La Mancha: 65 años o 60 si pensionista; empadronamiento; valerse por sí mismo; sin contraindicaciones; Orden 40/2024 | Consejería de Bienestar Social, «Termalismo 2026», preguntas 1 a 4 | Texto de la página (29/09/2026) | Verificado |
+| 2 | Castilla-La Mancha: 5 días y 5 noches, pensión completa, reconocimiento, 5 días de hidroterapia, seguimiento, actividades; transporte por cuenta propia | Misma página, preguntas 2 y 3 | Texto de la página | Verificado |
+| 3 | Castilla-La Mancha: pareja sin requisito de edad; hijo con discapacidad ≥ 33 % autónomo; solicitudes de grupo a la vez; una estancia por convocatoria; orden de presentación | Misma página, preguntas 5 a 11 | Texto de la página | Verificado |
+| 4 | Castilla-La Mancha: plazo hasta el 15-12-2026 o hasta agotar plazas; disfrute hasta el 31-12-2026; fechas con el balneario; todos los balnearios por preferencia | Misma página, preguntas 8, 9, 12 y 13 | Texto de la página | Verificado |
+| 5 | Castilla-La Mancha: 8.536 plazas en 7 balnearios; ayuda de 134 €; precios de 208,64 a 244,18 €; reserva de 40 € | Misma página, preguntas 14 a 17 | Texto de la página | Verificado |
+| 6 | Madrid: 350.000 plazas, cerca de 1.400 rutas (399 nacionales, 867 internacionales, 79 cruceros, 49 mercadillos); hotel 3* o más, pensión completa, excursiones, guía | Comunidad de Madrid, «Rutas culturales 2026» (actualizada 28/5/2026) | Texto de la página | Verificado |
+| 7 | Madrid: reservas desde el 3-3-2026 solo presenciales en 741 agencias; 55 años al hacer la ruta, residencia, autonomía; un acompañante mayor de edad residente | Misma página | Texto de la página | Verificado |
+| 8 | Castilla y León: 60 años y residencia; plazo 7 (online y teléfono) / 9 (presencial) al 21-1-2026; sorteo por provincia el 3-2-2026; listas de reserva por temporadas; resolución de 11-6-2025 publicada en el BOCyL el 16-6-2025 | Servicios Sociales de Castilla y León, «Programa de Viajes Club de los 60, campaña 2026» | Texto de la página | Verificado |
+| 9 | Comunitat Valenciana: 7.088 plazas; 10 o 6 días; pensión completa, tratamientos, actividades; hasta el 31-12-2026 | Sede electrónica de la Generalitat, trámite 1177 | Texto de la página | Verificado |
+| 10 | Comunitat Valenciana: 65 años, o 60 con pensión pública o discapacidad ≥ 33 %; empadronamiento; valerse por sí mismo; pareja ≥ 50 años; hasta 3 balnearios; dos estancias en temporadas distintas; sin cartas precumplimentadas; plazo 3-1 a 2-7-2026 | Sede electrónica de la Generalitat, trámite 1177 | Texto de la página | Verificado |
+| 11 | Galicia: 10 días de pensión completa en 15 balnearios, de julio a diciembre de 2026; 60 años o pensionistas de 55; acompañante e hijo con discapacidad ≥ 33 %; plazo 27-5 a 26-6-2026; aportación de la Xunta por plaza | Xunta de Galicia, 012, «Bienestar en balnearios» | Texto de la página | Verificado |
+| 12 | Comparación con el Imserso (requisitos, baremo, termalismo desde 302,14 €, lista de espera hasta el 31-10-2026) | BOE-A-2026-12865, art. 4; BOE-A-2025-22236, anexo III y art. 5 | Texto del BOE | Verificado en BOE |

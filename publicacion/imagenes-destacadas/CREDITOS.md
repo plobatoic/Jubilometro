@@ -49,5 +49,6 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `mei-cuota-solidaridad.webp` | /cuanto-cobrare/mei-cuota-solidaridad/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6034870/photo-image-background-public-domain-golden | Cartuchos de monedas de 1 y 2 euros |
 | `total-cualificada.webp` | /incapacidad/total-cualificada/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5927996/photo-image-public-domain-tree-wood | Trabajador de la construcción cortando madera con una sierra circular |
 | `tarjeta-mayores.webp` | /imserso/tarjeta-mayores/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6075748/trains-empty-train-station | Andén de una estación de tren con dos trenes regionales parados |
+| `universidad-mayores.webp` | /imserso/universidad-mayores/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5921219/photo-image-public-domain-student-woman | Profesor escribiendo en una pizarra verde ante un aula con estudiantes tomando apuntes |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

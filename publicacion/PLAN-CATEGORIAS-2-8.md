@@ -105,11 +105,11 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 90 | Viajes del Imserso 2026-2027 | /imserso/viajes-imserso/ | viajes-imserso | F1 | publicado 29/09 |
 | 91 | Termalismo del Imserso | /imserso/termalismo/ | termalismo | F3 | publicado 29/09 |
 | 92 | Tarjeta dorada y carné de mayores | /imserso/tarjeta-mayores/ | | F3 | publicado 29/09 |
-| 93 | Universidades y cursos para mayores | /imserso/universidad-mayores/ | | F3 | |
-| extra | Requisitos de los viajes del Imserso | /imserso/requisitos-viajes/ | requisitos-viajes | | |
-| extra | Cómo solicitar los viajes del Imserso | /imserso/solicitar-viajes/ | solicitar-viajes | | |
-| extra | Plazas libres del Imserso | /imserso/plazas-libres/ | plazas-libres | | |
-| extra | Programas de viajes de las comunidades | /imserso/turismo-autonomico/ | turismo-autonomico | | |
+| 93 | Universidades y cursos para mayores | /imserso/universidad-mayores/ | | F3 | publicado 29/09 |
+| extra | Requisitos de los viajes del Imserso | /imserso/requisitos-viajes/ | requisitos-viajes | | publicado 29/09 |
+| extra | Cómo solicitar los viajes del Imserso | /imserso/solicitar-viajes/ | solicitar-viajes | | publicado 29/09 |
+| extra | Plazas libres del Imserso | /imserso/plazas-libres/ | plazas-libres | | publicado 29/09 |
+| extra | Programas de viajes de las comunidades | /imserso/turismo-autonomico/ | turismo-autonomico | | publicado 29/09 |
 
 Los artículos nuevos sin plantilla salen sin foto destacada: hay que añadírsela (fotos CC0, como en la categoría 1).
 

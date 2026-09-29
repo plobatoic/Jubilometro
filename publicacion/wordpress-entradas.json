@@ -346,5 +346,25 @@
   "/imserso/tarjeta-mayores/": {
     "id": 558,
     "estado": "publish"
+  },
+  "/imserso/universidad-mayores/": {
+    "id": 560,
+    "estado": "publish"
+  },
+  "/imserso/plazas-libres/": {
+    "id": 200,
+    "estado": "publish"
+  },
+  "/imserso/requisitos-viajes/": {
+    "id": 197,
+    "estado": "publish"
+  },
+  "/imserso/solicitar-viajes/": {
+    "id": 198,
+    "estado": "publish"
+  },
+  "/imserso/turismo-autonomico/": {
+    "id": 201,
+    "estado": "publish"
   }
 }
