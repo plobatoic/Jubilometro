@@ -434,5 +434,9 @@
   "/ayudas/ayudas-vivienda/": {
     "id": 178,
     "estado": "publish"
+  },
+  "/ayudas/tramites-online/": {
+    "id": 179,
+    "estado": "publish"
   }
 }
