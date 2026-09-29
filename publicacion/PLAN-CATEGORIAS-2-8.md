@@ -69,7 +69,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 59 | Ayudas para mayores por comunidad autónoma | /ayudas/ayudas-autonomicas/ | ayudas-autonomicas | F3 | publicado 29/09 |
 | 60 | Descuentos para pensionistas | /ayudas/descuentos-transporte/ | descuentos-transporte | F3 | publicado 29/09 |
 | 61 | Complemento de alquiler | /ayudas/complemento-alquiler/ | complemento-alquiler | F3 | publicado 29/09 |
-| 76 | Adaptar la casa de una persona mayor | /ayudas/ayudas-vivienda/ | ayudas-vivienda | F3 | |
+| 76 | Adaptar la casa de una persona mayor | /ayudas/ayudas-vivienda/ | ayudas-vivienda | F3 | publicado 29/09 |
 | extra | Trámites online para mayores | /ayudas/tramites-online/ | tramites-online | | |
 | 62 | Ley de dependencia: guía para familias | /dependencia/ley-dependencia/ | | F1 | publicado 29/09 |
 | 63 | Dependencia en Andalucía | /dependencia/andalucia/ | | F2 | publicado 29/09 |
