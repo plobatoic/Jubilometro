@@ -94,6 +94,7 @@ export const IMAGENES_DESTACADAS = {
   '/viudedad/favor-de-familiares/': { archivo: 'favor-de-familiares.webp', alt: 'Manos de un hombre mayor apoyadas en un bastón', pie: 'Foto: rawpixel' },
   '/cuanto-cobrare/mei-cuota-solidaridad/': { archivo: 'mei-cuota-solidaridad.webp', alt: 'Cartuchos de monedas de 1 y 2 euros', pie: 'Foto: rawpixel' },
   '/incapacidad/total-cualificada/': { archivo: 'total-cualificada.webp', alt: 'Trabajador de la construcción cortando madera con una sierra circular', pie: 'Foto: rawpixel' },
+  '/imserso/tarjeta-mayores/': { archivo: 'tarjeta-mayores.webp', alt: 'Andén de una estación de tren con dos trenes regionales parados', pie: 'Foto: rawpixel' },
 };
 
 // Archivos propios que los artículos enlazan y hay que subir a la biblioteca de medios.

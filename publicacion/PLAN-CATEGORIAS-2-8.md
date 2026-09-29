@@ -103,8 +103,8 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 89 | Domiciliar la pensión | /dinero/domiciliar-pension/ | | F3 | |
 | extra | Herencias y donaciones en vida | /dinero/herencias-donaciones/ | herencias-donaciones | | |
 | 90 | Viajes del Imserso 2026-2027 | /imserso/viajes-imserso/ | viajes-imserso | F1 | publicado 29/09 |
-| 91 | Termalismo del Imserso | /imserso/termalismo/ | termalismo | F3 | |
-| 92 | Tarjeta dorada y carné de mayores | /imserso/tarjeta-mayores/ | | F3 | |
+| 91 | Termalismo del Imserso | /imserso/termalismo/ | termalismo | F3 | publicado 29/09 |
+| 92 | Tarjeta dorada y carné de mayores | /imserso/tarjeta-mayores/ | | F3 | publicado 29/09 |
 | 93 | Universidades y cursos para mayores | /imserso/universidad-mayores/ | | F3 | |
 | extra | Requisitos de los viajes del Imserso | /imserso/requisitos-viajes/ | requisitos-viajes | | |
 | extra | Cómo solicitar los viajes del Imserso | /imserso/solicitar-viajes/ | solicitar-viajes | | |

@@ -338,5 +338,13 @@
   "/viudedad/viudedad-y-jubilacion/": {
     "id": 417,
     "estado": "publish"
+  },
+  "/imserso/termalismo/": {
+    "id": 199,
+    "estado": "publish"
+  },
+  "/imserso/tarjeta-mayores/": {
+    "id": 558,
+    "estado": "publish"
   }
 }
