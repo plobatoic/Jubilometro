@@ -99,9 +99,9 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 85 | Seguro de decesos a partir de los 60 | /dinero/seguro-decesos/ | | F2 | publicado 29/09 |
 | 86 | Seguros de salud para mayores de 65 | /dinero/seguro-salud-mayores/ | | F2 | publicado 29/09 |
 | 87 | Cuánto dinero necesitas ahorrado para jubilarte | /dinero/ahorro-jubilacion/ | ahorro-jubilacion | F2 | publicado 29/09 |
-| 88 | Cobrar la pensión viviendo en el extranjero | /dinero/pension-extranjero/ | | F3 | |
-| 89 | Domiciliar la pensión | /dinero/domiciliar-pension/ | | F3 | |
-| extra | Herencias y donaciones en vida | /dinero/herencias-donaciones/ | herencias-donaciones | | |
+| 88 | Cobrar la pensión viviendo en el extranjero | /dinero/pension-extranjero/ | | F3 | publicado 29/09 |
+| 89 | Domiciliar la pensión | /dinero/domiciliar-pension/ | | F3 | publicado 29/09 |
+| extra | Herencias y donaciones en vida | /dinero/herencias-donaciones/ | herencias-donaciones | | publicado 29/09 |
 | 90 | Viajes del Imserso 2026-2027 | /imserso/viajes-imserso/ | viajes-imserso | F1 | publicado 29/09 |
 | 91 | Termalismo del Imserso | /imserso/termalismo/ | termalismo | F3 | publicado 29/09 |
 | 92 | Tarjeta dorada y carné de mayores | /imserso/tarjeta-mayores/ | | F3 | publicado 29/09 |

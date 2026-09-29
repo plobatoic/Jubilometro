@@ -410,5 +410,17 @@
   "/dinero/renta-vitalicia/": {
     "id": 191,
     "estado": "publish"
+  },
+  "/dinero/pension-extranjero/": {
+    "id": 586,
+    "estado": "publish"
+  },
+  "/dinero/domiciliar-pension/": {
+    "id": 588,
+    "estado": "publish"
+  },
+  "/dinero/herencias-donaciones/": {
+    "id": 194,
+    "estado": "publish"
   }
 }

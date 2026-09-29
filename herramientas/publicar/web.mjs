@@ -94,6 +94,8 @@ export const IMAGENES_DESTACADAS = {
   '/viudedad/favor-de-familiares/': { archivo: 'favor-de-familiares.webp', alt: 'Manos de un hombre mayor apoyadas en un bastón', pie: 'Foto: rawpixel' },
   '/cuanto-cobrare/mei-cuota-solidaridad/': { archivo: 'mei-cuota-solidaridad.webp', alt: 'Cartuchos de monedas de 1 y 2 euros', pie: 'Foto: rawpixel' },
   '/incapacidad/total-cualificada/': { archivo: 'total-cualificada.webp', alt: 'Trabajador de la construcción cortando madera con una sierra circular', pie: 'Foto: rawpixel' },
+  '/dinero/domiciliar-pension/': { archivo: 'domiciliar-pension.webp', alt: 'Hucha de cerdito rosa sobre un fondo blanco', pie: 'Foto: rawpixel' },
+  '/dinero/pension-extranjero/': { archivo: 'pension-extranjero.webp', alt: 'Detalle de un globo terráqueo con los países coloreados', pie: 'Foto: rawpixel' },
   '/incapacidad/abogado/': { archivo: 'incapacidad-abogado.webp', alt: 'Vitrina de madera con libros antiguos encuadernados en piel', pie: 'Foto: rawpixel' },
   '/dependencia/reclamar-dependencia/': { archivo: 'reclamar-dependencia.webp', alt: 'Manos de una persona mayor con anillos escribiendo en una libreta sobre una carpeta azul', pie: 'Foto: rawpixel' },
   '/imserso/universidad-mayores/': { archivo: 'universidad-mayores.webp', alt: 'Profesor escribiendo en una pizarra verde ante un aula con estudiantes tomando apuntes', pie: 'Foto: rawpixel' },

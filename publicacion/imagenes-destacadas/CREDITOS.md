@@ -52,5 +52,7 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `universidad-mayores.webp` | /imserso/universidad-mayores/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5921219/photo-image-public-domain-student-woman | Profesor escribiendo en una pizarra verde ante un aula con estudiantes tomando apuntes |
 | `reclamar-dependencia.webp` | /dependencia/reclamar-dependencia/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5919319/image-paper-public-domain-hand | Manos de una persona mayor con anillos escribiendo en una libreta sobre una carpeta azul |
 | `incapacidad-abogado.webp` | /incapacidad/abogado/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/3305593/free-photo-image-law-library-book | Vitrina de madera con libros antiguos encuadernados en piel |
+| `pension-extranjero.webp` | /dinero/pension-extranjero/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5926280/close-globe-world-map-image | Detalle de un globo terráqueo con los países coloreados |
+| `domiciliar-pension.webp` | /dinero/domiciliar-pension/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/3298668/free-photo-image-bank-cc0-creative-commons | Hucha de cerdito rosa sobre un fondo blanco |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).
