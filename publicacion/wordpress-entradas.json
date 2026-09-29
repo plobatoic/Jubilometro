@@ -67,6 +67,10 @@
     "id": 154,
     "estado": "future"
   },
+  "/dependencia/cuidadora-interna-externa/": {
+    "id": 440,
+    "estado": "future"
+  },
   "/dependencia/grado-discapacidad/": {
     "id": 437,
     "estado": "future"
@@ -91,6 +95,10 @@
     "id": 185,
     "estado": "future"
   },
+  "/dependencia/tiempos-dependencia/": {
+    "id": 441,
+    "estado": "future"
+  },
   "/dinero/ahorro-jubilacion/": {
     "id": 195,
     "estado": "future"
@@ -109,6 +117,10 @@
   },
   "/dinero/rescate-plan-pensiones/": {
     "id": 190,
+    "estado": "future"
+  },
+  "/dinero/seguro-decesos/": {
+    "id": 442,
     "estado": "future"
   },
   "/dinero/vender-vivienda-65/": {

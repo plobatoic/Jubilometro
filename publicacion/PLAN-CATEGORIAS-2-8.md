@@ -77,11 +77,11 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 66 | Dependencia en la Comunitat Valenciana | /dependencia/comunitat-valenciana/ | | F2 | |
 | 67 | Grados de dependencia y baremo | /dependencia/grados/ | grados | F1 | programado 15/10 |
 | 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | programado 09/11 |
-| 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | |
+| 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | programado 27/11 |
 | 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | |
 | 71 | Residencia pública o privada | /dependencia/residencias-publicas/ | residencias-publicas | F2 | programado 19/11 |
 | 72 | Precio de las residencias por comunidad (no hay datos oficiales por provincia) | /dependencia/precio-residencias/ | | F1 | programado 21/10 |
-| 73 | Cuidadora interna o externa | /dependencia/cuidadora-interna-externa/ | | F2 | |
+| 73 | Cuidadora interna o externa | /dependencia/cuidadora-interna-externa/ | | F2 | programado 30/11 |
 | 74 | Teleasistencia | /dependencia/teleasistencia/ | teleasistencia | F3 | |
 | 75 | Centro de día | /dependencia/centro-de-dia/ | centro-de-dia | F3 | |
 | 77 | Grado de discapacidad del 33 y del 65 % | /dependencia/grado-discapacidad/ | | F2 | programado 26/11 |
@@ -95,7 +95,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 82 | Hipoteca inversa, nuda propiedad o renta vitalicia | /dinero/hipoteca-inversa/ | hipoteca-inversa | F2 | programado 20/11 |
 | 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | programado 23/11 |
 | 84 | Renta vitalicia asegurada: exención para mayores de 65 | /dinero/renta-vitalicia/ | renta-vitalicia | F3 | |
-| 85 | Seguro de decesos a partir de los 60 | /dinero/seguro-decesos/ | | F2 | |
+| 85 | Seguro de decesos a partir de los 60 | /dinero/seguro-decesos/ | | F2 | programado 01/12 |
 | 86 | Seguros de salud para mayores de 65 | /dinero/seguro-salud-mayores/ | | F2 | |
 | 87 | Cuánto dinero necesitas ahorrado para jubilarte | /dinero/ahorro-jubilacion/ | ahorro-jubilacion | F2 | programado 24/11 |
 | 88 | Cobrar la pensión viviendo en el extranjero | /dinero/pension-extranjero/ | | F3 | |
