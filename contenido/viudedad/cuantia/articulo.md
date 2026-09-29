@@ -9,9 +9,9 @@ palabra_clave_principal: cuantía pensión de viudedad
 intencion: informativa
 fase_plan: F1 (artículo n.º 37b)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-20
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1966-21116
   - https://www.boe.es/buscar/act.php?id=BOE-A-1972-944

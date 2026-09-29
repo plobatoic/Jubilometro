@@ -5,14 +5,18 @@
 // estado, así que sirve también para subir correcciones de artículos ya publicados.
 //
 // Los artículos con «publicacion: AAAA-MM-DD» en el front matter se programan en WordPress para
-// ese día a las 8:00 (hora de Madrid) si la fecha es futura, y se publican si ya ha pasado. Cada
-// artículo solo enlaza a lo ya publicado en su fecha: volver a ejecutar el script más adelante
-// activa los enlaces a los que han ido saliendo.
+// ese día a las 8:00 (hora de Madrid) si la fecha es futura; si es la de hoy, se publican en el
+// momento de subirlos, y si ya ha pasado, con esa fecha. Cada artículo solo enlaza a lo ya
+// publicado en su fecha: volver a ejecutar el script más adelante activa los enlaces a los que
+// han ido saliendo.
 //
 // Uso:
 //   WP_USER=usuario WP_APP_PASSWORD='xxxx xxxx xxxx xxxx xxxx xxxx' npm run subir
 //   npm run subir -- --prueba     solo dice qué haría, sin cambiar nada en la web
 //   npm run subir -- --publicar   además, publica las entradas (solo tras revisarlas)
+//   npm run subir -- --solo=/viudedad/cuantia/,/viudedad/requisitos/
+//                                 solo sube esos artículos (los demás no se tocan hasta la
+//                                 siguiente subida completa, que es la que actualiza sus enlaces)
 // La contraseña es una «contraseña de aplicación» (WordPress > Usuarios > Perfil).
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
@@ -28,6 +32,7 @@ if (!WP_USER || !WP_APP_PASSWORD) {
 const AUTORIZACION = `Basic ${Buffer.from(`${WP_USER}:${WP_APP_PASSWORD}`).toString('base64')}`;
 const PUBLICAR = process.argv.includes('--publicar');
 const PRUEBA = process.argv.includes('--prueba');
+const SOLO = process.argv.find((a) => a.startsWith('--solo='))?.slice('--solo='.length).split(',').filter(Boolean);
 const TIPOS = { webp: 'image/webp', png: 'image/png', pdf: 'application/pdf' };
 
 // Las lecturas y las actualizaciones se reintentan si se corta la conexión; las altas no,
@@ -83,8 +88,15 @@ async function buscarEntrada(slug) {
 }
 
 const todos = listarArticulos().map(leerArticulo);
-const articulos = todos.filter((a) => !NO_SE_SUBEN.includes(a.datos.url));
+const articulos = todos.filter((a) => !NO_SE_SUBEN.includes(a.datos.url) && (!SOLO || SOLO.includes(a.datos.url)));
+const desconocidas = (SOLO ?? []).filter((url) => !articulos.some((a) => a.datos.url === url));
+if (desconocidas.length) throw new Error(`--solo: no hay ningún artículo con la URL ${desconocidas.join(', ')}`);
 const hoy = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Europe/Madrid' }).format(new Date());
+// Fecha y hora de Madrid en el formato de la API de WordPress (2026-09-29T17:05:00).
+const ahora = () => new Intl.DateTimeFormat('sv-SE', {
+  timeZone: 'Europe/Madrid', year: 'numeric', month: '2-digit', day: '2-digit',
+  hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false,
+}).format(new Date()).replace(' ', 'T');
 
 // Los mismos límites que comprueba `npm run comprobar`: nada se sube con un título o una
 // descripción que Google recortaría.
@@ -121,11 +133,12 @@ for (const a of articulos) {
     title: d.h1, slug, content: cuerpoWeb(a, urlsDeLaWeb(todos, fechaEnlaces), medios), excerpt: d.meta_descripcion,
     categories: [idCategoria], comment_status: 'closed', ping_status: 'closed',
   };
-  // Programación: fecha futura o de hoy -> «future» a las 8:00 (si ya han pasado las 8:00 de hoy,
-  // WordPress la publica al momento); fecha pasada -> publicado. Una entrada ya publicada no se toca.
+  // Programación: fecha futura -> «future» a las 8:00; fecha de hoy -> publicado en el momento, con
+  // la hora de la subida (las portadas de sección ordenan por fecha: lo último publicado sale
+  // primero); fecha pasada -> publicado ese día a las 8:00. Una entrada ya publicada no se toca.
   if (d.publicacion && entrada?.status !== 'publish') {
-    campos.date = `${d.publicacion}T08:00:00`;
-    campos.status = d.publicacion >= hoy ? 'future' : 'publish';
+    campos.status = d.publicacion > hoy ? 'future' : 'publish';
+    campos.date = d.publicacion === hoy ? ahora() : `${d.publicacion}T08:00:00`;
   }
   const destacada = IMAGENES_DESTACADAS[d.url];
   if (destacada && !entrada?.featured_media) {
@@ -202,5 +215,8 @@ if (cambiosDeUrl.size && !PRUEBA) {
 }
 
 if (PRUEBA) process.exit(0);
-writeFileSync(join(RAIZ, 'publicacion', 'wordpress-entradas.json'), `${JSON.stringify(resumen, null, 2)}\n`);
-console.log(`\n${Object.keys(resumen).length} entradas. Lista en publicacion/wordpress-entradas.json`);
+// Con --solo, la lista conserva las entradas que no se han tocado en esta subida.
+const LISTA = join(RAIZ, 'publicacion', 'wordpress-entradas.json');
+const lista = SOLO && existsSync(LISTA) ? { ...JSON.parse(readFileSync(LISTA, 'utf8')), ...resumen } : resumen;
+writeFileSync(LISTA, `${JSON.stringify(lista, null, 2)}\n`);
+console.log(`\n${Object.keys(resumen).length} entradas subidas (${Object.keys(lista).length} en la lista). Lista en publicacion/wordpress-entradas.json`);

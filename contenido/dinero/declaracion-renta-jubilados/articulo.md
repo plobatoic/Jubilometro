@@ -9,9 +9,9 @@ palabra_clave_principal: declaración de la renta jubilados
 intencion: informativa
 fase_plan: F1 (artículo n.º 78)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-19
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764
   - https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820

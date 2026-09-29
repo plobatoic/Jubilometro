@@ -1,7 +1,7 @@
 {
   "/ayudas/bono-social-electrico/": {
     "id": 174,
-    "estado": "future"
+    "estado": "publish"
   },
   "/ayudas/complemento-alquiler/": {
     "id": 175,
@@ -13,7 +13,7 @@
   },
   "/ayudas/pension-no-contributiva/": {
     "id": 172,
-    "estado": "future"
+    "estado": "publish"
   },
   "/ayudas/pnc-invalidez/": {
     "id": 420,
@@ -29,7 +29,7 @@
   },
   "/cuanto-cobrare/como-se-calcula-la-pension/": {
     "id": 149,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/complemento-a-minimos/": {
     "id": 152,
@@ -61,11 +61,11 @@
   },
   "/cuanto-cobrare/pension-maxima/": {
     "id": 151,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/pension-minima/": {
     "id": 388,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/pension-segun-sueldo/": {
     "id": 428,
@@ -101,11 +101,11 @@
   },
   "/dependencia/grados/": {
     "id": 180,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/ley-dependencia/": {
     "id": 398,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/madrid/": {
     "id": 448,
@@ -133,7 +133,7 @@
   },
   "/dinero/declaracion-renta-jubilados/": {
     "id": 189,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/hipoteca-inversa/": {
     "id": 192,
@@ -145,7 +145,7 @@
   },
   "/dinero/rescate-plan-pensiones/": {
     "id": 190,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/seguro-decesos/": {
     "id": 442,
@@ -173,7 +173,7 @@
   },
   "/incapacidad/grados-incapacidad/": {
     "id": 395,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/gran-incapacidad/": {
     "id": 166,
@@ -189,7 +189,7 @@
   },
   "/incapacidad/incapacidad-total/": {
     "id": 164,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/solicitar/": {
     "id": 432,
@@ -289,7 +289,7 @@
   },
   "/viudedad/cuantia/": {
     "id": 157,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/divorcio-separacion/": {
     "id": 159,
@@ -321,7 +321,7 @@
   },
   "/viudedad/requisitos/": {
     "id": 156,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/solicitar-viudedad/": {
     "id": 163,

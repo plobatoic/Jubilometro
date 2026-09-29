@@ -9,9 +9,9 @@ palabra_clave_principal: bono social eléctrico pensionistas
 intencion: informativa
 fase_plan: F2 (artículo n.º 58)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-02
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2017-11505
   - https://www.boe.es/buscar/act.php?id=BOE-A-2018-13593

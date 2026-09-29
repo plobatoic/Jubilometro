@@ -9,9 +9,9 @@ palabra_clave_principal: grados de dependencia
 intencion: informativa
 fase_plan: F1 (artículo n.º 67)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-15
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990

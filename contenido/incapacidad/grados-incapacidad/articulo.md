@@ -9,9 +9,9 @@ palabra_clave_principal: grados de incapacidad permanente
 intencion: informativa
 fase_plan: F1 (artículo n.º 45)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-12
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
   - https://www.boe.es/buscar/act.php?id=BOE-A-1972-944

@@ -13,7 +13,7 @@
 | 9 | Compatibilidad con salario en la misma u otra empresa si las funciones no coinciden | Art. 198.1 LGSS | Texto del BOE | Verificado en BOE |
 | 10 | Revisión en cualquier momento si trabaja | Art. 200.2 LGSS | Texto del BOE | Verificado en BOE |
 | 11 | Ley 2/2025: 10 días naturales para comunicar; 3 meses para ajustes o cambio; extinción por carga excesiva, falta de vacante o rechazo; empresas < 25 trabajadores: carga excesiva si supera la mayor de indemnización por despido (art. 56.1 ET) o 6 meses de salario; en vigor el 1/5/2025 | Ley 2/2025 (BOE-A-2025-8567), nuevo art. 49.1.n ET | Texto del BOE | Verificado en BOE |
-| 12 | Desempleo incompatible con prestaciones de la Seguridad Social salvo que fueran compatibles con el trabajo que originó el paro | Art. 282.2 LGSS | Texto del BOE | Verificado en BOE |
+| 12 | Desempleo incompatible con prestaciones de la Seguridad Social salvo que fueran compatibles con el trabajo que originó el paro | Art. 282.1, párrafo segundo, LGSS | Texto del BOE | Verificado en BOE |
 | 13 | Indemnización sustitutiva para menores de 60: 84 mensualidades (< 54) y escala 72/60/48/36/24/12; plazo de 3 años; lesiones no modificables; trabajo o inversión en actividad propia; a los 60 se recupera la pensión revalorizada; irrevocable | Orden de 31/07/1972 (BOE-A-1972-1210), art. 5 | Texto consolidado del BOE | Verificado en BOE |
 | 14 | IRPF: la total tributa; pensionistas de total, absoluta o GI se consideran con discapacidad ≥ 33 %; mínimo por discapacidad 3.000 € | Ley del IRPF, arts. 7.f) y 60 | Texto del BOE | Verificado en BOE |
 | 15 | A los 67 años pasa a denominarse jubilación | Art. 200.4 LGSS | Texto del BOE | Verificado en BOE |

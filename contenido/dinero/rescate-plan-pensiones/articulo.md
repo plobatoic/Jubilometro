@@ -9,9 +9,9 @@ palabra_clave_principal: rescate plan de pensiones
 intencion: informativa
 fase_plan: F1 (artículo n.º 80)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-16
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453
   - https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252
