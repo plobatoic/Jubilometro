@@ -96,7 +96,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | programado 23/11 |
 | 84 | Renta vitalicia asegurada: exención para mayores de 65 | /dinero/renta-vitalicia/ | renta-vitalicia | F3 | |
 | 85 | Seguro de decesos a partir de los 60 | /dinero/seguro-decesos/ | | F2 | programado 01/12 |
-| 86 | Seguros de salud para mayores de 65 | /dinero/seguro-salud-mayores/ | | F2 | |
+| 86 | Seguros de salud para mayores de 65 | /dinero/seguro-salud-mayores/ | | F2 | programado 02/12 |
 | 87 | Cuánto dinero necesitas ahorrado para jubilarte | /dinero/ahorro-jubilacion/ | ahorro-jubilacion | F2 | programado 24/11 |
 | 88 | Cobrar la pensión viviendo en el extranjero | /dinero/pension-extranjero/ | | F3 | |
 | 89 | Domiciliar la pensión | /dinero/domiciliar-pension/ | | F3 | |

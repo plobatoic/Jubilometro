@@ -1531,7 +1531,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+<p class="meta">Actualizado el <time datetime="2026-09-29">29 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -1598,6 +1598,8 @@
 </ul>
 <h3 id="si-cobras-dos-pensiones">Si cobras dos pensiones</h3>
 <p>Solo tienes complemento si <strong>la suma de tus pensiones</strong> es menor que la mínima más alta de las que cobras, y se completa hasta esa mínima. Por ejemplo, con una jubilación y una viudedad pequeñas, se suman las dos antes de ver si llegas a la mínima.</p>
+<h3 id="ademas-medicamentos-sin-copago">Además: medicamentos sin copago</h3>
+<p>Desde el <strong>14 de mayo de 2026</strong>, los pensionistas que cobran el complemento a mínimos, y sus beneficiarios, <strong>no pagan nada por los medicamentos con receta</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102" rel="noopener">artículo 102.8 de la ley del medicamento</a>, en la redacción del <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10324" rel="noopener">Real Decreto-ley 11/2026</a>). Lo explicamos en <a href="/dinero/seguro-salud-mayores/">seguros de salud para mayores de 65</a>.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="que-es-el-complemento-a-minimos">¿Qué es el complemento a mínimos?</h3>
 <p>La cantidad que la Seguridad Social añade a una pensión contributiva baja para que llegue a la pensión mínima fijada para ese año, siempre que vivas en España y tus otros ingresos no superen el límite.</p>
@@ -1613,6 +1615,7 @@
 <ul>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social, artículo 59 y disposición transitoria 27.ª</a> (BOE).</li>
 <li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, artículos 9, 10 y 16 y anexo I</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343" rel="noopener">Ley de garantías y uso racional de los medicamentos, artículo 102 (redacción del Real Decreto-ley 11/2026)</a> (BOE).</li>
 </ul>
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
@@ -1624,13 +1627,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+<p>Historial de cambios: 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></excerpt:encoded>
     <wp:post_id>9007</wp:post_id>
-    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[complemento-a-minimos]]></wp:post_name>
@@ -5819,6 +5822,163 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Seguros de salud para mayores de 65: lo que ya cubre la sanidad pública, lo que pagas en la farmacia y qué mirar en una póliza privada]]></title>
+    <link>https://jubilometro.com/dinero/seguro-salud-mayores/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-09-29">29 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Como pensionista tienes <strong>asistencia sanitaria pública</strong> y en la farmacia pagas el <strong>10 % de los medicamentos con receta</strong>, con un <strong>tope mensual</strong> según tu renta: <strong>8,23 euros</strong> si ganas menos de 18.000 euros al año, <strong>13,37</strong> entre 18.000 y 60.000 y <strong>18,52</strong> entre 60.000 y 100.000. Desde mayo de 2026, <strong>no pagas nada</strong> si cobras el <strong>complemento a mínimos</strong>, una pensión no contributiva o el ingreso mínimo vital.</p>
+<p>Si además quieres un <strong>seguro de salud privado</strong>, fíjate sobre todo en la <strong>renovación</strong>: salvo que la póliza diga lo contrario, la aseguradora puede <strong>no renovarlo</strong> avisándote con <strong>dos meses</strong> de antelación, y también debe avisarte con dos meses de cualquier <strong>subida de prima</strong>.</p>
+</aside>
+<h2 id="lo-que-ya-tienes-la-sanidad-publica">Lo que ya tienes: la sanidad pública</h2>
+<p>Todas las personas con nacionalidad española y los extranjeros con residencia en España tienen derecho a la protección de la salud y a la atención sanitaria (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-10715#a3" rel="noopener">artículo 3 de la Ley 16/2003</a>). Jubilarte no cambia tu derecho a la sanidad pública.</p>
+<h3 id="cuanto-pagas-por-los-medicamentos">Cuánto pagas por los medicamentos</h3>
+<p>Desde el <strong>14 de mayo de 2026</strong> (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10324" rel="noopener">Real Decreto-ley 11/2026</a>, que modificó el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102" rel="noopener">artículo 102 de la ley del medicamento</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Aportación de los pensionistas en la farmacia desde el 14 de mayo de 2026</caption>
+<thead>
+<tr>
+<th scope="col">Tu renta anual (base liquidable del IRPF)</th>
+<th scope="col">Qué pagas</th>
+<th scope="col">Tope al mes</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Menos de 18.000 €</th>
+<td>10 % del precio</td>
+<td>8,23 €</td>
+</tr>
+<tr>
+<th scope="row">De 18.000 a 60.000 €</th>
+<td>10 % del precio</td>
+<td>13,37 €</td>
+</tr>
+<tr>
+<th scope="row">De 60.000 a 100.000 €</th>
+<td>10 % del precio</td>
+<td>18,52 €</td>
+</tr>
+<tr>
+<th scope="row">100.000 € o más</th>
+<td>60 % del precio</td>
+<td>61,75 €</td>
+</tr>
+</tbody></table>
+</div>
+<ul>
+<li><strong>Lo que pagues de más</strong> por encima del tope te lo <strong>devuelve tu comunidad autónoma</strong>, como máximo cada seis meses.</li>
+<li><strong>Medicamentos de aportación reducida</strong> (algunos para enfermedades crónicas): el 10 %, con un máximo de 4,98 euros.</li>
+<li><strong>Si eres mutualista</strong> de MUFACE, ISFAS o MUGEJU, pagas el 30 % con carácter general.</li>
+</ul>
+<h3 id="quien-no-paga-nada">Quién no paga nada</h3>
+<ul>
+<li>Los pensionistas que cobran el <strong>complemento a mínimos</strong> (desde mayo de 2026). Lo explicamos en <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
+<li>Quienes cobran una <strong>pensión no contributiva</strong> o el <strong>ingreso mínimo vital</strong>.</li>
+<li>Los tratamientos por <strong>accidente de trabajo o enfermedad profesional</strong>.</li>
+<li><strong>Régimen transitorio</strong>: los pensionistas que ya estaban exentos antes del 14 de mayo de 2026 por tener una renta inferior a <strong>5.635 euros</strong> (o a <strong>11.200 euros</strong> si no tienen que hacer la declaración de la renta) <strong>siguen exentos</strong>, aunque no cobren el complemento a mínimos.</li>
+</ul>
+<h2 id="si-quieres-un-seguro-de-salud-privado">Si quieres un seguro de salud privado</h2>
+<p>Un seguro de salud privado es un complemento, no un sustituto. Estas son las claves que marca la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">Ley de Contrato de Seguro</a>:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Qué mirar en un seguro de salud privado según la Ley de Contrato de Seguro</caption>
+<thead>
+<tr>
+<th scope="col">Qué mirar</th>
+<th scope="col">Por qué importa</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Renovación</th>
+<td>Salvo que la póliza lo impida, la aseguradora puede <strong>no renovar</strong> avisándote por escrito con <strong>dos meses</strong> de antelación (artículo 22.2). Las condiciones de renovación deben destacarse en la póliza: busca una que diga que la aseguradora <strong>no puede oponerse</strong> a renovarla</td>
+</tr>
+<tr>
+<th scope="row">Subidas de prima</th>
+<td>Cualquier cambio debe comunicarse <strong>dos meses</strong> antes del vencimiento (artículo 22.3). Pregunta cómo suben las primas con la edad</td>
+</tr>
+<tr>
+<th scope="row">Cuestionario de salud</th>
+<td>Contesta con la verdad: si ocultas una enfermedad, la aseguradora puede rescindir el contrato o reducir la prestación (artículo 10)</td>
+</tr>
+<tr>
+<th scope="row">Enfermedades previas y carencias</th>
+<td>Mira qué exclusiones hay por enfermedades que ya tienes y cuánto tiempo hay que esperar para cada servicio</td>
+</tr>
+<tr>
+<th scope="row">Cuadro médico</th>
+<td>La aseguradora debe darte una relación de prestadores para que elijas, salvo que el contrato prevea uno solo (artículo 106 quáter)</td>
+</tr>
+<tr>
+<th scope="row">Copagos</th>
+<td>Muchas pólizas cobran una cantidad por consulta o prueba: súmalos al coste</td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Antes de contratar</strong>, pide por escrito la prima de este año, cómo evolucionará con la edad, las exclusiones, las carencias y la cláusula de renovación. Pregunta también si hay una edad máxima para contratar.</p>
+<h2 id="desgrava-el-seguro-de-salud">¿Desgrava el seguro de salud?</h2>
+<ul>
+<li><strong>Si eres jubilado</strong> y pagas tú el seguro, la Ley del IRPF no prevé deducción estatal.</li>
+<li><strong>Si eres autónomo en activo</strong>, la prima es gasto deducible hasta <strong>500 euros al año</strong> por ti, tu cónyuge y tus hijos menores de 25 años que convivan contigo (1.500 euros por persona con discapacidad) (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a30" rel="noopener">artículo 30 de la Ley del IRPF</a>).</li>
+<li><strong>Si te lo paga la empresa</strong>, está exento hasta <strong>500 euros al año</strong> por persona (1.500 con discapacidad) (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a42" rel="noopener">artículo 42</a>).</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-pagan-los-jubilados-por-los-medicamentos-en-2026">¿Cuánto pagan los jubilados por los medicamentos en 2026?</h3>
+<p>El 10 % del precio, con un tope mensual de 8,23 euros si su renta es inferior a 18.000 euros, 13,37 entre 18.000 y 60.000 y 18,52 entre 60.000 y 100.000. Con 100.000 euros o más, el 60 % con un tope de 61,75 euros.</p>
+<h3 id="que-pensionistas-no-pagan-los-medicamentos">¿Qué pensionistas no pagan los medicamentos?</h3>
+<p>Desde el 14 de mayo de 2026, los que cobran el complemento a mínimos, además de quienes cobran una pensión no contributiva o el ingreso mínimo vital. Los que ya estaban exentos por renta baja lo siguen estando.</p>
+<h3 id="me-pueden-cancelar-el-seguro-de-salud-por-la-edad">¿Me pueden cancelar el seguro de salud por la edad?</h3>
+<p>La aseguradora puede oponerse a renovarlo avisándote con dos meses de antelación, salvo que la póliza diga que no puede hacerlo. Por eso conviene elegir una póliza con esa garantía.</p>
+<h3 id="es-obligatorio-contestar-el-cuestionario-de-salud">¿Es obligatorio contestar el cuestionario de salud?</h3>
+<p>Tienes que declarar lo que te pregunten en el cuestionario. Si ocultas algo, la aseguradora puede rescindir el contrato o reducir lo que te paga.</p>
+<h3 id="puedo-desgravar-el-seguro-de-salud-siendo-jubilado">¿Puedo desgravar el seguro de salud siendo jubilado?</h3>
+<p>En el IRPF estatal, no. La deducción es para autónomos en activo (hasta 500 euros por persona) y la exención, para seguros pagados por la empresa.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343" rel="noopener">Ley de garantías y uso racional de los medicamentos (Real Decreto Legislativo 1/2015): artículo 102</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10324" rel="noopener">Real Decreto-ley 11/2026, aportación de los usuarios en la prestación farmacéutica (convalidado el 28 de mayo de 2026)</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-10715" rel="noopener">Ley 16/2003 de cohesión y calidad del Sistema Nacional de Salud: artículo 3</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">Ley 50/1980 de Contrato de Seguro: artículos 10, 22, 105, 106 y 106 quáter</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley del IRPF: artículos 30 y 42</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cobras poca pensión? Mira si tienes derecho al <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
+<li>¿Y el seguro de decesos? Lee <a href="/dinero/seguro-decesos/">seguro de decesos a partir de los 60</a>.</li>
+<li>¿Cuánto te hace falta ahorrar? Consulta <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas para jubilarte</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la lectura de tu póliza ni la información de tu servicio de salud. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 29 de septiembre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Con 65 años tienes sanidad pública y pagas el 10 % de los medicamentos con un tope al mes. En un seguro privado, mira la renovación y las subidas.]]></excerpt:encoded>
+    <wp:post_id>9032</wp:post_id>
+    <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[seguro-salud-mayores]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Seguro de salud para mayores de 65: qué mirar antes de firmar]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Con 65 años tienes sanidad pública y pagas el 10 % de los medicamentos con un tope al mes. En un seguro privado, mira la renovación y las subidas.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[seguro de salud mayores de 65]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Seguro de salud para mayores de 65: qué mirar antes de firmar]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con 65 años tienes sanidad pública y pagas el 10 % de los medicamentos con un tope al mes. En un seguro privado, mira la renovación y las subidas.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[seguro de salud mayores de 65]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Vender tu vivienda habitual con más de 65 años: por qué no pagas IRPF, qué impuestos sí pagas y qué hacer con el dinero]]></title>
     <link>https://jubilometro.com/dinero/vender-vivienda-65/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -5923,7 +6083,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6263,7 +6423,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6392,7 +6552,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa y otros 30 para demandar. Plazos, pruebas y qué pasa con tu baja.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6583,7 +6743,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[No hay lista de enfermedades que den la incapacidad: se valoran tus limitaciones para trabajar. Cómo es el tribunal médico y las enfermedades profesionales.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6801,7 +6961,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9036</wp:post_id>
+    <wp:post_id>9037</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6940,7 +7100,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9037</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7101,7 +7261,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></excerpt:encoded>
-    <wp:post_id>9038</wp:post_id>
+    <wp:post_id>9039</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7292,7 +7452,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9039</wp:post_id>
+    <wp:post_id>9040</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7425,7 +7585,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente se pide al INSS o la inicia él tras la baja. Documentos, el tribunal médico, 10 días para alegar y 135 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9040</wp:post_id>
+    <wp:post_id>9041</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7565,7 +7725,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9041</wp:post_id>
+    <wp:post_id>9042</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7701,7 +7861,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9042</wp:post_id>
+    <wp:post_id>9043</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7836,7 +7996,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9043</wp:post_id>
+    <wp:post_id>9044</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8017,7 +8177,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9044</wp:post_id>
+    <wp:post_id>9045</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8173,7 +8333,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9045</wp:post_id>
+    <wp:post_id>9046</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8361,7 +8521,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9046</wp:post_id>
+    <wp:post_id>9047</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8520,7 +8680,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9047</wp:post_id>
+    <wp:post_id>9048</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8742,7 +8902,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9048</wp:post_id>
+    <wp:post_id>9049</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8897,7 +9057,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9049</wp:post_id>
+    <wp:post_id>9050</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8995,7 +9155,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9050</wp:post_id>
+    <wp:post_id>9051</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9165,7 +9325,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9051</wp:post_id>
+    <wp:post_id>9052</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9327,7 +9487,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9052</wp:post_id>
+    <wp:post_id>9053</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9457,7 +9617,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9053</wp:post_id>
+    <wp:post_id>9054</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10106,7 +10266,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9054</wp:post_id>
+    <wp:post_id>9055</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10236,7 +10396,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9055</wp:post_id>
+    <wp:post_id>9056</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10414,7 +10574,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9056</wp:post_id>
+    <wp:post_id>9057</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10548,7 +10708,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9057</wp:post_id>
+    <wp:post_id>9058</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10672,7 +10832,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9058</wp:post_id>
+    <wp:post_id>9059</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10789,7 +10949,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9059</wp:post_id>
+    <wp:post_id>9060</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10921,7 +11081,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9060</wp:post_id>
+    <wp:post_id>9061</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11021,7 +11181,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9061</wp:post_id>
+    <wp:post_id>9062</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11222,7 +11382,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9062</wp:post_id>
+    <wp:post_id>9063</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11367,7 +11527,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9063</wp:post_id>
+    <wp:post_id>9064</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11476,7 +11636,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años (con hijos comunes basta la inscripción). Sin límite de ingresos.]]></excerpt:encoded>
-    <wp:post_id>9064</wp:post_id>
+    <wp:post_id>9065</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11665,7 +11825,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9065</wp:post_id>
+    <wp:post_id>9066</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11770,7 +11930,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9066</wp:post_id>
+    <wp:post_id>9067</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11887,7 +12047,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9067</wp:post_id>
+    <wp:post_id>9068</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

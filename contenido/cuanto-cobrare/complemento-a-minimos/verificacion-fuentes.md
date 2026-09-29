@@ -11,3 +11,4 @@
 | 7 | Concurrencia: complemento solo si la suma de pensiones es inferior a la mínima más alta; se aplica a la pensión determinante | RD 241/2026, art. 16.1 | Texto del BOE | Verificado en BOE |
 | 8 | Mínima de 65+ sin cónyuge: 936,20 €/mes; 13.106,80 €/año | RD 241/2026, anexo I | Texto del BOE | Verificado en BOE |
 | 9 | Ejemplos (Julián 186,20 €; Pilar 2.948,80 €/año y 210,63 €/mes frente a 236,20 €) | — | Cálculo propio | Cálculo propio |
+| 10 | Exención del copago farmacéutico para pensionistas con complemento a mínimos y sus beneficiarios, desde el 14/05/2026 | RDLeg 1/2015, art. 102.8.i (redacción del RDL 11/2026, convalidado el 28/05/2026) | Texto consolidado del BOE | Verificado en BOE (29/09/2026) |

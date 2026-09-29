@@ -8,7 +8,7 @@ miga: Complemento a mínimos
 palabra_clave_principal: complemento a mínimos
 intencion: informativa
 fase_plan: F2 (artículo n.º 28)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-09-29
 publicacion: 2026-10-23
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicación programada
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Complemento a mínimos en 2026: quién lo cobra, límite de ingresos, tope y cómo se pide
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -91,6 +91,10 @@ No lo pierdes todo. Si **tus otros ingresos más tu pensión**, al año, quedan 
 
 Solo tienes complemento si **la suma de tus pensiones** es menor que la mínima más alta de las que cobras, y se completa hasta esa mínima. Por ejemplo, con una jubilación y una viudedad pequeñas, se suman las dos antes de ver si llegas a la mínima.
 
+### Además: medicamentos sin copago
+
+Desde el **14 de mayo de 2026**, los pensionistas que cobran el complemento a mínimos, y sus beneficiarios, **no pagan nada por los medicamentos con receta** ([artículo 102.8 de la ley del medicamento](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102), en la redacción del [Real Decreto-ley 11/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10324)). Lo explicamos en [seguros de salud para mayores de 65](/dinero/seguro-salud-mayores/).
+
 ## Preguntas frecuentes
 
 ### ¿Qué es el complemento a mínimos?
@@ -117,6 +121,7 @@ No, en las pensiones causadas desde 2013: exige residir en España. Las anterior
 
 - [Ley General de la Seguridad Social, artículo 59 y disposición transitoria 27.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
 - [Real Decreto 241/2026, artículos 9, 10 y 16 y anexo I](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977) (BOE).
+- [Ley de garantías y uso racional de los medicamentos, artículo 102 (redacción del Real Decreto-ley 11/2026)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343) (BOE).
 
 ## Siguiente paso
 
@@ -128,4 +133,4 @@ No, en las pensiones causadas desde 2013: exige residir en España. Las anterior
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*

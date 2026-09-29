@@ -123,6 +123,10 @@
     "id": 442,
     "estado": "future"
   },
+  "/dinero/seguro-salud-mayores/": {
+    "id": 444,
+    "estado": "future"
+  },
   "/dinero/vender-vivienda-65/": {
     "id": 193,
     "estado": "future"
