@@ -366,5 +366,29 @@
   "/imserso/turismo-autonomico/": {
     "id": 201,
     "estado": "publish"
+  },
+  "/dependencia/reclamar-dependencia/": {
+    "id": 566,
+    "estado": "publish"
+  },
+  "/dependencia/solicitar-dependencia/": {
+    "id": 181,
+    "estado": "publish"
+  },
+  "/dependencia/teleasistencia/": {
+    "id": 186,
+    "estado": "publish"
+  },
+  "/dependencia/ayuda-a-domicilio/": {
+    "id": 183,
+    "estado": "publish"
+  },
+  "/dependencia/centro-de-dia/": {
+    "id": 184,
+    "estado": "publish"
+  },
+  "/dependencia/convenio-cuidador/": {
+    "id": 187,
+    "estado": "publish"
   }
 }

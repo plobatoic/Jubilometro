@@ -79,16 +79,16 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 67 | Grados de dependencia y baremo | /dependencia/grados/ | grados | F1 | publicado 29/09 |
 | 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | publicado 29/09 |
 | 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | publicado 29/09 |
-| 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | |
+| 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | publicado 29/09 |
 | 71 | Residencia pública o privada | /dependencia/residencias-publicas/ | residencias-publicas | F2 | publicado 29/09 |
 | 72 | Precio de las residencias por comunidad (no hay datos oficiales por provincia) | /dependencia/precio-residencias/ | | F1 | publicado 29/09 |
 | 73 | Cuidadora interna o externa | /dependencia/cuidadora-interna-externa/ | | F2 | publicado 29/09 |
-| 74 | Teleasistencia | /dependencia/teleasistencia/ | teleasistencia | F3 | |
-| 75 | Centro de día | /dependencia/centro-de-dia/ | centro-de-dia | F3 | |
+| 74 | Teleasistencia | /dependencia/teleasistencia/ | teleasistencia | F3 | publicado 29/09 |
+| 75 | Centro de día | /dependencia/centro-de-dia/ | centro-de-dia | F3 | publicado 29/09 |
 | 77 | Grado de discapacidad del 33 y del 65 % | /dependencia/grado-discapacidad/ | | F2 | publicado 29/09 |
-| extra | Cómo solicitar la dependencia | /dependencia/solicitar-dependencia/ | solicitar-dependencia | | |
-| extra | Servicio de ayuda a domicilio | /dependencia/ayuda-a-domicilio/ | ayuda-a-domicilio | | |
-| extra | Convenio especial del cuidador | /dependencia/convenio-cuidador/ | convenio-cuidador | | |
+| extra | Cómo solicitar la dependencia | /dependencia/solicitar-dependencia/ | solicitar-dependencia | | publicado 29/09 |
+| extra | Servicio de ayuda a domicilio | /dependencia/ayuda-a-domicilio/ | ayuda-a-domicilio | | publicado 29/09 |
+| extra | Convenio especial del cuidador | /dependencia/convenio-cuidador/ | convenio-cuidador | | publicado 29/09 |
 | 78 | Declaración de la renta de los jubilados | /dinero/declaracion-renta-jubilados/ | declaracion-renta-jubilados | F1 | publicado 29/09 |
 | 79 | Retención de IRPF en la pensión (modelo 145) | /dinero/irpf-pensiones/ | irpf-pensiones | F3 | |
 | 80 | Rescatar el plan de pensiones al jubilarte | /dinero/rescate-plan-pensiones/ | rescate-plan-pensiones | F1 | publicado 29/09 |
