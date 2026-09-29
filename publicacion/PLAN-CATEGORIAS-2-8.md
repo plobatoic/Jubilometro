@@ -41,8 +41,8 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 38 | Viudedad en parejas de hecho | /viudedad/pareja-de-hecho/ | pareja-de-hecho | F2 | programado 05/11 |
 | 39 | Viudedad y jubilación a la vez | /viudedad/viudedad-y-jubilacion/ | | F2 | programado 29/10 |
 | 40 | Viudedad si vuelves a casarte | /viudedad/nuevo-matrimonio/ | | F3 | |
-| 41 | Viudedad tras divorcio o separación | /viudedad/divorcio-separacion/ | divorcio-separacion | F3 | |
-| 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | |
+| 41 | Viudedad tras divorcio o separación | /viudedad/divorcio-separacion/ | divorcio-separacion | F3 | programado 10/12 |
+| 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | programado 09/12 |
 | 43 | Qué hacer cuando fallece un pensionista | /viudedad/fallecimiento-pensionista/ | | F2 | programado 13/11 |
 | 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | |
 | extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | |
