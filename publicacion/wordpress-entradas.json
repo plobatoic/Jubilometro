@@ -3,6 +3,10 @@
     "id": 174,
     "estado": "future"
   },
+  "/ayudas/complemento-alquiler/": {
+    "id": 175,
+    "estado": "future"
+  },
   "/ayudas/ingreso-minimo-vital-mayores/": {
     "id": 173,
     "estado": "future"
@@ -279,6 +283,10 @@
     "id": 310,
     "estado": "publish"
   },
+  "/viudedad/compatibilidad-trabajo/": {
+    "id": 160,
+    "estado": "future"
+  },
   "/viudedad/cuantia/": {
     "id": 157,
     "estado": "future"
@@ -305,6 +313,10 @@
   },
   "/viudedad/pension-orfandad/": {
     "id": 161,
+    "estado": "future"
+  },
+  "/viudedad/prestacion-temporal/": {
+    "id": 162,
     "estado": "future"
   },
   "/viudedad/requisitos/": {

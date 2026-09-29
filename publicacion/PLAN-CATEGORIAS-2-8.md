@@ -45,8 +45,8 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | programado 09/12 |
 | 43 | Qué hacer cuando fallece un pensionista | /viudedad/fallecimiento-pensionista/ | | F2 | programado 13/11 |
 | 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | programado 14/12 |
-| extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | |
-| extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | |
+| extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | programado 23/12 |
+| extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | programado 22/12 |
 | 45 | Grados de incapacidad permanente | /incapacidad/grados-incapacidad/ | | F1 | programado 12/10 (la URL /incapacidad/grados/ no es posible: el slug «grados» es de la plantilla de dependencia) |
 | 46 | Incapacidad permanente total | /incapacidad/incapacidad-total/ | incapacidad-total | F1 | programado 13/10 |
 | 47 | Incapacidad permanente absoluta | /incapacidad/incapacidad-absoluta/ | incapacidad-absoluta | F2 | programado 26/10 |
@@ -67,7 +67,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 58 | Bono social eléctrico para pensionistas | /ayudas/bono-social-electrico/ | bono-social-electrico | F2 | programado 02/11 |
 | 59 | Ayudas para mayores por comunidad autónoma | /ayudas/ayudas-autonomicas/ | ayudas-autonomicas | F3 | |
 | 60 | Descuentos para pensionistas | /ayudas/descuentos-transporte/ | descuentos-transporte | F3 | |
-| 61 | Complemento de alquiler | /ayudas/complemento-alquiler/ | complemento-alquiler | F3 | |
+| 61 | Complemento de alquiler | /ayudas/complemento-alquiler/ | complemento-alquiler | F3 | programado 21/12 |
 | 76 | Adaptar la casa de una persona mayor | /ayudas/ayudas-vivienda/ | ayudas-vivienda | F3 | |
 | extra | Trámites online para mayores | /ayudas/tramites-online/ | tramites-online | | |
 | 62 | Ley de dependencia: guía para familias | /dependencia/ley-dependencia/ | | F1 | programado 14/10 |
