@@ -9,9 +9,9 @@ palabra_clave_principal: enfermedades que dan incapacidad permanente
 intencion: informativa
 fase_plan: F2 (artículo n.º 48)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-16
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-22169

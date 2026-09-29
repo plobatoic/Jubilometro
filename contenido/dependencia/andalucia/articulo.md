@@ -9,9 +9,9 @@ palabra_clave_principal: dependencia Andalucía
 intencion: transaccional
 fase_plan: F2 (artículo n.º 63)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-03
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.juntadeandalucia.es/temas/familias-igualdad/dependencia/solicitud.html
   - https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual

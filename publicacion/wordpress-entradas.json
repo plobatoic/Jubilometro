@@ -5,11 +5,11 @@
   },
   "/ayudas/complemento-alquiler/": {
     "id": 175,
-    "estado": "future"
+    "estado": "publish"
   },
   "/ayudas/ingreso-minimo-vital-mayores/": {
     "id": 173,
-    "estado": "future"
+    "estado": "publish"
   },
   "/ayudas/pension-no-contributiva/": {
     "id": 172,
@@ -81,23 +81,23 @@
   },
   "/dependencia/andalucia/": {
     "id": 445,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/cataluna/": {
     "id": 446,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/comunitat-valenciana/": {
     "id": 447,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/cuidadora-interna-externa/": {
     "id": 440,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/grado-discapacidad/": {
     "id": 437,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/grados/": {
     "id": 180,
@@ -109,7 +109,7 @@
   },
   "/dependencia/madrid/": {
     "id": 448,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/precio-residencias/": {
     "id": 400,
@@ -121,15 +121,15 @@
   },
   "/dependencia/residencias-publicas/": {
     "id": 185,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/tiempos-dependencia/": {
     "id": 441,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/ahorro-jubilacion/": {
     "id": 195,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/declaracion-renta-jubilados/": {
     "id": 189,
@@ -141,7 +141,7 @@
   },
   "/dinero/rescate-aportaciones-10-anos/": {
     "id": 439,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/rescate-plan-pensiones/": {
     "id": 190,
@@ -149,11 +149,11 @@
   },
   "/dinero/seguro-decesos/": {
     "id": 442,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/seguro-salud-mayores/": {
     "id": 444,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/vender-vivienda-65/": {
     "id": 193,
@@ -165,11 +165,11 @@
   },
   "/incapacidad/denegada/": {
     "id": 430,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/enfermedades/": {
     "id": 431,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/grados-incapacidad/": {
     "id": 395,
@@ -177,10 +177,14 @@
   },
   "/incapacidad/gran-incapacidad/": {
     "id": 166,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/incapacidad-absoluta/": {
     "id": 165,
+    "estado": "publish"
+  },
+  "/incapacidad/incapacidad-parcial/": {
+    "id": 167,
     "estado": "publish"
   },
   "/incapacidad/incapacidad-temporal/": {
@@ -191,13 +195,17 @@
     "id": 164,
     "estado": "publish"
   },
+  "/incapacidad/incapacidad-y-jubilacion/": {
+    "id": 168,
+    "estado": "publish"
+  },
   "/incapacidad/solicitar/": {
     "id": 432,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/total-cualificada/": {
     "id": 499,
-    "estado": "future"
+    "estado": "publish"
   },
   "/jubilacion/15-anos-cotizados/": {
     "id": 290,

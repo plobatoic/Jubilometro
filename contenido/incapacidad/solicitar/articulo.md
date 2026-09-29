@@ -9,9 +9,9 @@ palabra_clave_principal: solicitar incapacidad permanente
 intencion: transaccional
 fase_plan: F2 (artículo n.º 49)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-17
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1995-19848
   - https://www.boe.es/buscar/act.php?id=BOE-A-1996-1644

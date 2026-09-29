@@ -9,9 +9,9 @@ palabra_clave_principal: cuidadora interna o externa
 intencion: informativa
 fase_plan: F2 (artículo n.º 73)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-11-30
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2011-17975
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3815

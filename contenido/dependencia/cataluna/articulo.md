@@ -9,9 +9,9 @@ palabra_clave_principal: dependencia Cataluña
 intencion: transaccional
 fase_plan: F2 (artículo n.º 65)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-07
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://tramits.gencat.cat/ca/tramits/tramits-temes/Reconeixement-de-la-situacio-de-dependencia
   - https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual

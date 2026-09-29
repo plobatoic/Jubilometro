@@ -9,9 +9,9 @@ palabra_clave_principal: incapacidad permanente parcial
 intencion: informativa
 fase_plan: F3 (artículo extra de incapacidad)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-24
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
   - https://www.boe.es/buscar/act.php?id=BOE-A-1972-944

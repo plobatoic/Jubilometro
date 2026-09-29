@@ -9,9 +9,9 @@ palabra_clave_principal: gran incapacidad
 intencion: informativa
 fase_plan: F3 (artículo extra de incapacidad)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-17
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
   - https://www.boe.es/buscar/act.php?id=BOE-A-1969-575

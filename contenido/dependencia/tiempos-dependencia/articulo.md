@@ -9,9 +9,9 @@ palabra_clave_principal: cuánto tarda la dependencia
 intencion: informativa
 fase_plan: F2 (artículo n.º 69)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-11-27
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990

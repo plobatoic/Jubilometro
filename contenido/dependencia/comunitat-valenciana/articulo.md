@@ -9,9 +9,9 @@ palabra_clave_principal: dependencia Comunitat Valenciana
 intencion: transaccional
 fase_plan: F2 (artículo n.º 66)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-08
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://serviciossociales.gva.es/es/web/dependencia/reconeixement-inicial-de-la-dependencia
   - https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual

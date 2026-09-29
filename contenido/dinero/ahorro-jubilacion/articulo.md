@@ -9,9 +9,9 @@ palabra_clave_principal: cuánto dinero necesito para jubilarme
 intencion: informativa
 fase_plan: F2 (artículo n.º 87)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-11-24
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.ine.es/jaxiT3/Tabla.htm?t=73787
   - https://www.ine.es/jaxiT3/Tabla.htm?t=1415
@@ -114,7 +114,7 @@ Depende de tu tipo de IRPF ahora y al jubilarte. El plan de pensiones te ahorra 
 
 ### ¿Cuánto tengo que ahorrar al mes?
 
-Divide el capital que necesitas entre los meses que te quedan hasta jubilarte. Para 85.000 euros en 20 años, 354 euros al mes sin rentabilidad, o unos 289 euros con un 2 % real.
+Divide el capital que necesitas entre los meses que te quedan hasta jubilarte. En el ejemplo de Rosa, 85.000 euros en 20 años son 354 euros al mes sin rentabilidad. Si sus ahorros rinden un 2 % real antes y después de jubilarse, le basta con 66.986 euros y unos 228 euros al mes.
 
 ## Fuentes oficiales
 

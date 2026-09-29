@@ -9,9 +9,9 @@ palabra_clave_principal: seguro de salud mayores de 65
 intencion: informativa
 fase_plan: F2 (artículo n.º 86)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-02
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10324

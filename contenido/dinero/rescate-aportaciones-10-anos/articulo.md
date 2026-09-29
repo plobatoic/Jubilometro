@@ -9,9 +9,9 @@ palabra_clave_principal: rescatar plan de pensiones 10 años
 intencion: informativa
 fase_plan: F2 (artículo n.º 81)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-11-25
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252
   - https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453

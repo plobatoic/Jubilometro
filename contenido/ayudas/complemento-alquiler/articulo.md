@@ -9,9 +9,9 @@ palabra_clave_principal: complemento de alquiler pensión no contributiva
 intencion: transaccional
 fase_plan: F3 (artículo n.º 61)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-21
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-10476

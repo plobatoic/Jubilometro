@@ -9,9 +9,9 @@ palabra_clave_principal: incapacidad permanente denegada
 intencion: transaccional
 fase_plan: F2 (artículo n.º 50)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-18
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -71,7 +71,7 @@ Contra la sentencia cabe **recurso de suplicación** ante el Tribunal Superior d
 
 ## Ejemplo
 
-**Javier, 56 años, albañil**, pide la incapacidad permanente por una artrosis de rodilla. El INSS la deniega porque el tribunal médico considera que puede seguir trabajando. Javier presenta en 30 días una **reclamación previa** con un informe nuevo de su traumatólogo que describe que no puede agacharse ni cargar peso, tareas esenciales de su oficio. El INSS no contesta en 45 días, así que Javier presenta la **demanda** en los 30 días siguientes, con la ayuda de un abogado de oficio. En el juicio, un perito explica sus limitaciones. Si el juez le reconoce una **incapacidad total**, cobrará el 55 % de su base reguladora, y como ya tiene más de 55 años, podrá pedir que suba al 75 % mientras no trabaje (incapacidad total cualificada).
+**Javier, 56 años, albañil**, pide la incapacidad permanente por una artrosis de rodilla. El INSS la deniega porque el tribunal médico considera que puede seguir trabajando. Javier presenta en 30 días una **reclamación previa** con un informe nuevo de su traumatólogo que describe que no puede agacharse ni cargar peso, tareas esenciales de su oficio. El INSS no contesta en 45 días, así que Javier presenta la **demanda** en los 30 días siguientes, con la ayuda de un abogado de oficio. En el juicio, un perito explica sus limitaciones. Si el juez le reconoce una **incapacidad total**, cobrará el 55 % de su base reguladora, y como ya tiene más de 55 años, podrá pedir que suba al 75 % mientras no trabaje ([incapacidad total cualificada](/incapacidad/total-cualificada/)).
 
 ## Preguntas frecuentes
 
