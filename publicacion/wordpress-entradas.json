@@ -426,5 +426,9 @@
   "/ayudas/descuentos-transporte/": {
     "id": 177,
     "estado": "publish"
+  },
+  "/ayudas/ayudas-autonomicas/": {
+    "id": 176,
+    "estado": "publish"
   }
 }
