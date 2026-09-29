@@ -9,9 +9,9 @@ palabra_clave_principal: incapacidad temporal 545 días
 intencion: informativa
 fase_plan: F2 (artículo n.º 52)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-03
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
 ---

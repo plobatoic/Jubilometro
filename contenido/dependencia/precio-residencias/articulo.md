@@ -9,9 +9,9 @@ palabra_clave_principal: precio residencia de mayores
 intencion: informativa
 fase_plan: F1 (artículo n.º 72)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-21
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://imserso.es/el-imserso/documentacion/estadisticas/servicios-sociales-dirigidos-a-personas-mayores-en-espana-diciembre-2024
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468

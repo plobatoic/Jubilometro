@@ -9,9 +9,9 @@ palabra_clave_principal: paga extra pensionistas
 intencion: informativa
 fase_plan: F2 (artículo n.º 34)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-22
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
 ---

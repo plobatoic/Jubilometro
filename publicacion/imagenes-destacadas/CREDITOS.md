@@ -44,5 +44,9 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `dependencia-madrid.webp` | /dependencia/madrid/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5917471/image-public-domain-window-free | Edificios del centro de Madrid |
 | `dependencia-cataluna.webp` | /dependencia/cataluna/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5920005/photo-image-public-domain-free-city | La Sagrada Familia de Barcelona |
 | `dependencia-comunitat-valenciana.webp` | /dependencia/comunitat-valenciana/ | StockSnap (Linus Ekenstam) | CC0 1.0 (dominio público) | https://stocksnap.io/photo/architecture-building-CJU65SK8N4 | Ciudad de las Artes y las Ciencias de Valencia |
+| `nuevo-matrimonio.webp` | /viudedad/nuevo-matrimonio/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5903561/photo-image-public-domain-free-couple | Pareja de personas mayores paseando abrazadas por un camino rural |
+| `favor-de-familiares.webp` | /viudedad/favor-de-familiares/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5921519/photo-image-public-domain-shirt-hands | Manos de un hombre mayor apoyadas en un bastón |
+| `mei-cuota-solidaridad.webp` | /cuanto-cobrare/mei-cuota-solidaridad/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6034870/photo-image-background-public-domain-golden | Cartuchos de monedas de 1 y 2 euros |
+| `total-cualificada.webp` | /incapacidad/total-cualificada/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5927996/photo-image-public-domain-tree-wood | Trabajador de la construcción cortando madera con una sierra circular |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

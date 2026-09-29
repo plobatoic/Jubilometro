@@ -9,9 +9,9 @@ palabra_clave_principal: qué hacer cuando fallece un pensionista
 intencion: informativa
 fase_plan: F2 (artículo n.º 43)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-13
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -57,9 +57,9 @@ fuentes_legales:
 ## Las prestaciones para la familia
 
 - **Pensión de viudedad**, para el cónyuge o la pareja de hecho. Repasa los [requisitos](/viudedad/requisitos/) y los [pasos para pedirla](/viudedad/solicitar-viudedad/).
-- **Pensión de orfandad**, para los hijos menores de 21 años (o de 25 si no trabajan o ganan menos del salario mínimo) y los incapacitados para el trabajo ([artículo 224](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224)).
+- **[Pensión de orfandad](/viudedad/pension-orfandad/)**, para los hijos menores de 21 años (o de 25 si no trabajan o ganan menos del salario mínimo) y los incapacitados para el trabajo ([artículo 224](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224)).
 - **Auxilio por defunción**: 46,50 euros para quien haya pagado el entierro ([artículo 218 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218)).
-- **Pensión en favor de familiares**, por ejemplo para los hijos o hermanos de 45 años o más, solteros, divorciados o viudos, que convivían con el pensionista y a su cargo, lo cuidaron durante mucho tiempo y no tienen medios de vida ([artículo 226](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226)).
+- **[Pensión en favor de familiares](/viudedad/favor-de-familiares/)**, por ejemplo para los hijos o hermanos de 45 años o más, solteros, divorciados o viudos, que convivían con el pensionista y a su cargo, lo cuidaron durante mucho tiempo y no tienen medios de vida ([artículo 226](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226)).
 
 Todas se piden en la **misma solicitud** al INSS. El derecho no caduca, pero **solo se cobran tres meses hacia atrás** desde que se pide ([artículo 230](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a230)), salvo el auxilio por defunción, que sí prescribe.
 

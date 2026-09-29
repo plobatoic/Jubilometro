@@ -90,6 +90,10 @@ export const IMAGENES_DESTACADAS = {
   '/dependencia/madrid/': { archivo: 'dependencia-madrid.webp', alt: 'Edificios del centro de Madrid', pie: 'Foto: rawpixel' },
   '/dependencia/cataluna/': { archivo: 'dependencia-cataluna.webp', alt: 'La Sagrada Familia de Barcelona', pie: 'Foto: rawpixel' },
   '/dependencia/comunitat-valenciana/': { archivo: 'dependencia-comunitat-valenciana.webp', alt: 'Ciudad de las Artes y las Ciencias de Valencia', pie: 'Foto: StockSnap' },
+  '/viudedad/nuevo-matrimonio/': { archivo: 'nuevo-matrimonio.webp', alt: 'Pareja de personas mayores paseando abrazadas por un camino rural', pie: 'Foto: rawpixel' },
+  '/viudedad/favor-de-familiares/': { archivo: 'favor-de-familiares.webp', alt: 'Manos de un hombre mayor apoyadas en un bastón', pie: 'Foto: rawpixel' },
+  '/cuanto-cobrare/mei-cuota-solidaridad/': { archivo: 'mei-cuota-solidaridad.webp', alt: 'Cartuchos de monedas de 1 y 2 euros', pie: 'Foto: rawpixel' },
+  '/incapacidad/total-cualificada/': { archivo: 'total-cualificada.webp', alt: 'Trabajador de la construcción cortando madera con una sierra circular', pie: 'Foto: rawpixel' },
 };
 
 // Archivos propios que los artículos enlazan y hay que subir a la biblioteca de medios.

@@ -21,40 +21,40 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | # | Artículo | URL | Plantilla | Fase | Estado |
 |---|---|---|---|---|---|
 | 22 | Cómo se calcula la pensión de jubilación: el sistema dual | /cuanto-cobrare/como-se-calcula-la-pension/ | sistema-dual | F1 | publicado 29/09 |
-| 23 | Base reguladora de jubilación | /cuanto-cobrare/base-reguladora/ | base-reguladora | F2 | programado 27/10 |
-| 24 | Porcentaje de pensión según años cotizados | /cuanto-cobrare/porcentaje-anos-cotizados/ | porcentaje-anos-cotizados | F1 | programado 05/10 |
-| 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | programado 10/11 |
+| 23 | Base reguladora de jubilación | /cuanto-cobrare/base-reguladora/ | base-reguladora | F2 | publicado 29/09 |
+| 24 | Porcentaje de pensión según años cotizados | /cuanto-cobrare/porcentaje-anos-cotizados/ | porcentaje-anos-cotizados | F1 | publicado 29/09 |
+| 25 | Lagunas de cotización | /cuanto-cobrare/lagunas-de-cotizacion/ | | F2 | publicado 29/09 |
 | 26 | Pensión máxima de jubilación 2026 | /cuanto-cobrare/pension-maxima/ | pension-maxima-minima | F1 | publicado 29/09 |
 | 27 | Pensión mínima de jubilación 2026 | /cuanto-cobrare/pension-minima/ | | F1 | publicado 29/09 |
-| 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | programado 23/10 |
-| 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | programado 28/10 |
-| 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | programado 11/11 |
-| 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | programado 30/10 |
-| 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | programado 12/11 |
-| 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | programado 06/10 (actualizar con cada IPC) |
-| 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | programado 22/10 |
-| 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | programado 07/10 |
-| 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | programado 15/12 |
+| 28 | Complemento a mínimos | /cuanto-cobrare/complemento-a-minimos/ | complemento-a-minimos | F2 | publicado 29/09 |
+| 29 | Complemento de brecha de género | /cuanto-cobrare/complemento-brecha-genero/ | complemento-brecha-genero | F2 | publicado 29/09 |
+| 30 | Cuánto cobraré si gano 1.500, 2.000 o 3.000 € | /cuanto-cobrare/pension-segun-sueldo/ | | F2 | publicado 29/09 |
+| 31 | Pensión bruta y neta: IRPF | /cuanto-cobrare/pension-bruta-y-neta/ | | F2 | publicado 29/09 |
+| 32 | Informe de vida laboral: errores que rebajan la pensión | /cuanto-cobrare/informe-vida-laboral/ | | F2 | publicado 29/09 |
+| 33 | Revalorización de las pensiones en 2027 | /cuanto-cobrare/revalorizacion-pensiones/ | revalorizacion-pensiones | F1 | publicado 29/09 |
+| 34 | Pagas extra de los pensionistas | /cuanto-cobrare/pagas-extra/ | | F2 | publicado 29/09 |
+| 35 | Calendario de pago de las pensiones | /cuanto-cobrare/calendario-pago-pensiones/ | calendario-pago-pensiones | F1 | publicado 29/09 |
+| 36 | El MEI y la cuota de solidaridad | /cuanto-cobrare/mei-cuota-solidaridad/ | | F3 | publicado 29/09 |
 | 37a | Pensión de viudedad: requisitos | /viudedad/requisitos/ | requisitos | F1 | publicado 29/09 |
 | 37b | Pensión de viudedad: cuantía (52, 60 y 70 %) | /viudedad/cuantia/ | cuantia | F1 | publicado 29/09 |
-| 37c | Cómo solicitar la pensión de viudedad | /viudedad/solicitar-viudedad/ | solicitar-viudedad | F2 | programado 04/11 |
-| 38 | Viudedad en parejas de hecho | /viudedad/pareja-de-hecho/ | pareja-de-hecho | F2 | programado 05/11 |
-| 39 | Viudedad y jubilación a la vez | /viudedad/viudedad-y-jubilacion/ | | F2 | programado 29/10 |
-| 40 | Viudedad si vuelves a casarte | /viudedad/nuevo-matrimonio/ | | F3 | programado 11/12 |
-| 41 | Viudedad tras divorcio o separación | /viudedad/divorcio-separacion/ | divorcio-separacion | F3 | programado 10/12 |
-| 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | programado 09/12 |
-| 43 | Qué hacer cuando fallece un pensionista | /viudedad/fallecimiento-pensionista/ | | F2 | programado 13/11 |
-| 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | programado 14/12 |
-| extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | programado 23/12 |
-| extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | programado 22/12 |
+| 37c | Cómo solicitar la pensión de viudedad | /viudedad/solicitar-viudedad/ | solicitar-viudedad | F2 | publicado 29/09 |
+| 38 | Viudedad en parejas de hecho | /viudedad/pareja-de-hecho/ | pareja-de-hecho | F2 | publicado 29/09 |
+| 39 | Viudedad y jubilación a la vez | /viudedad/viudedad-y-jubilacion/ | | F2 | publicado 29/09 |
+| 40 | Viudedad si vuelves a casarte | /viudedad/nuevo-matrimonio/ | | F3 | publicado 29/09 |
+| 41 | Viudedad tras divorcio o separación | /viudedad/divorcio-separacion/ | divorcio-separacion | F3 | publicado 29/09 |
+| 42 | Pensión de orfandad | /viudedad/pension-orfandad/ | pension-orfandad | F3 | publicado 29/09 |
+| 43 | Qué hacer cuando fallece un pensionista | /viudedad/fallecimiento-pensionista/ | | F2 | publicado 29/09 |
+| 44 | Pensión en favor de familiares | /viudedad/favor-de-familiares/ | | F3 | publicado 29/09 |
+| extra | Viudedad y trabajo | /viudedad/compatibilidad-trabajo/ | compatibilidad-trabajo | | publicado 29/09 |
+| extra | Prestación temporal de viudedad | /viudedad/prestacion-temporal/ | prestacion-temporal | | publicado 29/09 |
 | 45 | Grados de incapacidad permanente | /incapacidad/grados-incapacidad/ | | F1 | publicado 29/09 |
 | 46 | Incapacidad permanente total | /incapacidad/incapacidad-total/ | incapacidad-total | F1 | publicado 29/09 |
-| 47 | Incapacidad permanente absoluta | /incapacidad/incapacidad-absoluta/ | incapacidad-absoluta | F2 | programado 26/10 |
+| 47 | Incapacidad permanente absoluta | /incapacidad/incapacidad-absoluta/ | incapacidad-absoluta | F2 | publicado 29/09 |
 | 48 | Enfermedades y tribunal médico | /incapacidad/enfermedades/ | | F2 | programado 16/11 |
 | 49 | Cómo solicitar la incapacidad permanente | /incapacidad/solicitar/ | | F2 | programado 17/11 |
 | 50 | Incapacidad denegada: reclamación y demanda | /incapacidad/denegada/ | | F2 | programado 18/11 |
 | 51 | Incapacidad total cualificada | /incapacidad/total-cualificada/ | | F3 | programado 18/12 |
-| 52 | Incapacidad temporal: qué pasa a los 545 días | /incapacidad/incapacidad-temporal/ | incapacidad-temporal | F2 | programado 03/11 |
+| 52 | Incapacidad temporal: qué pasa a los 545 días | /incapacidad/incapacidad-temporal/ | incapacidad-temporal | F2 | publicado 29/09 |
 | 53 | Incapacidad permanente y jubilación | /incapacidad/incapacidad-y-jubilacion/ | incapacidad-y-jubilacion | F3 | programado 28/12 |
 | 54 | Abogado de incapacidad permanente | /incapacidad/abogado/ | | F3 | |
 | extra | Gran incapacidad | /incapacidad/gran-incapacidad/ | gran-incapacidad | | programado 17/12 |
@@ -62,7 +62,7 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Revisión del grado | /incapacidad/revision-grado/ | revision-grado | | |
 | extra | Incapacidad permanente y trabajo | /incapacidad/incapacidad-y-trabajo/ | incapacidad-y-trabajo | | |
 | 55 | Pensión no contributiva de jubilación | /ayudas/pension-no-contributiva/ | pension-no-contributiva | F1 | publicado 29/09 |
-| 56 | Pensión no contributiva de invalidez | /ayudas/pnc-invalidez/ | | F2 | programado 06/11 |
+| 56 | Pensión no contributiva de invalidez | /ayudas/pnc-invalidez/ | | F2 | publicado 29/09 |
 | 57 | Ingreso Mínimo Vital para mayores de 65 | /ayudas/ingreso-minimo-vital-mayores/ | ingreso-minimo-vital-mayores | F3 | programado 16/12 |
 | 58 | Bono social eléctrico para pensionistas | /ayudas/bono-social-electrico/ | bono-social-electrico | F2 | publicado 29/09 |
 | 59 | Ayudas para mayores por comunidad autónoma | /ayudas/ayudas-autonomicas/ | ayudas-autonomicas | F3 | |
@@ -76,11 +76,11 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 65 | Dependencia en Cataluña | /dependencia/cataluna/ | | F2 | programado 07/12 |
 | 66 | Dependencia en la Comunitat Valenciana | /dependencia/comunitat-valenciana/ | | F2 | programado 08/12 |
 | 67 | Grados de dependencia y baremo | /dependencia/grados/ | grados | F1 | publicado 29/09 |
-| 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | programado 09/11 |
+| 68 | Prestación por cuidados en el entorno familiar | /dependencia/prestacion-cuidados-familiares/ | prestacion-cuidados-familiares | F2 | publicado 29/09 |
 | 69 | Cuánto tarda la dependencia por comunidad | /dependencia/tiempos-dependencia/ | | F2 | programado 27/11 |
 | 70 | Reclamar la dependencia por silencio | /dependencia/reclamar-dependencia/ | | F3 | |
 | 71 | Residencia pública o privada | /dependencia/residencias-publicas/ | residencias-publicas | F2 | programado 19/11 |
-| 72 | Precio de las residencias por comunidad (no hay datos oficiales por provincia) | /dependencia/precio-residencias/ | | F1 | programado 21/10 |
+| 72 | Precio de las residencias por comunidad (no hay datos oficiales por provincia) | /dependencia/precio-residencias/ | | F1 | publicado 29/09 |
 | 73 | Cuidadora interna o externa | /dependencia/cuidadora-interna-externa/ | | F2 | programado 30/11 |
 | 74 | Teleasistencia | /dependencia/teleasistencia/ | teleasistencia | F3 | |
 | 75 | Centro de día | /dependencia/centro-de-dia/ | centro-de-dia | F3 | |
@@ -92,8 +92,8 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | 79 | Retención de IRPF en la pensión (modelo 145) | /dinero/irpf-pensiones/ | irpf-pensiones | F3 | |
 | 80 | Rescatar el plan de pensiones al jubilarte | /dinero/rescate-plan-pensiones/ | rescate-plan-pensiones | F1 | publicado 29/09 |
 | 81 | Rescate de aportaciones de más de 10 años | /dinero/rescate-aportaciones-10-anos/ | | F2 | programado 25/11 |
-| 82 | Hipoteca inversa, nuda propiedad o renta vitalicia | /dinero/hipoteca-inversa/ | hipoteca-inversa | F2 | programado 20/11 |
-| 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | programado 23/11 |
+| 82 | Hipoteca inversa, nuda propiedad o renta vitalicia | /dinero/hipoteca-inversa/ | hipoteca-inversa | F2 | publicado 29/09 |
+| 83 | Vender la vivienda habitual con más de 65 años | /dinero/vender-vivienda-65/ | vender-vivienda-65 | F2 | publicado 29/09 |
 | 84 | Renta vitalicia asegurada: exención para mayores de 65 | /dinero/renta-vitalicia/ | renta-vitalicia | F3 | |
 | 85 | Seguro de decesos a partir de los 60 | /dinero/seguro-decesos/ | | F2 | programado 01/12 |
 | 86 | Seguros de salud para mayores de 65 | /dinero/seguro-salud-mayores/ | | F2 | programado 02/12 |

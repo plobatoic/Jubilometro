@@ -9,9 +9,9 @@ palabra_clave_principal: pensión de viudedad pareja de hecho
 intencion: informativa
 fase_plan: F2 (artículo n.º 38)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-05
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
 ---
@@ -61,7 +61,7 @@ Si la pareja de hecho se **extinguió** antes del fallecimiento, el supervivient
 
 **Lucía y Andrés vivían juntos desde 2016 y se inscribieron como pareja de hecho en 2021.** Andrés fallece en 2026 tras 30 años cotizados. Llevaban más de cinco años empadronados juntos y más de dos inscritos: **Lucía tiene derecho a la pensión de viudedad** vitalicia.
 
-**Sergio y Marta tenían un hijo en común y se inscribieron en 2023.** Marta fallece en 2026. Como tienen un hijo, no se exige la convivencia de cinco años; la inscripción tenía más de dos años: **Sergio cobra la viudedad**, y el hijo, la orfandad.
+**Sergio y Marta tenían un hijo en común y se inscribieron en marzo de 2023.** Marta fallece en 2026. Como tienen un hijo, no se exige la convivencia de cinco años; la inscripción tenía más de dos años: **Sergio cobra la viudedad**, y el hijo, la orfandad.
 
 **Elena y Tomás llevaban diez años viviendo juntos, pero se inscribieron en 2025.** Tomás fallece en 2026, con menos de dos años de inscripción. Elena no tiene derecho a la pensión vitalicia, pero sí a la **prestación temporal durante dos años**.
 

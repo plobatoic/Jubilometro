@@ -767,7 +767,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[PNC de invalidez 2026: cuantía, requisitos y trabajo]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La pensión no contributiva de invalidez es de 628,80 € al mes en 2026, de 18 a 64 años con discapacidad del 65 % y pocos ingresos. Requisitos y trabajo.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión no contributiva de invalidez]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado]]></title>
@@ -1313,7 +1313,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Base reguladora de la jubilación: qué es y cómo se calcula]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La base reguladora es la media de tus bases de cotización de los últimos 25 a 29 años, con IPC y lagunas. Qué cuenta, qué no y cómo consultar tus bases.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[base reguladora jubilación]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Calendario de pago de las pensiones: qué día se cobra cada mes, las pagas extra y el primer pago]]></title>
@@ -1332,9 +1332,9 @@
 <p>La fecha la fija el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-9030#a24" rel="noopener">artículo 24 del Reglamento general de la gestión financiera de la Seguridad Social</a>: cada pago mensual de la pensión tiene que estar en tu cuenta <strong>el primer día hábil del mes en que se paga y, como máximo, el cuarto día natural</strong> de ese mes.</p>
 <p>Como las pensiones se cobran <strong>por mensualidades vencidas</strong> (igual que una nómina), la pensión de octubre se paga a primeros de noviembre, la de noviembre a primeros de diciembre, y así todos los meses.</p>
 <p><strong>Por qué la cobras antes.</strong> Muchos bancos adelantan el ingreso a sus clientes pensionistas sin esperar a esa fecha. Según la <a href="https://revista.seg-social.es/-/20220610-cobro-pensiones" rel="noopener">propia Seguridad Social</a>, lo más habitual es recibir la pensión <strong>entre el 22 y el 26 de cada mes</strong>. El día exacto lo decide cada banco: si quieres saberlo, pregúntale al tuyo.</p>
-<h2 id="calendario-de-pago-de-octubre-de-2026-a-diciembre-de-2027">Calendario de pago de octubre de 2026 a diciembre de 2027</h2>
+<h2 id="calendario-de-pago-de-septiembre-de-2026-a-diciembre-de-2027">Calendario de pago de septiembre de 2026 a diciembre de 2027</h2>
 <div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
-<table><caption id="tabla-1">Cuándo llega cada pensión mensual (octubre de 2026 a diciembre de 2027)</caption>
+<table><caption id="tabla-1">Cuándo llega cada pensión mensual (septiembre de 2026 a diciembre de 2027)</caption>
 <thead>
 <tr>
 <th scope="col">Pensión de</th>
@@ -1344,6 +1344,12 @@
 </tr>
 </thead>
 <tbody><tr>
+<th scope="row">Septiembre de 2026</th>
+<td>No</td>
+<td>22 a 26 de septiembre</td>
+<td>Primer día hábil de octubre (como tarde, el 4)</td>
+</tr>
+<tr>
 <th scope="row">Octubre de 2026</th>
 <td>No</td>
 <td>22 a 26 de octubre</td>
@@ -1507,7 +1513,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Calendario de pago de pensiones 2026-2027: qué día se cobra]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La Seguridad Social paga la pensión entre el día 1 y el 4 del mes siguiente, pero los bancos suelen adelantarla al 22-26. Calendario 2026-2027 y pagas extra.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[calendario pago pensiones]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Cómo se calcula la pensión de jubilación en 2026: el nuevo sistema dual de base reguladora]]></title>
@@ -1899,7 +1905,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Complemento a mínimos 2026: requisitos, límites y cómo pedirlo]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[complemento a mínimos]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Complemento de brecha de género en 2026: 36,90 euros por hijo, quién lo cobra y cómo se pide]]></title>
@@ -2036,7 +2042,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Complemento de brecha de género 2026: 36,90 € por hijo]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El complemento de brecha de género suma 36,90 € al mes por hijo (hasta 4) a la jubilación, incapacidad o viudedad. Quién lo cobra, también padres, y ejemplos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[complemento brecha de género]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Informe de vida laboral: cómo pedirlo, cómo leerlo y cómo corregir los errores que rebajan tu pensión]]></title>
@@ -2172,7 +2178,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Informe de vida laboral: errores que rebajan tu pensión]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Un periodo que falta en tu vida laboral puede costarte más de 100 € al mes de pensión. Cómo pedir el informe, qué revisar y cómo pedir que lo corrijan.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[informe de vida laboral]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Lagunas de cotización: cómo se rellenan los meses sin cotizar al calcular la pensión de jubilación]]></title>
@@ -2311,7 +2317,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Lagunas de cotización: cómo se rellenan para la pensión]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Los meses sin cotizar se rellenan: los 48 primeros con la base mínima y el resto al 50 %. Las mujeres tienen 12 meses más al 100 % y 24 al 80 %. Ejemplos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[lagunas de cotización]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[El MEI y la cuota de solidaridad en 2026: qué son, cuánto te descuentan en la nómina y si dan más pensión]]></title>
@@ -2569,7 +2575,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[MEI y cuota de solidaridad 2026: qué son y cuánto pagas]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El MEI es una cotización del 0,90 % en 2026 (0,15 % a tu cargo) que no da más pensión. La de solidaridad grava el sueldo que pasa de 5.101,20 € al mes.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[MEI cotización]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Pagas extra de los pensionistas: cuándo se cobran en junio y noviembre, cuánto son y cómo se calculan]]></title>
@@ -2704,7 +2710,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Paga extra de los pensionistas: cuándo se cobra y cuánto es]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[paga extra pensionistas]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Pensión bruta y neta en 2026: cuánto IRPF te retienen y cuánto cobras limpio]]></title>
@@ -2890,7 +2896,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensión bruta y neta 2026: cuánto te retienen de IRPF]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Una pensión de menos de 16.476 € al año no tiene retención de IRPF. Tabla de retenciones de 2026 para pensiones de 1.100 a 3.000 € al mes y cómo se calculan.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión neta IRPF]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Pensión máxima de jubilación en 2026: cuánto es, quién la cobra y qué pasa si tu pensión la supera]]></title>
@@ -3366,7 +3372,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cuánto cobraré de pensión si gano 1.500, 2.000 o 3.000 €]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con carrera completa y un sueldo estable, tu pensión bruta anual es tu sueldo bruto anual. Tablas de 2026 por sueldo y años cotizados, en bruto y en neto.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cuánto cobraré de pensión según mi sueldo]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Porcentaje de la pensión según los años cotizados: tabla año a año para 2026 y 2027]]></title>
@@ -3617,7 +3623,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Porcentaje de pensión según años cotizados: tabla 2026-2027]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[porcentaje pensión años cotizados]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra]]></title>
@@ -3884,7 +3890,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Subida de las pensiones en 2027: cuánto suben y cuándo]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[subida pensiones 2027]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Dependencia en Andalucía: cómo se pide, cuánto tarda y qué ayudas se dan en 2026]]></title>
@@ -5528,7 +5534,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Precio de las residencias de mayores por comunidad en 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[precio residencia de mayores]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Prestación por cuidados en el entorno familiar en 2026: cuánto se cobra, requisitos del cuidador y cotización gratis]]></title>
@@ -5650,7 +5656,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Prestación por cuidados familiares 2026: cuantía y cuidador]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Si te cuida un familiar, la dependencia te da hasta 455,40 € al mes (grado III), 315,90 € (II) o 180 € (I). Requisitos del cuidador y su cotización pagada.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[prestación cuidados entorno familiar]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Residencia de mayores pública, concertada o privada: diferencias, cuánto pagas en cada una y cómo conseguir plaza]]></title>
@@ -6554,7 +6560,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Hipoteca inversa, nuda propiedad o renta vitalicia en 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Tres formas de obtener dinero de tu vivienda después de los 65 y seguir viviendo en ella. Cómo funcionan, qué pasa con los herederos y cómo tributa cada una.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[hipoteca inversa]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Rescate de las aportaciones con más de 10 años del plan de pensiones: qué puedes sacar, cómo se pide y cuánto tributa]]></title>
@@ -7263,7 +7269,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Vender la vivienda con más de 65 años: impuestos en 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[vender vivienda habitual mayores de 65 años]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza]]></title>
@@ -8427,7 +8433,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad permanente absoluta 2026: cuánto se cobra]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[incapacidad permanente absoluta]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Incapacidad permanente parcial: qué es, cuánto se cobra (24 mensualidades) y qué pasa con tu puesto de trabajo]]></title>
@@ -8707,7 +8713,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad temporal: qué pasa a los 365 y a los 545 días]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[incapacidad temporal 545 días]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Incapacidad permanente total en 2026: cuánto se cobra, requisitos, cómo trabajar con ella y la total cualificada]]></title>
@@ -13019,7 +13025,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[¿Se puede trabajar cobrando la viudedad? Qué cambia en 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La viudedad es compatible con cualquier sueldo, pero trabajar puede quitarte el complemento a mínimos, el 60 % o el 70 %. Paro, IRPF y ejemplos de 2026.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[viudedad compatible con trabajo]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Cuánto se cobra de pensión de viudedad en 2026: el 52, el 60 o el 70 % de la base reguladora, con ejemplos]]></title>
@@ -13304,7 +13310,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Viudedad si estabas divorciado o separado: requisitos 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Si estabas divorciado o separado, cobras viudedad si tenías pensión compensatoria, con ese tope. Violencia de género, divorcios anteriores a 2008 y reparto.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión de viudedad divorciados]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Qué hacer cuando fallece un pensionista: la pensión del último mes, la viudedad, el banco y la herencia, paso a paso]]></title>
@@ -13383,9 +13389,9 @@
 <h2 id="las-prestaciones-para-la-familia">Las prestaciones para la familia</h2>
 <ul>
 <li><strong>Pensión de viudedad</strong>, para el cónyuge o la pareja de hecho. Repasa los <a href="/viudedad/requisitos/">requisitos</a> y los <a href="/viudedad/solicitar-viudedad/">pasos para pedirla</a>.</li>
-<li><strong>Pensión de orfandad</strong>, para los hijos menores de 21 años (o de 25 si no trabajan o ganan menos del salario mínimo) y los incapacitados para el trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224" rel="noopener">artículo 224</a>).</li>
+<li><strong><a href="/viudedad/pension-orfandad/">Pensión de orfandad</a></strong>, para los hijos menores de 21 años (o de 25 si no trabajan o ganan menos del salario mínimo) y los incapacitados para el trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224" rel="noopener">artículo 224</a>).</li>
 <li><strong>Auxilio por defunción</strong>: 46,50 euros para quien haya pagado el entierro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>).</li>
-<li><strong>Pensión en favor de familiares</strong>, por ejemplo para los hijos o hermanos de 45 años o más, solteros, divorciados o viudos, que convivían con el pensionista y a su cargo, lo cuidaron durante mucho tiempo y no tienen medios de vida (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226" rel="noopener">artículo 226</a>).</li>
+<li><strong><a href="/viudedad/favor-de-familiares/">Pensión en favor de familiares</a></strong>, por ejemplo para los hijos o hermanos de 45 años o más, solteros, divorciados o viudos, que convivían con el pensionista y a su cargo, lo cuidaron durante mucho tiempo y no tienen medios de vida (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226" rel="noopener">artículo 226</a>).</li>
 </ul>
 <p>Todas se piden en la <strong>misma solicitud</strong> al INSS. El derecho no caduca, pero <strong>solo se cobran tres meses hacia atrás</strong> desde que se pide (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a230" rel="noopener">artículo 230</a>), salvo el auxilio por defunción, que sí prescribe.</p>
 <h2 id="la-herencia">La herencia</h2>
@@ -13449,7 +13455,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Qué hacer cuando fallece un pensionista: trámites y plazos]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[qué hacer cuando fallece un pensionista]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Pensión en favor de familiares en 2026: qué hijos, hermanos, nietos, padres o abuelos la cobran y cuánto es]]></title>
@@ -13598,7 +13604,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensión en favor de familiares 2026: requisitos y cuantía]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Hijos, hermanos, nietos, padres o abuelos que vivían a cargo del fallecido pueden cobrar el 20 % de su base reguladora. Requisitos y mínimas de 2026.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión en favor de familiares]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[¿Se pierde la pensión de viudedad si te vuelves a casar o tienes nueva pareja? Cuándo la conservas en 2026]]></title>
@@ -13704,7 +13710,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[¿Se pierde la viudedad si te vuelves a casar? Requisitos 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La viudedad se pierde al casarte o formar pareja de hecho, salvo con más de 61 años, si es tu principal ingreso y el matrimonio no pasa de 34.188 € al año.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión de viudedad nuevo matrimonio]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Pensión de viudedad en parejas de hecho: requisitos de inscripción y convivencia, cuánto se cobra y qué pasa si no se cumplen]]></title>
@@ -13762,7 +13768,7 @@
 </ul>
 <h2 id="ejemplos">Ejemplos</h2>
 <p><strong>Lucía y Andrés vivían juntos desde 2016 y se inscribieron como pareja de hecho en 2021.</strong> Andrés fallece en 2026 tras 30 años cotizados. Llevaban más de cinco años empadronados juntos y más de dos inscritos: <strong>Lucía tiene derecho a la pensión de viudedad</strong> vitalicia.</p>
-<p><strong>Sergio y Marta tenían un hijo en común y se inscribieron en 2023.</strong> Marta fallece en 2026. Como tienen un hijo, no se exige la convivencia de cinco años; la inscripción tenía más de dos años: <strong>Sergio cobra la viudedad</strong>, y el hijo, la orfandad.</p>
+<p><strong>Sergio y Marta tenían un hijo en común y se inscribieron en marzo de 2023.</strong> Marta fallece en 2026. Como tienen un hijo, no se exige la convivencia de cinco años; la inscripción tenía más de dos años: <strong>Sergio cobra la viudedad</strong>, y el hijo, la orfandad.</p>
 <p><strong>Elena y Tomás llevaban diez años viviendo juntos, pero se inscribieron en 2025.</strong> Tomás fallece en 2026, con menos de dos años de inscripción. Elena no tiene derecho a la pensión vitalicia, pero sí a la <strong>prestación temporal durante dos años</strong>.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="las-parejas-de-hecho-cobran-pension-de-viudedad">¿Las parejas de hecho cobran pensión de viudedad?</h3>
@@ -13813,7 +13819,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensión de viudedad para parejas de hecho: requisitos 2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años (con hijos comunes basta la inscripción). Sin límite de ingresos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión de viudedad pareja de hecho]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Pensión de orfandad en 2026: quién la cobra, cuánto es, hasta qué edad y qué pasa si faltan los dos padres]]></title>
@@ -13930,7 +13936,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensión de orfandad 2026: requisitos, cuantía y hasta qué edad]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La pensión de orfandad es el 20 % de la base reguladora por hijo, con un mínimo de 286,50 € al mes en 2026. Edad límite, orfandad absoluta y límites.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión de orfandad]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Prestación temporal de viudedad: qué pasa si llevabais menos de un año casados o de dos inscritos como pareja de hecho]]></title>
@@ -14044,7 +14050,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Prestación temporal de viudedad 2026: requisitos y duración]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Si no llegabais a un año de matrimonio o a dos de pareja de hecho inscrita, cobras lo mismo que la viudedad durante dos años. Cuándo se aplica y ejemplos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[prestación temporal de viudedad]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Requisitos de la pensión de viudedad en 2026: quién puede cobrarla y qué tiene que haber cotizado el fallecido]]></title>
@@ -14338,7 +14344,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cómo solicitar la pensión de viudedad: pasos y documentos]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[solicitar pensión de viudedad]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
     <title><![CDATA[Pensión de viudedad y de jubilación a la vez: se pueden cobrar las dos, con qué límite y qué cambia al jubilarte]]></title>
@@ -14455,7 +14461,7 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Viudedad y jubilación a la vez: límites y cuánto se cobra]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[viudedad y jubilación compatible]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicación programada]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
 </channel>
 </rss>

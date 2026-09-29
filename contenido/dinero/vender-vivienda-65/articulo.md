@@ -9,9 +9,9 @@ palabra_clave_principal: vender vivienda habitual mayores de 65 años
 intencion: informativa
 fase_plan: F2 (artículo n.º 83)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-23
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764
   - https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214

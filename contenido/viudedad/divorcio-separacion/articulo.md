@@ -9,9 +9,9 @@ palabra_clave_principal: pensión de viudedad divorciados
 intencion: informativa
 fase_plan: F3 (artículo n.º 41)
 fecha_actualizacion: 2026-09-29
-publicacion: 2026-12-10
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
 ---

@@ -9,9 +9,9 @@ palabra_clave_principal: solicitar pensión de viudedad
 intencion: transaccional
 fase_plan: F2 (artículo n.º 37c)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-04
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
   - https://www.boe.es/buscar/act.php?id=BOE-A-2003-7073

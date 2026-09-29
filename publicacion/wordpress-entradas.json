@@ -17,15 +17,15 @@
   },
   "/ayudas/pnc-invalidez/": {
     "id": 420,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/base-reguladora/": {
     "id": 148,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/calendario-pago-pensiones/": {
     "id": 155,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/como-se-calcula-la-pension/": {
     "id": 149,
@@ -33,31 +33,31 @@
   },
   "/cuanto-cobrare/complemento-a-minimos/": {
     "id": 152,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/complemento-brecha-genero/": {
     "id": 153,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/informe-vida-laboral/": {
     "id": 427,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/lagunas-de-cotizacion/": {
     "id": 425,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/mei-cuota-solidaridad/": {
     "id": 495,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/pagas-extra/": {
     "id": 412,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/pension-bruta-y-neta/": {
     "id": 419,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/pension-maxima/": {
     "id": 151,
@@ -69,15 +69,15 @@
   },
   "/cuanto-cobrare/pension-segun-sueldo/": {
     "id": 428,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/porcentaje-anos-cotizados/": {
     "id": 150,
-    "estado": "future"
+    "estado": "publish"
   },
   "/cuanto-cobrare/revalorizacion-pensiones/": {
     "id": 154,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/andalucia/": {
     "id": 445,
@@ -113,11 +113,11 @@
   },
   "/dependencia/precio-residencias/": {
     "id": 400,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/prestacion-cuidados-familiares/": {
     "id": 182,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dependencia/residencias-publicas/": {
     "id": 185,
@@ -137,7 +137,7 @@
   },
   "/dinero/hipoteca-inversa/": {
     "id": 192,
-    "estado": "future"
+    "estado": "publish"
   },
   "/dinero/rescate-aportaciones-10-anos/": {
     "id": 439,
@@ -157,7 +157,7 @@
   },
   "/dinero/vender-vivienda-65/": {
     "id": 193,
-    "estado": "future"
+    "estado": "publish"
   },
   "/imserso/viajes-imserso/": {
     "id": 196,
@@ -181,11 +181,11 @@
   },
   "/incapacidad/incapacidad-absoluta/": {
     "id": 165,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/incapacidad-temporal/": {
     "id": 171,
-    "estado": "future"
+    "estado": "publish"
   },
   "/incapacidad/incapacidad-total/": {
     "id": 164,
@@ -285,7 +285,7 @@
   },
   "/viudedad/compatibilidad-trabajo/": {
     "id": 160,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/cuantia/": {
     "id": 157,
@@ -293,31 +293,31 @@
   },
   "/viudedad/divorcio-separacion/": {
     "id": 159,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/fallecimiento-pensionista/": {
     "id": 429,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/favor-de-familiares/": {
     "id": 496,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/nuevo-matrimonio/": {
     "id": 493,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/pareja-de-hecho/": {
     "id": 158,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/pension-orfandad/": {
     "id": 161,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/prestacion-temporal/": {
     "id": 162,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/requisitos/": {
     "id": 156,
@@ -325,10 +325,10 @@
   },
   "/viudedad/solicitar-viudedad/": {
     "id": 163,
-    "estado": "future"
+    "estado": "publish"
   },
   "/viudedad/viudedad-y-jubilacion/": {
     "id": 417,
-    "estado": "future"
+    "estado": "publish"
   }
 }

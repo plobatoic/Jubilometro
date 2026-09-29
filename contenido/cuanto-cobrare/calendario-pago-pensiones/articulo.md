@@ -9,9 +9,9 @@ palabra_clave_principal: calendario pago pensiones
 intencion: informativa
 fase_plan: F1 (artículo n.º 35)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-07
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2018-9030
   - https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581
@@ -35,11 +35,12 @@ Como las pensiones se cobran **por mensualidades vencidas** (igual que una nómi
 
 **Por qué la cobras antes.** Muchos bancos adelantan el ingreso a sus clientes pensionistas sin esperar a esa fecha. Según la [propia Seguridad Social](https://revista.seg-social.es/-/20220610-cobro-pensiones), lo más habitual es recibir la pensión **entre el 22 y el 26 de cada mes**. El día exacto lo decide cada banco: si quieres saberlo, pregúntale al tuyo.
 
-## Calendario de pago de octubre de 2026 a diciembre de 2027
+## Calendario de pago de septiembre de 2026 a diciembre de 2027
 
-<!-- tabla: Cuándo llega cada pensión mensual (octubre de 2026 a diciembre de 2027) -->
+<!-- tabla: Cuándo llega cada pensión mensual (septiembre de 2026 a diciembre de 2027) -->
 | Pensión de | Paga extra | Lo habitual, si tu banco adelanta | Fecha límite legal |
 |---|---|---|---|
+| Septiembre de 2026 | No | 22 a 26 de septiembre | Primer día hábil de octubre (como tarde, el 4) |
 | Octubre de 2026 | No | 22 a 26 de octubre | Primer día hábil de noviembre (como tarde, el 4) |
 | Noviembre de 2026 | **Sí** | 22 a 26 de noviembre | Primer día hábil de diciembre (como tarde, el 4) |
 | Diciembre de 2026 | No | 22 a 26 de diciembre | Primer día hábil de enero (como tarde, el 4) |

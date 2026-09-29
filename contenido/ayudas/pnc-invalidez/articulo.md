@@ -9,9 +9,9 @@ palabra_clave_principal: pensión no contributiva de invalidez
 intencion: informativa
 fase_plan: F2 (artículo n.º 56)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-11-06
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
   - https://www.boe.es/buscar/act.php?id=BOE-A-1991-7270

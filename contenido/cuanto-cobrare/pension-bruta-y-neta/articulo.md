@@ -9,9 +9,9 @@ palabra_clave_principal: pensión neta IRPF
 intencion: informativa
 fase_plan: F2 (artículo n.º 31)
 fecha_actualizacion: 2026-09-28
-publicacion: 2026-10-30
+publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764
