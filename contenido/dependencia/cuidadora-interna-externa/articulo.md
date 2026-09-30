@@ -61,7 +61,7 @@ Cómo se calcula la Seguridad Social de la familia ([Orden PJC/297/2026](https:/
 - **Contingencias comunes**: 23,60 % de la base, con una **reducción del 20 %** para quien contrata a una empleada de hogar ([disposición adicional primera del Real Decreto-ley 16/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-14680)).
 - **Accidentes de trabajo**: 1,50 %.
 - **Desempleo** (5,50 % con contrato indefinido) y **Fondo de Garantía Salarial** (0,20 %), con una **bonificación del 80 %**.
-- **Mecanismo de equidad intergeneracional**: 0,75 %.
+- **[Mecanismo de equidad intergeneracional](/cuanto-cobrare/mei-cuota-solidaridad/)**: 0,75 %.
 
 La cuidadora paga su parte (el 6,40 % de su base: contingencias comunes, desempleo y equidad intergeneracional), que se descuenta de su salario. La ley prevé también bonificaciones del 45 % o del 30 % en las contingencias comunes para empleadores con menos renta y patrimonio, en las condiciones que fije el reglamento.
 

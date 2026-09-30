@@ -40,7 +40,7 @@ Es obligatoria antes de ir al juzgado ([artículo 71 de la Ley reguladora de la 
 ## Paso 2: la demanda en el Juzgado de lo Social
 
 - **Plazo**: **30 días** desde que te notifican el rechazo de la reclamación previa o desde que se entiende rechazada por silencio.
-- **Abogado**: en esta primera instancia **no es obligatorio** ([artículo 21](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a21)), pero sí muy recomendable. Como trabajador o beneficiario de la Seguridad Social, tienes derecho a **asistencia jurídica gratuita** ([artículo 2.d de la Ley 1/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-750)).
+- **[Abogado](/incapacidad/abogado/)**: en esta primera instancia **no es obligatorio** ([artículo 21](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a21)), pero sí muy recomendable. Como trabajador o beneficiario de la Seguridad Social, tienes derecho a **asistencia jurídica gratuita** ([artículo 2.d de la Ley 1/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-750)).
 - **Pruebas**: el juzgado pide al INSS el expediente completo. Puedes aportar informes médicos y la declaración de un **perito médico**. Ojo: **no se pueden alegar hechos distintos de los del expediente**, salvo los nuevos o los que no pudieron conocerse antes ([artículo 143.4](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a143)).
 - **Sentencia**: el juez decide si tienes incapacidad y en qué grado. En esta primera instancia la ley no prevé condena en costas, aunque el juez puede multar a quien actúe con mala fe o temeridad ([artículo 97.3](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a97)).
 

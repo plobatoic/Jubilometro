@@ -79,7 +79,7 @@ Si empezaste a cobrar a mitad de semestre, cobras **una sexta parte por cada mes
 ## Otras situaciones
 
 - **Si cambias de banco**: puedes elegir libremente el banco en el que cobras y cambiarlo cuando quieras. La mayoría de bancos comunican el cambio a la Seguridad Social por ti; también puedes hacerlo tú en Tu Seguridad Social o en la web del INSS. El pago de la pensión en España **no puede tener ningún coste** para ti (artículo 24.4 del reglamento).
-- **Si vives en el extranjero**: puedes pedir cobrar la pensión por trimestres o semestres vencidos, aunque se siga generando mes a mes.
+- **Si [vives en el extranjero](/dinero/pension-extranjero/)**: puedes pedir cobrar la pensión por trimestres o semestres vencidos, aunque se siga generando mes a mes.
 - **Si fallece el pensionista**: la pensión se genera hasta el último día del mes del fallecimiento y se abona el primer día hábil del mes siguiente ([Orden de 22 de febrero de 1996, artículo 24](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). El mes del fallecimiento se cobra entero.
 
 ## Preguntas frecuentes

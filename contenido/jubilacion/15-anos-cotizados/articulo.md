@@ -77,7 +77,7 @@ Pensiones mínimas de jubilación a partir de los 65 años en 2026 ([La Moncloa]
 
 - **Cotizar más años**, aunque sea poco tiempo: cada mes suma un 0,19 % a tu porcentaje.
 - **Suscribir un [convenio especial](/jubilacion/convenio-especial/)** si no trabajas: te permite seguir cotizando y cumplir el requisito de 2 años en los últimos 15.
-- **Pedir el complemento para reducir la brecha de género** si eres madre (o padre, en algunos casos) y te corresponde.
+- **Pedir el [complemento para reducir la brecha de género](/cuanto-cobrare/complemento-brecha-genero/)** si eres madre (o padre, en algunos casos) y te corresponde.
 - **Revisar tu vida laboral**: un periodo trabajado que no aparece puede cambiarlo todo.
 
 ## Preguntas frecuentes

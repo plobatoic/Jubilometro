@@ -38,10 +38,10 @@ Mientras no se apruebe el reglamento con la lista de enfermedades que prevé la 
 <!-- tabla: Grados de incapacidad permanente: definición, prestación y trabajo -->
 | Grado | Qué significa | Qué se cobra | ¿Puedes trabajar? |
 |---|---|---|---|
-| Parcial para la profesión habitual | Rindes al menos un 33 % menos, pero puedes hacer las tareas fundamentales de tu trabajo | Indemnización única de 24 mensualidades de la base reguladora | Sí, en tu mismo trabajo |
-| Total para la profesión habitual | No puedes hacer tu trabajo habitual (todas o sus tareas fundamentales), pero sí otro distinto | Pensión del 55 % de la base reguladora; 75 % desde los 55 años si no trabajas (total cualificada) | Sí, en otro puesto o profesión |
-| Absoluta para todo trabajo | No puedes hacer ninguna profesión u oficio | Pensión del 100 % de la base reguladora, exenta de IRPF | Actividades compatibles con tu estado; si trabajas con alta, se suspende el pago |
-| Gran incapacidad | Además de la absoluta, necesitas a otra persona para los actos esenciales (vestirte, desplazarte, comer…) | Pensión del 100 % más un complemento para la persona que te atiende, exenta de IRPF | Actividades compatibles con tu estado; si trabajas con alta, se suspende el pago |
+| [Parcial para la profesión habitual](/incapacidad/incapacidad-parcial/) | Rindes al menos un 33 % menos, pero puedes hacer las tareas fundamentales de tu trabajo | Indemnización única de 24 mensualidades de la base reguladora | Sí, en tu mismo trabajo |
+| [Total para la profesión habitual](/incapacidad/incapacidad-total/) | No puedes hacer tu trabajo habitual (todas o sus tareas fundamentales), pero sí otro distinto | Pensión del 55 % de la base reguladora; 75 % desde los 55 años si no trabajas (total cualificada) | Sí, en otro puesto o profesión |
+| [Absoluta para todo trabajo](/incapacidad/incapacidad-absoluta/) | No puedes hacer ninguna profesión u oficio | Pensión del 100 % de la base reguladora, exenta de IRPF | Actividades compatibles con tu estado; si trabajas con alta, se suspende el pago |
+| [Gran incapacidad](/incapacidad/gran-incapacidad/) | Además de la absoluta, necesitas a otra persona para los actos esenciales (vestirte, desplazarte, comer…) | Pensión del 100 % más un complemento para la persona que te atiende, exenta de IRPF | Actividades compatibles con tu estado; si trabajas con alta, se suspende el pago |
 
 **Profesión habitual** es la que tenías al sufrir el accidente o, si es por enfermedad, a la que dedicabas tu actividad fundamental en el periodo anterior que marca el reglamento. Por eso una misma lesión puede dar una total a un albañil y ninguna incapacidad a un administrativo.
 

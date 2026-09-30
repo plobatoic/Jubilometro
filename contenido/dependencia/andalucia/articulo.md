@@ -40,7 +40,7 @@ Según la [Junta de Andalucía](https://www.juntadeandalucia.es/temas/familias-i
 
 1. **Pide el informe de salud** en el modelo oficial, normalmente a tu médico de cabecera del sistema sanitario público andaluz.
 2. **Presenta la solicitud**:
-   - **Por internet** en el portal **VED**, con certificado digital o Cl@ve (la vía que recomienda la Junta).
+   - **Por internet** en el portal **VED**, con certificado digital o [Cl@ve](/ayudas/tramites-online/) (la vía que recomienda la Junta).
    - **En persona**, en las oficinas de asistencia en materia de registro, con **cita previa**. Los servicios sociales comunitarios de tu ayuntamiento te pueden orientar.
 3. **Visita única en tu domicilio**: un profesional valora tu grado de dependencia, te informa de las prestaciones y te pregunta cuáles prefieres para tu **Programa Individual de Atención (PIA)**.
 4. **Resolución única**: la Junta te reconoce en el mismo documento el **grado** y el **PIA** con tus servicios o ayudas.

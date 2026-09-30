@@ -78,7 +78,7 @@ Si a Rosa le faltaran años, el porcentaje bajaría: lo ves en la tabla de [porc
 
 ## Cómo consultar tus bases de cotización
 
-1. Entra en **Tu Seguridad Social** o en la aplicación **Importass** con Cl@ve, certificado o DNI electrónico.
+1. Entra en **Tu Seguridad Social** o en la aplicación **Importass** con [Cl@ve](/ayudas/tramites-online/), certificado o DNI electrónico.
 2. Descarga el **informe de bases de cotización**: muestra la base de cada mes de los últimos años.
 3. Revisa que **no falten meses** trabajados y que las bases cuadren con tus nóminas: un error ahí reduce la base reguladora. Si encuentras uno, pide la corrección a la Tesorería General de la Seguridad Social con tus nóminas o contratos.
 4. Calcula tu pensión con esas bases en la calculadora o en el simulador de Tu Seguridad Social.

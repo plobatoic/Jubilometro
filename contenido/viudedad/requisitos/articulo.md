@@ -68,15 +68,17 @@ El **excónyuge** tiene derecho si cobraba una **pensión compensatoria** que se
 - Las mujeres que eran **víctimas de violencia de género** al separarse o divorciarse tienen derecho aunque no cobraran pensión compensatoria.
 - Si hay **varios beneficiarios** (un excónyuge y el cónyuge o la pareja actual), la pensión se reparte según el tiempo que cada uno convivió con el fallecido, y el cónyuge o pareja actual tiene garantizado al menos el **40 %**.
 
+Los casos de divorcio, separación y reparto entre varios beneficiarios, con ejemplos, están en [viudedad tras divorcio o separación](/viudedad/divorcio-separacion/).
+
 ### Si no llegáis a la duración exigida: prestación temporal
 
-Si no se cumple el año de matrimonio (y no hay hijos comunes) o la pareja de hecho no llevaba dos años inscrita, pero la persona fallecida sí había cotizado lo necesario, se cobra una **prestación temporal de viudedad**: la misma cuantía que la pensión, durante **dos años** ([artículo 222](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a222)).
+Si no se cumple el año de matrimonio (y no hay hijos comunes) o la pareja de hecho no llevaba dos años inscrita, pero la persona fallecida sí había cotizado lo necesario, se cobra una **[prestación temporal de viudedad](/viudedad/prestacion-temporal/)**: la misma cuantía que la pensión, durante **dos años** ([artículo 222](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a222)).
 
 ## Lo que no se exige
 
 - **Edad mínima**: se cobra a cualquier edad.
 - **Límite de ingresos**: la pensión no depende de lo que ganes. Los ingresos solo importan para cobrar el porcentaje del 60 % o del 70 % y para el complemento a mínimos (ver más abajo).
-- **Dejar de trabajar**: la viudedad es **compatible con cualquier sueldo** ([artículo 223](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a223)). También con tu propia pensión de jubilación, con el límite de la [pensión máxima](/cuanto-cobrare/pension-maxima/) para la suma de las dos.
+- **Dejar de trabajar**: la viudedad es **[compatible con cualquier sueldo](/viudedad/compatibilidad-trabajo/)** ([artículo 223](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a223)). También con tu propia pensión de jubilación, con el límite de la [pensión máxima](/cuanto-cobrare/pension-maxima/) para la suma de las dos.
 
 ## Cuánto se cobra
 

@@ -68,7 +68,7 @@ La cuantía la fija cada año la revalorización: para 2026, el [Real Decreto 24
 | Pensión mínima (25 %) | 2.200,80 € | 157,20 € |
 | Dos pensionistas en la misma casa (cada uno) | 7.482,72 € | 534,48 € |
 | Tres pensionistas en la misma casa (cada uno) | 7.042,56 € | 503,04 € |
-| Complemento si vives de alquiler | 525 € | — |
+| [Complemento si vives de alquiler](/ayudas/complemento-alquiler/) | 525 € | — |
 
 **Si tienes algún ingreso propio**, no lo pierdes todo: la pensión es compatible con ingresos de hasta el **35 % de la pensión**, **3.081,12 euros al año**. Lo que pase de esa cifra se descuenta de la pensión, que nunca baja del 25 % ([artículo 364](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a364)).
 
@@ -97,7 +97,7 @@ Además, la pensión incluye **asistencia médica y farmacéutica gratuita** y a
 - **Cómo**: con el formulario de solicitud, que está en la [página de la pensión no contributiva de jubilación del Imserso](https://imserso.es/pnc-prestaciones-subvenciones/pnc-jubilacion) y en la de tu comunidad. En él declaras tus ingresos y los de las personas con las que convives.
 - **Desde cuándo se cobra**: desde el **día 1 del mes siguiente** a la solicitud ([artículo 371](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a371)). Por eso conviene pedirla en cuanto cumplas los requisitos.
 
-Si ya cobras la **pensión no contributiva de invalidez**, a los 65 años pasa a llamarse de jubilación automáticamente, sin cambiar sus condiciones ni tener que pedir nada.
+Si ya cobras la **[pensión no contributiva de invalidez](/ayudas/pnc-invalidez/)**, a los 65 años pasa a llamarse de jubilación automáticamente, sin cambiar sus condiciones ni tener que pedir nada.
 
 ## Obligaciones cuando ya la cobras
 

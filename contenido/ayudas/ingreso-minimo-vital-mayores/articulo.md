@@ -61,7 +61,7 @@ Si en el hogar vive alguien con una **discapacidad del 65 % o más**, se suma un
 | Quién la gestiona | Instituto Nacional de la Seguridad Social | Servicios sociales de tu comunidad autónoma |
 | Compatibles | Sí: el IMV cubre la diferencia hasta la renta garantizada | |
 
-Si cumples los requisitos de la [pensión no contributiva](/ayudas/pension-no-contributiva/), conviene pedirla también: al año se cobra lo mismo y admite un complemento de alquiler de 525 euros. **Cuando te reconocen una pensión**, el IMV se reduce en esa cantidad o se extingue.
+Si cumples los requisitos de la [pensión no contributiva](/ayudas/pension-no-contributiva/), conviene pedirla también: al año se cobra lo mismo y admite un [complemento de alquiler](/ayudas/complemento-alquiler/) de 525 euros. **Cuando te reconocen una pensión**, el IMV se reduce en esa cantidad o se extingue.
 
 ## Ejemplos
 

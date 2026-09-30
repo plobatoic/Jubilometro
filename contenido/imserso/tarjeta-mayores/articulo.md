@@ -142,6 +142,7 @@ No, es gratuita. Solo hay que tener 65 años y vivir en Andalucía. Con ingresos
 - ¿Quieres viajar? Lee cómo funcionan los [viajes del Imserso 2026-2027](/imserso/viajes-imserso/).
 - ¿Buscas más rebajas? Consulta los [descuentos en transporte para pensionistas](/ayudas/descuentos-transporte/).
 - ¿Pagas mucha luz? Mira si tienes derecho al [bono social eléctrico](/ayudas/bono-social-electrico/).
+- ¿Quieres seguir aprendiendo? Mira los [programas universitarios y cursos para mayores](/imserso/universidad-mayores/).
 
 ---
 

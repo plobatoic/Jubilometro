@@ -46,7 +46,7 @@ Para los 1.080 días cuentan las cotizaciones de cualquier régimen, las de otro
 
 ## Cuánto cuesta en 2026
 
-La cuota se calcula aplicando a la base que elijas el tipo de contingencias comunes del Régimen General (28,30 %) multiplicado por un coeficiente de 0,94. Si cubre la jubilación, se suma el **Mecanismo de Equidad Intergeneracional (MEI)**, del 0,90 % en 2026 ([Orden PJC/297/2026 de cotización](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7296)).
+La cuota se calcula aplicando a la base que elijas el tipo de contingencias comunes del Régimen General (28,30 %) multiplicado por un coeficiente de 0,94. Si cubre la jubilación, se suma el **[Mecanismo de Equidad Intergeneracional (MEI)](/cuanto-cobrare/mei-cuota-solidaridad/)**, del 0,90 % en 2026 ([Orden PJC/297/2026 de cotización](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7296)).
 
 <!-- tabla: Coste mensual aproximado del convenio especial en 2026 -->
 | Base de cotización elegida | Cuota (28,30 % × 0,94) | MEI (0,90 %) | Total al mes | Total en 2 años |

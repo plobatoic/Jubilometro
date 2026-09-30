@@ -183,7 +183,7 @@ Si quieres saber cuánto cobrarás, consulta [cómo se calcula la pensión de ju
 
 - **Autónomos.** Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados. Lo que cambia lo explicamos en [jubilación de autónomos](/jubilacion/autonomos/).
 - **Funcionarios.** Los de Clases Pasivas tienen su propio régimen: jubilación forzosa a los 65 años (70 en algunos cuerpos, como profesores universitarios, jueces y fiscales) y voluntaria desde los 60 con 30 años de servicios. Los que ingresaron desde el 1 de enero de 2011 están en el Régimen General y siguen esta tabla.
-- **Discapacidad y profesiones con edad reducida.** Las personas con un grado de discapacidad elevado y algunos colectivos (bomberos, policías locales, mineros o trabajadores del mar, entre otros) pueden jubilarse antes sin recorte, gracias a coeficientes reductores de la edad.
+- **Discapacidad y profesiones con edad reducida.** Las personas con un grado de discapacidad elevado y algunos colectivos (bomberos, policías locales, mineros o trabajadores del mar, entre otros) pueden jubilarse antes sin recorte, gracias a [coeficientes reductores de la edad](/jubilacion/anticipada-por-profesion/).
 - **Cláusula de salvaguarda.** Si tu relación laboral terminó antes del 1 de abril de 2013 y desde entonces no has vuelto a estar de alta en ningún régimen de la Seguridad Social, se te aplican las reglas anteriores a la reforma de 2011, con jubilación a los 65 años (disposición transitoria 4.ª de la LGSS). Hay matices, así que, si crees que es tu caso, consúltalo con el INSS.
 
 ## ¿Va a cambiar la edad de jubilación después de 2027?

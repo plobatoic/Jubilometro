@@ -84,7 +84,7 @@ Si tu pensión queda por debajo de la mínima, la Seguridad Social la completa c
 | Entre 60 y 64 años | 875,90 € | 12.262,60 € |
 | Menos de 60 años | 709,40 € | 9.931,60 € |
 
-Si trabajas y ganas más de 9.442 euros al año, no tienes complemento a mínimos, aunque sí cobras tu pensión de viudedad entera: **la viudedad es compatible con cualquier sueldo**. Tampoco se complementan las pensiones de viudedad de divorciados limitadas a la pensión compensatoria.
+Si trabajas y ganas más de 9.442 euros al año, no tienes complemento a mínimos, aunque sí cobras tu pensión de viudedad entera: **[la viudedad es compatible con cualquier sueldo](/viudedad/compatibilidad-trabajo/)**. Tampoco se complementan las pensiones de [viudedad de divorciados](/viudedad/divorcio-separacion/) limitadas a la pensión compensatoria.
 
 ## Ejemplos
 

@@ -48,7 +48,7 @@ La regula la [disposición adicional primera de la Ley 41/2007](https://www.boe.
 - **Quién puede pedirla**: personas de **65 años o más**, en situación de **dependencia** o con una **discapacidad del 33 % o más**, sobre su **vivienda habitual**.
 - **Cómo cobras**: en un **pago único** o en **pagos periódicos**, según lo que pactes.
 - **Cuándo se paga la deuda**: solo cuando **fallece** el titular (o el último beneficiario, si así se pacta). Mientras vivas, no pagas cuotas.
-- **Tus herederos** pueden **pagar la deuda** con sus intereses, sin penalización, y quedarse la casa, o **no pagarla**: entonces el banco solo puede cobrar **hasta donde alcancen los bienes de la herencia**, no con el patrimonio de los herederos.
+- **Tus herederos** pueden **pagar la deuda** con sus intereses, sin penalización, y quedarse la casa, o **no pagarla**: entonces el banco solo puede cobrar **hasta donde alcancen los bienes de la [herencia](/dinero/herencias-donaciones/)**, no con el patrimonio de los herederos.
 - **Si vendes la casa** en vida, el banco puede reclamar la deuda de una vez, salvo que aportes otra garantía suficiente.
 - **Quién la da**: solo bancos, establecimientos financieros de crédito y aseguradoras autorizadas, que están **obligados a ofrecerte asesoramiento independiente**. La vivienda tiene que estar **tasada y asegurada**.
 - **Gastos**: la escritura está **exenta del impuesto de actos jurídicos documentados** y los aranceles de notaría y registro son reducidos.

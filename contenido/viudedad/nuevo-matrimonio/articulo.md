@@ -56,7 +56,7 @@ Están en el [artículo 11 de la Orden de 13 de febrero de 1967](https://www.boe
 
 - **Tienes que comunicarlo** al INSS: el nuevo matrimonio o la pareja de hecho es un cambio que afecta a tu pensión. Si no lo comunicas y la pierdes, tendrás que devolver lo cobrado de más.
 - **Si fallece tu nuevo cónyuge**, la nueva viudedad que pudiera corresponderte es **incompatible** con la que ya cobras: tendrás que elegir una.
-- **Trabajar no afecta**: la viudedad es compatible con cualquier renta del trabajo. Lo que la extingue es el nuevo matrimonio o la pareja de hecho sin cumplir los requisitos.
+- **Trabajar no afecta**: la viudedad es [compatible con cualquier renta del trabajo](/viudedad/compatibilidad-trabajo/). Lo que la extingue es el nuevo matrimonio o la pareja de hecho sin cumplir los requisitos.
 - **La orfandad de tus hijos no se ve afectada** por tu nuevo matrimonio. Lo explicamos en [pensión de orfandad](/viudedad/pension-orfandad/).
 
 ## Preguntas frecuentes

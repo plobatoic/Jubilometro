@@ -88,7 +88,7 @@ La subida se aplica sobre la pensión **bruta**. Lo que llega al banco puede sub
 ## Qué pensiones suben y cuánto
 
 - **Pensiones contributivas** de jubilación, incapacidad permanente, viudedad, orfandad y a favor de familiares, y las de **Clases Pasivas** (funcionarios): el porcentaje general.
-- **Complemento para la reducción de la brecha de género**: el mismo porcentaje (en 2026 es de 36,90 euros al mes por hijo).
+- **[Complemento para la reducción de la brecha de género](/cuanto-cobrare/complemento-brecha-genero/)**: el mismo porcentaje (en 2026 es de 36,90 euros al mes por hijo).
 - **Pensiones que ya están en la máxima**: también suben el porcentaje general. Desde 2025 el tope ya no frena la revalorización de las pensiones en curso.
 - **Pensión máxima para las pensiones nuevas**: sube el porcentaje general **más 0,115 puntos** ([disposición transitoria 39.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724)). En 2026 es de 3.359,60 euros al mes.
 - **Pensiones mínimas**: suben el porcentaje general y, además, lo que marca la [disposición adicional 53.ª de la ley](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724). Desde 2027, la mínima de jubilación con cónyuge a cargo **no puede ser inferior al umbral de la pobreza de un hogar de dos adultos**; el resto de mínimas suben la mitad de ese incremento adicional.

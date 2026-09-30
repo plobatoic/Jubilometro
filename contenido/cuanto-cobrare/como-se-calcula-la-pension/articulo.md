@@ -35,7 +35,7 @@ Con límites por arriba y por abajo:
 
 - **No puede superar la pensión máxima**: 3.359,60 euros al mes en 2026, 47.034,40 euros al año.
 - **Si queda por debajo de la pensión mínima**, puedes cobrar el complemento a mínimos si tus ingresos no superan el límite legal (9.442 euros al año en 2026 si no tienes cónyuge a cargo).
-- Se cobra en **14 pagas**: 12 mensualidades y 2 pagas extra, en junio y noviembre.
+- Se cobra en **14 pagas**: 12 mensualidades y 2 [pagas extra](/cuanto-cobrare/pagas-extra/), en junio y noviembre.
 
 ## Paso 1: la base reguladora con el sistema dual
 

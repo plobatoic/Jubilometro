@@ -47,7 +47,7 @@ fuentes_legales:
 
 - **Se cobra el mes completo**: la pensión se devenga hasta el **último día del mes** del fallecimiento y se paga el **primer día hábil del mes siguiente** ([artículo 24 de la Orden de 22 de febrero de 1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)).
 - **La paga extra pendiente**: se paga la parte proporcional, **una sexta parte por cada mes** del semestre en curso, contando el mes de la muerte. Lo explicamos en [pagas extra](/cuanto-cobrare/pagas-extra/).
-- **Lo que llega a la cuenta del pensionista es de la herencia**: no hace falta pedirlo, forma parte de sus bienes y se reparte entre los herederos.
+- **Lo que llega a la cuenta del pensionista es de la [herencia](/dinero/herencias-donaciones/)**: no hace falta pedirlo, forma parte de sus bienes y se reparte entre los herederos.
 - **Si la cuenta ya estaba cancelada**, los herederos tienen que pedir al INSS las **prestaciones devengadas y no percibidas**. Los hijos, nietos, padres o el cónyuge presentan el certificado de defunción y acreditan ser herederos forzosos; cualquier otro heredero añade el **certificado de últimas voluntades** y el documento que le acredite como heredero.
 
 **Cuidado con los ingresos posteriores**: el banco está obligado a **devolver a la Tesorería General de la Seguridad Social** las mensualidades de los meses siguientes al fallecimiento, y puede reclamárselas a quien las haya retirado ([artículo 17 de la misma orden](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). No gastes ese dinero: habrá que devolverlo.

@@ -48,7 +48,7 @@ Si quieres adelantar la jubilación, mira [jubilación anticipada por discapacid
 
 ## Pensionistas de incapacidad permanente
 
-Si cobras una pensión de **incapacidad permanente total, absoluta o gran incapacidad**, para el IRPF se te considera con una discapacidad **del 33 % o más** sin necesidad de otra valoración ([artículo 60.3 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a60)). La Ley General de derechos de las personas con discapacidad también te equipara al 33 %, pero solo a algunos de sus efectos ([artículo 4.2](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632#a4)). Para otras ventajas, como el 65 %, necesitas que tu comunidad te reconozca el grado.
+Si cobras una pensión de **incapacidad permanente total, absoluta o [gran incapacidad](/incapacidad/gran-incapacidad/)**, para el IRPF se te considera con una discapacidad **del 33 % o más** sin necesidad de otra valoración ([artículo 60.3 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a60)). La Ley General de derechos de las personas con discapacidad también te equipara al 33 %, pero solo a algunos de sus efectos ([artículo 4.2](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632#a4)). Para otras ventajas, como el 65 %, necesitas que tu comunidad te reconozca el grado.
 
 ## Cómo se pide
 

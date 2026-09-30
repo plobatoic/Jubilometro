@@ -39,7 +39,7 @@ Los planes de pensiones se cobran cuando se produce una **contingencia** ([artí
 
 Además, puedes sacar el dinero antes en estos casos, si las especificaciones del plan lo permiten:
 
-- **Aportaciones con más de 10 años**: desde el 1 de enero de 2025 puedes rescatar lo aportado hasta el 31 de diciembre de 2015 con su rentabilidad, y a partir de ahí cada aportación cuando cumple 10 años ([disposición transitoria 7.ª de la Ley de planes y fondos de pensiones](https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252)).
+- **[Aportaciones con más de 10 años](/dinero/rescate-aportaciones-10-anos/)**: desde el 1 de enero de 2025 puedes rescatar lo aportado hasta el 31 de diciembre de 2015 con su rentabilidad, y a partir de ahí cada aportación cuando cumple 10 años ([disposición transitoria 7.ª de la Ley de planes y fondos de pensiones](https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252)).
 - **Paro de larga duración**: sin prestación contributiva (o agotada) e inscrito como demandante de empleo.
 - **Enfermedad grave** tuya, de tu cónyuge o de padres o hijos.
 - **Desde los 60 años**, si has dejado de trabajar y aún no puedes jubilarte.

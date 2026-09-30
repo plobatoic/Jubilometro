@@ -80,7 +80,7 @@ Una ventaja: la pensión **sube cada año con el IPC** ([artículo 58 de la Ley 
 | Producto | Límite | Ventaja fiscal | Cuidado con |
 |---|---|---|---|
 | Plan de pensiones | 1.500 € al año (más hasta 8.500 € con aportaciones de tu empresa al plan de empleo) | Lo que aportas reduce tu base del IRPF | Al rescatarlo tributa todo como sueldo; lo explicamos en [rescate del plan de pensiones](/dinero/rescate-plan-pensiones/) |
-| Plan individual de ahorro sistemático (PIAS) | 8.000 € al año y 240.000 € en total | Si pasan más de 5 años y lo cobras como renta vitalicia, la rentabilidad acumulada no tributa | Hay que cobrarlo como renta vitalicia |
+| Plan individual de ahorro sistemático (PIAS) | 8.000 € al año y 240.000 € en total | Si pasan más de 5 años y lo cobras como [renta vitalicia](/dinero/renta-vitalicia/), la rentabilidad acumulada no tributa | Hay que cobrarlo como renta vitalicia |
 | Plan de ahorro a largo plazo (SIALP) | 5.000 € al año | Los rendimientos no tributan si no lo tocas en 5 años | Garantía mínima del 85 % de lo aportado; solo se retira de una vez |
 | Fondos, depósitos o acciones | Sin límite | Ninguna especial | Las ganancias tributan del 19 % al 30 % |
 

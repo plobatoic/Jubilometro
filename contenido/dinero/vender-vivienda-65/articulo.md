@@ -35,7 +35,7 @@ fuentes_legales:
 
 **También vale si vendes la nuda propiedad** y te quedas el usufructo vitalicio, para seguir viviendo en la casa. No se aplica, en cambio, si la propiedad ya estaba dividida antes entre un nudo propietario y un usufructuario. Lo explicamos en [hipoteca inversa y nuda propiedad](/dinero/hipoteca-inversa/).
 
-**No vale para una segunda vivienda**: la ganancia de vender un piso que no es tu vivienda habitual tributa, aunque tengas más de 65 años. Para esos casos existe otra vía: reinvertir el dinero en una **renta vitalicia** (ver abajo).
+**No vale para una segunda vivienda**: la ganancia de vender un piso que no es tu vivienda habitual tributa, aunque tengas más de 65 años. Para esos casos existe otra vía: reinvertir el dinero en una **[renta vitalicia](/dinero/renta-vitalicia/)** (ver abajo).
 
 ## Cuánto te ahorras: un ejemplo
 

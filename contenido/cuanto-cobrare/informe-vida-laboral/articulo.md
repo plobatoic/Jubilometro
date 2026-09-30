@@ -30,7 +30,7 @@ fuentes_legales:
 
 En el portal [Import@ss](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes/Informes+sobre+tu+situacion+laboral/Informe+de+tu+vida+laboral) de la Tesorería General de la Seguridad Social puedes:
 
-- **Descargarlo al momento en PDF**, completo o de un periodo concreto, identificándote con Cl@ve (permanente o móvil), DNI electrónico, certificado digital o **SMS** (si tienes tu móvil comunicado a la Seguridad Social).
+- **Descargarlo al momento en PDF**, completo o de un periodo concreto, identificándote con [Cl@ve](/ayudas/tramites-online/) (permanente o móvil), DNI electrónico, certificado digital o **SMS** (si tienes tu móvil comunicado a la Seguridad Social).
 - **Sin identificación electrónica**: rellenando tus datos personales, con un selfi y una foto de tu documento de identidad.
 - **Pedir que te lo envíen por correo** al domicilio que tengas comunicado a la Tesorería.
 

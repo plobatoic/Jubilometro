@@ -42,7 +42,7 @@ No hace falta que lleves tu vida laboral: la Seguridad Social ya tiene tus cotiz
 | Tienes cónyuge (para la pensión mínima con cónyuge a cargo o el complemento a mínimos) | Libro de familia o certificado de matrimonio; datos de ingresos del cónyuge |
 | Tienes hijos (complemento para reducir la brecha de género) | Libro de familia o certificados de nacimiento o adopción |
 | Jubilación anticipada involuntaria | Carta de despido o documento del cese, acuerdo del ERE si lo hubo, justificante de haber cobrado la indemnización (o de haberla reclamado) y certificado de inscripción como demandante de empleo |
-| Profesión con coeficientes reductores (bomberos, policía local, mineros, mar…) | Certificado de empresa con la categoría profesional y los periodos trabajados en ella |
+| [Profesión con coeficientes reductores](/jubilacion/anticipada-por-profesion/) (bomberos, policía local, mineros, mar…) | Certificado de empresa con la categoría profesional y los periodos trabajados en ella |
 | Discapacidad | Certificado del grado de discapacidad y, en la vía del 45 %, informes que acrediten la patología |
 | Servicio militar para la anticipada | Certificado del periodo de servicio militar o de prestación social sustitutoria |
 | Has trabajado en otro país | Documentos de los periodos cotizados en el extranjero; si es un país de la UE o con convenio, la Seguridad Social los pide al otro país ([cómo se suman esos años](/jubilacion/trabajado-en-otro-pais/)) |

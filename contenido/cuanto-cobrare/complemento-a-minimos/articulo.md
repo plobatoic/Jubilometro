@@ -61,7 +61,7 @@ En las pensiones causadas **desde el 1 de enero de 2013**, el complemento **no p
 
 - **628,80 euros al mes** en 2026 (8.803,20 al año) con carácter general.
 - **1.068,96 euros al mes** (14.965,44 al año) si tienes **cónyuge a cargo**: la cuantía de la no contributiva para dos beneficiarios.
-- Sin tope en las pensiones de **gran incapacidad** con complemento por tercera persona.
+- Sin tope en las pensiones de **[gran incapacidad](/incapacidad/gran-incapacidad/)** con complemento por tercera persona.
 
 Si tu pensión es muy baja, puedes quedarte por debajo de la mínima aunque cumplas todo lo demás. Las pensiones causadas antes de 2013 no tienen este tope ([disposición transitoria 27.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724)).
 

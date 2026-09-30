@@ -75,7 +75,7 @@ Forman el hogar (unidad de convivencia) quienes viven en el mismo domicilio y so
 
 ### 3. Otras vías
 
-También tienes derecho si tienes el **título de familia numerosa** o si alguien de tu hogar cobra el **Ingreso Mínimo Vital**.
+También tienes derecho si tienes el **título de familia numerosa** o si alguien de tu hogar cobra el **[Ingreso Mínimo Vital](/ayudas/ingreso-minimo-vital-mayores/)**.
 
 ## Cómo se pide
 

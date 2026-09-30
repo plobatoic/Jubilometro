@@ -47,7 +47,7 @@ Lo mismo que un cónyuge: el **52 % de la base reguladora** de la persona fallec
 
 ## Si no cumplís los dos años de inscripción: prestación temporal
 
-Si la inscripción o el documento público **no tenían dos años** cuando falleció tu pareja, pero la persona fallecida sí tenía la cotización necesaria, tienes derecho a una **prestación temporal de viudedad**: la misma cuantía que la pensión, durante **dos años** ([artículo 222](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a222)).
+Si la inscripción o el documento público **no tenían dos años** cuando falleció tu pareja, pero la persona fallecida sí tenía la cotización necesaria, tienes derecho a una **[prestación temporal de viudedad](/viudedad/prestacion-temporal/)**: la misma cuantía que la pensión, durante **dos años** ([artículo 222](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a222)).
 
 ## Si la pareja se había roto
 

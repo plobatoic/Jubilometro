@@ -51,7 +51,7 @@ Desde el **14 de mayo de 2026** ([Real Decreto-ley 11/2026](https://www.boe.es/b
 ### Quién no paga nada
 
 - Los pensionistas que cobran el **complemento a mínimos** (desde mayo de 2026). Lo explicamos en [complemento a mínimos](/cuanto-cobrare/complemento-a-minimos/).
-- Quienes cobran una **pensión no contributiva** o el **ingreso mínimo vital**.
+- Quienes cobran una **pensión no contributiva** o el **[ingreso mínimo vital](/ayudas/ingreso-minimo-vital-mayores/)**.
 - Los tratamientos por **accidente de trabajo o enfermedad profesional**.
 - **Régimen transitorio**: los pensionistas que ya estaban exentos antes del 14 de mayo de 2026 por tener una renta inferior a **5.635 euros** (o a **11.200 euros** si no tienen que hacer la declaración de la renta) **siguen exentos**, aunque no cobren el complemento a mínimos.
 
