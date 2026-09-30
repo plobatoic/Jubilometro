@@ -1554,3 +1554,18 @@ body:not(.jm-ads-on) li:has(> [data-jm-cookies]), body:not(.jm-ads-on) [data-jm-
    en la línea se parte en vez de salirse (solo ocurre si de verdad no cabe). */
 h1, h2, h3 { overflow-wrap: break-word; }
 @media (max-width: 359px) { :root { --jm-fs-h1: 1.9rem; } }
+
+/* --- Cifras clave en móviles estrechos (2.1.5) ---
+   A 360 px la segunda columna del resumen («1.941,48 €») se cortaba: las columnas no podían encoger
+   por debajo del ancho de la cifra. Ahora se reparten el espacio, con cifras y márgenes algo menores
+   por debajo de 390 px y en una sola columna por debajo de 340 px. */
+.jm-keydata__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+@media (max-width: 389px) {
+  .jm-keydata__item { padding: .95rem .9rem; }
+  .jm-keydata__value { font-size: 1.2rem; }
+}
+@media (max-width: 339px) {
+  .jm-keydata__grid { grid-template-columns: minmax(0, 1fr); }
+  .jm-keydata__item:nth-child(2n) { border-left: 0; }
+  .jm-keydata__item + .jm-keydata__item { border-top: 1px solid var(--jm-rule); }
+}
