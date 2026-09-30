@@ -34,7 +34,7 @@ echo jm_part( 'home-mast' ); // phpcs:ignore
 		?></div>
 		<div class="jm-front__latest">
 			<?php echo jm_ledger( $latest, array( 'id' => 'latest-title', 'title' => 'La libreta de guías', 'page' => 'Últimos apuntes', 'more' => array( 'Ver la libreta completa', '/guias/' ) ) ); // phpcs:ignore ?>
-			<p class="jm-resume" data-jm-resume><span>Seguir leyendo</span><a href="<?php echo esc_url( home_url( '/guias/' ) ); ?>"></a></p>
+			<p class="jm-resume" data-jm-resume><span>Seguir leyendo</span><a></a></p><?php // el enlace lo rellena jubilometro.js con la última guía leída; sin él no hay enlace vacío para Google ?>
 		</div>
 	</div>
 </section>
