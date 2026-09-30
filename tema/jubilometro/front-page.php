@@ -32,7 +32,7 @@ echo str_replace( '<!--jm-lead-->', '<div class="jm-mast__lead-story">' . $lead_
 		?></div>
 		<div class="jm-front__latest">
 			<?php echo jm_ledger( $latest, array( 'id' => 'latest-title', 'title' => 'Últimas guías', 'page' => '', 'more' => array( 'Ver todas las guías', '/guias/' ) ) ); // phpcs:ignore ?>
-			<p class="jm-resume" data-jm-resume><span>Seguir leyendo</span><a></a></p><?php // el enlace lo rellena jubilometro.js con la última guía leída; sin él no hay enlace vacío para Google ?>
+			<p class="jm-resume" data-jm-resume><span>Seguir leyendo</span></p><?php // el enlace lo añade jubilometro.js con la última guía leída: sin ella, la página no lleva ningún enlace vacío ?>
 		</div>
 	</div>
 </section>

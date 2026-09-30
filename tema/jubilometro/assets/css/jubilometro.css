@@ -1938,13 +1938,14 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
    ========================================================================== */
 
 /* --- Portada: retícula de puntos, dos luces que respiran y un foco que sigue al ratón --- */
-.jm-mast { isolation: isolate; overflow-x: clip; }
+/* z-index: las sugerencias del buscador quedan por encima de la sección siguiente */
+.jm-mast { position: relative; z-index: 2; isolation: isolate; overflow-x: clip; }
 .jm-mast__bg { position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
 .jm-mast__bg::before { content: ""; position: absolute; inset: 0; background: radial-gradient(rgb(30 75 64 / .2) 1px, transparent 1.4px) 0 0 / 22px 22px; -webkit-mask-image: radial-gradient(ellipse 46% 64% at 77% 48%, #000 15%, transparent 72%); mask-image: radial-gradient(ellipse 46% 64% at 77% 48%, #000 15%, transparent 72%); }
 .jm-mast__glow { position: absolute; top: -30%; right: -14%; width: min(64vw, 900px); aspect-ratio: 1; border-radius: 50%; background: radial-gradient(closest-side, rgb(30 75 64 / .14), rgb(30 75 64 / .05) 55%, transparent); }
 .jm-mast__glow--b { top: auto; bottom: -50%; right: 16%; width: min(50vw, 700px); background: radial-gradient(closest-side, rgb(217 180 106 / .26), rgb(217 180 106 / .07) 55%, transparent); }
-.jm-mast__spot { position: absolute; left: 0; top: 0; width: 760px; height: 760px; margin: -380px 0 0 -380px; border-radius: 50%; background: radial-gradient(closest-side, rgb(217 180 106 / .22), rgb(30 75 64 / .06) 48%, transparent); opacity: 0; transition: opacity .6s ease; will-change: transform; }
-.jm-mast.is-lit .jm-mast__spot { opacity: 1; }
+.jm-mast__spot { position: absolute; left: 0; top: 0; width: 760px; height: 760px; margin: -380px 0 0 -380px; border-radius: 50%; background: radial-gradient(closest-side, rgb(217 180 106 / .22), rgb(30 75 64 / .06) 48%, transparent); opacity: 0; visibility: hidden; transition: opacity .6s ease, visibility 0s linear .6s; }
+.jm-mast.is-lit .jm-mast__spot { opacity: 1; visibility: visible; transition: opacity .6s ease; }
 @media (max-width: 999px) {
   .jm-mast__bg::before { -webkit-mask-image: radial-gradient(ellipse 90% 34% at 55% 80%, #000 10%, transparent 70%); mask-image: radial-gradient(ellipse 90% 34% at 55% 80%, #000 10%, transparent 70%); }
   .jm-mast__glow { top: auto; bottom: -12%; right: -45%; width: 125vw; }
@@ -1967,6 +1968,7 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
 .jm-seal__arc, .jm-seal__needle { fill: none; stroke: currentColor; stroke-width: 4.5; stroke-linecap: round; }
 .jm-seal__mark circle { fill: currentColor; }
 @media (min-width: 1000px) and (max-width: 1239px) { .jm-seal { right: -10px; } }
+@media (min-width: 1240px) and (max-width: 1439px) { .jm-seal { right: -16px; } }
 @media (max-width: 999px) { .jm-seal { top: -34px; right: 12px; width: 92px; height: 92px; box-shadow: 0 0 0 4px rgb(255 255 255 / .92), 0 14px 26px -12px rgb(20 33 28 / .55); } }
 
 /* Acceso flotante a la calculadora, con su esfera */
@@ -1987,9 +1989,12 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
 .jm-float > .jm-i { flex: none; color: var(--jm-pine); transition: transform .3s var(--jm-ease); }
 .jm-float:hover > .jm-i { transform: translateX(3px); }
 
-@media (prefers-reduced-motion: no-preference) {
+/* Las luces solo respiran en pantallas con ratón: en el móvil se quedan quietas y no gastan batería */
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
   .jm-mast__glow { animation: jm-drift 24s ease-in-out infinite alternate; }
   .jm-mast__glow--b { animation-duration: 19s; animation-direction: alternate-reverse; }
+}
+@media (prefers-reduced-motion: no-preference) {
   .jm-mast__lead-story::before { animation: jm-deal .9s var(--jm-ease) .25s backwards; }
   .jm-mast__lead-story::after { animation: jm-deal 1s var(--jm-ease) .35s backwards; }
   .jm-seal { animation: jm-pop-in .8s var(--jm-ease) .5s backwards; }
@@ -2011,7 +2016,7 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
   .jm-mast__lead-story { transform: rotateY(calc(var(--px, 0) * 5deg)) rotateX(calc(var(--py, 0) * -4deg)); }
   .jm-mast__lead-story::before { translate: calc(var(--px, 0) * -9px) calc(var(--py, 0) * -4px); }
   .jm-mast__lead-story::after { translate: calc(var(--px, 0) * -18px) calc(var(--py, 0) * -8px); }
-  .jm-seal { translate: calc(var(--px, 0) * 22px) calc(var(--py, 0) * 16px); }
+  .jm-seal { translate: calc(var(--px, 0) * 14px) calc(var(--py, 0) * 12px); }
   .jm-float { translate: calc(var(--px, 0) * 30px) calc(var(--py, 0) * 22px); }
   .jm-mast__lead-story .jm-story--lead::after { content: ""; position: absolute; inset: 0; z-index: 3; border-radius: inherit; pointer-events: none; background: radial-gradient(circle at calc(50% + var(--px, 0) * 45%) calc(32% + var(--py, 0) * 45%), rgb(255 255 255 / .3), transparent 55%); opacity: 0; transition: opacity .6s ease; }
   .jm-mast.is-lit .jm-mast__lead-story .jm-story--lead::after { opacity: 1; }
@@ -2049,7 +2054,8 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
 
 /* --- Apariciones al bajar: los bloques se levantan en perspectiva ---------- */
 @media (prefers-reduced-motion: no-preference) {
-  .jm-rv { opacity: 0; transform: perspective(1200px) translate3d(0, 30px, 0) rotateX(11deg); transform-origin: 50% 0; }
+  /* Gira sobre su borde inferior y la parte de arriba se aleja: nunca se ve más ancho que la pantalla */
+  .jm-rv { opacity: 0; transform: perspective(1200px) translate3d(0, 30px, 0) rotateX(12deg); transform-origin: 50% 100%; }
   .jm-rv.is-in { opacity: 1; transform: none; transition: opacity .8s var(--jm-ease) var(--rv-d, 0ms), transform 1.05s var(--jm-ease) var(--rv-d, 0ms); }
 }
 
@@ -2058,7 +2064,8 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
 @media (min-width: 700px) { .jm-passbook { box-shadow: 6px 6px 0 -1px var(--jm-white), 6px 6px 0 0 var(--jm-line-2), 12px 12px 0 -1px var(--jm-white), 12px 12px 0 0 var(--jm-line-2), 18px 18px 0 0 var(--jm-pine), 30px 42px 60px -30px rgb(20 33 28 / .5); } }
 @media (min-width: 1040px) and (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
   .jm-toolband__box { perspective: 1700px; }
-  .jm-passbook { transform: rotateY(-9deg) rotateX(3deg); transform-origin: 30% 50%; transition: transform 1s var(--jm-ease), box-shadow .6s ease; }
+  /* Gira sobre la esquina de arriba a la derecha: todo lo demás se aleja y no crece hacia el borde */
+  .jm-passbook { transform: rotateY(-9deg) rotateX(-3deg); transform-origin: 100% 0; transition: transform 1s var(--jm-ease), box-shadow .6s ease; }
   .jm-passbook:hover, .jm-toolband__box:focus-within .jm-passbook, .jm-passbook.is-printing, .jm-passbook.is-stamped { transform: none; }
 }
 /* La esfera del resultado: la aguja gira hasta tu edad */
@@ -2100,7 +2107,7 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
 }
 
 /* --- Cabecera de las páginas interiores: la misma retícula y la foto en 3D -- */
-.jm-pagehead { isolation: isolate; overflow-x: clip; }
+.jm-pagehead { z-index: 2; isolation: isolate; overflow-x: clip; }
 .jm-pagehead::before { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none; background: radial-gradient(rgb(30 75 64 / .16) 1px, transparent 1.4px) 0 0 / 22px 22px, radial-gradient(closest-side, rgb(217 180 106 / .16), transparent) 88% 30% / 46rem 46rem no-repeat; -webkit-mask-image: radial-gradient(ellipse 42% 80% at 84% 40%, #000 10%, transparent 72%); mask-image: radial-gradient(ellipse 42% 80% at 84% 40%, #000 10%, transparent 72%); }
 .jm-pagehead__media { position: relative; }
 

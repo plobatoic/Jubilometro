@@ -154,8 +154,8 @@
     try {
       if (post) { var h = $('.jm-post__title h1'); if (h) localStorage.setItem(key, JSON.stringify({ t: h.textContent.trim(), u: location.pathname })); }
       if (box) {
-        var d = JSON.parse(localStorage.getItem(key) || 'null'), a = $('a', box);
-        if (d && d.u && d.t && a) { a.href = d.u; a.textContent = d.t; box.classList.add('is-on'); }
+        var d = JSON.parse(localStorage.getItem(key) || 'null');
+        if (d && d.u && d.t) { var a = $('a', box) || box.appendChild(document.createElement('a')); a.href = d.u; a.textContent = d.t; box.classList.add('is-on'); }
       }
     } catch (e) { /* sin almacenamiento: no pasa nada */ }
   }
@@ -538,7 +538,7 @@
             status.textContent = 'Sin resultados';
           } else {
             box.innerHTML = res.map(function (r) {
-              var x = r.x, meta = x.k === 'guia' ? esc(x.c) + (x.n ? ' · <span class="jm-sugg__n">Nº ' + esc(x.n) + '</span>' : '') : esc(x.c);
+              var x = r.x, meta = esc(x.c);
               return '<a role="option" aria-selected="false" href="' + esc(x.u) + '"><span class="jm-sugg__t">' + hl(x.t, words) + '</span><span class="jm-sugg__m">' + meta + '</span></a>';
             }).join('') + '<button type="button" class="jm-sugg__all">Ver todos los resultados de «' + esc(input.value.trim()) + '»</button>';
             status.textContent = res.length + (res.length === 1 ? ' resultado' : ' resultados');
