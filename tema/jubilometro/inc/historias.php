@@ -134,14 +134,12 @@ function jm_story( $p, $v = 'md', $o = array() ) {
 	$dek   = ( $o['dek'] && has_excerpt( $p ) ) ? '<p class="jm-story__dek">' . esc_html( get_the_excerpt( $p ) ) . '</p>' : '';
 	// El tema va en la línea de datos, bajo el título (nunca como etiqueta encima)
 	$meta = ( $o['kicker'] && $c ) ? '<span class="jm-story__cat"><a href="' . esc_url( home_url( '/' . $c->slug . '/' ) ) . '">' . esc_html( $c->name ) . '</a></span>' : '';
-	$num  = jm_num( $p );
-	if ( $num ) { $meta .= '<span>Nº ' . esc_html( $num ) . '</span>'; }
 	if ( $soon ) {
 		$meta .= '<span class="jm-soon">Próximamente</span>';
 	} else {
 		$meta .= '<span>' . jm_minutes( $p ) . ' min</span>';
 		if ( $o['date'] ) {
-			$meta .= '<span><time datetime="' . esc_attr( get_the_modified_date( 'c', $p ) ) . '">' . esc_html( jm_date( $p, 'd·m·y' ) ) . '</time></span>';
+			$meta .= '<span><time datetime="' . esc_attr( get_the_modified_date( 'c', $p ) ) . '">' . esc_html( jm_date( $p, 'd/m/Y' ) ) . '</time></span>';
 		}
 	}
 	return '<article class="jm-story jm-story--' . esc_attr( $v ) . ( $soon ? ' is-soon' : '' ) . '">' . $media
@@ -149,12 +147,10 @@ function jm_story( $p, $v = 'md', $o = array() ) {
 		. '<p class="jm-story__meta">' . $meta . '</p></div></article>';
 }
 
-// Cajón de la portada: guía en caja con la etiqueta de su número, como los cajones de un fichero
+// Tarjeta de guía de la portada: foto, título, tema y minutos de lectura
 function jm_cajon( $p ) {
 	$c   = jm_primary_cat( $p->ID );
-	$num = jm_num( $p );
 	return '<article class="jm-cajon">' . jm_story_img( $p, '(min-width: 1240px) 250px, (min-width: 700px) 30vw, 128px' )
-		. ( $num ? '<span class="jm-cajon__tag" aria-hidden="true">Nº ' . esc_html( $num ) . '</span>' : '' )
 		. '<div class="jm-cajon__body"><h3 class="jm-cajon__title"><a href="' . esc_url( get_permalink( $p ) ) . '">' . esc_html( get_the_title( $p ) ) . '</a></h3>'
 		. '<p class="jm-cajon__meta">' . ( $c ? '<span class="jm-cajon__cat">' . esc_html( $c->name ) . '</span>' : '' )
 		. '<span>' . (int) jm_minutes( $p ) . ' min</span></p></div></article>';
@@ -171,8 +167,8 @@ function jm_entry( $p, $rank = 0 ) {
 	$soon = 'publish' !== $p->post_status;
 	$c    = jm_primary_cat( $p->ID );
 	$fig  = (string) get_post_meta( $p->ID, '_jm_cifra', true );
-	$date = $soon ? '<span class="jm-entry__date">—</span>' : '<time class="jm-entry__date" datetime="' . esc_attr( get_the_date( 'c', $p ) ) . '">' . esc_html( get_the_date( 'd·m·y', $p ) ) . '</time>';
-	$n    = $rank ? (string) $rank : jm_num( $p );
+	$date = $soon ? '<span class="jm-entry__date">—</span>' : '<time class="jm-entry__date" datetime="' . esc_attr( get_the_date( 'c', $p ) ) . '">' . esc_html( get_the_date( 'j \d\e F', $p ) ) . '</time>';
+	$n    = $rank ? (string) $rank : '';
 	$t    = esc_html( get_the_title( $p ) );
 	$t    = $soon ? '<span>' . $t . '</span>' : '<a href="' . esc_url( get_permalink( $p ) ) . '">' . $t . '</a>';
 	$cat  = $c ? esc_html( $c->name ) : '';
@@ -186,7 +182,6 @@ function jm_entry( $p, $rank = 0 ) {
 		$fig = '<span class="jm-entry__fig is-time" aria-label="' . (int) $m . ' minutos de lectura">' . (int) $m . ' min</span>';
 	}
 	$k    = $c ? ' data-k="' . esc_attr( $c->slug ) . '"' : '';
-	$n    = ( $rank || '' === $n ) ? $n : 'Nº ' . $n;
 	return '<li class="jm-entry' . ( $soon ? ' is-soon' : '' ) . '"' . $k . '>' . $date . '<span class="jm-entry__n">' . esc_html( $n ) . '</span>'
 		. '<div class="jm-entry__concept">' . $t . '<span class="jm-entry__cat">' . $cat . '</span></div>' . $fig . '</li>';
 }
@@ -203,13 +198,13 @@ function jm_ledger_sort( $list ) {
 }
 
 function jm_ledger( $list, $o ) {
-	$o    = array_merge( array( 'id' => 'libreta', 'title' => 'La libreta de guías', 'page' => 'Hoja 1', 'rank' => false, 'more' => null, 'h' => 'h2' ), $o );
+	$o    = array_merge( array( 'id' => 'libreta', 'title' => 'Últimas guías', 'page' => '', 'rank' => false, 'more' => null, 'h' => 'h2' ), $o );
 	$rows = '';
 	foreach ( $list as $i => $p ) { $rows .= jm_entry( $p, $o['rank'] ? $i + 1 : 0 ); }
 	$more = $o['more'] ? '<a class="jm-ledger__more" href="' . esc_url( home_url( $o['more'][1] ) ) . '">' . esc_html( $o['more'][0] ) . jm_icon( 'arrow' ) . '</a>' : '';
 	return '<section class="jm-ledger' . ( $o['rank'] ? ' jm-ledger--rank' : '' ) . '" aria-labelledby="' . esc_attr( $o['id'] ) . '">'
-		. '<header class="jm-ledger__top"><' . $o['h'] . ' id="' . esc_attr( $o['id'] ) . '">' . esc_html( $o['title'] ) . '</' . $o['h'] . '><span class="jm-ledger__page">' . esc_html( $o['page'] ) . '</span></header>'
-		. '<div class="jm-ledger__cols" aria-hidden="true"><span>Fecha</span><span>' . ( $o['rank'] ? 'Puesto' : 'Nº' ) . '</span><span>Guía</span><span>Dato</span></div>'
+		. '<header class="jm-ledger__top"><' . $o['h'] . ' id="' . esc_attr( $o['id'] ) . '">' . esc_html( $o['title'] ) . '</' . $o['h'] . '>' . ( '' !== $o['page'] ? '<span class="jm-ledger__page">' . esc_html( $o['page'] ) . '</span>' : '' ) . '</header>'
+		. '<div class="jm-ledger__cols" aria-hidden="true"><span>Fecha</span><span>' . ( $o['rank'] ? 'Puesto' : '' ) . '</span><span>Guía</span><span>Dato</span></div>'
 		. '<ol class="jm-ledger__rows">' . $rows . '</ol>' . $more . '</section>';
 }
 
@@ -347,7 +342,7 @@ function jm_upcoming() {
 	}
 	if ( ! $rows ) { return ''; }
 	return '<section class="jm-upcoming" aria-labelledby="prep-title"><div class="jm-wrap"><div class="jm-upcoming__box">'
-		. '<header class="jm-upcoming__head"><h2 id="prep-title">Próximas hojas de la libreta</h2><p>Estamos escribiendo las guías de estos temas. Mientras tanto, cada tema tiene su página con lo esencial y sus calculadoras.</p></header>'
+		. '<header class="jm-upcoming__head"><h2 id="prep-title">Próximas guías</h2><p>Estamos escribiendo las guías de estos temas. Mientras tanto, cada tema tiene su página con lo esencial y sus calculadoras.</p></header>'
 		. '<ul class="jm-upcoming__list">' . $rows . '</ul></div></div></section>';
 }
 

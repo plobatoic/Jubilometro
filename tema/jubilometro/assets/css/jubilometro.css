@@ -1,84 +1,90 @@
 /* ==========================================================================
-   JUBILÓMETRO · Sistema de diseño v3 · «La cartilla»
-   La web como la libreta de ahorros de tu jubilación: papel pautado, tinta de
-   impresora azul, sello de revisión verde y cada cifra con su fecha.
+   JUBILÓMETRO · Sistema de diseño v4 · «Pino y latón»
+   La sección de economía de un buen periódico: titulares con letra de prensa,
+   texto claro y muy legible, verde pino como color de la casa y latón para las cifras.
 
    Reglas fijas
-   · Formas: esquinas de papel. Botones y campos 4 px, hojas 6 px, fotos 3 px. Sin píldoras.
-   · Tipografía: Archivo (grotesca bancaria; títulos en anchura expandida) para todo el texto.
-     Martian Mono (impresora de libreta) SOLO para fechas, números de apunte, cifras y tablas.
-   · Color: papel verdoso claro + azul tinta. Verde = sello y acento. Rojo solo para recortes.
+   · Tipografía: Newsreader (titulares y cifras destacadas) y Public Sans (texto, menús, formularios,
+     tablas). Sin letra de máquina de escribir: los números van en tabulares de Public Sans.
+   · Color: fondo blanco, bandas en verde muy claro, verde pino para marca, botones y enlaces,
+     latón solo para las cifras grandes. Rojo solo para recortes.
+   · Formas: esquinas suaves (6-10 px), líneas finas de 1 px, sombras discretas. Sin adornos:
+     nada de tramas, sellos, espirales ni numeraciones decorativas.
    ========================================================================== */
 
 /* 0. TIPOGRAFÍAS (licencia OFL, servidas desde el propio dominio) */
-@font-face { font-family: "Archivo"; font-style: normal; font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; src: url("../fonts/archivo-normal-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
-@font-face { font-family: "Archivo"; font-style: normal; font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; src: url("../fonts/archivo-normal-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
-@font-face { font-family: "Archivo"; font-style: italic; font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; src: url("../fonts/archivo-italic-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
-@font-face { font-family: "Archivo"; font-style: italic; font-weight: 100 900; font-stretch: 62% 125%; font-display: swap; src: url("../fonts/archivo-italic-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
-@font-face { font-family: "Martian Mono"; font-style: normal; font-weight: 100 800; font-stretch: 75% 112.5%; font-display: swap; src: url("../fonts/martian-mono-normal-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
-@font-face { font-family: "Martian Mono"; font-style: normal; font-weight: 100 800; font-stretch: 75% 112.5%; font-display: swap; src: url("../fonts/martian-mono-normal-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Newsreader"; font-style: normal; font-weight: 300 650; font-display: swap; src: url("../fonts/newsreader-normal-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Newsreader"; font-style: normal; font-weight: 300 650; font-display: swap; src: url("../fonts/newsreader-normal-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Newsreader"; font-style: italic; font-weight: 300 650; font-display: swap; src: url("../fonts/newsreader-italic-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Newsreader"; font-style: italic; font-weight: 300 650; font-display: swap; src: url("../fonts/newsreader-italic-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Public Sans"; font-style: normal; font-weight: 100 900; font-display: swap; src: url("../fonts/public-sans-normal-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+@font-face { font-family: "Public Sans"; font-style: normal; font-weight: 100 900; font-display: swap; src: url("../fonts/public-sans-normal-latin-ext.woff2") format("woff2"); unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+@font-face { font-family: "Public Sans"; font-style: italic; font-weight: 100 900; font-display: swap; src: url("../fonts/public-sans-italic-latin.woff2") format("woff2"); unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
 
 /* 1. TOKENS ---------------------------------------------------------------- */
 :root {
-  /* Papel y pauta */
-  --jm-paper: #F1F5F2;          /* papel de libreta (fondo de página) */
-  --jm-sheet: #FBFCFA;          /* hoja impresa (paneles, tarjetas) */
+  /* Superficies */
+  --jm-paper: #FFFFFF;          /* fondo de página */
+  --jm-sheet: #FFFFFF;          /* paneles y tarjetas */
   --jm-white: #FFFFFF;
-  --jm-tint: #E7EFEA;           /* papel algo más tintado (bandas) */
-  --jm-mist: #E6EDF3;           /* papel azulado (tablas, marcas) */
-  --jm-sky: #E6EDF3;
-  --jm-rule: #CFDCE6;           /* pauta azul pálido */
-  --jm-line: #CFDCE6;
-  --jm-line-2: #A9BCCD;         /* pauta marcada */
-  --jm-margin: #E0A59C;         /* margen rojo del libro de cuentas */
+  --jm-tint: #F3F6F4;           /* bandas de sección */
+  --jm-mist: #EEF3F0;           /* cabeceras de tabla, campos auxiliares */
+  --jm-sky: #EEF3F0;
+  --jm-rule: #E4EAE6;           /* líneas interiores */
+  --jm-line: #DCE3DF;
+  --jm-line-2: #C4D0CA;         /* bordes de tarjetas y controles secundarios */
+  --jm-margin: transparent;
   /* Tintas */
-  --jm-ink: #12304F;            /* tinta de impresora, portada de la libreta */
-  --jm-ink-soft: #1C4470;
-  --jm-text: #1F3246;
-  --jm-muted: #4E5F75;          /* AA sobre papel, hoja y tintas */
-  --jm-accent: #2E7359;         /* sello verde */
-  --jm-accent-strong: #235A45;  /* verde para texto */
-  --jm-accent-light: #9ED4BC;
-  --jm-sage: #E2EEE6;
-  --jm-sage-2: #C4DDCD;
+  --jm-ink: #14211C;            /* titulares */
+  --jm-ink-soft: #2A3833;
+  --jm-text: #28352F;           /* texto */
+  --jm-muted: #52605A;          /* AA sobre blanco y bandas */
+  --jm-pine: #1E4B40;           /* verde pino: marca, botones y enlaces */
+  --jm-pine-dark: #163A31;
+  --jm-accent: #1E4B40;
+  --jm-accent-strong: #1E4B40;  /* enlaces y textos en verde */
+  --jm-accent-light: #BFD9CE;   /* verde claro sobre fondo oscuro */
+  --jm-brass: #926217;          /* latón: cifras grandes (4,9:1 sobre blanco) */
+  --jm-brass-soft: #F7F0E4;
+  --jm-sage: #EAF1ED;           /* fondos suaves, estados «encima» */
+  --jm-sage-2: #CFE0D7;
   --jm-red: #A4342A;            /* recortes (coeficientes, pérdidas) */
-  --jm-control: #72849A;        /* borde de campos: 3:1 */
-  --jm-warn-bg: #FAF0D6;
-  --jm-warn-ink: #6B4E0E;
+  --jm-control: #7C8C85;        /* borde de campos: 3:1 */
+  --jm-warn-bg: #FBF3E1;
+  --jm-warn-ink: #6B4A0E;
 
-  --jm-font-display: "Archivo", "Arial Narrow", "Helvetica Neue", Arial, sans-serif;
-  --jm-font-body: "Archivo", "Helvetica Neue", Arial, sans-serif;
-  --jm-font-mono: "Martian Mono", "Consolas", "Menlo", monospace;
-  --jm-wide: 116%;              /* anchura expandida de los titulares */
-  --jm-mono-w: 84%;             /* anchura de la impresora */
+  --jm-font-display: "Newsreader", "Newsreader Reserva", Georgia, "Times New Roman", serif;
+  --jm-font-body: "Public Sans", "Public Sans Reserva", "Helvetica Neue", Arial, sans-serif;
+  --jm-font-mono: var(--jm-font-body); /* las cifras van en Public Sans con números tabulares */
+  --jm-wide: 100%;
+  --jm-mono-w: 100%;
 
   --jm-fs-xs: .9375rem;
   --jm-fs-sm: 1rem;
-  --jm-fs-body: clamp(1.1875rem, 1.13rem + .25vw, 1.25rem);
+  --jm-fs-body: clamp(1.125rem, 1.08rem + .22vw, 1.1875rem);
   --jm-fs-lead: clamp(1.1875rem, 1.1rem + .45vw, 1.375rem);
   --jm-fs-h4: 1.1875rem;
   --jm-fs-h3: clamp(1.3rem, 1.2rem + .45vw, 1.5rem);
-  --jm-fs-h2: clamp(1.75rem, 1.35rem + 1.6vw, 2.5rem);
-  --jm-fs-h1: clamp(2.25rem, 1.45rem + 3vw, 3.9rem);
+  --jm-fs-h2: clamp(1.8rem, 1.4rem + 1.6vw, 2.6rem);
+  --jm-fs-h1: clamp(2.4rem, 1.5rem + 3.4vw, 4.2rem);
 
-  --jm-radius: 4px;
-  --jm-radius-lg: 6px;
-  --jm-radius-sm: 3px;
-  --jm-pill: 4px;
-  --jm-shadow-1: 0 1px 0 rgb(18 48 79 / .06), 0 2px 6px -2px rgb(18 48 79 / .10);
-  --jm-shadow-2: 0 1px 2px rgb(18 48 79 / .08), 0 8px 12px -8px rgb(18 48 79 / .28);
+  --jm-radius: 6px;
+  --jm-radius-lg: 10px;
+  --jm-radius-sm: 4px;
+  --jm-pill: 999px;
+  --jm-shadow-1: 0 1px 2px rgb(20 33 28 / .05), 0 2px 8px -4px rgb(20 33 28 / .10);
+  --jm-shadow-2: 0 2px 4px rgb(20 33 28 / .05), 0 18px 36px -20px rgb(20 33 28 / .30);
   --jm-ease: cubic-bezier(.23, 1, .32, 1);
 
-  --jm-wrap: 1360px;
-  --jm-read: 48rem;
+  --jm-wrap: 1240px;
+  --jm-read: 46rem;
   --jm-gutter: clamp(1rem, .4rem + 2.4vw, 2.5rem);
   --jm-section: clamp(3.25rem, 2.4rem + 3.6vw, 6rem);
   --jm-header-h: 76px;
   --jm-ad-h: 280px;
-  /* Guilloche de seguridad del papel de libreta (ondas finas en verde) */
-  --jm-guilloche: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='64' viewBox='0 0 240 64'%3E%3Cg fill='none' stroke='%232E7359' stroke-width='.7' opacity='.55'%3E%3Cpath d='M0 32c20-26 40-26 60 0s40 26 60 0 40-26 60 0 40 26 60 0'/%3E%3Cpath d='M0 32c20 26 40 26 60 0s40-26 60 0 40 26 60 0 40-26 60 0'/%3E%3Cpath d='M0 22c20-18 40-18 60 0s40 18 60 0 40-18 60 0 40 18 60 0'/%3E%3Cpath d='M0 42c20 18 40 18 60 0s40-18 60 0 40 18 60 0 40-18 60 0'/%3E%3Cpath d='M0 12c20-10 40-10 60 0s40 10 60 0 40-10 60 0 40 10 60 0'/%3E%3Cpath d='M0 52c20 10 40 10 60 0s40-10 60 0 40 10 60 0 40-10 60 0'/%3E%3C/g%3E%3C/svg%3E");
+  --jm-guilloche: none;
   color-scheme: light;
-  accent-color: var(--jm-accent);
+  accent-color: var(--jm-pine);
 }
 @media (min-width: 768px) { :root { --jm-ad-h: 250px; } }
 
@@ -1465,18 +1471,6 @@ body:not(.jm-ads-on) li:has(> [data-jm-cookies]), body:not(.jm-ads-on) [data-jm-
   .jm-topic__list small { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 }
 
-/* --- Tipografía de reserva con las medidas de Archivo (evita el salto al cargar la fuente) ---
-   Mientras llega Archivo se pinta Arial/Helvetica/Roboto ajustada a su anchura: los titulares
-   (Archivo ancho, 116 %) ocupan lo mismo y no cambian de número de líneas al cambiar de fuente. */
-@font-face { font-family: "Archivo Titular"; font-weight: 100 650; src: local("Arial"), local("ArialMT"), local("Helvetica"), local("Roboto"), local("Liberation Sans"); size-adjust: 112%; }
-@font-face { font-family: "Archivo Titular"; font-weight: 651 900; src: local("Arial Bold"), local("Arial-BoldMT"), local("Helvetica Bold"), local("Roboto Bold"), local("Liberation Sans Bold"); size-adjust: 118%; }
-@font-face { font-family: "Archivo Texto"; font-weight: 100 650; src: local("Arial"), local("ArialMT"), local("Helvetica"), local("Roboto"), local("Liberation Sans"); size-adjust: 98.3%; }
-@font-face { font-family: "Archivo Texto"; font-weight: 651 900; src: local("Arial Bold"), local("Arial-BoldMT"), local("Helvetica Bold"), local("Roboto Bold"), local("Liberation Sans Bold"); size-adjust: 98.1%; }
-:root {
-  --jm-font-display: "Archivo", "Archivo Titular", "Helvetica Neue", Arial, sans-serif;
-  --jm-font-body: "Archivo", "Archivo Texto", "Helvetica Neue", Arial, sans-serif;
-}
-
 /* --- Resultados de las calculadoras en el móvil (2.1.1) ---
    Un dato largo («67 años y 4 meses (marzo de 2033)») no cabía junto a su etiqueta y se cortaba
    por la derecha: ahora baja a su propia línea, alineado a la derecha. */
@@ -1569,3 +1563,354 @@ h1, h2, h3 { overflow-wrap: break-word; }
   .jm-keydata__item:nth-child(2n) { border-left: 0; }
   .jm-keydata__item + .jm-keydata__item { border-top: 1px solid var(--jm-rule); }
 }
+
+/* ==========================================================================
+   v4 · PINO Y LATÓN (rediseño completo, 30/09/2026)
+   Esta capa redibuja todos los componentes con el sistema nuevo. Va al final para
+   ganar a las reglas anteriores sin tocar su estructura (rejillas, móvil, calculadoras).
+   ========================================================================== */
+
+/* Letras de reserva con medidas parecidas mientras llegan las de verdad (menos saltos al cargar) */
+@font-face { font-family: "Newsreader Reserva"; src: local("Georgia"), local("Times New Roman"), local("Liberation Serif"); size-adjust: 92%; ascent-override: 92%; descent-override: 26%; }
+@font-face { font-family: "Public Sans Reserva"; src: local("Arial"), local("ArialMT"), local("Helvetica"), local("Liberation Sans"), local("Roboto"); size-adjust: 102%; }
+
+/* --- Base ---------------------------------------------------------------- */
+html body { background: var(--jm-paper); color: var(--jm-text); line-height: 1.68; font-feature-settings: "kern", "liga"; }
+h1, h2, h3 { font-family: var(--jm-font-display); font-weight: 600; font-stretch: normal; letter-spacing: -.012em; color: var(--jm-ink); font-synthesis: none; }
+h1 { line-height: 1.05; }
+h2 { line-height: 1.12; }
+h3 { line-height: 1.2; }
+h4 { font-family: var(--jm-font-body); font-weight: 700; font-stretch: normal; }
+a { color: var(--jm-pine); text-decoration-thickness: 1px; text-underline-offset: .18em; }
+a:hover { color: var(--jm-pine-dark); }
+strong { font-weight: 700; }
+::selection { background: #E9DCC0; color: var(--jm-ink); }
+:focus-visible { outline: 3px solid var(--jm-pine); outline-offset: 3px; border-radius: 3px; }
+.num, .jm-num, .jm-mono { font-family: var(--jm-font-body); font-variant-numeric: tabular-nums lining-nums; }
+.jm-eyebrow { font: 700 .8125rem/1.3 var(--jm-font-body); letter-spacing: .08em; color: var(--jm-brass); }
+.jm-link-arrow { color: var(--jm-pine); font-weight: 650; }
+.jm-link-arrow:hover { color: var(--jm-pine-dark); }
+.jm-stamp, .jm-pin { display: none !important; }
+.jm-section--tint, .jm-rail--tint { background: var(--jm-tint); }
+.jm-section-head p, .jm-rail__head p { color: var(--jm-muted); }
+[data-k] { --k: var(--jm-pine); }
+
+/* --- Cabecera -------------------------------------------------------------- */
+.jm-header { background: rgb(255 255 255 / .96); border-top: 0; border-bottom: 1px solid var(--jm-line); }
+.jm-header.is-stuck { box-shadow: 0 8px 20px -16px rgb(20 33 28 / .45); }
+.jm-logo span { font: 600 1.62rem/1 var(--jm-font-display); font-stretch: normal; letter-spacing: -.012em; color: var(--jm-ink); }
+.jm-nav > ul > li > a, .jm-nav > ul > li > button { font: 600 1.0625rem/1 var(--jm-font-body); color: var(--jm-ink); border-radius: var(--jm-radius); }
+.jm-nav > ul > li > a:hover, .jm-nav > ul > li > button:hover, .jm-nav li:focus-within > button { background: var(--jm-sage); }
+.jm-nav a[aria-current="page"], .jm-nav button[aria-current="true"] { color: var(--jm-pine); box-shadow: inset 0 -2px 0 var(--jm-pine); }
+.jm-sub { border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); box-shadow: var(--jm-shadow-2); padding: .6rem; }
+.jm-sub a { border-bottom: 0; border-radius: var(--jm-radius); font-weight: 650; }
+.jm-sub a:hover { background: var(--jm-sage); }
+.jm-iconbtn { background: var(--jm-white); border: 1.5px solid var(--jm-line-2); border-radius: var(--jm-radius); font-weight: 650; }
+.jm-iconbtn:hover { border-color: var(--jm-pine); color: var(--jm-pine); }
+.jm-drawer { background: rgb(20 33 28 / .38); }
+.jm-drawer__panel { background: var(--jm-white); border-left: 1px solid var(--jm-line); }
+.jm-drawer nav ul { border: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-drawer nav a { font-weight: 650; }
+.jm-search::backdrop { background: rgb(20 33 28 / .42); }
+.jm-search__card { border-radius: var(--jm-radius-lg); border-top: 0; }
+
+/* --- Botones, chips y campos --------------------------------------------- */
+.jm-btn { --b: var(--jm-pine); border-radius: var(--jm-radius); font: 650 1.0625rem/1.1 var(--jm-font-body); font-stretch: normal; min-height: 52px; }
+.jm-btn:hover { --b: var(--jm-pine-dark); }
+.jm-btn--green { --b: var(--jm-pine); }
+.jm-btn--green:hover { --b: var(--jm-pine-dark); }
+.jm-btn--ink { --b: var(--jm-ink); }
+.jm-btn--ghost { --b: transparent; --f: var(--jm-ink); border-color: var(--jm-line-2); background: transparent; }
+.jm-btn--ghost:hover { --b: var(--jm-sage); --f: var(--jm-pine); background: var(--jm-sage); border-color: var(--jm-pine); color: var(--jm-pine); }
+.jm-chip { border-radius: var(--jm-pill); background: var(--jm-sage); color: var(--jm-pine); font-weight: 650; }
+.jm-chip--ink { background: var(--jm-white); border: 1px solid var(--jm-line); color: var(--jm-muted); font: 600 .875rem/1.3 var(--jm-font-body); }
+a.jm-chip:hover { background: var(--jm-sage-2); color: var(--jm-pine-dark); }
+html body :is(.jm-input, .jm-select, .jm-textarea) { font-family: var(--jm-font-body); border: 1.5px solid var(--jm-control); border-radius: var(--jm-radius); }
+html body :is(.jm-input, .jm-select, .jm-textarea):hover { border-color: var(--jm-ink); }
+html body :is(.jm-input, .jm-select, .jm-textarea):focus { border-color: var(--jm-pine); box-shadow: 0 0 0 4px rgb(30 75 64 / .16); }
+.jm-input-group .jm-unit { border: 1.5px solid var(--jm-control); border-left: 0; background: var(--jm-mist); font: 600 1rem/1 var(--jm-font-body); color: var(--jm-muted); }
+.jm-seg { border-color: var(--jm-control); border-radius: var(--jm-radius); }
+.jm-seg label + label { border-left-color: var(--jm-line-2); }
+.jm-seg label:has(input:checked) { background: var(--jm-pine); }
+
+/* --- Portada: cabecera con titular, buscador y guía destacada -------------- */
+.jm-mast { padding-block: clamp(2.25rem, 1.5rem + 3vw, 4.5rem) clamp(2rem, 1.4rem + 2.4vw, 3.75rem); background: var(--jm-white); border-bottom: 1px solid var(--jm-line); }
+.jm-mast::before { display: none; }
+.jm-mast__row { align-items: center; gap: 2.5rem 4.5rem; }
+@media (min-width: 1000px) { .jm-mast__row { grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); } }
+@media (min-width: 1240px) { .jm-mast__row { grid-template-columns: minmax(0, 1.05fr) minmax(0, 1fr); } }
+.jm-mast__title { font-size: clamp(2.6rem, 1.5rem + 3.8vw, 4.7rem); font-weight: 600; font-stretch: normal; letter-spacing: -.022em; line-height: 1.02; color: var(--jm-ink); }
+.jm-mast__title em { font-style: italic; font-weight: 500; color: var(--jm-pine); background: none; animation: none; }
+.jm-mast__title > h1 > span { display: block; }
+.jm-mast__lead { margin-top: 1.25rem; max-width: 34rem; color: var(--jm-muted); }
+.jm-mast__lead strong { color: var(--jm-text); font-weight: 650; }
+.jm-mast__side { margin-top: 1.9rem; max-width: 36rem; }
+.jm-mast__search { background: var(--jm-white); border: 1.5px solid var(--jm-line-2); border-bottom: 2px solid var(--jm-pine); border-radius: var(--jm-radius-lg); box-shadow: var(--jm-shadow-1); padding: .4rem .4rem .4rem 1.1rem; }
+.jm-mast__search:focus-within { border-color: var(--jm-pine); box-shadow: 0 0 0 4px rgb(30 75 64 / .16); }
+.jm-mast__search .jm-btn { min-height: 50px; }
+.jm-mast__hint { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-top: 1rem; font-size: .9375rem; }
+.jm-mast__hint > span { font-weight: 600; color: var(--jm-muted); margin-right: .15rem; }
+.jm-mast__hint a { display: inline-flex; align-items: center; min-height: 40px; padding: 0 .9rem; border-radius: var(--jm-pill); background: var(--jm-sage); color: var(--jm-ink); font-weight: 600; text-decoration: none; transition: background-color .2s ease, color .2s ease; }
+.jm-mast__hint a:hover { background: var(--jm-sage-2); color: var(--jm-pine-dark); }
+.jm-mast__lead-story { min-width: 0; }
+.jm-mast__lead-story .jm-story--lead { display: flex; flex-direction: column; gap: 0; background: var(--jm-white); border: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); overflow: hidden; box-shadow: var(--jm-shadow-2); transition: box-shadow .3s ease, transform .3s var(--jm-ease); }
+.jm-mast__lead-story .jm-story__media { aspect-ratio: 16 / 9; border-radius: 0; outline: 0; }
+.jm-mast__lead-story .jm-story__body { padding: 1.25rem 1.5rem 1.4rem; gap: .55rem; }
+.jm-mast__lead-story .jm-story__title { font-size: clamp(1.45rem, 1.2rem + .9vw, 1.95rem); line-height: 1.14; font-weight: 600; letter-spacing: -.012em; }
+.jm-mast__lead-story .jm-story__dek { font-size: 1.0625rem; color: var(--jm-muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+@media (hover: hover) and (pointer: fine) { .jm-mast__lead-story .jm-story--lead:hover { transform: translateY(-3px); box-shadow: 0 2px 4px rgb(20 33 28 / .05), 0 28px 48px -26px rgb(20 33 28 / .45); } }
+
+/* Tarjetas y datos de las guías */
+.jm-story__media { border-radius: var(--jm-radius); outline: 1px solid rgb(20 33 28 / .06); }
+.jm-story__title { font-weight: 600; font-stretch: normal; letter-spacing: -.01em; }
+.jm-story__meta { font: 500 .875rem/1.4 var(--jm-font-body); color: var(--jm-muted); font-variant-numeric: tabular-nums; }
+.jm-story__cat a { font: 700 .8125rem/1.4 var(--jm-font-body); letter-spacing: .06em; text-transform: uppercase; color: var(--jm-brass); }
+.jm-story__cat a:hover { color: var(--jm-pine); }
+.jm-story--lead .jm-story__title, .jm-story--feature .jm-story__title { font-weight: 600; font-stretch: normal; letter-spacing: -.015em; }
+.jm-story__media--empty, .jm-ph { background: var(--jm-sage); }
+
+/* --- Portada: más guías y últimas publicadas ------------------------------ */
+.jm-front { padding-block: clamp(2.25rem, 1.6rem + 2.4vw, 3.75rem) clamp(2.75rem, 2rem + 2.4vw, 4.5rem); }
+.jm-cajon { background: var(--jm-white); border: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); box-shadow: none; padding: 0 0 1.15rem; overflow: hidden; }
+.jm-cajon .jm-story__media { border-radius: 0; outline: 0; }
+.jm-cajon__tag, .jm-cajon::after { display: none; }
+.jm-cajon__body { padding-inline: 1.1rem; gap: .55rem; }
+.jm-cajon__title { font: 600 1.2rem/1.22 var(--jm-font-display); font-stretch: normal; letter-spacing: -.008em; }
+.jm-cajon__title a { color: var(--jm-ink); }
+.jm-cajon__meta { font: 500 .875rem/1.4 var(--jm-font-body); color: var(--jm-muted); }
+.jm-cajon__cat { font: 700 .8125rem/1.4 var(--jm-font-body); letter-spacing: .06em; text-transform: uppercase; color: var(--jm-brass); }
+@media (hover: hover) and (pointer: fine) { .jm-cajon:hover { transform: translateY(-3px); border-color: var(--jm-line-2); box-shadow: var(--jm-shadow-2); } .jm-cajon:hover .jm-cajon__title a { text-decoration-color: var(--jm-pine); } }
+@container (max-width: 519px) { .jm-cajon { padding: .6rem; gap: .9rem; } .jm-cajon .jm-story__media { border-radius: var(--jm-radius); } .jm-cajon__body { padding: .1rem .2rem .1rem 0; } }
+
+/* Últimas guías (antes, la libreta) */
+.jm-ledger { border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); box-shadow: none; background: var(--jm-white); }
+.jm-ledger__top h2, .jm-ledger__top h3 { font-weight: 600; font-stretch: normal; }
+.jm-ledger__cols { background: var(--jm-mist); border-block-color: var(--jm-line); }
+.jm-ledger__rows::before, .jm-ledger__cols::before { display: none; }
+.jm-entry { border-bottom: 1px solid var(--jm-rule); }
+.jm-entry__date, .jm-entry__n, .jm-entry__fig { font-family: var(--jm-font-body); font-variant-numeric: tabular-nums; }
+.jm-ledger--rank .jm-entry__n { font: 600 1.6rem/1 var(--jm-font-display); color: var(--jm-brass); }
+.jm-front .jm-ledger { margin-top: 0; background: var(--jm-white); border-radius: var(--jm-radius-lg); box-shadow: none; }
+.jm-front .jm-ledger::before, .jm-front .jm-ledger__top::after { display: none; }
+.jm-front .jm-ledger__top { padding: 1.15rem 1.3rem 1rem; border-bottom: 1px solid var(--jm-line); }
+.jm-front .jm-ledger__top h2 { font-size: clamp(1.4rem, 1.25rem + .5vw, 1.65rem); padding-right: 0; }
+.jm-front .jm-entry { grid-template-columns: minmax(0, 1fr) auto; column-gap: 1rem; row-gap: .2rem; padding: .95rem 1.3rem; border-bottom: 1px solid var(--jm-rule); }
+.jm-front .jm-entry::before { display: none; }
+.jm-front .jm-entry__date { grid-column: 1; grid-row: 1; font: 600 .8125rem/1.3 var(--jm-font-body); letter-spacing: .04em; text-transform: uppercase; color: var(--jm-muted); }
+.jm-front .jm-entry__n { display: none; }
+.jm-front .jm-entry__concept { grid-column: 1; grid-row: 2; }
+.jm-front .jm-entry__concept a { font: 600 1.125rem/1.28 var(--jm-font-display); letter-spacing: -.005em; }
+.jm-front .jm-entry__cat { font-weight: 600; color: var(--jm-muted); }
+.jm-front .jm-entry__fig { grid-column: 2; grid-row: 1 / 3; border-color: var(--jm-line); background: var(--jm-white); font-weight: 600; color: var(--jm-muted); }
+@media (hover: hover) and (pointer: fine) { .jm-front .jm-entry:hover { background: var(--jm-sage); } }
+.jm-front .jm-ledger__more, .jm-ledger__more { padding-left: 1.3rem; border-top: 1px solid var(--jm-line); background: var(--jm-white); color: var(--jm-pine); border-radius: 0 0 var(--jm-radius-lg) var(--jm-radius-lg); }
+.jm-front .jm-ledger__more:hover, .jm-ledger__more:hover { background: var(--jm-sage); color: var(--jm-pine-dark); }
+.jm-resume { border-color: var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-resume::before { background: var(--jm-brass); }
+.jm-front .jm-entry, .jm-cajonera > * { animation: none; }
+
+/* --- Barra de temas ------------------------------------------------------- */
+.jm-topicbar { background: var(--jm-white); border-block: 1px solid var(--jm-line); }
+.jm-topicbar a { border-radius: var(--jm-pill); background: var(--jm-white); border-color: var(--jm-line); font-weight: 600; }
+.jm-topicbar a .jm-i { color: var(--jm-pine); }
+.jm-topicbar a:hover { background: var(--jm-sage); border-color: var(--jm-sage-2); }
+
+/* --- Cifras del año ------------------------------------------------------- */
+.jm-figures { background: var(--jm-tint); border-block: 0; }
+.jm-figures__head h2 { font-weight: 600; }
+.jm-saldo { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1rem; background: transparent; border: 0; box-shadow: none; }
+@media (min-width: 640px) { .jm-saldo { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 1100px) { .jm-saldo { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
+.jm-saldo__row, .jm-saldo__row:last-child { display: flex; flex-direction: column; gap: .35rem; padding: 1.25rem 1.3rem 1.2rem; background: var(--jm-white); border: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); transition: border-color .2s ease, box-shadow .25s ease; }
+.jm-saldo__row:hover { background: var(--jm-white); border-color: var(--jm-line-2); box-shadow: var(--jm-shadow-2); }
+.jm-saldo__v { order: -1; margin-bottom: .35rem; font: 600 clamp(2rem, 1.7rem + .9vw, 2.55rem)/1 var(--jm-font-display); color: var(--jm-brass); font-variant-numeric: lining-nums tabular-nums; letter-spacing: -.01em; word-spacing: normal; text-align: left; }
+.jm-saldo__v small { font: 600 .9375rem/1 var(--jm-font-body); color: var(--jm-muted); margin-left: .1em; margin-right: .3em; }
+.jm-saldo__c { font-size: 1.0625rem; font-weight: 700; color: var(--jm-ink); }
+.jm-saldo__n { font-size: .9375rem; }
+.jm-saldo__norma { font: 600 .75rem/1.3 var(--jm-font-body); letter-spacing: .06em; color: var(--jm-muted); }
+.jm-saldo__row > * { align-self: flex-start; text-align: left; }
+.jm-saldo__row a { margin-top: auto; padding-top: .6rem; font-size: .9375rem; }
+
+/* --- Calculadora rápida de la portada ------------------------------------ */
+.jm-toolband__copy h2 { font-weight: 600; letter-spacing: -.02em; }
+.jm-quick { background: var(--jm-tint); border: 0; border-radius: var(--jm-radius-lg); }
+.jm-passbook, .jm-passbook:hover, .jm-passbook:focus-within { transform: none; border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); box-shadow: var(--jm-shadow-2); background: var(--jm-white); }
+.jm-passbook__top b { font: 600 1.4rem/1.2 var(--jm-font-display); font-stretch: normal; }
+.jm-passbook__cols { background: var(--jm-mist); border-block-color: var(--jm-line); }
+.jm-print::before { display: none; }
+.jm-print__row { font: 500 1rem/1.45 var(--jm-font-body); text-transform: none; color: var(--jm-text); border-bottom-color: var(--jm-rule); }
+.jm-print__row > span:last-child { font-weight: 700; color: var(--jm-ink); }
+.jm-print__row.is-new { background: var(--jm-sage); color: var(--jm-ink); }
+.jm-print__row.is-new > span:last-child { font: 600 1.35rem/1.2 var(--jm-font-display); color: var(--jm-pine); }
+.jm-caret::after { display: none; }
+
+/* --- Guías por tema -------------------------------------------------------- */
+.jm-temas__top { border-top: 0; padding-top: 0; }
+.jm-temas__top h2 { font-weight: 600; font-stretch: normal; letter-spacing: -.015em; }
+.jm-tema { border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); background: var(--jm-white); padding: 1.25rem 1.3rem 1.15rem; }
+.jm-tema__icon { background: var(--jm-sage); color: var(--jm-pine); }
+.jm-tema h3 { font: 600 1.35rem/1.15 var(--jm-font-display); font-stretch: normal; }
+.jm-tema__n { font: 500 .875rem/1.3 var(--jm-font-body); }
+.jm-tema__list a { font-weight: 500; color: var(--jm-text); }
+.jm-tema__list a:hover { color: var(--jm-pine); }
+.jm-tema__more { color: var(--jm-pine); font-weight: 650; }
+@media (hover: hover) and (pointer: fine) { .jm-tema:hover { transform: translateY(-3px); box-shadow: var(--jm-shadow-2); border-color: var(--jm-line-2); } }
+
+/* --- Secciones de la portada y de los temas ------------------------------- */
+.jm-rail__head, .jm-duo__head { border-top: 1px solid var(--jm-line); padding-top: 1.25rem; }
+.jm-rail__head h2, .jm-duo__head h2, .jm-upcoming__head h2, .jm-topic__head h2, .jm-life__body h3, .jm-tile--feature h3, .jm-toolband__copy h2, .jm-nl__body h2 { font-weight: 600; font-stretch: normal; }
+.jm-upcoming__box, .jm-bento, .jm-timeline, .jm-life__card, .jm-nl, .jm-topic__list, .jm-results { border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); box-shadow: none; }
+.jm-upcoming__list li, .jm-tile, .jm-topic__list li + li { border-color: var(--jm-rule); }
+.jm-tile h3 { font-weight: 600; }
+.jm-tile__icon, .jm-trust__icon { background: var(--jm-sage); color: var(--jm-pine); border-radius: var(--jm-radius); }
+.jm-tile__norm { font: 600 .75rem/1.3 var(--jm-font-body); letter-spacing: .06em; }
+.jm-tile__go { color: var(--jm-pine); }
+.jm-tile__spark span { background: var(--jm-pine); }
+.jm-tile__spark span:nth-child(3n) { background: #C9A15A; }
+@media (hover: hover) and (pointer: fine) { .jm-tile:hover, .jm-upcoming__list a:hover, .jm-update:hover, .jm-topic__list a:hover { background: var(--jm-sage); } }
+.jm-update time { font: 600 .8125rem/1.2 var(--jm-font-body); letter-spacing: .06em; }
+.jm-update h3 { font-weight: 600; }
+.jm-life__links a .jm-i { color: var(--jm-pine); }
+.jm-life__card:hover { box-shadow: var(--jm-shadow-2); }
+.jm-trust { background: var(--jm-white); border-block-color: var(--jm-line); }
+.jm-trust__icon--avatar { background: var(--jm-pine); font: 600 1.05rem/1 var(--jm-font-display); }
+.jm-person { background: var(--jm-sage); border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-person__mono { background: var(--jm-pine); font: 600 3.4rem/1 var(--jm-font-display); font-stretch: normal; outline-color: var(--jm-sage-2); }
+.jm-person__card { border-color: var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-person__name { font: 600 1.4rem/1.2 var(--jm-font-display); font-stretch: normal; }
+.jm-principles li { border-top-color: var(--jm-rule); }
+.jm-principles h3 { font-weight: 600; }
+.jm-nl__list .jm-i { color: var(--jm-pine); }
+.jm-nl__ok { background: var(--jm-sage); }
+
+/* --- Pie ------------------------------------------------------------------- */
+.jm-footer { background: #14211C; color: #CAD4CF; }
+.jm-footer__brand p, .jm-footer .jm-meta, .jm-footer .jm-meta span, .jm-footer__legal { color: #BFCAC4; }
+.jm-footer .jm-logo span { color: #FFFFFF; }
+.jm-footer .jm-logo rect { fill: #FFFFFF; }
+.jm-footer .jm-logo path:first-of-type { stroke: var(--jm-pine); }
+.jm-footer .jm-logo circle { fill: var(--jm-pine); }
+.jm-footer h2 { font: 700 .8125rem/1.25 var(--jm-font-body); letter-spacing: .08em; text-transform: uppercase; color: #D9B46A; }
+.jm-footer ul a, .jm-footer .jm-linkbtn { color: #E7ECE9; }
+.jm-footer .jm-meta .jm-i { color: #D9B46A; }
+.jm-footer :focus-visible { outline-color: #D9B46A; }
+.jm-footer__legal { border-top-color: rgb(255 255 255 / .14); }
+
+/* --- Migas y cabeceras de página ------------------------------------------ */
+.jm-crumbs li + li::before { font-family: var(--jm-font-body); color: var(--jm-line-2); }
+.jm-crumbs a { color: var(--jm-pine); font-weight: 600; }
+.jm-pagehead { background: var(--jm-white); }
+.jm-pagehead__copy h1 { font-stretch: normal; font-weight: 600; letter-spacing: -.02em; }
+.jm-pagehead__media { border-radius: var(--jm-radius-lg); outline: 0; }
+.jm-meta .jm-i { color: var(--jm-pine); }
+
+/* --- Guías ----------------------------------------------------------------- */
+.jm-post__title { font-size: clamp(2.05rem, 1.35rem + 2.4vw, 3.4rem); font-weight: 600; font-stretch: normal; letter-spacing: -.018em; line-height: 1.07; }
+.jm-post__dek { color: var(--jm-muted); }
+.jm-byline { border-top-color: var(--jm-line); }
+.jm-avatar, .jm-reviewed__avatar { background: var(--jm-pine); font: 600 1.05rem/1 var(--jm-font-display); font-stretch: normal; }
+.jm-reviewed__avatar::after, .jm-avatar::after { background-color: var(--jm-brass); }
+.jm-byline__meta b, .jm-reviewed__text time { font-family: var(--jm-font-body); font-weight: 600; }
+.jm-byline__meta .jm-i { color: var(--jm-pine); }
+.jm-tools__size button, .jm-tools__btn, .jm-share a, .jm-share button { border-radius: var(--jm-radius); border-color: var(--jm-line-2); background: var(--jm-white); }
+.jm-tools__size button[aria-pressed="true"] { background: var(--jm-pine); border-color: var(--jm-pine); }
+.jm-tools__btn .jm-i { color: var(--jm-pine); }
+.jm-share :is(.is-mail, .is-copy):hover { background: var(--jm-pine); border-color: var(--jm-pine); }
+.jm-share button.is-done { background: var(--jm-pine); border-color: var(--jm-pine); }
+.jm-post__hero img, .jm-post__main > .jm-post__hero img { border-radius: var(--jm-radius-lg); }
+.jm-progress { background: var(--jm-brass); height: 3px; }
+
+.jm-prose { line-height: 1.72; }
+.jm-prose > :is(h2, .wp-block-heading:is(h2)) { font-size: clamp(1.7rem, 1.4rem + 1vw, 2.25rem); font-weight: 600; line-height: 1.14; letter-spacing: -.015em; border-top: 0; padding-top: 0; margin-top: 2.1em; }
+.jm-prose > h3 { font-size: clamp(1.35rem, 1.22rem + .45vw, 1.6rem); font-weight: 600; }
+.jm-prose a:not([class]) { color: var(--jm-pine); text-decoration-color: rgb(30 75 64 / .4); }
+.jm-prose a:not([class]):hover { color: var(--jm-pine-dark); }
+.jm-prose ul:not([class*="jm-"]) > li::before { left: -1.1rem; top: .68em; width: 7px; height: 7px; border-radius: 50%; background: var(--jm-brass); }
+.jm-prose ol:not([class*="jm-"]) > li::marker { color: var(--jm-pine); font-family: var(--jm-font-body); font-weight: 700; }
+.jm-prose blockquote { border: 0; border-left: 3px solid var(--jm-brass); padding: .25rem 0 .25rem 1.25rem; font: italic 500 1.45rem/1.45 var(--jm-font-display); color: var(--jm-ink); }
+.jm-prose figcaption { font: 500 .875rem/1.45 var(--jm-font-body); }
+.jm-prose table:not([class*="jm-"]) thead th, .jm-table thead th, .jm-sources th { background: var(--jm-mist); color: var(--jm-muted); font: 700 .8125rem/1.3 var(--jm-font-body); letter-spacing: .04em; text-transform: uppercase; }
+.jm-prose .wp-block-table { border: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-prose > p:first-of-type:not(.jm-lead) { color: var(--jm-ink); }
+
+.jm-answer { background: var(--jm-sage); border: 1px solid var(--jm-sage-2); border-radius: var(--jm-radius-lg); }
+.jm-answer p { font-weight: 450; color: var(--jm-ink); }
+.jm-keydata, .jm-table-card, .jm-toc, .jm-authorbox, .jm-tool__form, .jm-result, .jm-form-card, .jm-calc-cta { border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-keydata__head, .jm-keydata__item:nth-child(n+3) { border-color: var(--jm-line); }
+.jm-keydata__head h2, .jm-keydata__head h3 { font-weight: 600; }
+.jm-keydata__value { font: 600 clamp(1.5rem, 1.25rem + .8vw, 2rem)/1.08 var(--jm-font-display); color: var(--jm-brass); font-variant-numeric: lining-nums tabular-nums; }
+.jm-table-card caption { font-family: var(--jm-font-display); font-size: 1.2rem; letter-spacing: -.005em; }
+.jm-table td.n, .jm-kv dd, .jm-bars__val, .jm-entry__fig { font-family: var(--jm-font-body); font-variant-numeric: tabular-nums; }
+.jm-table tbody tr:hover, .jm-table tbody tr.is-hl { background: var(--jm-sage); }
+.jm-sources caption { font-weight: 600; font-stretch: normal; }
+.jm-sources a { font: 600 .9375rem/1.4 var(--jm-font-body); }
+.jm-sources td:first-child { color: var(--jm-ink); }
+.jm-next { border: 1px solid var(--jm-line-2); border-radius: var(--jm-radius-lg); background: var(--jm-white); }
+.jm-next__label { color: var(--jm-brass); font-weight: 700; font-size: .875rem; letter-spacing: .06em; text-transform: uppercase; }
+.jm-next__title { font-weight: 600; font-stretch: normal; }
+.jm-next__arrow { background: var(--jm-pine); border-radius: var(--jm-radius); }
+.jm-next:hover { background: var(--jm-sage); border-color: var(--jm-pine); }
+.jm-next:hover .jm-next__arrow { background: var(--jm-pine-dark); }
+.jm-faq { border-color: var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-faq summary { font-weight: 650; }
+.jm-faq summary .jm-i { color: var(--jm-pine); }
+.jm-calc-cta { background: var(--jm-sage); border-color: var(--jm-sage-2); }
+.jm-calc-cta h3, .jm-promo h3, .jm-authorbox h2 { font-weight: 600; }
+.jm-toc__title { font: 600 1.2rem/1.2 var(--jm-font-display); font-stretch: normal; }
+.jm-toc__title .jm-i { color: var(--jm-pine); }
+.jm-toc a::before { font: 600 .875rem/1.5 var(--jm-font-body); font-variant-numeric: tabular-nums; }
+.jm-toc a:hover { background: var(--jm-sage); }
+.jm-toc a.is-active { background: var(--jm-sage); color: var(--jm-pine); }
+.jm-promo { border-color: var(--jm-line); }
+.jm-promo--sage { background: var(--jm-sage); border-color: var(--jm-sage-2); }
+.jm-authorbox__k { color: var(--jm-brass); font-weight: 700; font-size: .875rem; letter-spacing: .06em; text-transform: uppercase; }
+.jm-reviewed { border-color: var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-prose .is-speaking, .jm-post__head .is-speaking { box-shadow: 0 0 0 .4rem var(--jm-sage), -.4rem 0 0 .4rem var(--jm-brass); }
+
+/* --- Calculadoras ----------------------------------------------------------- */
+.jm-tool__form { background: var(--jm-white); box-shadow: var(--jm-shadow-1); }
+.jm-tool__form h2 { font-weight: 600; }
+.jm-result { background: var(--jm-tint); }
+.jm-result__label > span:first-child { color: var(--jm-pine); font-size: .8125rem; letter-spacing: .08em; text-transform: uppercase; }
+.jm-result__figure { font: 600 clamp(2.6rem, 1.9rem + 2.6vw, 4.1rem)/1 var(--jm-font-display); color: var(--jm-pine); font-variant-numeric: lining-nums tabular-nums; letter-spacing: -.02em; }
+.jm-result__figure small { font: 600 .36em var(--jm-font-body); color: var(--jm-muted); }
+.jm-kv { border-color: var(--jm-line); border-radius: var(--jm-radius); }
+.jm-kv .is-win { background: var(--jm-sage); }
+.jm-kv .is-win dd, .jm-kv .is-win dt::after { color: var(--jm-pine); }
+.jm-notes { border-top-color: var(--jm-line); }
+.jm-note .jm-i { color: var(--jm-pine); }
+.jm-alert { border-radius: var(--jm-radius-lg); }
+.jm-gauge__fill { stroke: var(--jm-pine); }
+.jm-gauge__track { stroke: var(--jm-line); }
+.jm-gauge__txt { font: 600 11px var(--jm-font-body); }
+.jm-chart { border: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-chart__axis text { font: 12px var(--jm-font-body); }
+.jm-bars__bar { background: var(--jm-pine); }
+.jm-bars li.is-low .jm-bars__bar { background: #9FB8AE; }
+.jm-bars li.is-avg .jm-bars__bar { background: #C9A15A; }
+
+/* --- Listados, contacto, legales ------------------------------------------ */
+.jm-card { border-color: var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-card h3 { font-weight: 600; }
+.jm-card__meta, .jm-sugg__n { font: 500 .875rem/1.3 var(--jm-font-body); }
+.jm-toolist, .jm-topics, .jm-legal__nav ul, .jm-empty { border-color: var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-toolist a:hover, .jm-topics a:hover { background: var(--jm-sage); }
+.jm-topics a .jm-i, .jm-topic__list a .jm-i, .jm-upcoming__list a > .jm-i, .jm-prep .jm-i { color: var(--jm-pine); }
+.jm-pagination .page-numbers { font: 600 1rem/1 var(--jm-font-body); border-radius: var(--jm-radius); border-color: var(--jm-line-2); }
+.jm-pagination .page-numbers.current { background: var(--jm-pine); border-color: var(--jm-pine); }
+.jm-legal__nav a[aria-current] { background: var(--jm-sage); color: var(--jm-pine); }
+.jm-sugg { border: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); }
+.jm-sugg a:hover, .jm-sugg a.is-active { background: var(--jm-sage); }
+.jm-sugg__t mark { color: var(--jm-pine); }
+.jm-sugg__all { color: var(--jm-pine); background: var(--jm-white); border-top-color: var(--jm-line); }
+.jm-prep { border-color: var(--jm-line-2); border-radius: var(--jm-radius-lg); }
+.jm-ad__slot { border-radius: var(--jm-radius-lg); }
+
+/* --- Movimiento: pocos gestos, tranquilos -------------------------------- */
+.jm-cajon.is-tilt, .jm-life__card.is-tilt { transform: none; }
+@media (prefers-reduced-motion: reduce) { .jm-mast__lead-story .jm-story--lead, .jm-cajon, .jm-saldo__row { transition: none; } }
+
+/* --- Detalles de interacción (guía de interfaces web) ---------------------- */
+:is(a, button, input, select, textarea, label, summary) { touch-action: manipulation; }
+html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
+.jm-drawer__panel, .jm-search, .jm-sugg { overscroll-behavior: contain; }

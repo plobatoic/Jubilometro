@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.1.5' );
+define( 'JM_THEME_VER', '2.2.3' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -59,7 +59,10 @@ add_action( 'wp_head', function () {
 	// Tamaño de letra elegido por el lector: se aplica antes de pintar (sin salto de página)
 	echo "<script>try{var f=localStorage.getItem('jm_fs');if(f)document.documentElement.setAttribute('data-jm-fs',f)}catch(e){}</script>\n";
 	// Solo la fuente del texto; la mono (fechas y cifras) llega sin bloquear
-	printf( '<link rel="preload" href="%s" as="font" type="font/woff2" crossorigin>' . "\n", esc_url( JM_THEME_URI . '/assets/fonts/archivo-normal-latin.woff2' ) );
+	// Las dos letras del diseño (titulares y texto): se piden en paralelo con la hoja de estilos
+	foreach ( array( 'newsreader-normal-latin', 'public-sans-normal-latin' ) as $f ) {
+		printf( '<link rel="preload" href="%s" as="font" type="font/woff2" crossorigin>' . "\n", esc_url( JM_THEME_URI . '/assets/fonts/' . $f . '.woff2' ) );
+	}
 	echo '<meta name="theme-color" content="#FFFFFF">' . "\n";
 	printf( '<link rel="manifest" href="%s">' . "\n", esc_url( JM_THEME_URI . '/manifest.json' ) );
 }, 2 );
@@ -545,6 +548,18 @@ add_filter( 'the_content', function ( $html ) {
 		return false !== strpos( $m[0], 'adsbygoogle' ) ? $m[0] : '';
 	}, $html );
 }, 25 );
+
+/*
+ * Imagen para compartir (WhatsApp, Facebook, X) con el diseño «Pino y latón». Rank Math tiene guardada la
+ * imagen anterior como imagen por defecto; al pintar las etiquetas se cambia por la nueva (misma medida, 1200 × 630).
+ */
+function jm_og_nueva( $url ) {
+	$vieja = content_url( '/uploads/2026/09/og-jubilometro.jpg' );
+	return ( is_string( $url ) && $url === $vieja ) ? content_url( '/uploads/2026/09/og-jubilometro-pino.jpg' ) : $url;
+}
+foreach ( array( 'rank_math/opengraph/facebook/og_image', 'rank_math/opengraph/facebook/og_image_secure_url', 'rank_math/opengraph/twitter/twitter_image' ) as $jm_f ) {
+	add_filter( $jm_f, 'jm_og_nueva' );
+}
 
 /*
  * Tablas en el móvil. Cada celda lleva el nombre de su columna (data-label) y las tablas de tres o más

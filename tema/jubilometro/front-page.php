@@ -1,6 +1,6 @@
 <?php
 /**
- * Portada: la libreta. Arriba, la guía fijada (o la más reciente), tres guías más y los últimos apuntes;
+ * Portada. Arriba, el titular con el buscador y la guía fijada (o la más reciente); debajo, tres guías más y las últimas publicadas;
  * después, las cifras del año, la calculadora de edad, las guías por tema y el resto de herramientas.
  * Se actualiza sola al publicar.
  */
@@ -10,22 +10,20 @@ get_header();
 $used   = array();
 $lead   = jm_stories( '', 1, $used, false, true );
 $used   = jm_ids( $lead );
-// La libreta: los cinco últimos apuntes
+// Las cinco últimas guías publicadas
 $latest = array_slice( jm_ledger_sort( jm_stories( '', 24, $used, false ) ), 0, 5 );
 $used   = array_merge( $used, jm_ids( $latest ) );
-// Bajo la guía principal, una fila de tres guías más
-$boxes  = jm_stories( '', 3, $used, false );
+// Seis guías más, junto a la lista de las últimas publicadas
+$boxes  = jm_stories( '', 6, $used, false );
 $used   = array_merge( $used, jm_ids( $boxes ) );
 
-echo jm_part( 'home-mast' ); // phpcs:ignore
+// La guía principal va en la cabecera, junto al titular y el buscador
+$lead_html = $lead ? jm_story( $lead[0], 'lead', array( 'h' => 'h2', 'dek' => true, 'date' => true, 'eager' => true, 'sizes' => '(min-width: 1240px) 560px, (min-width: 1000px) 45vw, 100vw' ) ) : '';
+echo str_replace( '<!--jm-lead-->', '<div class="jm-mast__lead-story">' . $lead_html . '</div>', jm_part( 'home-mast' ) ); // phpcs:ignore
 ?>
-<section class="jm-front" aria-label="Guías destacadas">
+<section class="jm-front" aria-label="Más guías">
 	<div class="jm-wrap jm-front__grid">
 		<div class="jm-front__lead"><?php
-		if ( $lead ) {
-			// La foto va en horizontal (≈400 px) en escritorio: se pide solo el tamaño que se ve
-			echo jm_story( $lead[0], 'lead', array( 'h' => 'h2', 'dek' => true, 'date' => true, 'eager' => true, 'sizes' => '(min-width: 1240px) 400px, (min-width: 1000px) 56vw, 100vw' ) ); // phpcs:ignore
-		}
 		if ( $boxes ) {
 			echo '<h2 class="jm-sr">Más guías</h2><div class="jm-cajonera">';
 			foreach ( $boxes as $b ) { echo jm_cajon( $b ); } // phpcs:ignore
@@ -33,7 +31,7 @@ echo jm_part( 'home-mast' ); // phpcs:ignore
 		}
 		?></div>
 		<div class="jm-front__latest">
-			<?php echo jm_ledger( $latest, array( 'id' => 'latest-title', 'title' => 'La libreta de guías', 'page' => 'Últimos apuntes', 'more' => array( 'Ver la libreta completa', '/guias/' ) ) ); // phpcs:ignore ?>
+			<?php echo jm_ledger( $latest, array( 'id' => 'latest-title', 'title' => 'Últimas guías', 'page' => '', 'more' => array( 'Ver todas las guías', '/guias/' ) ) ); // phpcs:ignore ?>
 			<p class="jm-resume" data-jm-resume><span>Seguir leyendo</span><a></a></p><?php // el enlace lo rellena jubilometro.js con la última guía leída; sin él no hay enlace vacío para Google ?>
 		</div>
 	</div>
