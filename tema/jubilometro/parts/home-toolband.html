@@ -1,0 +1,37 @@
+<section class="jm-toolband" aria-labelledby="quick-title">
+  <div class="jm-wrap">
+    <div class="jm-toolband__box">
+      <div class="jm-toolband__copy">
+        <h2 id="quick-title">¿Cuándo te jubilas? Actualiza tu libreta</h2>
+        <p>Dinos tu fecha de nacimiento y lo que llevas cotizado. Imprimimos en tu libreta el mes exacto, con la tabla oficial de edades de 2026.</p>
+        <form class="jm-quick" data-jm-calc="edad-libreta" aria-labelledby="quick-title">
+          <div class="jm-quick__grid">
+            <fieldset class="jm-fieldset">
+              <legend>Fecha de nacimiento</legend>
+              <div class="jm-row2">
+                <label class="jm-sr" for="q-mes">Mes de nacimiento</label>
+                <select class="jm-select" id="q-mes" name="nacMes"><option value="1">Enero</option><option value="2">Febrero</option><option value="3" selected>Marzo</option><option value="4">Abril</option><option value="5">Mayo</option><option value="6">Junio</option><option value="7">Julio</option><option value="8">Agosto</option><option value="9">Septiembre</option><option value="10">Octubre</option><option value="11">Noviembre</option><option value="12">Diciembre</option></select>
+                <label class="jm-sr" for="q-anio">Año de nacimiento</label>
+                <select class="jm-select" id="q-anio" name="nacAnio"><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962" selected>1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option></select>
+              </div>
+            </fieldset>
+            <div class="jm-field">
+              <label for="q-cot">Años cotizados hoy</label>
+              <select class="jm-select" id="q-cot" name="cotAnios"><option value="5">5 años</option><option value="6">6 años</option><option value="7">7 años</option><option value="8">8 años</option><option value="9">9 años</option><option value="10">10 años</option><option value="11">11 años</option><option value="12">12 años</option><option value="13">13 años</option><option value="14">14 años</option><option value="15">15 años</option><option value="16">16 años</option><option value="17">17 años</option><option value="18">18 años</option><option value="19">19 años</option><option value="20">20 años</option><option value="21">21 años</option><option value="22">22 años</option><option value="23">23 años</option><option value="24">24 años</option><option value="25">25 años</option><option value="26">26 años</option><option value="27">27 años</option><option value="28">28 años</option><option value="29">29 años</option><option value="30">30 años</option><option value="31">31 años</option><option value="32">32 años</option><option value="33">33 años</option><option value="34">34 años</option><option value="35">35 años</option><option value="36" selected>36 años</option><option value="37">37 años</option><option value="38">38 años</option><option value="39">39 años</option><option value="40">40 años</option><option value="41">41 años</option><option value="42">42 años</option><option value="43">43 años</option><option value="44">44 años</option><option value="45">45 años</option><option value="46">46 años</option><option value="47">47 años</option><option value="48">48 años</option><option value="49">49 años</option><option value="50">50 años</option></select>
+            </div>
+          </div>
+          <div class="jm-quick__foot">
+            <label class="jm-check"><input type="checkbox" name="sigue" checked> Seguiré cotizando hasta jubilarme</label>
+            <button class="jm-btn" type="submit">Actualizar mi libreta<svg class="jm-i" aria-hidden="true"><use href="#i-arrow"/></svg></button>
+          </div>
+        </form>
+      </div>
+      <div class="jm-passbook" aria-live="polite">
+        <div class="jm-passbook__top"><b>Tu libreta de jubilación</b></div>
+        <div class="jm-passbook__cols" aria-hidden="true"><span>Fecha</span><span>Concepto</span><span>Edad</span></div>
+        <div data-jm-result="edad-libreta"><ol class="jm-print"><li class="jm-print__row"><span>03·1962</span><span>Nacimiento</span><span></span></li><li class="jm-print__row"><span>09·2026</span><span>Cotizado hasta hoy</span><span>36 años</span></li><li class="jm-print__row"><span>03·2027</span><span>Anticipada, como pronto</span><span>65 años</span></li><li class="jm-print__row is-new"><span>03·2029</span><span>Jubilación ordinaria</span><span>67 años</span></li></ol><span class="jm-stamp" aria-hidden="true">Calculado<small>DT 7ª LGSS · 2026</small></span><p class="jm-print__note">Ejemplo: nacimiento en marzo de 1962 y 36 años cotizados. Cambia los datos y actualiza.</p></div>
+        <div class="jm-passbook__foot"><a class="jm-link-arrow" href="/calculadoras/pension-jubilacion/">Y ahora, calcula cuánto cobrarás<svg class="jm-i" aria-hidden="true"><use href="#i-arrow"/></svg></a></div>
+      </div>
+    </div>
+  </div>
+</section>

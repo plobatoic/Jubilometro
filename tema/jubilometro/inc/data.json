@@ -1,0 +1,159 @@
+{
+ "temas": [
+  "jubilacion",
+  "cuanto-cobrare",
+  "viudedad",
+  "incapacidad",
+  "ayudas",
+  "dependencia",
+  "dinero",
+  "imserso"
+ ],
+ "cats": {
+  "jubilacion": {
+   "name": "Jubilación",
+   "desc": "Edades, requisitos y modalidades",
+   "icon": "hourglass",
+   "lead": "Cuándo puedes jubilarte, qué necesitas haber cotizado y qué modalidades existen para adelantar o retrasar la jubilación."
+  },
+  "cuanto-cobrare": {
+   "name": "Cuánto cobraré",
+   "desc": "Cálculo de la pensión y sistema dual",
+   "icon": "calculator",
+   "lead": "La base reguladora, el porcentaje por años cotizados, los límites máximo y mínimo y cómo te afecta el nuevo sistema dual."
+  },
+  "viudedad": {
+   "name": "Viudedad",
+   "desc": "Requisitos, cuantía y compatibilidades",
+   "icon": "heart",
+   "lead": "Quién tiene derecho, qué porcentaje se cobra en cada caso y con qué ingresos y pensiones es compatible."
+  },
+  "incapacidad": {
+   "name": "Incapacidad",
+   "desc": "Grados, requisitos y pensiones",
+   "icon": "cross",
+   "lead": "Los cuatro grados de incapacidad permanente, qué se cobra en cada uno y cómo afecta a tu trabajo y a tu futura jubilación."
+  },
+  "ayudas": {
+   "name": "Ayudas",
+   "desc": "Pensiones no contributivas y ayudas para mayores",
+   "icon": "hand",
+   "lead": "Pensiones no contributivas, complementos, bono social y ayudas autonómicas para personas mayores y sus familias."
+  },
+  "dependencia": {
+   "name": "Dependencia",
+   "desc": "Grados, prestaciones y cómo solicitarla",
+   "icon": "users",
+   "lead": "Para hijos y familiares: cómo se reconoce la dependencia, qué servicios y prestaciones incluye y cómo pedirla."
+  },
+  "dinero": {
+   "name": "Dinero",
+   "desc": "Impuestos, ahorro y patrimonio al jubilarte",
+   "icon": "piggy",
+   "lead": "Cómo tributa tu pensión, qué hacer con tu plan de pensiones y qué ventajas fiscales tienes a partir de los 65 años."
+  },
+  "imserso": {
+   "name": "IMSERSO",
+   "desc": "Viajes, termalismo y servicios para mayores",
+   "icon": "plane",
+   "lead": "Los programas de turismo social y termalismo, quién puede participar y cómo conseguir plaza."
+  }
+ },
+ "calcs": {
+  "edad-jubilacion": {
+   "slug": "edad-jubilacion",
+   "name": "Calculadora de edad de jubilación",
+   "short": "Edad de jubilación",
+   "desc": "Descubre a qué edad y en qué mes te jubilas según lo que has cotizado.",
+   "icon": "hourglass"
+  },
+  "pension-jubilacion": {
+   "slug": "pension-jubilacion",
+   "name": "Calculadora de pensión de jubilación",
+   "short": "Pensión de jubilación",
+   "desc": "Estima tu pensión con el sistema dual 2026: compara los dos métodos y aplica el que más te conviene.",
+   "icon": "calculator"
+  },
+  "jubilacion-anticipada": {
+   "slug": "jubilacion-anticipada",
+   "name": "Calculadora de jubilación anticipada",
+   "short": "Jubilación anticipada",
+   "desc": "Cuánto pierdes al adelantar tu jubilación, mes a mes, con los coeficientes reductores.",
+   "icon": "rewind"
+  },
+  "pension-neta-irpf": {
+   "slug": "pension-neta-irpf",
+   "name": "Calculadora de pensión neta",
+   "short": "Pensión neta (IRPF)",
+   "desc": "Lo que te queda tras el IRPF, con la escala de tu comunidad autónoma.",
+   "icon": "receipt"
+  },
+  "jubilacion-demorada-flexible": {
+   "slug": "jubilacion-demorada-flexible",
+   "name": "Calculadora de jubilación demorada y flexible",
+   "short": "Demorada y flexible",
+   "desc": "Cuánto ganas retrasando la jubilación y cuánto cobras si sigues trabajando.",
+   "icon": "clockplus"
+  },
+  "pension-viudedad": {
+   "slug": "pension-viudedad",
+   "name": "Calculadora de pensión de viudedad",
+   "short": "Pensión de viudedad",
+   "desc": "Estima la pensión y comprueba si te corresponde el 52 %, el 60 % o el 70 %.",
+   "icon": "heart"
+  },
+  "incapacidad-permanente": {
+   "slug": "incapacidad-permanente",
+   "name": "Calculadora de incapacidad permanente",
+   "short": "Incapacidad permanente",
+   "desc": "Cuantía según el grado: parcial, total, absoluta o gran incapacidad.",
+   "icon": "cross"
+  },
+  "cuanto-ahorrar-jubilacion": {
+   "slug": "cuanto-ahorrar-jubilacion",
+   "name": "Calculadora de ahorro para la jubilación",
+   "short": "¿Cuánto necesito ahorrar?",
+   "desc": "El capital que necesitas y cuánto apartar cada mes para completar tu pensión.",
+   "icon": "piggy"
+  },
+  "comparador-ingresos-jubilacion": {
+   "slug": "comparador-ingresos-jubilacion",
+   "name": "Comparador de ingresos acumulados",
+   "short": "Anticipada, ordinaria o demorada",
+   "desc": "Compara cuánto cobras en total según la edad a la que te jubiles y a partir de cuándo compensa esperar.",
+   "icon": "chart"
+  }
+ },
+ "catCalc": {
+  "jubilacion": "edad-jubilacion",
+  "cuanto-cobrare": "pension-jubilacion",
+  "viudedad": "pension-viudedad",
+  "incapacidad": "incapacidad-permanente",
+  "ayudas": "pension-neta-irpf",
+  "dependencia": "cuanto-ahorrar-jubilacion",
+  "dinero": "pension-neta-irpf"
+ },
+ "plan": [
+  "anticipada-voluntaria",
+  "pension-maxima-minima",
+  "viajes-imserso",
+  "sistema-dual",
+  "cuantia",
+  "grados",
+  "irpf-pensiones",
+  "revalorizacion-pensiones"
+ ],
+ "mostread": [
+  "anticipada-voluntaria",
+  "pension-maxima-minima",
+  "viajes-imserso",
+  "cuantia",
+  "pension-no-contributiva"
+ ],
+ "author": {
+  "name": "Pau Lobato",
+  "initials": "PL",
+  "url": "/sobre-nosotros/#equipo",
+  "bio": "Fundador y editor de Jubilómetro. Escribe las guías, programa las calculadoras y revisa cada cifra con la normativa oficial (BOE, Seguridad Social y AEAT) antes de publicarla."
+ }
+}

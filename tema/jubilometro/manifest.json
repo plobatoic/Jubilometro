@@ -1,0 +1,26 @@
+{
+ "name": "Jubilómetro",
+ "short_name": "Jubilómetro",
+ "description": "Jubilación y pensiones en España, con las cuentas claras: guías y calculadoras con la norma y la fecha de cada cifra.",
+ "lang": "es-ES",
+ "dir": "ltr",
+ "start_url": "/",
+ "scope": "/",
+ "display": "minimal-ui",
+ "background_color": "#F1F5F2",
+ "theme_color": "#FFFFFF",
+ "icons": [
+  {
+   "src": "assets/img/logo-jubilometro.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "assets/img/favicon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml",
+   "purpose": "any"
+  }
+ ]
+}

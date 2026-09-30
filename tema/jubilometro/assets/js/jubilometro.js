@@ -1,0 +1,473 @@
+/* ==========================================================================
+   JUBILÓMETRO · Interacciones globales (≈4 KB, sin dependencias)
+   Cabecera fija, menú móvil, buscador, índice y progreso de lectura, compartir,
+   lecturas del mes, tabla de datos y botón de cookies.
+   ========================================================================== */
+(function () {
+  'use strict';
+  function safe(fn) { try { fn(); } catch (e) { if (window.console) console.warn(e); } }
+  var $ = function (s, c) { return (c || document).querySelector(s); };
+  var $$ = function (s, c) { return Array.prototype.slice.call((c || document).querySelectorAll(s)); };
+
+  // Cabecera: sombra al hacer scroll (IntersectionObserver, sin escuchar el scroll)
+  function initHeader() {
+    var h = $('[data-jm-header]'), s = $('[data-jm-sentinel]');
+    if (!h || !s || !('IntersectionObserver' in window)) return;
+    new IntersectionObserver(function (e) { h.classList.toggle('is-stuck', !e[0].isIntersecting); }).observe(s);
+  }
+
+  // Cajón móvil
+  function initDrawer() {
+    var d = $('#jm-drawer'); if (!d) return;
+    var openers = $$('[data-jm-drawer-open]'), last = null;
+    function set(open) {
+      d.classList.toggle('is-open', open);
+      d.setAttribute('aria-hidden', open ? 'false' : 'true');
+      openers.forEach(function (b) { b.setAttribute('aria-expanded', open ? 'true' : 'false'); });
+      document.documentElement.style.overflow = open ? 'hidden' : '';
+      if (open) { last = document.activeElement; var f = $('[data-jm-drawer-close]', d); if (f) f.focus(); } else if (last) last.focus();
+    }
+    openers.forEach(function (b) { b.addEventListener('click', function () { set(true); }); });
+    $$('[data-jm-drawer-close]', d).forEach(function (b) { b.addEventListener('click', function () { set(false); }); });
+    d.addEventListener('click', function (e) { if (e.target === d) set(false); });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && d.classList.contains('is-open')) set(false); });
+  }
+
+  // Buscador (diálogo nativo)
+  function initSearch() {
+    var dlg = $('#jm-search'); if (!dlg || !dlg.showModal) return;
+    $$('[data-jm-search-open]').forEach(function (b) {
+      b.addEventListener('click', function () { dlg.showModal(); var i = $('input', dlg); if (i) setTimeout(function () { i.focus(); }, 30); });
+    });
+    $$('[data-jm-search-close]', dlg).forEach(function (b) { b.addEventListener('click', function () { dlg.close(); }); });
+    dlg.addEventListener('click', function (e) { if (e.target === dlg) dlg.close(); });
+  }
+
+  // Formularios del prototipo (en WordPress los gestiona Kadence Blocks Form o tu proveedor de newsletter)
+  function initForms() {
+    $$('form[data-jm-demo]').forEach(function (f) {
+      f.addEventListener('submit', function (e) {
+        e.preventDefault();
+        if (!f.checkValidity()) { f.reportValidity(); return; }
+        var box = f.closest('[data-jm-sent]') || f; box.classList.add('is-sent');
+        var ok = $('.jm-form-ok, .jm-nl__ok', box); if (ok) { ok.setAttribute('tabindex', '-1'); ok.focus(); }
+      });
+    });
+  }
+
+  // Botón "Configurar cookies": reabre la CMP de Google (Privacidad y mensajes de AdSense)
+  function initCookies() {
+    $$('[data-jm-cookies]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        window.googlefc = window.googlefc || {}; window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+        window.googlefc.callbackQueue.push(function () { if (window.googlefc.showRevocationMessage) window.googlefc.showRevocationMessage(); });
+      });
+    });
+  }
+
+  // Página de datos: ordenar, filtrar por comunidad, buscar y descargar CSV
+  function initDatos() {
+    var root = $('[data-jm-datos]'); if (!root) return;
+    var table = $('table', root), tbody = $('tbody', table), rows = $$('tr', tbody);
+    var q = $('[data-jm-q]', root), cc = $('[data-jm-ccaa]', root), count = $('[data-jm-count]', root);
+    function apply() {
+      var t = (q && q.value || '').trim().toLowerCase(), c = cc && cc.value, n = 0;
+      rows.forEach(function (r) {
+        var ok = (!t || r.getAttribute('data-name').indexOf(t) > -1) && (!c || r.getAttribute('data-ccaa') === c);
+        r.hidden = !ok; if (ok) n++;
+      });
+      if (count) count.textContent = n + (n === 1 ? ' provincia' : ' provincias');
+    }
+    if (q) q.addEventListener('input', apply);
+    if (cc) cc.addEventListener('change', apply);
+    $$('th[data-sort] button', table).forEach(function (btn) {
+      btn.addEventListener('click', function () {
+        var th = btn.parentNode, key = th.getAttribute('data-sort'), dir = th.getAttribute('aria-sort') === 'descending' ? 'ascending' : 'descending';
+        $$('th[data-sort]', table).forEach(function (o) { o.removeAttribute('aria-sort'); });
+        th.setAttribute('aria-sort', dir);
+        rows.sort(function (a, b) {
+          var x = a.getAttribute('data-' + key), y = b.getAttribute('data-' + key);
+          var nx = parseFloat(x), ny = parseFloat(y);
+          var r = isNaN(nx) ? x.localeCompare(y, 'es') : nx - ny;
+          return dir === 'ascending' ? r : -r;
+        });
+        rows.forEach(function (r) { tbody.appendChild(r); });
+      });
+    });
+    var dl = $('[data-jm-csv]', root);
+    if (dl) dl.addEventListener('click', function () {
+      var lines = [['provincia', 'comunidad', 'pensiones_jubilacion', 'pension_media_jubilacion_eur', 'diferencia_media_nacional_eur']];
+      rows.forEach(function (r) { lines.push([r.getAttribute('data-label'), r.getAttribute('data-ccaa-label'), r.getAttribute('data-num') || '', r.getAttribute('data-valor'), r.getAttribute('data-dif')]); });
+      var csv = lines.map(function (l) { return l.map(function (v) { return '"' + String(v).replace(/"/g, '""') + '"'; }).join(';'); }).join('\n');
+      var a = document.createElement('a');
+      a.href = URL.createObjectURL(new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' }));
+      a.download = 'pension-media-provincia.csv'; document.body.appendChild(a); a.click(); a.remove();
+    });
+  }
+
+  // Artículo: índice con la sección activa resaltada
+  function initToc() {
+    var links = $$('.jm-post__aside .jm-toc a[href^="#"]'); if (!links.length || !('IntersectionObserver' in window)) return;
+    var map = {};
+    links.forEach(function (a) { var el = document.getElementById(decodeURIComponent(a.getAttribute('href').slice(1))); if (el) map[el.id] = a; });
+    var current = null;
+    var io = new IntersectionObserver(function (entries) {
+      entries.forEach(function (e) { if (e.isIntersecting) current = e.target.id; });
+      if (current && map[current]) { links.forEach(function (a) { a.classList.remove('is-active'); }); map[current].classList.add('is-active'); }
+    }, { rootMargin: '-15% 0px -70% 0px', threshold: 0 });
+    Object.keys(map).forEach(function (id) { io.observe(document.getElementById(id)); });
+  }
+
+  // Barra de progreso de lectura (solo si el navegador no la anima por CSS)
+  function initProgress() {
+    var bar = $('.jm-progress'); if (!bar) return;
+    if (window.CSS && CSS.supports && CSS.supports('animation-timeline: scroll()')) return;
+    var ticking = false;
+    function draw() { var h = document.documentElement, max = h.scrollHeight - h.clientHeight; bar.style.transform = 'scaleX(' + (max > 0 ? Math.min(1, h.scrollTop / max) : 0) + ')'; ticking = false; }
+    window.addEventListener('scroll', function () { if (!ticking) { ticking = true; requestAnimationFrame(draw); } }, { passive: true });
+    draw();
+  }
+
+  // Compartir: copiar el enlace
+  function initShare() {
+    $$('[data-jm-copy]').forEach(function (b) {
+      b.addEventListener('click', function () {
+        var url = b.getAttribute('data-jm-copy'), label = b.getAttribute('aria-label');
+        function done() { b.classList.add('is-done'); b.setAttribute('aria-label', 'Enlace copiado'); setTimeout(function () { b.classList.remove('is-done'); b.setAttribute('aria-label', label); }, 2200); }
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(done, function () { window.prompt('Copia el enlace:', url); });
+        else window.prompt('Copia el enlace:', url);
+      });
+    });
+  }
+
+  // Lecturas del mes (para «Lo más leído»): una señal ligera por visita, sin cookies
+  function initViews() {
+    var el = $('[data-jm-view]'); if (!el || !navigator.sendBeacon) return;
+    var fd = new FormData(); fd.append('action', 'jm_view'); fd.append('id', el.getAttribute('data-jm-view'));
+    setTimeout(function () { navigator.sendBeacon(el.getAttribute('data-jm-ajax'), fd); }, 4000);
+  }
+
+  // «Seguir leyendo»: la libreta recuerda la última guía que abriste (solo en tu navegador)
+  function initResume() {
+    var post = $('[data-jm-view]'), box = $('[data-jm-resume]'), key = 'jm_ultima_guia';
+    try {
+      if (post) { var h = $('.jm-post__title h1'); if (h) localStorage.setItem(key, JSON.stringify({ t: h.textContent.trim(), u: location.pathname })); }
+      if (box) {
+        var d = JSON.parse(localStorage.getItem(key) || 'null'), a = $('a', box);
+        if (d && d.u && d.t && a) { a.href = d.u; a.textContent = d.t; box.classList.add('is-on'); }
+      }
+    } catch (e) { /* sin almacenamiento: no pasa nada */ }
+  }
+
+  /* ---------- Movimiento (nunca con "reducir movimiento") ---------- */
+  var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  // Las cajas se inclinan en 3D siguiendo el ratón, con un brillo de papel (solo con ratón)
+  function initTilt() {
+    if (calm || !window.matchMedia('(hover: hover) and (pointer: fine)').matches) return;
+    $$('.jm-cajon, .jm-life__card').forEach(function (el) {
+      var raf = 0;
+      el.addEventListener('pointerenter', function () { el.classList.add('is-tilt'); });
+      el.addEventListener('pointermove', function (e) {
+        var cx = e.clientX, cy = e.clientY;
+        cancelAnimationFrame(raf);
+        raf = requestAnimationFrame(function () {
+          var r = el.getBoundingClientRect(), x = (cx - r.left) / r.width, y = (cy - r.top) / r.height;
+          el.style.transform = 'perspective(900px) rotateX(' + ((0.5 - y) * 6).toFixed(2) + 'deg) rotateY(' + ((x - 0.5) * 7).toFixed(2) + 'deg) translateY(-4px)';
+          el.style.setProperty('--gx', (x * 100).toFixed(1) + '%');
+          el.style.setProperty('--gy', (y * 100).toFixed(1) + '%');
+        });
+      }, { passive: true });
+      el.addEventListener('pointerleave', function () { cancelAnimationFrame(raf); el.classList.remove('is-tilt'); el.style.transform = ''; });
+    });
+  }
+
+  // Los bloques que aún no se ven aparecen al llegar a ellos (lo visible al cargar no se toca).
+  // La primera respuesta del observador dice qué está fuera de pantalla, sin obligar al navegador a medir la página.
+  function initReveal() {
+    if (calm || !('IntersectionObserver' in window)) return;
+    var sel = '.jm-figures__head, .jm-rail__head, .jm-duo__head, .jm-rail__grid > .jm-story, .jm-rail__list > .jm-story, .jm-mostread .jm-ledger, .jm-upcoming__box, .jm-toolband__copy, .jm-passbook, .jm-section-head, .jm-life__card, .jm-tile, .jm-updates__intro, .jm-timeline > li, .jm-method > *, .jm-nl, .jm-authorbox, .jm-post__foot .jm-story';
+    var els = $$(sel);
+    if (!els.length) return;
+    var pending = [], timer = 0;
+    function show(el) {
+      var k = pending.indexOf(el);
+      if (k < 0) return;
+      pending.splice(k, 1); io.unobserve(el);
+      var d = parseInt(el.style.getPropertyValue('--rv-d'), 10) || 0;
+      el.classList.add('is-in');
+      // Al terminar, se retiran las clases para no frenar la inclinación ni otros efectos
+      setTimeout(function () { el.classList.remove('jm-rv', 'is-in'); el.style.removeProperty('--rv-d'); }, 900 + d);
+    }
+    var io = new IntersectionObserver(function (entries) {
+      var h = window.innerHeight;
+      entries.forEach(function (en) {
+        var el = en.target;
+        if (!el.jmSeen) {
+          el.jmSeen = true;
+          var b = en.boundingClientRect, skipped = !b.width && !b.height; // sección aún sin maquetar (content-visibility)
+          // Visible (o ya pasado) al cargar: se queda como está
+          if (en.isIntersecting || (!skipped && b.top < h)) { io.unobserve(el); return; }
+          var i = el.parentElement ? Array.prototype.indexOf.call(el.parentElement.children, el) : 0;
+          el.style.setProperty('--rv-d', Math.min(i, 5) * 70 + 'ms');
+          el.classList.add('jm-rv');
+          pending.push(el);
+          return;
+        }
+        if (en.isIntersecting) show(el);
+      });
+    }, { rootMargin: '0px 0px -6% 0px', threshold: 0 });
+    els.forEach(function (el) { io.observe(el); });
+    // Red de seguridad: si el observador no avisa, lo que ya está en pantalla (o se ha pasado) se muestra igual
+    // (las secciones que el navegador aún no ha maquetado se saltan: preguntar por ellas obligaría a maquetarlas)
+    function sweep() {
+      timer = 0; var h = window.innerHeight;
+      pending.slice().forEach(function (el) {
+        if (el.checkVisibility && !el.checkVisibility({ contentVisibilityAuto: true })) return;
+        var r = el.getBoundingClientRect();
+        if ((r.width || r.height) && r.top < h) show(el);
+      });
+    }
+    window.addEventListener('scroll', function () { if (pending.length && !timer) timer = setTimeout(sweep, 120); }, { passive: true });
+    // Al imprimir, todo visible
+    window.addEventListener('beforeprint', function () { pending.slice().forEach(show); });
+  }
+
+  // El saldo de 2026: las cifras ruedan como un contador al llegar a ellas.
+  // Al terminar se devuelve el HTML original (el texto nunca cambia: sin efecto en Google ni en lectores de pantalla).
+  function initRoll() {
+    var box = $('.jm-saldo');
+    if (calm || !box || !('IntersectionObserver' in window)) return;
+    var first = new IntersectionObserver(function (e) {
+      first.disconnect();
+      var b = e[0].boundingClientRect, skipped = !b.width && !b.height; // aún sin maquetar: está más abajo
+      if (e[0].isIntersecting || (!skipped && b.top < window.innerHeight)) return; // ya se ve: quieto
+      armRoll(box);
+    });
+    first.observe(box);
+  }
+  function armRoll(box) {
+    var vals = $$('.jm-saldo__v', box), orig = vals.map(function (v) { return v.innerHTML; });
+    vals.forEach(function (v, r) {
+      var i = 0, texts = [], w = document.createTreeWalker(v, 4, null), t;
+      v.style.setProperty('--r', r);
+      while ((t = w.nextNode())) { if (t.nodeValue.trim()) texts.push(t); }
+      texts.forEach(function (tn) {
+        var frag = document.createDocumentFragment();
+        tn.nodeValue.split('').forEach(function (ch) {
+          if (ch === ' ') { frag.appendChild(document.createTextNode(' ')); return; }
+          var s = document.createElement('span'); s.className = 'jm-ch'; s.style.setProperty('--i', i++); s.textContent = ch; frag.appendChild(s);
+        });
+        tn.parentNode.replaceChild(frag, tn);
+      });
+    });
+    box.classList.add('is-armed');
+    var io = new IntersectionObserver(function (e) {
+      if (!e[0].isIntersecting) return;
+      io.disconnect(); box.classList.add('is-rolled');
+      setTimeout(function () { vals.forEach(function (v, k) { v.innerHTML = orig[k]; }); box.classList.remove('is-armed', 'is-rolled'); }, 2200);
+    }, { rootMargin: '0px 0px -10% 0px' });
+    io.observe(box);
+  }
+
+  /* ---------- Herramientas de lectura (guías) ---------- */
+  // Tamaño de letra: normal, grande o muy grande. Se recuerda en este navegador.
+  function initFontSize() {
+    var btns = $$('[data-jm-fs-set]'); if (!btns.length) return;
+    var root = document.documentElement;
+    function paint() { var cur = root.getAttribute('data-jm-fs') || ''; btns.forEach(function (b) { b.setAttribute('aria-pressed', String(b.getAttribute('data-jm-fs-set') === cur)); }); }
+    btns.forEach(function (b) {
+      b.addEventListener('click', function () {
+        var v = b.getAttribute('data-jm-fs-set');
+        if (v) root.setAttribute('data-jm-fs', v); else root.removeAttribute('data-jm-fs');
+        try { if (v) localStorage.setItem('jm_fs', v); else localStorage.removeItem('jm_fs'); } catch (e) { /* sin almacenamiento */ }
+        paint();
+      });
+    });
+    paint();
+  }
+
+  // Escuchar la guía: lectura en voz alta (voz en español del propio dispositivo), resaltando el párrafo.
+  // Se lee frase a frase: así no se corta en los navegadores que detienen las lecturas largas.
+  function initListen() {
+    var btn = $('[data-jm-listen]'), stopBtn = $('[data-jm-listen-stop]'), prose = $('.jm-prose');
+    if (!btn) return;
+    // El botón viene visible (sin saltos al cargar); solo se retira si el navegador no sabe leer en voz alta
+    if (!stopBtn || !prose || !('speechSynthesis' in window) || typeof window.SpeechSynthesisUtterance === 'undefined') { btn.hidden = true; return; }
+    var synth = window.speechSynthesis, voice = null, blocks = [], bi = 0, parts = [], pi = 0, state = 'idle', current = null;
+    var label = $('span', btn), icon = $('use', btn);
+    function pickVoice() {
+      var vs = synth.getVoices() || [];
+      voice = vs.filter(function (v) { return /^es[-_]ES/i.test(v.lang); })[0] || vs.filter(function (v) { return /^es/i.test(v.lang); })[0] || null;
+    }
+    pickVoice();
+    if ('onvoiceschanged' in synth) synth.addEventListener('voiceschanged', pickVoice);
+    btn.hidden = false;
+    function ui(s) {
+      state = s;
+      label.textContent = s === 'playing' ? 'Pausar' : s === 'paused' ? 'Seguir escuchando' : 'Escuchar la guía';
+      if (icon) icon.setAttribute('href', s === 'playing' ? '#i-pause' : '#i-volume');
+      btn.setAttribute('aria-pressed', String(s === 'playing'));
+      stopBtn.hidden = s === 'idle';
+    }
+    function mark(el) {
+      if (current) current.classList.remove('is-speaking');
+      current = el;
+      if (!el) return;
+      el.classList.add('is-speaking');
+      var r = el.getBoundingClientRect();
+      if (r.top < 90 || r.bottom > window.innerHeight - 40) el.scrollIntoView({ block: 'center', behavior: calm ? 'auto' : 'smooth' });
+    }
+    function collect() {
+      var head = $$('.jm-post__title h1, .jm-post__dek');
+      blocks = head.concat($$('h2, h3, p, li, .jm-answer__title', prose).filter(function (el) {
+        return el.offsetParent !== null && el.textContent.trim().length > 1 && !el.closest('table, .jm-toc, .jm-sources, .jm-ad, .jm-faq, .jm-share, figure, .jm-calc-cta, li li');
+      }));
+    }
+    // Frases: se corta solo en un signo seguido de espacio (así «3.359,60 €» o «2,81 %» se leen enteros);
+    // las frases muy largas se parten en las comas.
+    function sentences(t) {
+      var s = t.replace(/\s+/g, ' ').trim(), out = [], re = /[.!?;:]\s+/g, last = 0, m;
+      while ((m = re.exec(s))) { out.push(s.slice(last, m.index + 1)); last = re.lastIndex; }
+      out.push(s.slice(last));
+      var res = [];
+      out.forEach(function (x) {
+        x = x.trim(); if (!x) return;
+        while (x.length > 220) {
+          var cut = x.lastIndexOf(', ', 200);
+          if (cut < 60) break;
+          res.push(x.slice(0, cut + 1)); x = x.slice(cut + 2);
+        }
+        res.push(x);
+      });
+      return res;
+    }
+    function next() {
+      if (state !== 'playing') return;
+      if (pi >= parts.length) {
+        bi++; pi = 0;
+        if (bi >= blocks.length) { stop(); return; }
+        parts = sentences(blocks[bi].textContent); mark(blocks[bi]);
+      }
+      var u = new window.SpeechSynthesisUtterance(parts[pi]);
+      u.lang = 'es-ES'; if (voice) u.voice = voice; u.rate = 0.95;
+      u.onend = function () { pi++; next(); };
+      u.onerror = function (e) { if (e.error !== 'interrupted' && e.error !== 'canceled') { pi++; next(); } };
+      synth.speak(u);
+    }
+    function play() {
+      if (!blocks.length) collect();
+      if (!blocks.length) return;
+      if (state === 'idle') { bi = 0; pi = 0; }
+      parts = sentences(blocks[bi].textContent); mark(blocks[bi]);
+      synth.cancel(); ui('playing'); next();
+    }
+    function pause() { ui('paused'); synth.cancel(); }
+    function stop() { synth.cancel(); ui('idle'); bi = 0; pi = 0; mark(null); }
+    btn.addEventListener('click', function () { if (state === 'playing') pause(); else play(); });
+    stopBtn.addEventListener('click', stop);
+    window.addEventListener('pagehide', function () { synth.cancel(); });
+  }
+
+  // Imprimir la guía (con una hoja limpia: sin menús, anuncios ni botones)
+  function initPrint() {
+    $$('[data-jm-print]').forEach(function (b) { b.addEventListener('click', function () { window.print(); }); });
+    // En papel, las preguntas frecuentes salen desplegadas; al terminar vuelven como estaban
+    var opened = [];
+    window.addEventListener('beforeprint', function () { opened = $$('.jm-prose details:not([open])'); opened.forEach(function (d) { d.open = true; }); });
+    window.addEventListener('afterprint', function () { opened.forEach(function (d) { d.open = false; }); opened = []; });
+  }
+
+  /* ---------- Buscador instantáneo: resultados mientras escribes ---------- */
+  function initLiveSearch() {
+    var inputs = $$('#jm-s, #mast-s'); if (!inputs.length || !window.fetch) return;
+    var index = null, loading = null;
+    var norm = function (s) { return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); };
+    function load() {
+      if (index) return Promise.resolve(index);
+      if (!loading) {
+        loading = fetch('/wp-json/jm/v1/indice', { credentials: 'omit' }).then(function (r) { return r.ok ? r.json() : []; }).then(function (d) {
+          index = (d || []).map(function (x) { x.h = norm(x.t + ' ' + x.c + ' ' + x.e); x.ht = norm(x.t); return x; });
+          return index;
+        }).catch(function () { index = []; return index; });
+      }
+      return loading;
+    }
+    function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+    // Resalta las palabras buscadas (sin tildes ni mayúsculas) marcando tramos del título original
+    function hl(t, words) {
+      var n = norm(t), marks = [], out = '', pos = 0;
+      if (n.length !== t.length) return esc(t);
+      words.forEach(function (w) { if (w.length < 2) return; var k = n.indexOf(w); if (k > -1) marks.push([k, k + w.length]); });
+      marks.sort(function (a, b) { return a[0] - b[0]; }).forEach(function (m) {
+        if (m[0] < pos) return;
+        out += esc(t.slice(pos, m[0])) + '<mark>' + esc(t.slice(m[0], m[1])) + '</mark>';
+        pos = m[1];
+      });
+      return out + esc(t.slice(pos));
+    }
+    inputs.forEach(function (input) {
+      var form = input.form; if (!form) return;
+      var box = document.createElement('div');
+      box.className = 'jm-sugg' + (input.id === 'mast-s' ? ' jm-sugg--drop' : '');
+      box.id = input.id + '-res'; box.hidden = true;
+      box.setAttribute('role', 'listbox'); box.setAttribute('aria-label', 'Resultados');
+      form.parentNode.insertBefore(box, form.nextSibling);
+      var status = document.createElement('p'); status.className = 'jm-sr'; status.setAttribute('aria-live', 'polite');
+      box.parentNode.insertBefore(status, box.nextSibling);
+      input.setAttribute('aria-controls', box.id); input.setAttribute('aria-autocomplete', 'list');
+      var t = 0, active = -1;
+      function links() { return $$('a', box); }
+      function move(d) {
+        var ls = links(); if (!ls.length) return;
+        active = (active + d + ls.length) % ls.length;
+        ls.forEach(function (a, i) { a.classList.toggle('is-active', i === active); a.setAttribute('aria-selected', String(i === active)); });
+        ls[active].scrollIntoView({ block: 'nearest' });
+      }
+      function render() {
+        var q = norm(input.value).trim();
+        active = -1;
+        if (q.length < 2) { box.hidden = true; box.innerHTML = ''; status.textContent = ''; return; }
+        load().then(function (ix) {
+          var words = q.split(/\s+/).filter(Boolean);
+          var res = ix.map(function (x) {
+            var s = 0;
+            for (var i = 0; i < words.length; i++) {
+              var w = words[i];
+              if (x.h.indexOf(w) < 0) return null;
+              s += x.ht.indexOf(w) === 0 ? 6 : x.ht.indexOf(' ' + w) >= 0 ? 4 : x.ht.indexOf(w) >= 0 ? 3 : 1;
+            }
+            if (x.k === 'calc') s += 0.5;
+            return { x: x, s: s };
+          }).filter(Boolean).sort(function (a, b) { return b.s - a.s; }).slice(0, 7);
+          if (!res.length) {
+            box.innerHTML = '<p class="jm-sugg__none">No hay guías con esas palabras. Pulsa <b>Buscar</b> para buscar en toda la web.</p>';
+            status.textContent = 'Sin resultados';
+          } else {
+            box.innerHTML = res.map(function (r) {
+              var x = r.x, meta = x.k === 'guia' ? esc(x.c) + (x.n ? ' · <span class="jm-sugg__n">Nº ' + esc(x.n) + '</span>' : '') : esc(x.c);
+              return '<a role="option" aria-selected="false" href="' + esc(x.u) + '"><span class="jm-sugg__t">' + hl(x.t, words) + '</span><span class="jm-sugg__m">' + meta + '</span></a>';
+            }).join('') + '<button type="button" class="jm-sugg__all">Ver todos los resultados de «' + esc(input.value.trim()) + '»</button>';
+            status.textContent = res.length + (res.length === 1 ? ' resultado' : ' resultados');
+          }
+          box.hidden = false;
+          var all = $('.jm-sugg__all', box);
+          if (all) all.addEventListener('click', function (e) { e.preventDefault(); form.submit(); });
+        });
+      }
+      input.addEventListener('focus', load, { once: true });
+      input.addEventListener('input', function () { clearTimeout(t); t = setTimeout(render, 110); });
+      input.addEventListener('keydown', function (e) {
+        if (box.hidden) return;
+        if (e.key === 'ArrowDown') { e.preventDefault(); move(1); }
+        else if (e.key === 'ArrowUp') { e.preventDefault(); move(-1); }
+        else if (e.key === 'Enter' && active > -1) { e.preventDefault(); links()[active].click(); }
+        else if (e.key === 'Escape' && input.id === 'mast-s') { box.hidden = true; }
+      });
+      document.addEventListener('click', function (e) { if (input.id === 'mast-s' && !box.contains(e.target) && e.target !== input) box.hidden = true; });
+    });
+  }
+
+  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initViews, initTilt, initReveal, initRoll, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
+})();
