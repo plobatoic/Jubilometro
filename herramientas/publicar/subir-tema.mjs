@@ -6,7 +6,7 @@
 // Uso:
 //   WP_USER=usuario WP_APP_PASSWORD='xxxx xxxx xxxx xxxx xxxx xxxx' npm run subir-tema
 //   … -- --prueba     solo empaqueta y dice qué subiría
-import { readFileSync, rmSync } from 'node:fs';
+import { readFileSync, readdirSync, rmSync } from 'node:fs';
 import { execFileSync } from 'node:child_process';
 import { join } from 'node:path';
 import { RAIZ } from './articulos.mjs';
@@ -31,6 +31,10 @@ const zip = join(RAIZ, 'publicacion', 'tema', `jubilometro-tema-${version}.zip`)
 rmSync(zip, { force: true });
 execFileSync('zip', ['-qr', zip, 'jubilometro', '-x', '*.DS_Store'], { cwd: join(RAIZ, 'tema') });
 console.log(`Empaquetado: ${zip}`);
+// En el repositorio se guardan solo el zip actual y el 2.1.5 (último con el diseño anterior, por si hay que volver)
+for (const f of readdirSync(join(RAIZ, 'publicacion', 'tema'))) {
+  if (/^jubilometro-tema-.*\.zip$/.test(f) && f !== `jubilometro-tema-${version}.zip` && f !== 'jubilometro-tema-2.1.5.zip') rmSync(join(RAIZ, 'publicacion', 'tema', f));
+}
 if (PRUEBA) process.exit(0);
 
 const form = new FormData();

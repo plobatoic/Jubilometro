@@ -53,7 +53,7 @@
   --jm-warn-bg: #FBF3E1;
   --jm-warn-ink: #6B4A0E;
 
-  --jm-font-display: "Newsreader", "Newsreader Reserva", Georgia, "Times New Roman", serif;
+  --jm-font-display: "Newsreader", "Newsreader Reserva", "Newsreader Reserva Times", Georgia, serif;
   --jm-font-body: "Public Sans", "Public Sans Reserva", "Helvetica Neue", Arial, sans-serif;
   --jm-font-mono: var(--jm-font-body); /* las cifras van en Public Sans con números tabulares */
   --jm-wide: 100%;
@@ -1571,8 +1571,10 @@ h1, h2, h3 { overflow-wrap: break-word; }
    ========================================================================== */
 
 /* Letras de reserva con medidas parecidas mientras llegan las de verdad (menos saltos al cargar) */
-@font-face { font-family: "Newsreader Reserva"; src: local("Georgia"), local("Times New Roman"), local("Liberation Serif"); size-adjust: 92%; ascent-override: 92%; descent-override: 26%; }
-@font-face { font-family: "Public Sans Reserva"; src: local("Arial"), local("ArialMT"), local("Helvetica"), local("Liberation Sans"), local("Roboto"); size-adjust: 102%; }
+/* Medidas calculadas con los datos de Capsize (anchura media y altura de las letras de cada fuente) */
+@font-face { font-family: "Newsreader Reserva"; src: local("Georgia"); size-adjust: 96.12%; ascent-override: 76.47%; descent-override: 27.57%; line-gap-override: 0%; }
+@font-face { font-family: "Newsreader Reserva Times"; src: local("Times New Roman"), local("Liberation Serif"); size-adjust: 105.48%; ascent-override: 69.68%; descent-override: 25.12%; line-gap-override: 0%; }
+@font-face { font-family: "Public Sans Reserva"; src: local("Arial"), local("ArialMT"), local("Helvetica"), local("Liberation Sans"), local("Roboto"); size-adjust: 104.87%; ascent-override: 90.59%; descent-override: 21.46%; line-gap-override: 0%; }
 
 /* --- Base ---------------------------------------------------------------- */
 html body { background: var(--jm-paper); color: var(--jm-text); line-height: 1.68; font-feature-settings: "kern", "liga"; }
