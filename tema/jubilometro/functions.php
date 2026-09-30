@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.1.1' );
+define( 'JM_THEME_VER', '2.1.2' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -122,6 +122,59 @@ add_filter( 'rest_endpoints', function ( $endpoints ) {
 	unset( $endpoints['/wp/v2/users'], $endpoints['/wp/v2/users/(?P<id>[\d]+)'] );
 	return $endpoints;
 } );
+
+/*
+ * Actualizar este tema por la API: POST /wp-json/jm-tema/v1/instalar con el zip en el campo «tema»
+ * (multipart). Es lo mismo que Apariencia > Temas > Subir tema > «Reemplazar el instalado con el
+ * subido», con los mismos permisos (solo un administrador autenticado, p. ej. con contraseña de
+ * aplicación), y solo acepta un zip del propio tema Jubilómetro.
+ */
+add_action( 'rest_api_init', function () {
+	register_rest_route( 'jm-tema/v1', '/instalar', array(
+		'methods'             => 'POST',
+		'permission_callback' => function () { return current_user_can( 'install_themes' ) && current_user_can( 'update_themes' ); },
+		'callback'            => 'jm_tema_instalar',
+	) );
+} );
+function jm_tema_instalar( WP_REST_Request $req ) {
+	$f = $req->get_file_params();
+	if ( empty( $f['tema']['tmp_name'] ) || ! is_uploaded_file( $f['tema']['tmp_name'] ) ) {
+		return new WP_Error( 'jm_sin_zip', 'Falta el zip del tema en el campo «tema».', array( 'status' => 400 ) );
+	}
+	if ( ! class_exists( 'ZipArchive' ) ) {
+		return new WP_Error( 'jm_sin_zip', 'El servidor no puede abrir archivos zip.', array( 'status' => 500 ) );
+	}
+	$zip = new ZipArchive();
+	if ( true !== $zip->open( $f['tema']['tmp_name'] ) ) {
+		return new WP_Error( 'jm_zip_malo', 'El archivo no es un zip válido.', array( 'status' => 400 ) );
+	}
+	$css = $zip->getFromName( 'jubilometro/style.css' );
+	$raiz = true;
+	for ( $i = 0; $i < $zip->numFiles; $i++ ) {
+		if ( 0 !== strpos( (string) $zip->getNameIndex( $i ), 'jubilometro/' ) ) { $raiz = false; break; }
+	}
+	$zip->close();
+	if ( ! $raiz || ! $css || ! preg_match( '/^\s*Theme Name:\s*Jubilómetro\s*$/mu', $css ) || ! preg_match( '/^\s*Version:\s*([\w.-]+)/m', $css, $v ) ) {
+		return new WP_Error( 'jm_otro_tema', 'El zip no es el tema Jubilómetro (carpeta jubilometro/ con su style.css).', array( 'status' => 400 ) );
+	}
+	$paquete = wp_tempnam( 'jubilometro-tema.zip' );
+	if ( ! $paquete || ! move_uploaded_file( $f['tema']['tmp_name'], $paquete ) ) {
+		return new WP_Error( 'jm_copia', 'No se pudo guardar el zip en el servidor.', array( 'status' => 500 ) );
+	}
+	require_once ABSPATH . 'wp-admin/includes/file.php';
+	require_once ABSPATH . 'wp-admin/includes/misc.php';
+	require_once ABSPATH . 'wp-admin/includes/theme.php';
+	require_once ABSPATH . 'wp-admin/includes/class-wp-upgrader.php';
+	$skin = new WP_Ajax_Upgrader_Skin();
+	$res  = ( new Theme_Upgrader( $skin ) )->install( $paquete, array( 'overwrite_package' => true, 'clear_update_cache' => true ) );
+	wp_delete_file( $paquete );
+	if ( is_wp_error( $res ) ) { return $res; }
+	if ( ! $res ) {
+		return new WP_Error( 'jm_fallo', implode( ' ', (array) $skin->get_error_messages() ) ?: 'La instalación no se completó.', array( 'status' => 500 ) );
+	}
+	do_action( 'litespeed_purge_all' );
+	return array( 'instalado' => true, 'version' => $v[1] );
+}
 
 /* ------------------------------------------------------------------
  * 3. CLASES DEL BODY
