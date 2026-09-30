@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F2 (artículo n.º 13)
 fecha_actualizacion: 2026-09-27
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: borrador pendiente de revisión profesional
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2022-9850
 ---

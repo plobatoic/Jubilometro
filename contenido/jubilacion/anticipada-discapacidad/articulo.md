@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo n.º 11)
 fecha_actualizacion: 2026-09-27
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: borrador pendiente de revisión profesional
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23401
   - https://www.boe.es/buscar/act.php?id=BOE-A-2009-20652

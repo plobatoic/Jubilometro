@@ -11,7 +11,7 @@ fase_plan: F1 (artículo n.º 1 del plan de contenidos)
 fecha_actualizacion: 2026-09-27
 fecha_publicacion: PENDIENTE
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: borrador pendiente de revisión profesional
+estado: publicado
 imagen_destacada: imagenes/edad-jubilacion-2013-2027.webp
 imagen_alt: "Gráfico de la subida de la edad de jubilación en España entre 2013 y 2027"
 miga: Edad de jubilación

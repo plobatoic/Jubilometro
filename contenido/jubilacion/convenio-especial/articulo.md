@@ -10,7 +10,7 @@ intencion: comparativa
 fase_plan: F3 (artículo n.º 18)
 fecha_actualizacion: 2026-09-27
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: borrador pendiente de revisión profesional
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-7296
 ---

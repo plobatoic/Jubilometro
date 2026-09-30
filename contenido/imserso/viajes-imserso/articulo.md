@@ -11,7 +11,7 @@ fase_plan: F1 (artículo n.º 90)
 fecha_actualizacion: 2026-09-28
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: publicación programada
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12865
   - https://www.boe.es/buscar/act.php?id=BOE-A-2018-12399

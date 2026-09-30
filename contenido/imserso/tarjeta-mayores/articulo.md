@@ -97,7 +97,7 @@ Creada por el [Decreto 39/2012](https://serviciossociales.gva.es/es/web/mayores/
 
 ### Carné +65 de Galicia
 
-La Xunta lo envía **de oficio** a todas las personas de 65 años o más empadronadas en Galicia. **No hay que activarlo**: basta con enseñarlo en los establecimientos adheridos. Si no te ha llegado, puedes pedirlo en **xestion.carne65.maiores@xunta.gal** ([Xunta de Galicia](https://012.xunta.gal/es/carne-65)).
+La Xunta lo envía **de oficio** a todas las personas de 65 años o más empadronadas en Galicia. **No hay que activarlo**: basta con enseñarlo en los establecimientos adheridos. Si no te ha llegado, puedes pedirlo por correo electrónico a [xestion.carne65.maiores@<wbr>xunta.gal](mailto:xestion.carne65.maiores@xunta.gal) ([Xunta de Galicia](https://012.xunta.gal/es/carne-65)).
 
 ### Si vives en otra comunidad
 

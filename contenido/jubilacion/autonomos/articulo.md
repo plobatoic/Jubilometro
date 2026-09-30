@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 10)
 fecha_actualizacion: 2026-09-27
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: borrador pendiente de revisión profesional
+estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
 ---

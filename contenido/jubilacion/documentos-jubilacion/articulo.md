@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F2 (artículo n.º 14)
 fecha_actualizacion: 2026-09-27
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
-estado: borrador pendiente de revisión profesional
+estado: publicado
 ---
 
 # Documentos para pedir la jubilación: checklist descargable
