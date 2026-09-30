@@ -10,4 +10,4 @@
 | 6 | Límite de mínimos 9.442 €; mínimas de viudedad 17.592,40 / 13.106,80 / 12.262,60 / 9.931,60 €/año; límites del 70 %: 19.373,60 / 21.704,60 / 22.548,80 € | RD 241/2026, anexo I y art. 9; cálculo propio | Texto del BOE | Verificado en BOE |
 | 7 | Complemento a mínimos: residencia, rentas ≤ 9.442 €; las viudedades de divorciados limitadas a la compensatoria (desde 2013) no se complementan | RD 241/2026, art. 9.2, 9.3, 9.5 y 9.9 | Texto del BOE | Verificado en BOE |
 | 8 | Compatibilidad con rentas de trabajo | LGSS, art. 223.1 | Texto del BOE | Verificado en BOE |
-| 9 | Ejemplos (Elena 1.800 € y 936 €; Rosa 900 € frente a 780 €; Ana 676 € y 910 €, 12.740 €/año y 4.246,67 € por miembro; FAQ 780 / 900 / 1.050 €) | — | Cálculo propio | Cálculo propio |
+| 9 | Ejemplos (Elena 1.800 € y 936 €; Rosa 900 € frente a 780 €, más 36,20 € de complemento hasta la mínima de 936,20 €; Ana 676 € y 910 €, 12.740 €/año y 4.246,67 € por miembro; FAQ 780 / 900 / 1.050 €) | — | Cálculo propio | Cálculo propio |

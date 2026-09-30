@@ -8,7 +8,7 @@ miga: Jubilación con 15 años cotizados
 palabra_clave_principal: jubilación con 15 años cotizados
 intencion: informativa
 fase_plan: F2 (artículo n.º 19)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-09-30
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación con 15 años cotizados: cuánto se cobra y ejemplos
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 30 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -101,7 +101,7 @@ No. Para el periodo mínimo no se tiene en cuenta la parte proporcional de las p
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social, artículos 205, 209 y 59](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
-- [Real Decreto 39/2026, de revalorización de las pensiones para 2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-1484) (BOE).
+- [Real Decreto 241/2026, de revalorización de las pensiones para 2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977) (BOE), que sustituyó al Real Decreto 39/2026 con las mismas cuantías.
 - [La Moncloa: pensiones 2026, subida y revalorización](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx).
 
 ## Siguiente paso
@@ -114,4 +114,4 @@ No. Para el periodo mínimo no se tiene en cuenta la parte proporcional de las p
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 30 de septiembre de 2026, la fuente oficial de las cuantías pasa a ser el Real Decreto 241/2026, que derogó el 39/2026 (las cifras no cambian). 27 de septiembre de 2026, primera versión.*

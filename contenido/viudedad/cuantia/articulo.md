@@ -8,7 +8,7 @@ miga: Cuantía
 palabra_clave_principal: cuantía pensión de viudedad
 intencion: informativa
 fase_plan: F1 (artículo n.º 37b)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-09-30
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -93,7 +93,7 @@ Si trabajas y ganas más de 9.442 euros al año, no tienes complemento a mínimo
 - Base reguladora: 50.400 ÷ 28 = 1.800 euros.
 - Pensión: 52 % → **936 euros al mes** en 14 pagas (por encima de la mínima de 709,40), compatible con su sueldo.
 
-**Rosa, 70 años, sin pensión propia ni otros ingresos.** Su marido era jubilado y la base reguladora de su pensión, actualizada, es de 1.500 euros. Rosa cumple los requisitos del 60 % y lo pide: **900 euros al mes**, en lugar de 780 con el 52 %.
+**Rosa, 70 años, sin pensión propia ni otros ingresos.** Su marido era jubilado y la base reguladora de su pensión, actualizada, es de 1.500 euros. Rosa cumple los requisitos del 60 % y lo pide: 900 euros al mes, en lugar de 780 con el 52 %. Como no llega a la pensión mínima de 936,20 euros y no tiene otros ingresos, cobra además 36,20 euros de complemento a mínimos: **936,20 euros al mes** en total.
 
 **Ana, 42 años, con dos hijos de 9 y 13 años y sin otros ingresos.** La base reguladora de su marido es de 1.300 euros: con el 52 % cobraría 676 euros. Pide el 70 %:
 
@@ -145,4 +145,4 @@ Con la misma base reguladora de su pensión de jubilación, actualizada con las 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula la pensión de viudedad. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 30 de septiembre de 2026, el ejemplo de Rosa incluye el complemento a mínimos que le corresponde. 28 de septiembre de 2026, primera versión.*
