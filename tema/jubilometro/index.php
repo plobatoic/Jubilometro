@@ -22,7 +22,7 @@ if ( ! $is_search && ( is_home() || '' === $title ) ) { $title = 'Guías de jubi
 			<form class="jm-mast__search" role="search" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get" style="max-width:40rem">
 				<?php echo jm_icon( 'search' ); // phpcs:ignore ?><label class="jm-sr" for="s-again">Buscar de nuevo</label>
 				<input id="s-again" name="s" type="search" value="<?php echo esc_attr( get_search_query() ); ?>" placeholder="Prueba con otras palabras">
-				<button class="jm-btn" type="submit"><span>Buscar</span><?php echo jm_icon( 'arrow' ); // phpcs:ignore ?></button>
+				<button class="jm-btn" type="submit" aria-label="Buscar"><span>Buscar</span><?php echo jm_icon( 'arrow' ); // phpcs:ignore ?></button>
 			</form>
 		<?php elseif ( get_the_archive_description() ) : ?>
 			<div class="jm-lead"><?php echo wp_kses_post( get_the_archive_description() ); ?></div>

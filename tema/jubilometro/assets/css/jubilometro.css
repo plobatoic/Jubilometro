@@ -1476,3 +1476,10 @@ body:not(.jm-ads-on) li:has(> [data-jm-cookies]), body:not(.jm-ads-on) [data-jm-
   --jm-font-display: "Archivo", "Archivo Titular", "Helvetica Neue", Arial, sans-serif;
   --jm-font-body: "Archivo", "Archivo Texto", "Helvetica Neue", Arial, sans-serif;
 }
+
+/* --- Resultados de las calculadoras en el móvil (2.1.1) ---
+   Un dato largo («67 años y 4 meses (marzo de 2033)») no cabía junto a su etiqueta y se cortaba
+   por la derecha: ahora baja a su propia línea, alineado a la derecha. */
+.jm-kv > div { flex-wrap: wrap; row-gap: .15rem; }
+.jm-kv dt { flex: 1 1 7.5rem; min-width: 0; }
+.jm-kv dd { flex: 0 1 auto; margin-left: auto; max-width: 100%; white-space: normal; overflow-wrap: anywhere; }

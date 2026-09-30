@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.1.0' );
+define( 'JM_THEME_VER', '2.1.1' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -115,6 +115,13 @@ add_filter( 'wp_resource_hints', function ( $urls ) {
 		return false === strpos( $h, 'reach.hostinger.com' );
 	} ) );
 }, 99 );
+// La API no publica la lista de usuarios a quien no ha iniciado sesión: así no se puede
+// averiguar el nombre de acceso de la cuenta (la firma de autor sigue en cada artículo).
+add_filter( 'rest_endpoints', function ( $endpoints ) {
+	if ( is_user_logged_in() ) { return $endpoints; }
+	unset( $endpoints['/wp/v2/users'], $endpoints['/wp/v2/users/(?P<id>[\d]+)'] );
+	return $endpoints;
+} );
 
 /* ------------------------------------------------------------------
  * 3. CLASES DEL BODY

@@ -13,7 +13,7 @@ get_header();
 		<form class="jm-mast__search" role="search" action="<?php echo esc_url( home_url( '/' ) ); ?>" method="get" style="max-width:40rem">
 			<?php echo jm_icon( 'search' ); // phpcs:ignore ?><label class="jm-sr" for="s-404">Qué quieres saber</label>
 			<input id="s-404" name="s" type="search" placeholder="¿Qué quieres saber? Ej.: pensión de viudedad">
-			<button class="jm-btn" type="submit"><span>Buscar</span><?php echo jm_icon( 'arrow' ); // phpcs:ignore ?></button>
+			<button class="jm-btn" type="submit" aria-label="Buscar"><span>Buscar</span><?php echo jm_icon( 'arrow' ); // phpcs:ignore ?></button>
 		</form>
 	</div></div>
 </section>

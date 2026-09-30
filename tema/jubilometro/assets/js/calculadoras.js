@@ -10,14 +10,14 @@
 
   /* ---------- 1. PARÁMETROS LEGALES ---------------------------------------- */
   var CFG = {
-    actualizado: '26 de septiembre de 2026',
+    actualizado: '30 de septiembre de 2026',
     anio: 2026,
-    pensionMax: 3359.60,                 // RD 39/2026, €/mes en 14 pagas
+    pensionMax: 3359.60,                 // RD 241/2026, €/mes en 14 pagas
     limiteIngresosMinimos: 9442,         // €/año sin cónyuge a cargo (2026)
     minimos: {                           // €/mes, 14 pagas (2026)
       jub65: { conyuge: 1256.60, sin: 936.20, noCargo: 888.70 },
-      jubMenor65: { conyuge: 1256.60, sin: 876.90, noCargo: 827.90 },
-      viudedad: { cargas: 1256.60, mayor65: 936.20, de60a64: 876.90, menor60: 709.40 },
+      jubMenor65: { conyuge: 1256.60, sin: 875.90, noCargo: 827.90 },
+      viudedad: { cargas: 1256.60, mayor65: 936.20, de60a64: 875.90, menor60: 709.40 },
       ip: { gran: 1884.70, absoluta: 1256.60, total65: 1256.60, total60: 1256.60 }
     },
     baseMinima: 1424.40,                 // Orden PJC/297/2026 (grupos 4 a 11)
@@ -223,7 +223,7 @@
   // 3.6 Demorada, activa y flexible
   function demorada(o) {
     var P = f(o.pension), anios = clamp(Math.round(f(o.anios)), 0, 10), meses = clamp(Math.round(f(o.meses)), 0, 11);
-    var extra = 4 * anios + (anios >= 1 && meses >= 6 ? 2 : 0);
+    var extra = 4 * anios + (anios >= 2 && meses >= 6 ? 2 : 0);   // art. 210.2.a LGSS: el semestre solo cuenta a partir del segundo año completo
     var nueva = P * (1 + extra / 100);
     var dejas = P * 14 * (anios + meses / 12);
     var ganasAnio = (nueva - P) * 14;
@@ -235,16 +235,38 @@
   }
 
   // 3.7 Viudedad
+  // 52 % general; 60 % con 65 años o más sin otra pensión ni rentas por encima del límite
+  // (RD 900/2018); 70 % con cargas familiares si la pensión es al menos la mitad de los
+  // ingresos y, con ella, no se pasa de 9.442 € más la mínima de viudedad de tu edad: si se
+  // pasa, la pensión se reduce hasta ese límite (art. 31.2 Decreto 3158/1966).
   function viudedad(o) {
     var br = f(o.br), ingresos = f(o.ingresos), edadV = o.edad || '65', cargas = !!o.cargas, otra = !!o.otraPension;
-    var porc = 52, motivo = 'Porcentaje general del 52 % de la base reguladora.';
-    if (cargas && ingresos <= CFG.limiteIngresosMinimos) { porc = 70; motivo = 'Tienes cargas familiares, la pensión será tu principal fuente de ingresos y tus rentas no superan el límite: se aplica el 70 %.'; }
-    else if (edadV === '65' && !otra && ingresos <= CFG.limiteIngresosMinimos) { porc = 60; motivo = 'Tienes 65 años o más, no cobras otra pensión pública y tus rentas no superan el límite: se aplica el 60 %.'; }
-    var imp = br * porc / 100, tope = false;
+    var V = CFG.minimos.viudedad, lim = CFG.limiteIngresosMinimos;
+    var minEdad = edadV === '65' ? V.mayor65 : edadV === '60' ? V.de60a64 : V.menor60;
+    var anual = br * 0.52 * 14, porc = 52, motivo = 'Porcentaje general del 52 % de la base reguladora.';
+    if (edadV === '65' && !otra && ingresos <= lim && br > 0) {
+      anual = br * 0.60 * 14; porc = 60;
+      motivo = 'Tienes 65 años o más, no cobras otra pensión pública y tus otros ingresos no pasan de ' + eur(lim, 0) + ' al año: puedes pedir el 60 %, siempre que no sean ingresos del trabajo.';
+    }
+    var limite70 = lim + minEdad * 14, reducida = false;
+    if (cargas && br > 0) {
+      var pleno = br * 0.70 * 14, anual70 = Math.min(pleno, Math.max(0, limite70 - ingresos));
+      if (anual70 >= ingresos && anual70 > anual) {
+        reducida = anual70 < pleno; anual = anual70; porc = Math.round(anual70 / (br * 14) * 1000) / 10;
+        motivo = reducida
+          ? 'Tienes cargas familiares, pero con el 70 % completo tus ingresos pasarían del límite de ' + eur(limite70) + ' al año: la pensión se reduce hasta no superarlo y queda en el ' + pct(porc, porc % 1 ? 1 : 0) + ' de la base reguladora.'
+          : 'Tienes cargas familiares, la pensión será al menos la mitad de tus ingresos y, sumándola, no pasas del límite de ' + eur(limite70) + ' al año: se aplica el 70 %.';
+      } else if (anual70 < ingresos) {
+        motivo = 'Con cargas familiares se puede pedir el 70 %, pero la pensión tiene que ser al menos la mitad de tus ingresos y en tu caso no lo sería. ' + motivo;
+      } else {
+        motivo = 'Con cargas familiares se puede pedir el 70 %, pero con tus otros ingresos se reduciría tanto, por el límite de ' + eur(limite70) + ' al año, que te conviene más el porcentaje normal. ' + motivo;
+      }
+    }
+    var imp = anual / 14, tope = false;
     if (imp > CFG.pensionMax) { imp = CFG.pensionMax; tope = true; }
-    var min = cargas ? CFG.minimos.viudedad.cargas : edadV === '65' ? CFG.minimos.viudedad.mayor65 : edadV === '60' ? CFG.minimos.viudedad.de60a64 : CFG.minimos.viudedad.menor60;
-    var complemento = ingresos <= CFG.limiteIngresosMinimos && imp < min ? min - imp : 0;
-    return { br: br, porc: porc, motivo: motivo, importe: imp, tope: tope, minimo: min, complemento: complemento, total: imp + complemento, anual: (imp + complemento) * 14 };
+    var min = cargas ? V.cargas : minEdad;
+    var complemento = ingresos <= lim && imp < min ? min - imp : 0;
+    return { br: br, porc: porc, motivo: motivo, reducida: reducida, limite70: limite70, importe: imp, tope: tope, minimo: min, complemento: complemento, total: imp + complemento, anual: (imp + complemento) * 14 };
   }
 
   // 3.8 Incapacidad permanente
@@ -375,7 +397,7 @@
         ['Pensión máxima ' + CFG.anio, eur(CFG.pensionMax)]
       ]);
       out += '<div class="jm-explain"><p>Durante la transición, la Seguridad Social calcula tu base reguladora de las dos formas y aplica la que más te conviene. Con tus datos gana el <strong>método ' + (r.gana === 'nuevo' ? 'nuevo, porque descarta tus peores meses' : 'tradicional') + '</strong>.</p><p>Tu pensión es la base reguladora por el ' + pct(r.porcentaje) + ' que corresponde a tus años cotizados' + (r.tope ? ', limitada a la pensión máxima' : '') + '.</p></div>';
-      return out + notes('arts. 209 y 210 LGSS; disposición transitoria 40ª LGSS (RDL 2/2023); RD 39/2026 (pensión máxima).', 'Simulamos tu historial a partir de una base media: el cálculo real usa tus bases mes a mes, actualizadas con el IPC. No incluye complementos (brecha de género, mínimos).');
+      return out + notes('arts. 209 y 210 LGSS; disposición transitoria 40ª LGSS (RDL 2/2023); RD 241/2026 (pensión máxima).', 'Simulamos tu historial a partir de una base media: el cálculo real usa tus bases mes a mes, actualizadas con el IPC. No incluye complementos (brecha de género, mínimos).');
     },
     anticipada: function (i, ej) {
       var r = anticipada(i);
@@ -404,15 +426,15 @@
         ['Jubilación activa: pensión compatible', r.anios >= 1 ? pct(r.activaPct, 0) + ' (' + eur(r.activaImporte) + ')' : 'Requiere 1 año de demora'],
         ['Jubilación flexible con jornada del ' + r.jornada + ' %', eur(r.flexImporte) + ' / mes']
       ]);
-      out += '<div class="jm-explain"><p>Cada año completo trabajado después de tu edad ordinaria suma un 4 %; desde el segundo año, cada semestre adicional suma un 2 %. En lugar del porcentaje puedes pedir un pago único por año (entre unos 4.800 € y 13.600 €, según tu pensión) o la fórmula mixta.</p>' + (r.sobreMax ? '<p>Si con el incremento superas la pensión máxima, el exceso se cobra como una cantidad anual aparte.</p>' : '') + '</div>';
+      out += '<div class="jm-explain"><p>Cada año completo trabajado después de tu edad ordinaria suma un 4 %; a partir del segundo año completo, 6 meses más suman un 2 %. En lugar del porcentaje puedes pedir un pago único por año (entre unos 4.800 € y 13.600 €, según tu pensión) o la fórmula mixta.</p>' + (r.sobreMax ? '<p>Si con el incremento superas la pensión máxima, el exceso se cobra como una cantidad anual aparte.</p>' : '') + '</div>';
       return out + notes('art. 210.2 LGSS (jubilación demorada), art. 214 LGSS (jubilación activa) y RD 416/2026 (jubilación flexible y opción mixta, en vigor desde el 28 de agosto de 2026).', 'El pago único se muestra como horquilla orientativa: su importe exacto depende de tu pensión inicial y de tus años cotizados.');
     },
     viudedad: function (i, ej) {
       var r = viudedad(i);
-      var out = head(ej) + '<div class="jm-result__hero"><p class="jm-result__figure">' + eur(r.total) + ' <small>/ mes</small></p><p class="jm-result__sub">' + pct(r.porc, 0) + ' de la base reguladora, en 14 pagas (' + eur(r.anual, 0) + ' al año).</p></div>';
-      out += kv([['Base reguladora de la persona fallecida', eur(r.br)], ['Porcentaje aplicado', pct(r.porc, 0)], ['Pensión calculada', eur(r.importe)], ['Pensión mínima de tu situación', eur(r.minimo)], ['Complemento a mínimos', r.complemento ? eur(r.complemento) : 'No aplica']]);
+      var out = head(ej) + '<div class="jm-result__hero"><p class="jm-result__figure">' + eur(r.total) + ' <small>/ mes</small></p><p class="jm-result__sub">' + pct(r.porc, r.porc % 1 ? 1 : 0) + ' de la base reguladora' + (r.complemento ? ' más el complemento a mínimos' : '') + ', en 14 pagas (' + eur(r.anual, 0) + ' al año).</p></div>';
+      out += kv([['Base reguladora de la persona fallecida', eur(r.br)], ['Porcentaje aplicado', pct(r.porc, r.porc % 1 ? 1 : 0) + (r.reducida ? ' (70 % reducido por el límite de ingresos)' : '')], ['Pensión calculada', eur(r.importe)], ['Pensión mínima de tu situación', eur(r.minimo)], ['Complemento a mínimos', r.complemento ? eur(r.complemento) : 'No aplica']]);
       out += '<div class="jm-explain"><p>' + r.motivo + '</p>' + (r.complemento ? '<p>Como tu pensión queda por debajo de la mínima y tus ingresos no superan ' + eur(CFG.limiteIngresosMinimos, 0) + ' al año, podrías cobrar el complemento a mínimos.</p>' : '') + '</div>';
-      return out + notes('art. 219 LGSS; art. 31 del Decreto 3158/1966 (52 %); RD 1465/2001 (70 %); RD 900/2018 (60 %); RD 39/2026 (mínimos).', 'Los requisitos de parejas de hecho, personas separadas o divorciadas y el periodo de cotización previo no se comprueban aquí.');
+      return out + notes('art. 219 LGSS; art. 31 del Decreto 3158/1966 (52 y 70 %); RD 900/2018 (60 %); RD 241/2026 (mínimos).', 'Tampoco se comprueban aquí el límite de ingresos por miembro de la familia de las cargas familiares, los requisitos de parejas de hecho y personas separadas o divorciadas, ni el periodo de cotización previo.');
     },
     incapacidad: function (i, ej) {
       var r = incapacidad(i);
@@ -424,7 +446,7 @@
       rows.push(['Pensión mínima de referencia (con cónyuge a cargo)', eur(r.minimo)], ['Importe anual (14 pagas)', eur(r.anual, 0)]);
       out += kv(rows);
       out += '<div class="jm-explain"><p>' + (r.grado === 'total' ? 'La total impide hacer tu profesión habitual, pero puedes trabajar en otra. A partir de los 55 años puede subir al 75 % (total cualificada) si te resulta difícil encontrar empleo.' : r.grado === 'absoluta' ? 'La absoluta impide cualquier profesión u oficio. Cobras el 100 % de la base reguladora.' : 'La gran incapacidad suma al 100 % un complemento para pagar a la persona que te ayuda: el 45 % de la base mínima de cotización más el 30 % de tu última base.') + '</p></div>';
-      return out + notes('arts. 193 a 196 LGSS; RD 39/2026 (mínimos).', 'El cálculo de la base reguladora depende de si la incapacidad deriva de enfermedad común, accidente o enfermedad profesional.');
+      return out + notes('arts. 193 a 196 LGSS; RD 241/2026 (mínimos).', 'El cálculo de la base reguladora depende de si la incapacidad deriva de enfermedad común, accidente o enfermedad profesional.');
     },
     ahorro: function (i, ej) {
       var r = ahorro(i);
@@ -526,6 +548,12 @@
           printRow(out);
         } catch (e) { if (root.console) console.error(e); }
       }
+      // El ejemplo escrito en la página se rehace con las cifras de CFG si su texto no coincide:
+      // así no se queda desfasado cuando cambian las cuantías o la fecha de actualización.
+      try {
+        var ej = document.createElement('div'); ej.innerHTML = RENDER[id](readForm(form), true);
+        if (ej.textContent.replace(/\s+/g, '') !== out.textContent.replace(/\s+/g, '')) out.innerHTML = ej.innerHTML;
+      } catch (e) { if (root.console) console.error(e); }
       form.addEventListener('submit', function (ev) {
         ev.preventDefault(); live = true; run();
         if (form.hasAttribute('data-jm-scroll') && root.innerWidth < 1000 && out.scrollIntoView) out.scrollIntoView({ behavior: 'smooth', block: 'start' });
