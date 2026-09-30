@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.0.43589' );
+define( 'JM_THEME_VER', '2.1.0' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -433,7 +433,9 @@ function jm_prep_count( $cat ) {
 	return (int) ( new WP_Query( array( 'post_type' => 'post', 'post_status' => 'draft', 'category_name' => $cat, 'fields' => 'ids', 'posts_per_page' => -1, 'no_found_rows' => true ) ) )->post_count;
 }
 function jm_prep_note( $n, $cat = '' ) {
-	if ( $n < 1 ) { return ''; }
+	// Desde la 2.1 no se anuncian guías en preparación: para los lectores y para AdSense, el sitio
+	// no debe parecer en obras. Los borradores siguen ahí y salen solos al publicarse.
+	if ( $n < 1 || ! apply_filters( 'jm_show_prep_note', false ) ) { return ''; }
 	$txt = sprintf( _n( 'Estamos preparando %d guía más sobre este tema.', 'Estamos preparando %d guías más sobre este tema.', $n, 'jubilometro' ), $n );
 	return '<p class="jm-prep">' . jm_icon( 'refresh' ) . '<span>' . esc_html( $txt ) . ' <a href="' . esc_url( home_url( '/#newsletter' ) ) . '">Te avisamos por correo cuando salgan</a>.</span></p>';
 }
@@ -484,11 +486,64 @@ add_filter( 'the_content', function ( $html ) {
 	}, $html );
 }, 25 );
 
+/*
+ * AdSense (anuncios automáticos). Se activa guardando el ID de editor (ca-pub-…) en la opción
+ * jm_adsense_client (Ajustes > Generales, o por la API: POST /wp/v2/settings {"jm_adsense_client": "ca-pub-…"}).
+ * - La etiqueta google-adsense-account va en todas las páginas (verificación del sitio).
+ * - El código de anuncios no se carga en las calculadoras, las páginas legales, el buscador ni la 404:
+ *   así no hay anuncios junto a los botones de calcular (clics accidentales) ni en páginas sin contenido propio.
+ * - /ads.txt se genera solo con el ID (no hace falta subir el archivo al hosting).
+ */
+add_action( 'init', function () {
+	register_setting( 'general', 'jm_adsense_client', array(
+		'type'              => 'string',
+		'default'           => '',
+		'show_in_rest'      => true,
+		'description'       => 'ID de editor de AdSense (ca-pub-…)',
+		'sanitize_callback' => function ( $v ) {
+			$v = trim( (string) $v );
+			return preg_match( '/^ca-pub-\d{10,20}$/', $v ) ? $v : '';
+		},
+	) );
+} );
+function jm_adsense_client() {
+	$c = get_option( 'jm_adsense_client', '' );
+	return is_string( $c ) && preg_match( '/^ca-pub-\d{10,20}$/', $c ) ? $c : '';
+}
+function jm_ads_allowed() {
+	if ( is_404() || is_search() ) { return false; }
+	if ( is_page() ) {
+		$id  = get_queried_object_id();
+		$anc = get_post_ancestors( $id );
+		$top = get_post_field( 'post_name', $anc ? end( $anc ) : $id );
+		if ( 'calculadoras' === $top ) { return false; }
+		if ( in_array( get_post_field( 'post_name', $id ), array( 'aviso-legal', 'politica-privacidad', 'politica-cookies', 'contacto', 'descargo-responsabilidad', 'accesibilidad' ), true ) ) { return false; }
+	}
+	return true;
+}
+add_action( 'wp_head', function () {
+	$c = jm_adsense_client();
+	if ( ! $c ) { return; }
+	printf( '<meta name="google-adsense-account" content="%s">' . "\n", esc_attr( $c ) );
+	if ( jm_ads_allowed() ) {
+		printf( '<script async src="%s" crossorigin="anonymous" data-no-optimize="1" data-no-defer="1"></script>' . "\n", esc_url( 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=' . $c ) );
+	}
+}, 2 );
+add_action( 'init', function () {
+	$uri = isset( $_SERVER['REQUEST_URI'] ) ? strtok( sanitize_text_field( wp_unslash( $_SERVER['REQUEST_URI'] ) ), '?' ) : '';
+	if ( '/ads.txt' !== $uri ) { return; }
+	$c = jm_adsense_client();
+	if ( ! $c ) { return; }
+	nocache_headers();
+	header( 'Content-Type: text/plain; charset=utf-8' );
+	echo 'google.com, ' . esc_html( substr( $c, 3 ) ) . ', DIRECT, f08c47fec0942fa0' . "\n"; // phpcs:ignore
+	exit;
+}, 1 );
+
 // Un tema (página pilar) se indexa cuando tiene al menos 3 guías publicadas; mientras, noindex y fuera del sitemap
 function jm_thin_page( $id ) {
 	$slug = get_post_field( 'post_name', $id );
 	if ( wp_get_post_parent_id( $id ) ) { return false; }
-	if ( 'datos' === $slug ) { return true; }
 	if ( ! in_array( $slug, jm_data( 'temas' ), true ) ) { return false; }
 	$term = get_category_by_slug( $slug );
 	return ! $term || (int) $term->count < 3;

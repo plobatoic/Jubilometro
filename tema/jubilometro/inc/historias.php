@@ -185,7 +185,9 @@ function jm_entry( $p, $rank = 0 ) {
 		$m   = jm_minutes( $p );
 		$fig = '<span class="jm-entry__fig is-time" aria-label="' . (int) $m . ' minutos de lectura">' . (int) $m . ' min</span>';
 	}
-	return '<li class="jm-entry' . ( $soon ? ' is-soon' : '' ) . '">' . $date . '<span class="jm-entry__n">' . esc_html( $n ) . '</span>'
+	$k    = $c ? ' data-k="' . esc_attr( $c->slug ) . '"' : '';
+	$n    = ( $rank || '' === $n ) ? $n : 'Nº ' . $n;
+	return '<li class="jm-entry' . ( $soon ? ' is-soon' : '' ) . '"' . $k . '>' . $date . '<span class="jm-entry__n">' . esc_html( $n ) . '</span>'
 		. '<div class="jm-entry__concept">' . $t . '<span class="jm-entry__cat">' . $cat . '</span></div>' . $fig . '</li>';
 }
 
@@ -347,4 +349,55 @@ function jm_upcoming() {
 	return '<section class="jm-upcoming" aria-labelledby="prep-title"><div class="jm-wrap"><div class="jm-upcoming__box">'
 		. '<header class="jm-upcoming__head"><h2 id="prep-title">Próximas hojas de la libreta</h2><p>Estamos escribiendo las guías de estos temas. Mientras tanto, cada tema tiene su página con lo esencial y sus calculadoras.</p></header>'
 		. '<ul class="jm-upcoming__list">' . $rows . '</ul></div></div></section>';
+}
+
+/*
+ * Guías por tema (portada): una tarjeta por tema con tres guías pilar y el enlace a todas.
+ * Sustituye a las bandas con fotos de cada tema: misma navegación y enlaces, en mucha menos altura.
+ * Si una guía pilar ya sale arriba en la portada o no está publicada, se usa la más reciente del tema.
+ */
+function jm_temas_grid( &$used ) {
+	$pilares = array(
+		'jubilacion'     => array( 'edad-de-jubilacion', 'anticipada-voluntaria', 'flexible', 'anticipada-involuntaria' ),
+		'cuanto-cobrare' => array( 'como-se-calcula-la-pension', 'pension-minima', 'revalorizacion-pensiones', 'pension-maxima' ),
+		'viudedad'       => array( 'requisitos', 'cuantia', 'solicitar-viudedad', 'pareja-de-hecho' ),
+		'incapacidad'    => array( 'grados-incapacidad', 'incapacidad-total', 'incapacidad-absoluta', 'solicitar' ),
+		'ayudas'         => array( 'pension-no-contributiva', 'bono-social-electrico', 'ingreso-minimo-vital-mayores', 'complemento-alquiler' ),
+		'dependencia'    => array( 'ley-dependencia', 'grados', 'prestacion-cuidados-familiares', 'solicitar-dependencia' ),
+		'dinero'         => array( 'declaracion-renta-jubilados', 'rescate-plan-pensiones', 'hipoteca-inversa', 'irpf-pensiones' ),
+		'imserso'        => array( 'viajes-imserso', 'termalismo', 'requisitos-viajes', 'tarjeta-mayores' ),
+	);
+	$cats  = jm_data( 'cats' );
+	$cards = '';
+	foreach ( jm_data( 'temas' ) as $slug ) {
+		$term = get_category_by_slug( $slug );
+		if ( ! $term || ! $term->count ) { continue; }
+		$list = array();
+		foreach ( $pilares[ $slug ] ?? array() as $ps ) {
+			if ( count( $list ) >= 3 ) { break; }
+			$p = jm_post_by_slug( $ps, 'publish' );
+			if ( $p && ! in_array( (int) $p->ID, $used, true ) && in_array( $slug, wp_list_pluck( get_the_category( $p->ID ), 'slug' ), true ) ) { $list[] = $p; }
+		}
+		if ( count( $list ) < 3 ) {
+			$list = array_merge( $list, jm_stories( $slug, 3 - count( $list ), array_merge( $used, jm_ids( $list ) ), false ) );
+		}
+		if ( ! $list ) { continue; }
+		$used  = array_merge( $used, jm_ids( $list ) );
+		$items = '';
+		foreach ( $list as $p ) {
+			$items .= '<li><a href="' . esc_url( get_permalink( $p ) ) . '">' . esc_html( preg_replace( '/:.*$/u', '', get_the_title( $p ) ) ) . '</a></li>';
+		}
+		$url    = esc_url( home_url( '/' . $slug . '/' ) );
+		$icon   = isset( $cats[ $slug ]['icon'] ) ? jm_icon( $cats[ $slug ]['icon'] ) : '';
+		$total  = (int) $term->count;
+		$cards .= '<article class="jm-tema" data-k="' . esc_attr( $slug ) . '">'
+			. '<header class="jm-tema__head"><span class="jm-tema__icon">' . $icon . '</span><h3><a href="' . $url . '">' . esc_html( $term->name ) . '</a></h3>'
+			. '<span class="jm-tema__n">' . esc_html( sprintf( _n( '%d guía', '%d guías', $total, 'jubilometro' ), $total ) ) . '</span></header>'
+			. '<ul class="jm-tema__list">' . $items . '</ul>'
+			. '<a class="jm-tema__more" href="' . $url . '" aria-label="' . esc_attr( 'Ver todas las guías de ' . $term->name ) . '">Ver todas las guías' . jm_icon( 'arrow' ) . '</a></article>';
+	}
+	if ( ! $cards ) { return ''; }
+	return '<section class="jm-temas" aria-labelledby="temas-title"><div class="jm-wrap">'
+		. '<header class="jm-temas__top"><h2 id="temas-title">Guías por tema</h2><p>Lo esencial de cada tema, para empezar por lo que más se consulta.</p></header>'
+		. '<div class="jm-temas__grid">' . $cards . '</div></div></section>';
 }

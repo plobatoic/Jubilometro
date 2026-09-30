@@ -29,7 +29,7 @@ while ( have_posts() ) :
 					<?php if ( $cat ) : ?><li><a href="<?php echo esc_url( home_url( '/' . $cat->slug . '/' ) ); ?>"><?php echo esc_html( $cat->name ); ?></a></li><?php endif; ?>
 					<li><span aria-current="page"><?php echo esc_html( $crumb ); ?></span></li>
 				</ol></nav>
-				<div class="jm-post__title"><h1><?php echo esc_html( $title ); ?></h1><span class="jm-pin"><span class="jm-stamp" aria-hidden="true">Revisado<small><?php echo esc_html( get_the_modified_date( 'd·m·y' ) ); ?> · BOE · SS</small></span></span></div>
+				<div class="jm-post__title"><h1><?php echo esc_html( $title ); ?></h1></div>
 				<?php if ( has_excerpt() ) : ?><p class="jm-post__dek"><?php echo esc_html( get_the_excerpt() ); ?></p><?php endif; ?>
 				<div class="jm-byline">
 					<div class="jm-byline__who">
@@ -37,20 +37,13 @@ while ( have_posts() ) :
 						<div class="jm-byline__text">
 							<span class="jm-byline__name">Por <a href="<?php echo esc_url( home_url( $author['url'] ) ); ?>"><?php echo esc_html( $author['name'] ); ?></a><span class="jm-byline__role"> · Revisado con la normativa vigente · <a href="<?php echo esc_url( home_url( '/metodologia/' ) ); ?>">Cómo revisamos</a></span></span>
 							<p class="jm-byline__meta">
-								<?php if ( jm_num( $p ) ) : ?><span>Guía nº <b><?php echo esc_html( jm_num( $p ) ); ?></b></span><?php endif; ?>
 								<span><?php echo jm_icon( 'refresh' ); // phpcs:ignore ?>Actualizado el <time datetime="<?php echo esc_attr( get_the_modified_date( 'c' ) ); ?>"><?php echo esc_html( jm_date( $p ) ); ?></time></span>
 								<span><?php echo jm_icon( 'clock' ); // phpcs:ignore ?><?php echo (int) jm_minutes( $p ); ?> min de lectura</span>
 							</p>
 						</div>
 					</div>
-					<div class="jm-share" aria-label="Compartir">
-						<span class="jm-share__label">Compartir</span>
-						<a class="is-wa" href="https://wa.me/?text=<?php echo rawurlencode( $title . ' ' . $url ); ?>" target="_blank" rel="noopener" aria-label="Compartir por WhatsApp"><?php echo jm_icon( 'whatsapp' ); // phpcs:ignore ?></a>
-						<a class="is-fb" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $enc; // phpcs:ignore ?>" target="_blank" rel="noopener" aria-label="Compartir en Facebook"><?php echo jm_icon( 'facebook' ); // phpcs:ignore ?></a>
-						<a class="is-mail" href="mailto:?subject=<?php echo rawurlencode( $title ); ?>&amp;body=<?php echo $enc; // phpcs:ignore ?>" aria-label="Enviar por correo"><?php echo jm_icon( 'mail' ); // phpcs:ignore ?></a>
-						<button class="is-copy" type="button" data-jm-copy="<?php echo esc_url( $url ); ?>" aria-label="Copiar el enlace"><?php echo jm_icon( 'link' ); // phpcs:ignore ?></button>
-					</div>
 				</div>
+				<div class="jm-post__actions">
 				<div class="jm-tools" role="group" aria-label="Herramientas de lectura">
 					<div class="jm-tools__size" role="group" aria-label="Tamaño de letra">
 						<span class="jm-tools__label" aria-hidden="true">Letra</span>
@@ -60,25 +53,33 @@ while ( have_posts() ) :
 					</div>
 					<button class="jm-tools__btn" type="button" data-jm-listen aria-pressed="false"><?php echo jm_icon( 'volume' ); // phpcs:ignore ?><span>Escuchar la guía</span></button>
 					<button class="jm-tools__btn" type="button" data-jm-listen-stop hidden><?php echo jm_icon( 'x' ); // phpcs:ignore ?><span>Parar</span></button>
-					<button class="jm-tools__btn" type="button" data-jm-print><?php echo jm_icon( 'print' ); // phpcs:ignore ?><span>Imprimir</span></button>
+					<button class="jm-tools__btn jm-tools__btn--icon" type="button" data-jm-print aria-label="Imprimir la guía"><?php echo jm_icon( 'print' ); // phpcs:ignore ?><span class="jm-sr">Imprimir</span></button>
+				</div>
+				<div class="jm-share" aria-label="Compartir">
+					<span class="jm-share__label">Compartir</span>
+					<a class="is-wa" href="https://wa.me/?text=<?php echo rawurlencode( $title . ' ' . $url ); ?>" target="_blank" rel="noopener" aria-label="Compartir por WhatsApp"><?php echo jm_icon( 'whatsapp' ); // phpcs:ignore ?></a>
+					<a class="is-fb" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $enc; // phpcs:ignore ?>" target="_blank" rel="noopener" aria-label="Compartir en Facebook"><?php echo jm_icon( 'facebook' ); // phpcs:ignore ?></a>
+					<a class="is-mail" href="mailto:?subject=<?php echo rawurlencode( $title ); ?>&amp;body=<?php echo $enc; // phpcs:ignore ?>" aria-label="Enviar por correo"><?php echo jm_icon( 'mail' ); // phpcs:ignore ?></a>
+					<button class="is-copy" type="button" data-jm-copy="<?php echo esc_url( $url ); ?>" aria-label="Copiar el enlace"><?php echo jm_icon( 'link' ); // phpcs:ignore ?></button>
+				</div>
 				</div>
 			</div>
 		</div>
 	</header>
 
-	<?php if ( has_post_thumbnail() ) :
-		$tid = get_post_thumbnail_id();
-		$cap = wp_get_attachment_caption( $tid );
-		$foc = get_post_meta( $p->ID, '_jm_focus', true );
-		?>
-	<figure class="jm-post__hero jm-wrap">
-		<?php echo wp_get_attachment_image( $tid, 'full', false, array( 'sizes' => '(min-width: 1440px) 1360px, 100vw', 'loading' => false, 'fetchpriority' => 'high', 'data-no-lazy' => '1', 'style' => $foc ? 'object-position:' . esc_attr( $foc ) : '' ) ); ?>
-		<?php if ( $cap ) : ?><figcaption><?php echo esc_html( $cap ); ?></figcaption><?php endif; ?>
-	</figure>
-	<?php endif; ?>
 
 	<div class="jm-wrap jm-post__layout">
 		<div class="jm-post__main">
+			<?php if ( has_post_thumbnail() ) :
+				$tid = get_post_thumbnail_id();
+				$cap = wp_get_attachment_caption( $tid );
+				$foc = get_post_meta( $p->ID, '_jm_focus', true );
+				?>
+			<figure class="jm-post__hero">
+				<?php echo wp_get_attachment_image( $tid, 'large', false, array( 'sizes' => '(min-width: 820px) 768px, calc(100vw - 2rem)', 'loading' => false, 'fetchpriority' => 'high', 'data-no-lazy' => '1', 'style' => $foc ? 'object-position:' . esc_attr( $foc ) : '' ) ); ?>
+				<?php if ( $cap ) : ?><figcaption><?php echo esc_html( $cap ); ?></figcaption><?php endif; ?>
+			</figure>
+			<?php endif; ?>
 			<?php if ( count( $toc ) > 1 ) : ?>
 			<details class="jm-toc jm-toc--inline"><summary><?php echo jm_icon( 'list' ); // phpcs:ignore ?>En esta guía<?php echo jm_icon( 'chevron' ); // phpcs:ignore ?></summary><?php echo jm_toc_list( $toc ); // phpcs:ignore ?></details>
 			<?php endif; ?>

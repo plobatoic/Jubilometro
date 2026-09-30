@@ -9,6 +9,8 @@ Estado a 27 de septiembre de 2026: **los 21 artículos del apartado 1 del inform
 - Cambiar solo el title en Rank Math no purga la caché de LiteSpeed: después hay que guardar la página (por la API, un `POST /wp/v2/pages/<id>` vacío basta) para que se vea el nuevo.
 - La portada «Datos» seguía siendo la plantilla: lista de guías vacía, «Guías en preparación» y una respuesta rápida que prometía tablas que no existen. Se quitó la lista vacía, la respuesta rápida remite a la tabla por provincia y tiene texto pilar en `paginas/portadas/datos.md` (subido con `subir-portadas.mjs`).
 
+**Tema 2.1.0 (rediseño de lectura, 30/09/2026)**, en `tema/jubilometro`: foto de cabecera de los artículos del ancho del texto (antes, casi una pantalla), cabecera del artículo más corta (sin sello pegado al título, herramientas de lectura y compartir en una línea), portada de 17 a 10 bloques (−34 % de altura en ordenador y −42 % en móvil) con la libreta de guías como una libreta de verdad (espiral, margen rojo, color por tema) y «Guías por tema» con las guías pilar en lugar de seis bandas de fotos; bloques largos más compactos en el móvil; tipografía de reserva con las medidas de Archivo para que la página no salte al cargar la fuente; sin avisos de «guías en preparación»; soporte de AdSense y `ads.txt` (punto 5 bis) y `/datos/` indexable. Comprobado sobre la web real con el CSS nuevo: ningún texto tapado en 12 tipos de página a 390, 820 y 1366 px, sin desbordes y colores de tema con contraste AA.
+
 La web jubilometro.com ya está montada en Hostinger (tema «Jubilómetro» sobre Kadence, plugin «Jubilómetro · Núcleo», Rank Math, secciones, 10 calculadoras y páginas legales). Los 21 artículos se suben a ella con `npm run subir` (punto 4): el 27/09/2026 se subieron, se revisaron y se publicaron (identificadores en `publicacion/wordpress-entradas.json`). La calculadora de edad de jubilación ya estaba publicada en la web y da los mismos resultados que la del proyecto, así que no se duplica.
 
 ## 1. Decisión: lanzar el clúster completo el mismo día
@@ -109,15 +111,21 @@ Los archivos `wordpress-borradores.xml` y `wordpress-paginas.xml` quedan para un
 
 ## 5 bis. Monetización con Google AdSense
 
-Pedir AdSense **después del lanzamiento**, con las 22 páginas y las 6 páginas de confianza ya publicadas: Google revisa que el sitio tenga contenido propio suficiente, quiénes somos, contacto y privacidad.
+Estado a 30/09/2026: **el sitio está listo para pedir AdSense**. Revisión hecha para la solicitud:
 
-1. **NIF** en el aviso legal (ver la lista del punto 2) y regenerar con `npm run publicar`.
-2. **Alta** en adsense.google.com con la cuenta de Google del titular; añadir el sitio `jubilometro.com` y pegar el código de verificación en la cabecera (con Site Kit de Google, o con el campo de código de cabecera del tema).
-3. **ads.txt**: AdSense da la línea `google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0` con tu ID de editor. Súbela como archivo `ads.txt` a la raíz del dominio (`https://jubilometro.com/ads.txt`), desde el administrador de archivos de Hostinger o con un plugin de ads.txt.
-4. **Aviso de consentimiento (obligatorio en el EEE)**: en AdSense > Privacidad y mensajes > Consentimiento europeo, crear el mensaje con las opciones «Consentir», «No consentir» y «Gestionar opciones», en español, y publicarlo. Es la plataforma de consentimiento certificada de Google (TCF) que describe la política de cookies. No instales otro banner de cookies a la vez.
-5. **Enlace «Configuración de privacidad» en el pie**: la política de cookies promete que el lector puede cambiar su elección. Activar el enlace de revocación del mensaje de Google (o un enlace que llame a `googlefc.showRevocationMessage()`).
-6. **Anuncios automáticos** con moderación: excluir las calculadoras (no poner anuncios dentro ni pegados al botón de calcular, para no provocar clics accidentales, que AdSense sanciona) y limitar la densidad en móvil.
-7. Cuando se añada Google Analytics, actualizar antes privacidad y cookies e incluirlo en el mensaje de consentimiento.
+- **Contenido propio**: 110 guías con fuentes del BOE y de organismos oficiales, 10 calculadoras y datos; ninguna página con texto de plantilla, «próximamente» ni huecos de anuncio vacíos (el tema 2.1.0 ya no muestra «Estamos preparando N guías más»). Todas las imágenes tienen texto alternativo y pie con su fuente real (Unsplash, StockSnap o rawpixel).
+- **Páginas de confianza**: Quiénes somos, Metodología, Contacto (correo que funciona y formulario), Aviso legal con NIF, Privacidad, Cookies, Descargo y Accesibilidad.
+- **Privacidad y cookies** (actualizadas el 30/09/2026 en la web): apartado de Google AdSense con lo que exige Google (Google y otros proveedores usan cookies para mostrar anuncios según visitas anteriores; cómo desactivar la publicidad personalizada en la configuración de anuncios de Google y en youronlinechoices.eu; enlaces a las políticas de Google) y el consentimiento con la plataforma de Google certificada TCF.
+- **Técnica**: HTTPS, adaptada al móvil, Lighthouse (móvil) en los artículos: rendimiento 98, accesibilidad 100, buenas prácticas 100 y SEO 100; datos estructurados (Article, BreadcrumbList, WebApplication, Dataset); sitemap enviado a Search Console.
+- **Aviso de cookies**: la web no tiene banner propio. El enlace «Configurar cookies» del pie ya llama a `googlefc.showRevocationMessage()`, así que funcionará en cuanto esté el mensaje de Google.
+
+Pasos:
+
+1. **Alta** (titular): adsense.google.com con su cuenta de Google, sitio `jubilometro.com`. AdSense da el ID de editor `ca-pub-…`.
+2. **Activar en la web** (por la API, sin tocar el hosting): `POST /wp/v2/settings` con `{"jm_adsense_client": "ca-pub-…"}` (tema 2.1.0). El tema pone la etiqueta `google-adsense-account` en todas las páginas, el código de anuncios automáticos en guías, temas y portada (**no** en calculadoras, páginas legales, buscador ni 404) y sirve `https://jubilometro.com/ads.txt` con la línea `google.com, pub-…, DIRECT, f08c47fec0942fa0`. Comprobar las tres cosas en vivo.
+3. **Mensaje de consentimiento** (titular, en AdSense > Privacidad y mensajes > Europa): opciones «Consentir», «No consentir» y «Gestionar opciones», en español, y publicarlo. No instalar otro banner de cookies.
+4. **Anuncios automáticos** en AdSense: activar, con densidad moderada en móvil. Las calculadoras ya quedan fuera porque en ellas no se carga el código.
+5. Cuando se añada Google Analytics, actualizar antes privacidad y cookies e incluirlo en el mensaje de consentimiento.
 
 ## 6. Semanas siguientes: 3-4 artículos por semana
 

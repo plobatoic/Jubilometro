@@ -1320,3 +1320,159 @@ body:not(.jm-ads-on) li:has(> [data-jm-cookies]), body:not(.jm-ads-on) [data-jm-
   .jm-answer, .jm-keydata, .jm-table-wrap, table, figure, .jm-next { break-inside: avoid; }
   *, *::before, *::after { box-shadow: none !important; animation: none !important; transition: none !important; }
 }
+
+/* ==========================================================================
+   RETOQUES 2.1 · lectura más ligera (30/09/2026)
+   Cabecera de artículo más corta, foto dentro de la columna de lectura,
+   libreta de la portada como una libreta de verdad y guías por tema en tarjetas.
+   ========================================================================== */
+
+/* Color de cada tema (marcas de la libreta y tarjetas por tema) */
+[data-k] { --k: var(--jm-accent); }
+[data-k="jubilacion"] { --k: #2E7359; }
+[data-k="cuanto-cobrare"] { --k: #1C4470; }
+[data-k="viudedad"] { --k: #6E4A93; }
+[data-k="incapacidad"] { --k: #A14E26; }
+[data-k="ayudas"] { --k: #855C00; }
+[data-k="dependencia"] { --k: #1F6F80; }
+[data-k="dinero"] { --k: #56661B; }
+[data-k="imserso"] { --k: #A33452; }
+
+/* --- Artículo: cabecera ---------------------------------------------------- */
+.jm-post__head { padding-block: clamp(1rem, .8rem + .8vw, 1.6rem) clamp(1rem, .8rem + 1vw, 1.6rem); }
+.jm-post__headin { gap: .85rem; }
+.jm-post__title { font-size: clamp(1.9rem, 1.3rem + 2.1vw, 3.05rem); line-height: 1.06; }
+@media (min-width: 1000px) { .jm-post__headin > .jm-post__title { max-width: 60rem; } }
+.jm-post__dek { font-size: clamp(1.125rem, 1.06rem + .3vw, 1.3rem); }
+.jm-byline { padding-top: .95rem; margin-top: .15rem; }
+.jm-byline .jm-avatar { width: 2.75rem; height: 2.75rem; font-size: .95rem; }
+.jm-post__actions { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .6rem 1.25rem; }
+.jm-post__actions .jm-tools { margin-top: 0; gap: .45rem .6rem; }
+.jm-post__actions .jm-tools__label { display: none; }
+.jm-post__actions .jm-tools__size button, .jm-post__actions .jm-tools__btn { min-width: 44px; min-height: 44px; }
+.jm-post__actions .jm-tools__btn--icon { width: 44px; padding: 0; justify-content: center; }
+.jm-post__actions .jm-share { margin-left: 0; gap: .45rem; }
+.jm-post__actions .jm-share a, .jm-post__actions .jm-share button { width: 44px; height: 44px; }
+@media (max-width: 760px) {
+  .jm-post__actions { justify-content: flex-start; }
+  .jm-post__actions .jm-share { width: auto; }
+  .jm-post__actions .jm-tools__btn--icon { display: none; } /* imprimir, solo en ordenador */
+  .jm-post__actions .jm-share :is(.is-fb, .is-mail) { display: none; } /* en el móvil se comparte por WhatsApp o copiando el enlace */
+}
+
+/* --- Artículo: foto de cabecera, del ancho del texto ---------------------- */
+.jm-post__layout { padding-block: clamp(.5rem, .3rem + 1vw, 1.25rem) 1rem; }
+.jm-post__main > .jm-post__hero { margin: 0 0 clamp(1.25rem, 1rem + 1vw, 2rem); padding: 0; }
+.jm-post__main > .jm-post__hero img { width: 100%; aspect-ratio: 2 / 1; object-fit: cover; object-position: 50% 38%; border-radius: var(--jm-radius-lg); background: var(--jm-mist); }
+.jm-post__main > .jm-post__hero figcaption { margin-top: .4rem; padding: 0; font-size: .8125rem; text-align: right; color: var(--jm-muted); }
+@media (max-width: 700px) { .jm-post__main > .jm-post__hero img { aspect-ratio: 16 / 9; border-radius: var(--jm-radius); } }
+
+/* --- Portada: tres guías bajo la principal, siempre en una fila ----------- */
+@container (min-width: 520px) { .jm-cajonera { grid-template-columns: repeat(3, minmax(0, 1fr)); } }
+
+/* --- Portada: la libreta de guías, como una libreta de verdad ------------- */
+.jm-front .jm-ledger {
+  --margen: 2.4rem;
+  margin-top: 16px; border: 1px solid var(--jm-line-2); border-radius: 12px; overflow: visible;
+  background:
+    linear-gradient(90deg, transparent var(--margen), var(--jm-margin) var(--margen), var(--jm-margin) calc(var(--margen) + 1.5px), transparent calc(var(--margen) + 1.5px)),
+    var(--jm-sheet);
+  box-shadow: 0 1px 0 rgb(18 48 79 / .05), 0 18px 34px -22px rgb(18 48 79 / .45);
+}
+/* Espiral: anillas sobre el borde de arriba */
+.jm-front .jm-ledger::before {
+  content: ""; position: absolute; left: 18px; right: 18px; top: -15px; height: 30px; pointer-events: none;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3E%3Ccircle cx='15' cy='21' r='3.6' fill='%23C5D2DD'/%3E%3Cpath d='M15 21V9a6 6 0 0 1 6-6' fill='none' stroke='%2312304F' stroke-width='2.6' stroke-linecap='round'/%3E%3C/svg%3E") left top / 30px 30px repeat-x;
+}
+.jm-front .jm-ledger__top { position: relative; align-items: center; padding: 1.5rem 1.15rem .95rem calc(var(--margen) + .9rem); border-bottom: 2px solid var(--jm-ink); }
+.jm-front .jm-ledger__top h2 { font-size: clamp(1.35rem, 1.2rem + .5vw, 1.6rem); }
+.jm-front .jm-ledger__page {
+  font: 600 .75rem/1 var(--jm-font-mono); font-stretch: var(--jm-mono-w); letter-spacing: .04em; text-transform: uppercase;
+  color: var(--jm-accent-strong); padding: .4rem .55rem; border: 1.5px solid var(--jm-accent); border-radius: 4px; transform: rotate(-3deg); background: rgb(255 255 255 / .6);
+}
+/* Cinta de marcapáginas */
+.jm-front .jm-ledger__top::after { content: ""; position: absolute; right: 1.4rem; top: -1px; width: 14px; height: 30px; background: var(--jm-accent); clip-path: polygon(0 0, 100% 0, 100% 100%, 50% 76%, 0 100%); opacity: .9; }
+.jm-front .jm-ledger__top .jm-ledger__page { margin-right: 1.6rem; }
+.jm-front .jm-ledger__cols, .jm-front .jm-ledger__rows::before { display: none; }
+.jm-front .jm-entry {
+  grid-template-columns: var(--margen) auto minmax(0, 1fr) auto; column-gap: .55rem; row-gap: .25rem; align-items: start;
+  padding: .9rem 1.15rem .9rem 0; border-bottom: 1px dashed var(--jm-line);
+}
+.jm-front .jm-entry::before { content: ""; grid-column: 1; grid-row: 1 / 3; justify-self: center; margin-top: .3rem; width: 11px; height: 11px; border-radius: 50%; background: var(--k, var(--jm-accent)); box-shadow: 0 0 0 3px var(--jm-sheet), 0 0 0 4px color-mix(in srgb, var(--k, var(--jm-accent)) 35%, transparent); }
+.jm-front .jm-entry__date { grid-column: 2; grid-row: 1; font-size: .8125rem; }
+.jm-front .jm-entry__n { grid-column: 3; grid-row: 1; font-size: .8125rem; text-align: left; color: var(--jm-accent-strong); }
+.jm-front .jm-entry__concept { grid-column: 2 / 4; grid-row: 2; gap: .2rem; }
+.jm-front .jm-entry__concept a { font-size: 1.0625rem; line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+@media (max-width: 559px) {
+  .jm-front .jm-ledger { --margen: 2.1rem; }
+  .jm-front .jm-ledger__top { flex-wrap: wrap; row-gap: .55rem; padding: 1.45rem 1rem .9rem calc(var(--margen) + .75rem); }
+  .jm-front .jm-ledger__top h2 { flex-basis: 100%; padding-right: 2rem; }
+  .jm-front .jm-ledger__top .jm-ledger__page { margin-right: 0; }
+  .jm-front .jm-entry { padding-right: 1rem; }
+  .jm-front .jm-entry__concept a { -webkit-line-clamp: 3; }
+}
+.jm-front .jm-entry__cat { font-size: .875rem; font-weight: 600; color: var(--k, var(--jm-muted)); }
+.jm-front .jm-entry__fig { grid-column: 4; grid-row: 1 / 3; align-self: center; font-size: .8125rem; padding: .25rem .55rem; border: 1px solid var(--jm-line); border-radius: 999px; background: var(--jm-paper); }
+@media (hover: hover) and (pointer: fine) {
+  .jm-front .jm-entry:hover { background: linear-gradient(90deg, transparent var(--margen), color-mix(in srgb, var(--k, var(--jm-accent)) 8%, transparent) var(--margen)); }
+}
+.jm-front .jm-ledger__more { border-top: 0; background: transparent; padding-left: calc(var(--margen) + .9rem); border-radius: 0 0 12px 12px; }
+.jm-front .jm-ledger__more:hover { background: var(--jm-sage); }
+
+/* --- Portada: guías por tema --------------------------------------------- */
+.jm-temas { padding-block: var(--jm-section); }
+.jm-temas__top { display: flex; flex-wrap: wrap; align-items: baseline; justify-content: space-between; gap: .4rem 2rem; padding-top: 1rem; border-top: 4px solid var(--jm-ink); margin-bottom: clamp(1.25rem, 1rem + 1vw, 2rem); }
+.jm-temas__top h2 { font-size: var(--jm-fs-h2); font-weight: 800; font-stretch: 116%; letter-spacing: -.02em; }
+.jm-temas__top p { color: var(--jm-muted); max-width: 34rem; }
+.jm-temas__grid { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fill, minmax(min(100%, 17.5rem), 1fr)); }
+.jm-tema { position: relative; display: flex; flex-direction: column; gap: .8rem; padding: 1.1rem 1.2rem 1.05rem; background: var(--jm-sheet); border: 1px solid var(--jm-line-2); border-top: 4px solid var(--k); border-radius: 8px; transition: box-shadow .25s ease, transform .25s var(--jm-ease); }
+.jm-tema__head { display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: .75rem; align-items: center; }
+.jm-tema__icon { grid-row: 1 / 3; width: 2.6rem; height: 2.6rem; border-radius: 50%; display: grid; place-items: center; background: color-mix(in srgb, var(--k) 12%, var(--jm-sheet)); color: var(--k); }
+.jm-tema__icon .jm-i { width: 1.3rem; height: 1.3rem; }
+.jm-tema h3 { font-size: 1.25rem; font-weight: 800; line-height: 1.15; font-stretch: 108%; }
+.jm-tema h3 a { color: var(--jm-ink); text-decoration: none; }
+.jm-tema__n { font: 500 .8125rem/1.3 var(--jm-font-mono); font-stretch: var(--jm-mono-w); color: var(--jm-muted); }
+.jm-tema__list { list-style: none; margin: 0; padding: 0; display: grid; }
+.jm-tema__list li + li { border-top: 1px solid var(--jm-rule); }
+.jm-tema__list a { display: block; padding: .55rem 0; font-weight: 600; line-height: 1.3; color: var(--jm-text); text-decoration: none; }
+.jm-tema__list a:hover { color: var(--jm-accent-strong); text-decoration: underline; text-underline-offset: .18em; }
+.jm-tema__more { margin-top: auto; display: inline-flex; align-items: center; gap: .4rem; font-weight: 700; color: var(--jm-accent-strong); text-decoration: none; }
+.jm-tema__more .jm-i { width: 1.1rem; height: 1.1rem; transition: transform .3s var(--jm-ease); }
+.jm-tema__more:hover .jm-i { transform: translateX(4px); }
+@media (hover: hover) and (pointer: fine) { .jm-tema:hover { transform: translateY(-3px); box-shadow: 0 18px 30px -22px rgb(18 48 79 / .45); } }
+@media (prefers-reduced-motion: reduce) { .jm-tema, .jm-tema:hover { transition: none; transform: none; } }
+
+/* --- Móvil: bloques largos de la portada, más compactos ------------------- */
+@media (max-width: 699px) {
+  /* Diez calculadoras: filas con icono, nombre y una línea (toda la fila es el enlace) */
+  .jm-tile { min-height: 0; padding: .95rem 1.1rem; gap: .25rem; }
+  .jm-tile:has(> .jm-tile__icon), .jm-tile--wide .jm-tile__copy { display: grid; grid-template-columns: auto minmax(0, 1fr); column-gap: .85rem; row-gap: .2rem; align-items: start; }
+  .jm-tile:has(> .jm-tile__icon) > .jm-tile__icon, .jm-tile--wide .jm-tile__icon { grid-row: 1 / 3; width: 2.5rem; height: 2.5rem; }
+  .jm-tile h3 { font-size: 1.125rem; }
+  .jm-tile p { font-size: .9375rem; line-height: 1.4; }
+  .jm-tile__gauge, .jm-tile__spark, .jm-tile__chart, .jm-tile__go, .jm-tile--feature .jm-tile__media { display: none; }
+  .jm-tile--feature { padding: 0; }
+  .jm-tile--feature .jm-tile__body { padding: 1.1rem; gap: .35rem; }
+  .jm-tile--feature h3 { font-size: 1.3rem; }
+  .jm-tile--wide { display: block; }
+  /* ¿En qué momento estás?: sin la foto, que en el móvil ocupaba media pantalla por tarjeta */
+  .jm-life__media { display: none; }
+  .jm-life__body { padding: 1.1rem 1.15rem 1rem; gap: .6rem; }
+  /* Guías por tema: dos guías por tema en el móvil (la tercera, en la página del tema) */
+  .jm-tema { padding: 1rem 1.1rem .95rem; gap: .6rem; }
+  .jm-tema__list li:nth-child(n+3) { display: none; }
+  /* Todas las guías: el resumen de cada guía, en dos líneas */
+  .jm-topic__list small { display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+}
+
+/* --- Tipografía de reserva con las medidas de Archivo (evita el salto al cargar la fuente) ---
+   Mientras llega Archivo se pinta Arial/Helvetica/Roboto ajustada a su anchura: los titulares
+   (Archivo ancho, 116 %) ocupan lo mismo y no cambian de número de líneas al cambiar de fuente. */
+@font-face { font-family: "Archivo Titular"; font-weight: 100 650; src: local("Arial"), local("ArialMT"), local("Helvetica"), local("Roboto"), local("Liberation Sans"); size-adjust: 112%; }
+@font-face { font-family: "Archivo Titular"; font-weight: 651 900; src: local("Arial Bold"), local("Arial-BoldMT"), local("Helvetica Bold"), local("Roboto Bold"), local("Liberation Sans Bold"); size-adjust: 118%; }
+@font-face { font-family: "Archivo Texto"; font-weight: 100 650; src: local("Arial"), local("ArialMT"), local("Helvetica"), local("Roboto"), local("Liberation Sans"); size-adjust: 98.3%; }
+@font-face { font-family: "Archivo Texto"; font-weight: 651 900; src: local("Arial Bold"), local("Arial-BoldMT"), local("Helvetica Bold"), local("Roboto Bold"), local("Liberation Sans Bold"); size-adjust: 98.1%; }
+:root {
+  --jm-font-display: "Archivo", "Archivo Titular", "Helvetica Neue", Arial, sans-serif;
+  --jm-font-body: "Archivo", "Archivo Texto", "Helvetica Neue", Arial, sans-serif;
+}
