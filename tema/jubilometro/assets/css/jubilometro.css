@@ -2138,3 +2138,133 @@ html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
 @media print {
   .jm-mast__bg, .jm-seal, .jm-float, .jm-mast__lead-story::before, .jm-mast__lead-story::after, .jm-pagehead::before { display: none !important; }
 }
+
+/* ==========================================================================
+   v4.2 · ARCHIVO (2.4): atmósfera vintage e interactiva
+   Papel crema con grano, grabado de billete (guilloché) que se mueve con el ratón,
+   fotos que se revelan, botones de máquina de escribir, adornos de imprenta,
+   hojas de calendario, fichas de archivo, lacre, sellos de tinta y de correos.
+   ========================================================================== */
+:root {
+  --jm-paper: #FAF6EC; --jm-sheet: #FFFDF8; --jm-white: #FFFDF8;
+  --jm-tint: #F3ECDD; --jm-mist: #F2EBDC; --jm-sky: #F2EBDC;
+  --jm-rule: #ECE3D0; --jm-line: #E2D8C3; --jm-line-2: #CFC3A9;
+  --jm-sage: #EAEFE3; --jm-sage-2: #D3DFCD; --jm-brass-soft: #F4EAD6;
+  --jm-muted: #51584F;
+  --jm-grain: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .33 0 0 0 0 .26 0 0 0 0 .13 0 0 0 .46 -.19'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E");
+}
+/* Papel: color crema y un grano muy fino (se repite una losa de 220 px, sin coste al desplazarse) */
+html body { background: var(--jm-paper) var(--jm-grain); }
+.jm-figures, .jm-section--tint, .jm-rail--tint, .jm-quick { background-image: var(--jm-grain); }
+.jm-mast, .jm-pagehead { background: transparent; }
+.jm-header { background: rgb(250 246 236 / .95); border-bottom: 3px double var(--jm-line-2); }
+.jm-header.is-stuck { background: rgb(250 246 236 / .86); }
+.jm-float { background: rgb(255 253 248 / .97); }
+.jm-seal { box-shadow: 0 0 0 5px rgb(250 246 236 / .95), 0 20px 34px -14px rgb(20 33 28 / .6); }
+::selection { background: #E6D3A8; }
+
+/* --- Grabado de billete (lienzo dibujado por jubilometro.js) --------------- */
+.jm-mast__bg::before { display: none; }
+.jm-guilloche { position: absolute; inset: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; }
+@media (min-width: 1000px) { .jm-mast .jm-guilloche { -webkit-mask-image: linear-gradient(90deg, transparent 20%, #000 55%); mask-image: linear-gradient(90deg, transparent 20%, #000 55%); } }
+@media (max-width: 999px) { .jm-mast .jm-guilloche { -webkit-mask-image: linear-gradient(180deg, transparent 30%, #000 62%); mask-image: linear-gradient(180deg, transparent 30%, #000 62%); } }
+.jm-pagehead::before { background: radial-gradient(closest-side, rgb(217 180 106 / .18), transparent) 88% 30% / 46rem 46rem no-repeat; }
+.jm-pagehead .jm-guilloche { -webkit-mask-image: linear-gradient(90deg, transparent 35%, #000 70%), linear-gradient(180deg, transparent, #000 14%, #000 84%, transparent); -webkit-mask-composite: source-in; mask-image: linear-gradient(90deg, transparent 35%, #000 70%), linear-gradient(180deg, transparent, #000 14%, #000 84%, transparent); mask-composite: intersect; }
+@media (max-width: 899px) { .jm-pagehead .jm-guilloche { opacity: .7; } }
+
+/* --- Titular: subrayado de pluma que se traza al cargar -------------------- */
+.jm-mast__title em { background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 200 12' preserveAspectRatio='none'%3E%3Cpath d='M2 8C40 3 78 11 118 6S178 3 198 7' fill='none' stroke='%23926217' stroke-width='3.2' stroke-linecap='round'/%3E%3C/svg%3E") no-repeat 0 96% / 100% .2em; -webkit-box-decoration-break: clone; box-decoration-break: clone; padding-bottom: .04em; }
+@media (prefers-reduced-motion: no-preference) {
+  .jm-mast__title em { background-size: 0% .2em; animation: jm-pen 1.2s var(--jm-ease) .45s forwards; }
+}
+@keyframes jm-pen { to { background-size: 100% .2em; } }
+
+/* --- Sello de la portada: anillos grabados -------------------------------- */
+.jm-seal__mark .jm-seal__rim { fill: none; stroke: currentColor; stroke-width: 1; opacity: .75; }
+
+/* --- Fotos que se revelan (jubilometro.js añade .is-dev al verlas) --------- */
+:is(.jm-story__media, .jm-life__media, .jm-pagehead__media, .jm-tile__media, .jm-post__hero, .jm-nl__media) img { filter: sepia(.55) saturate(.68) contrast(.95) brightness(1.03); transition: filter 1.6s var(--jm-ease), transform .9s var(--jm-ease); }
+:is(.jm-story__media, .jm-life__media, .jm-pagehead__media, .jm-tile__media, .jm-post__hero, .jm-nl__media).is-dev img { filter: sepia(.12) saturate(.94); }
+@media (hover: hover) and (pointer: fine) {
+  :is(.jm-story, .jm-cajon, .jm-life__card, .jm-tile, .jm-nl):hover :is(.jm-story__media, .jm-life__media, .jm-tile__media, .jm-nl__media) img, :is(.jm-story__media, .jm-pagehead__media).is-tilt img { filter: none; }
+  :is(.jm-cajon, .jm-life__card).is-tilt :is(.jm-story__media, .jm-life__media) img, :is(.jm-story__media, .jm-pagehead__media).is-tilt img { transition: transform .25s linear, filter .6s ease; }
+}
+
+/* --- Botones como teclas de máquina de escribir: se hunden al pulsarlos ---- */
+.jm-btn:not(.jm-btn--ghost) { box-shadow: inset 0 1px 0 rgb(255 255 255 / .16), 0 3px 0 #0E2620, 0 9px 16px -9px rgb(20 33 28 / .7); }
+.jm-btn:not(.jm-btn--ghost):hover { transform: translateY(-1px); box-shadow: inset 0 1px 0 rgb(255 255 255 / .16), 0 4px 0 #0E2620, 0 12px 18px -10px rgb(20 33 28 / .7); }
+.jm-btn:not(.jm-btn--ghost):active { transform: translateY(3px); box-shadow: inset 0 1px 0 rgb(255 255 255 / .1), 0 0 0 #0E2620, 0 3px 6px -4px rgb(20 33 28 / .6); transition-duration: .06s; }
+.jm-btn--ghost { box-shadow: 0 2px 0 var(--jm-line-2); }
+.jm-btn--ghost:active { transform: translateY(2px); box-shadow: none; }
+
+/* --- Adorno de imprenta sobre los títulos de sección (se dibuja al llegar) - */
+:is(.jm-figures__head, .jm-temas__top, .jm-rail__head, .jm-section-head, .jm-updates__intro, .jm-toolband__copy, .jm-nl__body, .jm-duo__head) h2::before { content: ""; display: block; width: 132px; height: 14px; margin-bottom: .7rem; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='132' height='14' viewBox='0 0 132 14'%3E%3Cpath d='M7 1.5l5.5 5.5L7 12.5 1.5 7z' fill='%23926217'/%3E%3Cpath d='M18 5.6h96M18 8.4h96' stroke='%23926217' stroke-width='.9'/%3E%3Cpath d='M120 7l4-3 4 3-4 3z' fill='%23926217'/%3E%3C/svg%3E") no-repeat 0 50% / contain; }
+@media (prefers-reduced-motion: no-preference) {
+  .jm-rv.is-in h2::before, .jm-rv.is-in > h2::before { animation: jm-orn .9s var(--jm-ease) .2s backwards; }
+}
+@keyframes jm-orn { from { clip-path: inset(0 100% 0 0); } to { clip-path: inset(0 0 0 0); } }
+
+/* --- Cifras de 2026 y guías por tema: fichas de archivo -------------------- */
+:is(.jm-tema, .jm-saldo__row) { background-image: linear-gradient(to bottom, transparent 7px, rgb(146 98 23 / .5) 7px 8px, transparent 8px 10px, rgb(146 98 23 / .5) 10px 11px, transparent 11px); }
+.jm-saldo__v { text-shadow: 0 1px 0 rgb(255 255 255 / .9); }
+
+/* --- Novedades del BOE: hojas de calendario -------------------------------- */
+.jm-update { grid-template-columns: 4.4rem minmax(0, 1fr); column-gap: 1.25rem; align-items: start; }
+.jm-update__top { display: contents; }
+.jm-update > :not(.jm-update__top), .jm-update__top > :not(.jm-cal) { grid-column: 2; }
+.jm-update__top > .jm-chip { justify-self: start; }
+.jm-update .jm-cal { grid-column: 1; grid-row: 1 / span 4; position: relative; display: grid; width: 4.4rem; text-align: center; background: var(--jm-white); border: 1px solid var(--jm-line-2); border-radius: 6px; overflow: hidden; color: var(--jm-ink); text-transform: none; letter-spacing: 0; font: inherit; transform-origin: 50% 0; box-shadow: 0 2px 0 -1px var(--jm-white), 0 2px 0 0 var(--jm-line-2), 0 4px 0 -1px var(--jm-white), 0 4px 0 0 var(--jm-line-2), 0 10px 16px -10px rgb(20 33 28 / .45); transition: transform .5s var(--jm-ease); }
+.jm-cal__m { order: -1; padding: .42rem 0 .32rem; background: var(--jm-pine); color: #E9CF95; font: 700 .75rem/1 var(--jm-font-body); letter-spacing: .14em; text-transform: uppercase; }
+.jm-cal__d { padding-top: .32rem; font: 600 1.95rem/1 var(--jm-font-display); font-variant-numeric: lining-nums; }
+.jm-cal__y { padding: .18rem 0 .45rem; font: 600 .75rem/1 var(--jm-font-body); letter-spacing: .06em; color: var(--jm-muted); }
+/* Las dos anillas de la hoja */
+.jm-update .jm-cal::before { content: ""; position: absolute; z-index: 1; top: 3px; left: 14px; right: 14px; height: 5px; background: radial-gradient(circle, #0E2620 1.8px, transparent 2.3px) 0 0 / 50% 100% repeat-x; }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) { .jm-update:hover .jm-cal { transform: perspective(420px) rotateX(16deg); } }
+@media (prefers-reduced-motion: no-preference) { .jm-rv.is-in .jm-cal { animation: jm-leaf 1s var(--jm-ease) .15s backwards; } }
+@keyframes jm-leaf { from { transform: perspective(420px) rotateX(-100deg); } }
+@media (max-width: 479px) { .jm-update { grid-template-columns: 3.8rem minmax(0, 1fr); column-gap: 1rem; } .jm-update .jm-cal { width: 3.8rem; } .jm-cal__d { font-size: 1.7rem; } }
+
+/* --- El autor: monograma en sello de lacre --------------------------------- */
+.jm-person__mono { background: radial-gradient(circle at 34% 28%, #3C7B6A 0, #1E4B40 46%, #123127 100%); color: #F1E3BE; border-radius: 47% 53% 51% 49% / 52% 47% 53% 48%; outline: 0; font-style: italic; text-shadow: 0 -1px 0 rgb(0 0 0 / .45), 0 1px 0 rgb(255 255 255 / .18); box-shadow: inset 0 0 0 8px rgb(0 0 0 / .1), inset 0 0 0 10px rgb(255 255 255 / .08), inset 0 -10px 18px rgb(0 0 0 / .3), 0 12px 20px -10px rgb(20 33 28 / .65); transition: transform .6s var(--jm-ease); }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) { .jm-person:hover .jm-person__mono { transform: rotate(-7deg) scale(1.04); } }
+
+/* --- La libreta: sello de tinta «Calculado» -------------------------------- */
+.jm-passbook { position: relative; }
+.jm-inkstamp { position: absolute; top: .55rem; right: 1rem; z-index: 3; display: grid; justify-items: center; gap: .15rem; padding: .4rem .85rem .35rem; border: 3px double currentColor; border-radius: 6px; color: rgb(30 75 64 / .85); font: 700 1.15rem/1 var(--jm-font-display); letter-spacing: .16em; text-transform: uppercase; transform: rotate(-8deg); opacity: 0; pointer-events: none; -webkit-mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='80'%3E%3Cfilter id='t'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='2' seed='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.6 2.3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23t)'/%3E%3C/svg%3E"); mask-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='80'%3E%3Cfilter id='t'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.7' numOctaves='2' seed='3' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -2.6 2.3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23t)'/%3E%3C/svg%3E"); -webkit-mask-size: 160px 80px; mask-size: 160px 80px; }
+.jm-inkstamp small { font: 700 .6rem/1 var(--jm-font-body); letter-spacing: .22em; }
+.jm-passbook.is-stamped .jm-inkstamp { opacity: .9; }
+@media (prefers-reduced-motion: no-preference) { .jm-passbook.is-stamped .jm-inkstamp { animation: jm-ink .55s cubic-bezier(.2, .8, .2, 1) both; } }
+@keyframes jm-ink { 0% { opacity: 0; transform: rotate(-8deg) translateY(-14px) scale(1.9); } 55% { opacity: .95; transform: rotate(-8deg) scale(.93); } 100% { opacity: .9; transform: rotate(-8deg) scale(1); } }
+
+/* --- Boletín: sello de correos perforado y matasellos ---------------------- */
+.jm-postage { position: absolute; top: 1rem; right: 1rem; z-index: 2; width: 100px; height: 120px; padding: 5px; background: #FFFDF8; transform: rotate(4deg); filter: drop-shadow(0 6px 8px rgb(20 33 28 / .35)); transition: transform .6s var(--jm-ease); -webkit-mask: radial-gradient(circle at 5px 5px, transparent 3px, #000 3.5px) -5px -5px / 10px 10px, linear-gradient(#000 0 0) content-box; mask: radial-gradient(circle at 5px 5px, transparent 3px, #000 3.5px) -5px -5px / 10px 10px, linear-gradient(#000 0 0) content-box; }
+.jm-postage__in { display: grid; place-items: center; align-content: center; gap: .25rem; height: 100%; background: var(--jm-pine); color: #E9CF95; outline: 1px solid rgb(233 207 149 / .7); outline-offset: -5px; text-align: center; }
+.jm-postage__in svg { width: 40px; height: 26px; }
+.jm-postage__in b { font: 600 .8rem/1 var(--jm-font-display); }
+.jm-postage__in small { font: 700 .5rem/1 var(--jm-font-body); letter-spacing: .18em; text-transform: uppercase; }
+.jm-postmark { position: absolute; top: 4.4rem; right: 4.4rem; z-index: 3; width: 170px; height: auto; color: rgb(20 33 28 / .5); transform: rotate(-12deg); pointer-events: none; }
+.jm-postmark text { font: 700 11px/1 var(--jm-font-body); letter-spacing: .14em; fill: currentColor; }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) { .jm-nl:hover .jm-postage { transform: rotate(0deg) translateY(-4px); } }
+@media (prefers-reduced-motion: no-preference) { .jm-rv.is-in .jm-postage { animation: jm-post-in .8s var(--jm-ease) .35s backwards; } }
+@keyframes jm-post-in { from { transform: rotate(18deg) translate(30px, -30px); opacity: 0; } }
+
+/* --- Guías: letra capitular y barra de lectura de doble filete ------------- */
+/* Cada apartado de la guía lleva el signo de sección de los textos legales antiguos (los lectores de pantalla no lo leen) */
+.jm-post .jm-prose > h2:not(.jm-answer__title)::before { content: "§"; content: "§" / ""; margin-right: .38em; font-weight: 500; color: var(--jm-brass); }
+/* Grabado pequeño junto al título de la guía (solo en pantallas anchas) */
+.jm-post__head { position: relative; isolation: isolate; }
+.jm-post__head .jm-guilloche { -webkit-mask-image: linear-gradient(90deg, transparent 62%, #000 82%); mask-image: linear-gradient(90deg, transparent 62%, #000 82%); }
+.jm-progress { height: 4px; background: linear-gradient(var(--jm-brass) 0 1.5px, transparent 1.5px 2.5px, var(--jm-brass) 2.5px); }
+
+/* --- Pie: cenefa grabada y el mismo grano -------------------------------- */
+.jm-footer { background: #14211C url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='220' height='220'%3E%3Cfilter id='g'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 1 0 0 0 0 .95 0 0 0 0 .85 0 0 0 .4 -.17'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23g)'/%3E%3C/svg%3E"); }
+.jm-footer::before { content: ""; position: absolute; left: 0; right: 0; top: 1.2rem; height: 26px; background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='26'%3E%3Cg fill='none' stroke='%23D9B46A' stroke-width='1'%3E%3Cpath d='M0 13Q20 1 40 13T80 13T120 13T160 13'/%3E%3Cpath d='M0 13Q20 25 40 13T80 13T120 13T160 13'/%3E%3Cpath d='M0 8Q20 -4 40 8T80 8T120 8T160 8' opacity='.6'/%3E%3Cpath d='M0 18Q20 30 40 18T80 18T120 18T160 18' opacity='.6'/%3E%3C/g%3E%3C/svg%3E") repeat-x 0 0 / 160px 26px; opacity: .55; pointer-events: none; }
+
+@media print {
+  html body, .jm-footer { background: #fff !important; }
+  :is(.jm-story__media, .jm-life__media, .jm-pagehead__media, .jm-tile__media, .jm-post__hero, .jm-nl__media) img { filter: none !important; }
+  .jm-guilloche, .jm-postage, .jm-postmark, .jm-inkstamp, .jm-footer::before { display: none !important; }
+}
+@media (prefers-reduced-motion: reduce) {
+  :is(.jm-story__media, .jm-life__media, .jm-pagehead__media, .jm-tile__media, .jm-post__hero, .jm-nl__media) img, .jm-update .jm-cal, .jm-person__mono, .jm-postage { transition: none; }
+}

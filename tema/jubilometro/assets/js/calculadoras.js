@@ -509,25 +509,11 @@
     function tick(t) { t0 = t0 || t; var k = Math.min(1, (t - t0) / dur), e = 1 - Math.pow(1 - k, 3); node.nodeValue = m[1] + num(target * e, dec) + m[4]; if (k < 1) requestAnimationFrame(tick); }
     requestAnimationFrame(tick);
   }
-  // La impresora de la libreta: el apunte nuevo se escribe carácter a carácter y después cae el sello
-  // El resultado aparece de una vez: sin el efecto de impresora de la versión anterior
+  // La libreta: al calcular, cae el sello de tinta «Calculado» (y la libreta se pone de frente)
   function printRow(out) {
-    return;
-    var row = out.querySelector('.jm-print__row.is-new'), book = out.closest ? out.closest('.jm-passbook') : null;
-    if (!row || !book) return;
-    book.classList.remove('is-stamped');
-    if (root.matchMedia && root.matchMedia('(prefers-reduced-motion: reduce)').matches) { book.classList.add('is-stamped'); return; }
-    var cells = Array.prototype.slice.call(row.children), texts = cells.map(function (c) { return c.textContent; }), k = 0, j = 0;
-    cells.forEach(function (c) { c.textContent = ''; });
-    book.classList.add('is-printing');
-    (function step() {
-      if (k >= cells.length) { cells[cells.length - 1].classList.remove('jm-caret'); book.classList.remove('is-printing'); void book.offsetWidth; book.classList.add('is-stamped'); return; }
-      cells.forEach(function (c) { c.classList.remove('jm-caret'); });
-      cells[k].classList.add('jm-caret');
-      cells[k].textContent = texts[k].slice(0, ++j);
-      if (j >= texts[k].length) { k++; j = 0; }
-      setTimeout(step, 26);
-    })();
+    var book = out.closest ? out.closest('.jm-passbook') : null;
+    if (!book) return;
+    book.classList.remove('is-stamped'); void book.offsetWidth; book.classList.add('is-stamped');
   }
   function bind() {
     var forms = document.querySelectorAll('form[data-jm-calc]');

@@ -250,6 +250,84 @@
     mast.addEventListener('pointerleave', function () { mast.classList.remove('is-lit'); tx = ty = 0; if (!raf) raf = requestAnimationFrame(loop); });
   }
 
+  // Grabado de billete antiguo (guilloché) detrás de la portada y de las cabeceras de página.
+  // Se dibuja en un lienzo; con ratón, las líneas se desplazan y hacen aguas como el papel moneda.
+  function initGuilloche() {
+    var heads = $$('.jm-mast, .jm-pagehead').concat(window.innerWidth >= 1100 ? $$('.jm-post__head') : []);
+    if (!heads.length || !window.HTMLCanvasElement) return;
+    heads.forEach(function (box) {
+      var cv = $('.jm-guilloche', box);
+      if (!cv) { cv = document.createElement('canvas'); cv.className = 'jm-guilloche'; cv.setAttribute('aria-hidden', 'true'); box.insertBefore(cv, box.firstChild); }
+      var ctx = cv.getContext('2d'); if (!ctx) return;
+      var focus = $('.jm-mast__stage, .jm-pagehead__media', box), w = 0, h = 0, dpr = 1;
+      var ph = 0, py = 0, tph = 0, tpy = 0, raf = 0, big = box.classList.contains('jm-mast'), small = box.classList.contains('jm-post__head');
+      function draw() {
+        ctx.setTransform(dpr, 0, 0, dpr, 0, 0); ctx.clearRect(0, 0, w, h);
+        var b = box.getBoundingClientRect(), f = focus && focus.getBoundingClientRect();
+        var cx = f && f.width ? f.left - b.left + f.width / 2 : w * 0.8, cy = f && f.height ? f.top - b.top + f.height / 2 : h * 0.45;
+        var R = f && f.width ? Math.min(Math.hypot(f.width, f.height) / 2 + (big ? 30 : 18), 460) : Math.min(h * 0.55, 240);
+        if (small) { cx = w - 170; cy = Math.min(h * 0.4, 190); R = Math.min(h * 0.38, 140); }
+        ctx.lineWidth = 0.75;
+        // Roseta: 24 curvas entrelazadas alrededor de la guía destacada (o de la foto de cabecera)
+        for (var i = 0; i < 24; i++) {
+          var k = (i / 24) * Math.PI * 2;
+          ctx.strokeStyle = i % 2 ? 'rgba(30,75,64,.15)' : 'rgba(146,98,23,.17)';
+          ctx.beginPath();
+          for (var j = 0; j <= 400; j++) {
+            var t = (j / 400) * Math.PI * 2;
+            var r = R + 30 * Math.sin(7 * t + k + ph) + 14 * Math.cos(12 * t - 2 * k + py);
+            var x = cx + r * Math.cos(t), y = cy + r * Math.sin(t);
+            if (j) ctx.lineTo(x, y); else ctx.moveTo(x, y);
+          }
+          ctx.stroke();
+        }
+        // Cenefa ondulada a lo largo del borde inferior
+        if (big) {
+          for (var n = 0; n < 7; n++) {
+            ctx.strokeStyle = n % 2 ? 'rgba(146,98,23,.2)' : 'rgba(30,75,64,.16)';
+            ctx.beginPath();
+            for (var xx = 0; xx <= w + 8; xx += 4) {
+              var yy = h - 22 + 7 * Math.sin(xx * 0.021 + n * 0.55 + ph) + 4 * Math.sin(xx * 0.049 - n * 0.9 + py);
+              if (xx) ctx.lineTo(xx, yy); else ctx.moveTo(xx, yy);
+            }
+            ctx.stroke();
+          }
+        }
+      }
+      function size() {
+        var r = box.getBoundingClientRect(); if (!r.width) return;
+        dpr = Math.min(window.devicePixelRatio || 1, 2); w = r.width; h = r.height;
+        cv.width = Math.round(w * dpr); cv.height = Math.round(h * dpr); draw();
+      }
+      function loop() {
+        raf = 0; ph += (tph - ph) * 0.08; py += (tpy - py) * 0.08; draw();
+        if (Math.abs(tph - ph) + Math.abs(tpy - py) > 0.002) raf = requestAnimationFrame(loop);
+      }
+      size();
+      if ('ResizeObserver' in window) { var rt = 0; new ResizeObserver(function () { clearTimeout(rt); rt = setTimeout(size, 120); }).observe(box); }
+      else window.addEventListener('resize', size);
+      if (calm || !fine) return;
+      box.addEventListener('pointermove', function (e) {
+        if (e.pointerType && e.pointerType !== 'mouse') return;
+        var b = box.getBoundingClientRect();
+        tph = ((e.clientX - b.left) / b.width - 0.5) * 2.4; tpy = ((e.clientY - b.top) / b.height - 0.5) * 2;
+        if (!raf) raf = requestAnimationFrame(loop);
+      }, { passive: true });
+    });
+  }
+
+  // Fotos que se revelan: llegan en sepia y toman color al entrar en pantalla, como en el cuarto oscuro
+  function initDevelop() {
+    var fotos = $$('.jm-story__media, .jm-life__media, .jm-pagehead__media, .jm-tile__media, .jm-post__hero, .jm-nl__media');
+    if (!fotos.length) return;
+    if (calm || !('IntersectionObserver' in window)) { fotos.forEach(function (f) { f.classList.add('is-dev'); }); return; }
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) { if (e.isIntersecting) { e.target.classList.add('is-dev'); io.unobserve(e.target); } });
+    }, { threshold: 0.3 });
+    fotos.forEach(function (f) { io.observe(f); });
+    window.addEventListener('beforeprint', function () { fotos.forEach(function (f) { f.classList.add('is-dev'); }); });
+  }
+
   // En el móvil, las tarjetas se hunden un poco al tocarlas (Safari solo lo muestra si la página escucha los toques)
   function initPress() {
     if (!fine) document.addEventListener('touchstart', function () {}, { passive: true });
@@ -561,6 +639,6 @@
     });
   }
 
-  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initViews, initReveal, initRoll, initTilt, initStage, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initViews, initReveal, initRoll, initTilt, initStage, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
