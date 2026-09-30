@@ -259,59 +259,66 @@
       var cv = $('.jm-guilloche', box);
       if (!cv) { cv = document.createElement('canvas'); cv.className = 'jm-guilloche'; cv.setAttribute('aria-hidden', 'true'); box.insertBefore(cv, box.firstChild); }
       var ctx = cv.getContext('2d'); if (!ctx) return;
-      var focus = $('.jm-mast__stage, .jm-pagehead__media', box), w = 0, h = 0, dpr = 1;
-      var ph = 0, py = 0, tph = 0, tpy = 0, raf = 0, big = box.classList.contains('jm-mast'), small = box.classList.contains('jm-post__head');
-      function draw() {
-        ctx.setTransform(dpr, 0, 0, dpr, 0, 0); ctx.clearRect(0, 0, w, h);
-        var b = box.getBoundingClientRect(), f = focus && focus.getBoundingClientRect();
-        var cx = f && f.width ? f.left - b.left + f.width / 2 : w * 0.8, cy = f && f.height ? f.top - b.top + f.height / 2 : h * 0.45;
-        var R = f && f.width ? Math.min(Math.hypot(f.width, f.height) / 2 + (big ? 30 : 18), 460) : Math.min(h * 0.55, 240);
-        if (small) { cx = w - 170; cy = Math.min(h * 0.4, 190); R = Math.min(h * 0.38, 140); }
-        ctx.lineWidth = 0.75;
-        // Roseta: 24 curvas entrelazadas alrededor de la guía destacada (o de la foto de cabecera)
-        for (var i = 0; i < 24; i++) {
-          var k = (i / 24) * Math.PI * 2;
-          ctx.strokeStyle = i % 2 ? 'rgba(30,75,64,.15)' : 'rgba(146,98,23,.17)';
+      var focus = $('.jm-mast__stage, .jm-pagehead__media', box), big = box.classList.contains('jm-mast'), small = box.classList.contains('jm-post__head');
+      var w = 0, h = 0, dpr = 1, cx = 0, cy = 0, R = 0, ph = 0, py = 0, tph = 0, tpy = 0, raf = 0, job = 0;
+      function curve(i) {
+        var k = (i / 24) * Math.PI * 2;
+        ctx.strokeStyle = i % 2 ? 'rgba(30,75,64,.15)' : 'rgba(146,98,23,.17)';
+        ctx.beginPath();
+        for (var j = 0; j <= 300; j++) {
+          var t = (j / 300) * Math.PI * 2, r = R + 30 * Math.sin(7 * t + k + ph) + 14 * Math.cos(12 * t - 2 * k + py);
+          if (j) ctx.lineTo(cx + r * Math.cos(t), cy + r * Math.sin(t)); else ctx.moveTo(cx + r, cy);
+        }
+        ctx.stroke();
+      }
+      function band() {
+        for (var n = 0; n < 7; n++) {
+          ctx.strokeStyle = n % 2 ? 'rgba(146,98,23,.2)' : 'rgba(30,75,64,.16)';
           ctx.beginPath();
-          for (var j = 0; j <= 400; j++) {
-            var t = (j / 400) * Math.PI * 2;
-            var r = R + 30 * Math.sin(7 * t + k + ph) + 14 * Math.cos(12 * t - 2 * k + py);
-            var x = cx + r * Math.cos(t), y = cy + r * Math.sin(t);
-            if (j) ctx.lineTo(x, y); else ctx.moveTo(x, y);
+          for (var x = 0; x <= w + 8; x += 4) {
+            var y = h - 22 + 7 * Math.sin(x * 0.021 + n * 0.55 + ph) + 4 * Math.sin(x * 0.049 - n * 0.9 + py);
+            if (x) ctx.lineTo(x, y); else ctx.moveTo(x, y);
           }
           ctx.stroke();
         }
-        // Cenefa ondulada a lo largo del borde inferior
-        if (big) {
-          for (var n = 0; n < 7; n++) {
-            ctx.strokeStyle = n % 2 ? 'rgba(146,98,23,.2)' : 'rgba(30,75,64,.16)';
-            ctx.beginPath();
-            for (var xx = 0; xx <= w + 8; xx += 4) {
-              var yy = h - 22 + 7 * Math.sin(xx * 0.021 + n * 0.55 + ph) + 4 * Math.sin(xx * 0.049 - n * 0.9 + py);
-              if (xx) ctx.lineTo(xx, yy); else ctx.moveTo(xx, yy);
-            }
-            ctx.stroke();
-          }
-        }
       }
-      function size() {
-        var r = box.getBoundingClientRect(); if (!r.width) return;
-        dpr = Math.min(window.devicePixelRatio || 1, 2); w = r.width; h = r.height;
-        cv.width = Math.round(w * dpr); cv.height = Math.round(h * dpr); draw();
+      function clear() { ctx.setTransform(dpr, 0, 0, dpr, 0, 0); ctx.clearRect(0, 0, w, h); ctx.lineWidth = 0.75; }
+      function draw() { clear(); for (var i = 0; i < 24; i++) curve(i); if (big) band(); }
+      // Primer dibujo en tandas de 4 curvas por fotograma: la página no se queda esperando
+      function drawSoft() {
+        cancelAnimationFrame(job); clear(); var i = 0;
+        (function step() { var end = Math.min(24, i + 4); for (; i < end; i++) curve(i); if (i < 24) job = requestAnimationFrame(step); else if (big) band(); })();
       }
+      // Medidas: se toman cuando el navegador ya ha colocado la página (sin forzarle a recalcular)
+      function measure() {
+        var b = box.getBoundingClientRect(); if (!b.width) return;
+        var f = focus && focus.getBoundingClientRect();
+        // En pantallas táctiles, a resolución normal: son líneas muy tenues y así pesa la mitad
+        dpr = fine ? Math.min(window.devicePixelRatio || 1, 2) : 1; w = b.width; h = b.height;
+        cv.width = Math.round(w * dpr); cv.height = Math.round(h * dpr);
+        if (f && f.width) { cx = f.left - b.left + f.width / 2; cy = f.top - b.top + f.height / 2; R = Math.min(Math.hypot(f.width, f.height) / 2 + (big ? 30 : 18), 460); }
+        else { cx = w * 0.8; cy = h * 0.45; R = Math.min(h * 0.55, 240); }
+        if (small) { cx = w - 170; cy = Math.min(h * 0.4, 190); R = Math.min(h * 0.38, 140); }
+        drawSoft();
+      }
+      if ('ResizeObserver' in window) {
+        var lw = 0, lh = 0;
+        new ResizeObserver(function (es) {
+          var r = es[0].contentRect;
+          if (Math.abs(r.width - lw) < 1 && Math.abs(r.height - lh) < 1) return;
+          lw = r.width; lh = r.height; measure();
+        }).observe(box);
+      } else window.addEventListener('load', measure);
+      if (calm || !fine) return;
       function loop() {
         raf = 0; ph += (tph - ph) * 0.08; py += (tpy - py) * 0.08; draw();
         if (Math.abs(tph - ph) + Math.abs(tpy - py) > 0.002) raf = requestAnimationFrame(loop);
       }
-      size();
-      if ('ResizeObserver' in window) { var rt = 0; new ResizeObserver(function () { clearTimeout(rt); rt = setTimeout(size, 120); }).observe(box); }
-      else window.addEventListener('resize', size);
-      if (calm || !fine) return;
       box.addEventListener('pointermove', function (e) {
-        if (e.pointerType && e.pointerType !== 'mouse') return;
+        if (!w || (e.pointerType && e.pointerType !== 'mouse')) return;
         var b = box.getBoundingClientRect();
         tph = ((e.clientX - b.left) / b.width - 0.5) * 2.4; tpy = ((e.clientY - b.top) / b.height - 0.5) * 2;
-        if (!raf) raf = requestAnimationFrame(loop);
+        if (!raf) { cancelAnimationFrame(job); raf = requestAnimationFrame(loop); }
       }, { passive: true });
     });
   }
