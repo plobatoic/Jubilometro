@@ -8,7 +8,7 @@ miga: Adaptar la vivienda
 palabra_clave_principal: ayudas adaptar vivienda personas mayores
 intencion: informativa
 fase_plan: F3 (artículo n.º 76)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-09-30
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Ayudas para adaptar la vivienda de una persona mayor en 2026: subvenciones, obras en la comunidad de vecinos y alquiler
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, el Ministerio de Hacienda y la Generalitat de Catalunya*
+*Actualizado el 30 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, el Ministerio de Hacienda y la Generalitat de Catalunya*
 
 > **Respuesta rápida**
 >
@@ -29,7 +29,7 @@ fuentes_legales:
 > - **Si vives de alquiler**, puedes adaptar el interior avisando **por escrito** al casero.
 > - Las obras de reforma en tu casa suelen pagar un **IVA del 10 %**, y algunas comunidades tienen **deducciones en el IRPF**.
 >
-> **Plazo que termina:** en **Cataluña** (fuera de la provincia de Barcelona) hay hasta **4.000 euros** para arreglos interiores en viviendas de mayores de 65 años, y se pueden pedir **hasta el 30 de septiembre de 2026 a las 14:00**.
+> **Plazo cerrado:** la ayuda de **Cataluña** de hasta **4.000 euros** para arreglos interiores en viviendas de mayores de 65 años (fuera de la provincia de Barcelona) se podía pedir **hasta el 30 de septiembre de 2026 a las 14:00**. Si no llegaste a tiempo, habrá que esperar a la próxima convocatoria de la Agència de l'Habitatge de Catalunya.
 
 ## Resumen de las ayudas
 
@@ -38,7 +38,7 @@ fuentes_legales:
 |---|---|---|---|
 | Rehabilitación de edificios (plan estatal) | Ascensor, rampas, salvaescaleras, puertas automáticas, en el edificio o en una casa unifamiliar | Hasta 18.000 € por vivienda y el 80 % del coste si vive una persona mayor de 65 años | Convocatoria de tu comunidad autónoma |
 | Rehabilitación dentro de la vivienda (plan estatal) | Obras de accesibilidad en el interior del piso, grúas, domótica | Hasta el 80 %, con un máximo de 15.000 € (discapacidad del 33 %) o 18.000 € (del 65 %) | Convocatoria de tu comunidad autónoma |
-| Programas de comunidades, diputaciones y ayuntamientos | Arreglos interiores para mayores | Por ejemplo, hasta 4.000 € en Cataluña | Cada administración |
+| Programas de comunidades, diputaciones y ayuntamientos | Arreglos interiores para mayores | Por ejemplo, hasta 4.000 € en Cataluña (convocatoria de 2026 cerrada) | Cada administración |
 | Deducciones autonómicas del IRPF | Obras de accesibilidad o de adaptación por discapacidad | Por ejemplo, el 50 % en la Comunitat Valenciana | Declaración de la renta |
 | IVA reducido | Obras de reforma en tu vivienda | 10 % en lugar del 21 % | Lo aplica la empresa en la factura |
 
@@ -85,9 +85,9 @@ Para las obras en **elementos comunes** (el portal, la escalera, el ascensor), l
 
 ## Programas de las comunidades, diputaciones y ayuntamientos
 
-Además del plan estatal, muchas administraciones tienen ayudas propias para arreglos sencillos en casas de personas mayores. Un ejemplo con el plazo a punto de cerrar:
+Además del plan estatal, muchas administraciones tienen ayudas propias para arreglos sencillos en casas de personas mayores. Un ejemplo:
 
-- **Cataluña**: la Agència de l'Habitatge de Catalunya subvenciona las **obras de arreglo en el interior** de viviendas donde vive una persona de **65 años o más**, en las demarcaciones de **Girona, Tarragona, Lleida y Terres de l'Ebre**. Cubre el **100 % del presupuesto protegible, con un máximo de 4.000 euros**, para obras de hasta 8.000 euros; hay un límite de ingresos y las obras **no pueden empezar** antes de la inspección técnica de la Agència. Las solicitudes se presentan del 1 de julio al **30 de septiembre de 2026 a las 14:00** ([Generalitat de Catalunya](https://habitatge.gencat.cat/ca/ajuts/ajuts-rehabilitacio/interior-persones-grans/)). En la provincia de Barcelona, la **Diputació de Barcelona** tiene ayudas parecidas para los municipios de hasta 300.000 habitantes.
+- **Cataluña**: la Agència de l'Habitatge de Catalunya subvenciona las **obras de arreglo en el interior** de viviendas donde vive una persona de **65 años o más**, en las demarcaciones de **Girona, Tarragona, Lleida y Terres de l'Ebre**. Cubre el **100 % del presupuesto protegible, con un máximo de 4.000 euros**, para obras de hasta 8.000 euros; hay un límite de ingresos y las obras **no pueden empezar** antes de la inspección técnica de la Agència. Las solicitudes de la convocatoria de 2026 se presentaron del 1 de julio al **30 de septiembre de 2026 a las 14:00**, así que el plazo **ya está cerrado**: si te interesa, estate atento a la próxima convocatoria ([Generalitat de Catalunya](https://habitatge.gencat.cat/ca/ajuts/ajuts-rehabilitacio/interior-persones-grans/)). En la provincia de Barcelona, la **Diputació de Barcelona** tiene ayudas parecidas para los municipios de hasta 300.000 habitantes.
 
 Pregunta en los **servicios sociales de tu ayuntamiento**: son quienes mejor conocen las ayudas de «adecuación funcional» de viviendas que haya en tu municipio o tu provincia.
 
@@ -108,7 +108,7 @@ Adaptar la vivienda se complementa con los servicios que da tu comunidad: la [te
 
 ### ¿Hay ayudas para adaptar el baño de una persona mayor?
 
-Sí. El plan estatal subvenciona hasta el 80 % de las obras de accesibilidad dentro del piso si vive una persona con discapacidad del 33 %, y muchas comunidades y ayuntamientos tienen ayudas propias para mayores de 65 años, como la de Cataluña, de hasta 4.000 euros.
+Sí. El plan estatal subvenciona hasta el 80 % de las obras de accesibilidad dentro del piso si vive una persona con discapacidad del 33 %, y muchas comunidades y ayuntamientos tienen ayudas propias para mayores de 65 años, como la de Cataluña, de hasta 4.000 euros (su convocatoria de 2026 cerró el 30 de septiembre).
 
 ### ¿La comunidad de vecinos está obligada a poner una rampa o un ascensor?
 
@@ -146,4 +146,4 @@ El 10 %, si eres un particular, la vivienda tiene más de dos años y los materi
 
 *Este artículo es informativo y no sustituye las bases de cada convocatoria ni el asesoramiento de un técnico o un abogado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 30 de septiembre de 2026, cerrado el plazo de la ayuda de Cataluña para arreglos interiores (terminó ese día a las 14:00). 29 de septiembre de 2026, primera versión.*
