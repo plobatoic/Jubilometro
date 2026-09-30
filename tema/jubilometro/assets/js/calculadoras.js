@@ -383,7 +383,7 @@
         (r.antVol && !r.ya ? row(fch(r.antVol.mes), 'Anticipada, como pronto', edadTxt(r.antVol.edad)) : '') +
         row(fch(r.mes), r.ya ? 'Edad ordinaria, ya alcanzada' : 'Jubilación ordinaria', edadTxt(r.edad), 'is-new');
       return '<ol class="jm-print">' + rows + '</ol>' +
-        '<p class="jm-print__note">' + (ej ? 'Ejemplo: nacimiento en ' + MESES[i.nacMes - 1] + ' de ' + i.nacAnio + ' y ' + i.cotAnios + ' años cotizados. Cambia los datos y calcula.' : (r.ya ? 'Ya has alcanzado tu edad ordinaria de jubilación.' : 'Te jubilas en ' + mesTxt(r.mes) + ', con ' + edadTxt(r.edad) + '.')) + (r.minimo ? '' : ' Con menos de 15 años cotizados no hay pensión contributiva.') + '</p>';
+        '<div class="jm-print__foot">' + gauge(r.edad, { label: 'Edad ordinaria de jubilación: ' + edadTxt(r.edad) }) + '<p class="jm-print__note">' + (ej ? 'Ejemplo: nacimiento en ' + MESES[i.nacMes - 1] + ' de ' + i.nacAnio + ' y ' + i.cotAnios + ' años cotizados. Cambia los datos y calcula.' : (r.ya ? 'Ya has alcanzado tu edad ordinaria de jubilación.' : 'Te jubilas en ' + mesTxt(r.mes) + ', con ' + edadTxt(r.edad) + '.')) + (r.minimo ? '' : ' Con menos de 15 años cotizados no hay pensión contributiva.') + '</p></div>';
     },
     pension: function (i, ej) {
       var r = pension(i);

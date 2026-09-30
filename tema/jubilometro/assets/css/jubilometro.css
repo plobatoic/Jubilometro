@@ -1736,7 +1736,7 @@ html body :is(.jm-input, .jm-select, .jm-textarea):focus { border-color: var(--j
 /* --- Calculadora rápida de la portada ------------------------------------ */
 .jm-toolband__copy h2 { font-weight: 600; letter-spacing: -.02em; }
 .jm-quick { background: var(--jm-tint); border: 0; border-radius: var(--jm-radius-lg); }
-.jm-passbook, .jm-passbook:hover, .jm-passbook:focus-within { transform: none; border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); box-shadow: var(--jm-shadow-2); background: var(--jm-white); }
+.jm-passbook { border: 1px solid var(--jm-line); border-top: 1px solid var(--jm-line); border-radius: var(--jm-radius-lg); background: var(--jm-white); }
 .jm-passbook__top b { font: 600 1.4rem/1.2 var(--jm-font-display); font-stretch: normal; }
 .jm-passbook__cols { background: var(--jm-mist); border-block-color: var(--jm-line); }
 .jm-print::before { display: none; }
@@ -1780,6 +1780,20 @@ html body :is(.jm-input, .jm-select, .jm-textarea):focus { border-color: var(--j
 .jm-person__mono { background: var(--jm-pine); font: 600 3.4rem/1 var(--jm-font-display); font-stretch: normal; outline-color: var(--jm-sage-2); }
 .jm-person__card { border-color: var(--jm-line); border-radius: var(--jm-radius-lg); }
 .jm-person__name { font: 600 1.4rem/1.2 var(--jm-font-display); font-stretch: normal; }
+/* El monograma y la tarjeta, uno encima de otra (en el móvil la tarjeta tapaba la inicial) */
+.jm-person { display: flex; flex-direction: column; align-items: center; gap: 1.5rem; padding: 2.25rem 1.25rem 1.25rem; aspect-ratio: auto; }
+@media (min-width: 700px) { .jm-person { aspect-ratio: 4 / 4.2; } }
+.jm-person__mono { flex: none; margin-block: auto; }
+.jm-person__card { position: relative; inset: auto; width: 100%; z-index: 1; }
+/* Formularios: la leyenda de un grupo separada de sus campos como una etiqueta normal,
+   y en la calculadora rápida los tres desplegables a la misma altura */
+.jm-fieldset > legend { margin-bottom: .45rem; }
+/* Resultados de búsqueda en el móvil: foto pequeña y más sitio para el texto */
+@media (max-width: 559px) {
+  .jm-results .jm-story--row { grid-template-columns: minmax(0, 1fr) 6rem; gap: .9rem; }
+  .jm-results .jm-story--row .jm-story__dek { display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+}
+.jm-quick__grid { align-items: end; }
 .jm-principles li { border-top-color: var(--jm-rule); }
 .jm-principles h3 { font-weight: 600; }
 .jm-nl__list .jm-i { color: var(--jm-pine); }
@@ -1909,10 +1923,211 @@ html body :is(.jm-input, .jm-select, .jm-textarea):focus { border-color: var(--j
 .jm-ad__slot { border-radius: var(--jm-radius-lg); }
 
 /* --- Movimiento: pocos gestos, tranquilos -------------------------------- */
-.jm-cajon.is-tilt, .jm-life__card.is-tilt { transform: none; }
 @media (prefers-reduced-motion: reduce) { .jm-mast__lead-story .jm-story--lead, .jm-cajon, .jm-saldo__row { transition: none; } }
 
 /* --- Detalles de interacción (guía de interfaces web) ---------------------- */
 :is(a, button, input, select, textarea, label, summary) { touch-action: manipulation; }
 html { -webkit-tap-highlight-color: rgb(30 75 64 / .12); }
 .jm-drawer__panel, .jm-search, .jm-sugg { overscroll-behavior: contain; }
+
+/* ==========================================================================
+   v4.1 · PROFUNDIDAD (2.3.0)
+   Portada en 3D, tarjetas que se inclinan con brillo, apariciones en perspectiva,
+   libreta con esfera, resultados que giran y fotos que viajan entre páginas.
+   Todo es decorativo: sin ratón se ve igual, y con «reducir movimiento» queda quieto.
+   ========================================================================== */
+
+/* --- Portada: retícula de puntos, dos luces que respiran y un foco que sigue al ratón --- */
+.jm-mast { isolation: isolate; overflow-x: clip; }
+.jm-mast__bg { position: absolute; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+.jm-mast__bg::before { content: ""; position: absolute; inset: 0; background: radial-gradient(rgb(30 75 64 / .2) 1px, transparent 1.4px) 0 0 / 22px 22px; -webkit-mask-image: radial-gradient(ellipse 46% 64% at 77% 48%, #000 15%, transparent 72%); mask-image: radial-gradient(ellipse 46% 64% at 77% 48%, #000 15%, transparent 72%); }
+.jm-mast__glow { position: absolute; top: -30%; right: -14%; width: min(64vw, 900px); aspect-ratio: 1; border-radius: 50%; background: radial-gradient(closest-side, rgb(30 75 64 / .14), rgb(30 75 64 / .05) 55%, transparent); }
+.jm-mast__glow--b { top: auto; bottom: -50%; right: 16%; width: min(50vw, 700px); background: radial-gradient(closest-side, rgb(217 180 106 / .26), rgb(217 180 106 / .07) 55%, transparent); }
+.jm-mast__spot { position: absolute; left: 0; top: 0; width: 760px; height: 760px; margin: -380px 0 0 -380px; border-radius: 50%; background: radial-gradient(closest-side, rgb(217 180 106 / .22), rgb(30 75 64 / .06) 48%, transparent); opacity: 0; transition: opacity .6s ease; will-change: transform; }
+.jm-mast.is-lit .jm-mast__spot { opacity: 1; }
+@media (max-width: 999px) {
+  .jm-mast__bg::before { -webkit-mask-image: radial-gradient(ellipse 90% 34% at 55% 80%, #000 10%, transparent 70%); mask-image: radial-gradient(ellipse 90% 34% at 55% 80%, #000 10%, transparent 70%); }
+  .jm-mast__glow { top: auto; bottom: -12%; right: -45%; width: 125vw; }
+  .jm-mast__glow--b { bottom: -18%; right: auto; left: -40%; width: 100vw; }
+}
+@keyframes jm-drift { to { transform: translate3d(-7%, 9%, 0) scale(1.14); } }
+
+/* --- Portada: la guía destacada, en un escenario con fondo --------------- */
+.jm-mast__stage { position: relative; min-width: 0; }
+.jm-mast__lead-story { position: relative; z-index: 0; }
+/* Dos tarjetas asoman por debajo: un mazo de guías */
+.jm-mast__lead-story::before, .jm-mast__lead-story::after { content: ""; position: absolute; inset: 0; z-index: -1; border-radius: var(--jm-radius-lg); transform-origin: 50% 100%; pointer-events: none; }
+.jm-mast__lead-story::before { background: var(--jm-sage); border: 1px solid var(--jm-sage-2); transform: translateY(12px) scale(.955); }
+.jm-mast__lead-story::after { z-index: -2; background: var(--jm-pine); transform: translateY(24px) scale(.91); box-shadow: 0 34px 50px -30px rgb(20 33 28 / .6); }
+
+/* Sello giratorio de latón */
+.jm-seal { position: absolute; top: -42px; right: -26px; z-index: 2; width: 112px; height: 112px; border-radius: 50%; background: var(--jm-pine); color: #E9CF95; box-shadow: 0 0 0 5px rgb(255 255 255 / .92), 0 20px 34px -14px rgb(20 33 28 / .6); pointer-events: none; }
+.jm-seal svg { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; }
+.jm-seal__ring text { font: 700 9.4px/1 var(--jm-font-body); letter-spacing: .1em; fill: currentColor; }
+.jm-seal__arc, .jm-seal__needle { fill: none; stroke: currentColor; stroke-width: 4.5; stroke-linecap: round; }
+.jm-seal__mark circle { fill: currentColor; }
+@media (min-width: 1000px) and (max-width: 1239px) { .jm-seal { right: -10px; } }
+@media (max-width: 999px) { .jm-seal { top: -34px; right: 12px; width: 92px; height: 92px; box-shadow: 0 0 0 4px rgb(255 255 255 / .92), 0 14px 26px -12px rgb(20 33 28 / .55); } }
+
+/* Acceso flotante a la calculadora, con su esfera */
+.jm-float { position: absolute; z-index: 2; left: -46px; top: 0; margin-top: calc(56.25% - 88px); display: none; align-items: center; gap: .85rem; max-width: 21rem; padding: .75rem 1.05rem .75rem .85rem; background: rgb(255 255 255 / .97); border: 1px solid var(--jm-line); border-radius: 14px; box-shadow: 0 2px 4px rgb(20 33 28 / .06), 0 26px 44px -22px rgb(20 33 28 / .55); color: var(--jm-ink); text-decoration: none; transition: box-shadow .3s ease, border-color .2s ease; }
+@media (min-width: 1000px) { .jm-float { display: flex; } }
+@media (min-width: 1000px) and (max-width: 1239px) { .jm-float { left: -34px; margin-top: calc(56.25% - 70px); padding-block: .6rem; } .jm-float__txt span { display: none; } }
+.jm-float:hover { color: var(--jm-ink); border-color: var(--jm-pine); box-shadow: 0 2px 4px rgb(20 33 28 / .06), 0 32px 54px -24px rgb(20 33 28 / .6); }
+.jm-float__dial { flex: none; width: 58px; height: 35px; overflow: visible; }
+.jm-float__track, .jm-float__fill { fill: none; stroke-width: 6; stroke-linecap: round; }
+.jm-float__track { stroke: var(--jm-sage-2); }
+.jm-float__fill { stroke: var(--jm-pine); stroke-dasharray: 58 200; }
+.jm-float__needle { transform-origin: 32px 34px; transform: rotate(38deg); }
+.jm-float__needle path { stroke: var(--jm-brass); stroke-width: 3.2; stroke-linecap: round; }
+.jm-float__dial circle { fill: var(--jm-ink); }
+.jm-float__txt { display: grid; gap: .15rem; line-height: 1.25; }
+.jm-float__txt b { font: 600 1.075rem/1.2 var(--jm-font-display); }
+.jm-float__txt span { font-size: .875rem; color: var(--jm-muted); }
+.jm-float > .jm-i { flex: none; color: var(--jm-pine); transition: transform .3s var(--jm-ease); }
+.jm-float:hover > .jm-i { transform: translateX(3px); }
+
+@media (prefers-reduced-motion: no-preference) {
+  .jm-mast__glow { animation: jm-drift 24s ease-in-out infinite alternate; }
+  .jm-mast__glow--b { animation-duration: 19s; animation-direction: alternate-reverse; }
+  .jm-mast__lead-story::before { animation: jm-deal .9s var(--jm-ease) .25s backwards; }
+  .jm-mast__lead-story::after { animation: jm-deal 1s var(--jm-ease) .35s backwards; }
+  .jm-seal { animation: jm-pop-in .8s var(--jm-ease) .5s backwards; }
+  .jm-seal__ring { animation: jm-spin 40s linear infinite; }
+  .jm-float { animation: jm-pop-in .8s var(--jm-ease) .75s backwards, jm-bob 6.5s ease-in-out 1.6s infinite alternate; }
+  .jm-float__needle { animation: jm-needle 1.7s var(--jm-ease) 1s backwards; }
+  .jm-float:hover .jm-float__needle { animation: jm-wiggle .9s ease-in-out; }
+}
+@keyframes jm-deal { from { transform: none; opacity: 0; } }
+@keyframes jm-pop-in { from { opacity: 0; scale: .6; } }
+@keyframes jm-spin { to { transform: rotate(1turn); } }
+@keyframes jm-bob { to { transform: translateY(-9px); } }
+@keyframes jm-needle { from { transform: rotate(-88deg); } }
+@keyframes jm-wiggle { 35% { transform: rotate(4deg); } 70% { transform: rotate(52deg); } }
+
+/* Con ratón, todo el escenario gira hacia él: cada pieza a su profundidad */
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .jm-mast__stage { perspective: 1400px; }
+  .jm-mast__lead-story { transform: rotateY(calc(var(--px, 0) * 5deg)) rotateX(calc(var(--py, 0) * -4deg)); }
+  .jm-mast__lead-story::before { translate: calc(var(--px, 0) * -9px) calc(var(--py, 0) * -4px); }
+  .jm-mast__lead-story::after { translate: calc(var(--px, 0) * -18px) calc(var(--py, 0) * -8px); }
+  .jm-seal { translate: calc(var(--px, 0) * 22px) calc(var(--py, 0) * 16px); }
+  .jm-float { translate: calc(var(--px, 0) * 30px) calc(var(--py, 0) * 22px); }
+  .jm-mast__lead-story .jm-story--lead::after { content: ""; position: absolute; inset: 0; z-index: 3; border-radius: inherit; pointer-events: none; background: radial-gradient(circle at calc(50% + var(--px, 0) * 45%) calc(32% + var(--py, 0) * 45%), rgb(255 255 255 / .3), transparent 55%); opacity: 0; transition: opacity .6s ease; }
+  .jm-mast.is-lit .jm-mast__lead-story .jm-story--lead::after { opacity: 1; }
+}
+/* Al bajar, el escenario se inclina hacia atrás y se aleja (navegadores con animaciones ligadas al scroll) */
+@supports (animation-timeline: view()) {
+  @media (min-width: 1000px) and (prefers-reduced-motion: no-preference) {
+    .jm-mast__stage { animation: jm-stage-out linear both; animation-timeline: view(); animation-range: exit 5% exit 100%; }
+  }
+}
+@keyframes jm-stage-out { to { transform: perspective(1600px) rotateX(16deg) translateY(-28px) scale(.94); opacity: .35; } }
+
+/* --- Tarjetas que se inclinan hacia el ratón (jubilometro.js) -------------- */
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  :is(.jm-cajon, .jm-tema, .jm-saldo__row, .jm-life__card, .jm-next, .jm-card, .jm-person) { transition: transform .7s var(--jm-ease), box-shadow .35s ease, border-color .25s ease, background-color .25s ease; }
+  :is(.jm-cajon, .jm-tema, .jm-saldo__row, .jm-life__card, .jm-next, .jm-card, .jm-person).is-tilt { z-index: 2; transition: box-shadow .35s ease, border-color .25s ease, background-color .25s ease; box-shadow: 0 2px 4px rgb(20 33 28 / .05), 0 30px 50px -28px rgb(20 33 28 / .5); }
+  /* Brillo del papel */
+  :is(.jm-cajon, .jm-tema, .jm-saldo__row, .jm-life__card, .jm-next, .jm-card, .jm-person, .jm-story__media, .jm-pagehead__media)::after { content: ""; display: block; position: absolute; inset: 0; z-index: 3; border-radius: inherit; pointer-events: none; background: radial-gradient(circle at var(--gx, 50%) var(--gy, 0%), rgb(255 255 255 / .55), transparent 55%); mix-blend-mode: soft-light; opacity: 0; transition: opacity .45s ease; }
+  /* Filo de luz de latón que sigue al ratón por el borde */
+  :is(.jm-cajon, .jm-tema, .jm-saldo__row, .jm-life__card, .jm-next, .jm-card, .jm-person)::before { content: ""; position: absolute; inset: 0; z-index: 3; border-radius: inherit; padding: 1.5px; pointer-events: none; background: radial-gradient(320px circle at var(--gx, 50%) var(--gy, 0%), rgb(201 161 90 / .95), rgb(201 161 90 / 0) 70%); -webkit-mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); -webkit-mask-composite: xor; mask: linear-gradient(#000 0 0) content-box, linear-gradient(#000 0 0); mask-composite: exclude; opacity: 0; transition: opacity .45s ease; }
+  .is-tilt::before, .is-tilt::after { opacity: 1; }
+  /* Profundidad dentro de la tarjeta: la foto y los iconos se desplazan un poco */
+  :is(.jm-story__media, .jm-pagehead__media) { transition: transform .7s var(--jm-ease), box-shadow .35s ease; }
+  :is(.jm-story__media, .jm-pagehead__media).is-tilt { z-index: 2; transition: box-shadow .35s ease; box-shadow: 0 26px 40px -24px rgb(20 33 28 / .55); }
+  :is(.jm-cajon, .jm-life__card).is-tilt :is(.jm-story__media, .jm-life__media) img, :is(.jm-story__media, .jm-pagehead__media).is-tilt img { transform: translate(calc(var(--px, 0) * -7px), calc(var(--py, 0) * -6px)) scale(1.08); transition: transform .25s linear; }
+  .jm-tema__icon, .jm-saldo__v { transition: transform .5s var(--jm-ease); }
+  .jm-tema.is-tilt .jm-tema__icon { transform: translate(calc(var(--px, 0) * 6px), calc(var(--py, 0) * 5px)) scale(1.06); transition: transform .2s linear; }
+  .jm-saldo__row.is-tilt .jm-saldo__v { transform: translate(calc(var(--px, 0) * 5px), calc(var(--py, 0) * 4px)); transition: transform .2s linear; }
+}
+/* En el móvil: las tarjetas se hunden un poco al tocarlas */
+@media (hover: none) and (prefers-reduced-motion: no-preference) {
+  :is(.jm-cajon, .jm-tema, .jm-saldo__row, .jm-life__card, .jm-next, .jm-card, .jm-story, .jm-float) { transition: transform .3s var(--jm-ease); }
+  :is(.jm-cajon, .jm-tema, .jm-saldo__row, .jm-life__card, .jm-next, .jm-card, .jm-story):active { transform: scale(.985); }
+}
+
+/* --- Apariciones al bajar: los bloques se levantan en perspectiva ---------- */
+@media (prefers-reduced-motion: no-preference) {
+  .jm-rv { opacity: 0; transform: perspective(1200px) translate3d(0, 30px, 0) rotateX(11deg); transform-origin: 50% 0; }
+  .jm-rv.is-in { opacity: 1; transform: none; transition: opacity .8s var(--jm-ease) var(--rv-d, 0ms), transform 1.05s var(--jm-ease) var(--rv-d, 0ms); }
+}
+
+/* --- La libreta de la calculadora rápida, en 3D ---------------------------- */
+.jm-passbook { box-shadow: 4px 4px 0 -1px var(--jm-white), 4px 4px 0 0 var(--jm-line-2), 8px 8px 0 -1px var(--jm-white), 8px 8px 0 0 var(--jm-line-2), 12px 12px 0 0 var(--jm-pine), 0 30px 50px -28px rgb(20 33 28 / .45); }
+@media (min-width: 700px) { .jm-passbook { box-shadow: 6px 6px 0 -1px var(--jm-white), 6px 6px 0 0 var(--jm-line-2), 12px 12px 0 -1px var(--jm-white), 12px 12px 0 0 var(--jm-line-2), 18px 18px 0 0 var(--jm-pine), 30px 42px 60px -30px rgb(20 33 28 / .5); } }
+@media (min-width: 1040px) and (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  .jm-toolband__box { perspective: 1700px; }
+  .jm-passbook { transform: rotateY(-9deg) rotateX(3deg); transform-origin: 30% 50%; transition: transform 1s var(--jm-ease), box-shadow .6s ease; }
+  .jm-passbook:hover, .jm-toolband__box:focus-within .jm-passbook, .jm-passbook.is-printing, .jm-passbook.is-stamped { transform: none; }
+}
+/* La esfera del resultado: la aguja gira hasta tu edad */
+.jm-print__foot { display: flex; align-items: center; gap: 1.1rem; padding: 1rem 1.25rem 0; }
+.jm-print__foot .jm-gauge { flex: none; width: 112px; height: auto; margin: 0; }
+.jm-print__foot .jm-print__note { padding: 0; margin: 0; }
+.jm-print__foot .jm-gauge__txt { display: none; }
+@media (max-width: 379px) { .jm-print__foot { gap: .8rem; padding-inline: 1rem; } .jm-print__foot .jm-gauge { width: 92px; } }
+
+/* --- Calculadoras: el resultado gira hacia ti al recalcular ---------------- */
+.jm-tool__form { transition: box-shadow .3s ease; }
+.jm-tool__form:focus-within { box-shadow: 0 0 0 4px rgb(30 75 64 / .07), var(--jm-shadow-2); }
+@media (prefers-reduced-motion: no-preference) {
+  .jm-result.is-updating { animation: jm-flip .65s var(--jm-ease); transform-origin: 50% 0; }
+}
+@keyframes jm-flip { from { transform: perspective(1400px) rotateX(-9deg) translateY(8px); } }
+
+/* --- Pequeños gestos: la aguja barre la esfera y las barras crecen ---------- */
+@media (prefers-reduced-motion: no-preference) {
+  .jm-rv.is-in .jm-gauge__needle, .jm-tile:hover .jm-gauge__needle { animation: jm-sweep 1.1s var(--jm-ease) .15s backwards; }
+  .jm-tile__spark span { transform-origin: 50% 100%; }
+  .jm-rv.is-in .jm-tile__spark span, .jm-tile:hover .jm-tile__spark span { animation: jm-bar .8s var(--jm-ease) backwards; }
+  .jm-tile__spark span:nth-child(2n) { animation-delay: 60ms; }
+  .jm-tile__spark span:nth-child(3n) { animation-delay: 120ms; }
+  .jm-topic__thumb img, .jm-mast__hint a { transition: transform .4s var(--jm-ease), background-color .2s ease, color .2s ease; }
+}
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .jm-topic__list a:hover .jm-topic__thumb img { transform: scale(1.1); }
+  .jm-mast__hint a:hover { transform: translateY(-2px); }
+}
+@keyframes jm-sweep { from { transform: rotate(-90deg); } }
+@keyframes jm-bar { from { transform: scaleY(.08); } }
+
+/* --- Botones: un reflejo cruza al pasar el ratón -------------------------- */
+.jm-btn:not(.jm-btn--ghost) { position: relative; overflow: hidden; isolation: isolate; box-shadow: inset 0 1px 0 rgb(255 255 255 / .14), 0 8px 16px -10px rgb(20 33 28 / .6); }
+.jm-btn:not(.jm-btn--ghost)::after { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none; background: linear-gradient(110deg, transparent 30%, rgb(255 255 255 / .26) 47%, rgb(255 255 255 / .06) 56%, transparent 68%); transform: translateX(-115%); }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+  .jm-btn:not(.jm-btn--ghost):hover::after { transform: translateX(115%); transition: transform .9s var(--jm-ease); }
+}
+
+/* --- Cabecera de las páginas interiores: la misma retícula y la foto en 3D -- */
+.jm-pagehead { isolation: isolate; overflow-x: clip; }
+.jm-pagehead::before { content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none; background: radial-gradient(rgb(30 75 64 / .16) 1px, transparent 1.4px) 0 0 / 22px 22px, radial-gradient(closest-side, rgb(217 180 106 / .16), transparent) 88% 30% / 46rem 46rem no-repeat; -webkit-mask-image: radial-gradient(ellipse 42% 80% at 84% 40%, #000 10%, transparent 72%); mask-image: radial-gradient(ellipse 42% 80% at 84% 40%, #000 10%, transparent 72%); }
+.jm-pagehead__media { position: relative; }
+
+/* --- Preguntas frecuentes e índice: se despliegan suaves ------------------ */
+@media (prefers-reduced-motion: no-preference) {
+  @supports selector(::details-content) {
+    .jm-faq, .jm-toc--inline { interpolate-size: allow-keywords; }
+    .jm-faq details::details-content, .jm-toc--inline::details-content { block-size: 0; overflow-y: clip; transition: block-size .4s var(--jm-ease), content-visibility .4s allow-discrete; }
+    .jm-faq details[open]::details-content, .jm-toc--inline[open]::details-content { block-size: auto; }
+  }
+}
+
+/* --- Cabecera fija: un poco de cristal al bajar --------------------------- */
+.jm-header.is-stuck { background: rgb(255 255 255 / .84); }
+/* Sin el menú completo, los botones van pegados al borde derecho */
+@media (max-width: 1239px) { .jm-nav + .jm-header__actions { margin-left: auto; } }
+
+/* --- Fotos que viajan de la tarjeta a la guía (transiciones entre páginas) -- */
+@media (prefers-reduced-motion: no-preference) {
+  .jm-post__hero img { view-transition-name: jm-foto; }
+  ::view-transition-group(jm-foto) { animation-duration: .5s; animation-timing-function: cubic-bezier(.23, 1, .32, 1); }
+  ::view-transition-old(jm-foto), ::view-transition-new(jm-foto) { height: 100%; object-fit: cover; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .jm-passbook, .jm-tool__form { transition: none; }
+}
+@media print {
+  .jm-mast__bg, .jm-seal, .jm-float, .jm-mast__lead-story::before, .jm-mast__lead-story::after, .jm-pagehead::before { display: none !important; }
+}

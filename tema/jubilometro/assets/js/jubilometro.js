@@ -1,7 +1,8 @@
 /* ==========================================================================
-   JUBILÓMETRO · Interacciones globales (≈4 KB, sin dependencias)
+   JUBILÓMETRO · Interacciones globales (sin dependencias)
    Cabecera fija, menú móvil, buscador, índice y progreso de lectura, compartir,
-   lecturas del mes, tabla de datos y botón de cookies.
+   lecturas del mes, tabla de datos, botón de cookies y los efectos 3D (tarjetas,
+   portada y transiciones entre páginas).
    ========================================================================== */
 (function () {
   'use strict';
@@ -162,31 +163,123 @@
   /* ---------- Movimiento (nunca con "reducir movimiento") ---------- */
   var calm = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-  // Las cajas se inclinan en 3D siguiendo el ratón, con un brillo de papel (solo con ratón)
+  var fine = window.matchMedia && window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+
+  // Tarjetas en 3D: se inclinan hacia el ratón con un brillo y un filo de luz (solo con ratón).
+  // Un único oyente para toda la página; la tarjeta vuelve a su sitio al salir.
+  // [lo que se vigila, lo que se inclina (vacío: la propia tarjeta)]
+  var TILT = [
+    ['.jm-cajon, .jm-tema, .jm-saldo__row, .jm-life__card, .jm-next, .jm-card, .jm-person, .jm-pagehead__media', ''],
+    ['.jm-story:not(.jm-story--lead)', '.jm-story__media']
+  ];
   function initTilt() {
-    if (calm || !window.matchMedia('(hover: hover) and (pointer: fine)').matches) return;
-    $$('.jm-cajon, .jm-life__card').forEach(function (el) {
-      var raf = 0;
-      el.addEventListener('pointerenter', function () { el.classList.add('is-tilt'); });
-      el.addEventListener('pointermove', function (e) {
-        var cx = e.clientX, cy = e.clientY;
-        cancelAnimationFrame(raf);
-        raf = requestAnimationFrame(function () {
-          var r = el.getBoundingClientRect(), x = (cx - r.left) / r.width, y = (cy - r.top) / r.height;
-          el.style.transform = 'perspective(900px) rotateX(' + ((0.5 - y) * 6).toFixed(2) + 'deg) rotateY(' + ((x - 0.5) * 7).toFixed(2) + 'deg) translateY(-4px)';
-          el.style.setProperty('--gx', (x * 100).toFixed(1) + '%');
-          el.style.setProperty('--gy', (y * 100).toFixed(1) + '%');
-        });
-      }, { passive: true });
-      el.addEventListener('pointerleave', function () { cancelAnimationFrame(raf); el.classList.remove('is-tilt'); el.style.transform = ''; });
+    if (calm || !fine) return;
+    var watch = TILT.map(function (t) { return t[0]; }).join(', '), st = null, raf = 0;
+    function frame() {
+      raf = 0; if (!st) return;
+      var el = st.el, r = el.getBoundingClientRect();
+      if (r.width && r.height) {
+        st.tx = Math.max(-1, Math.min(1, ((st.cx - r.left) / r.width) * 2 - 1));
+        st.ty = Math.max(-1, Math.min(1, ((st.cy - r.top) / r.height) * 2 - 1));
+      }
+      st.x += (st.tx - st.x) * 0.2; st.y += (st.ty - st.y) * 0.2;
+      var a = st.amp;
+      el.style.transform = 'perspective(' + st.p + 'px) rotateX(' + (-st.y * a).toFixed(2) + 'deg) rotateY(' + (st.x * a).toFixed(2) + 'deg) translate3d(0,' + st.lift + 'px,0)';
+      el.style.setProperty('--gx', ((st.x + 1) * 50).toFixed(1) + '%');
+      el.style.setProperty('--gy', ((st.y + 1) * 50).toFixed(1) + '%');
+      el.style.setProperty('--px', st.x.toFixed(3));
+      el.style.setProperty('--py', st.y.toFixed(3));
+      if (Math.abs(st.tx - st.x) + Math.abs(st.ty - st.y) > 0.004) raf = requestAnimationFrame(frame);
+    }
+    function release(s) {
+      var el = s.el; el.classList.remove('is-tilt'); el.style.transform = '';
+      ['--gx', '--gy', '--px', '--py'].forEach(function (k) { el.style.removeProperty(k); });
+      if (s.card !== el) s.card.classList.remove('is-tilting');
+    }
+    function engage(card, e) {
+      var target = card, sub = '';
+      for (var i = 0; i < TILT.length; i++) { if (card.matches(TILT[i][0])) { sub = TILT[i][1]; break; } }
+      if (sub) { target = $(sub, card); if (!target) return null; card.classList.add('is-tilting'); }
+      var r = target.getBoundingClientRect(), big = Math.max(r.width, r.height * 1.3);
+      target.classList.add('is-tilt');
+      return { el: target, card: card, x: 0, y: 0, tx: 0, ty: 0, cx: e.clientX, cy: e.clientY, amp: Math.max(1.5, Math.min(6, 2700 / big)), p: Math.max(800, Math.round(big * 2.4)), lift: sub ? -2 : -4 };
+    }
+    document.addEventListener('pointermove', function (e) {
+      if (e.pointerType && e.pointerType !== 'mouse') return;
+      var card = e.target.closest ? e.target.closest(watch) : null;
+      if (!st || card !== st.card) {
+        if (st) release(st);
+        st = card ? engage(card, e) : null;
+      }
+      if (!st) return;
+      st.cx = e.clientX; st.cy = e.clientY;
+      if (!raf) raf = requestAnimationFrame(frame);
+    }, { passive: true });
+    document.documentElement.addEventListener('pointerleave', function () { if (st) { release(st); st = null; } });
+  }
+
+  // Portada: la guía destacada, en un escenario 3D que sigue al ratón, con un foco de luz en el fondo
+  function initStage() {
+    var mast = $('.jm-mast'), stage = $('.jm-mast__stage');
+    if (!mast || !stage || calm || !fine) return;
+    var spot = $('.jm-mast__spot', mast), x = 0, y = 0, tx = 0, ty = 0, sx = 0, sy = 0, tsx = 0, tsy = 0, cx = 0, cy = 0, raf = 0;
+    function loop() {
+      raf = 0;
+      var r = stage.getBoundingClientRect(), m = mast.getBoundingClientRect();
+      if (mast.classList.contains('is-lit')) {
+        tx = Math.max(-1, Math.min(1, (cx - (r.left + r.width / 2)) / (r.width / 2 + 240)));
+        ty = Math.max(-1, Math.min(1, (cy - (r.top + r.height / 2)) / (r.height / 2 + 240)));
+        tsx = cx - m.left; tsy = cy - m.top;
+      }
+      x += (tx - x) * 0.08; y += (ty - y) * 0.08; sx += (tsx - sx) * 0.16; sy += (tsy - sy) * 0.16;
+      stage.style.setProperty('--px', x.toFixed(3));
+      stage.style.setProperty('--py', y.toFixed(3));
+      if (spot) spot.style.transform = 'translate3d(' + sx.toFixed(1) + 'px,' + sy.toFixed(1) + 'px,0)';
+      if (Math.abs(tx - x) + Math.abs(ty - y) > 0.002 || Math.abs(tsx - sx) + Math.abs(tsy - sy) > 0.5) raf = requestAnimationFrame(loop);
+    }
+    mast.addEventListener('pointermove', function (e) {
+      if (e.pointerType && e.pointerType !== 'mouse') return;
+      cx = e.clientX; cy = e.clientY;
+      if (!mast.classList.contains('is-lit')) {
+        // El foco aparece donde está el ratón, sin cruzar la cabecera desde una esquina
+        var m = mast.getBoundingClientRect(); sx = tsx = cx - m.left; sy = tsy = cy - m.top;
+        mast.classList.add('is-lit');
+      }
+      if (!raf) raf = requestAnimationFrame(loop);
+    }, { passive: true });
+    mast.addEventListener('pointerleave', function () { mast.classList.remove('is-lit'); tx = ty = 0; if (!raf) raf = requestAnimationFrame(loop); });
+  }
+
+  // En el móvil, las tarjetas se hunden un poco al tocarlas (Safari solo lo muestra si la página escucha los toques)
+  function initPress() {
+    if (!fine) document.addEventListener('touchstart', function () {}, { passive: true });
+  }
+
+  // Al abrir una guía desde su tarjeta, la foto viaja hasta la cabecera de la guía
+  // (navegadores con transiciones entre páginas; en el resto se navega como siempre)
+  function initMorph() {
+    if (calm || !('onpageswap' in window)) return;
+    var CARD = '.jm-story, .jm-cajon, .jm-card, .jm-life__card', named = [];
+    function reset() { named.forEach(function (el) { el.style.viewTransitionName = ''; }); named = []; }
+    window.addEventListener('pageswap', function (e) {
+      reset();
+      if (!e.viewTransition || !e.activation || !e.activation.entry) return;
+      var url = e.activation.entry.url.split('#')[0], hero = $('.jm-post__hero img');
+      if (hero) { hero.style.viewTransitionName = 'none'; named.push(hero); }
+      var link = $$('a[href]').filter(function (a) { return a.href.split('#')[0] === url && a.closest(CARD) && $('img', a.closest(CARD)); })[0];
+      if (!link) return;
+      var img = $('img', link.closest(CARD)), r = img.getBoundingClientRect();
+      if (r.bottom <= 0 || r.top >= window.innerHeight) return;
+      img.style.viewTransitionName = 'jm-foto'; named.push(img);
     });
+    window.addEventListener('pageshow', function (e) { if (e.persisted) reset(); });
   }
 
   // Los bloques que aún no se ven aparecen al llegar a ellos (lo visible al cargar no se toca).
   // La primera respuesta del observador dice qué está fuera de pantalla, sin obligar al navegador a medir la página.
   function initReveal() {
     if (calm || !('IntersectionObserver' in window)) return;
-    var sel = '.jm-figures__head, .jm-rail__head, .jm-duo__head, .jm-rail__grid > .jm-story, .jm-rail__list > .jm-story, .jm-mostread .jm-ledger, .jm-upcoming__box, .jm-toolband__copy, .jm-passbook, .jm-section-head, .jm-life__card, .jm-tile, .jm-updates__intro, .jm-timeline > li, .jm-method > *, .jm-nl, .jm-authorbox, .jm-post__foot .jm-story';
+    var sel = '.jm-figures__head, .jm-rail__head, .jm-duo__head, .jm-rail__grid > .jm-story, .jm-rail__list > .jm-story, .jm-mostread .jm-ledger, .jm-upcoming__box, .jm-toolband__copy, .jm-passbook, .jm-section-head, .jm-life__card, .jm-tile, .jm-updates__intro, .jm-timeline > li, .jm-method > *, .jm-nl, .jm-authorbox, .jm-post__foot .jm-story, .jm-cajonera > *, .jm-front__latest > .jm-ledger, .jm-saldo__row, .jm-temas__top, .jm-tema, .jm-card, .jm-principles > li, .jm-next';
     var els = $$(sel);
     if (!els.length) return;
     var pending = [], timer = 0;
@@ -197,7 +290,7 @@
       var d = parseInt(el.style.getPropertyValue('--rv-d'), 10) || 0;
       el.classList.add('is-in');
       // Al terminar, se retiran las clases para no frenar la inclinación ni otros efectos
-      setTimeout(function () { el.classList.remove('jm-rv', 'is-in'); el.style.removeProperty('--rv-d'); }, 900 + d);
+      setTimeout(function () { el.classList.remove('jm-rv', 'is-in'); el.style.removeProperty('--rv-d'); }, 1150 + d);
     }
     var io = new IntersectionObserver(function (entries) {
       var h = window.innerHeight;
@@ -468,6 +561,6 @@
     });
   }
 
-  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initViews, initReveal, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initViews, initReveal, initRoll, initTilt, initStage, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
