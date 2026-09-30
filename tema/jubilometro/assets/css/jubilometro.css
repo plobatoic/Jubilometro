@@ -211,6 +211,7 @@ em { font-style: italic; }
 .jm-sub a small { font-weight: 400; color: var(--jm-muted); font-size: var(--jm-fs-xs); }
 .jm-sub a:hover { background: var(--jm-sage); }
 .jm-sub__all { grid-column: 1 / -1; }
+.jm-sub__label { grid-column: 1 / -1; padding: 1rem .8rem .35rem; font-size: var(--jm-fs-xs); font-weight: 700; letter-spacing: .04em; text-transform: uppercase; color: var(--jm-muted); }
 .jm-sub__all a { flex-direction: row; justify-content: space-between; align-items: center; color: var(--jm-accent-strong); border-bottom: 0; }
 .jm-header__actions { display: flex; align-items: center; gap: .5rem; margin-left: auto; }
 .jm-nav + .jm-header__actions { margin-left: .75rem; }

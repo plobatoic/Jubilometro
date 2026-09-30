@@ -18,6 +18,7 @@ herramientas/
   publicar/                      Generador de HTML, archivos de importación de WordPress, comprobaciones
                                  y subida a jubilometro.com (web.mjs: formato del tema; subir-wordpress.mjs)
 paginas/<slug>/pagina.md         Páginas de confianza del sitio (Quiénes somos, Política editorial, Contacto, Aviso legal, Privacidad, Cookies)
+tema/jubilometro/                  Tema hijo de Kadence de la web (menú, portada, plantillas, CSS y JS); se sube como zip
 publicacion/
   wordpress-borradores.xml       Las 22 páginas como borradores para Herramientas > Importar > WordPress
   wordpress-paginas.xml          Las 6 páginas de confianza como páginas de WordPress en borrador
