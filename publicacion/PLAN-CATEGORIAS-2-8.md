@@ -1,6 +1,6 @@
 # Plan de las categorías 2 a 8 del informe (artículos 22 a 93)
 
-Estado a 29 de septiembre de 2026. La categoría 1 (Jubilación, 21 artículos) está publicada y las 10 herramientas del informe (n.º 94-103) ya estaban en la web. Faltan los 72 artículos de las categorías 2 a 8, más los temas que la web ya tenía preparados como plantilla y el informe no recoge (marcados «extra»).
+Estado a 30 de septiembre de 2026: **completo**. Los 72 artículos de las categorías 2 a 8 y los temas «extra» (que la web ya tenía como plantilla y el informe no recoge) están publicados, cada uno con su `verificacion-fuentes.md`. Con la categoría 1 (Jubilación, 21 artículos), la web tiene 110 guías publicadas; las 10 herramientas del informe (n.º 94-103) ya estaban en la web.
 
 ## Cómo se hacen
 
@@ -8,7 +8,7 @@ Igual que la categoría 1: `contenido/<categoría>/<slug>/articulo.md` con su `v
 
 ## Publicación
 
-El plan inicial era programar un artículo por día laborable (el informe, en su apartado 5.7, recomienda un ritmo sostenible). El 29 de septiembre de 2026 el propietario pidió que las portadas de sección no estuvieran vacías y que se publicaran ese mismo día, **revisándolos poco a poco**: los 63 artículos programados se revisaron uno a uno y se publicaron en ocho tandas a lo largo del día, y los que faltan se publican al terminarlos y revisarlos.
+El plan inicial era programar un artículo por día laborable (el informe, en su apartado 5.7, recomienda un ritmo sostenible). El 29 de septiembre de 2026 el propietario pidió que las portadas de sección no estuvieran vacías y que se publicaran ese mismo día, **revisándolos poco a poco**: los 63 artículos programados se revisaron uno a uno y se publicaron en ocho tandas a lo largo del día, y los 26 que faltaban se escribieron, verificaron y publicaron ese mismo día, uno a uno.
 
 - `publicacion: AAAA-MM-DD` en el front matter: con fecha futura, `npm run subir` lo deja **programado** a las 8:00; con la fecha de hoy, lo **publica en el momento** (con la hora de la subida, así las portadas de sección, que ordenan por fecha, muestran primero lo último).
 - `npm run subir -- --solo=/categoria/slug/,...` sube solo los artículos indicados. Después hay que hacer una **subida completa** (`npm run subir`) para que los demás artículos enlacen a los nuevos, y `npm run comprobar-web`. Las entradas que no han cambiado no se reescriben.
@@ -111,6 +111,6 @@ Plantilla = borrador que la web ya tenía con foto (se reutiliza y pasa a la URL
 | extra | Plazas libres del Imserso | /imserso/plazas-libres/ | plazas-libres | | publicado 29/09 |
 | extra | Programas de viajes de las comunidades | /imserso/turismo-autonomico/ | turismo-autonomico | | publicado 29/09 |
 
-Los artículos nuevos sin plantilla salen sin foto destacada: hay que añadírsela (fotos CC0, como en la categoría 1).
+Todos los artículos tienen foto destacada: los que no tenían plantilla, con fotos CC0 registradas en `IMAGENES_DESTACADAS` (web.mjs) y en `publicacion/imagenes-destacadas/CREDITOS.md`.
 
-Además, las portadas de categoría (Cuánto cobraré, Viudedad, Incapacidad, Ayudas, Dependencia, Dinero e IMSERSO) necesitan su texto pilar de 600-1.000 palabras en la «zona de redacción» y el número de guías al día.
+Las ocho portadas de sección (Jubilación, Cuánto cobraré, Viudedad, Incapacidad, Ayudas, Dependencia, Dinero e IMSERSO) tienen su texto pilar (720-830 palabras) en `paginas/portadas/<slug>.md`, enlazando todas las guías y calculadoras del tema, y el número de guías sale del shortcode `[jm_cuenta]`. Para cambiarlos: editar el `.md` y ejecutar `node herramientas/publicar/subir-portadas.mjs` (con `--prueba` para ver qué haría).
