@@ -48,7 +48,11 @@ if (!r.ok) {
 }
 console.log('Instalado:', cuerpo);
 
-// La web debe servir ya la hoja de estilos con la versión nueva
-const inicio = await (await fetch(`${WEB}/?v=${Date.now()}`)).text();
-const servida = inicio.match(/jubilometro\.css\?ver=([\w.-]+)/)?.[1] ?? inicio.match(/ver=(\d+\.\d+\.\d+)/)?.[1];
-console.log(servida === version ? `Comprobado: la web usa la versión ${version}.` : `Aviso: la portada anuncia la versión ${servida ?? '(no encontrada)'}; puede ser la caché optimizada de LiteSpeed.`);
+// WordPress debe tener activo el tema con la versión nueva (la portada no sirve para comprobarlo:
+// LiteSpeed renombra las hojas de estilo optimizadas y quita el ?ver=)
+const activo = await (await fetch(`${WEB}/wp-json/wp/v2/themes?status=active&_fields=stylesheet,version`, {
+  headers: { Authorization: `Basic ${Buffer.from(`${WP_USER}:${WP_APP_PASSWORD}`).toString('base64')}` },
+})).json();
+const tema = Array.isArray(activo) ? activo[0] : null;
+if (tema?.stylesheet === 'jubilometro' && tema.version === version) console.log(`Comprobado: el tema activo es Jubilómetro ${version}.`);
+else { console.error('Aviso: el tema activo no es el esperado:', JSON.stringify(activo)); process.exit(1); }
