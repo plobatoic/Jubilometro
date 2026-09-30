@@ -494,6 +494,56 @@ add_filter( 'the_content', function ( $html ) {
 }, 25 );
 
 /*
+ * Tablas en el móvil. Cada celda lleva el nombre de su columna (data-label) y las tablas de tres o más
+ * columnas que no caben en la pantalla se leen como fichas, una por fila: antes la última columna quedaba
+ * cortada en el borde y había que adivinar que se podía deslizar. Para saber si cabe se estima su ancho
+ * mínimo con la palabra más larga de cada columna (7,3 px por carácter y 29 px de márgenes por columna,
+ * ajustado midiendo en el navegador las 131 tablas de la web): más de 325 px no cabe en un móvil de 390
+ * (fichas por debajo de 600 px); más de 260 px, en uno de 360 o menos (fichas por debajo de 380 px).
+ * Las tablas de cifras breves se compactan primero (6,9 px por carácter y 16 px por columna).
+ * La tabla ordenable de datos (data-sort) no se toca.
+ */
+add_filter( 'the_content', 'jm_tablas_moviles', 30 );
+function jm_tablas_moviles( $html ) {
+	if ( false === strpos( $html, '<table class="jm-table"' ) ) { return $html; }
+	return preg_replace_callback( '#<table class="jm-table"([^>]*)>(.*?)</table>#s', function ( $m ) {
+		if ( false !== strpos( $m[2], 'data-sort' ) || ! preg_match( '#<thead>(.*?)</thead>#s', $m[2], $h ) ) { return $m[0]; }
+		$texto  = function ( $t ) { return trim( preg_replace( '/[\s\x{00A0}]+/u', ' ', html_entity_decode( wp_strip_all_tags( $t ), ENT_QUOTES, 'UTF-8' ) ) ); };
+		$larga  = function ( $t ) { $n = 0; foreach ( explode( ' ', $t ) as $w ) { $n = max( $n, mb_strlen( $w ) ); } return $n; };
+		preg_match_all( '#<th\b[^>]*>(.*?)</th>#s', $h[1], $ths );
+		$labels = array_map( $texto, $ths[1] );
+		if ( count( $labels ) < 3 ) { return $m[0]; }
+		$maxw  = array_map( $larga, $labels );
+		$maxc  = array(); // largo de la celda entera: en las tablas de cifras no se parte («1.922,96 €»)
+		$corta = true; // todas las celdas (salvo la primera columna) son cifras o textos breves
+		$body  = preg_replace_callback( '#<tbody>(.*?)</tbody>#s', function ( $b ) use ( $labels, $texto, $larga, &$maxw, &$maxc, &$corta ) {
+			return '<tbody>' . preg_replace_callback( '#<tr\b[^>]*>.*?</tr>#s', function ( $tr ) use ( $labels, $texto, $larga, &$maxw, &$maxc, &$corta ) {
+				$i = 0;
+				return preg_replace_callback( '#<(td|th)\b([^>]*)>(.*?)</\1>#s', function ( $c ) use ( $labels, $texto, $larga, &$maxw, &$maxc, &$corta, &$i ) {
+					$k          = $i++;
+					$t          = $texto( $c[3] );
+					$maxw[ $k ] = max( $maxw[ $k ] ?? 0, $larga( $t ) );
+					$maxc[ $k ] = max( $maxc[ $k ] ?? 0, mb_strlen( $t ) );
+					if ( $k > 0 && mb_strlen( $t ) > 12 ) { $corta = false; }
+					if ( ! isset( $labels[ $k ] ) || '' === $labels[ $k ] || false !== strpos( $c[2], 'data-label' ) ) { return $c[0]; }
+					return '<' . $c[1] . $c[2] . ' data-label="' . esc_attr( $labels[ $k ] ) . '">' . $c[3] . '</' . $c[1] . '>';
+				}, $tr[0] );
+			}, $b[1] ) . '</tbody>';
+		}, $m[2] );
+		// Las de cifras breves se compactan (letra y márgenes menores) y solo pasan a fichas si ni así caben
+		if ( $corta ) {
+			foreach ( $maxw as $k => $n ) { if ( $k > 0 ) { $maxw[ $k ] = max( $n, $maxc[ $k ] ?? 0 ); } }
+		}
+		$ancho = $corta ? 6.9 * array_sum( $maxw ) + 16 * count( $maxw ) : 7.3 * array_sum( $maxw ) + 29 * count( $maxw );
+		// Una tabla larga de cifras se compara mejor como tabla: se queda compacta y, si no cabe, se desliza
+		$muchas = $corta && substr_count( $body, '<tr' ) > 8;
+		$clase = $muchas ? '' : ( $ancho > 325 ? ' jm-table--fichas' : ( $ancho > 260 ? ' jm-table--fichas-sm' : '' ) );
+		$clase .= $corta ? ' jm-table--compacta' : '';
+		return '<table class="jm-table' . $clase . '"' . $m[1] . '>' . $body . '</table>';
+	}, $html );
+}
+
+/*
  * AdSense (anuncios automáticos). Se activa guardando el ID de editor (ca-pub-…) en la opción
  * jm_adsense_client (Ajustes > Generales, o por la API: POST /wp/v2/settings {"jm_adsense_client": "ca-pub-…"}).
  * - La etiqueta google-adsense-account va en todas las páginas (verificación del sitio).

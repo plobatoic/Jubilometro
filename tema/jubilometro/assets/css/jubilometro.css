@@ -1483,3 +1483,49 @@ body:not(.jm-ads-on) li:has(> [data-jm-cookies]), body:not(.jm-ads-on) [data-jm-
 .jm-kv > div { flex-wrap: wrap; row-gap: .15rem; }
 .jm-kv dt { flex: 1 1 7.5rem; min-width: 0; }
 .jm-kv dd { flex: 0 1 auto; margin-left: auto; max-width: 100%; white-space: normal; overflow-wrap: anywhere; }
+
+/* --- Tablas en el móvil (2.1.1) ---
+   Las que no caben (clases que pone functions.php según su ancho mínimo) se leen como fichas: una por
+   fila, con el nombre de cada columna encima de su dato. Las demás siguen como tabla, más compactas. */
+@media (max-width: 599px) {
+  .jm-table { font-size: 1rem; }
+  .jm-table th, .jm-table td { padding: .6rem .7rem; }
+  .jm-table--compacta { font-size: .9375rem; }
+  .jm-table--compacta :is(th, td) { padding: .55rem .4rem; }
+  .jm-table--compacta td:not(:first-child) { white-space: nowrap; }
+  .jm-table--compacta :is(th, td):first-child { padding-left: .7rem; }
+  .jm-table--compacta :is(th, td):last-child { padding-right: .7rem; }
+  .jm-table--fichas, .jm-table--fichas caption, .jm-table--fichas tbody, .jm-table--fichas tr, .jm-table--fichas th, .jm-table--fichas td { display: block; }
+  .jm-table--fichas thead { display: none; }
+  .jm-table--fichas tbody tr { padding: .95rem 1rem 1rem; border-bottom: 1px solid var(--jm-rule); }
+  .jm-table--fichas tbody tr:last-child { border-bottom: 0; }
+  .jm-table--fichas :is(th, td), .jm-table--fichas td.n { padding: 0; border: 0; text-align: left; }
+  .jm-table.jm-table--fichas :is(th, td) { white-space: normal; overflow-wrap: anywhere; }
+  .jm-table--fichas tbody tr > :first-child { font-weight: 700; font-size: 1.0625rem; line-height: 1.35; color: var(--jm-ink); }
+  .jm-table--fichas tbody tr > :first-child::before { display: none; }
+  .jm-table--fichas td { margin-top: .6rem; }
+  .jm-table--fichas tbody tr > td:first-child { margin-top: 0; }
+  .jm-table--fichas tbody tr > :first-child + td { margin-top: .45rem; }
+  .jm-table--fichas td[data-label]::before { content: attr(data-label); display: block; margin-bottom: .1rem; font: 700 .8125rem/1.3 var(--jm-font-body); color: var(--jm-muted); }
+}
+@media (max-width: 379px) {
+  .jm-table--fichas-sm, .jm-table--fichas-sm caption, .jm-table--fichas-sm tbody, .jm-table--fichas-sm tr, .jm-table--fichas-sm th, .jm-table--fichas-sm td { display: block; }
+  .jm-table--fichas-sm thead { display: none; }
+  .jm-table--fichas-sm tbody tr { padding: .95rem 1rem 1rem; border-bottom: 1px solid var(--jm-rule); }
+  .jm-table--fichas-sm tbody tr:last-child { border-bottom: 0; }
+  .jm-table--fichas-sm :is(th, td), .jm-table--fichas-sm td.n { padding: 0; border: 0; text-align: left; }
+  .jm-table.jm-table--fichas-sm :is(th, td) { white-space: normal; overflow-wrap: anywhere; }
+  .jm-table--fichas-sm tbody tr > :first-child { font-weight: 700; font-size: 1.0625rem; line-height: 1.35; color: var(--jm-ink); }
+  .jm-table--fichas-sm tbody tr > :first-child::before { display: none; }
+  .jm-table--fichas-sm td { margin-top: .6rem; }
+  .jm-table--fichas-sm tbody tr > td:first-child { margin-top: 0; }
+  .jm-table--fichas-sm tbody tr > :first-child + td { margin-top: .45rem; }
+  .jm-table--fichas-sm td[data-label]::before { content: attr(data-label); display: block; margin-bottom: .1rem; font: 700 .8125rem/1.3 var(--jm-font-body); color: var(--jm-muted); }
+}
+
+/* Si una tabla no cabe y hay que deslizarla, una sombra en el borde avisa de que sigue
+   (fondos «local» que tapan la sombra al llegar a cada extremo). */
+.jm-table-wrap { background: linear-gradient(to right, var(--jm-sheet) 35%, transparent) left center / 2.5rem 100% no-repeat local, linear-gradient(to left, var(--jm-sheet) 35%, transparent) right center / 2.5rem 100% no-repeat local, radial-gradient(farthest-side at 0 50%, rgb(18 48 79 / .38), transparent) left center / 1.1rem 100% no-repeat scroll, radial-gradient(farthest-side at 100% 50%, rgb(18 48 79 / .38), transparent) right center / 1.1rem 100% no-repeat scroll, var(--jm-sheet); }
+.jm-table-wrap > .jm-table { background: transparent; }
+/* El título de una tabla que se desliza se queda quieto y cabe en la pantalla */
+@media (max-width: 599px) { .jm-table-wrap > .jm-table > caption { position: sticky; left: 0; max-width: calc(100vw - 2rem - 2px); box-sizing: border-box; } }
