@@ -8,7 +8,7 @@ miga: Pensión en el extranjero
 palabra_clave_principal: cobrar pensión viviendo en el extranjero
 intencion: informativa
 fase_plan: F3 (artículo n.º 88)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-01
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,13 +19,13 @@ fuentes_legales:
 
 # Cobrar la pensión española viviendo en el extranjero: qué conservas, qué pierdes y qué trámites hay que hacer
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y el Ministerio de Asuntos Exteriores*
+*Actualizado el 1 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y el Ministerio de Asuntos Exteriores*
 
 > **Respuesta rápida**
 >
 > Puedes irte a vivir a otro país y **seguir cobrando tu pensión contributiva** de la Seguridad Social (jubilación, viudedad, incapacidad), en España o en una cuenta del país donde vivas. Lo que **pierdes** es lo que exige residir en España: el **complemento a mínimos** (en las pensiones causadas desde 2013), la **pensión no contributiva** y el **ingreso mínimo vital**.
 >
-> A cambio, tienes que **acreditar cada año que sigues con vida** («fe de vida»). En 2026 hay **dos plazos**: del 1 de enero al 31 de marzo y **del 1 al 30 de septiembre**. Se hace desde el móvil con la app **VIVESS**, en el consulado o en la consejería de Trabajo. Si no lo haces, se suspende el pago.
+> A cambio, tienes que **acreditar cada año que sigues con vida** («fe de vida»). En 2026 hubo **dos plazos**: del 1 de enero al 31 de marzo y del 1 al 30 de septiembre, que **ya ha terminado**. El próximo, si se mantiene el calendario, será **del 1 de enero al 31 de marzo de 2027**. Se hace desde el móvil con la app **VIVESS**, en el consulado o en la consejería de Trabajo. Si no la acreditas a tiempo, se suspende el pago hasta que lo hagas.
 
 ## Qué conservas y qué pierdes
 
@@ -50,9 +50,11 @@ Los pensionistas de la Seguridad Social española que viven en el extranjero deb
 **Plazos en 2026:**
 
 1. Del **1 de enero al 31 de marzo**.
-2. Del **1 al 30 de septiembre** (segunda acreditación del año).
+2. Del **1 al 30 de septiembre** (segunda acreditación del año; **ya terminado**).
 
-> **Si vives fuera y aún no lo has hecho: el plazo de septiembre termina el 30 de septiembre de 2026.** Si no acreditas la vivencia a tiempo, la Seguridad Social **suspende el pago** de la pensión hasta que regularices tu situación.
+**Próximo plazo:** del **1 de enero al 31 de marzo de 2027**, si la Seguridad Social mantiene el calendario de este año.
+
+> **El plazo de septiembre terminó el 30 de septiembre de 2026.** Si no acreditaste la vivencia a tiempo, la Seguridad Social **suspende el pago** de la pensión hasta que regularices tu situación: hazlo cuanto antes con VIVESS o en el consulado.
 
 **Cómo se hace:**
 
@@ -103,7 +105,7 @@ Sí. Las pensiones contributivas de la Seguridad Social se cobran viviendo fuera
 
 ### ¿Qué es la fe de vida para pensionistas en el extranjero?
 
-La acreditación anual de que sigues con vida. En 2026 hay dos plazos: del 1 de enero al 31 de marzo y del 1 al 30 de septiembre. Se hace con la app VIVESS, en el consulado o en la consejería de Trabajo.
+La acreditación anual de que sigues con vida. En 2026 hubo dos plazos: del 1 de enero al 31 de marzo y del 1 al 30 de septiembre, que ya ha terminado. El próximo, si se mantiene el calendario, será del 1 de enero al 31 de marzo de 2027. Se hace con la app VIVESS, en el consulado o en la consejería de Trabajo.
 
 ### ¿Qué pasa si no hago la fe de vida?
 
@@ -136,4 +138,4 @@ Sí, con el formulario S1 que expide la Seguridad Social, en las mismas condicio
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal ni la información de la Seguridad Social y de las autoridades del país donde vivas. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 1 de octubre de 2026, terminado el plazo de septiembre de la fe de vida; se indica el próximo (enero a marzo de 2027). 29 de septiembre de 2026, primera versión.*

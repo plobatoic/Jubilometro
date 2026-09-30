@@ -14,3 +14,5 @@
 | 10 | Residencia fiscal: más de 183 días en España u otros criterios | Ley del IRPF (BOE-A-2006-20764), art. 9.1 | Texto del BOE | Verificado en BOE |
 | 11 | Escala del IRNR para pensiones: 8 % hasta 12.000 €, 30 % hasta 18.700 €, 40 % en adelante | TRLIRNR (BOE-A-2004-4527), art. 25.1 b) | Texto del BOE | Verificado en BOE |
 | 12 | Ejemplos: complemento de 236,20 € (936,20 − 700); IRNR de 15.000 € = 960 + 900 = 1.860 € | — | Cálculo propio | Cálculo propio |
+
+*1 de octubre de 2026: terminado el plazo de septiembre. El calendario de 2027 (1 de enero a 31 de marzo) se da como previsión, «si se mantiene»; comprobar en enero con el aviso de la Seguridad Social o de los consulados.*
