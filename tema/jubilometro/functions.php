@@ -513,6 +513,11 @@ add_action( 'init', function () {
 		},
 	) );
 } );
+// Al guardar o cambiar el ID se vacía la caché de LiteSpeed: si no, las páginas y /ads.txt
+// (que antes daba 404) seguirían saliendo de la caché sin la etiqueta ni el código.
+add_action( 'add_option_jm_adsense_client', 'jm_adsense_purge' );
+add_action( 'update_option_jm_adsense_client', 'jm_adsense_purge' );
+function jm_adsense_purge() { do_action( 'litespeed_purge_all' ); }
 function jm_adsense_client() {
 	$c = get_option( 'jm_adsense_client', '' );
 	return is_string( $c ) && preg_match( '/^ca-pub-\d{10,20}$/', $c ) ? $c : '';
