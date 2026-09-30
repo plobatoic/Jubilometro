@@ -1547,3 +1547,10 @@ body:not(.jm-ads-on) li:has(> [data-jm-cookies]), body:not(.jm-ads-on) [data-jm-
   .jm-logo svg { width: 30px; height: 30px; }
   .jm-logo span { font-size: 1.12rem; }
 }
+
+/* --- Titulares con palabras largas (2.1.4) ---
+   En 320 px «compatibilidades» no cabía en el H1 (36 px, letra ancha): la página se desplazaba 40 px
+   de lado. Titular algo menor por debajo de 360 px y, como red de seguridad, una palabra que no quepa
+   en la línea se parte en vez de salirse (solo ocurre si de verdad no cabe). */
+h1, h2, h3 { overflow-wrap: break-word; }
+@media (max-width: 359px) { :root { --jm-fs-h1: 1.9rem; } }
