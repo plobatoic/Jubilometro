@@ -2268,3 +2268,10 @@ html body { background: var(--jm-paper) var(--jm-grain); }
 @media (prefers-reduced-motion: reduce) {
   :is(.jm-story__media, .jm-life__media, .jm-pagehead__media, .jm-tile__media, .jm-post__hero, .jm-nl__media) img, .jm-update .jm-cal, .jm-person__mono, .jm-postage { transition: none; }
 }
+
+/* Menú principal: cada opción en una sola línea; entre 1240 y 1399 px, algo más compacto para que quepa */
+.jm-nav > ul > li > a, .jm-nav > ul > li > button { white-space: nowrap; }
+@media (min-width: 1240px) and (max-width: 1399px) {
+  .jm-nav > ul > li > a, .jm-nav > ul > li > button { font-size: 1rem; padding-inline: .55rem; }
+  .jm-header__row { gap: .9rem; }
+}

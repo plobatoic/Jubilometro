@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.4.2' );
+define( 'JM_THEME_VER', '2.4.5' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -110,6 +110,10 @@ add_action( 'wp_footer', function () {
 }, PHP_INT_MAX );
 
 remove_action( 'wp_head', 'print_emoji_detection_script', 7 );
+// XML-RPC (publicar desde aplicaciones antiguas) no se usa: se cierra, que es un blanco habitual de ataques
+add_filter( 'xmlrpc_enabled', '__return_false' );
+add_filter( 'wp_headers', function ( $h ) { unset( $h['X-Pingback'] ); return $h; } );
+remove_action( 'wp_head', 'rsd_link' );
 remove_action( 'wp_print_styles', 'print_emoji_styles' );
 // Sin avisos de conexión a servicios que la web no usa
 add_filter( 'wp_resource_hints', function ( $urls ) {
@@ -452,7 +456,8 @@ add_action( 'pre_get_posts', function ( $q ) {
  *    Las páginas no tienen paginación: /jubilacion/page/2/ también es 404.
  * ------------------------------------------------------------------ */
 add_action( 'template_redirect', function () {
-	if ( is_page() && (int) get_query_var( 'paged' ) > 1 ) {
+	// También la portada: /page/2/ repetía la portada (con noindex) y gastaba rastreo de Google
+	if ( ( is_page() || is_front_page() || is_home() ) && max( (int) get_query_var( 'paged' ), (int) get_query_var( 'page' ) ) > 1 ) {
 		global $wp_query;
 		$wp_query->set_404();
 		status_header( 404 );
