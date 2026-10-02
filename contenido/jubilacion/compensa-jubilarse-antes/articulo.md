@@ -96,6 +96,8 @@ La pensión tributa en el IRPF como rendimiento del trabajo. Una pensión más b
 3. Calcula tu punto de equilibrio con la calculadora de arriba.
 4. Si la diferencia es grande o tu caso es complejo, consulta con un graduado social.
 
+Si tienes 40 años cotizados, sigue también la proposición de ley que quiere eliminar el recorte en ese caso: está en tramitación y no tiene fecha. Lo explicamos en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
+
 ## Preguntas frecuentes
 
 ### ¿Qué es mejor, jubilarse a los 63 o a los 65?

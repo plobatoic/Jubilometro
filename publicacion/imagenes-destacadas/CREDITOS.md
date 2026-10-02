@@ -54,5 +54,6 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `incapacidad-abogado.webp` | /incapacidad/abogado/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/3305593/free-photo-image-law-library-book | Vitrina de madera con libros antiguos encuadernados en piel |
 | `pension-extranjero.webp` | /dinero/pension-extranjero/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5926280/close-globe-world-map-image | Detalle de un globo terráqueo con los países coloreados |
 | `domiciliar-pension.webp` | /dinero/domiciliar-pension/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/3298668/free-photo-image-bank-cc0-creative-commons | Hucha de cerdito rosa sobre un fondo blanco |
+| `anticipada-40-anos.webp` | /jubilacion/anticipada-40-anos-cotizados/ | Open Grid Scheduler (Wikimedia Commons) | CC0 1.0 (dominio público) | https://commons.wikimedia.org/wiki/File:InternationalTimeRecorder.jpg | Antiguo reloj de fichar de los años veinte, con esfera de reloj y una rueda de números de trabajador |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

@@ -97,6 +97,8 @@ Antes de decidir, compara:
 2. La pensión anticipada, con su recorte permanente.
 3. La pensión que tendrías jubilándote más tarde, con más cotización y menos o ningún recorte.
 
+Si tienes 40 años cotizados o más, ten en cuenta que el Congreso tramita una proposición de ley para quitar el recorte en ese caso. Todavía no es ley y no tiene fecha: lo explicamos en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
+
 ## Cómo solicitarla
 
 1. **Inscríbete como demandante de empleo** en cuanto termine tu contrato y renueva la demanda cuando te toque: sin 6 meses de inscripción no hay jubilación involuntaria.

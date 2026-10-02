@@ -190,7 +190,7 @@ Si quieres saber cuánto cobrarás, consulta [cómo se calcula la pensión de ju
 
 Con la ley actual, no: desde 2027 la edad ordinaria queda fijada en 67 años, o 65 con 38 años y 6 meses cotizados. El Gobierno ha desmentido que prepare un retraso de la edad legal, como el supuesto paso a los 71 años que circuló en 2025 ([Telecinco, julio de 2025](https://www.telecinco.es/noticias/economia/pensiones/20250711/gobierno-desmiente-reforma-pensiones-retraso-jubilacion-71-anos_18_016113800.html)).
 
-Lo que sí está en marcha afecta a la jubilación anticipada, no a la edad ordinaria. El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para que quien se jubile anticipadamente con 40 años o más cotizados no sufra recortes, con 178 votos a favor, 33 en contra y 136 abstenciones ([elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html)). Todavía no es ley: está al principio de su tramitación y puede cambiar. Actualizaremos este artículo si se aprueba.
+Lo que sí está en marcha afecta a la jubilación anticipada, no a la edad ordinaria. El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para que quien se jubile anticipadamente con 40 años o más cotizados no sufra recortes, con 178 votos a favor, 33 en contra y 136 abstenciones ([elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html)). Todavía no es ley: está al principio de su tramitación y puede cambiar. Lo seguimos en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
 
 ## Qué hacer si te jubilas en 2027
 

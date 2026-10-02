@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Subida de las pensiones en 2027: cuánto suben y cuándo"
 h1: "Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra"
-meta_descripcion: "Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya."
+meta_descripcion: "Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta septiembre, entre un 3,3 % y un 3,7 %. Cálculo, fechas y tu subida."
 url: /cuanto-cobrare/revalorizacion-pensiones/
 categoria: Cuánto cobraré
 miga: Revalorización 2027
 palabra_clave_principal: subida pensiones 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 33)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-02
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,11 +19,11 @@ fuentes_legales:
 
 # Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
+*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
 
 > **Respuesta rápida**
 >
-> En enero de 2027, las pensiones contributivas subirán lo que marque la **inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026**. Con los datos del INE hasta agosto, esa media va por el **3,16 %**, así que la subida apunta a **entre el 3,1 % y el 3,5 %**. La cifra exacta se sabrá a finales de noviembre.
+> En enero de 2027, las pensiones contributivas subirán lo que marque la **inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026**. Con los datos del INE hasta septiembre (dato adelantado), esa media va por el **3,33 %**, así que la subida apunta a **entre el 3,3 % y el 3,7 %**. La cifra exacta se sabrá a finales de noviembre.
 >
 > La subida se aplica sola, sin pedir nada, y se cobra desde la **pensión de enero**. Las pensiones mínimas y las no contributivas subirán además lo necesario para acercarse al umbral de la pobreza, como marca la ley para 2027.
 
@@ -45,23 +45,25 @@ Estos son los datos que ha publicado el [Instituto Nacional de Estadística (INE
 | Junio de 2026 | 3,2 % |
 | Julio de 2026 | 3,6 % |
 | Agosto de 2026 | 4,3 % |
-| Septiembre, octubre y noviembre de 2026 | Pendientes de publicar |
-| **Media de los nueve meses conocidos** | **3,16 %** |
+| Septiembre de 2026 (dato adelantado) | 4,9 % |
+| Octubre y noviembre de 2026 | Pendientes de publicar |
+| **Media de los diez meses conocidos** | **3,33 %** |
 
 El Gobierno aplica la media **redondeada a un decimal**: en 2026 la media fue del 2,67 % y las pensiones subieron un 2,7 %; en 2025 fue del 2,8 % exacto.
 
 ## Cuánto pueden subir las pensiones en 2027
 
-Faltan tres meses por conocer. Según cómo se comporte la inflación de septiembre a noviembre, la subida quedaría así:
+Faltan dos meses por conocer. Según cómo se comporte la inflación de octubre y noviembre, la subida quedaría así:
 
-<!-- tabla: Subida de las pensiones en 2027 según la inflación de septiembre a noviembre de 2026 -->
-| Si la inflación media de septiembre a noviembre es del… | La subida de 2027 sería del… |
+<!-- tabla: Subida de las pensiones en 2027 según la inflación de octubre y noviembre de 2026 -->
+| Si la inflación media de octubre y noviembre es del… | La subida de 2027 sería del… |
 |---|---|
-| 3,0 % | 3,1 % |
-| 3,5 % | 3,2 % |
+| 3,0 % | 3,3 % |
+| 3,5 % | 3,4 % |
 | 4,0 % | 3,4 % |
-| 4,3 % (como en agosto) | 3,4 % |
 | 4,5 % | 3,5 % |
+| 4,9 % (como en septiembre) | 3,6 % |
+| 5,5 % | 3,7 % |
 
 Es una **estimación con los datos oficiales disponibles**, no una cifra aprobada. La actualizaremos cada mes, cuando el INE publique el dato nuevo.
 
@@ -70,20 +72,20 @@ Es una **estimación con los datos oficiales disponibles**, no una cifra aprobad
 Estas son las subidas en euros al mes, en bruto, según el porcentaje final:
 
 <!-- tabla: Subida mensual de la pensión en 2027 según el porcentaje final (en bruto, 14 pagas) -->
-| Tu pensión en 2026 | Si sube un 3,1 % | Si sube un 3,3 % | Si sube un 3,5 % |
+| Tu pensión en 2026 | Si sube un 3,3 % | Si sube un 3,5 % | Si sube un 3,7 % |
 |---|---|---|---|
-| 1.000 € | +31 € | +33 € | +35 € |
-| 1.200 € | +37,20 € | +39,60 € | +42 € |
-| 1.500 € | +46,50 € | +49,50 € | +52,50 € |
-| 2.000 € | +62 € | +66 € | +70 € |
-| 2.500 € | +77,50 € | +82,50 € | +87,50 € |
-| 3.000 € | +93 € | +99 € | +105 € |
+| 1.000 € | +33 € | +35 € | +37 € |
+| 1.200 € | +39,60 € | +42 € | +44,40 € |
+| 1.500 € | +49,50 € | +52,50 € | +55,50 € |
+| 2.000 € | +66 € | +70 € | +74 € |
+| 2.500 € | +82,50 € | +87,50 € | +92,50 € |
+| 3.000 € | +99 € | +105 € | +111 € |
 
-**Ejemplo: Carmen cobra 1.450 euros de jubilación.** Si la subida es del 3,3 %, su pensión pasa a **1.497,85 euros al mes** (47,85 euros más), casi **670 euros más al año** contando las 14 pagas.
+**Ejemplo: Carmen cobra 1.450 euros de jubilación.** Si la subida es del 3,5 %, su pensión pasa a **1.500,75 euros al mes** (50,75 euros más), unos **710 euros más al año** contando las 14 pagas.
 
 La subida se aplica sobre la pensión **bruta**. Lo que llega al banco puede subir algo menos, porque en enero la Seguridad Social recalcula la retención de IRPF con la pensión nueva. Puedes ver tu cifra neta con la [calculadora de pensión neta](/calculadoras/pension-neta-irpf/).
 
-**Si cobras complemento a mínimos**, la cuenta es distinta: lo que manda es la nueva pensión mínima. Tu pensión propia sube el porcentaje general y el complemento cubre la diferencia hasta la mínima de 2027. Por ejemplo, Rosa cobra 700 euros de pensión propia más 236,20 de complemento para llegar a la mínima de 936,20. En 2027 su pensión propia pasará a 723,10 euros (con un 3,3 %) y cobrará la mínima nueva, que será más alta.
+**Si cobras complemento a mínimos**, la cuenta es distinta: lo que manda es la nueva pensión mínima. Tu pensión propia sube el porcentaje general y el complemento cubre la diferencia hasta la mínima de 2027. Por ejemplo, Rosa cobra 700 euros de pensión propia más 236,20 de complemento para llegar a la mínima de 936,20. En 2027 su pensión propia pasará a 724,50 euros (con un 3,5 %) y cobrará la mínima nueva, que será más alta.
 
 ## Qué pensiones suben y cuánto
 
@@ -116,7 +118,7 @@ En 2026 el camino tuvo un tropiezo: el Congreso no convalidó en enero el primer
 | 2024 | 3,8 % |
 | 2025 | 2,8 % |
 | 2026 | 2,7 % |
-| 2027 | Pendiente (estimación: 3,1 % a 3,5 %) |
+| 2027 | Pendiente (estimación: 3,3 % a 3,7 %) |
 
 Desde 2022 las pensiones suben con la inflación media: es la fórmula de la Ley 21/2021, de garantía del poder adquisitivo de las pensiones. Si la media saliera negativa, las pensiones **no bajarían**: se quedarían igual ([artículo 58.3](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58)).
 
@@ -124,7 +126,7 @@ Desde 2022 las pensiones suben con la inflación media: es la fórmula de la Ley
 
 ### ¿Cuánto subirán las pensiones en 2027?
 
-Lo que salga de la inflación media de diciembre de 2025 a noviembre de 2026, redondeada a un decimal. Con los datos hasta agosto, la media va por el 3,16 % y la subida apunta a entre el 3,1 % y el 3,5 %.
+Lo que salga de la inflación media de diciembre de 2025 a noviembre de 2026, redondeada a un decimal. Con los datos hasta septiembre, la media va por el 3,33 % y la subida apunta a entre el 3,3 % y el 3,7 %.
 
 ### ¿Cuándo se sabrá la subida definitiva?
 
@@ -163,4 +165,4 @@ No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la m
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*
+*Historial de cambios: 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*

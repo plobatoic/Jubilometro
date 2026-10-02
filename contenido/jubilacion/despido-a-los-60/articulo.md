@@ -61,7 +61,7 @@ Ojo a la cotización: si antes cotizabas por una base alta, pasar a cotizar por 
 Tienes dos caminos:
 
 - **Esperar a tu edad ordinaria** cobrando el subsidio: te jubilas sin recorte, aunque con las cotizaciones del subsidio en tu base reguladora.
-- **Pedir la jubilación anticipada involuntaria**: en 2027, **desde los 61 años si tienes 38 años y 6 meses cotizados** o desde los 63 con menos (y al menos 33). Recorte de hasta el 30 % si adelantas 4 años. Consulta los requisitos en [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/).
+- **Pedir la jubilación anticipada involuntaria**: en 2027, **desde los 61 años si tienes 38 años y 6 meses cotizados** o desde los 63 con menos (y al menos 33). Recorte de hasta el 30 % si adelantas 4 años. Consulta los requisitos en [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/). Con 40 años cotizados, sigue la proposición de ley que quiere eliminar ese recorte: [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
 
 ## Ejemplo: Pedro, despedido a los 60 con 39 años cotizados
 

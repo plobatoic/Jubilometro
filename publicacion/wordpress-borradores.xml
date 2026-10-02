@@ -4472,11 +4472,11 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE</p>
+<p class="meta">Actualizado el <time datetime="2026-10-02">2 de octubre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
-<p>En enero de 2027, las pensiones contributivas subirán lo que marque la <strong>inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026</strong>. Con los datos del INE hasta agosto, esa media va por el <strong>3,16 %</strong>, así que la subida apunta a <strong>entre el 3,1 % y el 3,5 %</strong>. La cifra exacta se sabrá a finales de noviembre.</p>
+<p>En enero de 2027, las pensiones contributivas subirán lo que marque la <strong>inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026</strong>. Con los datos del INE hasta septiembre (dato adelantado), esa media va por el <strong>3,33 %</strong>, así que la subida apunta a <strong>entre el 3,3 % y el 3,7 %</strong>. La cifra exacta se sabrá a finales de noviembre.</p>
 <p>La subida se aplica sola, sin pedir nada, y se cobra desde la <strong>pensión de enero</strong>. Las pensiones mínimas y las no contributivas subirán además lo necesario para acercarse al umbral de la pobreza, como marca la ley para 2027.</p>
 </aside>
 <h2 id="como-se-calcula-la-subida-de-las-pensiones">Cómo se calcula la subida de las pensiones</h2>
@@ -4527,45 +4527,53 @@
 <td>4,3 %</td>
 </tr>
 <tr>
-<th scope="row">Septiembre, octubre y noviembre de 2026</th>
+<th scope="row">Septiembre de 2026 (dato adelantado)</th>
+<td>4,9 %</td>
+</tr>
+<tr>
+<th scope="row">Octubre y noviembre de 2026</th>
 <td>Pendientes de publicar</td>
 </tr>
 <tr>
-<th scope="row"><strong>Media de los nueve meses conocidos</strong></th>
-<td><strong>3,16 %</strong></td>
+<th scope="row"><strong>Media de los diez meses conocidos</strong></th>
+<td><strong>3,33 %</strong></td>
 </tr>
 </tbody></table>
 </div>
 <p>El Gobierno aplica la media <strong>redondeada a un decimal</strong>: en 2026 la media fue del 2,67 % y las pensiones subieron un 2,7 %; en 2025 fue del 2,8 % exacto.</p>
 <h2 id="cuanto-pueden-subir-las-pensiones-en-2027">Cuánto pueden subir las pensiones en 2027</h2>
-<p>Faltan tres meses por conocer. Según cómo se comporte la inflación de septiembre a noviembre, la subida quedaría así:</p>
+<p>Faltan dos meses por conocer. Según cómo se comporte la inflación de octubre y noviembre, la subida quedaría así:</p>
 <div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
-<table><caption id="tabla-2">Subida de las pensiones en 2027 según la inflación de septiembre a noviembre de 2026</caption>
+<table><caption id="tabla-2">Subida de las pensiones en 2027 según la inflación de octubre y noviembre de 2026</caption>
 <thead>
 <tr>
-<th scope="col">Si la inflación media de septiembre a noviembre es del…</th>
+<th scope="col">Si la inflación media de octubre y noviembre es del…</th>
 <th scope="col">La subida de 2027 sería del…</th>
 </tr>
 </thead>
 <tbody><tr>
 <th scope="row">3,0 %</th>
-<td>3,1 %</td>
+<td>3,3 %</td>
 </tr>
 <tr>
 <th scope="row">3,5 %</th>
-<td>3,2 %</td>
+<td>3,4 %</td>
 </tr>
 <tr>
 <th scope="row">4,0 %</th>
 <td>3,4 %</td>
 </tr>
 <tr>
-<th scope="row">4,3 % (como en agosto)</th>
-<td>3,4 %</td>
-</tr>
-<tr>
 <th scope="row">4,5 %</th>
 <td>3,5 %</td>
+</tr>
+<tr>
+<th scope="row">4,9 % (como en septiembre)</th>
+<td>3,6 %</td>
+</tr>
+<tr>
+<th scope="row">5,5 %</th>
+<td>3,7 %</td>
 </tr>
 </tbody></table>
 </div>
@@ -4577,52 +4585,52 @@
 <thead>
 <tr>
 <th scope="col">Tu pensión en 2026</th>
-<th scope="col">Si sube un 3,1 %</th>
 <th scope="col">Si sube un 3,3 %</th>
 <th scope="col">Si sube un 3,5 %</th>
+<th scope="col">Si sube un 3,7 %</th>
 </tr>
 </thead>
 <tbody><tr>
 <th scope="row">1.000 €</th>
-<td>+31 €</td>
 <td>+33 €</td>
 <td>+35 €</td>
+<td>+37 €</td>
 </tr>
 <tr>
 <th scope="row">1.200 €</th>
-<td>+37,20 €</td>
 <td>+39,60 €</td>
 <td>+42 €</td>
+<td>+44,40 €</td>
 </tr>
 <tr>
 <th scope="row">1.500 €</th>
-<td>+46,50 €</td>
 <td>+49,50 €</td>
 <td>+52,50 €</td>
+<td>+55,50 €</td>
 </tr>
 <tr>
 <th scope="row">2.000 €</th>
-<td>+62 €</td>
 <td>+66 €</td>
 <td>+70 €</td>
+<td>+74 €</td>
 </tr>
 <tr>
 <th scope="row">2.500 €</th>
-<td>+77,50 €</td>
 <td>+82,50 €</td>
 <td>+87,50 €</td>
+<td>+92,50 €</td>
 </tr>
 <tr>
 <th scope="row">3.000 €</th>
-<td>+93 €</td>
 <td>+99 €</td>
 <td>+105 €</td>
+<td>+111 €</td>
 </tr>
 </tbody></table>
 </div>
-<p><strong>Ejemplo: Carmen cobra 1.450 euros de jubilación.</strong> Si la subida es del 3,3 %, su pensión pasa a <strong>1.497,85 euros al mes</strong> (47,85 euros más), casi <strong>670 euros más al año</strong> contando las 14 pagas.</p>
+<p><strong>Ejemplo: Carmen cobra 1.450 euros de jubilación.</strong> Si la subida es del 3,5 %, su pensión pasa a <strong>1.500,75 euros al mes</strong> (50,75 euros más), unos <strong>710 euros más al año</strong> contando las 14 pagas.</p>
 <p>La subida se aplica sobre la pensión <strong>bruta</strong>. Lo que llega al banco puede subir algo menos, porque en enero la Seguridad Social recalcula la retención de IRPF con la pensión nueva. Puedes ver tu cifra neta con la calculadora de pensión neta.</p>
-<p><strong>Si cobras complemento a mínimos</strong>, la cuenta es distinta: lo que manda es la nueva pensión mínima. Tu pensión propia sube el porcentaje general y el complemento cubre la diferencia hasta la mínima de 2027. Por ejemplo, Rosa cobra 700 euros de pensión propia más 236,20 de complemento para llegar a la mínima de 936,20. En 2027 su pensión propia pasará a 723,10 euros (con un 3,3 %) y cobrará la mínima nueva, que será más alta.</p>
+<p><strong>Si cobras complemento a mínimos</strong>, la cuenta es distinta: lo que manda es la nueva pensión mínima. Tu pensión propia sube el porcentaje general y el complemento cubre la diferencia hasta la mínima de 2027. Por ejemplo, Rosa cobra 700 euros de pensión propia más 236,20 de complemento para llegar a la mínima de 936,20. En 2027 su pensión propia pasará a 724,50 euros (con un 3,5 %) y cobrará la mínima nueva, que será más alta.</p>
 <h2 id="que-pensiones-suben-y-cuanto">Qué pensiones suben y cuánto</h2>
 <ul>
 <li><strong>Pensiones contributivas</strong> de jubilación, incapacidad permanente, viudedad, orfandad y a favor de familiares, y las de <strong>Clases Pasivas</strong> (funcionarios): el porcentaje general.</li>
@@ -4673,14 +4681,14 @@
 </tr>
 <tr>
 <th scope="row">2027</th>
-<td>Pendiente (estimación: 3,1 % a 3,5 %)</td>
+<td>Pendiente (estimación: 3,3 % a 3,7 %)</td>
 </tr>
 </tbody></table>
 </div>
 <p>Desde 2022 las pensiones suben con la inflación media: es la fórmula de la Ley 21/2021, de garantía del poder adquisitivo de las pensiones. Si la media saliera negativa, las pensiones <strong>no bajarían</strong>: se quedarían igual (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">artículo 58.3</a>).</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="cuanto-subiran-las-pensiones-en-2027">¿Cuánto subirán las pensiones en 2027?</h3>
-<p>Lo que salga de la inflación media de diciembre de 2025 a noviembre de 2026, redondeada a un decimal. Con los datos hasta agosto, la media va por el 3,16 % y la subida apunta a entre el 3,1 % y el 3,5 %.</p>
+<p>Lo que salga de la inflación media de diciembre de 2025 a noviembre de 2026, redondeada a un decimal. Con los datos hasta septiembre, la media va por el 3,33 % y la subida apunta a entre el 3,3 % y el 3,7 %.</p>
 <h3 id="cuando-se-sabra-la-subida-definitiva">¿Cuándo se sabrá la subida definitiva?</h3>
 <p>A finales de noviembre de 2026, cuando el INE publique el dato adelantado del IPC de noviembre. El Gobierno la aprueba a finales de diciembre.</p>
 <h3 id="cuando-se-cobra-la-subida">¿Cuándo se cobra la subida?</h3>
@@ -4708,13 +4716,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.</p>
+<p>Historial de cambios: 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.</p>
 </footer>
 ]]></content:encoded>
-    <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></excerpt:encoded>
+    <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta septiembre, entre un 3,3 % y un 3,7 %. Cálculo, fechas y tu subida.]]></excerpt:encoded>
     <wp:post_id>9024</wp:post_id>
-    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[revalorizacion-pensiones]]></wp:post_name>
@@ -4726,10 +4734,10 @@
     <wp:is_sticky>0</wp:is_sticky>
     <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Subida de las pensiones en 2027: cuánto suben y cuándo]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta septiembre, entre un 3,3 % y un 3,7 %. Cálculo, fechas y tu subida.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[subida pensiones 2027]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Subida de las pensiones en 2027: cuánto suben y cuándo]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta agosto, entre un 3,1 % y un 3,5 %. Cálculo, fechas y cuánto sube la tuya.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta septiembre, entre un 3,3 % y un 3,7 %. Cálculo, fechas y tu subida.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[subida pensiones 2027]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
@@ -13844,6 +13852,230 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Jubilación anticipada con 40 años cotizados sin penalización: qué propone la ley y qué pasa hoy]]></title>
+    <link>https://jubilometro.com/jubilacion/anticipada-40-anos-cotizados/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-10-02">2 de octubre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el Boletín de las Cortes y el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p><strong>Todavía no es ley.</strong> El 22 de septiembre de 2026 el Congreso aceptó tramitar una proposición de ley para que quien se jubile anticipadamente con <strong>40 años cotizados</strong> no sufra <strong>ningún recorte</strong> en su pensión, tanto si se jubila por decisión propia como si lo hace tras un despido. Ahora le quedan las enmiendas, la votación final en el Congreso y el paso por el Senado, y <strong>no tiene fecha</strong>.</p>
+<p>Mientras tanto, rige la ley actual: con 40 años cotizados, jubilarte <strong>2 años antes</strong> por voluntad propia te cuesta un <strong>19 %</strong> de pensión para siempre, y si te despidieron y adelantas <strong>4 años</strong>, un <strong>28 %</strong>.</p>
+</aside>
+<h2 id="que-propone-la-ley-de-jubilacion-sin-penalizacion">Qué propone la ley de jubilación sin penalización</h2>
+<p>Es la <strong>Proposición de Ley de jubilación sin penalización</strong>, que Podemos registró en el Congreso, dentro del Grupo Mixto, el 23 de mayo de 2024 (expediente 122/000105). Su texto, publicado en el <a href="https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-1.PDF" rel="noopener">Boletín Oficial de las Cortes Generales del 31 de mayo de 2024</a>, cambia dos artículos de la Ley General de la Seguridad Social (LGSS) y añade una regla para quienes ya están jubilados:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Qué cambiaría la proposición de ley de jubilación sin penalización</caption>
+<thead>
+<tr>
+<th scope="col">Qué cambia</th>
+<th scope="col">Hoy</th>
+<th scope="col">Con la proposición de ley</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Jubilación anticipada involuntaria (artículo 207)</th>
+<td>Recorte de hasta el 30 % según los meses de adelanto y los años cotizados</td>
+<td>Sin recorte si acreditas 40 años cotizados</td>
+</tr>
+<tr>
+<th scope="row">Jubilación anticipada voluntaria (artículo 208)</th>
+<td>Recorte de hasta el 21 %</td>
+<td>Sin recorte si acreditas 40 años cotizados</td>
+</tr>
+<tr>
+<th scope="row">Personas ya jubiladas con 40 años cotizados</th>
+<td>Mantienen el recorte de por vida</td>
+<td>Podrían pedir al INSS que recalcule su pensión; la subida contaría desde la fecha de la solicitud</td>
+</tr>
+<tr>
+<th scope="row">Entrada en vigor</th>
+<td>—</td>
+<td>El mismo día de su publicación en el BOE</td>
+</tr>
+</tbody></table>
+</div>
+<p>La frase clave que añade a los dos artículos es esta: «No procederá aplicar reducción alguna cuando el trabajador acredite un período de cotización de 40 años».</p>
+<p><strong>Lo que no cambia.</strong> El texto mantiene el resto de los requisitos de cada modalidad:</p>
+<ul>
+<li><strong>Voluntaria:</strong> 35 años de cotización efectiva, un adelanto máximo de <strong>2 años</strong> y una pensión que supere la mínima que te correspondería a los 65 años.</li>
+<li><strong>Involuntaria:</strong> 33 años cotizados, un adelanto máximo de <strong>4 años</strong>, 6 meses inscrito como demandante de empleo y un cese por una causa ajena a tu voluntad (despido colectivo, objetivo, cierre de la empresa…).</li>
+</ul>
+<p>Es decir, la proposición no te deja jubilarte antes de lo que ya permite la ley: solo quita el recorte a quien llegue a los 40 años cotizados.</p>
+<h2 id="que-pasa-hoy-si-te-jubilas-antes-con-40-anos-cotizados">Qué pasa hoy si te jubilas antes con 40 años cotizados</h2>
+<p>Con 40 años cotizados ya tienes una ventaja: como superas los 38 años y 6 meses, tu edad ordinaria de jubilación es <strong>65 años</strong> (lo explicamos en <a href="/jubilacion/edad-de-jubilacion/">edad de jubilación en 2027</a>). Desde ahí se cuenta el adelanto:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Jubilación anticipada con 40 años cotizados en 2027: edad mínima y recorte</caption>
+<thead>
+<tr>
+<th scope="col">Modalidad</th>
+<th scope="col">Edad mínima</th>
+<th scope="col">Recorte si adelantas 1 mes</th>
+<th scope="col">Recorte con el adelanto máximo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Voluntaria</th>
+<td>63 años</td>
+<td>3,11 %</td>
+<td>19 % (24 meses)</td>
+</tr>
+<tr>
+<th scope="row">Involuntaria (despido, ERE…)</th>
+<td>61 años</td>
+<td>Menor que en la voluntaria</td>
+<td>28 % (48 meses)</td>
+</tr>
+</tbody></table>
+</div>
+<p>Son los porcentajes del tramo de <strong>38 años y 6 meses a menos de 41 años y 6 meses</strong> cotizados, que es en el que están quienes tienen 40 años. El recorte se aplica por cada mes o fracción de mes que adelantes, sobre la cuantía de la pensión, y <strong>no desaparece</strong> al cumplir los 65: se mantiene toda la vida. Tienes la tabla completa en las guías de <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria</a> y de <a href="/jubilacion/anticipada-involuntaria/">jubilación anticipada involuntaria</a>.</p>
+<h3 id="dos-ejemplos-con-cifras">Dos ejemplos con cifras</h3>
+<p>Los ejemplos usan bases reguladoras redondas para que se vea el efecto del recorte. Los dos superan los 37 años cotizados, así que parten del 100 % de su base reguladora.</p>
+<p><strong>1. Elena, 40 años y 2 meses cotizados, quiere jubilarse a los 63 por voluntad propia.</strong> Adelanta 24 meses respecto a su edad ordinaria de 65, con un recorte del <strong>19 %</strong>. Con una base reguladora de 1.800 euros, cobraría <strong>1.458 euros al mes</strong>: 342 euros menos en cada una de las 14 pagas, unos <strong>4.788 euros menos al año</strong>. Con la proposición de ley aprobada tal como está, cobraría los 1.800 euros.</p>
+<p><strong>2. José, 41 años cotizados, despedido en un ERE a los 60.</strong> Tras 6 meses en el paro, puede jubilarse a los 61 de forma involuntaria: adelanta 48 meses, con un recorte del <strong>28 %</strong>. Con una base reguladora de 2.000 euros, cobraría <strong>1.440 euros al mes</strong> en lugar de 2.000: 560 euros menos por paga, <strong>7.840 euros menos al año</strong>. Con la proposición aprobada, no tendría recorte.</p>
+<p>Tus cifras salen de tus propias cotizaciones: puedes ver tu recorte exacto, mes a mes, con nuestra calculadora de jubilación anticipada.</p>
+<h2 id="a-quien-afectaria">A quién afectaría</h2>
+<p>Si se aprueba con el texto actual, se beneficiarían:</p>
+<ul>
+<li><strong>Quien se jubile anticipadamente a partir de su entrada en vigor</strong> con 40 años cotizados o más, por voluntad propia o tras un despido.</li>
+<li><strong>Quien ya esté jubilado anticipadamente</strong> con 40 años cotizados: podría pedir al INSS que recalcule su pensión. Según el texto, la subida se aplicaría <strong>desde la fecha de la solicitud</strong>, no desde que se jubiló, así que no habría atrasos de los años anteriores.</li>
+</ul>
+<p>Hay tres matices que conviene tener claros:</p>
+<ul>
+<li><strong>El salto sería brusco.</strong> Con 39 años y 11 meses cotizados seguirías teniendo el recorte completo de tu tramo (hasta un 19 % en la voluntaria) y con 40 años, ninguno. La exposición de motivos habla de un «consiguiente ajuste a los coeficientes existentes», pero el articulado no lo concreta, así que es uno de los puntos que pueden cambiar con las enmiendas.</li>
+<li><strong>Cómo se cuentan los 40 años.</strong> El texto dice «un período de cotización de 40 años», sin más detalle. Si cuentan o no, por ejemplo, la mili o las pagas extra dependerá de la redacción final.</li>
+<li><strong>Quien ya cotiza 44 años y 6 meses o más</strong> tiene hoy el recorte más bajo (un 13 % en la voluntaria con 24 meses de adelanto); con la proposición también quedaría a cero.</li>
+</ul>
+<p>EH Bildu cifró en el debate en unas <strong>870.000</strong> las personas afectadas por estos recortes, según <a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es</a>. No hay una cifra oficial publicada.</p>
+<h2 id="en-que-punto-esta-y-cuando-podria-aprobarse">En qué punto está y cuándo podría aprobarse</h2>
+<p>La toma en consideración es solo el primer paso: el Congreso acepta debatir el texto, pero aún puede modificarlo, dejarlo parado o rechazarlo.</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Tramitación de la proposición de ley de jubilación sin penalización</caption>
+<thead>
+<tr>
+<th scope="col">Paso</th>
+<th scope="col">Fecha</th>
+<th scope="col">Situación</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Registro en el Congreso</th>
+<td>23 de mayo de 2024</td>
+<td>Hecho</td>
+</tr>
+<tr>
+<th scope="row">Publicación en el Boletín Oficial de las Cortes Generales</th>
+<td>31 de mayo de 2024</td>
+<td>Hecho</td>
+</tr>
+<tr>
+<th scope="row">Toma en consideración en el Pleno del Congreso</th>
+<td>22 de septiembre de 2026</td>
+<td>Aprobada: 178 votos a favor, 33 en contra y 136 abstenciones</td>
+</tr>
+<tr>
+<th scope="row">Enmiendas y debate en comisión</th>
+<td>Sin fecha</td>
+<td>En curso</td>
+</tr>
+<tr>
+<th scope="row">Votación en el Pleno del Congreso</th>
+<td>Sin fecha</td>
+<td>Pendiente</td>
+</tr>
+<tr>
+<th scope="row">Senado</th>
+<td>Sin fecha</td>
+<td>Pendiente: tiene dos meses para enmendarla o vetarla</td>
+</tr>
+<tr>
+<th scope="row">Publicación en el BOE</th>
+<td>Sin fecha</td>
+<td>Pendiente: entraría en vigor ese mismo día</td>
+</tr>
+</tbody></table>
+</div>
+<p>Salió adelante con el apoyo del PSOE y de Podemos, que la presentó; el PP se abstuvo y Vox votó en contra (<a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es</a>). Es previsible que el debate pase por la Comisión del Pacto de Toledo, donde se discuten los cambios en las pensiones.</p>
+<p>Hay dos motivos para la prudencia:</p>
+<ul>
+<li><strong>En junio de 2026 el Congreso rechazó una medida parecida</strong>, presentada por Podemos en otra iniciativa, con los votos de PSOE y PP (<a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es</a>).</li>
+<li><strong>Tiene un coste alto.</strong> Según estimaciones que había manejado el Gobierno, eliminar estos coeficientes costaría unos <strong>3.358 millones de euros al año</strong>: 1.345 millones por las jubilaciones voluntarias y 2.013 millones por las involuntarias (<a href="https://www.publico.es/sociedad/jubilarse-40-anos-cotizados-penalizacion-sabe-ahora-te-puedes-jubilar.html" rel="noopener">Público</a>).</li>
+</ul>
+<p>Muchas proposiciones de ley pasan meses en la fase de enmiendas, y algunas no llegan a votarse antes de que termine la legislatura. Por eso no se puede dar una fecha.</p>
+<h2 id="me-conviene-esperar-a-que-se-apruebe">¿Me conviene esperar a que se apruebe?</h2>
+<p>Depende de tu situación, y no podemos decidirlo por ti, pero estas ideas ayudan:</p>
+<ul>
+<li><strong>No tomes una decisión irreversible contando con una ley que no existe.</strong> El texto puede cambiar, retrasarse o no aprobarse.</li>
+<li><strong>Según el texto actual, jubilarte ahora no te dejaría fuera:</strong> quien ya esté jubilado con 40 años cotizados podría pedir el recálculo. Pero perderías la diferencia de todos los meses hasta que la ley entre en vigor y la pidas, y ese punto también puede cambiar.</li>
+<li><strong>Si te faltan pocos meses para los 65</strong>, recuerda que adelantar un solo mes ya cuesta un 3,11 % de pensión de por vida en la voluntaria: esperar esos meses suele salir más a cuenta.</li>
+<li><strong>Si estás en el paro</strong>, comprueba si cobras el <a href="/jubilacion/subsidio-mayores-52/">subsidio para mayores de 52 años</a>, que cotiza para la jubilación, o si te interesa suscribir un <a href="/jubilacion/convenio-especial/">convenio especial con la Seguridad Social</a> para seguir sumando años.</li>
+<li><strong>Compara siempre con cifras.</strong> Lo hacemos para los 63, 64 y 65 años en <a href="/jubilacion/compensa-jubilarse-antes/">¿compensa jubilarse antes?</a>.</li>
+</ul>
+<h2 id="formas-de-jubilarse-antes-sin-recorte-que-ya-existen">Formas de jubilarse antes sin recorte que ya existen</h2>
+<p>Hoy ya hay casos en los que adelantar la jubilación no reduce la pensión:</p>
+<ul>
+<li><strong>Discapacidad:</strong> con un grado igual o superior al 45 % o al 65 %, según el caso, la edad se rebaja sin recorte. Lo explicamos en <a href="/jubilacion/anticipada-discapacidad/">jubilación anticipada por discapacidad</a>.</li>
+<li><strong>Profesiones penosas o peligrosas:</strong> bomberos, policías locales, agentes forestales, mineros, trabajadores del mar o personal de vuelo, entre otros, tienen coeficientes que rebajan la edad, no la pensión. Lo vemos en <a href="/jubilacion/anticipada-por-profesion/">jubilación anticipada por profesión</a>.</li>
+<li><strong>Jubilación parcial:</strong> permite reducir la jornada antes de la edad ordinaria compatibilizando sueldo y pensión, con sus propios requisitos. Está en <a href="/jubilacion/parcial/">jubilación parcial</a>.</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="ya-me-puedo-jubilar-con-40-anos-cotizados-sin-penalizacion">¿Ya me puedo jubilar con 40 años cotizados sin penalización?</h3>
+<p>No. A 2 de octubre de 2026 la proposición de ley solo ha superado la toma en consideración en el Congreso. Hasta que se apruebe y se publique en el BOE, quien se jubila anticipadamente con 40 años cotizados sigue teniendo el recorte de la ley actual.</p>
+<h3 id="con-40-anos-cotizados-a-que-edad-me-puedo-jubilar-en-2027">¿Con 40 años cotizados a qué edad me puedo jubilar en 2027?</h3>
+<p>A los 65 años con la pensión completa, porque superas los 38 años y 6 meses. De forma anticipada, desde los 63 si es voluntaria y desde los 61 si es involuntaria, con recorte.</p>
+<h3 id="cuanto-pierdo-hoy-si-me-jubilo-a-los-63-con-40-anos-cotizado">¿Cuánto pierdo hoy si me jubilo a los 63 con 40 años cotizados?</h3>
+<p>Un 19 % de tu pensión, de por vida, porque adelantas 24 meses y estás en el tramo de 38 años y 6 meses a menos de 41 años y 6 meses cotizados.</p>
+<h3 id="si-me-jubilo-ahora-y-luego-se-aprueba-la-ley-me-devolveran-l">Si me jubilo ahora y luego se aprueba la ley, ¿me devolverán lo perdido?</h3>
+<p>Según el texto actual, podrías pedir al INSS que recalcule tu pensión, pero la subida contaría desde la fecha de la solicitud: no recuperarías lo que dejaste de cobrar antes. Ese punto puede cambiar durante la tramitación.</p>
+<h3 id="cambia-la-edad-minima-para-jubilarse-anticipadamente">¿Cambia la edad mínima para jubilarse anticipadamente?</h3>
+<p>No. La proposición mantiene los adelantos máximos actuales: 2 años en la voluntaria y 4 en la involuntaria. Solo elimina el recorte de la pensión con 40 años cotizados.</p>
+<h3 id="cuando-se-aprobara">¿Cuándo se aprobará?</h3>
+<p>No hay fecha. Faltan las enmiendas, la votación final en el Congreso y el Senado. Actualizaremos esta guía con cada paso.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-1.PDF" rel="noopener">Proposición de Ley de jubilación sin penalización, Boletín Oficial de las Cortes Generales, serie B, núm. 117-1 (31 de mayo de 2024)</a>.</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a207" rel="noopener">Ley General de la Seguridad Social, artículos 207 y 208</a> (BOE).</li>
+<li><a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es: el Congreso aprueba tramitar la jubilación anticipada sin penalizaciones con 40 años cotizados (23 de septiembre de 2026)</a>.</li>
+<li><a href="https://www.publico.es/sociedad/jubilarse-40-anos-cotizados-penalizacion-sabe-ahora-te-puedes-jubilar.html" rel="noopener">Público: jubilarse con 40 años cotizados sin penalización (24 de septiembre de 2026)</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Cuánto perderías hoy? Mira los recortes mes a mes en la guía de <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria</a>.</li>
+<li>¿Te han despedido? Lee la guía de <a href="/jubilacion/anticipada-involuntaria/">jubilación anticipada involuntaria</a> y la de <a href="/jubilacion/despido-a-los-60/">despido a los 60</a>.</li>
+<li>¿Cuándo es tu edad ordinaria? Calcúlala con la calculadora de la edad de jubilación.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Recoge una proposición de ley en tramitación, que puede cambiar o no aprobarse. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 2 de octubre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[El Congreso tramita quitar el recorte a quien se jubile antes con 40 años cotizados. Qué dice la ley, cuándo podría aprobarse y cuánto pierdes hoy.]]></excerpt:encoded>
+    <wp:post_id>9080</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[anticipada-40-anos-cotizados]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación anticipada con 40 años cotizados sin penalización]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El Congreso tramita quitar el recorte a quien se jubile antes con 40 años cotizados. Qué dice la ley, cuándo podría aprobarse y cuánto pierdes hoy.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[jubilación anticipada 40 años cotizados sin penalización]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación anticipada con 40 años cotizados sin penalización]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El Congreso tramita quitar el recorte a quien se jubile antes con 40 años cotizados. Qué dice la ley, cuándo podría aprobarse y cuánto pierdes hoy.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[jubilación anticipada 40 años cotizados sin penalización]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Jubilación anticipada por discapacidad: grados y edades mínimas]]></title>
     <link>https://jubilometro.com/jubilacion/anticipada-discapacidad/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -13957,7 +14189,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9080</wp:post_id>
+    <wp:post_id>9081</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14098,6 +14330,7 @@
 <li>La pensión anticipada, con su recorte permanente.</li>
 <li>La pensión que tendrías jubilándote más tarde, con más cotización y menos o ningún recorte.</li>
 </ol>
+<p>Si tienes 40 años cotizados o más, ten en cuenta que el Congreso tramita una proposición de ley para quitar el recorte en ese caso. Todavía no es ley y no tiene fecha: lo explicamos en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados sin penalización</a>.</p>
 <h2 id="como-solicitarla">Cómo solicitarla</h2>
 <ol>
 <li><strong>Inscríbete como demandante de empleo</strong> en cuanto termine tu contrato y renueva la demanda cuando te toque: sin 6 meses de inscripción no hay jubilación involuntaria.</li>
@@ -14138,7 +14371,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9081</wp:post_id>
+    <wp:post_id>9082</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14294,7 +14527,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9082</wp:post_id>
+    <wp:post_id>9083</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14447,7 +14680,7 @@
 </ol>
 <p>Te lo contamos paso a paso en <a href="/jubilacion/solicitar-jubilacion-internet/">cómo solicitar la jubilación por internet</a>.</p>
 <h2 id="va-a-cambiar">¿Va a cambiar?</h2>
-<p>El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para eliminar los coeficientes reductores a quien se jubile anticipadamente con <strong>40 años o más cotizados</strong> (178 votos a favor, 33 en contra y 136 abstenciones, según <a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es</a>). <strong>Todavía no es ley</strong>: está al principio de su tramitación y puede cambiar o no aprobarse. Si tu decisión depende de ella, espera a que se apruebe antes de jubilarte. Actualizaremos este artículo en cuanto haya novedades.</p>
+<p>El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para eliminar los coeficientes reductores a quien se jubile anticipadamente con <strong>40 años o más cotizados</strong> (178 votos a favor, 33 en contra y 136 abstenciones, según <a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es</a>). <strong>Todavía no es ley</strong>: está al principio de su tramitación y puede cambiar o no aprobarse. Si tu decisión depende de ella, espera a que se apruebe antes de jubilarte. Explicamos qué dice el texto, a quién afectaría y en qué punto está en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados sin penalización</a>.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="cuantos-anos-hay-que-cotizar-para-jubilarse-anticipadamente">¿Cuántos años hay que cotizar para jubilarse anticipadamente de forma voluntaria?</h3>
 <p>35 años de cotización efectiva, 2 de ellos dentro de los últimos 15. Para jubilarte a los 63 en 2027 necesitas, además, 38 años y 6 meses, porque así tu edad ordinaria es 65.</p>
@@ -14482,7 +14715,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9083</wp:post_id>
+    <wp:post_id>9084</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14641,7 +14874,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9084</wp:post_id>
+    <wp:post_id>9085</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14834,6 +15067,7 @@
 <li>Calcula tu punto de equilibrio con la calculadora de arriba.</li>
 <li>Si la diferencia es grande o tu caso es complejo, consulta con un graduado social.</li>
 </ol>
+<p>Si tienes 40 años cotizados, sigue también la proposición de ley que quiere eliminar el recorte en ese caso: está en tramitación y no tiene fecha. Lo explicamos en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados sin penalización</a>.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="que-es-mejor-jubilarse-a-los-63-o-a-los-65">¿Qué es mejor, jubilarse a los 63 o a los 65?</h3>
 <p>Solo con las pensiones, esperar suele dar más dinero en total si vives más allá de los 73-78 años, según tu recorte. Jubilarte a los 63 da ingresos antes y puede compensar si no tienes otros ingresos o por salud.</p>
@@ -14863,7 +15097,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9085</wp:post_id>
+    <wp:post_id>9086</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15018,7 +15252,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9086</wp:post_id>
+    <wp:post_id>9087</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15116,7 +15350,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9087</wp:post_id>
+    <wp:post_id>9088</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15286,7 +15520,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9088</wp:post_id>
+    <wp:post_id>9089</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15378,7 +15612,7 @@
 <p>Tienes dos caminos:</p>
 <ul>
 <li><strong>Esperar a tu edad ordinaria</strong> cobrando el subsidio: te jubilas sin recorte, aunque con las cotizaciones del subsidio en tu base reguladora.</li>
-<li><strong>Pedir la jubilación anticipada involuntaria</strong>: en 2027, <strong>desde los 61 años si tienes 38 años y 6 meses cotizados</strong> o desde los 63 con menos (y al menos 33). Recorte de hasta el 30 % si adelantas 4 años. Consulta los requisitos en <a href="/jubilacion/anticipada-involuntaria/">jubilación anticipada involuntaria</a>.</li>
+<li><strong>Pedir la jubilación anticipada involuntaria</strong>: en 2027, <strong>desde los 61 años si tienes 38 años y 6 meses cotizados</strong> o desde los 63 con menos (y al menos 33). Recorte de hasta el 30 % si adelantas 4 años. Consulta los requisitos en <a href="/jubilacion/anticipada-involuntaria/">jubilación anticipada involuntaria</a>. Con 40 años cotizados, sigue la proposición de ley que quiere eliminar ese recorte: <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados sin penalización</a>.</li>
 </ul>
 <h2 id="ejemplo-pedro-despedido-a-los-60-con-39-anos-cotizados">Ejemplo: Pedro, despedido a los 60 con 39 años cotizados</h2>
 <p>Pedro nació en marzo de 1966, le despiden en marzo de 2026 y su edad ordinaria es 65 (tiene más de 38 años y 6 meses cotizados).</p>
@@ -15448,7 +15682,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9089</wp:post_id>
+    <wp:post_id>9090</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15578,7 +15812,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9090</wp:post_id>
+    <wp:post_id>9091</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16175,7 +16409,7 @@
 </ul>
 <h2 id="va-a-cambiar-la-edad-de-jubilacion-despues-de-2027">¿Va a cambiar la edad de jubilación después de 2027?</h2>
 <p>Con la ley actual, no: desde 2027 la edad ordinaria queda fijada en 67 años, o 65 con 38 años y 6 meses cotizados. El Gobierno ha desmentido que prepare un retraso de la edad legal, como el supuesto paso a los 71 años que circuló en 2025 (<a href="https://www.telecinco.es/noticias/economia/pensiones/20250711/gobierno-desmiente-reforma-pensiones-retraso-jubilacion-71-anos_18_016113800.html" rel="noopener">Telecinco, julio de 2025</a>).</p>
-<p>Lo que sí está en marcha afecta a la jubilación anticipada, no a la edad ordinaria. El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para que quien se jubile anticipadamente con 40 años o más cotizados no sufra recortes, con 178 votos a favor, 33 en contra y 136 abstenciones (<a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es</a>). Todavía no es ley: está al principio de su tramitación y puede cambiar. Actualizaremos este artículo si se aprueba.</p>
+<p>Lo que sí está en marcha afecta a la jubilación anticipada, no a la edad ordinaria. El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para que quien se jubile anticipadamente con 40 años o más cotizados no sufra recortes, con 178 votos a favor, 33 en contra y 136 abstenciones (<a href="https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html" rel="noopener">elDiario.es</a>). Todavía no es ley: está al principio de su tramitación y puede cambiar. Lo seguimos en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados sin penalización</a>.</p>
 <h2 id="que-hacer-si-te-jubilas-en-2027">Qué hacer si te jubilas en 2027</h2>
 <ol>
 <li><strong>Descarga tu informe de vida laboral</strong> en Import@ss. Puedes identificarte con SMS, Cl@ve o certificado digital.</li>
@@ -16227,7 +16461,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9091</wp:post_id>
+    <wp:post_id>9092</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16357,7 +16591,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9092</wp:post_id>
+    <wp:post_id>9093</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16535,7 +16769,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9093</wp:post_id>
+    <wp:post_id>9094</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16669,7 +16903,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9094</wp:post_id>
+    <wp:post_id>9095</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16793,7 +17027,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9095</wp:post_id>
+    <wp:post_id>9096</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16910,7 +17144,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9096</wp:post_id>
+    <wp:post_id>9097</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17042,7 +17276,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9097</wp:post_id>
+    <wp:post_id>9098</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17142,7 +17376,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9098</wp:post_id>
+    <wp:post_id>9099</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17259,7 +17493,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es compatible con cualquier sueldo, pero trabajar puede quitarte el complemento a mínimos, el 60 % o el 70 %. Paro, IRPF y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9099</wp:post_id>
+    <wp:post_id>9100</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17460,7 +17694,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9100</wp:post_id>
+    <wp:post_id>9101</wp:post_id>
     <wp:post_date><![CDATA[2026-09-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17544,7 +17778,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si estabas divorciado o separado, cobras viudedad si tenías pensión compensatoria, con ese tope. Violencia de género, divorcios anteriores a 2008 y reparto.]]></excerpt:encoded>
-    <wp:post_id>9101</wp:post_id>
+    <wp:post_id>9102</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17689,7 +17923,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9102</wp:post_id>
+    <wp:post_id>9103</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17838,7 +18072,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Hijos, hermanos, nietos, padres o abuelos que vivían a cargo del fallecido pueden cobrar el 20 % de su base reguladora. Requisitos y mínimas de 2026.]]></excerpt:encoded>
-    <wp:post_id>9103</wp:post_id>
+    <wp:post_id>9104</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17944,7 +18178,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pierde al casarte o formar pareja de hecho, salvo con más de 61 años, si es tu principal ingreso y el matrimonio no pasa de 34.188 € al año.]]></excerpt:encoded>
-    <wp:post_id>9104</wp:post_id>
+    <wp:post_id>9105</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18053,7 +18287,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años (con hijos comunes basta la inscripción). Sin límite de ingresos.]]></excerpt:encoded>
-    <wp:post_id>9105</wp:post_id>
+    <wp:post_id>9106</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18170,7 +18404,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión de orfandad es el 20 % de la base reguladora por hijo, con un mínimo de 286,50 € al mes en 2026. Edad límite, orfandad absoluta y límites.]]></excerpt:encoded>
-    <wp:post_id>9106</wp:post_id>
+    <wp:post_id>9107</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18284,7 +18518,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegabais a un año de matrimonio o a dos de pareja de hecho inscrita, cobras lo mismo que la viudedad durante dos años. Cuándo se aplica y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9107</wp:post_id>
+    <wp:post_id>9108</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18474,7 +18708,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9108</wp:post_id>
+    <wp:post_id>9109</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18579,7 +18813,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9109</wp:post_id>
+    <wp:post_id>9110</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18696,7 +18930,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9110</wp:post_id>
+    <wp:post_id>9111</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

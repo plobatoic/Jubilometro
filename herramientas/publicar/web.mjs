@@ -55,6 +55,7 @@ export const IMAGENES_DESTACADAS = {
   '/jubilacion/15-anos-cotizados/': { archivo: '15-anos-cotizados.webp', alt: 'Pareja de jubilados sonriendo con un café al aire libre', pie: 'Foto: StockSnap' },
   '/jubilacion/anticipada-discapacidad/': { archivo: 'anticipada-discapacidad.webp', alt: 'Persona en silla de ruedas paseando junto a un acompañante', pie: 'Foto: rawpixel' },
   '/jubilacion/anticipada-por-profesion/': { archivo: 'anticipada-por-profesion.webp', alt: 'Equipo de bomberas delante de un camión de bomberos', pie: 'Foto: rawpixel' },
+  '/jubilacion/anticipada-40-anos-cotizados/': { archivo: 'anticipada-40-anos.webp', alt: 'Antiguo reloj de fichar de los años veinte, con esfera de reloj y una rueda de números de trabajador', pie: 'Foto: Open Grid Scheduler (Wikimedia Commons)' },
   '/jubilacion/autonomos/': { archivo: 'autonomos.webp', alt: 'Artesano con delantal en su taller', pie: 'Foto: StockSnap' },
   '/jubilacion/compensa-jubilarse-antes/': { archivo: 'compensa-jubilarse-antes.webp', alt: 'Persona haciendo cuentas con una calculadora y una libreta', pie: 'Foto: StockSnap' },
   '/jubilacion/convenio-especial/': { archivo: 'convenio-especial.webp', alt: 'Persona firmando un documento', pie: 'Foto: rawpixel' },
@@ -153,6 +154,7 @@ const CALCULADORAS = {
 export const CALCULADORA_DEL_ARTICULO = {
   '/jubilacion/anticipada-voluntaria/': 'anticipada',
   '/jubilacion/anticipada-involuntaria/': 'anticipada',
+  '/jubilacion/anticipada-40-anos-cotizados/': 'anticipada',
   '/jubilacion/demorada/': 'demorada',
   '/jubilacion/activa/': 'demorada',
   '/jubilacion/15-anos-cotizados/': 'pension',
