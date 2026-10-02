@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.4.5' );
+define( 'JM_THEME_VER', '2.5.2' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -774,3 +774,86 @@ add_filter( 'rank_math/json_ld', function ( $data ) {
 	}
 	return $data;
 }, 120 );
+
+/* ------------------------------------------------------------------
+ * 8c. CALCULADORAS PARA OTRAS WEBS
+ *     /calculadoras/<calculadora>/insertar/ sirve solo la calculadora, sin menús, anuncios ni
+ *     rastreadores, para que blogs, asociaciones o medios la pongan en un iframe. Lleva noindex y
+ *     canonical a la calculadora (no compite con ella en Google) y es la única URL que se puede
+ *     enmarcar desde otra web: el resto sigue con X-Frame-Options: SAMEORIGIN.
+ *     El código para copiar está en /calculadoras/para-tu-web/. El script opcional
+ *     assets/js/insertar.js ajusta la altura del iframe en la web que lo inserta.
+ * ------------------------------------------------------------------ */
+add_action( 'init', function () {
+	add_rewrite_endpoint( 'insertar', EP_PAGES );
+	// Las reglas nuevas se guardan una vez por versión del tema (sin tocar el panel de enlaces permanentes)
+	if ( get_option( 'jm_rewrite_ver' ) !== JM_THEME_VER ) {
+		flush_rewrite_rules( false );
+		update_option( 'jm_rewrite_ver', JM_THEME_VER, false );
+	}
+}, 20 );
+// /insertar/ llega sin valor: se marca para poder distinguirlo de una página normal
+add_filter( 'request', function ( $vars ) {
+	if ( isset( $vars['insertar'] ) ) { $vars['insertar'] = '1'; }
+	return $vars;
+} );
+function jm_calc_section( $post ) {
+	$html = ( $post instanceof WP_Post && 'page' === $post->post_type ) ? (string) $post->post_content : '';
+	return preg_match( '#<section aria-label="Calculadora">.*?</section>#s', $html, $m ) ? $m[0] : '';
+}
+add_action( 'template_redirect', function () {
+	if ( '1' !== get_query_var( 'insertar' ) ) { return; }
+	$post = get_queried_object();
+	$calc = jm_calc_section( $post );
+	if ( '' === $calc ) {
+		wp_safe_redirect( $post instanceof WP_Post ? get_permalink( $post ) : home_url( '/' ), 301 );
+		exit;
+	}
+	$url    = get_permalink( $post );
+	$titulo = wp_strip_all_tags( get_the_title( $post ) );
+	header_remove( 'X-Frame-Options' );
+	header( 'Content-Security-Policy: frame-ancestors *' );
+	header( 'X-Robots-Tag: noindex, follow' );
+	header( 'Content-Type: text/html; charset=utf-8' );
+	$fuentes = '';
+	foreach ( array( 'newsreader-normal-latin', 'public-sans-normal-latin' ) as $f ) {
+		$fuentes .= sprintf( '<link rel="preload" href="%s" as="font" type="font/woff2" crossorigin>' . "\n", esc_url( JM_THEME_URI . '/assets/fonts/' . $f . '.woff2' ) );
+	}
+	echo '<!doctype html>' . "\n" . '<html lang="es">' . "\n" . '<head>' . "\n"
+		. '<meta charset="utf-8">' . "\n"
+		. '<meta name="viewport" content="width=device-width, initial-scale=1">' . "\n"
+		. '<title>' . esc_html( $titulo . ' · Jubilómetro' ) . '</title>' . "\n"
+		. '<meta name="robots" content="noindex, follow">' . "\n"
+		. '<link rel="canonical" href="' . esc_url( $url ) . '">' . "\n"
+		. '<base target="_blank">' . "\n"
+		. $fuentes // phpcs:ignore
+		. '<link rel="stylesheet" href="' . esc_url( JM_THEME_URI . '/assets/css/jubilometro.css?ver=' . JM_THEME_VER ) . '">' . "\n"
+		. '<style>html{background:var(--jm-paper)}body.jm-embed{margin:0}.jm-embed main{padding:.75rem 0 .25rem}.jm-embed .jm-wrap{padding-inline:.75rem}'
+		. '.jm-embed__pie{display:flex;flex-wrap:wrap;justify-content:space-between;gap:.25rem 1rem;margin:.75rem .75rem 0;padding-top:.6rem;border-top:1px solid var(--jm-line-2);font-size:.875rem;color:var(--jm-muted)}'
+		. '.jm-embed__pie a{color:var(--jm-accent-strong);font-weight:700}</style>' . "\n"
+		. '</head>' . "\n" . '<body class="jm-live jm-embed">' . "\n"
+		. jm_part( 'sprite' ) // phpcs:ignore
+		. '<main>' . "\n" . $calc . "\n" // phpcs:ignore
+		. '<p class="jm-embed__pie"><span>Calculadora de <a href="' . esc_url( $url ) . '">Jubilómetro</a>, con las cifras oficiales actualizadas</span>'
+		. '<a href="' . esc_url( $url ) . '">Ver la explicación completa</a></p>' . "\n"
+		. '</main>' . "\n"
+		. '<script src="' . esc_url( JM_THEME_URI . '/assets/js/calculadoras.js?ver=' . JM_THEME_VER ) . '" defer></script>' . "\n"
+		// Altura para el script opcional de la web que inserta la calculadora
+		// (se repite al cargar y cuando la web lo pide, porque su script puede llegar después que la calculadora)
+		. '<script>(function(){var u=0,m=document.querySelector("main");function s(f){var h=Math.ceil(m.getBoundingClientRect().bottom+window.scrollY+8);'
+		. 'if((f||h!==u)&&window.parent!==window){u=h;window.parent.postMessage({jubilometro:"alto",alto:h},"*")}}'
+		. 'if(window.ResizeObserver){new ResizeObserver(function(){s()}).observe(m)}window.addEventListener("load",function(){s(1)});'
+		. '[400,1500,4000,8000].forEach(function(t){setTimeout(function(){s(1)},t)});'
+		. 'window.addEventListener("message",function(e){if(e.data&&e.data.jubilometro==="pide-alto")s(1)})})();</script>' . "\n"
+		. '</body>' . "\n" . '</html>';
+	exit;
+}, 1 );
+
+// Debajo de cada calculadora, la invitación a ponerla en otra web
+add_filter( 'the_content', function ( $html ) {
+	if ( ! is_page() || false === strpos( $html, '<section aria-label="Calculadora">' ) ) { return $html; }
+	$slug = get_post_field( 'post_name', get_queried_object_id() );
+	$link = '<div class="jm-wrap"><p class="jm-insertar"><svg class="jm-i" aria-hidden="true"><use href="#i-link"/></svg>'
+		. '<span>¿Tienes una web o un blog? <a href="/calculadoras/para-tu-web/#' . esc_attr( $slug ) . '">Pon esta calculadora gratis en tu web</a>.</span></p></div>';
+	return preg_replace( '#(<section aria-label="Calculadora">.*?)(</section>)#s', '$1' . $link . '$2', $html, 1 );
+}, 28 );

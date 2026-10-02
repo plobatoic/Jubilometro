@@ -141,6 +141,20 @@
     });
   }
 
+  // Calculadoras para otras webs: copiar el código de inserción
+  function initCopyCode() {
+    $$('[data-jm-copycode]').forEach(function (b) {
+      var box = $(b.getAttribute('data-jm-copycode')), txt = b.textContent;
+      if (!box) return;
+      b.addEventListener('click', function () {
+        function done() { b.classList.add('is-done'); b.textContent = '¡Código copiado!'; setTimeout(function () { b.classList.remove('is-done'); b.textContent = txt; }, 2500); }
+        function manual() { box.focus(); box.select(); }
+        if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(box.value).then(done, manual);
+        else manual();
+      });
+    });
+  }
+
   // Lecturas del mes (para «Lo más leído»): una señal ligera por visita, sin cookies
   function initViews() {
     var el = $('[data-jm-view]'); if (!el || !navigator.sendBeacon) return;
@@ -646,6 +660,6 @@
     });
   }
 
-  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initViews, initReveal, initRoll, initTilt, initStage, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initCopyCode, initViews, initReveal, initRoll, initTilt, initStage, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();

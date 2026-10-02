@@ -2275,3 +2275,18 @@ html body { background: var(--jm-paper) var(--jm-grain); }
   .jm-nav > ul > li > a, .jm-nav > ul > li > button { font-size: 1rem; padding-inline: .55rem; }
   .jm-header__row { gap: .9rem; }
 }
+
+/* --- Calculadoras para otras webs (tema 2.5.0) ------------------------------ */
+.jm-insertar { display: flex; align-items: flex-start; gap: .5rem; margin: 1.25rem 0 0; font-size: var(--jm-fs-sm); color: var(--jm-muted); }
+.jm-insertar .jm-i { flex: none; margin-top: .2em; color: var(--jm-accent-strong); }
+.jm-insertar a { color: var(--jm-accent-strong); font-weight: 700; }
+.jm-embedlist { display: grid; gap: 1.25rem; }
+.jm-embedcard { display: grid; gap: .75rem; padding: clamp(1rem, .8rem + 1vw, 1.5rem); border: 1px solid var(--jm-line-2); border-radius: var(--jm-radius); background: var(--jm-white); scroll-margin-top: calc(var(--jm-header-h) + 1.5rem); }
+.jm-embedcard:target { border-color: var(--jm-pine); box-shadow: 0 0 0 3px var(--jm-sage); }
+.jm-embedcard h3 { margin: 0; font-size: var(--jm-fs-h4); }
+.jm-embedcard p { margin: 0; }
+.jm-code { display: block; width: 100%; min-height: 10.5rem; padding: .75rem; border: 1px solid var(--jm-line-2); border-radius: var(--jm-radius-sm); background: var(--jm-mist); color: var(--jm-ink); font: 500 .8125rem/1.55 var(--jm-font-mono); resize: vertical; }
+.jm-code:focus { outline: 2px solid var(--jm-pine); outline-offset: 2px; }
+.jm-embedcard__actions { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem 1.25rem; }
+.jm-btn.is-done { --b: var(--jm-pine-dark); }
+.jm-embedpreview { display: block; width: 100%; height: 760px; border: 1px solid var(--jm-line-2); border-radius: var(--jm-radius); background: #fff; }

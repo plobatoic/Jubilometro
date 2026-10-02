@@ -172,6 +172,16 @@ Actualizadas el mismo día: subida de 2027 (IPC adelantado de septiembre, 4,9 %)
 
 **Search Console**: pedir la indexación de las cuatro URL nuevas (Inspección de URLs > Solicitar indexación) y de la subida de 2027.
 
+### Calculadoras para otras webs (tema 2.5, 2/10/2026)
+
+Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras con el código de [/calculadoras/para-tu-web/](https://jubilometro.com/calculadoras/para-tu-web/).
+
+- Cada calculadora tiene una versión insertable en `/calculadoras/<calculadora>/insertar/`: solo el formulario y el resultado, sin menús, anuncios ni cookies, con `noindex` y canónica a la calculadora. Es la única URL que se puede enmarcar desde otra web.
+- El tema saca esa versión del bloque `<section aria-label="Calculadora">` de la página: **no quitar ni renombrar esa sección** al editar una calculadora en WordPress.
+- El código lleva un crédito visible con el nombre de marca («Calculadora de … de Jubilómetro»), sin palabras clave en el enlace, como piden las normas de Google para widgets, y el script opcional `assets/js/insertar.js`, que ajusta la altura.
+- Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
+- Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
+
 ## 7. Calendario de mantenimiento
 
 | Fecha | Qué revisar |
