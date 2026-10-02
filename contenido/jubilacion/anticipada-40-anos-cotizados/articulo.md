@@ -9,6 +9,7 @@ palabra_clave_principal: jubilación anticipada 40 años cotizados sin penalizac
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-02
+publicacion: 2026-10-02
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:

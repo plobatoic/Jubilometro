@@ -89,7 +89,7 @@ La subida se aplica sobre la pensión **bruta**. Lo que llega al banco puede sub
 
 ## Qué pensiones suben y cuánto
 
-- **Pensiones contributivas** de jubilación, incapacidad permanente, viudedad, orfandad y a favor de familiares, y las de **Clases Pasivas** (funcionarios): el porcentaje general.
+- **Pensiones contributivas** de jubilación, incapacidad permanente, viudedad, orfandad y a favor de familiares, y las de **Clases Pasivas** (funcionarios; ver [jubilación de los funcionarios](/jubilacion/funcionarios/)): el porcentaje general.
 - **[Complemento para la reducción de la brecha de género](/cuanto-cobrare/complemento-brecha-genero/)**: el mismo porcentaje (en 2026 es de 36,90 euros al mes por hijo).
 - **Pensiones que ya están en la máxima**: también suben el porcentaje general. Desde 2025 el tope ya no frena la revalorización de las pensiones en curso.
 - **Pensión máxima para las pensiones nuevas**: sube el porcentaje general **más 0,115 puntos** ([disposición transitoria 39.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724)). En 2026 es de 3.359,60 euros al mes.
@@ -104,7 +104,7 @@ Para hacerte una idea: en 2026, con una subida general del 2,7 %, las pensiones 
 2. **Mediados de diciembre**: el INE publica el dato definitivo.
 3. **Finales de diciembre**: el Gobierno aprueba la subida, en la ley de presupuestos o, si no hay presupuestos nuevos, por real decreto-ley, y después fija las cuantías en un real decreto.
 4. **1 de enero de 2027**: la subida tiene efectos desde ese día. No hay que pedirla: la Seguridad Social la aplica de oficio.
-5. **Pensión de enero**: es la primera que se cobra con la subida. La Seguridad Social envía una carta a cada pensionista con su nueva cuantía.
+5. **Pensión de enero**: es la primera que se cobra con la subida. La Seguridad Social envía una carta a cada pensionista con su nueva cuantía, y el certificado de revalorización se puede descargar con un SMS: te lo explicamos en [certificado de pensión](/cuanto-cobrare/certificado-pension/).
 
 En 2026 el camino tuvo un tropiezo: el Congreso no convalidó en enero el primer real decreto-ley, y el Gobierno aprobó otro, el [Real Decreto-ley 3/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2548), el 3 de febrero, convalidado el 26 de febrero. Aun así, la subida se aplicó con efectos desde el 1 de enero.
 

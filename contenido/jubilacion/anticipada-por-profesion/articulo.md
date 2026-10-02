@@ -85,7 +85,7 @@ Desde 2025 existe un procedimiento reglado para que otros colectivos puedan cons
 
 ### ¿Los policías nacionales y guardias civiles tienen coeficientes reductores?
 
-Tienen su propio régimen de jubilación, con reglas distintas según si están en Clases Pasivas o en el Régimen General. Este artículo trata de los colectivos del sistema de la Seguridad Social; consulta tu caso con tu unidad de personal.
+Tienen su propio régimen de jubilación, con reglas distintas según si están en Clases Pasivas o en el Régimen General. Este artículo trata de los colectivos del sistema de la Seguridad Social; consulta tu caso con tu unidad de personal. Resumimos las reglas generales de Clases Pasivas en [jubilación de los funcionarios](/jubilacion/funcionarios/).
 
 ### ¿Se recorta la pensión si me jubilo antes por mi profesión?
 

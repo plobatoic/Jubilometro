@@ -84,7 +84,7 @@ Por eso es normal notar un **cambio en la pensión neta** algún mes, aunque el 
 
 ## El certificado de retenciones
 
-Para hacer la declaración (o revisar el borrador), descarga el **certificado de retenciones e ingresos a cuenta del IRPF** en la sede de la Seguridad Social. Recoge lo que cobraste y lo que te retuvieron en el año. Hacienda ya tiene esos datos, pero conviene comprobarlos.
+Para hacer la declaración (o revisar el borrador), descarga el **certificado de retenciones e ingresos a cuenta del IRPF** en la sede de la Seguridad Social. Recoge lo que cobraste y lo que te retuvieron en el año. Hacienda ya tiene esos datos, pero conviene comprobarlos. Te explicamos cómo descargarlo, también con un SMS, en [certificado de pensión](/cuanto-cobrare/certificado-pension/).
 
 ## Preguntas frecuentes
 

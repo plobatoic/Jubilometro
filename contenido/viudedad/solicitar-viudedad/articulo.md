@@ -32,7 +32,7 @@ fuentes_legales:
 1. **Reúne la documentación** (lista más abajo).
 2. **Presenta la solicitud de prestaciones de muerte y supervivencia** al INSS:
    - **Por internet**, en la sede electrónica de la Seguridad Social, con Cl@ve, certificado digital o DNI electrónico. La Seguridad Social también ofrece un servicio para presentar solicitudes sin certificado.
-   - **En persona**, en un CAISS, pidiendo **cita previa**.
+   - **En persona**, en un CAISS, pidiendo **[cita previa](/jubilacion/cita-previa-seguridad-social/)**.
 3. **En la misma solicitud** puedes pedir el **auxilio por defunción** (46,50 euros para los gastos del sepelio) y, si hay hijos, la **pensión de orfandad**.
 4. **Espera la resolución**: el INSS te notificará si te reconoce la pensión, su cuantía y desde cuándo se cobra.
 

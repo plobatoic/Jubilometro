@@ -66,7 +66,7 @@ Al terminar recibes un **SMS de bienvenida**, y ya puedes usar la app Cl@ve o ac
 | Gestión | Dónde | Cómo identificarte |
 |---|---|---|
 | [Informe de vida laboral](/cuanto-cobrare/informe-vida-laboral/) | Import@ss, de la Tesorería de la Seguridad Social | Cl@ve, certificado o SMS; también puedes pedir que te lo manden a casa |
-| Certificado de tu pensión, de revalorización o de retenciones del IRPF | Tu Seguridad Social o portal de prestaciones | Cl@ve, certificado o SMS |
+| [Certificado de tu pensión](/cuanto-cobrare/certificado-pension/), de revalorización o de retenciones del IRPF | Tu Seguridad Social o portal de prestaciones | Cl@ve, certificado o SMS |
 | Pedir la jubilación, la viudedad u otra prestación | Portal de prestaciones de la Seguridad Social | Cl@ve o certificado, o sin certificado con correo, foto del DNI y selfi |
 | [Cambiar la cuenta donde cobras la pensión](/dinero/domiciliar-pension/) o tu domicilio | Portal de prestaciones | Con o sin certificado |
 | [Cambiar la retención del IRPF](/dinero/irpf-pensiones/) | Tu Seguridad Social o portal de prestaciones | Con o sin certificado |
@@ -76,7 +76,7 @@ Al terminar recibes un **SMS de bienvenida**, y ya puedes usar la app Cl@ve o ac
 - **Sin ninguna identificación electrónica**: en el portal de prestaciones puedes pedir la jubilación y otras prestaciones validando tu **correo electrónico** con un código, subiendo una **foto de las dos caras del DNI** y haciéndote un **selfi** mostrando el DNI. Te lo explicamos en [cómo solicitar la jubilación por internet](/jubilacion/solicitar-jubilacion-internet/).
 - **La renta sin Cl@ve**: la Agencia Tributaria te da un **número de referencia** con tu DNI, su fecha de validez y el importe de la **casilla 505** de tu última declaración. Cambia cada campaña: las referencias de la campaña anterior dejan de valer ([Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/ayuda/consultas-informaticas/firma-digital-sistema-clave-pin-tecnica/obtener-referencia-casilla-renta.html)).
 
-Si algo se te atasca, puedes pedir **cita previa** en un centro de atención de la Seguridad Social por internet o en los teléfonos **901 10 65 70** y **91 541 25 30**.
+Si algo se te atasca, puedes pedir **cita previa** en un centro de atención de la Seguridad Social por internet o en los teléfonos **901 10 65 70** y **91 541 25 30**. Te explicamos todas las vías en [cita previa en la Seguridad Social](/jubilacion/cita-previa-seguridad-social/).
 
 ## Que te ayude un familiar: el apoderamiento
 

@@ -8,7 +8,7 @@ categoria: Jubilación
 palabra_clave_principal: edad de jubilación 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 1 del plan de contenidos)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-02
 fecha_publicacion: PENDIENTE
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -182,7 +182,7 @@ Si quieres saber cuánto cobrarás, consulta [cómo se calcula la pensión de ju
 ## Casos especiales
 
 - **Autónomos.** Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados. Lo que cambia lo explicamos en [jubilación de autónomos](/jubilacion/autonomos/).
-- **Funcionarios.** Los de Clases Pasivas tienen su propio régimen: jubilación forzosa a los 65 años (70 en algunos cuerpos, como profesores universitarios, jueces y fiscales) y voluntaria desde los 60 con 30 años de servicios. Los que ingresaron desde el 1 de enero de 2011 están en el Régimen General y siguen esta tabla.
+- **Funcionarios.** Los de Clases Pasivas tienen su propio régimen: jubilación forzosa a los 65 años (70 en algunos cuerpos, como profesores universitarios, jueces y fiscales) y voluntaria desde los 60 con 30 años de servicios. Los que ingresaron desde el 1 de enero de 2011 están en el Régimen General y siguen esta tabla. Lo explicamos en [jubilación de los funcionarios](/jubilacion/funcionarios/).
 - **Discapacidad y profesiones con edad reducida.** Las personas con un grado de discapacidad elevado y algunos colectivos (bomberos, policías locales, mineros o trabajadores del mar, entre otros) pueden jubilarse antes sin recorte, gracias a [coeficientes reductores de la edad](/jubilacion/anticipada-por-profesion/).
 - **Cláusula de salvaguarda.** Si tu relación laboral terminó antes del 1 de abril de 2013 y desde entonces no has vuelto a estar de alta en ningún régimen de la Seguridad Social, se te aplican las reglas anteriores a la reforma de 2011, con jubilación a los 65 años (disposición transitoria 4.ª de la LGSS). Hay matices, así que, si crees que es tu caso, consúltalo con el INSS.
 
@@ -196,7 +196,7 @@ Lo que sí está en marcha afecta a la jubilación anticipada, no a la edad ordi
 
 1. **Descarga tu informe de vida laboral** en Import@ss. Puedes identificarte con SMS, Cl@ve o certificado digital.
 2. **Cuenta tus años y meses completos cotizados**, sin pagas extra, y compáralos con los 38 años y 6 meses.
-3. **Simula tu jubilación** en [Tu Seguridad Social](https://revista.seg-social.es/-/simulador-de-jubilaci%C3%B3n-en-tu-seguridad-social): te da tu fecha de jubilación ordinaria y una estimación de la pensión.
+3. **Simula tu jubilación** en [Tu Seguridad Social](https://revista.seg-social.es/-/simulador-de-jubilaci%C3%B3n-en-tu-seguridad-social): te da tu fecha de jubilación ordinaria y una estimación de la pensión. Si tu empresa te pide acreditar esa fecha, desde el 30 de septiembre de 2026 puedes descargar con un SMS el **informe de edad legal de jubilación**, que solo muestra la edad y la fecha ([Seguridad Social](https://revista.seg-social.es/-/guia-para-obtener-el-informe-que-acredita-tu-edad-legal-de-jubilacion)); te contamos dónde está en [certificado de pensión](/cuanto-cobrare/certificado-pension/).
 4. **Si te faltan pocos meses**, compara trabajar hasta completarlos con adelantar la jubilación con recorte: el recorte de la anticipada es para siempre.
 5. **Solicita la pensión con antelación**: puedes hacerlo hasta tres meses antes de la fecha prevista, por internet o con cita previa ([cómo solicitar tu jubilación](https://revista.seg-social.es/-/c%C3%B3mo-solicitar-tu-jubilaci%C3%B3n)).
 6. **Si cumples los requisitos a finales de 2026**, vigila que la baja no se vaya a 2027 sin haberlo calculado antes.
@@ -257,4 +257,4 @@ Con carácter general, no. Los convenios colectivos firmados desde 2022 solo pue
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y su fecha. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 27 de septiembre de 2026, primera versión; 2 de octubre de 2026, nuevo informe de edad legal de jubilación de la Seguridad Social y enlace a la proposición de ley de los 40 años cotizados.*

@@ -1507,7 +1507,7 @@
 <td>Cl@ve, certificado o SMS; también puedes pedir que te lo manden a casa</td>
 </tr>
 <tr>
-<th scope="row">Certificado de tu pensión, de revalorización o de retenciones del IRPF</th>
+<th scope="row"><a href="/cuanto-cobrare/certificado-pension/">Certificado de tu pensión</a>, de revalorización o de retenciones del IRPF</th>
 <td>Tu Seguridad Social o portal de prestaciones</td>
 <td>Cl@ve, certificado o SMS</td>
 </tr>
@@ -1538,7 +1538,7 @@
 <li><strong>Sin ninguna identificación electrónica</strong>: en el portal de prestaciones puedes pedir la jubilación y otras prestaciones validando tu <strong>correo electrónico</strong> con un código, subiendo una <strong>foto de las dos caras del DNI</strong> y haciéndote un <strong>selfi</strong> mostrando el DNI. Te lo explicamos en <a href="/jubilacion/solicitar-jubilacion-internet/">cómo solicitar la jubilación por internet</a>.</li>
 <li><strong>La renta sin Cl@ve</strong>: la Agencia Tributaria te da un <strong>número de referencia</strong> con tu DNI, su fecha de validez y el importe de la <strong>casilla 505</strong> de tu última declaración. Cambia cada campaña: las referencias de la campaña anterior dejan de valer (<a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/consultas-informaticas/firma-digital-sistema-clave-pin-tecnica/obtener-referencia-casilla-renta.html" rel="noopener">Agencia Tributaria</a>).</li>
 </ul>
-<p>Si algo se te atasca, puedes pedir <strong>cita previa</strong> en un centro de atención de la Seguridad Social por internet o en los teléfonos <strong>901 10 65 70</strong> y <strong>91 541 25 30</strong>.</p>
+<p>Si algo se te atasca, puedes pedir <strong>cita previa</strong> en un centro de atención de la Seguridad Social por internet o en los teléfonos <strong>901 10 65 70</strong> y <strong>91 541 25 30</strong>. Te explicamos todas las vías en <a href="/jubilacion/cita-previa-seguridad-social/">cita previa en la Seguridad Social</a>.</p>
 <h2 id="que-te-ayude-un-familiar-el-apoderamiento">Que te ayude un familiar: el apoderamiento</h2>
 <p>Si prefieres que tus gestiones las haga un hijo, un sobrino o una persona de confianza, puedes <strong>apoderarle</strong> en el Registro Electrónico de Apoderamientos de la Administración General del Estado (<a href="https://sede.administracion.gob.es/PAG_Sede/ServiciosElectronicos/RegistroElectronicoDeApoderamientos.html" rel="noopener">Punto de Acceso General</a>):</p>
 <ul>
@@ -2357,6 +2357,172 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Certificado de pensión de la Seguridad Social: cuál necesitas y cómo descargarlo gratis, incluso sin Cl@ve]]></title>
+    <link>https://jubilometro.com/cuanto-cobrare/certificado-pension/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-10-02">2 de octubre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en la Seguridad Social</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>El certificado de tu pensión se descarga <strong>gratis y al momento</strong> en la <strong>sede electrónica de la Seguridad Social</strong>, en el servicio de <strong>certificado integral de prestaciones</strong>. Puedes identificarte con <strong>certificado digital, Cl@ve o un SMS</strong> a tu móvil, sin ningún otro medio, siempre que la Seguridad Social tenga registrado tu teléfono.</p>
+<p>Con un solo acceso obtienes todos los modelos: el <strong>resumido</strong> o el <strong>desglosado</strong> con lo que cobras, uno <strong>sin importes</strong>, el de <strong>retenciones de IRPF</strong>, el de <strong>revalorización</strong> del año y, si no cobras nada, el <strong>certificado de no pensionista</strong>. No tienes que presentar ningún documento.</p>
+</aside>
+<h2 id="que-certificado-necesitas">Qué certificado necesitas</h2>
+<p>El certificado integral de prestaciones reúne los datos del <strong>Registro de Prestaciones Sociales Públicas</strong>, así que incluye tus pensiones de la Seguridad Social y las de otras entidades inscritas en él. Estos son los modelos que puedes descargar y para qué suele servir cada uno:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Tipos de certificado de pensión de la Seguridad Social y para qué sirven</caption>
+<thead>
+<tr>
+<th scope="col">Certificado</th>
+<th scope="col">Qué acredita</th>
+<th scope="col">Para qué se suele pedir</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Resumido de prestaciones</th>
+<td>Qué pensiones cobras y su importe</td>
+<td>Un banco, un alquiler, una ayuda municipal o autonómica</td>
+</tr>
+<tr>
+<th scope="row">Desglosado de prestaciones</th>
+<td>El importe con sus conceptos (pensión, complementos…)</td>
+<td>Ayudas que piden el detalle, como la dependencia o una residencia</td>
+</tr>
+<tr>
+<th scope="row">Sin importes</th>
+<td>Que eres pensionista, sin decir cuánto cobras</td>
+<td>Descuentos para mayores, transporte, carnés y trámites en los que no quieres dar la cifra</td>
+</tr>
+<tr>
+<th scope="row">Retenciones de IRPF</th>
+<td>Lo cobrado en el año y lo retenido, de los últimos 5 años</td>
+<td>Preparar la declaración de la renta</td>
+</tr>
+<tr>
+<th scope="row">Revalorización de pensiones</th>
+<td>Lo que cobrarás este año tras la subida de enero</td>
+<td>Demostrar tu pensión actualizada</td>
+</tr>
+<tr>
+<th scope="row">Importes al cobro (normal o desglosado)</th>
+<td>Lo que se te está pagando ahora</td>
+<td>Gestiones que piden la cuantía del momento</td>
+</tr>
+<tr>
+<th scope="row">Pensiones en baja o suspendidas</th>
+<td>Pensiones que ya no cobras o que están paradas</td>
+<td>Aclarar tu historial de prestaciones</td>
+</tr>
+<tr>
+<th scope="row">No pensionista</th>
+<td>Que no cobras ninguna prestación del registro</td>
+<td>Ayudas, becas o subsidios que exigen no tener pensión</td>
+</tr>
+<tr>
+<th scope="row">Beneficiarios de deducciones</th>
+<td>Los datos para algunas deducciones fiscales</td>
+<td>Cuando te lo pida Hacienda u otro organismo</td>
+</tr>
+<tr>
+<th scope="row">Integrado de prestaciones públicas</th>
+<td>Todas tus prestaciones públicas en un único documento</td>
+<td>Cuando te piden «todas las pensiones públicas que cobras»</td>
+</tr>
+</tbody></table>
+</div>
+<p>Si no sabes cuál pedir, descarga el certificado integral completo: trae todos los modelos y luego guardas o imprimes solo el que te pidan.</p>
+<div class="aviso-caja">
+<p><strong>Para la renta no hace falta.</strong> La Agencia Tributaria ya tiene los datos de tu pensión. El certificado de IRPF te sirve para revisar el borrador, porque incluye, por ejemplo, el NIF del pagador. Lo explicamos en <a href="/dinero/declaracion-renta-jubilados/">la declaración de la renta de los jubilados</a>.</p>
+</div>
+<h2 id="como-descargar-el-certificado-paso-a-paso">Cómo descargar el certificado paso a paso</h2>
+<ol>
+<li><strong>Entra en la sede electrónica de la Seguridad Social</strong> y busca el servicio <strong>«Certificado integral de prestaciones»</strong> (también aparece como «certificado de prestaciones»), en el apartado de ciudadanos, informes y certificados.</li>
+<li><strong>Elige cómo identificarte</strong>: certificado digital o DNI electrónico, Cl@ve o vía SMS.</li>
+<li><strong>Si eliges SMS</strong>, escribe tus datos y recibirás en el móvil un <strong>código de un solo uso</strong>, como en la banca por internet.</li>
+<li><strong>Pulsa «Certificado integral de prestaciones»</strong> y se genera un PDF con todos los modelos disponibles.</li>
+<li><strong>Guarda o imprime</strong> el que necesites, o envíalo en PDF a quien te lo pida.</li>
+</ol>
+<p>Es gratuito y no hay que aportar documentos. Necesitas un programa para abrir PDF, que ya traen casi todos los móviles y ordenadores.</p>
+<h3 id="si-no-tienes-cl-ve-ni-certificado-digital">Si no tienes Cl@ve ni certificado digital</h3>
+<ul>
+<li><strong>Con el SMS</strong> te basta, siempre que tu móvil esté registrado en la Seguridad Social. Si no lo está o ha cambiado, puedes registrarlo en el portal Import@ss de la Tesorería General de la Seguridad Social.</li>
+<li><strong>Con un selfi</strong>: para el certificado de IRPF, la Seguridad Social permite identificarte con una foto si no puedes hacerlo por las otras vías.</li>
+<li><strong>Desde el extranjero</strong>: si cobras una pensión española y vives fuera, puedes descargar el certificado de IRPF con la app <strong>VIVESS</strong>, la misma que sirve para la fe de vida. Lo contamos en <a href="/dinero/pension-extranjero/">cobrar la pensión en el extranjero</a>.</li>
+</ul>
+<p>Para darte de alta en Cl@ve y hacer el resto de gestiones por internet, sigue nuestra guía de <a href="/ayudas/tramites-online/">trámites online para mayores</a>.</p>
+<h3 id="si-lo-pide-un-familiar-por-ti">Si lo pide un familiar por ti</h3>
+<p>Un familiar puede descargarlo como <strong>representante</strong>: tú recibirás un SMS con un enlace para confirmar la representación. También puede hacerlo como <strong>apoderado</strong> si lo has inscrito en el Registro Electrónico de Apoderamientos.</p>
+<h2 id="otro-documento-util-el-informe-de-edad-legal-de-jubilacion">Otro documento útil: el informe de edad legal de jubilación</h2>
+<p>Si todavía no te has jubilado y tu empresa te pide que acredites <strong>cuándo alcanzas tu edad legal de jubilación</strong>, desde el 30 de septiembre de 2026 la Seguridad Social ofrece un informe específico que solo muestra esa edad y la fecha exacta, sin tu vida laboral ni tu pensión estimada:</p>
+<ul>
+<li><strong>En Tu Seguridad Social</strong>, en «Otras gestiones», opción «Informe de edad legal de jubilación», si tu edad depende solo de tu vida laboral.</li>
+<li><strong>En el simulador de jubilación</strong>, tras hacer la simulación, si influyen hijos o una discapacidad.</li>
+</ul>
+<p>Basta con el código por SMS. Te explicamos cómo se calcula esa edad en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación en 2027</a>.</p>
+<h2 id="si-el-certificado-tiene-un-error-o-no-te-deja-descargarlo">Si el certificado tiene un error o no te deja descargarlo</h2>
+<ul>
+<li><strong>Si una cifra no cuadra</strong>, pide cita en un centro de atención e información de la Seguridad Social (CAISS) o llama a los teléfonos de información del INSS, <strong>901 16 65 65</strong> o <strong>91 542 11 76</strong>, de 9 a 20 horas de lunes a viernes. Te explicamos cómo conseguir la cita en <a href="/jubilacion/cita-previa-seguridad-social/">cita previa en la Seguridad Social</a>.</li>
+<li><strong>Si no te llega el SMS</strong>, comprueba que el móvil registrado es el tuyo: si cambiaste de número, actualízalo antes en Import@ss.</li>
+<li><strong>Si cobras una pensión de Clases Pasivas</strong> (funcionarios), aparecerá en el certificado integrado de prestaciones públicas; para otros trámites sobre ella, mira la guía de <a href="/jubilacion/funcionarios/">jubilación de los funcionarios</a>.</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="como-saco-el-certificado-de-mi-pension-sin-certificado-digit">¿Cómo saco el certificado de mi pensión sin certificado digital?</h3>
+<p>Por SMS: en la sede electrónica de la Seguridad Social, eliges identificarte vía SMS y recibes un código de un solo uso en tu móvil. Solo necesitas que tu teléfono esté registrado en la Seguridad Social.</p>
+<h3 id="cuanto-cuesta-el-certificado-de-pension">¿Cuánto cuesta el certificado de pensión?</h3>
+<p>Nada. Es gratuito, se descarga al momento y no tienes que presentar ningún documento.</p>
+<h3 id="que-certificado-me-piden-para-demostrar-cuanto-cobro">¿Qué certificado me piden para demostrar cuánto cobro?</h3>
+<p>Normalmente, el resumido de prestaciones o, si piden el detalle de complementos, el desglosado. Si solo necesitas demostrar que eres pensionista, usa el de prestaciones sin importes.</p>
+<h3 id="donde-esta-el-certificado-de-revalorizacion-de-este-ano">¿Dónde está el certificado de revalorización de este año?</h3>
+<p>En el mismo servicio de certificado integral de prestaciones: incluye el certificado de revalorización con tu pensión actualizada tras la subida de enero. Lo que subirá en 2027 lo explicamos en la <a href="/cuanto-cobrare/revalorizacion-pensiones/">revalorización de las pensiones</a>.</p>
+<h3 id="como-demuestro-que-no-cobro-ninguna-pension">¿Cómo demuestro que no cobro ninguna pensión?</h3>
+<p>Con el certificado de no pensionista, que se descarga en el mismo servicio. Lo emiten también para personas que no cobran ninguna prestación.</p>
+<h3 id="el-certificado-de-irpf-lo-necesito-para-hacer-la-renta">¿El certificado de IRPF lo necesito para hacer la renta?</h3>
+<p>No: Hacienda ya tiene esos datos. Sirve para comprobar el borrador y tener el NIF del pagador. Puedes descargar los de los últimos 5 años.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://revista.seg-social.es/-/certificado-integral-de-prestaciones" rel="noopener">Seguridad Social: qué es el certificado integral de prestaciones (23 de febrero de 2026)</a>.</li>
+<li><a href="https://revista.seg-social.es/-/como-obtener-el-certificado-de-retenciones-por-irpf-de-prestaciones" rel="noopener">Seguridad Social: guía para obtener el certificado de retenciones por IRPF de las prestaciones (16 de febrero de 2026)</a>.</li>
+<li><a href="https://revista.seg-social.es/-/guia-para-obtener-el-informe-que-acredita-tu-edad-legal-de-jubilacion" rel="noopener">Seguridad Social: guía para obtener el informe que acredita tu edad legal de jubilación (30 de septiembre de 2026)</a>.</li>
+<li><a href="https://sede.seg-social.gob.es/wps/portal/sede/sede/Inicio" rel="noopener">Sede electrónica de la Seguridad Social</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Necesitas ir a una oficina? Mira cómo pedir <a href="/jubilacion/cita-previa-seguridad-social/">cita previa en la Seguridad Social</a>.</li>
+<li>¿Cuánto te queda neto? Calcúlalo con la calculadora de pensión neta.</li>
+<li>¿Cuándo cobras? Consulta el <a href="/cuanto-cobrare/calendario-pago-pensiones/">calendario de pago de las pensiones</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 2 de octubre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Cómo sacar gratis el certificado de tu pensión en la sede de la Seguridad Social con un SMS, Cl@ve o certificado digital, y qué modelo necesitas en cada caso.]]></excerpt:encoded>
+    <wp:post_id>9012</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[certificado-pension]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Certificado de pensión: cómo descargarlo con SMS o Cl@ve]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Cómo sacar gratis el certificado de tu pensión en la sede de la Seguridad Social con un SMS, Cl@ve o certificado digital, y qué modelo necesitas en cada caso.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[certificado de pensión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Certificado de pensión: cómo descargarlo con SMS o Cl@ve]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Cómo sacar gratis el certificado de tu pensión en la sede de la Seguridad Social con un SMS, Cl@ve o certificado digital, y qué modelo necesitas en cada caso.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[certificado de pensión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Cómo se calcula la pensión de jubilación en 2026: el nuevo sistema dual de base reguladora]]></title>
     <link>https://jubilometro.com/cuanto-cobrare/como-se-calcula-la-pension/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -2600,7 +2766,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2026 la base reguladora se calcula de dos formas y se aplica la que más te favorece. Los tres pasos del cálculo, con tablas y ejemplos con cifras.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9013</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2727,7 +2893,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2864,7 +3030,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El complemento de brecha de género suma 36,90 € al mes por hijo (hasta 4) a la jubilación, incapacidad o viudedad. Quién lo cobra, también padres, y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3000,7 +3166,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un periodo que falta en tu vida laboral puede costarte más de 100 € al mes de pensión. Cómo pedir el informe, qué revisar y cómo pedir que lo corrijan.]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3139,7 +3305,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los meses sin cotizar se rellenan: los 48 primeros con la base mínima y el resto al 50 %. Las mujeres tienen 12 meses más al 100 % y 24 al 80 %. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3397,7 +3563,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El MEI es una cotización del 0,90 % en 2026 (0,15 % a tu cargo) que no da más pensión. La de solidaridad grava el sueldo que pasa de 5.101,20 € al mes.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3532,7 +3698,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3718,7 +3884,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una pensión de menos de 16.476 € al año no tiene retención de IRPF. Tabla de retenciones de 2026 para pensiones de 1.100 a 3.000 € al mes y cómo se calculan.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3837,7 +4003,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4007,7 +4173,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4194,7 +4360,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con carrera completa y un sueldo estable, tu pensión bruta anual es tu sueldo bruto anual. Tablas de 2026 por sueldo y años cotizados, en bruto y en neto.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4445,7 +4611,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4633,7 +4799,7 @@
 <p><strong>Si cobras complemento a mínimos</strong>, la cuenta es distinta: lo que manda es la nueva pensión mínima. Tu pensión propia sube el porcentaje general y el complemento cubre la diferencia hasta la mínima de 2027. Por ejemplo, Rosa cobra 700 euros de pensión propia más 236,20 de complemento para llegar a la mínima de 936,20. En 2027 su pensión propia pasará a 724,50 euros (con un 3,5 %) y cobrará la mínima nueva, que será más alta.</p>
 <h2 id="que-pensiones-suben-y-cuanto">Qué pensiones suben y cuánto</h2>
 <ul>
-<li><strong>Pensiones contributivas</strong> de jubilación, incapacidad permanente, viudedad, orfandad y a favor de familiares, y las de <strong>Clases Pasivas</strong> (funcionarios): el porcentaje general.</li>
+<li><strong>Pensiones contributivas</strong> de jubilación, incapacidad permanente, viudedad, orfandad y a favor de familiares, y las de <strong>Clases Pasivas</strong> (funcionarios; ver <a href="/jubilacion/funcionarios/">jubilación de los funcionarios</a>): el porcentaje general.</li>
 <li><strong><a href="/cuanto-cobrare/complemento-brecha-genero/">Complemento para la reducción de la brecha de género</a></strong>: el mismo porcentaje (en 2026 es de 36,90 euros al mes por hijo).</li>
 <li><strong>Pensiones que ya están en la máxima</strong>: también suben el porcentaje general. Desde 2025 el tope ya no frena la revalorización de las pensiones en curso.</li>
 <li><strong>Pensión máxima para las pensiones nuevas</strong>: sube el porcentaje general <strong>más 0,115 puntos</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">disposición transitoria 39.ª</a>). En 2026 es de 3.359,60 euros al mes.</li>
@@ -4647,7 +4813,7 @@
 <li><strong>Mediados de diciembre</strong>: el INE publica el dato definitivo.</li>
 <li><strong>Finales de diciembre</strong>: el Gobierno aprueba la subida, en la ley de presupuestos o, si no hay presupuestos nuevos, por real decreto-ley, y después fija las cuantías en un real decreto.</li>
 <li><strong>1 de enero de 2027</strong>: la subida tiene efectos desde ese día. No hay que pedirla: la Seguridad Social la aplica de oficio.</li>
-<li><strong>Pensión de enero</strong>: es la primera que se cobra con la subida. La Seguridad Social envía una carta a cada pensionista con su nueva cuantía.</li>
+<li><strong>Pensión de enero</strong>: es la primera que se cobra con la subida. La Seguridad Social envía una carta a cada pensionista con su nueva cuantía, y el certificado de revalorización se puede descargar con un SMS: te lo explicamos en <a href="/cuanto-cobrare/certificado-pension/">certificado de pensión</a>.</li>
 </ol>
 <p>En 2026 el camino tuvo un tropiezo: el Congreso no convalidó en enero el primer real decreto-ley, y el Gobierno aprobó otro, el <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2548" rel="noopener">Real Decreto-ley 3/2026</a>, el 3 de febrero, convalidado el 26 de febrero. Aun así, la subida se aplicó con efectos desde el 1 de enero.</p>
 <h2 id="cuanto-han-subido-las-pensiones-cada-ano">Cuánto han subido las pensiones cada año</h2>
@@ -4720,7 +4886,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta septiembre, entre un 3,3 % y un 3,7 %. Cálculo, fechas y tu subida.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4884,7 +5050,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Andalucía la dependencia se pide por el portal VED o en un registro con cita y tarda de media 413 días. Pasos, documentos, prestaciones y cuantías.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5043,7 +5209,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la dependencia, de 20 a 94 horas al mes de ayuda en casa según el grado, pagando según tus ingresos. También lo dan los ayuntamientos. Cómo pedirlo.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5206,7 +5372,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Cataluña la dependencia se pide en línea, en una oficina o por videoatención. Documentos, visita del SEVAD, tiempos reales de espera y ayudas en 2026.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5374,7 +5540,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Atención de día, comida, rehabilitación y transporte, volviendo a dormir a casa. Cómo conseguir plaza con la dependencia, cuánto se paga y qué ayudas hay.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5534,7 +5700,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En la Comunitat Valenciana la dependencia se pide en los servicios sociales del ayuntamiento. Plazos de 3 + 3 meses, silencio positivo a los 6 y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5670,7 +5836,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si cuidas a un familiar con la ayuda por cuidados familiares, el Imserso paga tu cotización para la jubilación. Requisitos, base, plazo y cómo pedirlo.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5843,7 +6009,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una cuidadora interna con el salario mínimo cuesta unos 20.900 € al año con la Seguridad Social. Interna o externa: salario, horarios, cotización y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6012,7 +6178,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El grado de discapacidad lo reconoce tu comunidad en 6 meses. Con el 33 % pagas menos IRPF; con el 65 %, más ventajas y la PNC. Trámite, baremo y revisión.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6238,7 +6404,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6410,7 +6576,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6577,7 +6743,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Madrid la dependencia se pide por internet o en los servicios sociales municipales. Documentos, plazo legal de 6 meses, media real de 335 días y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6827,7 +6993,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></excerpt:encoded>
-    <wp:post_id>9036</wp:post_id>
+    <wp:post_id>9037</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6949,7 +7115,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te cuida un familiar, la dependencia te da hasta 455,40 € al mes (grado III), 315,90 € (II) o 180 € (I). Requisitos del cuidador y su cotización pagada.]]></excerpt:encoded>
-    <wp:post_id>9037</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7082,7 +7248,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La ley da seis meses para resolver la dependencia. Si no contestan o te dan menos grado del que crees, así se reclama: escritos, recursos, plazos y modelos.]]></excerpt:encoded>
-    <wp:post_id>9038</wp:post_id>
+    <wp:post_id>9039</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7255,7 +7421,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En una residencia pública pagas según tus ingresos; en una privada, el precio entero, con hasta 747,25 € de ayuda si eres dependiente. Diferencias y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9039</wp:post_id>
+    <wp:post_id>9040</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7422,7 +7588,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Solicitud, informe de salud, visita a casa, grado y PIA. Qué documentos llevar, dónde se pide en tu comunidad y cómo preparar bien la valoración.]]></excerpt:encoded>
-    <wp:post_id>9040</wp:post_id>
+    <wp:post_id>9041</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7556,7 +7722,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un botón conectado 24 horas con una central. Se pide con la dependencia o en tu ayuntamiento y suele ser gratis o de pocos euros al mes. Te explicamos cómo.]]></excerpt:encoded>
-    <wp:post_id>9041</wp:post_id>
+    <wp:post_id>9042</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7776,7 +7942,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La dependencia tarda de media 302 días desde la solicitud hasta la prestación, aunque la ley da 6 meses. Días de espera por comunidad y qué hacer mientras.]]></excerpt:encoded>
-    <wp:post_id>9042</wp:post_id>
+    <wp:post_id>9043</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7970,7 +8136,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que necesitas ahorrar es lo que tu pensión no cubre por los años de jubilación. Datos del INE sobre el gasto de los mayores, fórmula y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9043</wp:post_id>
+    <wp:post_id>9044</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8139,7 +8305,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9044</wp:post_id>
+    <wp:post_id>9045</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8264,7 +8430,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cobra la pensión en el banco que quieras y cámbialo cuando quieras: cómo se hace, cuándo llega a la cuenta nueva, los regalos y la cuenta gratuita.]]></excerpt:encoded>
-    <wp:post_id>9045</wp:post_id>
+    <wp:post_id>9046</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8499,7 +8665,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Donar en vida puede costar al que dona un IRPF que la herencia no tiene. Cómo tributan herencias y donaciones en 2026, plazos y bonificaciones por comunidad.]]></excerpt:encoded>
-    <wp:post_id>9046</wp:post_id>
+    <wp:post_id>9047</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8647,7 +8813,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de obtener dinero de tu vivienda después de los 65 y seguir viviendo en ella. Cómo funcionan, qué pasa con los herederos y cómo tributa cada una.]]></excerpt:encoded>
-    <wp:post_id>9047</wp:post_id>
+    <wp:post_id>9048</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8729,7 +8895,7 @@
 </ul>
 <p>Por eso es normal notar un <strong>cambio en la pensión neta</strong> algún mes, aunque el bruto no cambie.</p>
 <h2 id="el-certificado-de-retenciones">El certificado de retenciones</h2>
-<p>Para hacer la declaración (o revisar el borrador), descarga el <strong>certificado de retenciones e ingresos a cuenta del IRPF</strong> en la sede de la Seguridad Social. Recoge lo que cobraste y lo que te retuvieron en el año. Hacienda ya tiene esos datos, pero conviene comprobarlos.</p>
+<p>Para hacer la declaración (o revisar el borrador), descarga el <strong>certificado de retenciones e ingresos a cuenta del IRPF</strong> en la sede de la Seguridad Social. Recoge lo que cobraste y lo que te retuvieron en el año. Hacienda ya tiene esos datos, pero conviene comprobarlos. Te explicamos cómo descargarlo, también con un SMS, en <a href="/cuanto-cobrare/certificado-pension/">certificado de pensión</a>.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="como-cambio-la-retencion-de-irpf-de-mi-pension">¿Cómo cambio la retención de IRPF de mi pensión?</h3>
 <p>En la sede de la Seguridad Social: con el trámite «Comunicar datos que afectan al IRPF», si ha cambiado tu situación familiar, o con «Modificar la retención del IRPF de la pensión», si quieres un porcentaje más alto. También en papel, por correo o en un centro de atención con cita previa.</p>
@@ -8762,7 +8928,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te sale a pagar en la renta o ha cambiado tu familia, puedes ajustar lo que te retienen de la pensión. Cómo comunicar datos o pedir más retención al INSS.]]></excerpt:encoded>
-    <wp:post_id>9048</wp:post_id>
+    <wp:post_id>9049</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8938,7 +9104,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tu pensión contributiva se cobra aunque vivas fuera, pero pierdes el complemento a mínimos. Fe de vida (VIVESS), sanidad, impuestos y cuenta bancaria.]]></excerpt:encoded>
-    <wp:post_id>9049</wp:post_id>
+    <wp:post_id>9050</wp:post_id>
     <wp:post_date><![CDATA[2026-10-01 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-01 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9089,7 +9255,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con más de 65 años, si vendes un piso, acciones o fondos y reinviertes en 6 meses en una renta vitalicia, la ganancia no tributa (hasta 240.000 €).]]></excerpt:encoded>
-    <wp:post_id>9050</wp:post_id>
+    <wp:post_id>9051</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9219,7 +9385,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes sacar del plan de pensiones lo aportado hace 10 años o más sin jubilarte. Qué parte, cómo pedirlo, la reducción del 40 % y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9051</wp:post_id>
+    <wp:post_id>9052</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9391,7 +9557,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9052</wp:post_id>
+    <wp:post_id>9053</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9515,7 +9681,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El seguro de decesos paga el servicio funerario pactado. No pueden darte de baja por la edad y el dinero sobrante es de tus herederos. Qué mirar.]]></excerpt:encoded>
-    <wp:post_id>9053</wp:post_id>
+    <wp:post_id>9054</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9672,7 +9838,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 65 años tienes sanidad pública y pagas el 10 % de los medicamentos con un tope al mes. En un seguro privado, mira la renovación y las subidas.]]></excerpt:encoded>
-    <wp:post_id>9054</wp:post_id>
+    <wp:post_id>9055</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9798,7 +9964,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></excerpt:encoded>
-    <wp:post_id>9055</wp:post_id>
+    <wp:post_id>9056</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9907,7 +10073,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cada semana vuelven a la venta plazas por cancelaciones e impagos. Cuándo aparecen, cómo reservar desde otra provincia y cómo usar la lista de espera.]]></excerpt:encoded>
-    <wp:post_id>9056</wp:post_id>
+    <wp:post_id>9057</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10073,7 +10239,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilados a cualquier edad, viudos desde los 55 y otros pensionistas o parados desde los 60. Resolvemos caso a caso quién puede ir al Imserso y con quién.]]></excerpt:encoded>
-    <wp:post_id>9057</wp:post_id>
+    <wp:post_id>9058</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10261,7 +10427,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con tu DNI y la clave de 4 dígitos reservas en turismosocial.es, mundicolor.es o una agencia. Plazos de pago, gastos de agencia y lo que cuesta cancelar.]]></excerpt:encoded>
-    <wp:post_id>9058</wp:post_id>
+    <wp:post_id>9059</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10440,7 +10606,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 60 años, la Tarjeta Dorada de Renfe cuesta 6 € y rebaja hasta un 40 % el tren. Y tu comunidad puede darte gratis una tarjeta de mayor con más descuentos.]]></excerpt:encoded>
-    <wp:post_id>9059</wp:post_id>
+    <wp:post_id>9060</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10744,7 +10910,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[10 días en un balneario con tratamiento y pensión completa desde 302,14 €. Quién puede ir, cómo se pide plaza, cómo puntúa el baremo y qué plazos quedan.]]></excerpt:encoded>
-    <wp:post_id>9060</wp:post_id>
+    <wp:post_id>9061</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10947,7 +11113,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Castilla-La Mancha, Madrid, Castilla y León, Comunitat Valenciana y Galicia tienen viajes o balnearios propios para mayores. Requisitos, precios y plazos.]]></excerpt:encoded>
-    <wp:post_id>9061</wp:post_id>
+    <wp:post_id>9062</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11102,7 +11268,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde los 50 o 55 años puedes estudiar en la universidad sin título previo. Y con 25, 40 o 45 años, entrar en un grado oficial. Te explicamos cada opción.]]></excerpt:encoded>
-    <wp:post_id>9062</wp:post_id>
+    <wp:post_id>9063</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11442,7 +11608,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos.]]></excerpt:encoded>
-    <wp:post_id>9063</wp:post_id>
+    <wp:post_id>9064</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11588,7 +11754,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para pedirla no necesitas abogado; para el juicio no es obligatorio, pero ayuda. Y por ser beneficiario de la Seguridad Social tienes derecho a uno de oficio.]]></excerpt:encoded>
-    <wp:post_id>9064</wp:post_id>
+    <wp:post_id>9065</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11717,7 +11883,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa y otros 30 para demandar. Plazos, pruebas y qué pasa con tu baja.]]></excerpt:encoded>
-    <wp:post_id>9065</wp:post_id>
+    <wp:post_id>9066</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11908,7 +12074,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[No hay lista de enfermedades que den la incapacidad: se valoran tus limitaciones para trabajar. Cómo es el tribunal médico y las enfermedades profesionales.]]></excerpt:encoded>
-    <wp:post_id>9066</wp:post_id>
+    <wp:post_id>9067</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12126,7 +12292,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9067</wp:post_id>
+    <wp:post_id>9068</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12273,7 +12439,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La gran incapacidad da el 100 % de la base reguladora más un complemento para quien te cuida. Cálculo del complemento, mínima de 1.404,30 € y dependencia.]]></excerpt:encoded>
-    <wp:post_id>9068</wp:post_id>
+    <wp:post_id>9069</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12413,7 +12579,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9069</wp:post_id>
+    <wp:post_id>9070</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12532,7 +12698,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad parcial se reconoce si rindes al menos un 33 % menos. Cobras 24 mensualidades de una vez y sigues en tu trabajo. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9070</wp:post_id>
+    <wp:post_id>9071</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12693,7 +12859,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></excerpt:encoded>
-    <wp:post_id>9071</wp:post_id>
+    <wp:post_id>9072</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12884,7 +13050,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9072</wp:post_id>
+    <wp:post_id>9073</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13000,7 +13166,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[A los 67 la incapacidad permanente pasa a llamarse jubilación sin cambiar. Si ya puedes jubilarte no hay incapacidad común, y las dos pensiones no se suman.]]></excerpt:encoded>
-    <wp:post_id>9073</wp:post_id>
+    <wp:post_id>9074</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13132,7 +13298,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la total puedes trabajar en otra cosa; con la absoluta, si te das de alta, se suspende la pensión desde 2024. Grado a grado, con tu contrato y el paro.]]></excerpt:encoded>
-    <wp:post_id>9074</wp:post_id>
+    <wp:post_id>9075</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13262,7 +13428,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si empeoras, puedes pedir un grado mayor; si mejoras o trabajas, el INSS puede bajarlo. Plazos, quién la pide, cómo prepararla y qué riesgos tiene.]]></excerpt:encoded>
-    <wp:post_id>9075</wp:post_id>
+    <wp:post_id>9076</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13309,7 +13475,7 @@
 <li><strong>Reúne tus informes médicos</strong>: los del especialista, las pruebas (resonancias, analíticas…) y el tratamiento que sigues. El INSS pedirá tu historial clínico al servicio de salud con tu consentimiento, pero los informes que aportes tú también se incorporan al expediente.</li>
 <li><strong>Rellena la solicitud</strong> en el modelo oficial de la Seguridad Social. Debe incluir la <strong>fecha en que dejaste de trabajar y su causa</strong>, tu <strong>profesión habitual</strong>, tu <strong>categoría</strong> y una <strong>descripción del trabajo concreto que hacías</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-1644" rel="noopener">artículo 4 de la Orden de 18 de enero de 1996</a>).</li>
 <li><strong>Adjunta tu DNI o NIE</strong> y, si el INSS no los tiene ya, los justificantes de cotización necesarios (por ejemplo, los recibos de cuotas si eres autónomo).</li>
-<li><strong>Preséntala</strong> por internet en la sede electrónica de la Seguridad Social o en un CAISS con cita previa.</li>
+<li><strong>Preséntala</strong> por internet en la sede electrónica de la Seguridad Social o en un CAISS con <a href="/jubilacion/cita-previa-seguridad-social/">cita previa</a>.</li>
 <li><strong>Acude al reconocimiento médico</strong> si te citan (ver abajo).</li>
 <li><strong>Revisa el dictamen y alega</strong> si no estás de acuerdo, en el plazo de <strong>10 días</strong>.</li>
 <li><strong>Recibe la resolución</strong>, que dirá si te reconocen la incapacidad, el grado, la cuantía y desde cuándo puede revisarse.</li>
@@ -13395,7 +13561,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente se pide al INSS o la inicia él tras la baja. Documentos, el tribunal médico, 10 días para alegar y 135 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9076</wp:post_id>
+    <wp:post_id>9077</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13554,7 +13720,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 55 años, la incapacidad total sube del 55 % al 75 % de la base reguladora si no trabajas. Requisitos, qué pasa si trabajas, mínimas de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9077</wp:post_id>
+    <wp:post_id>9078</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13694,7 +13860,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9078</wp:post_id>
+    <wp:post_id>9079</wp:post_id>
     <wp:post_date><![CDATA[2026-09-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13830,7 +13996,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9079</wp:post_id>
+    <wp:post_id>9080</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14054,7 +14220,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El Congreso tramita quitar el recorte a quien se jubile antes con 40 años cotizados. Qué dice la ley, cuándo podría aprobarse y cuánto pierdes hoy.]]></excerpt:encoded>
-    <wp:post_id>9080</wp:post_id>
+    <wp:post_id>9081</wp:post_id>
     <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14189,7 +14355,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos.]]></excerpt:encoded>
-    <wp:post_id>9081</wp:post_id>
+    <wp:post_id>9082</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14371,7 +14537,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9082</wp:post_id>
+    <wp:post_id>9083</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14498,7 +14664,7 @@
 </ol>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="los-policias-nacionales-y-guardias-civiles-tienen-coeficient">¿Los policías nacionales y guardias civiles tienen coeficientes reductores?</h3>
-<p>Tienen su propio régimen de jubilación, con reglas distintas según si están en Clases Pasivas o en el Régimen General. Este artículo trata de los colectivos del sistema de la Seguridad Social; consulta tu caso con tu unidad de personal.</p>
+<p>Tienen su propio régimen de jubilación, con reglas distintas según si están en Clases Pasivas o en el Régimen General. Este artículo trata de los colectivos del sistema de la Seguridad Social; consulta tu caso con tu unidad de personal. Resumimos las reglas generales de Clases Pasivas en <a href="/jubilacion/funcionarios/">jubilación de los funcionarios</a>.</p>
 <h3 id="se-recorta-la-pension-si-me-jubilo-antes-por-mi-profesion">¿Se recorta la pensión si me jubilo antes por mi profesión?</h3>
 <p>No. Es una de las grandes diferencias con la jubilación anticipada voluntaria: el tiempo que adelantas cuenta como cotizado para calcular tu pensión.</p>
 <h3 id="puedo-sumar-el-coeficiente-de-mi-profesion-y-la-jubilacion-a">¿Puedo sumar el coeficiente de mi profesión y la jubilación anticipada voluntaria?</h3>
@@ -14527,7 +14693,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Bomberos, policías locales, mineros o trabajadores del mar pueden jubilarse antes sin recorte gracias a los coeficientes reductores. Quién y cómo.]]></excerpt:encoded>
-    <wp:post_id>9083</wp:post_id>
+    <wp:post_id>9084</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14715,7 +14881,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9084</wp:post_id>
+    <wp:post_id>9085</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14874,7 +15040,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></excerpt:encoded>
-    <wp:post_id>9085</wp:post_id>
+    <wp:post_id>9086</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14893,6 +15059,176 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación de autónomos 2026: requisitos y cuánto cobran]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[jubilación autónomos]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Cita previa en la Seguridad Social: cómo pedirla por teléfono o por internet, incluso sin certificado digital]]></title>
+    <link>https://jubilometro.com/jubilacion/cita-previa-seguridad-social/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-10-02">2 de octubre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en la Seguridad Social</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>La cita previa para pensiones y otras prestaciones es con el <strong>Instituto Nacional de la Seguridad Social (INSS)</strong>. Puedes pedirla <strong>las 24 horas</strong> en los teléfonos <strong>91 541 25 30</strong> y <strong>901 10 65 70</strong>, o por internet en la <strong>sede electrónica</strong>, con certificado digital o <strong>sin él</strong>. Te darán un <strong>localizador</strong> que sirve para cambiarla o anularla.</p>
+<p>Para la vida laboral, el número de la Seguridad Social o la cotización de autónomos, la oficina es la de la <strong>Tesorería (TGSS)</strong>, que atiende <strong>sin cita</strong> de lunes a viernes, de 9 a 14 horas.</p>
+</aside>
+<h2 id="con-quien-necesitas-la-cita">¿Con quién necesitas la cita?</h2>
+<p>La Seguridad Social tiene dos organismos con oficinas distintas, y elegir bien te ahorra una visita:</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Con qué organismo de la Seguridad Social pedir cita según el trámite</caption>
+<thead>
+<tr>
+<th scope="col">Trámite</th>
+<th scope="col">Organismo</th>
+<th scope="col">¿Hace falta cita?</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Pensión de jubilación, viudedad, orfandad o incapacidad permanente</th>
+<td>INSS</td>
+<td>Sí, cita previa</td>
+</tr>
+<tr>
+<th scope="row">Ingreso mínimo vital, nacimiento y cuidado de menor, complementos de la pensión</th>
+<td>INSS</td>
+<td>Sí, cita previa</td>
+</tr>
+<tr>
+<th scope="row">Dudas sobre tu pensión: importes, revalorización, complemento a mínimos</th>
+<td>INSS</td>
+<td>Sí, o por teléfono de información</td>
+</tr>
+<tr>
+<th scope="row">Vida laboral, número de la Seguridad Social, cambio de datos</th>
+<td>Tesorería (TGSS)</td>
+<td>No: atención sin cita, de 9 a 14 horas</td>
+</tr>
+<tr>
+<th scope="row">Autónomos, convenio especial, empleo del hogar, pagos y deudas</th>
+<td>Tesorería (TGSS)</td>
+<td>No: atención sin cita, de 9 a 14 horas</td>
+</tr>
+</tbody></table>
+</div>
+<p>Las oficinas del INSS se llaman <strong>centros de atención e información de la Seguridad Social (CAISS)</strong>. El paro y el subsidio para mayores de 52 años no son de la Seguridad Social sino del SEPE, que tiene su propia cita previa.</p>
+<h2 id="como-pedir-cita-previa-en-el-inss-por-telefono">Cómo pedir cita previa en el INSS por teléfono</h2>
+<ol>
+<li>Llama al <strong>91 541 25 30</strong> o al <strong>901 10 65 70</strong>. Funcionan <strong>las 24 horas</strong> del día.</li>
+<li>Ten a mano tu <strong>DNI o NIE</strong> y tu <strong>código postal</strong>, y llama desde un sitio sin ruido, como recomienda la propia Seguridad Social.</li>
+<li>Al terminar te darán un <strong>localizador</strong>. Apúntalo.</li>
+<li>Para <strong>cambiar o anular</strong> la cita, llama al mismo teléfono con tu DNI o NIE y el localizador.</li>
+</ol>
+<p>El 91 541 25 30 es un número fijo de Madrid, que suele estar incluido en las tarifas de llamadas; los números 901 pueden tener coste según tu compañía.</p>
+<h2 id="como-pedir-cita-previa-por-internet">Cómo pedir cita previa por internet</h2>
+<ul>
+<li><strong>Con certificado digital o Cl@ve</strong>: entra en la <a href="https://sede.seg-social.gob.es/wps/portal/sede/sede/Ciudadanos/cita+previa+para+pensiones+y+otras+prestaciones/202910" rel="noopener">cita previa para pensiones y otras prestaciones de la sede electrónica</a>, identifícate y rellena el formulario.</li>
+<li><strong>Sin certificado digital ni Cl@ve</strong>: la Seguridad Social tiene un formulario de cita previa sin identificación electrónica, enlazado desde la misma página. Tendrás que indicar el <strong>motivo de la cita</strong>, la <strong>provincia</strong> y el <strong>centro</strong> donde la quieres; ten a mano tu código postal.</li>
+</ul>
+<p>La Seguridad Social tiene dos vídeos oficiales que enseñan a pedirla, con y sin certificado, enlazados desde su <a href="https://revista.seg-social.es/-/c%C3%B3mo-solicitar-cita-previa-para-pensiones-y-otras-prestaciones-de-la-seguridad-social" rel="noopener">guía de cita previa</a>.</p>
+<div class="aviso-caja">
+<p><strong>Si no ves huecos libres</strong> en tu oficina, mira otros centros de tu provincia o vuelve a intentarlo otro día. Y antes de esperar semanas, comprueba si tu trámite se puede hacer por internet: la mayoría sí.</p>
+</div>
+<h2 id="lo-que-puedes-hacer-sin-cita-ni-oficina">Lo que puedes hacer sin cita ni oficina</h2>
+<p>La mayor parte de los trámites del INSS se pueden hacer por internet a cualquier hora:</p>
+<ul>
+<li><strong>Con certificado digital o Cl@ve</strong>: en la sede electrónica y en el portal <strong>Tu Seguridad Social</strong>, donde puedes pedir la jubilación, simular tu pensión o ver tus datos.</li>
+<li><strong>Sin identificación electrónica</strong>: en el portal de <strong>solicitud de trámites de prestaciones</strong> puedes presentar solicitudes de jubilación y otras prestaciones sin certificado ni Cl@ve.</li>
+<li><strong>Con un SMS</strong>: el <a href="/cuanto-cobrare/certificado-pension/">certificado de tu pensión</a>, el informe de tu edad legal de jubilación o la simulación de la pensión se descargan con un código que te llega al móvil.</li>
+</ul>
+<p>Te lo explicamos paso a paso en <a href="/jubilacion/solicitar-jubilacion-internet/">cómo solicitar la jubilación por internet</a> y en <a href="/ayudas/tramites-online/">trámites online para mayores</a>.</p>
+<h2 id="telefonos-de-informacion-sin-cita">Teléfonos de información (sin cita)</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Teléfonos de la Seguridad Social y para qué sirve cada uno</caption>
+<thead>
+<tr>
+<th scope="col">Teléfono</th>
+<th scope="col">Para qué</th>
+<th scope="col">Horario</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">91 541 25 30 y 901 10 65 70</th>
+<td>Pedir, cambiar o anular cita previa con el INSS</td>
+<td>24 horas</td>
+</tr>
+<tr>
+<th scope="row">91 542 11 76 y 901 16 65 65</th>
+<td>Información del INSS: requisitos, estado de tu expediente, importes, revalorización, mínimos; también la tarjeta sanitaria europea</td>
+<td>De 9 a 20 horas, de lunes a viernes no festivos</td>
+</tr>
+<tr>
+<th scope="row">020</th>
+<td>Información sobre el ingreso mínimo vital (gratuito)</td>
+<td>De 9 a 14:30 horas, de lunes a viernes no festivos</td>
+</tr>
+<tr>
+<th scope="row">91 541 02 91 y 901 50 20 50</th>
+<td>Información de la Tesorería: vida laboral, afiliación, autónomos, deudas</td>
+<td>De 9 a 18 horas de lunes a jueves y de 9 a 14 horas los viernes</td>
+</tr>
+</tbody></table>
+</div>
+<p>En los teléfonos de información <strong>no dan citas</strong>: solo informan.</p>
+<h2 id="que-llevar-a-la-cita">Qué llevar a la cita</h2>
+<ul>
+<li>Tu <strong>DNI, NIE o pasaporte</strong> y el <strong>localizador</strong> de la cita.</li>
+<li>La <strong>documentación del trámite</strong>. Para la jubilación, la lista está en <a href="/jubilacion/documentos-jubilacion/">los documentos para pedir la jubilación</a>.</li>
+<li>Si vas en nombre de otra persona, una <strong>autorización o poder</strong> y su documento de identidad.</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cual-es-el-telefono-de-cita-previa-de-la-seguridad-social">¿Cuál es el teléfono de cita previa de la Seguridad Social?</h3>
+<p>Para pensiones y prestaciones del INSS, el 91 541 25 30 o el 901 10 65 70, las 24 horas. Necesitas tu DNI o NIE y tu código postal.</p>
+<h3 id="puedo-pedir-cita-previa-sin-certificado-digital">¿Puedo pedir cita previa sin certificado digital?</h3>
+<p>Sí. Por teléfono, o por internet en el formulario de cita previa sin identificación electrónica, indicando el motivo, la provincia y el centro.</p>
+<h3 id="hace-falta-cita-para-la-tesoreria-de-la-seguridad-social">¿Hace falta cita para la Tesorería de la Seguridad Social?</h3>
+<p>No. Las oficinas de la Tesorería atienden sin cita, de lunes a viernes de 9 a 14 horas. Aun así, la vida laboral o el número de la Seguridad Social se pueden sacar por internet.</p>
+<h3 id="como-anulo-o-cambio-la-cita">¿Cómo anulo o cambio la cita?</h3>
+<p>Llamando al mismo teléfono de cita previa, con tu DNI o NIE y el localizador que te dieron.</p>
+<h3 id="me-dan-cita-en-el-telefono-de-informacion">¿Me dan cita en el teléfono de información?</h3>
+<p>No. El 91 542 11 76 y el 901 16 65 65 son solo de información; las citas se piden en el 91 541 25 30 y el 901 10 65 70, o por internet.</p>
+<h3 id="necesito-cita-para-pedir-la-jubilacion">¿Necesito cita para pedir la jubilación?</h3>
+<p>No es obligatorio ir a una oficina: puedes pedirla por internet, incluso sin certificado digital. La cita es útil si prefieres que te ayuden en persona.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://revista.seg-social.es/-/c%C3%B3mo-solicitar-cita-previa-para-pensiones-y-otras-prestaciones-de-la-seguridad-social" rel="noopener">Seguridad Social: guía para solicitar cita previa con la Seguridad Social (27 de febrero de 2026)</a>.</li>
+<li><a href="https://sede.seg-social.gob.es/wps/portal/sede/sede/Ciudadanos/cita+previa+para+pensiones+y+otras+prestaciones/202910" rel="noopener">Sede electrónica: cita previa para pensiones y otras prestaciones</a>.</li>
+<li><a href="https://tramites.seg-social.es/" rel="noopener">Seguridad Social: solicitud de trámites de prestaciones sin certificado</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Vas a jubilarte? Revisa los <a href="/jubilacion/documentos-jubilacion/">documentos que necesitas</a> y <a href="/jubilacion/cuanto-tarda-jubilacion/">cuánto tarda la jubilación</a>.</li>
+<li>¿Te piden acreditar tu pensión? Descarga el <a href="/cuanto-cobrare/certificado-pension/">certificado de pensión</a>.</li>
+<li>¿Prefieres hacerlo desde casa? Sigue la guía de <a href="/ayudas/tramites-online/">trámites online para mayores</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la información de la Seguridad Social. Teléfonos y horarios según la guía oficial de febrero de 2026; pueden cambiar. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 2 de octubre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Teléfonos de cita previa del INSS (24 horas), cómo pedirla por internet con o sin certificado, cómo cambiarla y qué trámites puedes hacer sin ir a la oficina.]]></excerpt:encoded>
+    <wp:post_id>9087</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[cita-previa-seguridad-social]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Cita previa Seguridad Social: teléfono, web y sin certificado]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Teléfonos de cita previa del INSS (24 horas), cómo pedirla por internet con o sin certificado, cómo cambiarla y qué trámites puedes hacer sin ir a la oficina.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[cita previa seguridad social]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cita previa Seguridad Social: teléfono, web y sin certificado]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Teléfonos de cita previa del INSS (24 horas), cómo pedirla por internet con o sin certificado, cómo cambiarla y qué trámites puedes hacer sin ir a la oficina.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cita previa seguridad social]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -15097,7 +15433,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9086</wp:post_id>
+    <wp:post_id>9088</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15252,7 +15588,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si dejas de trabajar antes de jubilarte, el convenio especial te deja seguir cotizando desde unos 392 € al mes en 2026. Requisitos y cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9087</wp:post_id>
+    <wp:post_id>9089</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15350,7 +15686,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos.]]></excerpt:encoded>
-    <wp:post_id>9088</wp:post_id>
+    <wp:post_id>9090</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15520,7 +15856,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9089</wp:post_id>
+    <wp:post_id>9091</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15682,7 +16018,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9090</wp:post_id>
+    <wp:post_id>9092</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15812,7 +16148,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9091</wp:post_id>
+    <wp:post_id>9093</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15839,7 +16175,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-09-27">27 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+<p class="meta">Actualizado el <time datetime="2026-10-02">27 de septiembre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -16403,7 +16739,7 @@
 <h2 id="casos-especiales">Casos especiales</h2>
 <ul>
 <li><strong>Autónomos.</strong> Las edades son las mismas que para los trabajadores por cuenta ajena: 67 años, o 65 con 38 años y 6 meses cotizados. Lo que cambia lo explicamos en <a href="/jubilacion/autonomos/">jubilación de autónomos</a>.</li>
-<li><strong>Funcionarios.</strong> Los de Clases Pasivas tienen su propio régimen: jubilación forzosa a los 65 años (70 en algunos cuerpos, como profesores universitarios, jueces y fiscales) y voluntaria desde los 60 con 30 años de servicios. Los que ingresaron desde el 1 de enero de 2011 están en el Régimen General y siguen esta tabla.</li>
+<li><strong>Funcionarios.</strong> Los de Clases Pasivas tienen su propio régimen: jubilación forzosa a los 65 años (70 en algunos cuerpos, como profesores universitarios, jueces y fiscales) y voluntaria desde los 60 con 30 años de servicios. Los que ingresaron desde el 1 de enero de 2011 están en el Régimen General y siguen esta tabla. Lo explicamos en <a href="/jubilacion/funcionarios/">jubilación de los funcionarios</a>.</li>
 <li><strong>Discapacidad y profesiones con edad reducida.</strong> Las personas con un grado de discapacidad elevado y algunos colectivos (bomberos, policías locales, mineros o trabajadores del mar, entre otros) pueden jubilarse antes sin recorte, gracias a <a href="/jubilacion/anticipada-por-profesion/">coeficientes reductores de la edad</a>.</li>
 <li><strong>Cláusula de salvaguarda.</strong> Si tu relación laboral terminó antes del 1 de abril de 2013 y desde entonces no has vuelto a estar de alta en ningún régimen de la Seguridad Social, se te aplican las reglas anteriores a la reforma de 2011, con jubilación a los 65 años (disposición transitoria 4.ª de la LGSS). Hay matices, así que, si crees que es tu caso, consúltalo con el INSS.</li>
 </ul>
@@ -16414,7 +16750,7 @@
 <ol>
 <li><strong>Descarga tu informe de vida laboral</strong> en Import@ss. Puedes identificarte con SMS, Cl@ve o certificado digital.</li>
 <li><strong>Cuenta tus años y meses completos cotizados</strong>, sin pagas extra, y compáralos con los 38 años y 6 meses.</li>
-<li><strong>Simula tu jubilación</strong> en <a href="https://revista.seg-social.es/-/simulador-de-jubilaci%C3%B3n-en-tu-seguridad-social" rel="noopener">Tu Seguridad Social</a>: te da tu fecha de jubilación ordinaria y una estimación de la pensión.</li>
+<li><strong>Simula tu jubilación</strong> en <a href="https://revista.seg-social.es/-/simulador-de-jubilaci%C3%B3n-en-tu-seguridad-social" rel="noopener">Tu Seguridad Social</a>: te da tu fecha de jubilación ordinaria y una estimación de la pensión. Si tu empresa te pide acreditar esa fecha, desde el 30 de septiembre de 2026 puedes descargar con un SMS el <strong>informe de edad legal de jubilación</strong>, que solo muestra la edad y la fecha (<a href="https://revista.seg-social.es/-/guia-para-obtener-el-informe-que-acredita-tu-edad-legal-de-jubilacion" rel="noopener">Seguridad Social</a>); te contamos dónde está en <a href="/cuanto-cobrare/certificado-pension/">certificado de pensión</a>.</li>
 <li><strong>Si te faltan pocos meses</strong>, compara trabajar hasta completarlos con adelantar la jubilación con recorte: el recorte de la anticipada es para siempre.</li>
 <li><strong>Solicita la pensión con antelación</strong>: puedes hacerlo hasta tres meses antes de la fecha prevista, por internet o con cita previa (<a href="https://revista.seg-social.es/-/c%C3%B3mo-solicitar-tu-jubilaci%C3%B3n" rel="noopener">cómo solicitar tu jubilación</a>).</li>
 <li><strong>Si cumples los requisitos a finales de 2026</strong>, vigila que la baja no se vaya a 2027 sin haberlo calculado antes.</li>
@@ -16457,13 +16793,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y su fecha. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 27 de septiembre de 2026, primera versión.</p>
+<p>Historial de cambios: 27 de septiembre de 2026, primera versión; 2 de octubre de 2026, nuevo informe de edad legal de jubilación de la Seguridad Social y enlace a la proposición de ley de los 40 años cotizados.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9092</wp:post_id>
-    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:post_id>9094</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[edad-de-jubilacion]]></wp:post_name>
@@ -16591,7 +16927,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9093</wp:post_id>
+    <wp:post_id>9095</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16769,7 +17105,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026.]]></excerpt:encoded>
-    <wp:post_id>9094</wp:post_id>
+    <wp:post_id>9096</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16903,7 +17239,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9095</wp:post_id>
+    <wp:post_id>9097</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16922,6 +17258,264 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación flexible 2026: qué cambia con el RD 416/2026]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[jubilación flexible 2026]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Jubilación de los funcionarios: Clases Pasivas o Seguridad Social, edades, cálculo de la pensión y MUFACE]]></title>
+    <link>https://jubilometro.com/jubilacion/funcionarios/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-10-02">2 de octubre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Depende de cuándo entraste. Si eres funcionario de carrera del Estado (incluidos docentes, militares y personal de Justicia) y entraste <strong>antes del 1 de enero de 2011</strong>, te jubilas por <strong>Clases Pasivas</strong>: forzosamente a los <strong>65 años</strong> o, si lo pides, desde los <strong>60 con 30 años de servicios</strong>. Tu pensión es el <strong>haber regulador</strong> de tu grupo multiplicado por un porcentaje que llega al <strong>100 % con 35 años de servicios</strong>.</p>
+<p>Si entraste <strong>desde el 1 de enero de 2011</strong>, tu pensión es de la <strong>Seguridad Social</strong>, con las mismas reglas que el resto de trabajadores. Si eres mutualista de <strong>MUFACE</strong>, sigues siéndolo al jubilarte y dejas de pagar su cuota.</p>
+</aside>
+<h2 id="clases-pasivas-o-seguridad-social">¿Clases Pasivas o Seguridad Social?</h2>
+<p>Hay dos sistemas de pensiones para los funcionarios, y no se elige: depende de la fecha de ingreso.</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Régimen de pensiones de los funcionarios según su fecha de ingreso</caption>
+<thead>
+<tr>
+<th scope="col">Situación</th>
+<th scope="col">Régimen de pensión</th>
+<th scope="col">Qué reglas se aplican</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Funcionario de carrera del Estado (civil, militar, de Justicia o de las Cortes Generales) que ingresó antes del 1 de enero de 2011</th>
+<td>Clases Pasivas del Estado</td>
+<td>Las de esta guía: haber regulador del grupo y años de servicio</td>
+</tr>
+<tr>
+<th scope="row">Docentes y otros funcionarios del Estado transferidos a una comunidad autónoma, con ingreso antes de 2011</th>
+<td>Clases Pasivas del Estado</td>
+<td>Las mismas</td>
+</tr>
+<tr>
+<th scope="row">Funcionarios de cualquier administración que ingresaron desde el 1 de enero de 2011</th>
+<td>Régimen General de la Seguridad Social</td>
+<td>Las generales: base reguladora, años cotizados y edad ordinaria</td>
+</tr>
+<tr>
+<th scope="row">Funcionarios de comunidades autónomas (no transferidos) y de ayuntamientos</th>
+<td>Régimen General de la Seguridad Social</td>
+<td>Las generales</td>
+</tr>
+</tbody></table>
+</div>
+<p>La regla de 2011 está hoy en la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#datercera" rel="noopener">disposición adicional tercera de la Ley General de la Seguridad Social</a>. Si ya estabas en Clases Pasivas y después cambiaste de cuerpo sin interrupción, sigues en Clases Pasivas.</p>
+<p>Si estás en el Régimen General, todo lo que explicamos en la <a href="/jubilacion/edad-de-jubilacion/">guía de la edad de jubilación</a> y en la de <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión</a> vale para ti. El resto de esta guía trata sobre todo de Clases Pasivas.</p>
+<h2 id="las-tres-formas-de-jubilarse-en-clases-pasivas">Las tres formas de jubilarse en Clases Pasivas</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Tipos de jubilación en Clases Pasivas</caption>
+<thead>
+<tr>
+<th scope="col">Tipo</th>
+<th scope="col">Cuándo</th>
+<th scope="col">Cómo empieza</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Forzosa por edad</th>
+<td>Al cumplir <strong>65 años</strong>. Puedes pedir prolongar el servicio activo hasta los <strong>70</strong></td>
+<td>De oficio: la declara tu administración</td>
+</tr>
+<tr>
+<th scope="row">Voluntaria</th>
+<td>Desde los <strong>60 años</strong>, con <strong>30 años de servicios efectivos</strong> al Estado</td>
+<td>A petición tuya</td>
+</tr>
+<tr>
+<th scope="row">Por incapacidad permanente para el servicio</th>
+<td>Cuando una lesión o enfermedad te impide totalmente hacer las funciones de tu cuerpo</td>
+<td>De oficio o a petición tuya, con dictamen médico</td>
+</tr>
+</tbody></table>
+</div>
+<p>En los tres casos necesitas al menos <strong>15 años de servicios</strong> para tener pensión (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a28" rel="noopener">artículos 28 y 29 de la Ley de Clases Pasivas</a>). La edad de 65 años y la prolongación hasta los 70 vienen del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a67" rel="noopener">artículo 67 del Estatuto Básico del Empleado Público</a>. Algunos cuerpos tienen normas propias: los jueces y magistrados, por ejemplo, se jubilan a los 70 años y pueden seguir hasta los 72.</p>
+<p>Si te falta poco para los 15 años al llegar a la edad forzosa y tienes al menos 12, puedes pedir una prórroga en el servicio activo justo por el tiempo que te falte.</p>
+<p><strong>Funcionarios del Régimen General:</strong> su jubilación forzosa llega a la edad ordinaria de la Seguridad Social, la que da derecho a la pensión sin recortes (67 años, o 65 con 38 años y 6 meses cotizados en 2027), según el apartado 4 del mismo artículo 67.</p>
+<h2 id="como-se-calcula-la-pension-de-clases-pasivas">Cómo se calcula la pensión de Clases Pasivas</h2>
+<p>No se usa tu sueldo real. La pensión sale de multiplicar dos cifras:</p>
+<ol>
+<li><strong>El haber regulador</strong> de tu grupo o subgrupo, una cantidad fija que se publica cada año.</li>
+<li><strong>Un porcentaje</strong> según tus años completos de servicios efectivos al Estado.</li>
+</ol>
+<h3 id="haberes-reguladores-de-2026">Haberes reguladores de 2026</h3>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Haberes reguladores de Clases Pasivas en 2026 (anexo III del Real Decreto-ley 3/2026)</caption>
+<thead>
+<tr>
+<th scope="col">Grupo o subgrupo</th>
+<th scope="col">Haber regulador anual</th>
+<th scope="col">Pensión máxima con 35 años (en 14 pagas)</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">A1</th>
+<td>52.697,06 €</td>
+<td>3.359,60 € (limitada por la pensión máxima)</td>
+</tr>
+<tr>
+<th scope="row">A2</th>
+<td>41.473,91 €</td>
+<td>2.962,42 €</td>
+</tr>
+<tr>
+<th scope="row">B</th>
+<td>36.317,13 €</td>
+<td>2.594,08 €</td>
+</tr>
+<tr>
+<th scope="row">C1</th>
+<td>31.852,67 €</td>
+<td>2.275,19 €</td>
+</tr>
+<tr>
+<th scope="row">C2</th>
+<td>25.200,74 €</td>
+<td>1.800,05 €</td>
+</tr>
+<tr>
+<th scope="row">E y agrupaciones profesionales</th>
+<td>21.485,65 €</td>
+<td>1.534,69 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Los importes son los del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-2548" rel="noopener">anexo III del Real Decreto-ley 3/2026</a> para las pensiones que empiezan en 2026. En el grupo A1, la pensión con 35 años sería de 3.764,08 euros al mes, pero no puede pasar de la <strong>pensión máxima</strong>, que en 2026 es de <strong>3.359,60 euros al mes</strong> (47.034,40 al año), igual que en la Seguridad Social. Lo explicamos en <a href="/cuanto-cobrare/pension-maxima/">pensión máxima</a>.</p>
+<h3 id="porcentaje-segun-los-anos-de-servicio">Porcentaje según los años de servicio</h3>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-4" tabindex="0">
+<table><caption id="tabla-4">Porcentaje del haber regulador según los años de servicio en Clases Pasivas</caption>
+<thead>
+<tr>
+<th scope="col">Años completos de servicio</th>
+<th scope="col">Porcentaje del haber regulador</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">15</th>
+<td>26,92 %</td>
+</tr>
+<tr>
+<th scope="row">20</th>
+<td>45,19 %</td>
+</tr>
+<tr>
+<th scope="row">25</th>
+<td>63,46 %</td>
+</tr>
+<tr>
+<th scope="row">30</th>
+<td>81,73 %</td>
+</tr>
+<tr>
+<th scope="row">33</th>
+<td>92,69 %</td>
+</tr>
+<tr>
+<th scope="row">35 o más</th>
+<td>100 %</td>
+</tr>
+</tbody></table>
+</div>
+<p>Cada año intermedio tiene su porcentaje en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a31" rel="noopener">artículo 31 de la Ley de Clases Pasivas</a>. Solo cuentan los <strong>años completos</strong>. La pensión anual se divide entre <strong>14 pagas</strong>: doce mensualidades y dos extraordinarias, en junio y diciembre.</p>
+<p><strong>Si has estado en varios cuerpos</strong>, cada etapa se calcula con el haber regulador de su grupo, con una fórmula que suma los tramos. Y si antes cotizaste a la Seguridad Social, esos años pueden sumarse a tus servicios (el llamado <strong>cómputo recíproco</strong>), lo que ayuda a llegar a los 30 años para la jubilación voluntaria o a los 35 para el 100 %.</p>
+<h3 id="tres-ejemplos-con-cifras-de-2026">Tres ejemplos con cifras de 2026</h3>
+<ul>
+<li><strong>Marta, maestra (subgrupo A2), se jubila voluntariamente a los 62 con 33 años de servicios.</strong> Le corresponde el 92,69 % de 41.473,91 euros: <strong>38.442,17 euros al año</strong>, unos <strong>2.745,87 euros al mes</strong> en 14 pagas.</li>
+<li><strong>Jorge, administrativo (subgrupo C1), se jubila a los 60 con 30 años de servicios.</strong> Le corresponde el 81,73 % de 31.852,67 euros: <strong>26.033,19 euros al año</strong>, unos <strong>1.859,51 euros al mes</strong>.</li>
+<li><strong>Elena, profesora de secundaria (subgrupo A1), se jubila forzosamente a los 65 con 36 años de servicios.</strong> Le corresponde el 100 % de 52.697,06 euros, pero la pensión máxima la deja en <strong>3.359,60 euros al mes</strong>.</li>
+</ul>
+<p>Son importes brutos: después se descuenta el IRPF. Una vez jubilado, la pensión sube cada enero con la <a href="/cuanto-cobrare/revalorizacion-pensiones/">revalorización de las pensiones</a>, como las de la Seguridad Social.</p>
+<h2 id="lo-que-conviene-saber-antes-de-pedir-la-voluntaria">Lo que conviene saber antes de pedir la voluntaria</h2>
+<ul>
+<li><strong>No hay coeficientes reductores como en la Seguridad Social</strong>, pero tampoco hace falta: si te jubilas antes, tienes menos años de servicio y, por tanto, menos porcentaje. Con 30 años cobras el 81,73 % del haber regulador; con 35, el 100 %.</li>
+<li><strong>El complemento por brecha de género</strong> (por hijos) solo se reconoce en la jubilación <strong>forzosa</strong> o por <strong>incapacidad</strong>, no en la voluntaria (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#decimoctava" rel="noopener">disposición adicional 18.ª de la Ley de Clases Pasivas</a>). Si tienes derecho a él, pesa en la decisión. Lo explicamos en <a href="/cuanto-cobrare/complemento-brecha-genero/">complemento por brecha de género</a>.</li>
+<li><strong>El subsidio de jubilación de MUFACE</strong> (un pago único de media mensualidad de tus retribuciones básicas) tampoco se cobra con la jubilación voluntaria anticipada.</li>
+<li><strong>Solicítala con tiempo.</strong> En la Administración General del Estado se pide por el Sistema Integrado de Gestión de Procedimientos (SIGP); los docentes y el personal transferido, ante su comunidad autónoma o el órgano de personal que les corresponda.</li>
+</ul>
+<h2 id="como-se-tramita-la-pension">Cómo se tramita la pensión</h2>
+<ol>
+<li><strong>Tu administración declara la jubilación</strong>: de oficio en la forzosa, que se prepara meses antes de que cumplas los 65, o a petición tuya en la voluntaria.</li>
+<li><strong>Recibes la documentación</strong> para pedir la pensión: datos bancarios, declaración de otras pensiones públicas y, si quieres, el porcentaje de IRPF que prefieres que te retengan.</li>
+<li><strong>Clases Pasivas reconoce la pensión.</strong> La gestiona hoy el Ministerio de Inclusión, Seguridad Social y Migraciones, con su información en la web de la Seguridad Social.</li>
+<li><strong>Empiezas a cobrar</strong> desde el primer día del mes siguiente a tu jubilación.</li>
+</ol>
+<p>No dejes pasar la solicitud: si la presentas tarde, los atrasos se pagan como máximo desde <strong>tres meses antes</strong> del primer día del mes siguiente a la solicitud (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a7" rel="noopener">artículo 7 de la Ley de Clases Pasivas</a>).</p>
+<h2 id="puedo-trabajar-despues-de-jubilarme">¿Puedo trabajar después de jubilarme?</h2>
+<ul>
+<li><strong>En el sector público, no:</strong> la pensión de Clases Pasivas es incompatible con un puesto o alto cargo público y con cualquier otra remuneración pagada con presupuestos públicos, salvo excepciones de la ley de incompatibilidades.</li>
+<li><strong>En el sector privado, en general tampoco:</strong> la pensión es incompatible con una actividad que te dé de alta en la Seguridad Social. La excepción es la <strong>jubilación activa</strong>: si tu jubilación fue forzosa y empezaste a cobrar la pensión <strong>al menos un año después</strong> de la edad de jubilación (prolongando el servicio), puedes compatibilizar un porcentaje de la pensión con un trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a33" rel="noopener">artículo 33 de la Ley de Clases Pasivas</a>). La idea es la misma que en la Seguridad Social, que explicamos en <a href="/jubilacion/activa/">jubilación activa</a>.</li>
+</ul>
+<h2 id="muface-al-jubilarte">MUFACE al jubilarte</h2>
+<p>Si eras mutualista, la asistencia sanitaria apenas cambia al jubilarte:</p>
+<ul>
+<li><strong>Sigues siendo mutualista</strong> de MUFACE si lo eras en activo (los militares tienen ISFAS y el personal de Justicia, MUGEJU, con reglas parecidas). Los funcionarios de ayuntamientos, de las comunidades autónomas con cuerpos propios o de la Seguridad Social no están en MUFACE: su asistencia sanitaria es la de la Seguridad Social.</li>
+<li><strong>Dejas de pagar la cuota</strong>: los mutualistas jubilados están exentos de cotizar a MUFACE.</li>
+<li><strong>Sigues eligiendo entidad médica</strong>: la sanidad pública o una de las aseguradoras del concierto. Para 2025-2027 son <strong>Adeslas y Asisa</strong>, y el cambio ordinario se puede pedir en <strong>enero y en junio</strong> de cada año.</li>
+<li><strong>Los medicamentos no son gratis</strong>: los mutualistas, también los jubilados, pagan con carácter general el <strong>30 %</strong> del precio (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102" rel="noopener">artículo 102.9 de la ley del medicamento</a>). MUFACE convoca cada año ayudas para compensar parte de ese gasto a los jubilados.</li>
+<li><strong>Subsidio de jubilación</strong>: si te jubilas forzosamente o por incapacidad, puedes pedir este pago único en los <strong>cinco años</strong> siguientes, en la sede electrónica de MUFACE.</li>
+</ul>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="con-cuantos-anos-de-servicio-puede-jubilarse-un-funcionario">¿Con cuántos años de servicio puede jubilarse un funcionario?</h3>
+<p>En Clases Pasivas, la jubilación voluntaria exige 60 años de edad y 30 de servicios efectivos. La forzosa llega a los 65 y da pensión con un mínimo de 15 años de servicios. En el Régimen General se aplican las reglas de la Seguridad Social: 15 años cotizados como mínimo y edad ordinaria de 65 o 67 años.</p>
+<h3 id="cuanto-cobra-un-funcionario-jubilado-del-grupo-a1">¿Cuánto cobra un funcionario jubilado del grupo A1?</h3>
+<p>En Clases Pasivas, con 35 años de servicio o más, la pensión de 2026 sería de 3.764,08 euros al mes, pero se queda en la máxima, 3.359,60 euros. Con 30 años, el 81,73 % del haber regulador: unos 3.076,38 euros al mes.</p>
+<h3 id="un-funcionario-puede-jubilarse-a-los-60">¿Un funcionario puede jubilarse a los 60?</h3>
+<p>Sí, si está en Clases Pasivas y tiene 30 años de servicios efectivos al Estado, contando, en su caso, los cotizados a la Seguridad Social. Si está en el Régimen General, no: le aplican las edades de la Seguridad Social y, para jubilarse antes, la <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria</a> con recorte.</p>
+<h3 id="que-pasa-con-muface-cuando-me-jubilo">¿Qué pasa con MUFACE cuando me jubilo?</h3>
+<p>Si eras mutualista, sigues siéndolo, sin pagar cuota, y conservas la asistencia sanitaria con la entidad que elijas. Los medicamentos te siguen costando el 30 % del precio con carácter general.</p>
+<h3 id="los-interinos-estan-en-clases-pasivas">¿Los interinos están en Clases Pasivas?</h3>
+<p>En general, no: el personal interino actual cotiza a la Seguridad Social. Clases Pasivas solo incluye a un grupo concreto de interinos de los años sesenta, muy reducido hoy.</p>
+<h3 id="puedo-prolongar-el-servicio-activo-mas-alla-de-los-65">¿Puedo prolongar el servicio activo más allá de los 65?</h3>
+<p>Sí, puedes pedirlo hasta los 70 años, y tu administración debe responder de forma motivada. Si estás en Clases Pasivas y ya tienes 35 años de servicio, seguir no te sube el porcentaje, pero te da derecho a la jubilación activa si después quieres trabajar en el sector privado.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636" rel="noopener">Texto refundido de la Ley de Clases Pasivas del Estado (Real Decreto Legislativo 670/1987)</a>: artículos 2, 7, 20, 22, 28 a 33 y disposición adicional 18.ª (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a67" rel="noopener">Estatuto Básico del Empleado Público, artículo 67</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2026-2548" rel="noopener">Real Decreto-ley 3/2026, anexo III: haberes reguladores de 2026 y pensión máxima</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#datercera" rel="noopener">Ley General de la Seguridad Social, disposición adicional tercera</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666#a386" rel="noopener">Ley Orgánica del Poder Judicial, artículo 386</a> (BOE).</li>
+<li><a href="https://muface.es/mutualistas/cotizacion/regimen" rel="noopener">MUFACE: régimen de cotización</a>, <a href="https://muface.es/prestaciones/sociales/otras-ayudas/subsidio-jubilacion" rel="noopener">subsidio de jubilación</a> y <a href="https://muface.es/actualidad/noticias/2025/abril-2025/firma-concierto-casn-2025-2027" rel="noopener">concierto de asistencia sanitaria 2025-2027</a>.</li>
+<li><a href="https://www.seg-social.es/wps/portal/wss/internet/clasespasivas/" rel="noopener">Clases Pasivas en la web de la Seguridad Social</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Estás en el Régimen General? Consulta tu <a href="/jubilacion/edad-de-jubilacion/">edad de jubilación</a> y <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión</a>.</li>
+<li>¿Tienes también años en la Seguridad Social? Mira qué pasa si te <a href="/jubilacion/faltan-anos-cotizados/">faltan años cotizados</a>.</li>
+<li>¿Cuánto te quedará neto? Calcúlalo con la calculadora de pensión neta.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de Clases Pasivas o de tu órgano de personal. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 2 de octubre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Cómo se jubila un funcionario en 2026: forzosa a los 65, voluntaria a los 60 con 30 años, haberes reguladores de Clases Pasivas, ejemplos y MUFACE.]]></excerpt:encoded>
+    <wp:post_id>9098</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[funcionarios]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación de funcionarios: Clases Pasivas, edad y pensión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Cómo se jubila un funcionario en 2026: forzosa a los 65, voluntaria a los 60 con 30 años, haberes reguladores de Clases Pasivas, ejemplos y MUFACE.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[jubilación funcionarios clases pasivas]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación de funcionarios: Clases Pasivas, edad y pensión]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Cómo se jubila un funcionario en 2026: forzosa a los 65, voluntaria a los 60 con 30 años, haberes reguladores de Clases Pasivas, ejemplos y MUFACE.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[jubilación funcionarios clases pasivas]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -17027,7 +17621,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9096</wp:post_id>
+    <wp:post_id>9099</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17097,7 +17691,7 @@
 <li><strong>Firma</strong>: recibirás un código y firmarás a mano en un recuadro de la pantalla.</li>
 <li><strong>Guarda el justificante</strong>.</li>
 </ol>
-<p>Si nada de esto te resulta cómodo, puedes pedir <strong>cita previa</strong> en un Centro de Atención e Información de la Seguridad Social (CAISS) o presentar la solicitud por medio de un representante, como un familiar o un graduado social.</p>
+<p>Si nada de esto te resulta cómodo, puedes pedir <strong><a href="/jubilacion/cita-previa-seguridad-social/">cita previa</a></strong> en un Centro de Atención e Información de la Seguridad Social (CAISS) o presentar la solicitud por medio de un representante, como un familiar o un graduado social.</p>
 <h2 id="despues-de-solicitar">Después de solicitar</h2>
 <ul>
 <li><strong>Consulta el estado</strong> de tu solicitud en Tu Seguridad Social o identificándote por SMS.</li>
@@ -17144,7 +17738,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9097</wp:post_id>
+    <wp:post_id>9100</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17276,7 +17870,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9098</wp:post_id>
+    <wp:post_id>9101</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17376,7 +17970,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9099</wp:post_id>
+    <wp:post_id>9102</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17493,7 +18087,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es compatible con cualquier sueldo, pero trabajar puede quitarte el complemento a mínimos, el 60 % o el 70 %. Paro, IRPF y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9100</wp:post_id>
+    <wp:post_id>9103</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17694,7 +18288,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9101</wp:post_id>
+    <wp:post_id>9104</wp:post_id>
     <wp:post_date><![CDATA[2026-09-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17778,7 +18372,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si estabas divorciado o separado, cobras viudedad si tenías pensión compensatoria, con ese tope. Violencia de género, divorcios anteriores a 2008 y reparto.]]></excerpt:encoded>
-    <wp:post_id>9102</wp:post_id>
+    <wp:post_id>9105</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17923,7 +18517,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9103</wp:post_id>
+    <wp:post_id>9106</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18072,7 +18666,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Hijos, hermanos, nietos, padres o abuelos que vivían a cargo del fallecido pueden cobrar el 20 % de su base reguladora. Requisitos y mínimas de 2026.]]></excerpt:encoded>
-    <wp:post_id>9104</wp:post_id>
+    <wp:post_id>9107</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18178,7 +18772,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pierde al casarte o formar pareja de hecho, salvo con más de 61 años, si es tu principal ingreso y el matrimonio no pasa de 34.188 € al año.]]></excerpt:encoded>
-    <wp:post_id>9105</wp:post_id>
+    <wp:post_id>9108</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18287,7 +18881,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años (con hijos comunes basta la inscripción). Sin límite de ingresos.]]></excerpt:encoded>
-    <wp:post_id>9106</wp:post_id>
+    <wp:post_id>9109</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18404,7 +18998,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión de orfandad es el 20 % de la base reguladora por hijo, con un mínimo de 286,50 € al mes en 2026. Edad límite, orfandad absoluta y límites.]]></excerpt:encoded>
-    <wp:post_id>9107</wp:post_id>
+    <wp:post_id>9110</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18518,7 +19112,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegabais a un año de matrimonio o a dos de pareja de hecho inscrita, cobras lo mismo que la viudedad durante dos años. Cuándo se aplica y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9108</wp:post_id>
+    <wp:post_id>9111</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18708,7 +19302,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9109</wp:post_id>
+    <wp:post_id>9112</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18747,7 +19341,7 @@
 <li><strong>Reúne la documentación</strong> (lista más abajo).</li>
 <li><strong>Presenta la solicitud de prestaciones de muerte y supervivencia</strong> al INSS:<ul>
 <li><strong>Por internet</strong>, en la sede electrónica de la Seguridad Social, con Cl@ve, certificado digital o DNI electrónico. La Seguridad Social también ofrece un servicio para presentar solicitudes sin certificado.</li>
-<li><strong>En persona</strong>, en un CAISS, pidiendo <strong>cita previa</strong>.</li>
+<li><strong>En persona</strong>, en un CAISS, pidiendo <strong><a href="/jubilacion/cita-previa-seguridad-social/">cita previa</a></strong>.</li>
 </ul>
 </li>
 <li><strong>En la misma solicitud</strong> puedes pedir el <strong>auxilio por defunción</strong> (46,50 euros para los gastos del sepelio) y, si hay hijos, la <strong>pensión de orfandad</strong>.</li>
@@ -18813,7 +19407,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9110</wp:post_id>
+    <wp:post_id>9113</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18930,7 +19524,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9111</wp:post_id>
+    <wp:post_id>9114</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

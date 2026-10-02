@@ -55,5 +55,8 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `pension-extranjero.webp` | /dinero/pension-extranjero/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5926280/close-globe-world-map-image | Detalle de un globo terráqueo con los países coloreados |
 | `domiciliar-pension.webp` | /dinero/domiciliar-pension/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/3298668/free-photo-image-bank-cc0-creative-commons | Hucha de cerdito rosa sobre un fondo blanco |
 | `anticipada-40-anos.webp` | /jubilacion/anticipada-40-anos-cotizados/ | Open Grid Scheduler (Wikimedia Commons) | CC0 1.0 (dominio público) | https://commons.wikimedia.org/wiki/File:InternationalTimeRecorder.jpg | Antiguo reloj de fichar de los años veinte, con esfera de reloj y una rueda de números de trabajador |
+| `jubilacion-funcionarios.webp` | /jubilacion/funcionarios/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5967292/closeup-vintage-typewriter | Teclas de una máquina de escribir antigua sobre una mesa de madera |
+| `cita-previa-seguridad-social.webp` | /jubilacion/cita-previa-seguridad-social/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5923051/photo-image-phone-public-domain-gold | Teléfono antiguo de disco, negro y dorado, sobre una mesa de madera |
+| `certificado-pension.webp` | /cuanto-cobrare/certificado-pension/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/8717910/photo-image-vintage-public-domain-letter | Carta antigua doblada y cerrada con un sello de lacre rojo |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

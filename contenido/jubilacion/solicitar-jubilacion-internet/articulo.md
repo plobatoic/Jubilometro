@@ -66,7 +66,7 @@ Si no tienes Cl@ve ni certificado, puedes pedirla en la sede electrónica de la 
 5. **Firma**: recibirás un código y firmarás a mano en un recuadro de la pantalla.
 6. **Guarda el justificante**.
 
-Si nada de esto te resulta cómodo, puedes pedir **cita previa** en un Centro de Atención e Información de la Seguridad Social (CAISS) o presentar la solicitud por medio de un representante, como un familiar o un graduado social.
+Si nada de esto te resulta cómodo, puedes pedir **[cita previa](/jubilacion/cita-previa-seguridad-social/)** en un Centro de Atención e Información de la Seguridad Social (CAISS) o presentar la solicitud por medio de un representante, como un familiar o un graduado social.
 
 ## Después de solicitar
 

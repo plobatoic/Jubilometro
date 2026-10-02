@@ -43,7 +43,7 @@ Antes de pedirla, comprueba que cumples los **requisitos de cotización y alta**
 1. **Reúne tus informes médicos**: los del especialista, las pruebas (resonancias, analíticas…) y el tratamiento que sigues. El INSS pedirá tu historial clínico al servicio de salud con tu consentimiento, pero los informes que aportes tú también se incorporan al expediente.
 2. **Rellena la solicitud** en el modelo oficial de la Seguridad Social. Debe incluir la **fecha en que dejaste de trabajar y su causa**, tu **profesión habitual**, tu **categoría** y una **descripción del trabajo concreto que hacías** ([artículo 4 de la Orden de 18 de enero de 1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-1644)).
 3. **Adjunta tu DNI o NIE** y, si el INSS no los tiene ya, los justificantes de cotización necesarios (por ejemplo, los recibos de cuotas si eres autónomo).
-4. **Preséntala** por internet en la sede electrónica de la Seguridad Social o en un CAISS con cita previa.
+4. **Preséntala** por internet en la sede electrónica de la Seguridad Social o en un CAISS con [cita previa](/jubilacion/cita-previa-seguridad-social/).
 5. **Acude al reconocimiento médico** si te citan (ver abajo).
 6. **Revisa el dictamen y alega** si no estás de acuerdo, en el plazo de **10 días**.
 7. **Recibe la resolución**, que dirá si te reconocen la incapacidad, el grado, la cuantía y desde cuándo puede revisarse.

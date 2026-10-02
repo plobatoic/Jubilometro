@@ -438,5 +438,21 @@
   "/viudedad/viudedad-y-jubilacion/": {
     "id": 417,
     "estado": "publish"
+  },
+  "/jubilacion/anticipada-40-anos-cotizados/": {
+    "id": 693,
+    "estado": "publish"
+  },
+  "/cuanto-cobrare/certificado-pension/": {
+    "id": 701,
+    "estado": "publish"
+  },
+  "/jubilacion/cita-previa-seguridad-social/": {
+    "id": 707,
+    "estado": "publish"
+  },
+  "/jubilacion/funcionarios/": {
+    "id": 710,
+    "estado": "publish"
   }
 }
