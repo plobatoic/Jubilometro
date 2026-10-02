@@ -11,3 +11,4 @@
 | 7 | Complemento a mínimos distribuido entre las mensualidades en que se devenga la pensión | RD 241/2026, art. 9.2 | Texto del BOE | Verificado en BOE |
 | 8 | Límite de la pensión máxima incluidas las pagas extraordinarias; ajuste si se cobran menos de 14 pagas | RD 241/2026, art. 3.1 | Texto del BOE | Verificado en BOE |
 | 9 | Ejemplos (Luis 3/6 × 1.500 = 750 €; tabla de noviembre) | — | Cálculo propio | Cálculo propio |
+| 10 | Sin paga compensatoria: revalorización anual con la media del IPC de los doce meses previos a diciembre | Art. 58 LGSS (redacción del RDL 2/2023) | Texto consolidado leído el 02/10/2026 | Verificado en BOE |

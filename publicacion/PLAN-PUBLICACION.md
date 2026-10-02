@@ -157,17 +157,36 @@ Cuando se publique cada una, regenera (`npm run publicar`) y actualiza en WordPr
 
 **Después**: seguir el orden del informe (categoría 2 «Cuánto cobraré» y siguientes), siempre de 3 a 4 por semana y cada uno con su revisión.
 
+### Tanda del 2 de octubre de 2026: búsquedas con mucho volumen
+
+Publicadas el 2/10/2026, cada una con su `verificacion-fuentes.md`, imagen CC0 y enlaces desde las guías vecinas:
+
+| URL nueva | Palabra clave | Enlazada desde |
+|---|---|---|
+| /jubilacion/anticipada-40-anos-cotizados/ | jubilación anticipada 40 años cotizados sin penalización | anticipada voluntaria, anticipada involuntaria, compensa, despido a los 60, edad de jubilación |
+| /jubilacion/funcionarios/ | jubilación funcionarios clases pasivas | edad de jubilación, anticipada por profesión, revalorización, certificado de pensión |
+| /cuanto-cobrare/certificado-pension/ | certificado de pensión | trámites online, IRPF de las pensiones, revalorización, edad de jubilación, cita previa |
+| /jubilacion/cita-previa-seguridad-social/ | cita previa seguridad social | trámites online, solicitar la jubilación, solicitar viudedad, solicitar incapacidad, certificado de pensión |
+
+Actualizadas el mismo día: subida de 2027 (IPC adelantado de septiembre, 4,9 %), edad de jubilación (nuevo informe de edad legal del 30/09/2026), viajes del Imserso (temporada en marcha, plazas con animales, duplicado de la acreditación) y pagas extra (sin paga compensatoria).
+
+**Search Console**: pedir la indexación de las cuatro URL nuevas (Inspección de URLs > Solicitar indexación) y de la subida de 2027.
+
 ## 7. Calendario de mantenimiento
 
 | Fecha | Qué revisar |
 |---|---|
-| Cada semana | Tramitación de la proposición de ley de jubilación anticipada sin recortes con 40 años cotizados (tomada en consideración el 22/09/2026). Afecta a anticipada voluntaria, anticipada involuntaria, compensa y edad de jubilación |
+| Cada semana | Tramitación de la proposición de ley de jubilación anticipada sin recortes con 40 años cotizados (tomada en consideración el 22/09/2026). Afecta a la guía de los 40 años cotizados (tabla de tramitación) y a anticipada voluntaria, anticipada involuntaria, compensa, despido a los 60 y edad de jubilación |
 | Octubre-diciembre 2026 | Desarrollo del RD 632/2026 (discapacidad) y primeros criterios del INSS sobre la jubilación flexible del RD 416/2026 |
+| 30 de octubre de 2026 | IPC adelantado de octubre (INE): actualizar la estimación de la subida de 2027 |
+| Cada trimestre | Teléfonos y horarios de cita previa y de información de la Seguridad Social (guía oficial) y servicios del certificado de pensión; la Seguridad Social anunció que el informe de edad legal incluirá bonificaciones de edad y un informe de jubilación parcial |
 | 29 de octubre de 2026 | Tabla de pensión media por provincia con la nómina de octubre y texto de la portada `/datos/` |
 | 1 de noviembre de 2026 | Plazos de termalismo del IMSERSO (requisitos de los viajes y termalismo) |
 | 16 de diciembre de 2026 | Termalismo de Castilla-La Mancha y plazos autonómicos (turismo autonómico) |
+| 1 de enero de 2027 | Haberes reguladores de Clases Pasivas de 2027 (anexo del real decreto-ley o la ley de presupuestos) y pensión máxima en la guía de funcionarios |
 | 1 de enero de 2027 | Revalorización: pensiones mínimas, límite de ingresos del complemento a mínimos, base mínima de cotización (convenio especial, subsidio de mayores de 52), pensión no contributiva. Cambiar «2026» por «2027» en los títulos que lo llevan (activa, parcial, autónomos, discapacidad, subsidio, 15 años, solicitud por internet, flexible) y actualizar `fecha_actualizacion` e historial de cambios. Cambiar también `CFG` en `tema/jubilometro/assets/js/calculadoras.js` (máxima, mínimas, límite de ingresos, bases, fecha) y empaquetar el tema; los ejemplos de las calculadoras se actualizan solos. Ayudas al transporte del RDL 17/2025 y abono de Cercanías en 2027 |
 | 1 de enero de 2027 | Entra en vigor el último escalón de la reforma (67 años, 38 años y 6 meses, 37 años para el 100 %). Revisar que el texto hable en presente y no en futuro |
+| Octubre-diciembre 2027 | Nuevo concierto sanitario de MUFACE (el actual acaba el 31/12/2027): entidades y plazos de cambio en la guía de funcionarios |
 | Enero 2028 | Retitular las páginas «2027» con el año nuevo solo si el contenido cambia de verdad |
 
 Cada cambio de datos: editar el `articulo.md`, anotarlo en el «Historial de cambios» del artículo y en su `verificacion-fuentes.md`, y regenerar.

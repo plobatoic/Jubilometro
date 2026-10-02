@@ -21,3 +21,6 @@
 | 17 | Teléfono del Imserso 912 667 713 | Web del Imserso; La Moncloa | — | Verificado |
 | 18 | Convocatoria anual en el primer semestre | Orden SCB/926/2018, art. 6 (citado en el preámbulo de la resolución) | Texto del BOE | Verificado en BOE |
 | 19 | Ejemplos (Carmen 507,22 €; Antonio y Pilar 80 puntos; Rosario 70 puntos) | — | Cálculo propio con el baremo y el anexo I | Cálculo propio |
+| 20 | Cupo de plazas para viajar con animales de compañía en costa peninsular e insular | Nota del Imserso (18/08/2026) | Texto de la nota oficial, releída el 02/10/2026 | Verificado |
+| 21 | Duplicado de la acreditación por la sede electrónica del Imserso | Nota del Imserso (18/08/2026) | Texto de la nota oficial | Verificado |
+| 22 | Desde el 19/09 se pueden reservar plazas libres de cualquier provincia; las canceladas vuelven a la venta | Nota del Imserso; 65ymas y Cronista | Ya figuraba en la guía (fila 16 y calendario) | Verificado |

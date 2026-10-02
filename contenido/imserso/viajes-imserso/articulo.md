@@ -8,7 +8,7 @@ miga: Viajes del Imserso
 palabra_clave_principal: viajes del Imserso
 intencion: informativa (estacional)
 fase_plan: F1 (artículo n.º 90)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-02
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,13 +19,13 @@ fuentes_legales:
 
 # Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > La temporada 2026-2027 del Programa de Turismo del Imserso tiene **879.213 plazas** para viajar entre **octubre de 2026 y junio de 2027**. Los precios van de **132,91 euros** (4 días en una capital de provincia) a **564,72 euros** (10 días en Canarias en temporada alta), y hay **7.447 plazas a 50 euros** para quien tiene ingresos iguales o inferiores a la pensión no contributiva.
 >
-> Pueden ir, entre otros, los **pensionistas de jubilación** y los de **viudedad desde los 55 años**, con su pareja aunque esta no cumpla los requisitos. Las reservas están abiertas desde el 14 de septiembre en turismosocial.es, mundicolor.es y las agencias autorizadas, con el DNI y la clave de 4 dígitos de la acreditación.
+> Pueden ir, entre otros, los **pensionistas de jubilación** y los de **viudedad desde los 55 años**, con su pareja aunque esta no cumpla los requisitos. La temporada ya está en marcha: desde el 19 de septiembre puedes reservar las plazas libres de cualquier provincia en turismosocial.es, mundicolor.es o una agencia autorizada, con el DNI y la clave de 4 dígitos de tu carta de acreditación, y las plazas que otros cancelan vuelven a la venta.
 
 ## Quién puede ir de viaje con el Imserso
 
@@ -67,6 +67,8 @@ El precio incluye:
 - **Pensión completa**, salvo en los viajes a capitales de provincia, que son de **media pensión**.
 - **Transporte de ida y vuelta** desde la capital de tu provincia hasta el hotel, salvo en los viajes «sin transporte» y en los de capitales de provincia.
 - **Seguro colectivo**, **médico en el propio hotel** (en los destinos de costa) y **actividades de animación**.
+
+**¿Y si viajas con tu animal de compañía?** Esta temporada se mantiene un cupo de plazas para viajar con **animales de compañía** en los viajes de costa peninsular y de costa insular, siempre con la normativa y los cuidados que necesitan ([nota del Imserso](https://imserso.es/en/detalle-actualidad/-/asset_publisher/n1oS8lWfrx6m/content/los-viajes-del-programa-de-turismo-del-imserso-de-la-temporada-2026-2027-comenzaran-a-comercializarse-el-14-de-septiembre-de-2026/20123)). Pregunta por ellas al reservar.
 
 ## Precios de los viajes del Imserso 2026-2027
 
@@ -171,7 +173,7 @@ Una señal al reservar (como máximo, el 20 % del precio) y el resto 45 días an
 
 ### ¿Qué es la clave de 4 dígitos del Imserso?
 
-Es la clave que figura en tu carta de acreditación. Junto con el DNI, te identifica para reservar en las webs de las empresas que venden los viajes. Si no la encuentras, consulta al Imserso en el 912 667 713.
+Es la clave que figura en tu carta de acreditación. Junto con el DNI, te identifica para reservar en las webs de las empresas que venden los viajes. Si has perdido la carta, puedes descargar un **duplicado de tu acreditación** en la sede electrónica del Imserso, o consultar al Imserso en el 912 667 713.
 
 ### ¿Puedo hacer más de un viaje en la misma temporada?
 
@@ -198,4 +200,4 @@ El plazo de nuevas solicitudes de la temporada 2026-2027 terminó el 10 de julio
 
 *Este artículo es informativo y no sustituye la información oficial del Imserso ni de las empresas que comercializan los viajes, que son las que confirman plazas y precios. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 28 de septiembre de 2026, primera versión; 2 de octubre de 2026, temporada en marcha, plazas con animales de compañía y duplicado de la acreditación.*

@@ -8,7 +8,7 @@ miga: Pagas extra
 palabra_clave_principal: paga extra pensionistas
 intencion: informativa
 fase_plan: F2 (artículo n.º 34)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-02
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Pagas extra de los pensionistas: cuándo se cobran en junio y noviembre, cuánto son y cómo se calculan
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -93,6 +93,10 @@ Sí, la misma que la pensión. Como ese mes cobras el doble, la retención en eu
 
 No en las pensiones de la Seguridad Social: las extra son en junio y noviembre. Lo que llega a finales de diciembre es la pensión de diciembre.
 
+### ¿Habrá una paga compensatoria por la subida de los precios?
+
+No. Desde 2022 la ley no prevé ninguna paga compensatoria: las pensiones suben cada enero con la media del IPC de los doce meses anteriores, de diciembre a noviembre ([artículo 58 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58)). Si los precios suben más este año, se nota en la subida de enero de 2027, que explicamos en la [revalorización de las pensiones](/cuanto-cobrare/revalorizacion-pensiones/).
+
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social, artículo 46 (catorce pagas)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
@@ -110,4 +114,4 @@ No en las pensiones de la Seguridad Social: las extra son en junio y noviembre. 
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social ni la de tu banco. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 28 de septiembre de 2026, primera versión; 2 de octubre de 2026, pregunta sobre la paga compensatoria.*
