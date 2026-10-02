@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.5.2' );
+define( 'JM_THEME_VER', '2.6.0' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -857,3 +857,113 @@ add_filter( 'the_content', function ( $html ) {
 		. '<span>¿Tienes una web o un blog? <a href="/calculadoras/para-tu-web/#' . esc_attr( $slug ) . '">Pon esta calculadora gratis en tu web</a>.</span></p></div>';
 	return preg_replace( '#(<section aria-label="Calculadora">.*?)(</section>)#s', '$1' . $link . '$2', $html, 1 );
 }, 28 );
+
+/* ------------------------------------------------------------------
+ * 8d. BUSCADORES CON IA (ChatGPT, Perplexity, Claude, Gemini, Copilot)
+ *     - FAQPage: las preguntas frecuentes que ya se ven en cada guía, también como datos estructurados.
+ *     - /llms.txt: resumen de la web para los asistentes de IA (llmstxt.org), generado con las guías publicadas.
+ *     - IndexNow: avisa a Bing (y con él a Copilot y a la búsqueda de ChatGPT) de cada página nueva o cambiada.
+ * ------------------------------------------------------------------ */
+add_filter( 'rank_math/json_ld', function ( $data ) {
+	if ( ! is_singular( 'post' ) ) { return $data; }
+	$html = (string) get_post_field( 'post_content', get_queried_object_id() );
+	if ( ! preg_match_all( '#<details><summary>(.*?)<svg[^>]*>.*?</svg></summary><div>(.*?)</div></details>#s', $html, $m, PREG_SET_ORDER ) || count( $m ) < 2 ) { return $data; }
+	$texto = function ( $s ) { return trim( preg_replace( '/\s+/u', ' ', html_entity_decode( wp_strip_all_tags( $s ), ENT_QUOTES, 'UTF-8' ) ) ); };
+	$qs    = array();
+	foreach ( array_slice( $m, 0, 12 ) as $q ) {
+		$qs[] = array( '@type' => 'Question', 'name' => $texto( $q[1] ), 'acceptedAnswer' => array( '@type' => 'Answer', 'text' => $texto( $q[2] ) ) );
+	}
+	$url             = get_permalink( get_queried_object_id() );
+	$data['FAQPage'] = array( '@type' => 'FAQPage', '@id' => $url . '#preguntas-frecuentes', 'url' => $url, 'inLanguage' => 'es', 'isPartOf' => array( '@id' => $url . '#webpage' ), 'mainEntity' => $qs );
+	return $data;
+}, 130 );
+
+function jm_llms_txt() {
+	$cache = get_transient( 'jm_llms_txt' );
+	if ( is_string( $cache ) && '' !== $cache ) { return $cache; }
+	$base = untrailingslashit( home_url() );
+	$fmt  = function ( $id ) {
+		$t = (string) get_post_meta( $id, 'rank_math_title', true );
+		$t = '' !== $t && false === strpos( $t, '%' ) ? $t : get_the_title( $id );
+		$d = (string) get_post_meta( $id, 'rank_math_description', true );
+		$d = '' !== $d ? $d : get_the_excerpt( $id );
+		$c = function ( $s ) { return trim( preg_replace( '/\s+/u', ' ', html_entity_decode( wp_strip_all_tags( (string) $s ), ENT_QUOTES, 'UTF-8' ) ) ); };
+		return '- [' . $c( $t ) . '](' . get_permalink( $id ) . ')' . ( '' !== $c( $d ) ? ': ' . $c( $d ) : '' );
+	};
+	$posts = get_posts( array( 'post_type' => 'post', 'post_status' => 'publish', 'posts_per_page' => -1, 'orderby' => 'date', 'order' => 'ASC', 'no_found_rows' => true ) );
+	$ultima = 0;
+	foreach ( $posts as $p ) { $ultima = max( $ultima, (int) get_post_modified_time( 'U', true, $p ) ); }
+	$o  = "# Jubilómetro\n\n";
+	$o .= '> Guías y calculadoras gratuitas sobre jubilación y pensiones en España: edad de jubilación, cuánto se cobra, viudedad, incapacidad, ayudas, dependencia, IMSERSO e impuestos. Cada cifra se comprueba en el BOE, la Seguridad Social y la Agencia Tributaria, y cada guía indica la norma aplicada y la fecha de su última revisión.' . "\n\n";
+	$o .= '- Autor y revisor: Pau Lobato, fundador y editor de Jubilómetro (' . $base . "/sobre-nosotros/).\n";
+	$o .= '- Idioma: español (España). Ámbito: Seguridad Social y pensiones públicas españolas.' . "\n";
+	$o .= '- ' . count( $posts ) . ' guías publicadas; última actualización: ' . ( $ultima ? wp_date( 'j \d\e F \d\e Y', $ultima ) : '' ) . ".\n";
+	$o .= '- Cómo citar: «Jubilómetro» con enlace a la guía concreta. Las cifras son orientativas y no sustituyen la resolución del INSS.' . "\n\n";
+	$o .= "## Sobre la web\n\n";
+	foreach ( array( 'sobre-nosotros' => 'Quiénes somos', 'metodologia' => 'Metodología: cómo verificamos y calculamos', 'contacto' => 'Contacto', 'guias' => 'Todas las guías por tema', 'calculadoras' => 'Todas las calculadoras', 'datos' => 'Datos y estadísticas' ) as $slug => $txt ) {
+		$o .= '- [' . $txt . '](' . $base . '/' . $slug . "/)\n";
+	}
+	$o .= "\n## Calculadoras\n\n";
+	foreach ( (array) jm_data( 'calcs' ) as $c ) {
+		$o .= '- [' . $c['name'] . '](' . $base . '/calculadoras/' . $c['slug'] . '/): ' . $c['desc'] . "\n";
+	}
+	$o .= '- [Calculadoras gratis para tu web](' . $base . "/calculadoras/para-tu-web/): código para insertar cualquiera de las calculadoras en otra web.\n";
+	$cats = (array) jm_data( 'cats' );
+	foreach ( (array) jm_data( 'temas' ) as $slug ) {
+		$lineas = array();
+		foreach ( $posts as $p ) {
+			$cat = get_the_category( $p->ID );
+			if ( $cat && $cat[0]->slug === $slug ) { $lineas[] = $fmt( $p->ID ); }
+		}
+		if ( ! $lineas ) { continue; }
+		$o .= "\n## " . ( isset( $cats[ $slug ]['name'] ) ? $cats[ $slug ]['name'] : $slug ) . "\n\n" . implode( "\n", $lineas ) . "\n";
+	}
+	set_transient( 'jm_llms_txt', $o, 12 * HOUR_IN_SECONDS );
+	return $o;
+}
+add_action( 'save_post', function () { delete_transient( 'jm_llms_txt' ); } );
+
+define( 'JM_INDEXNOW_KEY', '3337a9d98f536ce6049cb37171761901' );
+add_action( 'init', function () {
+	$uri = isset( $_SERVER['REQUEST_URI'] ) ? strtok( sanitize_text_field( wp_unslash( $_SERVER['REQUEST_URI'] ) ), '?' ) : '';
+	if ( '/llms.txt' === $uri ) {
+		header( 'Content-Type: text/plain; charset=utf-8' );
+		header( 'X-Robots-Tag: noindex' );
+		echo jm_llms_txt(); // phpcs:ignore
+		exit;
+	}
+	if ( '/' . JM_INDEXNOW_KEY . '.txt' === $uri ) {
+		header( 'Content-Type: text/plain; charset=utf-8' );
+		echo JM_INDEXNOW_KEY; // phpcs:ignore
+		exit;
+	}
+}, 1 );
+
+// IndexNow: se juntan las URL publicadas o cambiadas en la petición y se envían de una vez al terminar
+function jm_indexnow_add( $urls ) {
+	static $cola = null;
+	if ( null === $cola ) {
+		$cola = array();
+		add_action( 'shutdown', function () use ( &$cola ) {
+			if ( ! $cola ) { return; }
+			wp_remote_post( 'https://api.indexnow.org/indexnow', array(
+				'blocking' => false,
+				'timeout'  => 3,
+				'headers'  => array( 'Content-Type' => 'application/json; charset=utf-8' ),
+				'body'     => wp_json_encode( array( 'host' => wp_parse_url( home_url(), PHP_URL_HOST ), 'key' => JM_INDEXNOW_KEY, 'keyLocation' => home_url( '/' . JM_INDEXNOW_KEY . '.txt' ), 'urlList' => array_values( array_unique( $cola ) ) ) ),
+			) );
+		} );
+	}
+	foreach ( (array) $urls as $u ) { $cola[] = $u; }
+}
+add_action( 'transition_post_status', function ( $new, $old, $post ) {
+	if ( 'publish' !== $new || wp_is_post_revision( $post ) || ! in_array( $post->post_type, array( 'post', 'page' ), true ) ) { return; }
+	jm_indexnow_add( get_permalink( $post ) );
+}, 10, 3 );
+// Una vez: todas las páginas publicadas, para que Bing tenga la web completa al día
+add_action( 'init', function () {
+	if ( 'v1' === get_option( 'jm_indexnow_todo' ) ) { return; }
+	update_option( 'jm_indexnow_todo', 'v1', false );
+	$ids = get_posts( array( 'post_type' => array( 'post', 'page' ), 'post_status' => 'publish', 'posts_per_page' => -1, 'fields' => 'ids', 'no_found_rows' => true ) );
+	jm_indexnow_add( array_map( 'get_permalink', $ids ) );
+}, 30 );

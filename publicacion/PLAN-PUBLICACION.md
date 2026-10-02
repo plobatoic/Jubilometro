@@ -143,6 +143,43 @@ Pasos:
 4. **Anuncios automáticos** en AdSense: activar, con densidad moderada en móvil. Las calculadoras ya quedan fuera porque en ellas no se carga el código.
 5. Cuando se añada Google Analytics, actualizar antes privacidad y cookies e incluirlo en el mensaje de consentimiento.
 
+## 5 ter. Buscadores con IA (ChatGPT, Perplexity, Gemini, Copilot)
+
+Estado a 2/10/2026 (tema 2.6.0):
+
+- **Acceso**: robots.txt no bloquea a ningún bot (GPTBot, OAI-SearchBot, ChatGPT-User, PerplexityBot, ClaudeBot, Google-Extended, Bingbot); los nueve responden 200.
+- **[/llms.txt](https://jubilometro.com/llms.txt)**: resumen de la web para asistentes de IA, generado por el tema con todas las guías publicadas (título SEO, URL y descripción), las calculadoras y las páginas de confianza. Se rehace solo al guardar cualquier entrada (caché de 12 horas). Lleva `noindex` para no salir en Google.
+- **FAQPage**: las preguntas frecuentes que ya se ven en cada guía también van como datos estructurados (114 guías). Google ya no las muestra como resultado enriquecido, pero ChatGPT, Perplexity y Copilot sí las leen.
+- **IndexNow**: el tema avisa a Bing (y con él a Copilot y a la búsqueda de ChatGPT) de cada página publicada o cambiada; el 2/10/2026 se enviaron todas. Clave en `/3337a9d98f536ce6049cb37171761901.txt` (comprobada: 200).
+- **Ya estaba**: respuesta rápida al principio de cada guía, fuentes oficiales enlazadas, autor con ficha (Person), fecha de actualización visible y en los datos estructurados.
+
+**Revisión mensual (manual, 15 minutos)**: escribir estas consultas en ChatGPT (con búsqueda), Perplexity y Google, tres veces cada una, y anotar si citan Jubilómetro y a quién citan:
+
+| # | Consulta |
+|---|---|
+| 1 | edad de jubilación 2027 |
+| 2 | cuánto se cobra con 15 años cotizados |
+| 3 | requisitos de la jubilación anticipada voluntaria |
+| 4 | jubilación anticipada con 40 años cotizados sin penalización |
+| 5 | cuánto subirán las pensiones en 2027 |
+| 6 | pensión máxima 2026 |
+| 7 | complemento a mínimos 2026 |
+| 8 | requisitos de la pensión de viudedad |
+| 9 | se pueden cobrar viudedad y jubilación a la vez |
+| 10 | cuánto se cobra con incapacidad permanente total |
+| 11 | precios de los viajes del Imserso 2026-2027 |
+| 12 | jubilación de funcionarios de Clases Pasivas |
+| 13 | cómo sacar el certificado de pensión |
+| 14 | teléfono de cita previa de la Seguridad Social |
+| 15 | cuánto IRPF se paga por la pensión |
+| 16 | cuándo se cobra la paga extra de los pensionistas |
+| 17 | requisitos de la jubilación activa |
+| 18 | subsidio para mayores de 52 años |
+| 19 | calculadora de edad de jubilación |
+| 20 | calculadora de jubilación anticipada |
+
+**Presencia fuera de la web** (pesa más que la propia web para que las IA citen): menciones en medios y asociaciones (puntos 3b y 3c), respuestas útiles en foros donde se pregunta por pensiones, y las calculadoras insertadas en otras webs.
+
 ## 6. Semanas siguientes: 3-4 artículos por semana
 
 **Semana 1 tras el lanzamiento: las 3 páginas que el clúster ya menciona.** Hoy salen como texto sin enlace y ganan enlaces internos en cuanto existan:
