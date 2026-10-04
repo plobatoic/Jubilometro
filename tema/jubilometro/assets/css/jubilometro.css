@@ -2306,3 +2306,7 @@ html body { background: #fff; }
 :is(.jm-story__media, .jm-life__media, .jm-pagehead__media, .jm-tile__media, .jm-post__hero, .jm-nl__media).is-dev img { filter: none; }
 .jm-pagehead::before { opacity: .5; }
 .jm-prose a, .jm-explain a { text-decoration-thickness: 1px; text-underline-offset: .18em; }
+
+/* Tema 2.7.1: nada espera a que llegues para mostrarse (sin aparición al bajar ni secciones sin dibujar) */
+.jm-rv { opacity: 1 !important; transform: none !important; }
+.jm-figures, .jm-rail, .jm-mostread, .jm-upcoming, .jm-toolband, main .jm-section, .jm-post__foot { content-visibility: visible; contain-intrinsic-size: none; }

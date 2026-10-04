@@ -377,6 +377,8 @@
   // Los bloques que aún no se ven aparecen al llegar a ellos (lo visible al cargar no se toca).
   // La primera respuesta del observador dice qué está fuera de pantalla, sin obligar al navegador a medir la página.
   function initReveal() {
+    // Desactivado (tema 2.7.1): el contenido se ve al instante al bajar, sin esperar animaciones
+    return;
     if (calm || !('IntersectionObserver' in window)) return;
     var sel = '.jm-figures__head, .jm-rail__head, .jm-duo__head, .jm-rail__grid > .jm-story, .jm-rail__list > .jm-story, .jm-mostread .jm-ledger, .jm-upcoming__box, .jm-toolband__copy, .jm-passbook, .jm-section-head, .jm-life__card, .jm-tile, .jm-updates__intro, .jm-timeline > li, .jm-method > *, .jm-nl, .jm-authorbox, .jm-post__foot .jm-story, .jm-cajonera > *, .jm-front__latest > .jm-ledger, .jm-saldo__row, .jm-temas__top, .jm-tema, .jm-card, .jm-principles > li, .jm-next';
     var els = $$(sel);
@@ -428,6 +430,7 @@
   // El saldo de 2026: las cifras ruedan como un contador al llegar a ellas.
   // Al terminar se devuelve el HTML original (el texto nunca cambia: sin efecto en Google ni en lectores de pantalla).
   function initRoll() {
+    return; // Desactivado (tema 2.7.1): las cifras se ven quietas desde el principio
     var box = $('.jm-saldo');
     if (calm || !box || !('IntersectionObserver' in window)) return;
     var first = new IntersectionObserver(function (e) {
@@ -660,6 +663,18 @@
     });
   }
 
-  function init() { [initResume, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initCopyCode, initViews, initReveal, initRoll, initTilt, initStage, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  // Tablas que se deslizan en el móvil: se pueden recorrer con el teclado y se anuncian con su título
+  function initTables() {
+    $$('.jm-table-wrap').forEach(function (w) {
+      if (w.hasAttribute('tabindex')) return;
+      w.setAttribute('tabindex', '0');
+      if (!w.hasAttribute('role')) w.setAttribute('role', 'region');
+      if (!w.hasAttribute('aria-label') && !w.hasAttribute('aria-labelledby')) {
+        var c = $('caption', w); w.setAttribute('aria-label', c ? c.textContent.trim() : 'Tabla');
+      }
+    });
+  }
+
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initCopyCode, initViews, initReveal, initRoll, initTilt, initStage, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
