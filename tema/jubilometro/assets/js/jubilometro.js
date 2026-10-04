@@ -277,7 +277,7 @@
       var w = 0, h = 0, dpr = 1, cx = 0, cy = 0, R = 0, ph = 0, py = 0, tph = 0, tpy = 0, raf = 0, job = 0;
       function curve(i) {
         var k = (i / 24) * Math.PI * 2;
-        ctx.strokeStyle = i % 2 ? 'rgba(30,75,64,.15)' : 'rgba(146,98,23,.17)';
+        ctx.strokeStyle = i % 2 ? 'rgba(29,78,216,.15)' : 'rgba(30,58,138,.17)';
         ctx.beginPath();
         for (var j = 0; j <= 300; j++) {
           var t = (j / 300) * Math.PI * 2, r = R + 30 * Math.sin(7 * t + k + ph) + 14 * Math.cos(12 * t - 2 * k + py);
@@ -287,7 +287,7 @@
       }
       function band() {
         for (var n = 0; n < 7; n++) {
-          ctx.strokeStyle = n % 2 ? 'rgba(146,98,23,.2)' : 'rgba(30,75,64,.16)';
+          ctx.strokeStyle = n % 2 ? 'rgba(30,58,138,.2)' : 'rgba(29,78,216,.16)';
           ctx.beginPath();
           for (var x = 0; x <= w + 8; x += 4) {
             var y = h - 22 + 7 * Math.sin(x * 0.021 + n * 0.55 + ph) + 4 * Math.sin(x * 0.049 - n * 0.9 + py);

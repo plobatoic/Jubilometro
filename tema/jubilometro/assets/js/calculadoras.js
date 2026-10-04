@@ -477,15 +477,15 @@
     for (var v = 0; v <= topY + 1; v += stepY) { g += '<line x1="' + pl + '" x2="' + (W - pr) + '" y1="' + Y(v).toFixed(1) + '" y2="' + Y(v).toFixed(1) + '"/>'; ax += '<text x="' + (pl - 8) + '" y="' + (Y(v) + 4).toFixed(1) + '" text-anchor="end">' + (v >= 1000 ? num(v / 1000, 0) + ' mil' : num(v, 0)) + '</text>'; }
     for (var a = Math.ceil(x0); a <= x1; a += (x1 - x0 > 20 ? 4 : 2)) ax += '<text x="' + X(a).toFixed(1) + '" y="' + (H - 10) + '" text-anchor="middle">' + a + '</text>';
     g += '</g>'; ax += '</g>';
-    var cols = { anticipada: '#8FA6BD', ordinaria: '#12304F', demorada: '#2E7359' };
+    var cols = { anticipada: '#8FA6BD', ordinaria: '#12304F', demorada: '#15803D' };
     var lines = r.esc.map(function (s) {
       var d = '', started = false;
       s.puntos.forEach(function (p, k) { if (k % 3 && k !== s.puntos.length - 1) return; d += (started ? 'L' : 'M') + X(p[0]).toFixed(1) + ' ' + Y(p[1]).toFixed(1); started = true; });
       return '<path class="jm-chart__line" stroke="' + cols[s.id] + '" d="' + d + '"' + (s.id === 'anticipada' ? ' stroke-dasharray="7 5"' : '') + '/>';
     }).join('');
-    var mark = r.cruceDO ? '<circle cx="' + X(r.cruceDO).toFixed(1) + '" cy="' + Y(r.esc[2].puntos[Math.round((r.cruceDO - x0) * 12)][1]).toFixed(1) + '" r="6" fill="#fff" stroke="#2E7359" stroke-width="3"/>' : '';
+    var mark = r.cruceDO ? '<circle cx="' + X(r.cruceDO).toFixed(1) + '" cy="' + Y(r.esc[2].puntos[Math.round((r.cruceDO - x0) * 12)][1]).toFixed(1) + '" r="6" fill="#fff" stroke="#15803D" stroke-width="3"/>' : '';
     return '<figure class="jm-chart" style="margin:0"><svg viewBox="0 0 ' + W + ' ' + H + '" role="img" aria-label="Ingresos acumulados por edad en los tres escenarios">' + g + ax + lines + mark + '</svg>' +
-      '<figcaption class="jm-legend"><span><i style="background:#8FA6BD"></i>Anticipada</span><span><i style="background:#12304F"></i>Ordinaria</span><span><i style="background:#2E7359"></i>Demorada</span></figcaption></figure>';
+      '<figcaption class="jm-legend"><span><i style="background:#8FA6BD"></i>Anticipada</span><span><i style="background:#12304F"></i>Ordinaria</span><span><i style="background:#15803D"></i>Demorada</span></figcaption></figure>';
   }
 
   /* ---------- 6. ENLACE CON LA PÁGINA (solo navegador) --------------------- */

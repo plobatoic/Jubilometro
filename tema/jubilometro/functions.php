@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.6.0' );
+define( 'JM_THEME_VER', '2.7.0' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -555,12 +555,12 @@ add_filter( 'the_content', function ( $html ) {
 }, 25 );
 
 /*
- * Imagen para compartir (WhatsApp, Facebook, X) con el diseño «Pino y latón». Rank Math tiene guardada la
+ * Imagen para compartir (WhatsApp, Facebook, X) con el diseño «Azul confianza». Rank Math tiene guardada la
  * imagen anterior como imagen por defecto; al pintar las etiquetas se cambia por la nueva (misma medida, 1200 × 630).
  */
 function jm_og_nueva( $url ) {
-	$vieja = content_url( '/uploads/2026/09/og-jubilometro.jpg' );
-	return ( is_string( $url ) && $url === $vieja ) ? content_url( '/uploads/2026/09/og-jubilometro-pino.jpg' ) : $url;
+	$viejas = array( content_url( '/uploads/2026/09/og-jubilometro.jpg' ), content_url( '/uploads/2026/09/og-jubilometro-pino.jpg' ) );
+	return ( is_string( $url ) && in_array( $url, $viejas, true ) ) ? JM_THEME_URI . '/assets/img/og-jubilometro.jpg?v=' . JM_THEME_VER : $url;
 }
 foreach ( array( 'rank_math/opengraph/facebook/og_image', 'rank_math/opengraph/facebook/og_image_secure_url', 'rank_math/opengraph/twitter/twitter_image' ) as $jm_f ) {
 	add_filter( $jm_f, 'jm_og_nueva' );
