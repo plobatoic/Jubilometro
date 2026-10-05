@@ -1,0 +1,15 @@
+# Verificación de datos · Dependencia en Castilla y León
+
+| # | Dato | Fuente | Comprobación | Estado |
+|---|---|---|---|---|
+| 1 | Procedimiento único (valoración inicial, PIA y revisión), IAPA 1454; requisito de residencia (5 años, 2 inmediatos); documentos (solicitud normalizada, informe sobre condiciones de salud en modelo normalizado para la primera valoración o la revisión, justificantes de ingresos, representación) | Junta de Castilla y León, ficha del trámite en tramitacastillayleon.jcyl.es | Página oficial (05/10/2026) | Verificado |
+| 2 | Teléfonos de ayuda 983 415 194, 983 412 251 y 983 428 206 (con opción de devolución de llamada); 012 (983 327 850); CEAS de diputaciones y ayuntamientos de más de 20.000 habitantes; ayuda de la dirección de la residencia; lugares de presentación (gerencias territoriales, oficinas de registro, art. 16.4 LPACAP, sede electrónica con certificado, DNIe o Cl@ve Firma) | Misma ficha | Página oficial | Verificado |
+| 3 | Plazo máximo de 6 meses; 30 días naturales para menores de 3 años; reclamación previa a la vía jurisdiccional social; notificación postal o electrónica; Gerencia de Servicios Sociales (Consejería de Sanidad y Bienestar Social); Orden FAM/824/2007 y Orden FAM/6/2018 | Misma ficha | Página oficial (la ficha escribe «FAM/824/2017» con fecha de BOCyL de 2007: es la Orden FAM/824/2007) | Verificado |
+| 4 | Valoración en el domicilio por profesionales acreditados | Servicios Sociales de Castilla y León, preguntas frecuentes | Página oficial | Verificado |
+| 5 | Efectos de las prestaciones a partir de los 2 meses de la solicitud de valoración o revisión, con las suspensiones por petición de documentos; art. 29 de la Orden FAM/6/2018 | Misma página de preguntas frecuentes | Página oficial | Verificado |
+| 6 | Prestación vinculada: documento con código para el proveedor, que informa cada mes a la Gerencia; duplicado del código en el portal del ciudadano | Misma página de preguntas frecuentes | Página oficial | Verificado |
+| 7 | Tiempos medios 119 / 0 / 120 días (España 228 / 52 / 302); resoluciones de grado y prestación mayoritariamente conjuntas | Imserso, estadística SAAD a 31/08/2026, tabla 9 y su nota | Hoja de cálculo oficial | Verificado |
+| 8 | Pendientes seis meses o más sin motivo de exclusión: 3 (España 130.162) | Misma estadística, tabla 10.3 | Hoja de cálculo oficial | Verificado |
+| 9 | PIA 129.156; con prestación efectiva 126.202 (97,71 %) | Misma estadística, tabla 12 | Hoja de cálculo oficial | Verificado |
+| 10 | Prestaciones por tipo; ratio 1,41 (España 1,45); vinculada 25,18 % (España 9,47 %); prevención 7,80 % (3,32 %); asistencia personal 1,87 % (0,53 %) | Misma estadística, tabla 4.1 | Hoja de cálculo oficial | Verificado |
+| 11 | Cuantía media de la prestación por cuidados familiares 128,45 / 216,30 / 300,85 € (España 172,90 / 275,03 / 381,50 €); máximos 180 / 315,90 / 455,40 € | Misma estadística, tabla 8.1.a; RD 1051/2013, anexo IV | Hoja de cálculo oficial y BOE | Verificado |

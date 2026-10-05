@@ -39,7 +39,7 @@ La dependencia se pide en los servicios sociales de tu comunidad autónoma, por 
 3. **Recibe la resolución** con tu grado.
 4. **Acuerda el Programa Individual de Atención**, que fija el servicio o la ayuda que te corresponde.
 
-Cada comunidad tiene su procedimiento: lo detallamos para [Andalucía](/dependencia/andalucia/), [Cataluña](/dependencia/cataluna/), la [Comunitat Valenciana](/dependencia/comunitat-valenciana/) y la [Comunidad de Madrid](/dependencia/madrid/).
+Cada comunidad tiene su procedimiento, sus plazos y, a veces, ayudas propias. Lo detallamos para [Andalucía](/dependencia/andalucia/), [Asturias](/dependencia/asturias/), [Canarias](/dependencia/canarias/), [Castilla-La Mancha](/dependencia/castilla-la-mancha/), [Castilla y León](/dependencia/castilla-y-leon/), [Cataluña](/dependencia/cataluna/), la [Comunitat Valenciana](/dependencia/comunitat-valenciana/), [Galicia](/dependencia/galicia/), la [Comunidad de Madrid](/dependencia/madrid/), la [Región de Murcia](/dependencia/murcia/) y el [País Vasco](/dependencia/pais-vasco/).
 
 ## Plazos, revisiones y qué hacer si te lo deniegan
 

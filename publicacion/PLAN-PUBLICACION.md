@@ -209,6 +209,15 @@ Actualizadas el mismo día: subida de 2027 (IPC adelantado de septiembre, 4,9 %)
 
 **Search Console**: pedir la indexación de las cuatro URL nuevas (Inspección de URLs > Solicitar indexación) y de la subida de 2027.
 
+### Dependencia por comunidad autónoma (5/10/2026)
+
+Búsquedas locales («dependencia Galicia», «ley dependencia País Vasco», «dependencia Castilla y León solicitud»…) con poca competencia de calidad. Cada guía lleva el trámite oficial de la comunidad (requisitos, documentos, plazo, sentido del silencio, teléfonos) y los datos del Imserso de esa comunidad (tiempos, prestaciones, cuantía media de la prestación por cuidados familiares), con su `verificacion-fuentes.md`.
+
+- Publicadas el 5/10/2026: Galicia (bonos de la Xunta), País Vasco (tres diputaciones), Castilla y León, Castilla-La Mancha, Región de Murcia (tasa T-172), Canarias (silencio positivo) y Asturias (silencio positivo, Decreto 4/2023).
+- Pendientes: Aragón (la web del Gobierno de Aragón no respondía), Extremadura, Illes Balears, Navarra, Cantabria y La Rioja. Los enlaces a ellas ya están puestos en «cómo solicitar la dependencia» y en la tabla de «cuánto tarda»: aparecen solos al publicarlas y volver a subir esas dos guías.
+- Enlazadas desde la portada de Dependencia, «cómo solicitar», «cuánto tarda» y «cómo reclamar» (ejemplos de silencio positivo y negativo).
+- **Mantenimiento**: actualizar las cifras del Imserso cada trimestre (estadística mensual del SAAD) en todas las guías de comunidad a la vez.
+
 ### Calculadora de la subida de las pensiones (tema 2.7.2, 5/10/2026)
 
 Nueva página [/calculadoras/subida-pensiones/](https://jubilometro.com/calculadoras/subida-pensiones/) (id 718), con URL sin año para que acumule enlaces de un año a otro (el año va en el título). Las búsquedas «subida pensiones 2027» y «calculadora subida pensiones» se disparan de finales de noviembre a enero: tiene que estar al día con cada dato del IPC (ver el calendario de mantenimiento).

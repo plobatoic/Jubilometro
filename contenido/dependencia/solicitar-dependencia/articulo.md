@@ -59,14 +59,13 @@ La norma estatal ([artículo 3 del Real Decreto 1051/2013](https://www.boe.es/bu
 
 La tramita la **comunidad autónoma** donde vive la persona ([artículo 28](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)), y la resolución vale en toda España. La puede pedir **la propia persona o su representante** (un familiar con autorización, un tutor o curador).
 
-Tenemos guías con los pasos concretos de las comunidades con más solicitudes:
+Tenemos una guía con los pasos, los documentos, los plazos y los teléfonos de cada comunidad:
 
-- [Dependencia en Andalucía](/dependencia/andalucia/)
-- [Dependencia en Cataluña](/dependencia/cataluna/)
-- [Dependencia en la Comunidad de Madrid](/dependencia/madrid/)
-- [Dependencia en la Comunitat Valenciana](/dependencia/comunitat-valenciana/)
+- [Andalucía](/dependencia/andalucia/), [Aragón](/dependencia/aragon/), [Asturias](/dependencia/asturias/), [Illes Balears](/dependencia/baleares/), [Canarias](/dependencia/canarias/) y [Cantabria](/dependencia/cantabria/).
+- [Castilla-La Mancha](/dependencia/castilla-la-mancha/), [Castilla y León](/dependencia/castilla-y-leon/), [Cataluña](/dependencia/cataluna/), [Comunitat Valenciana](/dependencia/comunitat-valenciana/) y [Extremadura](/dependencia/extremadura/).
+- [Galicia](/dependencia/galicia/), [La Rioja](/dependencia/la-rioja/), [Comunidad de Madrid](/dependencia/madrid/), [Región de Murcia](/dependencia/murcia/), [Navarra](/dependencia/navarra/) y [País Vasco](/dependencia/pais-vasco/).
 
-En el resto, empieza por los **servicios sociales de tu ayuntamiento**: te dan el modelo, te ayudan a rellenarlo y, en muchas comunidades, hacen el informe social.
+En todas, si tienes dudas, empieza por los **servicios sociales de tu ayuntamiento**: te dan el modelo, te ayudan a rellenarlo y, en muchas comunidades, hacen el informe social.
 
 ## El proceso, paso a paso
 
@@ -143,4 +142,4 @@ No. La solicitud y la valoración son gratuitas. Solo se paga, según los ingres
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*
+*Historial de cambios: 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*

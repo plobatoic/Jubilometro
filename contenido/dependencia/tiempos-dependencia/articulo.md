@@ -35,24 +35,24 @@ Tiempos medios calculados por el Imserso sobre las resoluciones dictadas entre e
 | Comunidad | De la solicitud al grado | Del grado a la prestación | De la solicitud a la prestación |
 |---|---|---|---|
 | Ceuta | 31 | 48 | 78 |
-| Aragón | 89 | 21 | 111 |
-| Castilla y León | 119 | 0 | 120 |
-| País Vasco | 80 | 47 | 130 |
-| La Rioja | 73 | 73 | 131 |
-| Castilla-La Mancha | 115 | 52 | 165 |
-| Cantabria | 123 | 48 | 171 |
+| [Aragón](/dependencia/aragon/) | 89 | 21 | 111 |
+| [Castilla y León](/dependencia/castilla-y-leon/) | 119 | 0 | 120 |
+| [País Vasco](/dependencia/pais-vasco/) | 80 | 47 | 130 |
+| [La Rioja](/dependencia/la-rioja/) | 73 | 73 | 131 |
+| [Castilla-La Mancha](/dependencia/castilla-la-mancha/) | 115 | 52 | 165 |
+| [Cantabria](/dependencia/cantabria/) | 123 | 48 | 171 |
 | Melilla | 79 | 92 | 183 |
-| Illes Balears | 93 | 90 | 192 |
-| Navarra | 144 | 85 | 222 |
-| Canarias | 152 | 58 | 250 |
-| Cataluña | 204 | 53 | 264 |
-| Extremadura | 157 | 118 | 272 |
-| Comunitat Valenciana | 254 | 42 | 299 |
-| Galicia | 178 | 139 | 308 |
-| Comunidad de Madrid | 209 | 49 | 335 |
-| Andalucía | 376 | 16 | 413 |
-| Asturias | 299 | 119 | 416 |
-| Región de Murcia | 299 | 202 | 536 |
+| [Illes Balears](/dependencia/baleares/) | 93 | 90 | 192 |
+| [Navarra](/dependencia/navarra/) | 144 | 85 | 222 |
+| [Canarias](/dependencia/canarias/) | 152 | 58 | 250 |
+| [Cataluña](/dependencia/cataluna/) | 204 | 53 | 264 |
+| [Extremadura](/dependencia/extremadura/) | 157 | 118 | 272 |
+| [Comunitat Valenciana](/dependencia/comunitat-valenciana/) | 254 | 42 | 299 |
+| [Galicia](/dependencia/galicia/) | 178 | 139 | 308 |
+| [Comunidad de Madrid](/dependencia/madrid/) | 209 | 49 | 335 |
+| [Andalucía](/dependencia/andalucia/) | 376 | 16 | 413 |
+| [Asturias](/dependencia/asturias/) | 299 | 119 | 416 |
+| [Región de Murcia](/dependencia/murcia/) | 299 | 202 | 536 |
 | **España** | **228** | **52** | **302** |
 
 Cómo leer la tabla:
@@ -116,4 +116,4 @@ Presenta un escrito en los servicios sociales de tu comunidad pidiendo que resue
 
 *Este artículo es informativo y no sustituye la información de los servicios sociales de tu comunidad autónoma. Los tiempos son medias oficiales: tu expediente puede tardar más o menos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*

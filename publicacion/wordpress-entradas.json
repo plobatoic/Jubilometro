@@ -454,5 +454,33 @@
   "/jubilacion/funcionarios/": {
     "id": 710,
     "estado": "publish"
+  },
+  "/dependencia/asturias/": {
+    "id": 724,
+    "estado": "publish"
+  },
+  "/dependencia/canarias/": {
+    "id": 726,
+    "estado": "publish"
+  },
+  "/dependencia/castilla-la-mancha/": {
+    "id": 728,
+    "estado": "publish"
+  },
+  "/dependencia/castilla-y-leon/": {
+    "id": 730,
+    "estado": "publish"
+  },
+  "/dependencia/galicia/": {
+    "id": 732,
+    "estado": "publish"
+  },
+  "/dependencia/murcia/": {
+    "id": 734,
+    "estado": "publish"
+  },
+  "/dependencia/pais-vasco/": {
+    "id": 736,
+    "estado": "publish"
   }
 }

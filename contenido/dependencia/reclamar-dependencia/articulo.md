@@ -54,7 +54,7 @@ Si la solicita un familiar en nombre de la persona dependiente, debe indicar que
 
 ### 3. Recurre el silencio
 
-Qué significa el silencio depende de la **norma de tu comunidad**: en unas se entiende **denegada** la solicitud (es el caso de la [Comunidad de Madrid](/dependencia/madrid/)) y en otras, **estimada** (la [Comunitat Valenciana](/dependencia/comunitat-valenciana/) informa de que se estima y se paga con efectos retroactivos).
+Qué significa el silencio depende de la **norma de tu comunidad**: en unas se entiende **denegada** la solicitud (es el caso de la [Comunidad de Madrid](/dependencia/madrid/), [Galicia](/dependencia/galicia/), [Castilla-La Mancha](/dependencia/castilla-la-mancha/) o la [Región de Murcia](/dependencia/murcia/)) y en otras, **estimada** (la [Comunitat Valenciana](/dependencia/comunitat-valenciana/) informa de que se estima y se paga con efectos retroactivos, y también es positivo en [Canarias](/dependencia/canarias/) y en [Asturias](/dependencia/asturias/)).
 
 - **Si el silencio es negativo**, solo sirve para que puedas **recurrir** ([artículo 24.2](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a24)). Contra el silencio, el recurso de alzada o de reposición se puede presentar **en cualquier momento**, sin plazo ([artículos 122.1 y 124.1](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a122)).
 - **Si es positivo**, pide un **certificado** de que la solicitud se ha estimado por silencio y reclama el pago.
@@ -136,4 +136,4 @@ No para el escrito, el recurso administrativo ni la queja al Defensor del Pueblo
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional. Los plazos y el tipo de recurso los indica cada resolución y la normativa de tu comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
