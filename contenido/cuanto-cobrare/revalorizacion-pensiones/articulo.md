@@ -8,7 +8,7 @@ miga: Revalorización 2027
 palabra_clave_principal: subida pensiones 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 33)
-fecha_actualizacion: 2026-10-02
+fecha_actualizacion: 2026-10-05
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,13 +19,15 @@ fuentes_legales:
 
 # Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra
 
-*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
+*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
 
 > **Respuesta rápida**
 >
 > En enero de 2027, las pensiones contributivas subirán lo que marque la **inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026**. Con los datos del INE hasta septiembre (dato adelantado), esa media va por el **3,33 %**, así que la subida apunta a **entre el 3,3 % y el 3,7 %**. La cifra exacta se sabrá a finales de noviembre.
 >
 > La subida se aplica sola, sin pedir nada, y se cobra desde la **pensión de enero**. Las pensiones mínimas y las no contributivas subirán además lo necesario para acercarse al umbral de la pobreza, como marca la ley para 2027.
+>
+> Calcula cuánto cobrarás tú con la [calculadora de la subida de las pensiones](/calculadoras/subida-pensiones/).
 
 ## Cómo se calcula la subida de las pensiones
 
@@ -65,7 +67,7 @@ Faltan dos meses por conocer. Según cómo se comporte la inflación de octubre 
 | 4,9 % (como en septiembre) | 3,6 % |
 | 5,5 % | 3,7 % |
 
-Es una **estimación con los datos oficiales disponibles**, no una cifra aprobada. La actualizaremos cada mes, cuando el INE publique el dato nuevo.
+Es una **estimación con los datos oficiales disponibles**, no una cifra aprobada. La actualizaremos cada mes, cuando el INE publique el dato nuevo. Si octubre y noviembre se quedan como septiembre, la subida sería del **3,6 %**: es la cifra que usa por defecto nuestra [calculadora de la subida](/calculadoras/subida-pensiones/), en la que puedes probar cualquier otro porcentaje.
 
 ## Cuánto subirá tu pensión: ejemplos
 
@@ -165,4 +167,4 @@ No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la m
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*
+*Historial de cambios: 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*

@@ -15,7 +15,7 @@ export const PAGINAS_WEB = [
   '/calculadoras/pension-jubilacion/', '/calculadoras/jubilacion-anticipada/', '/calculadoras/pension-neta-irpf/',
   '/calculadoras/jubilacion-demorada-flexible/', '/calculadoras/pension-viudedad/',
   '/calculadoras/incapacidad-permanente/', '/calculadoras/cuanto-ahorrar-jubilacion/',
-  '/calculadoras/comparador-ingresos-jubilacion/', '/calculadoras/para-tu-web/', '/datos/pension-media-provincia/', '/sobre-nosotros/',
+  '/calculadoras/comparador-ingresos-jubilacion/', '/calculadoras/subida-pensiones/', '/calculadoras/para-tu-web/', '/datos/pension-media-provincia/', '/sobre-nosotros/',
   '/metodologia/', '/contacto/', '/aviso-legal/', '/politica-privacidad/', '/politica-cookies/',
   '/descargo-responsabilidad/', '/accesibilidad/',
 ];
@@ -130,6 +130,10 @@ const CALCULADORAS = {
     url: '/calculadoras/pension-jubilacion/', icono: 'calculator', titulo: 'Calculadora de pensión de jubilación',
     texto: 'Estima tu pensión con los dos métodos de cálculo que conviven desde 2026 y mira cuál te favorece.',
   },
+  subida: {
+    url: '/calculadoras/subida-pensiones/', icono: 'trending', titulo: 'Calculadora de la subida de las pensiones 2027',
+    texto: 'Escribe lo que cobras ahora y mira cuánto cobrarás en 2027, al mes y al año, con la subida estimada.',
+  },
   neta: {
     url: '/calculadoras/pension-neta-irpf/', icono: 'receipt', titulo: 'Calculadora de pensión neta',
     texto: 'Cuánto te retienen de IRPF y cuánto cobrarás limpio según tu pensión y tu comunidad autónoma.',
@@ -162,6 +166,7 @@ export const CALCULADORA_DEL_ARTICULO = {
   '/jubilacion/activa/': 'demorada',
   '/jubilacion/15-anos-cotizados/': 'pension',
   '/jubilacion/faltan-anos-cotizados/': 'pension',
+  '/cuanto-cobrare/revalorizacion-pensiones/': 'subida',
 };
 
 // URL que existen en la web en una fecha (AAAA-MM-DD): las páginas de la web y los artículos

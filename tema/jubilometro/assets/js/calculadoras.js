@@ -21,7 +21,12 @@
       ip: { gran: 1884.70, absoluta: 1256.60, total65: 1256.60, total60: 1256.60 }
     },
     baseMinima: 1424.40,                 // Orden PJC/297/2026 (grupos 4 a 11)
-    baseMaxima: 5101.20                  // Orden PJC/297/2026
+    baseMaxima: 5101.20,                 // Orden PJC/297/2026
+    // Revalorización del año siguiente (art. 58 LGSS): media del IPC interanual de diciembre a
+    // noviembre, redondeada a un decimal. Mientras no se publique el IPC de noviembre es una
+    // estimación: pct supone que los meses que faltan repiten el último dato; min y max son la
+    // horquilla de la guía de revalorización. Al aprobarse, poner oficial: true y la cifra.
+    subida: { anio: 2027, pct: 3.6, min: 3.3, max: 3.7, oficial: false, datos: 'el IPC hasta septiembre de 2026 (dato adelantado)', pnc: 628.80 }
   };
 
   // Edad ordinaria (art. 205.1.a y DT 7ª LGSS): año -> [meses cotizados para 65, edad exigida en meses si no]
@@ -105,6 +110,18 @@
   var ICON = function (id) { return '<svg class="jm-i" aria-hidden="true"><use href="#i-' + id + '"/></svg>'; };
 
   /* ---------- 3. MOTORES DE CÁLCULO --------------------------------------- */
+
+  // 3.0 Subida de la pensión del año siguiente (revalorización, art. 58 LGSS)
+  function subida(o) {
+    var S = CFG.subida, bruta = Math.max(0, f(o.bruta)), pagas = +o.pagas === 12 ? 12 : 14;
+    var p = clamp(f(o.pct, S.pct), 0, 15), r2 = function (x) { return Math.round(x * 100) / 100; };
+    var nueva = r2(bruta * (1 + p / 100));
+    return {
+      bruta: bruta, pagas: pagas, pct: p, tipo: o.tipo || 'contributiva', nueva: nueva, mas: r2(nueva - bruta),
+      masAnio: r2((nueva - bruta) * pagas), anual: r2(nueva * pagas),
+      esc: [S.min, S.pct, S.max].filter(function (x, k, a) { return a.indexOf(x) === k; }).map(function (x) { return [x, r2(bruta * (1 + x / 100))]; })
+    };
+  }
 
   // 3.1 Edad de jubilación ordinaria
   function edad(o) {
@@ -351,6 +368,17 @@
 
   /* ---------- 5. RESULTADOS -------------------------------------------------- */
   var RENDER = {
+    subida: function (i, ej) {
+      var r = subida(i), S = CFG.subida, est = S.oficial ? '' : ' estimada';
+      var out = head(ej) + '<div class="jm-result__hero"><p class="jm-result__figure">' + eur(r.nueva) + ' <small>/ mes en ' + S.anio + '</small></p><p class="jm-result__sub">' + (r.tipo === 'contributiva' ? '' : 'Como mínimo: ') + eur(r.mas) + ' más al mes con una subida' + est + ' del ' + pct(r.pct, 1) + '. En un año, ' + eur(r.masAnio) + ' más con ' + r.pagas + ' pagas.</p></div>';
+      if (r.tipo === 'minimos') out += alert('Con complemento a mínimos cobrarás la pensión mínima de ' + S.anio + ', que sube más que el resto porque la ley obliga a acercarla al umbral de la pobreza: esta cifra es lo mínimo que cobrarás, contando el complemento. En ' + (S.anio - 1) + ' las mínimas subieron entre un 7 % y un 11,4 %. Las cuantías nuevas se aprueban a finales de diciembre.');
+      if (r.tipo === 'pnc') out += alert('Las pensiones no contributivas suben al menos este porcentaje y, además, un extra para acercarlas al 75 % del umbral de la pobreza. En ' + (S.anio - 1) + ' subieron un 11,4 %, hasta ' + eur(S.pnc) + ' al mes. La cuantía de ' + S.anio + ' se aprueba a finales de diciembre.');
+      if (r.tipo !== 'pnc' && r.bruta > CFG.pensionMax) out += alert('La pensión máxima de ' + CFG.anio + ' es de ' + eur(CFG.pensionMax) + ' al mes. Revisa la cifra: solo se supera en casos especiales, como varias pensiones a la vez.');
+      out += kv([['Tu pensión en ' + (S.anio - 1), eur(r.bruta)], ['Subida aplicada', pct(r.pct, 1) + (S.oficial ? ' (oficial)' : ' (estimación)')], ['Subida al mes', '+' + eur(r.mas)], ['Subida al año (' + r.pagas + ' pagas)', '+' + eur(r.masAnio)], ['Pensión en ' + S.anio, eur(r.nueva) + ' / mes', 'is-win'], ['Total bruto en ' + S.anio, eur(r.anual, 0) + ' al año']]);
+      if (!S.oficial) out += '<div class="jm-explain"><p>Hasta finales de noviembre no se conoce la cifra exacta. Con ' + S.datos + ', tu pensión de ' + S.anio + ' quedaría así:</p></div>' + kv(r.esc.map(function (e) { return ['Si la subida es del ' + pct(e[0], 1), eur(e[1]) + ' / mes', e[0] === r.pct ? 'is-win' : '']; }));
+      out += '<div class="jm-explain"><p>La subida se aplica sola sobre la pensión <strong>bruta</strong> desde el 1 de enero y se cobra con la pensión de enero. Lo que llega al banco puede subir algo menos, porque la retención de IRPF se recalcula con la pensión nueva.</p></div>';
+      return out + notes('art. 58 de la Ley General de la Seguridad Social (Ley 21/2021); disposición adicional 53.ª (pensiones mínimas) y art. 62 (no contributivas).', S.oficial ? 'Cifra aprobada para ' + S.anio + '. No incluye el extra de las pensiones mínimas ni de las no contributivas.' : 'Subida estimada con ' + S.datos + '. La cifra oficial se conocerá a finales de noviembre y la actualizaremos aquí.');
+    },
     edad: function (i, ej) {
       var r = edad(i); if (!r) return head(ej) + alert('Revisa la fecha de nacimiento: no hemos podido calcular una edad de jubilación válida.');
       var cuando = r.ya ? 'Ya alcanzaste la edad ordinaria en ' + mesTxt(r.mes) : 'En ' + mesTxt(r.mes) + (r.faltan > 0 ? ', dentro de ' + durTxt(r.faltan) : '');
@@ -554,7 +582,7 @@
     });
   }
 
-  var API = { CFG: CFG, EDAD: EDAD, DUAL: DUAL, VOL: VOL, INVOL: INVOL, CCAA: CCAA, ESTATAL: ESTATAL, TRAMO_TXT: TRAMO_TXT, edad: edad, pension: pension, anticipada: anticipada, neto: neto, demorada: demorada, viudedad: viudedad, incapacidad: incapacidad, ahorro: ahorro, comparador: comparador, coeficiente: coeficiente, porcentajeCot: porcentajeCot, render: RENDER, gauge: gauge, chart: chart, num: num, eur: eur, edadTxt: edadTxt, mesTxt: mesTxt };
+  var API = { CFG: CFG, subida: subida, EDAD: EDAD, DUAL: DUAL, VOL: VOL, INVOL: INVOL, CCAA: CCAA, ESTATAL: ESTATAL, TRAMO_TXT: TRAMO_TXT, edad: edad, pension: pension, anticipada: anticipada, neto: neto, demorada: demorada, viudedad: viudedad, incapacidad: incapacidad, ahorro: ahorro, comparador: comparador, coeficiente: coeficiente, porcentajeCot: porcentajeCot, render: RENDER, gauge: gauge, chart: chart, num: num, eur: eur, edadTxt: edadTxt, mesTxt: mesTxt };
   if (typeof module !== 'undefined' && module.exports) module.exports = API;
   else {
     root.JM = API;

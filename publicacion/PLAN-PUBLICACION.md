@@ -209,6 +209,14 @@ Actualizadas el mismo día: subida de 2027 (IPC adelantado de septiembre, 4,9 %)
 
 **Search Console**: pedir la indexación de las cuatro URL nuevas (Inspección de URLs > Solicitar indexación) y de la subida de 2027.
 
+### Calculadora de la subida de las pensiones (tema 2.7.2, 5/10/2026)
+
+Nueva página [/calculadoras/subida-pensiones/](https://jubilometro.com/calculadoras/subida-pensiones/) (id 718), con URL sin año para que acumule enlaces de un año a otro (el año va en el título). Las búsquedas «subida pensiones 2027» y «calculadora subida pensiones» se disparan de finales de noviembre a enero: tiene que estar al día con cada dato del IPC (ver el calendario de mantenimiento).
+
+- Motor en `calculadoras.js` (`subida`, `CFG.subida`); página generada con `herramientas/calculadoras/subida-pensiones.mjs`.
+- Enlazada desde el índice de calculadoras, la guía de revalorización (respuesta rápida, texto y ficha de calculadora) y la página para otras webs (ya son diez calculadoras insertables).
+- Desde el tema 2.7.2, las preguntas frecuentes en desplegable de las páginas (no solo de las guías) también salen como FAQPage.
+
 ### Calculadoras para otras webs (tema 2.5, 2/10/2026)
 
 Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras con el código de [/calculadoras/para-tu-web/](https://jubilometro.com/calculadoras/para-tu-web/).
@@ -225,7 +233,8 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 |---|---|
 | Cada semana | Tramitación de la proposición de ley de jubilación anticipada sin recortes con 40 años cotizados (tomada en consideración el 22/09/2026). Afecta a la guía de los 40 años cotizados (tabla de tramitación) y a anticipada voluntaria, anticipada involuntaria, compensa, despido a los 60 y edad de jubilación |
 | Octubre-diciembre 2026 | Desarrollo del RD 632/2026 (discapacidad) y primeros criterios del INSS sobre la jubilación flexible del RD 416/2026 |
-| 30 de octubre de 2026 | IPC adelantado de octubre (INE): actualizar la estimación de la subida de 2027 |
+| 14 de octubre, 30 de octubre, 13 de noviembre y 27 de noviembre de 2026 | IPC del INE (definitivo de septiembre, adelantado de octubre, definitivo de octubre, adelantado de noviembre): actualizar la estimación de la subida de 2027 en la guía de revalorización, en `CFG.subida` y en la lista `IPC` de `herramientas/calculadoras/subida-pensiones.mjs`; empaquetar el tema y volver a ejecutar ese script, que reescribe la página de la calculadora. Con el dato de noviembre, la subida ya es la definitiva |
+| Finales de diciembre de 2026 | Real decreto de revalorización: `CFG.subida.oficial = true`, cuantías mínimas y de la PNC de 2027 en la calculadora y en la guía |
 | Cada trimestre | Teléfonos y horarios de cita previa y de información de la Seguridad Social (guía oficial) y servicios del certificado de pensión; la Seguridad Social anunció que el informe de edad legal incluirá bonificaciones de edad y un informe de jubilación parcial |
 | 29 de octubre de 2026 | Tabla de pensión media por provincia con la nómina de octubre y texto de la portada `/datos/` |
 | 1 de noviembre de 2026 | Plazos de termalismo del IMSERSO (requisitos de los viajes y termalismo) |

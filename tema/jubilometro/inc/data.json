@@ -88,6 +88,13 @@
    "desc": "Lo que te queda tras el IRPF, con la escala de tu comunidad autónoma.",
    "icon": "receipt"
   },
+  "subida-pensiones": {
+   "slug": "subida-pensiones",
+   "name": "Calculadora de la subida de las pensiones 2027",
+   "short": "Subida de las pensiones 2027",
+   "desc": "Cuánto cobrarás en 2027 con la revalorización: al mes, al año y según la inflación que falta por conocer.",
+   "icon": "trending"
+  },
   "jubilacion-demorada-flexible": {
    "slug": "jubilacion-demorada-flexible",
    "name": "Calculadora de jubilación demorada y flexible",

@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.7.1' );
+define( 'JM_THEME_VER', '2.7.2' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -860,12 +860,12 @@ add_filter( 'the_content', function ( $html ) {
 
 /* ------------------------------------------------------------------
  * 8d. BUSCADORES CON IA (ChatGPT, Perplexity, Claude, Gemini, Copilot)
- *     - FAQPage: las preguntas frecuentes que ya se ven en cada guía, también como datos estructurados.
+ *     - FAQPage: las preguntas frecuentes que ya se ven en cada guía o calculadora, también como datos estructurados.
  *     - /llms.txt: resumen de la web para los asistentes de IA (llmstxt.org), generado con las guías publicadas.
  *     - IndexNow: avisa a Bing (y con él a Copilot y a la búsqueda de ChatGPT) de cada página nueva o cambiada.
  * ------------------------------------------------------------------ */
 add_filter( 'rank_math/json_ld', function ( $data ) {
-	if ( ! is_singular( 'post' ) ) { return $data; }
+	if ( ! is_singular( array( 'post', 'page' ) ) ) { return $data; }
 	$html = (string) get_post_field( 'post_content', get_queried_object_id() );
 	if ( ! preg_match_all( '#<details><summary>(.*?)<svg[^>]*>.*?</svg></summary><div>(.*?)</div></details>#s', $html, $m, PREG_SET_ORDER ) || count( $m ) < 2 ) { return $data; }
 	$texto = function ( $s ) { return trim( preg_replace( '/\s+/u', ' ', html_entity_decode( wp_strip_all_tags( $s ), ENT_QUOTES, 'UTF-8' ) ) ); };
