@@ -65,5 +65,10 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `dependencia-murcia.webp` | /dependencia/murcia/ | MOÖbutnotacow (Wikimedia Commons) | CC0 1.0 (dominio público) | https://commons.wikimedia.org/w/index.php?curid=191119233 | Fachada barroca de la catedral de Murcia en un día soleado |
 | `dependencia-canarias.webp` | /dependencia/canarias/ | Coppernic (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/86883540@N00/6440820731 | El Teide a lo lejos sobre las montañas de Tenerife |
 | `dependencia-asturias.webp` | /dependencia/asturias/ | Francisco Moreno (Wikimedia Commons) | CC0 1.0 (dominio público) | https://commons.wikimedia.org/w/index.php?curid=61894268 | Cumbres nevadas de los Picos de Europa entre nubes |
+| `dependencia-aragon.webp` | /dependencia/aragon/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5964924/benasque-valley-aragon-spain | Valle de Benasque, en el Pirineo de Huesca, con una tienda de campaña al atardecer |
+| `dependencia-extremadura.webp` | /dependencia/extremadura/ | Carlos SGP (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/28601107@N03/24619547076 | Escena del teatro romano de Mérida bajo un cielo nublado |
+| `dependencia-baleares.webp` | /dependencia/baleares/ | w_lemay (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/59081381@N03/27190076937 | Catedral de Palma y palacio de la Almudaina junto a las palmeras del paseo |
+| `dependencia-cantabria.webp` | /dependencia/cantabria/ | Carlos SGP (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/28601107@N03/42457551331 | Palacio de Sobrellano y su capilla en Comillas, entre prados y montes verdes |
+| `dependencia-la-rioja.webp` | /dependencia/la-rioja/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6030135/photo-image-clouds-public-domain-free | Hileras de viñedo bajo un cielo azul con nubes en La Rioja |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

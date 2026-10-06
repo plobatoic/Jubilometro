@@ -482,5 +482,25 @@
   "/dependencia/pais-vasco/": {
     "id": 736,
     "estado": "publish"
+  },
+  "/dependencia/aragon/": {
+    "id": 742,
+    "estado": "publish"
+  },
+  "/dependencia/baleares/": {
+    "id": 744,
+    "estado": "publish"
+  },
+  "/dependencia/cantabria/": {
+    "id": 746,
+    "estado": "publish"
+  },
+  "/dependencia/extremadura/": {
+    "id": 748,
+    "estado": "publish"
+  },
+  "/dependencia/la-rioja/": {
+    "id": 750,
+    "estado": "publish"
   }
 }
