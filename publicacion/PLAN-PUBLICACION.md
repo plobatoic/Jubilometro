@@ -219,6 +219,16 @@ Búsquedas locales («dependencia Galicia», «ley dependencia País Vasco», «
 - Enlazadas desde la portada de Dependencia, «cómo solicitar», «cuánto tarda» y «cómo reclamar» (ejemplos de silencio positivo y negativo).
 - **Mantenimiento**: actualizar las cifras del Imserso cada trimestre (estadística mensual del SAAD) en todas las guías de comunidad a la vez.
 
+### Jubilación por profesión (6/10/2026)
+
+Búsquedas del tipo «jubilación guardia civil», «a qué edad se jubila un maestro» o «jubilación policía local»: mucha demanda y respuestas dispersas. Cada guía va con su `verificacion-fuentes.md` (texto consolidado del BOE por su API), imagen CC0 y cifras de Clases Pasivas de 2026 cuando aplica.
+
+- Con coeficientes reductores: [policía local](https://jubilometro.com/jubilacion/policia-local/), [bomberos](https://jubilometro.com/jubilacion/bomberos/) y [Régimen del Mar](https://jubilometro.com/jubilacion/regimen-del-mar/).
+- Con reglas propias: [empleadas de hogar](https://jubilometro.com/jubilacion/empleadas-de-hogar/), [Guardia Civil](https://jubilometro.com/jubilacion/guardia-civil/) (reserva a los 58 o 61), [Policía Nacional](https://jubilometro.com/jubilacion/policia-nacional/) (segunda actividad), [militares](https://jubilometro.com/jubilacion/militares/) (reserva y tropa a los 45), [docentes](https://jubilometro.com/jubilacion/docentes/) (fin de curso, universidad a los 70) y [trabajadores agrarios](https://jubilometro.com/jubilacion/agrarios/) (cuotas de inactividad 2026).
+- Enlazadas desde la portada de Jubilación, «anticipada por profesión», funcionarios, autónomos y cuidadora interna o externa.
+- **Mantenimiento**: cada enero, actualizar los haberes reguladores de Clases Pasivas (guardia civil, policía nacional, militares, docentes y funcionarios a la vez) y las cuotas de inactividad agrarias con la orden de cotización del año. Si se aprueba un coeficiente reductor para Guardia Civil o Policía Nacional, cambiar las dos guías y la de «anticipada por profesión».
+- **Search Console**: pedir la indexación de las nueve URL.
+
 ### Calculadora de la subida de las pensiones (tema 2.7.2, 5/10/2026)
 
 Nueva página [/calculadoras/subida-pensiones/](https://jubilometro.com/calculadoras/subida-pensiones/) (id 718), con URL sin año para que acumule enlaces de un año a otro (el año va en el título). Las búsquedas «subida pensiones 2027» y «calculadora subida pensiones» se disparan de finales de noviembre a enero: tiene que estar al día con cada dato del IPC (ver el calendario de mantenimiento).

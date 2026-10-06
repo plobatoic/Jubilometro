@@ -118,9 +118,10 @@ Depende de las bases de cada año, pero con 30 años cotizados el porcentaje ser
 - ¿Quieres seguir con tu negocio tras jubilarte? Lee la [jubilación activa](/jubilacion/activa/) y la [flexible](/jubilacion/flexible/).
 - ¿Te planteas adelantarla? Consulta la [jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
+- ¿Eres agricultor o ganadero? Mira las reglas de [los trabajadores agrarios](/jubilacion/agrarios/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 6 de octubre de 2026, enlace a la guía de los trabajadores agrarios. 27 de septiembre de 2026, primera versión.*

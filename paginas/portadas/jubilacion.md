@@ -21,6 +21,8 @@ No todo el mundo se jubila justo a su edad ordinaria. La ley permite adelantarla
 
 ¿Te compensa adelantar? Depende de tu carrera y de cuánto recorte sufras: hacemos las cuentas en [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/). Para tu caso concreto, usa la [calculadora de jubilación anticipada](/calculadoras/jubilacion-anticipada/) o la de [jubilación demorada y flexible](/calculadoras/jubilacion-demorada-flexible/).
 
+**Si tu trabajo tiene reglas propias**: los [funcionarios](/jubilacion/funcionarios/) que entraron antes de 2011 se jubilan por Clases Pasivas, igual que muchos [docentes](/jubilacion/docentes/), [guardias civiles](/jubilacion/guardia-civil/), [policías nacionales](/jubilacion/policia-nacional/) y [militares](/jubilacion/militares/). También tienen particularidades los [trabajadores agrarios](/jubilacion/agrarios/), las [empleadas de hogar](/jubilacion/empleadas-de-hogar/) y los [autónomos](/jubilacion/autonomos/).
+
 ## Cómo y cuándo solicitar la jubilación
 
 La pensión se pide al Instituto Nacional de la Seguridad Social, mejor por internet: con Cl@ve o certificado digital, o sin certificado con tu correo, una foto del DNI y un selfi. Te lo explicamos paso a paso en [cómo solicitar la jubilación por internet](/jubilacion/solicitar-jubilacion-internet/). Si nunca has hecho gestiones online, empieza por nuestra guía de [trámites online para mayores](/ayudas/tramites-online/).

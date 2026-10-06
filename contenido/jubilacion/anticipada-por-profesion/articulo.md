@@ -87,7 +87,7 @@ Desde 2025 existe un procedimiento reglado para que otros colectivos puedan cons
 
 ### ¿Los policías nacionales y guardias civiles tienen coeficientes reductores?
 
-Tienen su propio régimen de jubilación, con reglas distintas según si están en Clases Pasivas o en el Régimen General. Este artículo trata de los colectivos del sistema de la Seguridad Social; consulta tu caso con tu unidad de personal. Resumimos las reglas generales de Clases Pasivas en [jubilación de los funcionarios](/jubilacion/funcionarios/).
+No. A diferencia de los policías locales, no hay un real decreto que les rebaje la edad de jubilación en la Seguridad Social. Pasan antes a la reserva o a la segunda actividad, que no son una jubilación, y se retiran a los 65 años. Lo explicamos en [la jubilación de la Guardia Civil](/jubilacion/guardia-civil/), [la de la Policía Nacional](/jubilacion/policia-nacional/) y [la de los militares](/jubilacion/militares/).
 
 ### ¿Se recorta la pensión si me jubilo antes por mi profesión?
 
@@ -119,4 +119,4 @@ Los sindicatos o asociaciones empresariales de tu sector pueden iniciar el proce
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, enlaces a las guías de policía local y bomberos y edad mínima de los bomberos. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 6 de octubre de 2026, enlaces a las guías de policía local, bomberos, Guardia Civil, Policía Nacional y militares, y edad mínima de los bomberos. 27 de septiembre de 2026, primera versión.*

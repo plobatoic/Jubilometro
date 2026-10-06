@@ -74,5 +74,10 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `jubilacion-bomberos.webp` | /jubilacion/bomberos/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/7426629/photo-image-public-domain-person | Bomberos con mangueras junto a un camión de bomberos durante una intervención |
 | `jubilacion-regimen-del-mar.webp` | /jubilacion/regimen-del-mar/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6062771/free-public-domain-cc0-photo | Barco de pesca navegando al atardecer cerca de la costa |
 | `jubilacion-empleadas-de-hogar.webp` | /jubilacion/empleadas-de-hogar/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5927299/photo-image-public-domain-free | Plancha de ropa sobre una tabla de planchar, en primer plano |
+| `jubilacion-guardia-civil.webp` | /jubilacion/guardia-civil/ | Txemai Argazki (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/59170444@N05/51833492877 | Moto Montesa 360 H7 de la Guardia Civil (1982) en un museo |
+| `jubilacion-policia-nacional.webp` | /jubilacion/policia-nacional/ | Zarateman (Wikimedia Commons) | CC0 1.0 (dominio público) | https://commons.wikimedia.org/w/index.php?curid=53514978 | Comisaría provincial de la Policía Nacional en San Sebastián |
+| `jubilacion-militares.webp` | /jubilacion/militares/ | Jusotil_1943 (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/46322086@N04/33407933660 | Soldados y ambulancia militar en el Día de las Fuerzas Armadas, Oviedo (2013) |
+| `jubilacion-docentes.webp` | /jubilacion/docentes/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5914106/photo-image-book-public-domain-letters | Pizarra con «ABC» escrito con tiza, libros y tizas |
+| `jubilacion-agrarios.webp` | /jubilacion/agrarios/ | Art Institute of Chicago (rawpixel) | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/8962631/the-harvesters-leon-augustin-lhermitte | «Los segadores», cuadro de Léon Augustin Lhermitte |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

@@ -54,7 +54,7 @@ Si estás en el Régimen General, todo lo que explicamos en la [guía de la edad
 | Voluntaria | Desde los **60 años**, con **30 años de servicios efectivos** al Estado | A petición tuya |
 | Por incapacidad permanente para el servicio | Cuando una lesión o enfermedad te impide totalmente hacer las funciones de tu cuerpo | De oficio o a petición tuya, con dictamen médico |
 
-En los tres casos necesitas al menos **15 años de servicios** para tener pensión ([artículos 28 y 29 de la Ley de Clases Pasivas](https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a28)). La edad de 65 años y la prolongación hasta los 70 vienen del [artículo 67 del Estatuto Básico del Empleado Público](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a67). Algunos cuerpos tienen normas propias: los jueces y magistrados, por ejemplo, se jubilan a los 70 años y pueden seguir hasta los 72.
+En los tres casos necesitas al menos **15 años de servicios** para tener pensión ([artículos 28 y 29 de la Ley de Clases Pasivas](https://www.boe.es/buscar/act.php?id=BOE-A-1987-12636#a28)). La edad de 65 años y la prolongación hasta los 70 vienen del [artículo 67 del Estatuto Básico del Empleado Público](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719#a67). Algunos cuerpos tienen normas propias: los jueces y magistrados, por ejemplo, se jubilan a los 70 años y pueden seguir hasta los 72. Lo detallamos para los [docentes](/jubilacion/docentes/), la [Guardia Civil](/jubilacion/guardia-civil/), la [Policía Nacional](/jubilacion/policia-nacional/) y los [militares](/jubilacion/militares/).
 
 Si te falta poco para los 15 años al llegar a la edad forzosa y tienes al menos 12, puedes pedir una prórroga en el servicio activo justo por el tiempo que te falte.
 
@@ -182,4 +182,4 @@ Sí, puedes pedirlo hasta los 70 años, y tu administración debe responder de f
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de Clases Pasivas o de tu órgano de personal. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 2 de octubre de 2026, primera versión.*
+*Historial de cambios: 6 de octubre de 2026, enlaces a las guías de docentes, Guardia Civil, Policía Nacional y militares. 2 de octubre de 2026, primera versión.*

@@ -518,5 +518,25 @@
   "/jubilacion/regimen-del-mar/": {
     "id": 762,
     "estado": "publish"
+  },
+  "/jubilacion/agrarios/": {
+    "id": 766,
+    "estado": "publish"
+  },
+  "/jubilacion/docentes/": {
+    "id": 770,
+    "estado": "publish"
+  },
+  "/jubilacion/guardia-civil/": {
+    "id": 773,
+    "estado": "publish"
+  },
+  "/jubilacion/militares/": {
+    "id": 775,
+    "estado": "publish"
+  },
+  "/jubilacion/policia-nacional/": {
+    "id": 777,
+    "estado": "publish"
   }
 }
