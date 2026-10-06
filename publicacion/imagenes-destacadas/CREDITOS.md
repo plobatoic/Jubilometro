@@ -70,5 +70,9 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `dependencia-baleares.webp` | /dependencia/baleares/ | w_lemay (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/59081381@N03/27190076937 | Catedral de Palma y palacio de la Almudaina junto a las palmeras del paseo |
 | `dependencia-cantabria.webp` | /dependencia/cantabria/ | Carlos SGP (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/28601107@N03/42457551331 | Palacio de Sobrellano y su capilla en Comillas, entre prados y montes verdes |
 | `dependencia-la-rioja.webp` | /dependencia/la-rioja/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6030135/photo-image-clouds-public-domain-free | Hileras de viñedo bajo un cielo azul con nubes en La Rioja |
+| `jubilacion-policia-local.webp` | /jubilacion/policia-local/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6040041/police-car-free-public-domain-cc0-photo | Coches de policía con las luces azules encendidas en una calle |
+| `jubilacion-bomberos.webp` | /jubilacion/bomberos/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/7426629/photo-image-public-domain-person | Bomberos con mangueras junto a un camión de bomberos durante una intervención |
+| `jubilacion-regimen-del-mar.webp` | /jubilacion/regimen-del-mar/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/6062771/free-public-domain-cc0-photo | Barco de pesca navegando al atardecer cerca de la costa |
+| `jubilacion-empleadas-de-hogar.webp` | /jubilacion/empleadas-de-hogar/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5927299/photo-image-public-domain-free | Plancha de ropa sobre una tabla de planchar, en primer plano |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

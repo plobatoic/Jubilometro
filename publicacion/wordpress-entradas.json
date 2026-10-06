@@ -502,5 +502,21 @@
   "/dependencia/la-rioja/": {
     "id": 750,
     "estado": "publish"
+  },
+  "/jubilacion/bomberos/": {
+    "id": 756,
+    "estado": "publish"
+  },
+  "/jubilacion/empleadas-de-hogar/": {
+    "id": 758,
+    "estado": "publish"
+  },
+  "/jubilacion/policia-local/": {
+    "id": 760,
+    "estado": "publish"
+  },
+  "/jubilacion/regimen-del-mar/": {
+    "id": 762,
+    "estado": "publish"
   }
 }

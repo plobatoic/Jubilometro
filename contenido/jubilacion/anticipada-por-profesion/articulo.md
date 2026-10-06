@@ -44,13 +44,13 @@ Dos reglas generales ([artículo 206 de la Ley General de la Seguridad Social](h
 <!-- tabla: Principales colectivos con coeficientes reductores de la edad de jubilación -->
 | Colectivo | Coeficiente | Norma |
 |---|---|---|
-| Bomberos al servicio de las administraciones públicas | 0,20 | Real Decreto 383/2008 |
-| Policías locales | 0,20 | [Real Decreto 1449/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-17135) |
+| [Bomberos al servicio de las administraciones públicas](/jubilacion/bomberos/) | 0,20 | [Real Decreto 383/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-5987) |
+| [Policías locales](/jubilacion/policia-local/) | 0,20 | [Real Decreto 1449/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-17135) |
 | Miembros de la Ertzaintza y de otros cuerpos policiales autonómicos, según su norma | 0,20 | Normas propias |
-| Bomberos forestales | 0,20 | Real Decreto 817/2025 |
+| [Bomberos forestales](/jubilacion/bomberos/) | 0,20 | Real Decreto 817/2025 |
 | Agentes forestales y medioambientales de las administraciones públicas | 0,20 | [Real Decreto 919/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20696) |
 | Minería del carbón | Del 0,05 al 0,50 según la categoría | Real Decreto 2366/1984 |
-| Trabajadores del mar | Según el tipo de embarcación y actividad | Régimen Especial del Mar |
+| [Trabajadores del mar](/jubilacion/regimen-del-mar/) | Del 0,15 al 0,40 según el barco o la actividad | [Real Decreto 1311/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-18478) y Ley 47/2015 |
 | Personal de vuelo de trabajos aéreos | Según la función | Real Decreto 1559/1986 |
 | Trabajadores ferroviarios | Según la categoría | Real Decreto 2621/1986 |
 | Artistas y profesionales taurinos | Reglas propias de edad | Real Decreto 2621/1986 |
@@ -64,7 +64,9 @@ Los colectivos con coeficiente de 0,20 no pueden adelantar la jubilación sin l�
 - **Como máximo 5 años antes** de tu edad ordinaria.
 - **Hasta 6 años antes** si acreditas una carrera muy larga en el colectivo. En los policías locales, desde 2027 se exigen **37 años de cotización efectiva como policía local** para ese sexto año (36 años y 6 meses entre 2023 y 2026).
 
-Además, estas normas exigen haber trabajado un mínimo de años en la profesión: por ejemplo, **15 años** cotizados como agente forestal y medioambiental.
+Además, estas normas exigen haber trabajado un mínimo de años en la profesión: por ejemplo, **15 años** cotizados como agente forestal y medioambiental o como policía local.
+
+En los **bomberos** el límite funciona de otra forma: no hay un máximo de años de adelanto, sino una **edad mínima de 60 años**, o de **59** con 35 años cotizados como bombero. Lo explicamos con tablas en [la jubilación de los bomberos](/jubilacion/bomberos/) y en [la de la policía local](/jubilacion/policia-local/).
 
 ## Bomberos y agentes forestales: lo último
 
@@ -117,4 +119,4 @@ Los sindicatos o asociaciones empresariales de tu sector pueden iniciar el proce
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 6 de octubre de 2026, enlaces a las guías de policía local y bomberos y edad mínima de los bomberos. 27 de septiembre de 2026, primera versión.*

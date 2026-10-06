@@ -63,6 +63,8 @@ Cómo se calcula la Seguridad Social de la familia ([Orden PJC/297/2026](https:/
 - **Desempleo** (5,50 % con contrato indefinido) y **Fondo de Garantía Salarial** (0,20 %), con una **bonificación del 80 %**.
 - **[Mecanismo de equidad intergeneracional](/cuanto-cobrare/mei-cuota-solidaridad/)**: 0,75 %.
 
+Esa cotización es la que dará derecho a la cuidadora a su pensión: lo explicamos en [la jubilación de las empleadas de hogar](/jubilacion/empleadas-de-hogar/).
+
 La cuidadora paga su parte (el 6,40 % de su base: contingencias comunes, desempleo y equidad intergeneracional), que se descuenta de su salario. La ley prevé también bonificaciones del 45 % o del 30 % en las contingencias comunes para empleadores con menos renta y patrimonio, en las condiciones que fije el reglamento.
 
 ## Qué obligaciones tienes como empleador
@@ -123,4 +125,4 @@ Sí, desde el primer día y sea cual sea el número de horas, en el Sistema Espe
 
 *Este artículo es informativo y no sustituye el asesoramiento laboral profesional ni la información de la Tesorería General de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 6 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 29 de septiembre de 2026, primera versión.*
