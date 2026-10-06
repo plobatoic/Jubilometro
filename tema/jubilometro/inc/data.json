@@ -60,6 +60,13 @@
   }
  },
  "calcs": {
+  "simulador-jubilacion": {
+   "slug": "simulador-jubilacion",
+   "name": "Simulador de jubilación",
+   "short": "Simulador de jubilación",
+   "desc": "Tu jubilación entera en una página animada: la fecha exacta, tu pensión, cuánto ganas o pierdes adelantándola o retrasándola y el neto.",
+   "icon": "chart"
+  },
   "edad-jubilacion": {
    "slug": "edad-jubilacion",
    "name": "Calculadora de edad de jubilación",

@@ -561,6 +561,9 @@
           out.classList.remove('is-updating'); void out.offsetWidth; out.classList.add('is-updating');
           countUp(out.querySelector('.jm-result__figure'));
           printRow(out);
+          // El enlace al simulador lleva los datos ya escritos (en el #: no salen del navegador)
+          var sl = document.querySelector('[data-jm-sim-link]'), fo = readForm(form);
+          if (sl && fo.nacAnio) sl.setAttribute('href', '/calculadoras/simulador-jubilacion/#n=' + fo.nacAnio + '-' + fo.nacMes + '&c=' + (fo.cotAnios || 0) + '-' + (fo.cotMeses || 0) + '&s=' + (fo.sigue === false ? 0 : 1));
         } catch (e) { if (root.console) console.error(e); }
       }
       // El ejemplo escrito en la página se rehace con las cifras de CFG si su texto no coincide:

@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.7.2' );
+define( 'JM_THEME_VER', '2.8.4' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -50,8 +50,13 @@ add_action( 'wp_enqueue_scripts', function () {
 	wp_enqueue_script( 'jm-site', JM_THEME_URI . '/assets/js/jubilometro.js', array(), JM_THEME_VER, array( 'strategy' => 'defer', 'in_footer' => true ) );
 	$post    = get_post();
 	$content = ( $post && is_singular() ) ? $post->post_content : '';
-	if ( is_front_page() || false !== strpos( $content, 'data-jm-calc' ) ) {
+	if ( is_front_page() || false !== strpos( $content, 'data-jm-calc' ) || false !== strpos( $content, 'data-jm-sim' ) ) {
 		wp_enqueue_script( 'jm-calculadoras', JM_THEME_URI . '/assets/js/calculadoras.js', array(), JM_THEME_VER, array( 'strategy' => 'defer', 'in_footer' => true ) );
+	}
+	// Simulador animado: su hoja y su script solo en su página
+	if ( false !== strpos( $content, 'data-jm-sim' ) ) {
+		wp_enqueue_style( 'jm-simulador', JM_THEME_URI . '/assets/css/simulador.css', array( 'jubilometro' ), JM_THEME_VER );
+		wp_enqueue_script( 'jm-simulador', JM_THEME_URI . '/assets/js/simulador.js', array( 'jm-calculadoras' ), JM_THEME_VER, array( 'strategy' => 'defer', 'in_footer' => true ) );
 	}
 }, 100 );
 

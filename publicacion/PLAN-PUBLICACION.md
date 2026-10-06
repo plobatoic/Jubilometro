@@ -219,6 +219,15 @@ Búsquedas locales («dependencia Galicia», «ley dependencia País Vasco», «
 - Enlazadas desde la portada de Dependencia, «cómo solicitar», «cuánto tarda» y «cómo reclamar» (ejemplos de silencio positivo y negativo).
 - **Mantenimiento**: actualizar las cifras del Imserso cada trimestre (estadística mensual del SAAD) en todas las guías de comunidad a la vez.
 
+### Simulador de jubilación animado (tema 2.8.4, 6/10/2026)
+
+Página bandera: [/calculadoras/simulador-jubilacion/](https://jubilometro.com/calculadoras/simulador-jubilacion/) (id 779), palabra clave «simulador de jubilación». Tres datos en una frase y cinco capítulos: cuándo (cuenta atrás en tablillas y cinta de la vida laboral), cuánto (base reguladora × porcentaje), elige tu momento (deslizador mes a mes con gráfico de lo cobrado en total), neto (IRPF de tu comunidad) y resumen con enlace para compartir (datos en el #).
+
+- Motor: el de `calculadoras.js` (cero cifras propias). Script `simulador.js` y hoja `simulador.css` solo en esa página. Brief: `publicacion/simulador/BRIEF.md`.
+- Enlazada desde el índice de calculadoras, el pie, el buscador, llms.txt y la portada (el enlace del bloque «¿Cuándo te jubilas?» lleva los datos ya escritos).
+- **Mantenimiento**: al cambiar `CFG` (enero, o la subida oficial), volver a ejecutar `node herramientas/calculadoras/simulador-jubilacion.mjs publicacion/paginas-vivas/calculadoras__simulador-jubilacion.html publicacion/paginas-vivas/calculadoras.html`.
+- **Search Console**: pedir la indexación de la URL.
+
 ### Jubilación por profesión (6/10/2026)
 
 Búsquedas del tipo «jubilación guardia civil», «a qué edad se jubila un maestro» o «jubilación policía local»: mucha demanda y respuestas dispersas. Cada guía va con su `verificacion-fuentes.md` (texto consolidado del BOE por su API), imagen CC0 y cifras de Clases Pasivas de 2026 cuando aplica.
