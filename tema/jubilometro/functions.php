@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.8.4' );
+define( 'JM_THEME_VER', '2.8.5' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -927,6 +927,27 @@ function jm_llms_txt() {
 	return $o;
 }
 add_action( 'save_post', function () { delete_transient( 'jm_llms_txt' ); } );
+
+// Search Console: archivo de verificación de Google y direcciones antiguas de las páginas legales
+// (otros nombres que Google encontró y daban 404) con redirección permanente a las buenas.
+add_action( 'init', function () {
+	$uri = isset( $_SERVER['REQUEST_URI'] ) ? strtok( sanitize_text_field( wp_unslash( $_SERVER['REQUEST_URI'] ) ), '?' ) : '';
+	if ( '/google937ba0a9a16a45b8.html' === $uri ) {
+		header( 'Content-Type: text/html; charset=utf-8' );
+		echo 'google-site-verification: google937ba0a9a16a45b8.html';
+		exit;
+	}
+	$viejas = array(
+		'/politica-de-privacidad/' => '/politica-privacidad/',
+		'/politica-de-privacidad'  => '/politica-privacidad/',
+		'/politica-de-cookies/'    => '/politica-cookies/',
+		'/politica-de-cookies'     => '/politica-cookies/',
+	);
+	if ( isset( $viejas[ $uri ] ) ) {
+		wp_safe_redirect( home_url( $viejas[ $uri ] ), 301 );
+		exit;
+	}
+}, 1 );
 
 define( 'JM_INDEXNOW_KEY', '3337a9d98f536ce6049cb37171761901' );
 add_action( 'init', function () {
