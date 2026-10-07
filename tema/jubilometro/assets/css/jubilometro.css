@@ -2413,6 +2413,29 @@ html body { background: #fff; }
   .jm-mast__title em { white-space: nowrap; }
 }
 
+/* --- «Guías por tema» y «Las cifras de 2026» (tema 2.9.0): fuera la doble raya de las fichas de archivo,
+   que dejaba el texto pegado arriba; más aire dentro y las cifras siempre dentro de su tarjeta --------- */
+:is(.jm-tema, .jm-saldo__row) { background-image: none; }
+.jm-tema { gap: 1rem; padding: 1.5rem 1.5rem 1.35rem; }
+.jm-tema__head { column-gap: .9rem; }
+.jm-tema__icon { width: 2.75rem; height: 2.75rem; border-radius: 13px; box-shadow: inset 0 0 0 1px rgb(29 78 216 / .1); }
+.jm-tema__list a { padding: .7rem 0; }
+.jm-tema__list li:first-child a { padding-top: .25rem; }
+.jm-tema__more { padding-top: .4rem; }
+.jm-saldo__row, .jm-saldo__row:last-child { gap: .4rem; padding: 1.5rem 1.5rem 1.35rem; }
+.jm-saldo__v { margin-bottom: .55rem; }
+.jm-saldo__row a { align-self: flex-start; }
+/* Cinco cifras: en una fila no caben (66 años 10 meses o 3.359,60 €/mes se salían); van tres arriba y dos abajo */
+@media (min-width: 640px) and (max-width: 1099px) { .jm-saldo__row:last-child { grid-column: 1 / -1; } }
+@media (min-width: 1100px) {
+  .jm-saldo { grid-template-columns: repeat(6, minmax(0, 1fr)); }
+  .jm-saldo__row, .jm-saldo__row:last-child { grid-column: span 2; }
+  .jm-saldo__row:nth-child(n+4) { grid-column: span 3; }
+}
+@media (max-width: 479px) {
+  .jm-tema, .jm-saldo__row, .jm-saldo__row:last-child { padding: 1.25rem 1.25rem 1.15rem; }
+}
+
 /* --- Aurora suave en las secciones con fondo de color y en el pie --------- */
 :is(.jm-figures, .jm-section--tint, .jm-rail--tint, .jm-quick) { background-color: var(--jm-tint); background-image: radial-gradient(48rem 26rem at 0% 0%, rgb(59 130 246 / .09), transparent 70%), radial-gradient(40rem 26rem at 100% 100%, rgb(56 189 248 / .1), transparent 70%), radial-gradient(36rem 22rem at 86% 0%, rgb(99 102 241 / .06), transparent 70%); }
 .jm-footer { background: radial-gradient(56rem 26rem at 10% 0%, rgb(29 78 216 / .34), transparent 70%), radial-gradient(48rem 28rem at 94% 8%, rgb(99 102 241 / .2), transparent 70%), var(--jm-ink); }
