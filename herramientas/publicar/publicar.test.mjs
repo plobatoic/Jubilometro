@@ -120,6 +120,12 @@ test('la calculadora de edad enlaza a la página de la web y el PDF a la bibliot
   assert.match(compensa, /<!-- wp:html -->\n<div class="calc-jubi calc-compensa">/);
 });
 
+test('«Siguiente paso» da una tarjeta por cada enlace, también si un punto tiene varios', () => {
+  const html = cuerpoWeb(porUrl('/jubilacion/flexible-activa-o-parcial/'), existeEnLaWeb, medios);
+  const nav = html.match(/<nav aria-label="Siguiente paso"[\s\S]*?<\/nav>/)[0];
+  for (const u of ['/jubilacion/flexible/', '/jubilacion/activa/', '/jubilacion/parcial/']) assert.match(nav, new RegExp(`class="jm-next" href="${u}"`), u);
+});
+
 test('las plantillas de la web se reutilizan solo para artículos que existen', () => {
   for (const url of Object.keys(PLANTILLAS)) assert.ok(porUrl(url), url);
 });

@@ -132,6 +132,7 @@ Sí. La gestora aplica una retención en cada pago, que luego se ajusta en tu de
 
 - ¿Cuánto te quedará de pensión limpia? Calcula tu [pensión neta con la retención de IRPF](/calculadoras/pension-neta-irpf/).
 - ¿Cuánto necesitas ahorrado? Prueba la calculadora [¿cuánto necesito ahorrar?](/calculadoras/cuanto-ahorrar-jubilacion/).
+- ¿Te llegará con la pensión? Lee [cuánto dinero necesitas ahorrado para jubilarte](/dinero/ahorro-jubilacion/).
 - ¿Cuándo te jubilas? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ---

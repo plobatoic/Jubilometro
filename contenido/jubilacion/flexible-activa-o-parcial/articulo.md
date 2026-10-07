@@ -106,7 +106,7 @@ Si puedes retrasar la jubilación, la activa. Si ya estás jubilado y no has sid
 
 ## Siguiente paso
 
-- Detalle de cada modalidad: [flexible](/jubilacion/flexible/), [activa](/jubilacion/activa/) y [parcial](/jubilacion/parcial/).
+- ¿Ya sabes cuál te encaja? Lee el detalle de la [jubilación flexible](/jubilacion/flexible/), la [jubilación activa](/jubilacion/activa/) y la [jubilación parcial](/jubilacion/parcial/).
 - ¿Cuánto ganas retrasando la jubilación? Mira la [jubilación demorada](/jubilacion/demorada/).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 

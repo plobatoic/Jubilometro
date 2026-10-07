@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.9.0' );
+define( 'JM_THEME_VER', '2.9.1' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -779,6 +779,38 @@ add_filter( 'rank_math/json_ld', function ( $data ) {
 	}
 	return $data;
 }, 120 );
+
+// Calculadoras sin ficha de aplicación en Rank Math (las añadidas después, como el simulador o la subida):
+// se completa con el nombre y la descripción de inc/data.json, igual que la de las demás calculadoras
+add_filter( 'rank_math/json_ld', function ( $data ) {
+	if ( ! is_page() ) { return $data; }
+	$id    = get_queried_object_id();
+	$slug  = get_post_field( 'post_name', $id );
+	$par   = wp_get_post_parent_id( $id );
+	$calcs = jm_data( 'calcs' );
+	if ( ! $par || 'calculadoras' !== get_post_field( 'post_name', $par ) || empty( $calcs[ $slug ] ) ) { return $data; }
+	foreach ( $data as $node ) {
+		if ( is_array( $node ) && ! empty( $node['@type'] ) && in_array( 'WebApplication', (array) $node['@type'], true ) ) { return $data; }
+	}
+	$url                    = get_permalink( $id );
+	$data['WebApplication'] = array(
+		'@type'               => 'WebApplication',
+		'@id'                 => $url . '#app',
+		'name'                => $calcs[ $slug ]['name'],
+		'description'         => $calcs[ $slug ]['desc'],
+		'url'                 => $url,
+		'applicationCategory' => 'FinanceApplication',
+		'operatingSystem'     => 'Web',
+		'browserRequirements' => 'Requiere JavaScript',
+		'inLanguage'          => 'es-ES',
+		'isAccessibleForFree' => 'True',
+		'offers'              => array( '@type' => 'Offer', 'price' => '0', 'priceCurrency' => 'EUR' ),
+		'dateModified'        => get_the_modified_date( 'c', $id ),
+		'citation'            => array( 'https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724', 'https://www.seg-social.es' ),
+		'publisher'           => array( '@id' => home_url( '/#organization' ) ),
+	);
+	return $data;
+}, 125 );
 
 /* ------------------------------------------------------------------
  * 8c. CALCULADORAS PARA OTRAS WEBS

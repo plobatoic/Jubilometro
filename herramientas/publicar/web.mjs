@@ -319,18 +319,18 @@ function preguntas(tokens, existe, medios) {
   return bloqueHtml(`<div class="jm-faq">${detalles.join('')}</div>`);
 }
 
-// Siguiente paso: cada punto de la lista pasa a una tarjeta enlazada. Se omiten las que
-// apuntan a páginas que aún no existen.
+// Siguiente paso: cada enlace de la lista pasa a una tarjeta (un punto con dos enlaces da dos
+// tarjetas con la misma pregunta). Se omiten las que apuntan a páginas que aún no existen.
 function siguientePaso(token, existe) {
   if (!token || token.type !== 'list') throw new Error('«Siguiente paso» debe ser una lista');
-  const tarjetas = token.items.map((i) => {
-    const m = i.text.match(/^(?:(¿[^?]*\?)\s+)?[\s\S]*?\[([^\]]+)\]\((\/[^)]*)\)/);
-    if (!m) return null;
-    const [, pregunta, texto, url] = m;
-    const destino = EQUIVALENCIAS[url] ?? url;
-    if (!existe.has(destino.split('#')[0])) return null;
-    return `<a class="jm-next" href="${destino}"><span><span class="jm-next__label">${icono('arrow')}${pregunta ?? 'Siguiente paso'}</span>` +
-      `<span class="jm-next__title">${mayuscula(sinEtiquetas(marked.parseInline(texto)))}</span></span><span class="jm-next__arrow">${icono('arrow')}</span></a>`;
+  const tarjetas = token.items.flatMap((i) => {
+    const pregunta = (i.text.match(/^(¿[^?]*\?)\s+/) || [])[1];
+    return [...i.text.matchAll(/\[([^\]]+)\]\((\/[^)]*)\)/g)].map(([, texto, url]) => {
+      const destino = EQUIVALENCIAS[url] ?? url;
+      if (!existe.has(destino.split('#')[0])) return null;
+      return `<a class="jm-next" href="${destino}"><span><span class="jm-next__label">${icono('arrow')}${pregunta ?? 'Siguiente paso'}</span>` +
+        `<span class="jm-next__title">${mayuscula(sinEtiquetas(marked.parseInline(texto)))}</span></span><span class="jm-next__arrow">${icono('arrow')}</span></a>`;
+    });
   }).filter(Boolean);
   if (!tarjetas.length) return '';
   return bloqueHtml(`<nav aria-label="Siguiente paso" style="display:grid;gap:.75rem">${tarjetas.join('')}</nav>`);

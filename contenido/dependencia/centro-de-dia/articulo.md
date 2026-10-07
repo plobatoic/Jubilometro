@@ -38,7 +38,7 @@ Hay varios tipos:
 - **Centros de día para menores de 65 años** con dependencia.
 - **Centros de noche**, para quien necesita atención de noche y está bien acompañado de día.
 
-**No confundir** con los **hogares del jubilado** o **centros de mayores** (centros de participación activa): esos son espacios de ocio y actividades para mayores autónomos, sin atención a la dependencia.
+**No confundir** con los **hogares del jubilado** o **centros de mayores** (centros de participación activa): esos son espacios de ocio y actividades para mayores autónomos, sin atención a la dependencia. Si lo que buscas son cursos, mira los programas de [universidad para mayores](/imserso/universidad-mayores/).
 
 ### Qué se hace en un día normal
 

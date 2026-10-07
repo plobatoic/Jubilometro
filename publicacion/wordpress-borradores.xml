@@ -720,7 +720,7 @@
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
-<li>¿Aún no cobras la no contributiva? Mira los requisitos de la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva de jubilación</a> o de la de <a href="/ayudas/pnc-invalidez/">invalidez</a>.</li>
+<li>¿Aún no cobras la no contributiva? Mira los requisitos de la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva de jubilación</a> o de la <a href="/ayudas/pnc-invalidez/">no contributiva de invalidez</a>.</li>
 <li>¿Vives solo con pocos ingresos? Comprueba si te corresponde el <a href="/ayudas/ingreso-minimo-vital-mayores/">ingreso mínimo vital</a>.</li>
 <li>¿Pagas mucho de luz? Pide el <a href="/ayudas/bono-social-electrico/">bono social eléctrico</a>.</li>
 </ul>
@@ -6676,7 +6676,7 @@
 <li><strong>Centros de día para menores de 65 años</strong> con dependencia.</li>
 <li><strong>Centros de noche</strong>, para quien necesita atención de noche y está bien acompañado de día.</li>
 </ul>
-<p><strong>No confundir</strong> con los <strong>hogares del jubilado</strong> o <strong>centros de mayores</strong> (centros de participación activa): esos son espacios de ocio y actividades para mayores autónomos, sin atención a la dependencia.</p>
+<p><strong>No confundir</strong> con los <strong>hogares del jubilado</strong> o <strong>centros de mayores</strong> (centros de participación activa): esos son espacios de ocio y actividades para mayores autónomos, sin atención a la dependencia. Si lo que buscas son cursos, mira los programas de <a href="/imserso/universidad-mayores/">universidad para mayores</a>.</p>
 <h3 id="que-se-hace-en-un-dia-normal">Qué se hace en un día normal</h3>
 <p>Cada centro organiza su programa, pero suele incluir:</p>
 <ul>
@@ -9284,7 +9284,7 @@
 <p><strong>Convivencia</strong>: con grado <strong>II o III</strong>, el cuidador tiene que <strong>vivir con la persona dependiente</strong>. Con grado I se puede exceptuar si se garantiza la atención inmediata.</p>
 <p>Además, el cuidador debe ser <strong>idóneo</strong> para prestar los cuidados, <strong>comprometerse formalmente</strong> a hacerlo, hacer la <strong>formación</strong> que le propongan y permitir que los servicios sociales <strong>visiten la vivienda</strong> para comprobarlo.</p>
 <h2 id="la-cotizacion-del-cuidador-la-paga-el-estado">La cotización del cuidador la paga el Estado</h2>
-<p>El cuidador no profesional puede suscribir un <strong>convenio especial</strong> con la Seguridad Social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690" rel="noopener">Real Decreto 615/2007</a>):</p>
+<p>El cuidador no profesional puede suscribir un <strong><a href="/dependencia/convenio-cuidador/">convenio especial</a></strong> con la Seguridad Social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690" rel="noopener">Real Decreto 615/2007</a>):</p>
 <ul>
 <li><strong>Las cuotas las asume la Administración General del Estado</strong>: al cuidador no le cuesta nada.</li>
 <li><strong>Cuenta para su jubilación, incapacidad permanente y muerte y supervivencia</strong>.</li>
@@ -11764,6 +11764,7 @@
 <ul>
 <li>¿Cuánto te quedará de pensión limpia? Calcula tu pensión neta con la retención de IRPF.</li>
 <li>¿Cuánto necesitas ahorrado? Prueba la calculadora ¿cuánto necesito ahorrar?.</li>
+<li>¿Te llegará con la pensión? Lee <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas ahorrado para jubilarte</a>.</li>
 <li>¿Cuándo te jubilas? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
 </ul>
 </nav>
@@ -13758,6 +13759,7 @@
 <p><strong>Ejemplo 1: Antonio y Pilar</strong>, de 70 y 66 años, cobran 1.400 y 700 euros de pensión y no viajaron con el Imserso las dos últimas temporadas. Edad media: 68 años, <strong>10 puntos</strong>. Ingresos: 2.100 ÷ 1,33 = 1.578,95 euros, <strong>20 puntos</strong>. Sin viajes previos: <strong>50 puntos</strong>. Total: <strong>80 puntos</strong>.</p>
 <p><strong>Ejemplo 2: Rosario</strong>, viuda de 80 años con 950 euros de pensión, que hizo un viaje en cada una de las dos últimas temporadas. Edad: <strong>20 puntos</strong>. Ingresos: <strong>40 puntos</strong>. Viajes previos: <strong>10 puntos</strong>. Total: <strong>70 puntos</strong>. Aunque es mayor y cobra menos, reserva después que Antonio y Pilar, porque el baremo prima a quien no ha viajado.</p>
 <h2 id="como-reservar-el-viaje-paso-a-paso">Cómo reservar el viaje paso a paso</h2>
+<p>En resumen son cuatro pasos; el detalle de cada uno, cómo pagar y cómo cancelar está en la guía <a href="/imserso/solicitar-viajes/">cómo reservar un viaje del Imserso</a>.</p>
 <ol>
 <li><strong>Ten tu acreditación.</strong> Es la resolución del Imserso que te reconoce como persona beneficiaria. Si ya viajaste en temporadas anteriores, no tienes que volver a pedirla: recibes un documento con tus datos y solo lo devuelves si quieres cambiar algo. Para los nuevos, el plazo de esta temporada fue <strong>del 22 de junio al 10 de julio de 2026</strong>.</li>
 <li><strong>Espera a tu fecha.</strong> La carta de acreditación indica desde qué día puedes reservar, según tus puntos.</li>
@@ -13789,7 +13791,7 @@
 </div>
 <p>Desde el <strong>19 de septiembre</strong> puedes reservar también los viajes que hayan quedado libres en el cupo de <strong>otras provincias</strong>, algo útil si en la tuya se han agotado los destinos que querías.</p>
 <div class="aviso-caja">
-<p><strong>Si no encuentras plaza, vuelve a mirar.</strong> Las plazas que otras personas cancelan o no pagan a tiempo vuelven a ponerse a la venta en las mismas webs durante toda la temporada.</p>
+<p><strong>Si no encuentras plaza, vuelve a mirar.</strong> Las plazas que otras personas cancelan o no pagan a tiempo vuelven a ponerse a la venta en las mismas webs durante toda la temporada. Te contamos cómo encontrarlas en <a href="/imserso/plazas-libres/">plazas libres del Imserso</a>.</p>
 </div>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="puedo-ir-al-imserso-si-todavia-no-estoy-jubilado">¿Puedo ir al Imserso si todavía no estoy jubilado?</h3>
@@ -17384,7 +17386,7 @@
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
-<li>¿Quieres seguir con tu negocio tras jubilarte? Lee la <a href="/jubilacion/activa/">jubilación activa</a> y la <a href="/jubilacion/flexible/">flexible</a>.</li>
+<li>¿Quieres seguir con tu negocio tras jubilarte? Lee la <a href="/jubilacion/activa/">jubilación activa</a> y la <a href="/jubilacion/flexible/">jubilación flexible</a>.</li>
 <li>¿Te planteas adelantarla? Consulta la <a href="/jubilacion/anticipada-voluntaria/">jubilación anticipada voluntaria</a>.</li>
 <li>¿Cuándo es tu edad ordinaria? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
 <li>¿Eres agricultor o ganadero? Mira las reglas de <a href="/jubilacion/agrarios/">los trabajadores agrarios</a>.</li>
@@ -19856,7 +19858,7 @@
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
-<li>Detalle de cada modalidad: <a href="/jubilacion/flexible/">flexible</a>, <a href="/jubilacion/activa/">activa</a> y <a href="/jubilacion/parcial/">parcial</a>.</li>
+<li>¿Ya sabes cuál te encaja? Lee el detalle de la <a href="/jubilacion/flexible/">jubilación flexible</a>, la <a href="/jubilacion/activa/">jubilación activa</a> y la <a href="/jubilacion/parcial/">jubilación parcial</a>.</li>
 <li>¿Cuánto ganas retrasando la jubilación? Mira la <a href="/jubilacion/demorada/">jubilación demorada</a>.</li>
 <li>¿Cuándo es tu edad ordinaria? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
 </ul>
@@ -22006,7 +22008,7 @@
 <ul>
 <li><strong>Pensión de viudedad</strong>, para el cónyuge o la pareja de hecho. Repasa los <a href="/viudedad/requisitos/">requisitos</a> y los <a href="/viudedad/solicitar-viudedad/">pasos para pedirla</a>.</li>
 <li><strong><a href="/viudedad/pension-orfandad/">Pensión de orfandad</a></strong>, para los hijos menores de 21 años (o de 25 si no trabajan o ganan menos del salario mínimo) y los incapacitados para el trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224" rel="noopener">artículo 224</a>).</li>
-<li><strong>Auxilio por defunción</strong>: 46,50 euros para quien haya pagado el entierro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>).</li>
+<li><strong>Auxilio por defunción</strong>: 46,50 euros para quien haya pagado el entierro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>). No llega para cubrirlo: si había un <a href="/dinero/seguro-decesos/">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</li>
 <li><strong><a href="/viudedad/favor-de-familiares/">Pensión en favor de familiares</a></strong>, por ejemplo para los hijos o hermanos de 45 años o más, solteros, divorciados o viudos, que convivían con el pensionista y a su cargo, lo cuidaron durante mucho tiempo y no tienen medios de vida (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226" rel="noopener">artículo 226</a>).</li>
 </ul>
 <p>Todas se piden en la <strong>misma solicitud</strong> al INSS. El derecho no caduca, pero <strong>solo se cobran tres meses hacia atrás</strong> desde que se pide (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a230" rel="noopener">artículo 230</a>), salvo el auxilio por defunción, que sí prescribe.</p>

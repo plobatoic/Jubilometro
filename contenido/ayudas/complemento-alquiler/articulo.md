@@ -92,7 +92,7 @@ No. El complemento no cuenta como ingreso para mantener la pensión ni para calc
 
 ## Siguiente paso
 
-- ¿Aún no cobras la no contributiva? Mira los requisitos de la [pensión no contributiva de jubilación](/ayudas/pension-no-contributiva/) o de la de [invalidez](/ayudas/pnc-invalidez/).
+- ¿Aún no cobras la no contributiva? Mira los requisitos de la [pensión no contributiva de jubilación](/ayudas/pension-no-contributiva/) o de la [no contributiva de invalidez](/ayudas/pnc-invalidez/).
 - ¿Vives solo con pocos ingresos? Comprueba si te corresponde el [ingreso mínimo vital](/ayudas/ingreso-minimo-vital-mayores/).
 - ¿Pagas mucho de luz? Pide el [bono social eléctrico](/ayudas/bono-social-electrico/).
 

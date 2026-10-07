@@ -57,7 +57,7 @@ Además, el cuidador debe ser **idóneo** para prestar los cuidados, **compromet
 
 ## La cotización del cuidador la paga el Estado
 
-El cuidador no profesional puede suscribir un **convenio especial** con la Seguridad Social ([Real Decreto 615/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690)):
+El cuidador no profesional puede suscribir un **[convenio especial](/dependencia/convenio-cuidador/)** con la Seguridad Social ([Real Decreto 615/2007](https://www.boe.es/buscar/act.php?id=BOE-A-2007-9690)):
 
 - **Las cuotas las asume la Administración General del Estado**: al cuidador no le cuesta nada.
 - **Cuenta para su jubilación, incapacidad permanente y muerte y supervivencia**.

@@ -115,7 +115,7 @@ Depende de las bases de cada año, pero con 30 años cotizados el porcentaje ser
 
 ## Siguiente paso
 
-- ¿Quieres seguir con tu negocio tras jubilarte? Lee la [jubilación activa](/jubilacion/activa/) y la [flexible](/jubilacion/flexible/).
+- ¿Quieres seguir con tu negocio tras jubilarte? Lee la [jubilación activa](/jubilacion/activa/) y la [jubilación flexible](/jubilacion/flexible/).
 - ¿Te planteas adelantarla? Consulta la [jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 - ¿Eres agricultor o ganadero? Mira las reglas de [los trabajadores agrarios](/jubilacion/agrarios/).

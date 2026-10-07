@@ -219,6 +219,17 @@ Búsquedas locales («dependencia Galicia», «ley dependencia País Vasco», «
 - Enlazadas desde la portada de Dependencia, «cómo solicitar», «cuánto tarda» y «cómo reclamar» (ejemplos de silencio positivo y negativo).
 - **Mantenimiento**: actualizar las cifras del Imserso cada trimestre (estadística mensual del SAAD) en todas las guías de comunidad a la vez.
 
+### Revisión completa de cierre (tema 2.9.1, 7/10/2026)
+
+- **SEO de las 163 URL del sitemap**: título, descripción, canónica, robots, og:image, un solo H1 y JSON-LD válido en todas; sin títulos ni descripciones repetidos.
+- **Datos estructurados**: Article (con imagen y fechas), BreadcrumbList y FAQPage completos. El simulador y la calculadora de la subida no tenían WebApplication: desde el tema 2.9.1 la pone el tema a cualquier calculadora de `inc/data.json` que no la tenga.
+- **Enlaces**: 467 URL propias, todas 200. De los 562 enlaces externos ninguno está roto: los que fallan son el botón de Facebook (no deja entrar a robots) y webs de la Administración que bloquean conexiones desde servidores (Xunta, Imserso, GVA, La Rioja, Asturias). Volver a mirarlas a mano si Search Console avisa.
+- **Enlazado interno**: ninguna página huérfana. Más enlaces a «cómo reservar» y «plazas libres» del Imserso (desde la guía de viajes), al convenio del cuidador, al seguro de decesos, al ahorro para la jubilación y a la universidad para mayores.
+- **Generador**: en «Siguiente paso», un punto con varios enlaces solo publicaba el primero (pasaba en 10 guías). Ahora cada enlace da su tarjeta; lo vigila una prueba (`npm test`, 24 pruebas).
+- **Navegador** (19 tipos de página, 1440 y 390 px): sin errores de JavaScript propios, sin desbordes, sin imágenes rotas y axe sin fallos. Un error «int64» que apareció una vez venía de los anuncios de Google y no se repite.
+- **Plazos**: los vencidos (ayudas de vivienda de Cataluña, vivencia de pensiones en el extranjero, 30/9) ya están en pasado.
+- **Pendiente fuera del código**: la aprobación de AdSense (revisión de Google en curso) y el mantenimiento del IPC del calendario (14/10, 30/10, 13/11 y 27/11).
+
 ### Portada «Explora las guías» y fondos de aurora (tema 2.8.8, 7/10/2026)
 
 La cabecera de la portada ya no lleva la guía destacada a la derecha: lleva un panel de cristal con los temas en una fila de iconos (como la de la tienda de Apple) y cinco guías de cada uno. La primera lista es «Más leídas» (lecturas del mes; si aún no hay, «Esenciales»); las demás, las guías pilar de cada tema y, si faltan, las más recientes.

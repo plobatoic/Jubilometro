@@ -138,6 +138,8 @@ Si viajas en pareja, **la edad es la media de los dos** (redondeada hacia arriba
 
 ## Cómo reservar el viaje paso a paso
 
+En resumen son cuatro pasos; el detalle de cada uno, cómo pagar y cómo cancelar está en la guía [cómo reservar un viaje del Imserso](/imserso/solicitar-viajes/).
+
 1. **Ten tu acreditación.** Es la resolución del Imserso que te reconoce como persona beneficiaria. Si ya viajaste en temporadas anteriores, no tienes que volver a pedirla: recibes un documento con tus datos y solo lo devuelves si quieres cambiar algo. Para los nuevos, el plazo de esta temporada fue **del 22 de junio al 10 de julio de 2026**.
 2. **Espera a tu fecha.** La carta de acreditación indica desde qué día puedes reservar, según tus puntos.
 3. **Reserva** en [turismosocial.es](https://www.turismosocial.es) (costa peninsular y turismo de escapada), en [mundicolor.es](https://www.mundicolor.es) (costa insular) o en una **agencia de viajes autorizada**, con tu **DNI** y la **clave de acreditación de cuatro dígitos**.
@@ -155,7 +157,7 @@ Cada provincia tiene un cupo de viajes a cada destino, proporcional al número d
 
 Desde el **19 de septiembre** puedes reservar también los viajes que hayan quedado libres en el cupo de **otras provincias**, algo útil si en la tuya se han agotado los destinos que querías.
 
-> **Si no encuentras plaza, vuelve a mirar.** Las plazas que otras personas cancelan o no pagan a tiempo vuelven a ponerse a la venta en las mismas webs durante toda la temporada.
+> **Si no encuentras plaza, vuelve a mirar.** Las plazas que otras personas cancelan o no pagan a tiempo vuelven a ponerse a la venta en las mismas webs durante toda la temporada. Te contamos cómo encontrarlas en [plazas libres del Imserso](/imserso/plazas-libres/).
 
 ## Preguntas frecuentes
 
