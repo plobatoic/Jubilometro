@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.8.5' );
+define( 'JM_THEME_VER', '2.8.6' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -102,7 +102,7 @@ add_action( 'send_headers', function () {
 	header( 'X-Content-Type-Options: nosniff' );
 	header( 'Referrer-Policy: strict-origin-when-cross-origin' );
 	header( 'X-Frame-Options: SAMEORIGIN' );
-	header( 'Permissions-Policy: camera=(), microphone=(), geolocation=(), browsing-topics=()' );
+	header( 'Permissions-Policy: camera=(), microphone=(), geolocation=()' );
 	if ( is_ssl() ) { header( 'Strict-Transport-Security: max-age=31536000' ); }
 } );
 
