@@ -1,15 +1,13 @@
 <?php
 /**
- * Portada. Arriba, el titular con el buscador y la guía fijada (o la más reciente); debajo, tres guías más y las últimas publicadas;
- * después, las cifras del año, la calculadora de edad, las guías por tema y el resto de herramientas.
- * Se actualiza sola al publicar.
+ * Portada. Arriba, el titular con el buscador y «Explora las guías» (los temas y sus guías, en un panel);
+ * debajo, seis guías más y las últimas publicadas; después, las cifras del año, la calculadora de edad,
+ * las guías por tema y el resto de herramientas. Se actualiza sola al publicar.
  */
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 get_header();
 
 $used   = array();
-$lead   = jm_stories( '', 1, $used, false, true );
-$used   = jm_ids( $lead );
 // Las cinco últimas guías publicadas
 $latest = array_slice( jm_ledger_sort( jm_stories( '', 24, $used, false ) ), 0, 5 );
 $used   = array_merge( $used, jm_ids( $latest ) );
@@ -17,9 +15,8 @@ $used   = array_merge( $used, jm_ids( $latest ) );
 $boxes  = jm_stories( '', 6, $used, false );
 $used   = array_merge( $used, jm_ids( $boxes ) );
 
-// La guía principal va en la cabecera, junto al titular y el buscador
-$lead_html = $lead ? jm_story( $lead[0], 'lead', array( 'h' => 'h2', 'dek' => true, 'date' => true, 'eager' => true, 'sizes' => '(min-width: 1240px) 560px, (min-width: 1000px) 45vw, 100vw' ) ) : '';
-echo str_replace( '<!--jm-lead-->', '<div class="jm-mast__lead-story">' . $lead_html . '</div>', jm_part( 'home-mast' ) ); // phpcs:ignore
+// Los temas y sus guías van en la cabecera, junto al titular y el buscador
+echo str_replace( '<!--jm-browse-->', jm_browse(), jm_part( 'home-mast' ) ); // phpcs:ignore
 ?>
 <section class="jm-front" aria-label="Más guías">
 	<div class="jm-wrap jm-front__grid">

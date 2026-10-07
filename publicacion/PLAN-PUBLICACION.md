@@ -219,6 +219,18 @@ Búsquedas locales («dependencia Galicia», «ley dependencia País Vasco», «
 - Enlazadas desde la portada de Dependencia, «cómo solicitar», «cuánto tarda» y «cómo reclamar» (ejemplos de silencio positivo y negativo).
 - **Mantenimiento**: actualizar las cifras del Imserso cada trimestre (estadística mensual del SAAD) en todas las guías de comunidad a la vez.
 
+### Portada «Explora las guías» y fondos de aurora (tema 2.8.8, 7/10/2026)
+
+La cabecera de la portada ya no lleva la guía destacada a la derecha: lleva un panel de cristal con los temas en una fila de iconos (como la de la tienda de Apple) y cinco guías de cada uno. La primera lista es «Más leídas» (lecturas del mes; si aún no hay, «Esenciales»); las demás, las guías pilar de cada tema y, si faltan, las más recientes.
+
+- Código: `jm_browse()` y `jm_browse_row()` en `inc/historias.php` (las guías pilar están en `jm_pilares()`, compartidas con «Guías por tema»), `initBrowse()` en `jubilometro.js` y la capa «v6 · CRISTAL» al final de `jubilometro.css`.
+- Interacción: clic, flechas del teclado (Inicio y Fin también), deslizar con el dedo sobre la lista y flechas laterales con ratón. Sin JavaScript se ve la primera lista y cada tema enlaza a su página. Con «reducir movimiento», todo cambia sin animación.
+- Las fotos de cada tema se piden al abrirlo (o al acercar el ratón a su icono): la portada no carga 45 miniaturas de golpe.
+- Fondos: luces de aurora en la portada (con un foco que pasa por detrás del cristal al mover el ratón), en las cabeceras de páginas y guías, en las secciones de color y en el pie.
+- Tipografías con `font-display: optional` (2.8.8): si la letra no llega a tiempo, esa visita sigue con la de reserva. Quita el salto de diseño del móvil (CLS 0,28 → 0), que venía de que el texto de entrada cambiaba de 4 a 3 líneas al llegar la letra.
+- Comprobado en vivo: axe sin fallos en escritorio y móvil, sin errores de JavaScript ni desbordes; Lighthouse accesibilidad y SEO 100, CLS 0. Las «buenas prácticas» bajan a 79 solo por AdSense (cookies de terceros y una API antigua de Google); sin anuncios dan 100.
+- **Mantenimiento**: si se crea un tema nuevo, añadir sus guías pilar en `jm_pilares()` y, si tiene calculadora propia, en el mapa `$calc` de `jm_browse()`.
+
 ### Simulador de jubilación animado (tema 2.8.4, 6/10/2026)
 
 Página bandera: [/calculadoras/simulador-jubilacion/](https://jubilometro.com/calculadoras/simulador-jubilacion/) (id 779), palabra clave «simulador de jubilación». Tres datos en una frase y cinco capítulos: cuándo (cuenta atrás en tablillas y cinta de la vida laboral), cuánto (base reguladora × porcentaje), elige tu momento (deslizador mes a mes con gráfico de lo cobrado en total), neto (IRPF de tu comunidad) y resumen con enlace para compartir (datos en el #).

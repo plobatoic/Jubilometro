@@ -284,13 +284,16 @@ function jm_rail_duo( $a, $b, &$used ) {
 	return $cols ? '<section class="jm-rail"><div class="jm-wrap jm-rail__grid jm-rail__grid--duo">' . $cols . '</div></section>' : '';
 }
 
-// Lo más leído: lecturas reales del mes; si aún no hay datos, las guías imprescindibles
-function jm_mostread() {
+// Lo más leído: lecturas reales del mes; si aún no hay datos, las guías imprescindibles.
+// Devuelve la lista y si sale de lecturas reales (con menos de tres guías, la lista va vacía).
+function jm_mostread_list( $n = 5 ) {
+	static $memo = array();
+	if ( isset( $memo[ $n ] ) ) { return $memo[ $n ]; }
 	$k    = jm_views_key();
 	$list = get_posts( array(
 		'post_type'      => 'post',
 		'post_status'    => 'publish',
-		'posts_per_page' => 5,
+		'posts_per_page' => $n,
 		'meta_key'       => $k, // phpcs:ignore
 		'orderby'        => 'meta_value_num',
 		'order'          => 'DESC',
@@ -299,14 +302,20 @@ function jm_mostread() {
 	$real = count( $list ) >= 3;
 	$ids  = jm_ids( $list );
 	foreach ( jm_data( 'mostread' ) as $slug ) {
-		if ( count( $list ) >= 5 ) { break; }
+		if ( count( $list ) >= $n ) { break; }
 		$p = jm_post_by_slug( $slug, 'publish' );
 		if ( $p && ! in_array( (int) $p->ID, $ids, true ) ) { $list[] = $p; $ids[] = (int) $p->ID; }
 	}
-	if ( count( $list ) < 5 ) {
-		foreach ( jm_stories( '', 5 - count( $list ), $ids, false ) as $p ) { $list[] = $p; $ids[] = (int) $p->ID; }
+	if ( count( $list ) < $n ) {
+		foreach ( jm_stories( '', $n - count( $list ), $ids, false ) as $p ) { $list[] = $p; $ids[] = (int) $p->ID; }
 	}
-	if ( count( $list ) < 3 ) { return ''; }
+	$memo[ $n ] = array( count( $list ) >= 3 ? $list : array(), $real );
+	return $memo[ $n ];
+}
+
+function jm_mostread() {
+	list( $list, $real ) = jm_mostread_list();
+	if ( ! $list ) { return ''; }
 	$title = $real ? 'Lo más leído este mes' : 'Guías imprescindibles';
 	$page  = $real ? 'Ranking de ' . date_i18n( 'F' ) : 'Por dónde empezar';
 	return '<section class="jm-mostread"><div class="jm-wrap">' . jm_ledger( $list, array( 'id' => 'leido-title', 'title' => $title, 'page' => $page, 'rank' => true ) ) . '</div></section>';
@@ -346,13 +355,9 @@ function jm_upcoming() {
 		. '<ul class="jm-upcoming__list">' . $rows . '</ul></div></div></section>';
 }
 
-/*
- * Guías por tema (portada): una tarjeta por tema con tres guías pilar y el enlace a todas.
- * Sustituye a las bandas con fotos de cada tema: misma navegación y enlaces, en mucha menos altura.
- * Si una guía pilar ya sale arriba en la portada o no está publicada, se usa la más reciente del tema.
- */
-function jm_temas_grid( &$used ) {
-	$pilares = array(
+// Guías pilar de cada tema, por orden de importancia
+function jm_pilares() {
+	return array(
 		'jubilacion'     => array( 'edad-de-jubilacion', 'anticipada-voluntaria', 'flexible', 'anticipada-involuntaria' ),
 		'cuanto-cobrare' => array( 'como-se-calcula-la-pension', 'pension-minima', 'revalorizacion-pensiones', 'pension-maxima' ),
 		'viudedad'       => array( 'requisitos', 'cuantia', 'solicitar-viudedad', 'pareja-de-hecho' ),
@@ -362,6 +367,15 @@ function jm_temas_grid( &$used ) {
 		'dinero'         => array( 'declaracion-renta-jubilados', 'rescate-plan-pensiones', 'hipoteca-inversa', 'irpf-pensiones' ),
 		'imserso'        => array( 'viajes-imserso', 'termalismo', 'requisitos-viajes', 'tarjeta-mayores' ),
 	);
+}
+
+/*
+ * Guías por tema (portada): una tarjeta por tema con tres guías pilar y el enlace a todas.
+ * Sustituye a las bandas con fotos de cada tema: misma navegación y enlaces, en mucha menos altura.
+ * Si una guía pilar ya sale arriba en la portada o no está publicada, se usa la más reciente del tema.
+ */
+function jm_temas_grid( &$used ) {
+	$pilares = jm_pilares();
 	$cats  = jm_data( 'cats' );
 	$cards = '';
 	foreach ( jm_data( 'temas' ) as $slug ) {
@@ -395,4 +409,99 @@ function jm_temas_grid( &$used ) {
 	return '<section class="jm-temas" aria-labelledby="temas-title"><div class="jm-wrap">'
 		. '<header class="jm-temas__top"><h2 id="temas-title">Guías por tema</h2><p>Lo esencial de cada tema, para empezar por lo que más se consulta.</p></header>'
 		. '<div class="jm-temas__grid">' . $cards . '</div></div></section>';
+}
+
+/*
+ * Portada: «Explora las guías». Un panel con los temas en una fila de iconos y cinco guías de cada uno:
+ * primero las más leídas del mes y después las guías pilar de cada tema (y las más recientes si faltan).
+ * Sin JavaScript se ve la primera lista y cada tema enlaza a su página; con él, los temas cambian la lista
+ * sin salir de la portada. Solo la primera lista lleva fotos al cargar: las demás se piden al abrirlas.
+ */
+function jm_browse() {
+	$cats  = jm_data( 'cats' );
+	$calcs = jm_data( 'calcs' );
+	$pil   = jm_pilares();
+	// Calculadora que acompaña a cada lista (los temas sin una propia no la llevan)
+	$calc  = array( 'top' => 'simulador-jubilacion', 'jubilacion' => 'edad-jubilacion', 'cuanto-cobrare' => 'pension-jubilacion', 'viudedad' => 'pension-viudedad', 'incapacidad' => 'incapacidad-permanente', 'dinero' => 'pension-neta-irpf' );
+	list( $top, $real ) = jm_mostread_list();
+	$sets  = array();
+	if ( $top ) {
+		$sets[] = array( 'k' => 'top', 'name' => $real ? 'Más leídas' : 'Esenciales', 'icon' => 'trending', 'url' => '/guias/', 'list' => $top, 'n' => 0,
+			'cap' => $real ? 'Lo más leído en ' . date_i18n( 'F' ) : 'Las guías por las que empezar' );
+	}
+	$temas = 0;
+	foreach ( jm_data( 'temas' ) as $slug ) {
+		$term = get_category_by_slug( $slug );
+		if ( ! $term || ! $term->count ) { continue; }
+		$list = array();
+		foreach ( $pil[ $slug ] ?? array() as $ps ) {
+			$p = jm_post_by_slug( $ps, 'publish' );
+			if ( $p && in_array( $slug, wp_list_pluck( get_the_category( $p->ID ), 'slug' ), true ) ) { $list[] = $p; }
+		}
+		if ( count( $list ) < 5 ) { $list = array_merge( $list, jm_stories( $slug, 5 - count( $list ), jm_ids( $list ), false ) ); }
+		if ( ! $list ) { continue; }
+		$temas++;
+		$sets[] = array( 'k' => $slug, 'name' => $term->name, 'icon' => $cats[ $slug ]['icon'] ?? 'book', 'url' => '/' . $slug . '/', 'list' => array_slice( $list, 0, 5 ), 'n' => (int) $term->count, 'cap' => $cats[ $slug ]['desc'] ?? '' );
+	}
+	if ( ! $sets ) { return ''; }
+	$total = (int) wp_count_posts( 'post' )->publish;
+	$tabs  = '';
+	$panes = '';
+	foreach ( $sets as $i => $s ) {
+		$on    = 0 === $i;
+		$tabs .= '<a class="jm-browse__tab' . ( $on ? ' is-on' : '' ) . '" id="jb-t-' . esc_attr( $s['k'] ) . '" href="' . esc_url( home_url( $s['url'] ) ) . '" data-pane="jb-p-' . esc_attr( $s['k'] ) . '"'
+			. ( $on ? ' aria-current="true"' : '' ) . '><span class="jm-browse__ico">' . jm_icon( $s['icon'] ) . '</span><span class="jm-browse__lbl">' . esc_html( $s['name'] ) . '</span></a>';
+		$rank  = 'top' === $s['k'];
+		$rows  = '';
+		foreach ( $s['list'] as $j => $p ) {
+			$rows .= jm_browse_row( $p, $rank ? $j + 1 : 0, $on, $s['icon'] );
+		}
+		$tag   = $rank ? 'ol' : 'ul';
+		// «Ver las 16 guías»: el tema ya se ve elegido arriba; los lectores de pantalla lo oyen entero
+		$more  = 'top' === $s['k'] ? esc_html( 'Ver todas las guías' ) : esc_html( $s['n'] > 1 ? 'Ver las ' . $s['n'] . ' guías' : 'Ver la guía' ) . '<span class="jm-sr"> de ' . esc_html( $s['name'] ) . '</span>';
+		$cslug = $calc[ $s['k'] ] ?? '';
+		$chip  = '';
+		if ( $cslug && isset( $calcs[ $cslug ] ) ) {
+			$c     = $calcs[ $cslug ];
+			$kind  = 'simulador-jubilacion' === $cslug ? 'Simulador' : 'Calculadora';
+			$chip  = '<a class="jm-browse__calc" href="' . esc_url( home_url( '/calculadoras/' . $cslug . '/' ) ) . '">' . jm_icon( $c['icon'] ?? 'calculator' )
+				. '<span><small>' . $kind . '<span class="jm-sr">:</span></small> ' . esc_html( 'simulador-jubilacion' === $cslug ? 'Tu jubilación entera' : $c['short'] ) . '</span></a>';
+		}
+		$panes .= '<div class="jm-browse__pane' . ( $on ? ' is-on' : '' ) . '" id="jb-p-' . esc_attr( $s['k'] ) . '" data-k="' . esc_attr( $s['k'] ) . '">'
+			. '<p class="jm-browse__cap">' . esc_html( $s['cap'] ) . '</p>'
+			. '<' . $tag . ' class="jm-browse__list' . ( $rank ? ' jm-browse__list--rank' : '' ) . '">' . $rows . '</' . $tag . '>'
+			. '<p class="jm-browse__foot"><a class="jm-browse__all" href="' . esc_url( home_url( $s['url'] ) ) . '">' . $more . jm_icon( 'arrow' ) . '</a>' . $chip . '</p></div>';
+	}
+	return '<section class="jm-browse" aria-labelledby="browse-title">'
+		. '<header class="jm-browse__head"><h2 id="browse-title">Explora las guías</h2><p><b>' . $total . '</b> guías en ' . $temas . ' temas</p></header>'
+		. '<div class="jm-browse__nav"><button class="jm-browse__paddle jm-browse__paddle--prev" type="button" tabindex="-1" aria-hidden="true">' . jm_icon( 'chevron' ) . '</button>'
+		. '<nav class="jm-browse__strip" aria-label="Temas de las guías">' . $tabs . '<i class="jm-browse__bar" aria-hidden="true"></i></nav>'
+		. '<button class="jm-browse__paddle jm-browse__paddle--next" type="button" tabindex="-1" aria-hidden="true">' . jm_icon( 'chevron' ) . '</button></div>'
+		. '<div class="jm-browse__panes">' . $panes . '</div></section>';
+}
+
+// Fila de «Explora las guías»: miniatura, título corto, lo que explica y minutos de lectura
+function jm_browse_row( $p, $rank, $eager, $icon ) {
+	$title = get_the_title( $p );
+	$sub   = '';
+	if ( preg_match( '/^(.+?):\s*(.+)$/u', $title, $m ) ) {
+		$title = $m[1];
+		$sub   = function_exists( 'mb_strtoupper' ) ? mb_strtoupper( mb_substr( $m[2], 0, 1 ) ) . mb_substr( $m[2], 1 ) : ucfirst( $m[2] );
+	} elseif ( has_excerpt( $p ) ) {
+		$sub = wp_trim_words( get_the_excerpt( $p ), 14, '…' );
+	}
+	$thumb = get_post_thumbnail_id( $p );
+	$src   = $thumb ? wp_get_attachment_image_src( $thumb, 'thumbnail' ) : null;
+	if ( $src && $eager ) {
+		$img = '<span class="jm-browse__thumb"><img src="' . esc_url( $src[0] ) . '" alt="" width="52" height="52" loading="lazy" decoding="async"></span>';
+	} elseif ( $src ) {
+		// Lista oculta al cargar: la foto se pide al abrir el tema (jubilometro.js)
+		$img = '<span class="jm-browse__thumb" data-img="' . esc_url( $src[0] ) . '"></span>';
+	} else {
+		$img = '<span class="jm-browse__thumb is-icon">' . jm_icon( $icon ) . '</span>';
+	}
+	$n = $rank ? '<span class="jm-browse__n" aria-hidden="true">' . (int) $rank . '</span>' : '';
+	return '<li class="jm-browse__row"><a href="' . esc_url( get_permalink( $p ) ) . '">' . $n . $img
+		. '<span class="jm-browse__txt"><span class="jm-browse__t">' . esc_html( $title ) . '</span>' . ( $sub ? '<span class="jm-browse__s">' . esc_html( $sub ) . '</span>' : '' ) . '</span>'
+		. '<span class="jm-browse__min">' . (int) jm_minutes( $p ) . ' min<span class="jm-sr"> de lectura</span></span>' . jm_icon( 'chevron', 'jm-browse__go' ) . '</a></li>';
 }

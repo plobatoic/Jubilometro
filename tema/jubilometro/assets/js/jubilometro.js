@@ -675,6 +675,135 @@
     });
   }
 
-  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initCopyCode, initViews, initReveal, initRoll, initTilt, initStage, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  // Portada: «Explora las guías». Los temas pasan a ser pestañas (sin JavaScript son enlaces a cada tema):
+  // con clic, flechas del teclado o deslizando el dedo sobre la lista. Un resalte se desliza bajo el ratón
+  // de una guía a otra y las fotos de cada tema se piden al abrirlo (o al acercar el ratón a su icono).
+  function initBrowse() {
+    var root = $('.jm-browse'); if (!root) return;
+    var nav = $('.jm-browse__nav', root), strip = $('.jm-browse__strip', root), bar = $('.jm-browse__bar', root);
+    var tabs = $$('.jm-browse__tab', root), panes = tabs.map(function (t) { return document.getElementById(t.getAttribute('data-pane')); });
+    if (!tabs.length || panes.indexOf(null) >= 0) return;
+    var cur = Math.max(0, tabs.findIndex(function (t) { return t.classList.contains('is-on'); })), timer = 0;
+    strip.setAttribute('role', 'tablist');
+    tabs.forEach(function (t, i) {
+      t.setAttribute('role', 'tab');
+      t.removeAttribute('aria-current');
+      t.setAttribute('aria-controls', panes[i].id);
+      t.setAttribute('aria-selected', i === cur ? 'true' : 'false');
+      t.setAttribute('tabindex', i === cur ? '0' : '-1');
+      panes[i].setAttribute('role', 'tabpanel');
+      panes[i].setAttribute('aria-labelledby', t.id);
+    });
+    root.classList.add('is-live');
+
+    function photos(pane) {
+      $$('.jm-browse__thumb[data-img]', pane).forEach(function (th) {
+        var img = new Image(); img.alt = ''; img.width = 52; img.height = 52; img.decoding = 'async';
+        img.className = 'is-new'; img.src = th.getAttribute('data-img');
+        th.removeAttribute('data-img'); th.appendChild(img);
+      });
+    }
+    function placeBar() {
+      var t = tabs[cur]; if (!bar || !t) return;
+      bar.style.setProperty('--bx', (t.offsetLeft + t.offsetWidth / 2 - 11).toFixed(1) + 'px');
+    }
+    function edges() {
+      var max = strip.scrollWidth - strip.clientWidth;
+      nav.classList.toggle('can-prev', strip.scrollLeft > 4);
+      nav.classList.toggle('can-next', strip.scrollLeft < max - 4);
+    }
+    // Lleva el tema elegido a la vista dentro de su fila (sin mover la página)
+    function reveal(t) {
+      var l = t.offsetLeft, r = l + t.offsetWidth, pad = 48, to = strip.scrollLeft;
+      if (l - pad < strip.scrollLeft) to = l - pad; else if (r + pad > strip.scrollLeft + strip.clientWidth) to = r + pad - strip.clientWidth;
+      if (to !== strip.scrollLeft) strip.scrollTo({ left: Math.max(0, to), behavior: calm ? 'auto' : 'smooth' });
+    }
+    function select(i, focus) {
+      if (i < 0 || i >= tabs.length) return;
+      if (focus) tabs[i].focus({ preventScroll: true });
+      reveal(tabs[i]);
+      if (i === cur) return;
+      var prev = cur, dir = i > prev ? 1 : -1; cur = i;
+      tabs.forEach(function (t, k) {
+        var on = k === i;
+        t.classList.toggle('is-on', on); t.setAttribute('aria-selected', on ? 'true' : 'false'); t.setAttribute('tabindex', on ? '0' : '-1');
+      });
+      photos(panes[i]);
+      root.style.setProperty('--dir', dir);
+      panes.forEach(function (p) { p.classList.remove('is-in', 'is-out'); });
+      panes[prev].classList.remove('is-on');
+      panes[i].classList.add('is-on');
+      if (!calm) {
+        panes[prev].classList.add('is-out'); panes[i].classList.add('is-in');
+        tabs[i].classList.remove('is-pop'); void tabs[i].offsetWidth; tabs[i].classList.add('is-pop');
+        clearTimeout(timer);
+        timer = setTimeout(function () { panes.forEach(function (p) { p.classList.remove('is-in', 'is-out'); }); tabs[i].classList.remove('is-pop'); }, 1000);
+      }
+      placeBar();
+    }
+    tabs.forEach(function (t, i) {
+      t.addEventListener('click', function (e) {
+        if (e.button || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return; // abrir el tema en otra pestaña sigue funcionando
+        e.preventDefault(); select(i, false);
+      });
+      t.addEventListener('pointerenter', function () { photos(panes[i]); });
+      t.addEventListener('focus', function () { photos(panes[i]); });
+    });
+    strip.addEventListener('keydown', function (e) {
+      var k = e.key, n = tabs.length, to = -1;
+      if (k === 'ArrowRight') to = (cur + 1) % n;
+      else if (k === 'ArrowLeft') to = (cur - 1 + n) % n;
+      else if (k === 'Home') to = 0;
+      else if (k === 'End') to = n - 1;
+      else if (k === ' ' || k === 'Enter') { e.preventDefault(); return; } // el tema enfocado ya está elegido
+      if (to < 0) return;
+      e.preventDefault(); select(to, true);
+    });
+
+    // Flechas de la fila de temas y sombras en los bordes cuando hay más temas a un lado
+    $$('.jm-browse__paddle', root).forEach(function (b) {
+      b.addEventListener('click', function () {
+        var d = b.classList.contains('jm-browse__paddle--prev') ? -1 : 1;
+        strip.scrollBy({ left: d * strip.clientWidth * 0.7, behavior: calm ? 'auto' : 'smooth' });
+      });
+    });
+    strip.addEventListener('scroll', function () { if (!edges.raf) edges.raf = requestAnimationFrame(function () { edges.raf = 0; edges(); }); }, { passive: true });
+    if ('ResizeObserver' in window) new ResizeObserver(function () { edges(); placeBar(); }).observe(strip); else window.addEventListener('resize', function () { edges(); placeBar(); });
+    edges(); placeBar();
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(function () { edges(); placeBar(); });
+
+    // Resalte que se desliza bajo el ratón de una guía a otra
+    if (fine) {
+      panes.forEach(function (p) {
+        var list = $('.jm-browse__list', p); if (!list) return;
+        var lens = document.createElement('i'); lens.className = 'jm-browse__lens'; lens.setAttribute('aria-hidden', 'true');
+        list.insertBefore(lens, list.firstChild);
+        list.addEventListener('pointerover', function (e) {
+          if (e.pointerType && e.pointerType !== 'mouse') return;
+          var row = e.target.closest ? e.target.closest('.jm-browse__row') : null; if (!row) return;
+          var first = !list.classList.contains('is-hover');
+          if (first) lens.style.transition = 'none';
+          lens.style.setProperty('--ly', row.offsetTop + 'px'); lens.style.height = row.offsetHeight + 'px';
+          if (first) { void lens.offsetWidth; lens.style.transition = ''; }
+          list.classList.add('is-hover');
+        });
+        list.addEventListener('pointerleave', function () { list.classList.remove('is-hover'); });
+      });
+    }
+
+    // Con el dedo: deslizar la lista a un lado cambia de tema
+    var box = $('.jm-browse__panes', root), sx = 0, sy = 0, live = false, swiped = 0;
+    box.style.touchAction = 'pan-y';
+    box.addEventListener('pointerdown', function (e) { if (e.pointerType !== 'touch') return; sx = e.clientX; sy = e.clientY; live = true; }, { passive: true });
+    box.addEventListener('pointerup', function (e) {
+      if (!live) return; live = false;
+      var dx = e.clientX - sx, dy = e.clientY - sy;
+      if (Math.abs(dx) > 56 && Math.abs(dx) > Math.abs(dy) * 1.6) { swiped = Date.now(); select(cur + (dx < 0 ? 1 : -1), false); }
+    });
+    box.addEventListener('pointercancel', function () { live = false; });
+    box.addEventListener('click', function (e) { if (Date.now() - swiped < 450) { e.preventDefault(); e.stopPropagation(); } }, true);
+  }
+
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initCopyCode, initViews, initReveal, initRoll, initTilt, initStage, initBrowse, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
