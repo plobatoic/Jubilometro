@@ -219,6 +219,22 @@ Búsquedas locales («dependencia Galicia», «ley dependencia País Vasco», «
 - Enlazadas desde la portada de Dependencia, «cómo solicitar», «cuánto tarda» y «cómo reclamar» (ejemplos de silencio positivo y negativo).
 - **Mantenimiento**: actualizar las cifras del Imserso cada trimestre (estadística mensual del SAAD) en todas las guías de comunidad a la vez.
 
+### Medición, enlaces cortos y redes (tema 2.10.2, 9/10/2026)
+
+Para saber qué trae visitas sin depender de Google Analytics ni de un aviso de cookies nuevo.
+
+- **Estadísticas propias** (`inc/estadisticas.php`): una señal por página vista y otra por botón pulsado, guardadas como sumas por día en la tabla `wp_jm_stats` (sin IP, sin cookies, sin nada en el dispositivo). Cuenta visitas, entradas por origen (Google, Bing, ChatGPT y otras IA, Facebook, X, WhatsApp, correo…), páginas de entrada, campañas de los enlaces cortos, dispositivo, direcciones que dan 404 y botones (compartir, seguir, calculadoras, newsletter, escuchar, imprimir). No cuentan los robots ni quien tiene la sesión iniciada. «Lo más leído» sigue igual (lecturas de 4 s o más).
+  - Panel: **Escritorio › Estadísticas** en WordPress (hoy, 7, 30, 90 días o un año).
+  - Para herramientas: `GET /wp-json/jm/v1/estadisticas?dias=30` con usuario y contraseña de aplicación.
+  - El 9/10/2026 entraron tres visitas de prueba (una por WhatsApp, una 404 de prueba y una guía).
+- **Enlaces cortos** (`inc/difusion.php`, lista en `inc/data.json` → `cortos`): `jubilometro.com/subida` lleva a la calculadora de la subida; con la red al final (`/x`, `/fb`, `/ig`, `/tt`, `/yt`, `/in`, `/wa`, `/tg`, `/nl`) llega con `utm_source`. Redirección 302 sin caché (la CDN de Hostinger no la guarda) y `noindex`. La web quita las etiquetas `utm_` de la barra al llegar. Una prueba (`npm test`, 25 pruebas) vigila que cada código lleve a una página que existe y no tape ninguna dirección de la web.
+- **Compartir**: al final de cada guía y de cada calculadora, «¿Le puede servir a alguien?» con WhatsApp (el primero y más grande), Facebook, X, correo, copiar enlace y el menú de compartir del móvil. Los enlaces de WhatsApp y correo llevan su etiqueta.
+- **Perfiles sociales**: opción `jm_redes` (por la API: `POST /wp/v2/settings {"jm_redes": {"x": "https://x.com/…", "whatsapp": "https://www.whatsapp.com/channel/…"}}`). Mientras esté vacía no se ve nada; con perfiles salen en el pie («Síguenos»), en el `sameAs` de la organización y, el canal de WhatsApp, en el bloque de compartir.
+- Política de privacidad y de cookies actualizadas (9/10/2026) con la estadística de visitas.
+- **Primer mes de redes** (12/10 a 8/11/2026): `herramientas/redes/mes-1.mjs` → `node herramientas/redes/calendario.mjs herramientas/redes/mes-1.mjs primer-mes` genera `publicacion/redes/primer-mes/calendario.html` (88 publicaciones con botón de copiar) y `metricool.csv` (52 de X, Facebook y LinkedIn como borrador). El generador para si un enlace corto no existe, si algo de X pasa de 280 caracteres o si una publicación de Facebook lleva enlace.
+- **Vídeos «La cifra en 30 segundos»**: `herramientas/redes/videos/videos.mjs` (guiones) y `construir.mjs` (un proyecto de HyperFrames por vídeo); los MP4 están en `publicacion/redes/videos/`. Para rehacer uno (por ejemplo, la subida con el IPC nuevo): cambiar su escena, `node herramientas/redes/videos/construir.mjs <carpeta> <gsap.min.js>` y `hyperframes render` en la carpeta del vídeo.
+- **Mantenimiento**: añadir un enlace corto nuevo a `cortos` en `inc/data.json` y empaquetar el tema; cuando existan las cuentas, guardarlas en `jm_redes`.
+
 ### Revisión completa de cierre (tema 2.9.1, 7/10/2026)
 
 - **SEO de las 163 URL del sitemap**: título, descripción, canónica, robots, og:image, un solo H1 y JSON-LD válido en todas; sin títulos ni descripciones repetidos.
@@ -285,7 +301,7 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 |---|---|
 | Cada semana | Tramitación de la proposición de ley de jubilación anticipada sin recortes con 40 años cotizados (tomada en consideración el 22/09/2026). Afecta a la guía de los 40 años cotizados (tabla de tramitación) y a anticipada voluntaria, anticipada involuntaria, compensa, despido a los 60 y edad de jubilación |
 | Octubre-diciembre 2026 | Desarrollo del RD 632/2026 (discapacidad) y primeros criterios del INSS sobre la jubilación flexible del RD 416/2026 |
-| 14 de octubre, 30 de octubre, 13 de noviembre y 27 de noviembre de 2026 | IPC del INE (definitivo de septiembre, adelantado de octubre, definitivo de octubre, adelantado de noviembre): actualizar la estimación de la subida de 2027 en la guía de revalorización, en `CFG.subida` y en la lista `IPC` de `herramientas/calculadoras/subida-pensiones.mjs`; empaquetar el tema y volver a ejecutar ese script, que reescribe la página de la calculadora. Con el dato de noviembre, la subida ya es la definitiva |
+| 14 de octubre, 30 de octubre, 13 de noviembre y 27 de noviembre de 2026 | IPC del INE (definitivo de septiembre, adelantado de octubre, definitivo de octubre, adelantado de noviembre): actualizar la estimación de la subida de 2027 en la guía de revalorización, en `CFG.subida` y en la lista `IPC` de `herramientas/calculadoras/subida-pensiones.mjs`; empaquetar el tema y volver a ejecutar ese script, que reescribe la página de la calculadora. Si cambia la horquilla, rehacer también el vídeo de la subida (`herramientas/redes/videos/videos.mjs`) y los textos con corchetes del calendario de redes. Con el dato de noviembre, la subida ya es la definitiva |
 | Finales de diciembre de 2026 | Real decreto de revalorización: `CFG.subida.oficial = true`, cuantías mínimas y de la PNC de 2027 en la calculadora y en la guía |
 | Cada trimestre | Teléfonos y horarios de cita previa y de información de la Seguridad Social (guía oficial) y servicios del certificado de pensión; la Seguridad Social anunció que el informe de edad legal incluirá bonificaciones de edad y un informe de jubilación parcial |
 | 29 de octubre de 2026 | Tabla de pensión media por provincia con la nómina de octubre y texto de la portada `/datos/` |

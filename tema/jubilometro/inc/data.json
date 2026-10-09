@@ -203,6 +203,22 @@
   "bono-social": "/ayudas/bono-social-electrico/",
   "plan-pensiones": "/dinero/rescate-plan-pensiones/",
   "para-tu-web": "/calculadoras/para-tu-web/",
-  "boletin": "/#newsletter"
+  "boletin": "/#newsletter",
+  "balnearios": "/imserso/termalismo/",
+  "tarjeta-dorada": "/imserso/tarjeta-mayores/",
+  "pareja-de-hecho": "/viudedad/pareja-de-hecho/",
+  "fallecimiento": "/viudedad/fallecimiento-pensionista/",
+  "cita-previa": "/jubilacion/cita-previa-seguridad-social/",
+  "certificado": "/cuanto-cobrare/certificado-pension/",
+  "subsidio-52": "/jubilacion/subsidio-mayores-52/",
+  "incapacidad-total": "/incapacidad/total-cualificada/",
+  "grados-dependencia": "/dependencia/grados/",
+  "ayuda-domicilio": "/dependencia/ayuda-a-domicilio/",
+  "teleasistencia": "/dependencia/teleasistencia/",
+  "banco": "/dinero/domiciliar-pension/",
+  "retencion": "/dinero/irpf-pensiones/",
+  "bruta-neta": "/cuanto-cobrare/pension-bruta-y-neta/",
+  "15-anos": "/jubilacion/15-anos-cotizados/",
+  "anticipada-voluntaria": "/jubilacion/anticipada-voluntaria/"
  }
 }
