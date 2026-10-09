@@ -20,7 +20,7 @@ while ( have_posts() ) :
 	$enc     = rawurlencode( $url );
 	?>
 <div class="jm-progress" aria-hidden="true"></div>
-<article class="jm-post" data-jm-view="<?php echo (int) $p->ID; ?>" data-jm-ajax="<?php echo esc_url( admin_url( 'admin-ajax.php' ) ); ?>">
+<article class="jm-post">
 	<header class="jm-post__head">
 		<div class="jm-wrap">
 			<div class="jm-post__headin">
@@ -57,10 +57,10 @@ while ( have_posts() ) :
 				</div>
 				<div class="jm-share" aria-label="Compartir">
 					<span class="jm-share__label">Compartir</span>
-					<a class="is-wa" href="https://wa.me/?text=<?php echo rawurlencode( $title . ' ' . $url ); ?>" target="_blank" rel="noopener" aria-label="Compartir por WhatsApp"><?php echo jm_icon( 'whatsapp' ); // phpcs:ignore ?></a>
-					<a class="is-fb" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $enc; // phpcs:ignore ?>" target="_blank" rel="noopener" aria-label="Compartir en Facebook"><?php echo jm_icon( 'facebook' ); // phpcs:ignore ?></a>
-					<a class="is-mail" href="mailto:?subject=<?php echo rawurlencode( $title ); ?>&amp;body=<?php echo $enc; // phpcs:ignore ?>" aria-label="Enviar por correo"><?php echo jm_icon( 'mail' ); // phpcs:ignore ?></a>
-					<button class="is-copy" type="button" data-jm-copy="<?php echo esc_url( $url ); ?>" aria-label="Copiar el enlace"><?php echo jm_icon( 'link' ); // phpcs:ignore ?></button>
+					<a class="is-wa" href="https://wa.me/?text=<?php echo rawurlencode( $title . ' ' . jm_share_url( $url, 'whatsapp' ) ); ?>" target="_blank" rel="noopener" data-jm-ev="compartir:whatsapp" aria-label="Compartir por WhatsApp"><?php echo jm_icon( 'whatsapp' ); // phpcs:ignore ?></a>
+					<a class="is-fb" href="https://www.facebook.com/sharer/sharer.php?u=<?php echo $enc; // phpcs:ignore ?>" target="_blank" rel="noopener" data-jm-ev="compartir:facebook" aria-label="Compartir en Facebook"><?php echo jm_icon( 'facebook' ); // phpcs:ignore ?></a>
+					<a class="is-mail" href="mailto:?subject=<?php echo rawurlencode( $title ); ?>&amp;body=<?php echo rawurlencode( jm_share_url( $url, 'email', 'email' ) ); ?>" data-jm-ev="compartir:email" aria-label="Enviar por correo"><?php echo jm_icon( 'mail' ); // phpcs:ignore ?></a>
+					<button class="is-copy" type="button" data-jm-copy="<?php echo esc_url( $url ); ?>" data-jm-ev="compartir:copiar" aria-label="Copiar el enlace"><?php echo jm_icon( 'link' ); // phpcs:ignore ?></button>
 				</div>
 				</div>
 			</div>
@@ -86,6 +86,7 @@ while ( have_posts() ) :
 			<div class="jm-prose">
 				<?php echo $content; // phpcs:ignore ?>
 			</div>
+			<?php echo jm_sharebox( $url, $title ); // phpcs:ignore ?>
 		</div>
 		<aside class="jm-post__aside" aria-label="Índice y herramientas">
 			<div class="jm-aside__sticky">

@@ -133,8 +133,11 @@
   function initShare() {
     $$('[data-jm-copy]').forEach(function (b) {
       b.addEventListener('click', function () {
-        var url = b.getAttribute('data-jm-copy'), label = b.getAttribute('aria-label');
-        function done() { b.classList.add('is-done'); b.setAttribute('aria-label', 'Enlace copiado'); setTimeout(function () { b.classList.remove('is-done'); b.setAttribute('aria-label', label); }, 2200); }
+        var url = b.getAttribute('data-jm-copy'), label = b.getAttribute('aria-label'), span = $('span', b), txt = span && span.textContent;
+        function done() {
+          b.classList.add('is-done'); b.setAttribute('aria-label', 'Enlace copiado'); if (span) span.textContent = '¡Copiado!';
+          setTimeout(function () { b.classList.remove('is-done'); b.setAttribute('aria-label', label); if (span) span.textContent = txt; }, 2200);
+        }
         if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(url).then(done, function () { window.prompt('Copia el enlace:', url); });
         else window.prompt('Copia el enlace:', url);
       });
@@ -155,11 +158,59 @@
     });
   }
 
-  // Lecturas del mes (para «Lo más leído»): una señal ligera por visita, sin cookies
-  function initViews() {
-    var el = $('[data-jm-view]'); if (!el || !navigator.sendBeacon) return;
-    var fd = new FormData(); fd.append('action', 'jm_view'); fd.append('id', el.getAttribute('data-jm-view'));
-    setTimeout(function () { navigator.sendBeacon(el.getAttribute('data-jm-ajax'), fd); }, 4000);
+  // Estadísticas propias, sin cookies ni datos personales (inc/estadisticas.php): una señal por página vista
+  // (de dónde llega la visita y si se queda a leer) y otra por botón pulsado. Cuenta también para «Lo más leído».
+  function beacon(o) {
+    if (!navigator.sendBeacon) return;
+    var fd = new FormData(); Object.keys(o).forEach(function (k) { fd.append(k, o[k]); });
+    try { navigator.sendBeacon('/wp-admin/admin-ajax.php', fd); } catch (e) {}
+  }
+  function track(ev) { var p = ev.split(':'); beacon({ action: 'jm_ev', e: p[0], k: p[1] || '' }); }
+  function initStats() {
+    var b = document.body, q = new URLSearchParams(location.search), r = '', sent = false, t0;
+    try { r = document.referrer ? new URL(document.referrer).hostname : ''; } catch (e) {}
+    var touch = window.matchMedia && matchMedia('(pointer: coarse)').matches;
+    var d = { action: 'jm_hit', id: b.getAttribute('data-jm-id') || '0', r: r && r === location.hostname ? '=' : r,
+      s: q.get('utm_source') || '', c: q.get('utm_campaign') || '', w: !touch ? 'd' : (Math.min(screen.width, screen.height) < 600 ? 'm' : 't') };
+    if (b.classList.contains('error404')) d.p = location.pathname;
+    function send() { if (sent) return; sent = true; d.l = Date.now() - t0 >= 4000 ? 1 : 0; beacon(d); }
+    function start() {
+      t0 = Date.now();
+      setTimeout(send, 4000);
+      addEventListener('pagehide', send);
+      document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') send(); });
+    }
+    // Una página que el navegador prepara por adelantado no cuenta hasta que se abre de verdad
+    if (document.prerendering) document.addEventListener('prerenderingchange', start, { once: true }); else start();
+    // Las etiquetas utm_ ya están anotadas: fuera de la barra de direcciones (si alguien copia el enlace, va limpio)
+    if (/[?&]utm_/.test(location.search) && history.replaceState) {
+      ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term'].forEach(function (k) { q.delete(k); });
+      var qs = q.toString();
+      history.replaceState(history.state, '', location.pathname + (qs ? '?' + qs : '') + location.hash);
+    }
+    // Botones con data-jm-ev (compartir, seguir…), uso de las calculadoras y altas en la newsletter
+    document.addEventListener('click', function (e) {
+      var t = e.target.closest && e.target.closest('[data-jm-ev]'); if (t) track(t.getAttribute('data-jm-ev'));
+      t = e.target.closest && e.target.closest('[data-jm-listen], [data-jm-print], [data-jm-fs-set]');
+      if (t) track('herramienta:' + (t.hasAttribute('data-jm-listen') ? 'escuchar' : t.hasAttribute('data-jm-print') ? 'imprimir' : 'letra'));
+    });
+    var calcs = {};
+    document.addEventListener('submit', function (e) {
+      var f = e.target; if (!f || !f.closest) return;
+      if (f.matches('.jm-nl__form')) { track('newsletter:alta'); return; }
+      if (!f.matches('form[data-jm-calc], [data-jm-sim] form, .calc-jubi form')) return;
+      var m = location.pathname.match(/^\/calculadoras\/([a-z0-9-]+)\/$/), k = m ? m[1] : 'guia';
+      if (!calcs[k]) { calcs[k] = 1; track('calculadora:' + k); } // una vez por página, aunque se recalcule
+    }, true);
+  }
+
+  // Compartir con el menú del propio móvil (WhatsApp, Telegram, SMS…) donde el navegador lo permite
+  function initNativeShare() {
+    if (!navigator.share) return;
+    $$('[data-jm-native]').forEach(function (b) {
+      b.hidden = false;
+      b.addEventListener('click', function () { navigator.share({ title: b.getAttribute('data-jm-title'), url: b.getAttribute('data-jm-native') }).catch(function () {}); });
+    });
   }
 
   // «Seguir leyendo»: la libreta recuerda la última guía que abriste (solo en tu navegador)
@@ -804,6 +855,6 @@
     box.addEventListener('click', function (e) { if (Date.now() - swiped < 450) { e.preventDefault(); e.stopPropagation(); } }, true);
   }
 
-  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initCopyCode, initViews, initReveal, initRoll, initTilt, initStage, initBrowse, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initReveal, initRoll, initTilt, initStage, initBrowse, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();

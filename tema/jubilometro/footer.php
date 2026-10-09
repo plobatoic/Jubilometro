@@ -5,7 +5,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 ?>
 </main>
-<?php echo jm_part( 'footer' ); // phpcs:ignore ?>
+<?php echo str_replace( '<!--jm-redes-->', jm_redes_html(), jm_part( 'footer' ) ); // phpcs:ignore ?>
 <?php wp_footer(); ?>
 </body>
 </html>

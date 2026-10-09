@@ -126,6 +126,21 @@ test('«Siguiente paso» da una tarjeta por cada enlace, también si un punto ti
   for (const u of ['/jubilacion/flexible/', '/jubilacion/activa/', '/jubilacion/parcial/']) assert.match(nav, new RegExp(`class="jm-next" href="${u}"`), u);
 });
 
+test('los enlaces cortos llevan a páginas que existen y no tapan ninguna dirección de la web', () => {
+  const datos = JSON.parse(readFileSync(join(RAIZ, 'tema', 'jubilometro', 'inc', 'data.json'), 'utf8'));
+  const propias = ['guias', 'calculadoras', 'datos', 'metodologia', 'accesibilidad', 'descargo-responsabilidad', 'politica-privacidad', 'politica-cookies',
+    'wp-admin', 'wp-json', 'wp-content', 'wp-includes', 'feed', 'page', 'author', 'category', 'tag', 'search', 'comments', 'embed'];
+  const ocupadas = new Set([...datos.temas, ...propias, ...leerPaginas().map((p) => p.datos.url.split('/')[1]), ...[...urls].map((u) => u.split('/')[1])]);
+  const calculadoras = new Set([...Object.values(datos.calcs).map((c) => `/calculadoras/${c.slug}/`), '/calculadoras/para-tu-web/']);
+  assert.ok(Object.keys(datos.cortos).length > 10);
+  for (const [codigo, destino] of Object.entries(datos.cortos)) {
+    assert.match(codigo, /^[a-z0-9-]{2,40}$/, codigo);
+    assert.ok(!ocupadas.has(codigo), `/${codigo}/ ya es una página de la web`);
+    const ruta = destino.split('#')[0];
+    assert.ok(ruta === '/' || existeEnLaWeb.has(ruta) || calculadoras.has(ruta), `${codigo} -> ${destino}`);
+  }
+});
+
 test('las plantillas de la web se reutilizan solo para artículos que existen', () => {
   for (const url of Object.keys(PLANTILLAS)) assert.ok(porUrl(url), url);
 });

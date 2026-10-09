@@ -6,11 +6,13 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.9.1' );
+define( 'JM_THEME_VER', '2.10.1' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
 require_once JM_THEME_DIR . '/inc/historias.php';
+require_once JM_THEME_DIR . '/inc/estadisticas.php';
+require_once JM_THEME_DIR . '/inc/difusion.php';
 
 // Montaje pendiente (páginas e imágenes): se ejecuta aunque su plugin esté desactivado, hasta completarse
 const JM_SETUP_TARGET = '1.3.6';
