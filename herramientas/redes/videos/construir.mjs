@@ -14,9 +14,9 @@ const DURACION = 30;
 // Las cifras no se separan de su unidad al partir la línea («3,3 %», «37 €»)
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/ (%|€)/g, '\u00A0$1');
 const fmt = (v, d) => Number(v).toLocaleString('es-ES', { minimumFractionDigits: d, maximumFractionDigits: d, useGrouping: 'always' });
-// {n:desde:hasta:decimales} → cifra que cuenta; *texto* → resaltado
+// {n:desde:hasta:decimales} → cifra que cuenta (empieza escrita en «desde», así no parpadea al entrar); *texto* → resaltado
 const rico = (s) => esc(s)
-  .replace(/\{n:([\d.]+):([\d.]+):(\d)\}/g, (_, a, b, d) => `<span class="num" data-de="${a}" data-a="${b}" data-dec="${d}">${fmt(b, +d)}</span>`)
+  .replace(/\{n:([\d.]+):([\d.]+):(\d)\}/g, (_, a, b, d) => `<span class="num" data-de="${a}" data-a="${b}" data-dec="${d}">${fmt(a, +d)}</span>`)
   .replace(/\*([^*]+)\*/g, '<em>$1</em>');
 
 const LOGO = '<svg viewBox="0 0 40 40" aria-hidden="true"><rect width="40" height="40" rx="11" fill="#1D4ED8"/><path d="M9.5 27a10.5 10.5 0 0 1 21 0" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/><path d="M20 27l5.8-7.6" stroke="#93C5FD" stroke-width="3" stroke-linecap="round"/><circle cx="20" cy="27" r="2.7" fill="#fff"/></svg>';

@@ -2462,8 +2462,9 @@ html body { background: #fff; }
 .jm-sharebtn { display: inline-flex; align-items: center; gap: .5rem; min-height: 48px; padding: 0 1.05rem; border: 1.5px solid var(--jm-line-2); border-radius: 999px; background: var(--jm-white); color: var(--jm-ink); font: 600 1.0625rem/1 var(--jm-font-body); text-decoration: none; cursor: pointer; transition: background-color .2s ease, border-color .2s ease, color .2s ease, transform .12s ease-out; }
 .jm-sharebtn .jm-i { width: 1.3rem; height: 1.3rem; flex: none; }
 .jm-sharebtn:active { transform: translateY(1px); }
-.jm-sharebtn.is-wa { background: #1A8F48; border-color: #1A8F48; color: #fff; padding-inline: 1.3rem; }
-.jm-sharebtn.is-wa:hover { background: #157A3D; border-color: #157A3D; }
+/* Verde de WhatsApp oscurecido: el texto blanco necesita 4,5:1 (con #1A8F48 daba 4,1:1) */
+.jm-sharebtn.is-wa { background: #157A3D; border-color: #157A3D; color: #fff; padding-inline: 1.3rem; }
+.jm-sharebtn.is-wa:hover { background: #10652F; border-color: #10652F; }
 .jm-sharebtn.is-fb:hover { background: #1760D8; border-color: #1760D8; color: #fff; }
 .jm-sharebtn:is(.is-x, .is-mail, .is-copy, .is-native):hover { background: var(--jm-ink); border-color: var(--jm-ink); color: #fff; }
 .jm-sharebtn.is-done { background: var(--jm-pine); border-color: var(--jm-pine); color: #fff; }
