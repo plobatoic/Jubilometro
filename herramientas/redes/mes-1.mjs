@@ -42,6 +42,24 @@ No vendemos nada ni damos consejos personales en público. Si tienes una duda so
 Cuéntala aquí sin datos personales (ni DNI, ni número de la Seguridad Social, ni datos de salud). Esta semana contestamos todas, con la norma que se aplica en cada caso.`,
   },
   {
+    fecha: '2026-10-12', hora: '13:00', red: 'x', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/elecciones-y-pensiones/',
+    texto: `¿Afectan las elecciones del 29 de noviembre a la subida de las pensiones de 2027?
+
+A la cifra, no: la fija la ley con el IPC medio. Sí puede retrasar el decreto que la aplica. En 2020 llegó el 14 de enero, con efectos desde el 1 de enero.
+
+${L('elecciones', 'x')}`,
+  },
+  {
+    fecha: '2026-10-12', hora: '18:00', red: 'facebook', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/elecciones-y-pensiones/',
+    texto: `Muchos nos preguntáis si las elecciones del 29 de noviembre afectan a las pensiones. Esto es lo que dicen las normas.
+
+La pensión de noviembre, la paga extra y la de diciembre llegan como siempre. La subida de enero la fija la ley con el IPC medio de diciembre a noviembre, así que no depende de quién gane.
+
+Lo que puede retrasarse es el decreto que la aplica. En 2020, con un Gobierno en funciones, se aprobó el 14 de enero: la subida contó desde el 1 de enero y lo de enero se pagó como atrasos en febrero.
+
+Si no puedes ir a votar, el voto por correo se pide hasta el 19 de noviembre en Correos. ${FB_WEB}`,
+  },
+  {
     fecha: '2026-10-13', red: 'x', tipo: 'Hilo', pilar: 'La cifra que te toca', fuente: '/cuanto-cobrare/revalorizacion-pensiones/',
     partes: [
       `Cómo se calcula la subida de las pensiones de enero de 2027 y por qué hoy solo se puede dar una horquilla. Hilo en cinco pasos.`,
@@ -51,6 +69,12 @@ Cuéntala aquí sin datos personales (ni DNI, ni número de la Seguridad Social,
       `4. En euros al mes, en 14 pagas: 1.000 € suben entre 33 y 37 €; 1.500 €, entre 49,50 y 55,50 €; 2.000 €, entre 66 y 74 €.`,
       `5. La cifra exacta se sabrá con el IPC adelantado de noviembre, a final de mes. Las pensiones mínimas y las no contributivas suben algo más. Tu pensión, con la subida: ${L('subida', 'x')}`,
     ],
+  },
+  {
+    fecha: '2026-10-13', hora: '13:00', red: 'x', pilar: 'Calendario y avisos', fuente: '/jubilacion/anticipada-40-anos-cotizados/',
+    texto: `La proposición de ley para jubilarse antes sin recorte con 40 años cotizados decae: con la disolución de las Cortes caducan las leyes a medio tramitar.
+
+Tendría que volver a presentarse desde cero. Hoy sigue el recorte. ${L('40-anos-cotizados', 'x')}`,
   },
   {
     fecha: '2026-10-13', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/viudedad/cuantia/',
@@ -121,6 +145,15 @@ Calcula la tuya: ${L('subida', 'x')}`,
 Primer aviso: con el IPC de septiembre que ha confirmado hoy el INE, la subida de las pensiones de enero de 2027 va por el 3,3-3,7 %. Con una pensión de 1.000 €, entre 33 y 37 € más al mes.
 
 Calcula la tuya: ${L('subida', 'wa')}`,
+  },
+  {
+    fecha: '2026-10-14', red: 'linkedin', pilar: 'Profesionales', fuente: '/cuanto-cobrare/elecciones-y-pensiones/',
+    texto: `Para quien asesora a futuros jubilados: qué cambia con la disolución de las Cortes del 6 de octubre.
+
+Decaen las iniciativas que estaban en tramitación (artículo 207 del Reglamento del Congreso). Entre ellas, la proposición de ley para eliminar los coeficientes reductores con 40 años cotizados, que estaba en fase de enmiendas. Quien estuviera esperando esa reforma para jubilarse anticipadamente sigue sujeto a los recortes actuales.
+
+La revalorización de 2027 no cambia de fórmula (artículo 58 LGSS), pero el decreto que la aplica puede retrasarse con un Gobierno en funciones, como en 2020, cuando se aprobó el 14 de enero con efectos desde el 1 de enero. Lo hemos resumido, con las fuentes del BOE, en el enlace del primer comentario.`,
+    comentario: `Elecciones y pensiones: ${L('elecciones', 'in')}`,
   },
   {
     fecha: '2026-10-14', red: 'facebook', pilar: 'La cifra que te toca', fuente: '/cuanto-cobrare/revalorizacion-pensiones/',
@@ -206,6 +239,12 @@ Pídelo en la Tesorería General de la Seguridad Social dentro de los 90 días s
     texto: `En 2027 la edad de jubilación es de 67 años, o de 65 con 38 años y 6 meses cotizados. Calcula tu mes exacto con el enlace de la biografía.
 
 #jubilacion #pensiones #edaddejubilacion #seguridadsocial`,
+  },
+  {
+    fecha: '2026-10-15', red: 'whatsapp', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/elecciones-y-pensiones/',
+    texto: `Elecciones del 29 de noviembre y pensiones: la paga extra y las pensiones de noviembre y diciembre llegan como siempre, y la subida de enero la fija la ley con el IPC. Lo que puede retrasarse es el decreto que la aplica.
+
+Si no puedes ir a votar, pide el voto por correo en Correos hasta el 19 de noviembre. Todo, con las fechas: ${L('elecciones', 'wa')}`,
   },
   {
     fecha: '2026-10-16', red: 'whatsapp', pilar: 'Calendario y avisos', fuente: '/imserso/termalismo/',

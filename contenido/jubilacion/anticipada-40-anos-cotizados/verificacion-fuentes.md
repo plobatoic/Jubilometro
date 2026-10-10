@@ -20,5 +20,8 @@
 | 14 | Tramo 38a 6m a <41a 6m: voluntaria 3,11 % (1 mes) y 19 % (24 meses); involuntaria 28 % (48 meses); 44a 6m o más: 13 % (24 meses) | Arts. 207.2 y 208.2 LGSS | Guías de anticipada voluntaria e involuntaria | Verificado en BOE (27/09/2026) |
 | 15 | Ejemplos: 1.800 × 0,81 = 1.458 €; 342 × 14 = 4.788 €; 2.000 × 0,72 = 1.440 €; 560 × 14 = 7.840 € | — | Cálculo propio | Cálculo propio |
 | 16 | Vías actuales sin recorte: discapacidad (65 % o 45 % con patologías de la lista), profesiones con coeficientes reductores de edad y jubilación parcial | RD 1539/2003, RD 1851/2009, RD 1698/2011, art. 215 LGSS | Guías de discapacidad, profesión y parcial | Verificado (guías propias) |
+| 17 | Disolución del Congreso y del Senado y elecciones el 29/11/2026; nuevas Cortes el 23/12/2026 | RD 806/2026 (BOE-A-2026-20742) | Texto del BOE | Verificado en BOE (10/10/2026) |
+| 18 | Con la disolución caducan los asuntos pendientes salvo los que debe conocer la Diputación Permanente: la proposición decae | Art. 207 del Reglamento del Congreso (BOE-A-1982-5196) | Texto del BOE; prensa (elEconomista, Estrella Digital, 65 y Más) | Verificado en BOE |
+| 19 | Asjubi40 pide a la Diputación Permanente un decreto ley; el Gobierno no ha anunciado nada | elEconomista (10/2026) | Prensa | Atribuido |
 
-**Para revisar en cada novedad:** fecha de las enmiendas, votación final, paso por el Senado y publicación en el BOE. Si el texto cambia, rehacer las filas 2 a 6.
+**Para revisar en cada novedad:** si se vuelve a registrar en la nueva legislatura (desde el 23/12/2026) o se aprueba por real decreto-ley, y qué dicen los programas electorales. Si hay un texto nuevo, rehacer las filas 2 a 6.

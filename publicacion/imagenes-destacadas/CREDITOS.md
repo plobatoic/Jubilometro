@@ -79,5 +79,6 @@ Fotos de dominio público (licencia CC0 1.0) encontradas con el buscador de imá
 | `jubilacion-militares.webp` | /jubilacion/militares/ | Jusotil_1943 (Flickr) | CC0 1.0 (dominio público) | https://www.flickr.com/photos/46322086@N04/33407933660 | Soldados y ambulancia militar en el Día de las Fuerzas Armadas, Oviedo (2013) |
 | `jubilacion-docentes.webp` | /jubilacion/docentes/ | rawpixel | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/5914106/photo-image-book-public-domain-letters | Pizarra con «ABC» escrito con tiza, libros y tizas |
 | `jubilacion-agrarios.webp` | /jubilacion/agrarios/ | Art Institute of Chicago (rawpixel) | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/8962631/the-harvesters-leon-augustin-lhermitte | «Los segadores», cuadro de Léon Augustin Lhermitte |
+| `urna-electoral.webp` | /cuanto-cobrare/elecciones-y-pensiones/ | Rose Campbell-Gerke (National Gallery of Art, Index of American Design) | CC0 1.0 (dominio público) | https://www.rawpixel.com/image/8232391/image-art-vintage-public-domain | «Ballot Box» (h. 1939), acuarela de una urna de cristal; centrada en un lienzo de 1600 × 1000 con el color del papel |
 
 El artículo de edad de jubilación usa la foto `requisitos-jubilacion.webp`, que ya estaba en la biblioteca de medios de la web (Unsplash).

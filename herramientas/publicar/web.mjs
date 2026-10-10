@@ -55,6 +55,7 @@ export const IMAGENES_DESTACADAS = {
   '/jubilacion/15-anos-cotizados/': { archivo: '15-anos-cotizados.webp', alt: 'Pareja de jubilados sonriendo con un café al aire libre', pie: 'Foto: StockSnap' },
   '/jubilacion/anticipada-discapacidad/': { archivo: 'anticipada-discapacidad.webp', alt: 'Persona en silla de ruedas paseando junto a un acompañante', pie: 'Foto: rawpixel' },
   '/jubilacion/anticipada-por-profesion/': { archivo: 'anticipada-por-profesion.webp', alt: 'Equipo de bomberas delante de un camión de bomberos', pie: 'Foto: rawpixel' },
+  '/cuanto-cobrare/elecciones-y-pensiones/': { archivo: 'urna-electoral.webp', alt: 'Ilustración antigua de una urna electoral de cristal con armazón de hierro', pie: 'Ilustración: Rose Campbell-Gerke (National Gallery of Art)' },
   '/jubilacion/anticipada-40-anos-cotizados/': { archivo: 'anticipada-40-anos.webp', alt: 'Antiguo reloj de fichar de los años veinte, con esfera de reloj y una rueda de números de trabajador', pie: 'Foto: Open Grid Scheduler (Wikimedia Commons)' },
   '/jubilacion/funcionarios/': { archivo: 'jubilacion-funcionarios.webp', alt: 'Teclas de una máquina de escribir antigua sobre una mesa de madera', pie: 'Foto: rawpixel' },
   '/jubilacion/cita-previa-seguridad-social/': { archivo: 'cita-previa-seguridad-social.webp', alt: 'Teléfono antiguo de disco, negro y dorado, sobre una mesa de madera', pie: 'Foto: rawpixel' },
@@ -188,6 +189,7 @@ export const CALCULADORA_DEL_ARTICULO = {
   '/jubilacion/15-anos-cotizados/': 'pension',
   '/jubilacion/faltan-anos-cotizados/': 'pension',
   '/cuanto-cobrare/revalorizacion-pensiones/': 'subida',
+  '/cuanto-cobrare/elecciones-y-pensiones/': 'subida',
 };
 
 // URL que existen en la web en una fecha (AAAA-MM-DD): las páginas de la web y los artículos

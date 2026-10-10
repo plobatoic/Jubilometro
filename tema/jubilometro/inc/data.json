@@ -219,6 +219,8 @@
   "retencion": "/dinero/irpf-pensiones/",
   "bruta-neta": "/cuanto-cobrare/pension-bruta-y-neta/",
   "15-anos": "/jubilacion/15-anos-cotizados/",
-  "anticipada-voluntaria": "/jubilacion/anticipada-voluntaria/"
+  "anticipada-voluntaria": "/jubilacion/anticipada-voluntaria/",
+  "elecciones": "/cuanto-cobrare/elecciones-y-pensiones/",
+  "40-anos-cotizados": "/jubilacion/anticipada-40-anos-cotizados/"
  }
 }

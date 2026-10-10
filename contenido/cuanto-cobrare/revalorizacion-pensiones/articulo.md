@@ -8,7 +8,7 @@ miga: Revalorización 2027
 palabra_clave_principal: subida pensiones 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 33)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-10
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
+*Actualizado el 10 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
 
 > **Respuesta rápida**
 >
@@ -110,6 +110,8 @@ Para hacerte una idea: en 2026, con una subida general del 2,7 %, las pensiones 
 
 En 2026 el camino tuvo un tropiezo: el Congreso no convalidó en enero el primer real decreto-ley, y el Gobierno aprobó otro, el [Real Decreto-ley 3/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-2548), el 3 de febrero, convalidado el 26 de febrero. Aun así, la subida se aplicó con efectos desde el 1 de enero.
 
+**Este año hay elecciones generales el 29 de noviembre.** No cambian la fórmula, que está en la ley, pero el Gobierno quedará en funciones desde ese día y el decreto de la subida podría llegar más tarde de lo habitual. En 2020, en una situación parecida, se aprobó el 14 de enero con efectos desde el 1 de enero y lo de enero se cobró como atrasos en febrero. Lo explicamos en [elecciones y pensiones](/cuanto-cobrare/elecciones-y-pensiones/).
+
 ## Cuánto han subido las pensiones cada año
 
 <!-- tabla: Revalorización general de las pensiones contributivas desde 2022 -->
@@ -146,6 +148,10 @@ No. La Seguridad Social la aplica de oficio a todas las pensiones y envía una c
 
 No. Como la subida se calcula con la inflación ya conocida de los doce meses anteriores, no hay desviación que compensar después.
 
+### ¿Afectan las elecciones del 29 de noviembre a la subida?
+
+A la cifra, no: la fija la ley con el IPC. Puede afectar a cuándo se aprueba el decreto que la aplica y, por tanto, a si la subida llega en la pensión de enero o después, como atrasos desde el 1 de enero.
+
 ### ¿Suben igual las pensiones mínimas?
 
 No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la mínima de jubilación con cónyuge a cargo alcance el umbral de la pobreza de un hogar de dos adultos, y el resto de mínimas suben la mitad de ese extra.
@@ -167,4 +173,4 @@ No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la m
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*
+*Historial de cambios: 10 de octubre de 2026, qué pasa con la subida por las elecciones del 29 de noviembre. 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*

@@ -219,6 +219,15 @@ Búsquedas locales («dependencia Galicia», «ley dependencia País Vasco», «
 - Enlazadas desde la portada de Dependencia, «cómo solicitar», «cuánto tarda» y «cómo reclamar» (ejemplos de silencio positivo y negativo).
 - **Mantenimiento**: actualizar las cifras del Imserso cada trimestre (estadística mensual del SAAD) en todas las guías de comunidad a la vez.
 
+### Elecciones generales del 29 de noviembre de 2026 (10/10/2026)
+
+El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó elecciones para el 29 de noviembre; las nuevas Cámaras se constituyen el 23 de diciembre.
+
+- **Guía nueva** [/cuanto-cobrare/elecciones-y-pensiones/](https://jubilometro.com/cuanto-cobrare/elecciones-y-pensiones/) (id 806): la subida de 2027 la fija la ley (art. 58 LGSS); lo que puede retrasarse es el decreto (precedentes de 2020 y 2026); paga extra; qué decae (art. 207 del Reglamento del Congreso); voto por correo (hasta el 19/11, entrega hasta el 25/11); sitio reservado para las propuestas de cada partido cuando publiquen sus programas. Sin opiniones políticas: solo normas y organismos oficiales. Imagen CC0 (acuarela de una urna, National Gallery of Art).
+- **Jubilación anticipada con 40 años cotizados**: la proposición de ley decae con la disolución; guía reescrita (estado, qué tendría que pasar para retomarla, preguntas frecuentes).
+- **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
+- Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
+
 ### Medición, enlaces cortos y redes (tema 2.10.2, 9/10/2026)
 
 Para saber qué trae visitas sin depender de Google Analytics ni de un aviso de cookies nuevo.
@@ -299,7 +308,10 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 
 | Fecha | Qué revisar |
 |---|---|
-| Cada semana | Tramitación de la proposición de ley de jubilación anticipada sin recortes con 40 años cotizados (tomada en consideración el 22/09/2026). Afecta a la guía de los 40 años cotizados (tabla de tramitación) y a anticipada voluntaria, anticipada involuntaria, compensa, despido a los 60 y edad de jubilación |
+| Antes del 13 de noviembre de 2026 | Programas electorales publicados: añadir a `/cuanto-cobrare/elecciones-y-pensiones/` lo que dice cada candidatura sobre pensiones (subida, edad, mínimas, anticipada sin recorte), con enlace a su programa y sin valoraciones |
+| 27 de noviembre de 2026 (último día de campaña) | IPC adelantado de noviembre: subida de 2027 en la guía de elecciones además de en revalorización, calculadora y vídeo |
+| Del 30 de noviembre de 2026 a enero de 2027 | Gobierno en funciones: si aprueba (o no) el real decreto-ley de revalorización y cuándo se cobra la subida; actualizar elecciones, revalorización y calculadora |
+| 23 de diciembre de 2026 | Nuevas Cortes: comprobar si se vuelve a registrar la proposición de jubilación anticipada sin recortes con 40 años cotizados (decayó con la disolución del 6/10/2026). Afecta a esa guía y a anticipada voluntaria, anticipada involuntaria, compensa, despido a los 60 y edad de jubilación |
 | Octubre-diciembre 2026 | Desarrollo del RD 632/2026 (discapacidad) y primeros criterios del INSS sobre la jubilación flexible del RD 416/2026 |
 | 14 de octubre, 30 de octubre, 13 de noviembre y 27 de noviembre de 2026 | IPC del INE (definitivo de septiembre, adelantado de octubre, definitivo de octubre, adelantado de noviembre): actualizar la estimación de la subida de 2027 en la guía de revalorización, en `CFG.subida` y en la lista `IPC` de `herramientas/calculadoras/subida-pensiones.mjs`; empaquetar el tema y volver a ejecutar ese script, que reescribe la página de la calculadora. Si cambia la horquilla, rehacer también el vídeo de la subida (`herramientas/redes/videos/videos.mjs`) y los textos con corchetes del calendario de redes. Con el dato de noviembre, la subida ya es la definitiva |
 | Finales de diciembre de 2026 | Real decreto de revalorización: `CFG.subida.oficial = true`, cuantías mínimas y de la PNC de 2027 en la calculadora y en la guía |

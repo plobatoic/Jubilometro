@@ -538,5 +538,9 @@
   "/jubilacion/policia-nacional/": {
     "id": 777,
     "estado": "publish"
+  },
+  "/cuanto-cobrare/elecciones-y-pensiones/": {
+    "id": 806,
+    "estado": "publish"
   }
 }
