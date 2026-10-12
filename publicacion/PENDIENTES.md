@@ -32,7 +32,7 @@ Para qué sirve: todas las redes piden un correo. Uno exclusivo de Jubilómetro 
 8. **Verificación en dos pasos:** myaccount.google.com/security → «Verificación en dos pasos» → «Activar», con el aviso en el móvil. En esa misma pantalla, «Códigos de seguridad»: genéralos y apúntalos en papel.
 9. **Comprobación:** entra en gmail.com con la cuenta nueva y envíale un correo desde tu correo personal para ver que llega.
 
-Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contraseña). Para el paso 2 están preparados la foto de perfil, la portada y los textos (carpeta `publicacion/redes/kit/`).
+Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contraseña). Para el paso 2 están preparados la foto de perfil, las portadas de cada red y los textos de las biografías (carpeta `publicacion/redes/kit/`, con `biografias.md`), y las imágenes de los carruseles y de las publicaciones del mes.
 
 ## Lo que tienes que hacer tú
 
@@ -50,9 +50,9 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 | Fecha | Qué |
 |---|---|
-| 14 de octubre | IPC definitivo de septiembre: subida de 2027 |
+| 14 de octubre | IPC definitivo de septiembre: subida de 2027 (y su imagen para Facebook) |
 | 29 de octubre | Pensión media por provincia con la nómina de octubre |
-| 30 de octubre | IPC adelantado de octubre |
+| 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
 | 1 de noviembre | Plazos de los balnearios del Imserso |
 | Antes del 9 de noviembre | Segundo mes de publicaciones y los 8 vídeos que faltan |
 | Antes del 13 de noviembre | Propuestas de cada partido sobre pensiones en la guía de elecciones |

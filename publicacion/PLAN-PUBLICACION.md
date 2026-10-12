@@ -228,6 +228,17 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Revisión técnica y kit de redes (tema 2.10.7, 12/10/2026)
+
+- **Rastreo de la web en vivo**: 164 URL del sitemap, 470 direcciones propias, ninguna rota; SEO y datos estructurados sin fallos; ninguna página huérfana. Navegador (24 páginas, 1440 y 390 px): axe sin fallos, sin errores de JavaScript ni desbordes. Calculadoras (e2e): todas bien.
+- **Enlaces externos**: 881, ninguno roto. Avisos que no son fallos: el botón de compartir de Facebook (no deja entrar a robots), medios que bloquean robots (403) y webs autonómicas que no responden a servidores (Xunta, GVA, Imserso, La Rioja, Asturias, Navarra).
+- **Velocidad (Lighthouse, móvil)**: sin anuncios, portada 82, guías 95, calculadora 87; accesibilidad y SEO 100, CLS 0. Con AdSense y su mensaje de consentimiento la portada baja a 39-57: no se toca el código de AdSense mientras Google revisa la web. El grabado de las cabeceras se dibuja ahora cuando el navegador está libre (el texto de guías y artículos aparece antes). `content-visibility` sigue quitado a propósito (2.7.1).
+- **Compartir por WhatsApp**: `esc_url()` quitaba el salto de línea entre el título y el enlace; el bloque de compartir lo arma ahora con `rawurlencode` y `esc_attr()`.
+- **Estadísticas propias**: funcionan; del 9 al 12 de octubre, 81 vistas (20 desde Google, 1 desde ChatGPT, 1 desde WhatsApp), tres de cada cuatro desde el móvil.
+- **Enlaces internos nuevos** hacia «Cuánto ahorrar para jubilarte» y el simulador desde cinco guías.
+- **Kit de redes** (`herramientas/redes/kit/`): `NODE_PATH=$(npm root -g) node herramientas/redes/kit/kit.mjs` genera en `publicacion/redes/kit/` la foto de perfil, las portadas de cada red con sus zonas seguras, las diapositivas de los carruseles del mes (1080 × 1350, sacadas de `diapositivas` en `mes-1.mjs`) y las imágenes con la cifra (`cifras.mjs`), más `index.html` para verlas. Comprueba que ningún texto se sale de su caja ni de la zona segura. Los carruseles con corchetes por rellenar no se generan hasta el día del dato. Textos de los perfiles: `publicacion/redes/kit/biografias.md`. El calendario del mes dice qué imagen va con cada publicación.
+  - Para rehacer una pieza: cambiar el texto en `mes-1.mjs` o `cifras.mjs` y ejecutar con `--solo=carruseles` o `--solo=cifras`.
+
 ### Medición, enlaces cortos y redes (tema 2.10.2, 9/10/2026)
 
 Para saber qué trae visitas sin depender de Google Analytics ni de un aviso de cookies nuevo.
@@ -240,7 +251,7 @@ Para saber qué trae visitas sin depender de Google Analytics ni de un aviso de 
 - **Compartir**: al final de cada guía y de cada calculadora, «¿Le puede servir a alguien?» con WhatsApp (el primero y más grande), Facebook, X, correo, copiar enlace y el menú de compartir del móvil. Los enlaces de WhatsApp y correo llevan su etiqueta.
 - **Perfiles sociales**: opción `jm_redes` (por la API: `POST /wp/v2/settings {"jm_redes": {"x": "https://x.com/…", "whatsapp": "https://www.whatsapp.com/channel/…"}}`). Mientras esté vacía no se ve nada; con perfiles salen en el pie («Síguenos»), en el `sameAs` de la organización y, el canal de WhatsApp, en el bloque de compartir.
 - Política de privacidad y de cookies actualizadas (9/10/2026) con la estadística de visitas.
-- **Primer mes de redes** (12/10 a 8/11/2026): `herramientas/redes/mes-1.mjs` → `node herramientas/redes/calendario.mjs herramientas/redes/mes-1.mjs primer-mes` genera `publicacion/redes/primer-mes/calendario.html` (88 publicaciones con botón de copiar) y `metricool.csv` (52 de X, Facebook y LinkedIn como borrador). El generador para si un enlace corto no existe, si algo de X pasa de 280 caracteres o si una publicación de Facebook lleva enlace.
+- **Primer mes de redes** (12/10 a 8/11/2026): `herramientas/redes/mes-1.mjs` → `node herramientas/redes/calendario.mjs herramientas/redes/mes-1.mjs primer-mes` genera `publicacion/redes/primer-mes/calendario.html` (93 publicaciones con botón de copiar) y `metricool.csv` (56 de X, Facebook y LinkedIn como borrador). El generador para si un enlace corto no existe, si algo de X pasa de 280 caracteres o si una publicación de Facebook lleva enlace.
 - **Vídeos «La cifra en 30 segundos»**: `herramientas/redes/videos/videos.mjs` (guiones) y `construir.mjs` (un proyecto de HyperFrames por vídeo); los MP4 están en `publicacion/redes/videos/`. Para rehacer uno (por ejemplo, la subida con el IPC nuevo): cambiar su escena, `node herramientas/redes/videos/construir.mjs <carpeta> <gsap.min.js>` y `hyperframes render` en la carpeta del vídeo.
 - **Mantenimiento**: añadir un enlace corto nuevo a `cortos` en `inc/data.json` y empaquetar el tema; cuando existan las cuentas, guardarlas en `jm_redes`.
 

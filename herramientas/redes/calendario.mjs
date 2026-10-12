@@ -8,6 +8,7 @@ import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
 import { RAIZ } from '../publicar/articulos.mjs';
+import { CIFRAS } from './kit/cifras.mjs';
 
 const [, , archivo = 'herramientas/redes/mes-1.mjs', carpeta = 'primer-mes'] = process.argv;
 const { MES, PUBLICACIONES } = await import(pathToFileURL(resolve(archivo)).href);
@@ -67,6 +68,8 @@ for (const p of PUBLICACIONES) {
   s.dias.get(p.fecha).push(p);
 }
 const orden = Object.keys(REDES);
+// Imagen con la cifra ya hecha para esta publicación (herramientas/redes/kit/cifras.mjs, misma fecha)
+const imagenLista = (p) => CIFRAS.find((c) => c.archivo.startsWith(p.fecha))?.archivo;
 const tarjeta = (p) => {
   const red = REDES[p.red];
   const hora = p.hora ?? MES.horas[p.red];
@@ -79,7 +82,8 @@ const tarjeta = (p) => {
   if (p.comentario) cuerpo += `<p class="lbl">Primer comentario</p>${bloqueTexto(p.comentario, 'Copiar comentario')}`;
   const extra = [
     p.archivo ? `<p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/${esc(p.archivo)}</code></p>` : '',
-    p.imagen ? `<p class="file"><b>Imagen:</b> ${esc(p.imagen)}</p>` : '',
+    p.imagen ? `<p class="file"><b>Imagen:</b> ${esc(p.imagen)}${imagenLista(p) ? ` Lista: <code>publicacion/redes/kit/cifras/${esc(imagenLista(p))}.png</code>` : ''}</p>` : '',
+    p.diapositivas ? `<p class="file"><b>Diapositivas:</b> ${p.diapositivas.some((d) => /\[[^\]]*\]/.test(d)) ? 'se hacen el día del dato, con las cifras ya puestas' : `listas en <code>publicacion/redes/kit/carruseles/${esc(`${p.fecha}-${(p.fuente || '').split('/').filter(Boolean).pop() || 'carrusel'}`)}/</code>`}</p>` : '',
     p.fuente ? `<p class="src">Cifras de <a href="https://jubilometro.com${esc(p.fuente)}" target="_blank" rel="noopener">jubilometro.com${esc(p.fuente)}</a></p>` : '',
   ].join('');
   return `<article class="post" data-red="${p.red}" data-id="${esc(id)}">
