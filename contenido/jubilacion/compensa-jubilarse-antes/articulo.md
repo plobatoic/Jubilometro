@@ -8,7 +8,7 @@ miga: ¿Compensa jubilarse antes?
 palabra_clave_principal: compensa jubilarse antes
 intencion: comparativa
 fase_plan: F2 (artículo n.º 4)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # ¿Compensa jubilarse antes? Comparativa real a los 63, 64 y 65 años
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -96,7 +96,7 @@ La pensión tributa en el IRPF como rendimiento del trabajo. Una pensión más b
 3. Calcula tu punto de equilibrio con la calculadora de arriba.
 4. Si la diferencia es grande o tu caso es complejo, consulta con un graduado social.
 
-Si tienes 40 años cotizados, sigue también la proposición de ley que quiere eliminar el recorte en ese caso: está en tramitación y no tiene fecha. Lo explicamos en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
+Si tienes 40 años cotizados, no cuentes con la proposición de ley que quería eliminar el recorte en ese caso: decayó el 6 de octubre de 2026 con la disolución de las Cortes y tendría que empezar de cero en la próxima legislatura. Lo explicamos en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
 
 ## Preguntas frecuentes
 
@@ -132,4 +132,4 @@ Trabajar mientras cobras una pensión anticipada tiene límites. Lo explicamos e
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*

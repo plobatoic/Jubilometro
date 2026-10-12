@@ -8,7 +8,7 @@ miga: Despido a los 60
 palabra_clave_principal: despido a los 60 años paro y jubilación
 intencion: informativa
 fase_plan: F2 (artículo n.º 16)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Despido a los 60: paro, subsidio y jubilación, en qué orden y cuánto cobrarás
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -61,7 +61,7 @@ Ojo a la cotización: si antes cotizabas por una base alta, pasar a cotizar por 
 Tienes dos caminos:
 
 - **Esperar a tu edad ordinaria** cobrando el subsidio: te jubilas sin recorte, aunque con las cotizaciones del subsidio en tu base reguladora.
-- **Pedir la jubilación anticipada involuntaria**: en 2027, **desde los 61 años si tienes 38 años y 6 meses cotizados** o desde los 63 con menos (y al menos 33). Recorte de hasta el 30 % si adelantas 4 años. Consulta los requisitos en [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/). Con 40 años cotizados, sigue la proposición de ley que quiere eliminar ese recorte: [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
+- **Pedir la jubilación anticipada involuntaria**: en 2027, **desde los 61 años si tienes 38 años y 6 meses cotizados** o desde los 63 con menos (y al menos 33). Recorte de hasta el 30 % si adelantas 4 años. Consulta los requisitos en [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/). La proposición de ley que quería eliminar ese recorte con 40 años cotizados decayó con la disolución de las Cortes el 6 de octubre de 2026: [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
 
 ## Ejemplo: Pedro, despedido a los 60 con 39 años cotizados
 
@@ -119,4 +119,4 @@ Puede bajarla si antes cotizabas por una base alta, porque durante el subsidio s
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS) o del Servicio Público de Empleo Estatal (SEPE). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*

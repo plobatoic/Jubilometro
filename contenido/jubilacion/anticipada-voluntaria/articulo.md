@@ -8,7 +8,7 @@ miga: Jubilación anticipada voluntaria
 palabra_clave_principal: jubilación anticipada voluntaria
 intencion: informativa
 fase_plan: F1 (artículo n.º 2)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación anticipada voluntaria: requisitos, coeficientes reductores y ejemplos con cifras
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -108,7 +108,7 @@ Te lo contamos paso a paso en [cómo solicitar la jubilación por internet](/jub
 
 ## ¿Va a cambiar?
 
-El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para eliminar los coeficientes reductores a quien se jubile anticipadamente con **40 años o más cotizados** (178 votos a favor, 33 en contra y 136 abstenciones, según [elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html)). **Todavía no es ley**: está al principio de su tramitación y puede cambiar o no aprobarse. Si tu decisión depende de ella, espera a que se apruebe antes de jubilarte. Explicamos qué dice el texto, a quién afectaría y en qué punto está en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
+El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para eliminar los coeficientes reductores a quien se jubile anticipadamente con **40 años o más cotizados** (178 votos a favor, 33 en contra y 136 abstenciones, según [elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html)). **No llegó a ser ley**: el 6 de octubre de 2026 se disolvieron las Cortes para las elecciones del 29 de noviembre y, con la disolución, la proposición decayó. Tendría que volver a presentarse en la próxima legislatura y empezar de cero, así que no tomes decisiones contando con ella. Explicamos qué dice el texto, a quién afectaría y en qué punto está en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
 
 ## Preguntas frecuentes
 
@@ -153,4 +153,4 @@ No en la práctica: la ley exige que tu pensión ya reducida supere la mínima q
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*

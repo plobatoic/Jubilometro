@@ -8,7 +8,7 @@ miga: Revalorización 2027
 palabra_clave_principal: subida pensiones 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 33)
-fecha_actualizacion: 2026-10-10
+fecha_actualizacion: 2026-10-12
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra
 
-*Actualizado el 10 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el INE*
 
 > **Respuesta rápida**
 >
@@ -98,7 +98,7 @@ La subida se aplica sobre la pensión **bruta**. Lo que llega al banco puede sub
 - **Pensiones mínimas**: suben el porcentaje general y, además, lo que marca la [disposición adicional 53.ª de la ley](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724). Desde 2027, la mínima de jubilación con cónyuge a cargo **no puede ser inferior al umbral de la pobreza de un hogar de dos adultos**; el resto de mínimas suben la mitad de ese incremento adicional.
 - **Pensiones no contributivas**: al menos el porcentaje general ([artículo 62](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a62)), más el incremento adicional que las acerca al 75 % del umbral de la pobreza de una persona. En 2026 son de 628,80 euros al mes.
 
-Para hacerte una idea: en 2026, con una subida general del 2,7 %, las pensiones mínimas con cónyuge a cargo y las no contributivas subieron un **11,4 %**, y el resto de mínimas, más del 7 %. Las cuantías concretas de 2027 se conocerán cuando se aprueben, a finales de diciembre.
+Para hacerte una idea: en 2026, con una subida general del 2,7 %, las pensiones mínimas con cónyuge a cargo y las no contributivas subieron un **11,4 %**, y el resto de mínimas, más del 7 %. Las cuantías concretas de 2027 se conocerán cuando se aprueben: normalmente a finales de diciembre, aunque este año, con las elecciones del 29 de noviembre, podrían llegar más tarde.
 
 ## Cuándo se sabe y cuándo se cobra la subida
 
@@ -134,7 +134,7 @@ Lo que salga de la inflación media de diciembre de 2025 a noviembre de 2026, re
 
 ### ¿Cuándo se sabrá la subida definitiva?
 
-A finales de noviembre de 2026, cuando el INE publique el dato adelantado del IPC de noviembre. El Gobierno la aprueba a finales de diciembre.
+A finales de noviembre de 2026, cuando el INE publique el dato adelantado del IPC de noviembre. El Gobierno suele aprobarla a finales de diciembre; este año, con las elecciones del 29 de noviembre, podría ser más tarde, con efectos igualmente desde el 1 de enero.
 
 ### ¿Cuándo se cobra la subida?
 
@@ -173,4 +173,4 @@ No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la m
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 10 de octubre de 2026, qué pasa con la subida por las elecciones del 29 de noviembre. 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*
+*Historial de cambios: 12 de octubre de 2026, cuándo se aprueban las cuantías con las elecciones de por medio. 10 de octubre de 2026, qué pasa con la subida por las elecciones del 29 de noviembre. 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*

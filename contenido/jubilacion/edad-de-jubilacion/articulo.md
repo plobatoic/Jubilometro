@@ -8,7 +8,7 @@ categoria: Jubilación
 palabra_clave_principal: edad de jubilación 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 1 del plan de contenidos)
-fecha_actualizacion: 2026-10-02
+fecha_actualizacion: 2026-10-12
 fecha_publicacion: PENDIENTE
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -25,7 +25,7 @@ proxima_revision: enero de 2027 (y cuando cambie la normativa)
 
 # Edad de jubilación en 2027: tabla por año de nacimiento y años cotizados
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -190,7 +190,7 @@ Si quieres saber cuánto cobrarás, consulta [cómo se calcula la pensión de ju
 
 Con la ley actual, no: desde 2027 la edad ordinaria queda fijada en 67 años, o 65 con 38 años y 6 meses cotizados. El Gobierno ha desmentido que prepare un retraso de la edad legal, como el supuesto paso a los 71 años que circuló en 2025 ([Telecinco, julio de 2025](https://www.telecinco.es/noticias/economia/pensiones/20250711/gobierno-desmiente-reforma-pensiones-retraso-jubilacion-71-anos_18_016113800.html)).
 
-Lo que sí está en marcha afecta a la jubilación anticipada, no a la edad ordinaria. El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para que quien se jubile anticipadamente con 40 años o más cotizados no sufra recortes, con 178 votos a favor, 33 en contra y 136 abstenciones ([elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html)). Todavía no es ley: está al principio de su tramitación y puede cambiar. Lo seguimos en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
+La única reforma que se había movido afectaba a la jubilación anticipada, no a la edad ordinaria. El 22 de septiembre de 2026 el Congreso aprobó tramitar una proposición de ley para que quien se jubile anticipadamente con 40 años o más cotizados no sufra recortes, con 178 votos a favor, 33 en contra y 136 abstenciones ([elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-tramitar-jubilacion-anticipada-40-anos-cotizados-penalizaciones_1_13530745.html)). No llegó a ser ley: decayó el 6 de octubre de 2026 con la disolución de las Cortes para las elecciones del 29 de noviembre. Lo seguimos en [jubilación anticipada con 40 años cotizados sin penalización](/jubilacion/anticipada-40-anos-cotizados/).
 
 ## Qué hacer si te jubilas en 2027
 
@@ -257,4 +257,4 @@ Con carácter general, no. Los convenios colectivos firmados desde 2022 solo pue
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y su fecha. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión; 2 de octubre de 2026, nuevo informe de edad legal de jubilación de la Seguridad Social y enlace a la proposición de ley de los 40 años cotizados.*
+*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión; 2 de octubre de 2026, nuevo informe de edad legal de jubilación de la Seguridad Social y enlace a la proposición de ley de los 40 años cotizados.*
