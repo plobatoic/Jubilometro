@@ -8,7 +8,7 @@ miga: Jubilación con años en otro país
 palabra_clave_principal: jubilación trabajado en otro país
 intencion: informativa
 fase_plan: F3 (artículo n.º 21)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Jubilarse habiendo trabajado en otro país de la UE o de Latinoamérica: cómo se suman los años
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -102,9 +102,10 @@ En la UE, ese país puede no pagarte pensión, pero el periodo cuenta para los r
 - ¿Te faltan años? Lee [me faltan años cotizados para jubilarme](/jubilacion/faltan-anos-cotizados/).
 - Prepara los papeles: [documentos para pedir la jubilación](/jubilacion/documentos-jubilacion/).
 - ¿Cuándo te jubilas en España? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
+- ¿Vuelves a vivir a España? Mira el subsidio, la pensión y la sanidad para [emigrantes retornados](/ayudas/emigrantes-retornados/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía de emigrantes retornados. 27 de septiembre de 2026, primera versión.*

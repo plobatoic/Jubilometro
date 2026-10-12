@@ -469,4 +469,94 @@ En 2027 la edad mínima es 63 años, o 61 con 38 años y 6 meses cotizados. Los 
 Ejemplos en el enlace del primer comentario.`,
     comentario: `Jubilación anticipada involuntaria: ${L('involuntaria', 'in')}`,
   },
+
+  /* ---------- Prejubilación: convenio especial en un ERE con 55 años o más ---------- */
+  {
+    id: 'prejubilacion-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/jubilacion/prejubilacion/',
+    texto: `Si te despiden en un ERE con 55 años o más, la empresa debe pagarte un convenio especial con la Seguridad Social hasta los 63 (61 por causas económicas), para que sigas cotizando. Si no lo pide, tienes 6 meses para pedirlo tú.
+
+${L('prejubilacion', 'x')}`,
+  },
+  {
+    id: 'prejubilacion-fb', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/jubilacion/prejubilacion/',
+    cifra: { antes: 'Convenio especial en un ERE con 55 años o más', grande: '63 años', despues: 'hasta esa edad paga la empresa tu cotización a la Seguridad Social (61 si el despido es por causas económicas).', fuente: 'Ley General de la Seguridad Social, disposición adicional 13.ª, y Estatuto de los Trabajadores, artículo 51.9.', corto: 'prejubilacion' },
+    texto: `Cuando una empresa hace un despido colectivo y entre los despedidos hay personas de 55 años o más, la ley la obliga a pagarles un convenio especial con la Seguridad Social. Es lo que mucha gente llama prejubilación: aunque ya no trabajes, sigues cotizando para tu pensión.
+
+La empresa paga las cuotas hasta que cumples 63 años, o 61 si el despido es por causas económicas. Desde ahí, si quieres seguir cotizando, las pagas tú hasta la jubilación. La base es la media de lo que cotizaste en tus últimos seis meses de trabajo.
+
+El convenio empieza cuando se acaba el paro, o al dejar la empresa si no cobras paro. Si después cobras el subsidio, se descuenta lo que ya cotiza por ti el SEPE. Y si la empresa no lo pide, tienes seis meses para pedirlo tú en la Tesorería de la Seguridad Social: la empresa sigue obligada a pagarlo.
+
+${FB_WEB}`,
+  },
+  {
+    id: 'prejubilacion-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Errores que cuestan dinero', fuente: '/jubilacion/prejubilacion/',
+    diapositivas: [
+      '¿Te despiden en un ERE con 55 años o más? La empresa tiene que seguir pagando tu cotización.',
+      'Convenio especial: un acuerdo con la Seguridad Social para seguir cotizando aunque ya no trabajes.',
+      '63 años: hasta esa edad lo paga la empresa. Si el despido es por causas económicas, hasta los 61.',
+      'La base: la media de lo que cotizaste en tus últimos seis meses de trabajo.',
+      'Cuándo empieza: al acabarse el paro, o al dejar la empresa si no cobras paro.',
+      'La empresa paga hasta los 63 → después pagas tú, si quieres seguir cotizando',
+      'Si la empresa no lo pide: tienes seis meses para pedirlo tú. La empresa sigue obligada a pagarlo.',
+      'Guárdalo si tienes 55 años o más. Todo explicado en la guía de Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Si te despiden en un ERE con 55 años o más, la empresa paga tu convenio especial con la Seguridad Social hasta los 63 (61 por causas económicas). Cómo funciona, en la guía del enlace de la biografía.
+
+#prejubilacion #ERE #pensiones #seguridadsocial`,
+  },
+  {
+    id: 'prejubilacion-li', red: 'linkedin', pilar: 'Profesionales', fuente: '/jubilacion/prejubilacion/',
+    texto: `Para quien lleva despidos colectivos en recursos humanos o en un despacho laboralista: el convenio especial del artículo 51.9 del Estatuto de los Trabajadores sigue generando muchas dudas entre los trabajadores de 55 años o más.
+
+Lo esencial, según la disposición adicional 13.ª de la Ley General de la Seguridad Social y el artículo 20 de la Orden TAS/2865/2003: la empresa no concursada abona las cuotas hasta los 63 años, o hasta los 61 si el despido colectivo es por causas económicas. La base es el promedio de los últimos seis meses de ocupación cotizada, y se descuenta lo que cotiza el SEPE durante el subsidio. Si la empresa no lo solicita durante el procedimiento, el trabajador puede pedirlo en los seis meses siguientes y la empresa sigue obligada al pago, de una vez o en anualidades con aval.
+
+Lo hemos explicado para los trabajadores, con un ejemplo en euros, en el enlace del primer comentario.`,
+    comentario: `Prejubilación y convenio especial: ${L('prejubilacion', 'in')}`,
+  },
+  {
+    id: 'prejubilacion-wa', red: 'whatsapp', pilar: 'Errores que cuestan dinero', fuente: '/jubilacion/prejubilacion/',
+    texto: `¿Te han incluido en un ERE con 55 años o más? La empresa tiene que pagarte un convenio especial con la Seguridad Social hasta los 63 (61 si es por causas económicas), para que sigas cotizando para tu pensión. Si no lo pide ella, tienes 6 meses para pedirlo tú.
+
+Cómo funciona: ${L('prejubilacion', 'wa')}`,
+  },
+
+  /* ---------- Número de la Seguridad Social ---------- */
+  {
+    id: 'numero-ss-x', red: 'x', pilar: 'Trámites sin líos', fuente: '/jubilacion/numero-seguridad-social/',
+    texto: `Tu número de la Seguridad Social es el mismo toda la vida. Viene en tus nóminas y en tu informe de vida laboral, y en Import@ss puedes descargar un documento que lo acredita, también sin certificado digital: con un selfi y una foto de tu DNI.
+
+${L('numero-ss', 'x')}`,
+  },
+  {
+    id: 'numero-ss-fb', red: 'facebook', pilar: 'Trámites sin líos', fuente: '/jubilacion/numero-seguridad-social/',
+    texto: `El número de la Seguridad Social, también llamado número de afiliación, es el mismo toda la vida: no cambia al jubilarte ni al pasar de asalariado a autónomo. Te lo pedirán para la pensión, para la viudedad y para muchos otros trámites.
+
+Si no lo recuerdas, mira una nómina o un contrato, aunque sean antiguos, o tu informe de vida laboral. En Import@ss, el portal de la Tesorería de la Seguridad Social, puedes descargar el informe «Acreditación del número de la Seguridad Social». Si no tienes certificado digital ni Cl@ve, te lo dan con tus datos, un selfi y una foto de tu DNI.
+
+Si alguien de tu familia no lo tiene, por ejemplo porque nunca trabajó, se pide gratis por el mismo portal o en una oficina de la Tesorería.
+
+${FB_WEB}`,
+  },
+  {
+    id: 'numero-ss-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Trámites sin líos', fuente: '/jubilacion/numero-seguridad-social/',
+    diapositivas: [
+      'Tu número de la Seguridad Social: dónde encontrarlo y cómo pedirlo.',
+      'Para toda la vida: es el mismo aunque cambies de trabajo, pases a autónomo o te jubiles.',
+      'En tu nómina: aparece en los datos del trabajador, aunque sea una nómina antigua.',
+      'En tu vida laboral: en la cabecera del informe, junto a tus datos.',
+      'En Import@ss: descargas el informe que lo acredita, también sin certificado digital.',
+      'Sin certificado: tus datos, un selfi y una foto de tu DNI o NIE.',
+      'Si no lo tienes: se pide gratis en Import@ss o en una oficina de la Tesorería.',
+      'Guárdalo para cuando lo necesites. Paso a paso en la guía de Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Tu número de la Seguridad Social es el mismo toda la vida. Dónde encontrarlo y cómo pedirlo si no lo tienes, en la guía del enlace de la biografía.
+
+#seguridadsocial #tramites #jubilacion #pensiones`,
+  },
+  {
+    id: 'numero-ss-wa', red: 'whatsapp', pilar: 'Trámites sin líos', fuente: '/jubilacion/numero-seguridad-social/',
+    texto: `Para pedir la pensión, la viudedad o cualquier prestación te pedirán tu número de la Seguridad Social. Viene en las nóminas y en la vida laboral, y en Import@ss se descarga un documento que lo acredita, incluso sin certificado digital.
+
+Dónde mirarlo y cómo pedirlo: ${L('numero-ss', 'wa')}`,
+  },
 ];

@@ -1,5 +1,5 @@
 # Vista previa ligera del banco de publicaciones, para verla en el móvil o imprimirla: una fila por carrusel
-# (sus 8 diapositivas) y las imágenes con la cifra, en páginas A4 apaisadas.
+# (todas sus diapositivas) y las imágenes con la cifra, en páginas A4 apaisadas.
 # Uso (después de kit.mjs --banco): python3 herramientas/redes/kit/vista-previa.py
 import os, sys, glob
 from PIL import Image, ImageDraw, ImageFont
@@ -24,9 +24,11 @@ for k in range(0, len(carr), por_pag):
     for c in carr[k:k + por_pag]:
         d.text((60, y), c, font=F, fill='#1D4ED8')
         x = 60
-        for f in sorted(glob.glob(os.path.join(B, 'carruseles', c, '*.png'))):
-            im = Image.open(f).convert('RGB').resize((TW, TH), Image.LANCZOS)
-            p.paste(im, (x, y + 30)); x += TW + GAP
+        fs = sorted(glob.glob(os.path.join(B, 'carruseles', c, '*.png')))
+        tw = min(TW, (W - 120 - (len(fs) - 1) * GAP) // len(fs)); th = int(tw * 1350 / 1080)  # 9 o 10 diapositivas: más estrechas
+        for f in fs:
+            im = Image.open(f).convert('RGB').resize((tw, th), Image.LANCZOS)
+            p.paste(im, (x, y + 30)); x += tw + GAP
         y += FILA
     paginas.append(p)
 cif = sorted(glob.glob(os.path.join(B, 'cifras', '*.png')))

@@ -8,7 +8,7 @@ miga: Subsidio para mayores de 52 años
 palabra_clave_principal: subsidio mayores de 52 años
 intencion: informativa
 fase_plan: F1 (artículo n.º 17)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Subsidio para mayores de 52 años: requisitos, cuantía y efecto en tu futura pensión
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -107,9 +107,11 @@ Sí, si cumples los requisitos de la [jubilación anticipada involuntaria](/jubi
 - Si te han despedido: [despido a los 60, paro, subsidio y jubilación](/jubilacion/despido-a-los-60/).
 - ¿Adelantar o esperar? Usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/).
 - ¿Quieres cotizar más? Lee sobre el [convenio especial](/jubilacion/convenio-especial/).
+- ¿Te despiden en un ERE con 55 años o más? Mira [prejubilación y convenio especial](/jubilacion/prejubilacion/).
+- ¿Vuelves de trabajar fuera de Europa? Mira el [subsidio para emigrantes retornados](/ayudas/emigrantes-retornados/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del SEPE o del INSS. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlaces a las guías de prejubilación y de emigrantes retornados. 27 de septiembre de 2026, primera versión.*

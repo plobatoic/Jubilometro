@@ -8,7 +8,7 @@ miga: Convenio especial
 palabra_clave_principal: convenio especial Seguridad Social
 intencion: comparativa
 fase_plan: F3 (artículo n.º 18)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Convenio especial con la Seguridad Social: cuándo compensa pagarlo antes de jubilarte
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -83,7 +83,7 @@ Si dejas de cotizar en los años previos a tu jubilación, esos meses sin cotiza
 
 ## Convenio especial en los despidos colectivos
 
-En los despidos colectivos (ERE) de empresas que afectan a trabajadores de **55 años o más**, la ley obliga a firmar un convenio especial que **paga la empresa** durante un tiempo; después, lo pagas tú hasta la jubilación. Si es tu caso, pide a tu empresa los detalles del convenio.
+En los despidos colectivos (ERE) de empresas que afectan a trabajadores de **55 años o más**, la ley obliga a firmar un convenio especial que **paga la empresa** durante un tiempo; después, lo pagas tú hasta la jubilación. Si es tu caso, pide a tu empresa los detalles del convenio y lee [prejubilación: el convenio especial en un ERE](/jubilacion/prejubilacion/).
 
 ## Cómo solicitarlo
 
@@ -127,4 +127,4 @@ Mientras cobras el subsidio, el SEPE ya cotiza por ti para la jubilación. Consu
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de la Tesorería General de la Seguridad Social o del INSS. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía de prejubilación. 27 de septiembre de 2026, primera versión.*

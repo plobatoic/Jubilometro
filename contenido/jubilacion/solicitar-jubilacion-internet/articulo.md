@@ -8,7 +8,7 @@ miga: Solicitar la jubilación por internet
 palabra_clave_principal: solicitar jubilación por internet
 intencion: transaccional
 fase_plan: F2 (artículo n.º 13)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Cómo solicitar la jubilación por internet paso a paso (Tu Seguridad Social)
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -118,9 +118,10 @@ Depende de cuándo se resuelva. Una vez aprobada, la cobrarás cada mes en tu ba
 - Prepara los papeles con la [lista de documentos para pedir la jubilación](/jubilacion/documentos-jubilacion/).
 - ¿Cuánto tardan en contestar? Lee [cuánto tarda en resolverse la jubilación](/jubilacion/cuanto-tarda-jubilacion/).
 - ¿Cuál es tu fecha? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
+- ¿No encuentras tu número de afiliación? Mira [cómo saber tu número de la Seguridad Social](/jubilacion/numero-seguridad-social/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía del número de la Seguridad Social. 27 de septiembre de 2026, primera versión.*

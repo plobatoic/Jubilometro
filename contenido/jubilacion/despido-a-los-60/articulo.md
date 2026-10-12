@@ -82,7 +82,7 @@ Para compararlas con tus números, usa la calculadora de [¿compensa jubilarse a
 ## Otras piezas que conviene conocer
 
 - **Convenio especial con la Seguridad Social:** si tus bases eran altas, puedes pagar tú un convenio especial para seguir cotizando por una base mayor. Lo vemos en [convenio especial: cuándo compensa](/jubilacion/convenio-especial/).
-- **Convenio especial en despidos colectivos:** en los ERE de empresas que afectan a trabajadores de 55 años o más, la empresa debe pagar un convenio especial hasta los 63 años (o 61 en algunos casos).
+- **Convenio especial en despidos colectivos:** en los ERE de empresas que afectan a trabajadores de 55 años o más, la empresa debe pagar un convenio especial hasta los 63 años (o 61 en algunos casos). Lo explicamos en [prejubilación y convenio especial en un ERE](/jubilacion/prejubilacion/).
 - **Volver a trabajar:** si encuentras empleo, el subsidio se suspende o, en algunos casos, se puede compatibilizar con el complemento de apoyo al empleo.
 
 ## Preguntas frecuentes
@@ -119,4 +119,4 @@ Puede bajarla si antes cotizabas por una base alta, porque durante el subsidio s
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS) o del Servicio Público de Empleo Estatal (SEPE). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía de prejubilación. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*

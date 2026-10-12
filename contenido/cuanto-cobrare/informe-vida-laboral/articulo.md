@@ -8,7 +8,7 @@ miga: Informe de vida laboral
 palabra_clave_principal: informe de vida laboral
 intencion: transaccional
 fase_plan: F2 (artículo n.º 32)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-12
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Informe de vida laboral: cómo pedirlo, cómo leerlo y cómo corregir los errores que rebajan tu pensión
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -117,9 +117,10 @@ Muestra cuánto tiempo has estado de alta. Para saber por cuánto has cotizado, 
 - ¿Cuántos años te faltan? Consulta las [opciones para completarlos](/jubilacion/faltan-anos-cotizados/).
 - ¿Qué porcentaje te corresponde? Mira la tabla de [porcentaje por años cotizados](/cuanto-cobrare/porcentaje-anos-cotizados/).
 - ¿Cuánto cobrarás? Calcúlalo con la [calculadora de pensión](/calculadoras/pension-jubilacion/).
+- ¿No recuerdas tu número de afiliación? Mira [cómo saber tu número de la Seguridad Social](/jubilacion/numero-seguridad-social/).
 
 ---
 
 *Este artículo es informativo y no sustituye la información de la Tesorería General de la Seguridad Social (TGSS) ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía del número de la Seguridad Social. 28 de septiembre de 2026, primera versión.*

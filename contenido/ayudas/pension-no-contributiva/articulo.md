@@ -8,7 +8,7 @@ miga: Pensión no contributiva
 palabra_clave_principal: pensión no contributiva jubilación
 intencion: informativa
 fase_plan: F1 (artículo n.º 55)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-12
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Pensión no contributiva de jubilación en 2026: requisitos, cuánto se cobra y cómo pedirla
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
 
 > **Respuesta rápida**
 >
@@ -37,6 +37,8 @@ Los fija el [artículo 369 de la Ley General de la Seguridad Social](https://www
 3. **Carecer de ingresos suficientes**: que tus rentas propias no lleguen a **8.803,20 euros al año** en 2026 y, si convives con familiares, que los ingresos de todos no superen los límites de la tabla siguiente.
 
 No hace falta haber cotizado nada. Es la alternativa si no llegas a los **15 años cotizados** que exige la pensión contributiva (lo explicamos en [jubilación con 15 años cotizados](/jubilacion/15-anos-cotizados/)).
+
+**Si has vuelto de emigrar** y eres español de origen, mira la [pensión asistencial por ancianidad para retornados](/ayudas/emigrantes-retornados/): para quien vuelve de un país donde España paga la prestación por razón de necesidad, no exige los 10 años de residencia.
 
 ### Límites de ingresos si vives con familiares (2026)
 
@@ -160,4 +162,4 @@ No. Es una pensión para quien no ha cotizado o no llega al mínimo de 15 años.
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del organismo de tu comunidad autónoma, que es quien reconoce la pensión no contributiva. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la pensión asistencial para emigrantes retornados. 28 de septiembre de 2026, primera versión.*

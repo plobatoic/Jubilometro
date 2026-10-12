@@ -554,5 +554,17 @@
   "/incapacidad/cuanto-se-cobra-de-baja/": {
     "id": 833,
     "estado": "publish"
+  },
+  "/ayudas/emigrantes-retornados/": {
+    "id": 836,
+    "estado": "publish"
+  },
+  "/jubilacion/numero-seguridad-social/": {
+    "id": 846,
+    "estado": "publish"
+  },
+  "/jubilacion/prejubilacion/": {
+    "id": 848,
+    "estado": "publish"
   }
 }

@@ -8,7 +8,7 @@ miga: Pensión en el extranjero
 palabra_clave_principal: cobrar pensión viviendo en el extranjero
 intencion: informativa
 fase_plan: F3 (artículo n.º 88)
-fecha_actualizacion: 2026-10-01
+fecha_actualizacion: 2026-10-12
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cobrar la pensión española viviendo en el extranjero: qué conservas, qué pierdes y qué trámites hay que hacer
 
-*Actualizado el 1 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y el Ministerio de Asuntos Exteriores*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y el Ministerio de Asuntos Exteriores*
 
 > **Respuesta rápida**
 >
@@ -133,9 +133,10 @@ Sí, con el formulario S1 que expide la Seguridad Social, en las mismas condicio
 - ¿Trabajaste en varios países? Lee cómo se suman los años en [he trabajado en otro país](/jubilacion/trabajado-en-otro-pais/).
 - ¿Cobras el complemento a mínimos? Revisa sus reglas en [complemento a mínimos](/cuanto-cobrare/complemento-a-minimos/).
 - ¿Quieres cambiar de banco? Lee [domiciliar la pensión](/dinero/domiciliar-pension/).
+- ¿Vuelves a vivir a España? Lee la guía de [emigrantes retornados](/ayudas/emigrantes-retornados/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal ni la información de la Seguridad Social y de las autoridades del país donde vivas. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 1 de octubre de 2026, terminado el plazo de septiembre de la fe de vida; se indica el próximo (enero a marzo de 2027). 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía de emigrantes retornados. 1 de octubre de 2026, terminado el plazo de septiembre de la fe de vida; se indica el próximo (enero a marzo de 2027). 29 de septiembre de 2026, primera versión.*

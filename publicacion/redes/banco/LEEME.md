@@ -6,13 +6,13 @@ Publicaciones preparadas el 12 de octubre de 2026 para lanzar las redes **el dí
 
 | | Cuántas | Dónde |
 |---|---|---|
-| Publicaciones del banco | 294 (X 123, Facebook 65, Instagram 30, WhatsApp 23, LinkedIn 16, grupo 13, vídeos 24) | `herramientas/redes/banco/` |
+| Publicaciones del banco | 308 (X 126, Facebook 68, Instagram 33, WhatsApp 26, LinkedIn 18, grupo 13, vídeos 24) | `herramientas/redes/banco/` |
 | Publicaciones del primer mes que sirven cualquier día | 81 | `herramientas/redes/mes-1.mjs` |
-| Carruseles de Instagram (8 imágenes cada uno) | 30 | `publicacion/redes/banco/carruseles/<nombre>/` |
-| Imágenes con la cifra (Facebook, también valen para X) | 11 | `publicacion/redes/banco/cifras/<nombre>.png` |
+| Carruseles de Instagram (8 imágenes cada uno; el de emigrantes retornados, 9) | 33 | `publicacion/redes/banco/carruseles/<nombre>/` |
+| Imágenes con la cifra (Facebook, también valen para X) | 13 | `publicacion/redes/banco/cifras/<nombre>.png` |
 | Vídeos «La cifra en 30 segundos» | 36 | `publicacion/redes/videos/` |
 
-Para verlas todas de un vistazo: `publicacion/redes/banco/vista-previa-banco.pdf` (todas las imágenes en 9 páginas), `publicacion/redes/banco/index.html` (las imágenes a tamaño real, para descargarlas) y un calendario de ejemplo, como si la aprobación llegara el lunes 2 de noviembre: `publicacion/redes/ejemplo-calendario/calendario.html`.
+Para verlas todas de un vistazo: `publicacion/redes/banco/vista-previa-banco.pdf` (todas las imágenes en 11 páginas), `publicacion/redes/banco/index.html` (las imágenes a tamaño real, para descargarlas) y un calendario de ejemplo, como si la aprobación llegara el lunes 2 de noviembre: `publicacion/redes/ejemplo-calendario/calendario.html`.
 
 Todas las cifras salen de las guías de la web, con la norma o el organismo de origen. Cada publicación dice de qué guía sale.
 

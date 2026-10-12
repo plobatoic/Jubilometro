@@ -324,6 +324,9 @@
   "calcula-demorada": "/calculadoras/jubilacion-demorada-flexible/",
   "comparador": "/calculadoras/comparador-ingresos-jubilacion/",
   "provincia": "/datos/pension-media-provincia/",
+  "prejubilacion": "/jubilacion/prejubilacion/",
+  "numero-ss": "/jubilacion/numero-seguridad-social/",
+  "retornados": "/ayudas/emigrantes-retornados/",
   "web": "/"
  }
 }

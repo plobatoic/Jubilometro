@@ -8,7 +8,7 @@ miga: Cita previa Seguridad Social
 palabra_clave_principal: cita previa seguridad social
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-02
+fecha_actualizacion: 2026-10-12
 publicacion: 2026-10-02
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Cita previa en la Seguridad Social: cómo pedirla por teléfono o por internet, incluso sin certificado digital
 
-*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en la Seguridad Social*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -99,7 +99,7 @@ Sí. Por teléfono, o por internet en el formulario de cita previa sin identific
 
 ### ¿Hace falta cita para la Tesorería de la Seguridad Social?
 
-No. Las oficinas de la Tesorería atienden sin cita, de lunes a viernes de 9 a 14 horas. Aun así, la vida laboral o el número de la Seguridad Social se pueden sacar por internet.
+No. Las oficinas de la Tesorería atienden sin cita, de lunes a viernes de 9 a 14 horas. Aun así, la vida laboral o el [número de la Seguridad Social](/jubilacion/numero-seguridad-social/) se pueden sacar por internet.
 
 ### ¿Cómo anulo o cambio la cita?
 
@@ -129,4 +129,4 @@ No es obligatorio ir a una oficina: puedes pedirla por internet, incluso sin cer
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social. Teléfonos y horarios según la guía oficial de febrero de 2026; pueden cambiar. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 2 de octubre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía del número de la Seguridad Social. 2 de octubre de 2026, primera versión.*

@@ -357,4 +357,57 @@ ${L('vivir-fuera', 'wa')}`,
 
 #mayores #transporte #descuentos #jubilados`,
   },
+
+  /* ---------- Emigrantes retornados ---------- */
+  {
+    id: 'retornados-x', red: 'x', pilar: 'La cifra que te toca', fuente: '/ayudas/emigrantes-retornados/',
+    texto: `Si vuelves a España tras trabajar 12 meses en los últimos 6 años fuera del Espacio Económico Europeo, tienes el subsidio para emigrantes retornados: hasta 18 meses, 570 € al mes los seis primeros. Pídelo en los 15 días hábiles siguientes a tu vuelta.
+
+${L('retornados', 'x')}`,
+  },
+  {
+    id: 'retornados-fb', red: 'facebook', pilar: 'La cifra que te toca', fuente: '/ayudas/emigrantes-retornados/',
+    cifra: { antes: 'Subsidio para emigrantes retornados en 2026', grande: '570 €', despues: 'al mes los seis primeros meses; después, 540 y 480. Hasta 18 meses.', fuente: 'Ley General de la Seguridad Social, disposición adicional 57.ª y artículo 278.', corto: 'retornados' },
+    texto: `Si tienes familia que emigró y está pensando en volver, esto le interesa: los españoles que regresan después de trabajar fuera tienen un subsidio propio, el subsidio para emigrantes retornados. Lo paga el SEPE.
+
+Es para quien ha trabajado al menos 12 meses en los últimos 6 años en países de fuera del Espacio Económico Europeo y no cobró paro allí. Son 570 euros al mes los seis primeros meses, 540 los seis siguientes y 480 los seis últimos. Antes hay que pedir el certificado de emigrante retornado en la Delegación o Subdelegación del Gobierno.
+
+Ojo con el plazo: si se pide en los 15 días hábiles siguientes a la vuelta, se cobra desde el día siguiente; pasados 6 meses, lo deniegan. Y quien vuelve con 65 años o más y sin ingresos puede tener una pensión asistencial por ancianidad.
+
+${FB_WEB}`,
+  },
+  {
+    id: 'retornados-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'La cifra que te toca', fuente: '/ayudas/emigrantes-retornados/',
+    diapositivas: [
+      'Vuelves a España después de trabajar fuera: esto es lo que te corresponde.',
+      '570 €: al mes los seis primeros meses del subsidio para emigrantes retornados. Después, 540 y 480.',
+      '18 meses: es lo que dura como máximo, si sigues cumpliendo los requisitos.',
+      'Quién lo cobra: quien trabajó 12 meses en los últimos 6 años fuera del Espacio Económico Europeo y no cobró paro allí.',
+      'El certificado: lo da la Delegación o Subdelegación del Gobierno. Tienes que estar empadronado.',
+      'El plazo: pídelo en los 15 días hábiles siguientes a tu vuelta. Pasados 6 meses, te lo deniegan.',
+      '733,60 €: al mes de pensión asistencial para retornados de 65 años o más sin ingresos, según el país del que vuelvas.',
+      'Sanidad: la tienes por ser español y vivir en España. Pide el reconocimiento a la Seguridad Social.',
+      'Compártelo con quien esté pensando en volver. Todo en la guía de Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Si vuelves a España después de trabajar fuera, puedes cobrar el subsidio para emigrantes retornados: hasta 18 meses, 570 € al mes al principio. Requisitos, certificado y plazos en la guía del enlace de la biografía.
+
+#emigrantes #retorno #pensiones #seguridadsocial`,
+  },
+  {
+    id: 'retornados-li', red: 'linkedin', pilar: 'Profesionales', fuente: '/ayudas/emigrantes-retornados/',
+    texto: `Para trabajadoras y trabajadores sociales, y para quien atiende a españoles que vuelven del extranjero: desde el 1 de noviembre de 2024, el subsidio para emigrantes retornados está regulado en la disposición adicional 57.ª de la Ley General de la Seguridad Social.
+
+Exige el certificado de emigrante retornado de la Delegación o Subdelegación del Gobierno, 12 meses trabajados en los últimos 6 años en países de fuera del Espacio Económico Europeo o sin convenio de desempleo, no haber cobrado paro allí y carecer de rentas (75 % del salario mínimo). Dura hasta 18 meses, con el 95, el 90 y el 80 % del IPREM: 570, 540 y 480 euros en 2026. El hecho causante es la fecha de la vuelta, así que el plazo de 15 días hábiles corre desde la llegada.
+
+Para mayores de 65 sin recursos, el artículo 25 del Real Decreto 8/2008 prevé una pensión asistencial por ancianidad que no exige los 10 años de residencia de la no contributiva.
+
+Resumen completo en el enlace del primer comentario.`,
+    comentario: `Emigrantes retornados: ${L('retornados', 'in')}`,
+  },
+  {
+    id: 'retornados-wa', red: 'whatsapp', pilar: 'La cifra que te toca', fuente: '/ayudas/emigrantes-retornados/',
+    texto: `¿Tienes un familiar que vuelve a España después de años trabajando en el extranjero? Si trabajó fuera del Espacio Económico Europeo, puede cobrar el subsidio para emigrantes retornados: hasta 18 meses, con 570 € al mes los seis primeros. Antes tiene que pedir el certificado en la Delegación del Gobierno, y cuanto antes, mejor.
+
+Requisitos y plazos: ${L('retornados', 'wa')}`,
+  },
 ];

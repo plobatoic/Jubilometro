@@ -1,0 +1,37 @@
+# Verificación de datos · Emigrantes retornados
+
+**Fuentes primarias leídas el 12/10/2026:** Ley General de la Seguridad Social (texto consolidado del BOE, API de datos abiertos: disposición adicional 57.ª y arts. 267, 274, 275, 276, 278, 279, 280 y 282); Real Decreto 8/2008 (arts. 2, 3, 12, 14, 25 y 26, este en la redacción del Real Decreto 180/2026); Ley 16/2003 (art. 3); página del SEPE «Subsidio para personas emigrantes retornadas» y página «Soy emigrante retornado»; página e impreso de solicitud del certificado de emigrante retornado de la Delegación del Gobierno en Cantabria; sede electrónica de la Seguridad Social (asistencia sanitaria); extracto de la convocatoria de la Xunta en el DOG del 29/01/2026.
+
+| # | Dato | Fuente primaria | Comprobación | Estado |
+|---|---|---|---|---|
+| 1 | Subsidio para españoles emigrantes retornados con certificado de la Delegación o Subdelegación del Gobierno; en vigor desde el 1/11/2024 | LGSS, DA 57.ª.1 (añadida por el RDL 2/2024) | Texto consolidado | Verificado |
+| 2 | Requisitos: en paro sin derecho a la contributiva; inscripción y acuerdo de actividad; vuelta de países fuera del EEE o sin convenio de desempleo; 12 meses trabajados en los últimos 6 años desde la última salida (hijos y nietos: con la nacionalidad); sin paro en ese país; carencia de rentas | LGSS, DA 57.ª.1 | Texto consolidado | Verificado |
+| 3 | Carencia de rentas: rentas propias del mes anterior por debajo del 75 % del SMI sin pagas extra: 915,75 € en 2026 | LGSS, art. 275.1; SEPE | Texto consolidado; 1.221 × 0,75 (SMI 2026 en 14 pagas, guía de cuidadoras y subsidio de 52) | Verificado |
+| 4 | Quien cotizó por desempleo 360 días o más en los 6 años anteriores a salir tiene la contributiva, no este subsidio | SEPE, página del subsidio; LGSS, art. 267.1.e | Texto de la página y consolidado | Verificado |
+| 5 | Exclusiones: EEE, Suiza, Chile, China (si cotizó por desempleo) y Australia (residencia permanente) | SEPE, «Soy emigrante retornado» | Texto de la página | Verificado |
+| 6 | Desde la UE, EEE, Reino Unido, Suiza o Australia no hace falta el certificado: U1 (E301 desde Noruega, Islandia y Liechtenstein) ante el SEPE | Impreso del certificado, Delegación del Gobierno en Cantabria | Texto del impreso | Verificado |
+| 7 | Cuantía: 95 % del IPREM los 180 primeros días, 90 % del 181 al 360 y 80 % desde el 361; IPREM 2026: 600 € → 570, 540 y 480 € | LGSS, art. 278 y DA 57.ª.4; SEPE | Texto consolidado; IPREM de la guía del subsidio de 52 | Verificado |
+| 8 | Duración máxima de 18 meses; total aproximado 9.540 € | LGSS, DA 57.ª.4 | 6 × 570 + 6 × 540 + 6 × 480 | Verificado (cálculo propio) |
+| 9 | Hecho causante: la fecha de la vuelta; en 15 días hábiles nace al día siguiente; hasta 6 meses, desde la solicitud sin días consumidos; después se deniega salvo trabajo, IT o nacimiento el último día | LGSS, DA 57.ª.2 y 3 y art. 276.1; SEPE | Texto consolidado y página | Verificado |
+| 10 | Periodos trimestrales y prórroga en los 15 días hábiles siguientes | LGSS, art. 276.2; SEPE | Texto consolidado y página | Verificado |
+| 11 | Pago por mensualidades de 30 días entre los días 10 y 15 del mes siguiente | SEPE, página del subsidio | Texto de la página | Verificado |
+| 12 | Tras trabajar 3 meses o más después de la vuelta, se puede pedir dentro de los 6 meses si el último cese es en situación legal de desempleo | SEPE, página del subsidio | Texto de la página | Verificado |
+| 13 | Incompatible con el trabajo por cuenta propia; con trabajo por cuenta ajena, complemento de apoyo al empleo hasta 180 días, de oficio | LGSS, DA 57.ª.5 y art. 282.3; SEPE | Texto consolidado y página | Verificado |
+| 14 | Subsidio de mayores de 52: 6 años cotizados por desempleo en España y requisitos de jubilación salvo la edad | LGSS, art. 280.1 | Texto consolidado | Verificado |
+| 15 | Solicitud: sede del SEPE, oficina con cita previa o cualquier registro; documentos: solicitud, identidad, cuenta bancaria y certificado | SEPE, página del subsidio | Texto de la página | Verificado |
+| 16 | Certificado: Área o Dependencia de Trabajo e Inmigración; hay que estar empadronado; qué acredita; lista de documentos; adveración por la Consejería de Trabajo de la embajada; sede electrónica o registro con cita previa; no genera derechos por sí solo | Página e impreso de la Delegación del Gobierno en Cantabria | Texto de la página y del impreso | Verificado |
+| 17 | Pensión asistencial por ancianidad para españoles de origen retornados de países con prestación por razón de necesidad; nacidos fuera: 8 años de residencia previa con la nacionalidad | RD 8/2008, art. 25.1 | Texto consolidado | Verificado |
+| 18 | Requisitos de la PNC de jubilación salvo la residencia; cuantía anual de la PNC en 12 pagas: 8.803,20 € → 733,60 € al mes en 2026 | RD 8/2008, art. 25.2 y 25.5; PNC 2026 de la guía de la no contributiva | Texto consolidado; 8.803,20 ÷ 12 | Verificado (cálculo propio) |
+| 19 | No computan el subsidio para retornados, las ayudas autonómicas ni otras prestaciones asistenciales | RD 8/2008, art. 25.7 | Texto consolidado | Verificado |
+| 20 | Extinción: más de 90 días al año fuera (salvo enfermedad), rentas suficientes, falta de fe de vida y declaración de ingresos, derecho a otra pensión pública | RD 8/2008, art. 25.8; fe de vida anual del art. 12.2 | Texto consolidado | Verificado |
+| 21 | La reconoce y paga la antigua Dirección General de Emigración, hoy en el Ministerio de Inclusión, Seguridad Social y Migraciones; solicitud en cualquier registro | RD 8/2008, art. 25.3 y 25.4 | Texto consolidado | Verificado (el nombre actual del órgano se omite en la guía) |
+| 22 | La prestación por razón de necesidad que se cobraba fuera se extingue al volver a España | RD 8/2008, art. 14.1 | Texto consolidado | Verificado |
+| 23 | Sanidad pública para los españoles con residencia habitual en España | Ley 16/2003, art. 3.1 y 3.2.a | Texto consolidado | Verificado |
+| 24 | Trámite «Solicitud de reconocimiento del derecho (como titular)» en la sede de la Seguridad Social | Sede electrónica de la Seguridad Social | Página consultada | Verificado |
+| 25 | Familiares de españoles de origen retornados: cónyuge o pareja, hijos a cargo menores de 26 o con discapacidad del 65 %; máximo 6 meses; resolución del INSS en 3 meses con silencio positivo; documentos | RD 8/2008, art. 26 (redacción del RD 180/2026) | Texto consolidado | Verificado |
+| 26 | Ayudas extraordinarias de la Xunta para emigrantes gallegos retornados sin recursos; plazo de 2026 hasta el 30 de septiembre | DOG n.º 19, 29/01/2026, extracto de la Resolución de 8/1/2026 | Texto del extracto | Verificado |
+| 27 | Ingreso mínimo vital: un año de residencia legal y efectiva | Guía [ingreso mínimo vital para mayores](/ayudas/ingreso-minimo-vital-mayores/) (Ley 19/2021, art. 10) | Coherente con la guía | Verificado |
+| 28 | Venezuela tiene convenio de Seguridad Social con España | Guía [trabajado en otro país](/jubilacion/trabajado-en-otro-pais/) | Coherente con la guía | Verificado en la guía de origen |
+| 29 | Ejemplo de Carmen: 14 años en España desde los 16; con 2 años seguidos tras volver reúne la residencia de la PNC | LGSS, art. 369 (residencia de la PNC); RD 8/2008, art. 25.8.e | Razonamiento propio sobre las normas | Comprobado |
+
+**Para revisar cada año:** el IPREM y el salario mínimo (cuantías y límite de rentas del subsidio), la cuantía de la pensión no contributiva (pensión asistencial) y la convocatoria anual de la Xunta.

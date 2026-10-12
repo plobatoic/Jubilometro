@@ -8,7 +8,7 @@ miga: Trámites online
 palabra_clave_principal: trámites online para mayores
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-12
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Trámites online para mayores: cómo hacer por internet las gestiones de la pensión, paso a paso
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en Cl@ve, la Seguridad Social, la Agencia Tributaria e INCIBE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en Cl@ve, la Seguridad Social, la Agencia Tributaria e INCIBE*
 
 > **Respuesta rápida**
 >
@@ -132,9 +132,10 @@ Por internet, en la sede electrónica, o en los teléfonos 901 10 65 70 y 91 541
 - ¿Vas a jubilarte? Sigue la guía para [solicitar la jubilación por internet](/jubilacion/solicitar-jubilacion-internet/).
 - ¿Quieres revisar tus cotizaciones? Aprende a leer el [informe de vida laboral](/cuanto-cobrare/informe-vida-laboral/).
 - ¿Toca hacer la renta? Lee [la declaración de la renta de los jubilados](/dinero/declaracion-renta-jubilados/).
+- ¿Necesitas tu número de afiliación? Lee [cómo saber o pedir tu número de la Seguridad Social](/jubilacion/numero-seguridad-social/).
 
 ---
 
 *Este artículo es informativo. Los sistemas de acceso y los servicios disponibles los fija cada organismo y pueden cambiar. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía del número de la Seguridad Social. 29 de septiembre de 2026, primera versión.*

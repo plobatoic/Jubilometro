@@ -36,15 +36,47 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 ## Lo que tienes que hacer tú
 
-1. Abrir las redes con la ruta de arriba.
-2. Volver a conectar Hostinger en claude.ai → Ajustes → Conectores si se desconecta (la web se actualiza por WordPress, no corre prisa).
-3. Añadir los conectores: Metricool (el más importante), Canva, MailerLite (o Brevo) y Ubersuggest (o Semrush).
-4. Cuando aprueben la web, decirme la fecha: con ella genero el calendario de 12 semanas del banco de publicaciones (`publicacion/redes/banco/LEEME.md`). En Metricool, probar antes el CSV con dos filas; a los vídeos, añadir música de la biblioteca de la app al subirlos.
-5. Avisar los días del IPC (14 y 30 de octubre) para actualizar la guía, la calculadora, el vídeo y los corchetes de las publicaciones.
-6. Search Console: pedir la indexación de las guías nuevas o cambiadas. Para que pueda leer los datos de Google: llave de solo lectura en la configuración del entorno con el nombre `GOOGLE_SERVICE_ACCOUNT_JSON`.
-7. AdSense: esperar la aprobación de Google.
-8. Newsletter: elegir servicio (MailerLite, por ejemplo); ahora no se sabe dónde se guardan los suscriptores (probablemente Hostinger Reach).
-9. Opcional: grabar tu voz o salir en algunos vídeos.
+### Ya, sin esperar a nada
+
+1. **Pedir a Google que lea las guías nuevas.** En Search Console (search.google.com/search-console), pega cada dirección en la barra de arriba y pulsa «Solicitar indexación». Una a una (Google deja unas 10 al día):
+   - jubilometro.com/jubilacion/prejubilacion/
+   - jubilometro.com/jubilacion/numero-seguridad-social/
+   - jubilometro.com/ayudas/emigrantes-retornados/
+   - jubilometro.com/jubilacion/pension-sovi/
+   - jubilometro.com/viudedad/auxilio-por-defuncion/
+   - jubilometro.com/incapacidad/cuanto-se-cobra-de-baja/
+
+   Bing (y con él Copilot y ChatGPT) se entera solo.
+2. **Abrir las redes**, empezando por el paso 1 de la ruta de arriba (el Gmail de Jubilómetro). Un paso cada vez, conmigo.
+3. **Conectar en claude.ai → Ajustes → Conectores:** Metricool (el más importante), Canva, MailerLite (o Brevo) y Ubersuggest (o Semrush). Si Hostinger se desconecta, volver a conectarlo.
+4. **Poner la llave de Google** en la configuración del entorno con el nombre `GOOGLE_SERVICE_ACCOUNT_JSON` (de solo lectura; nunca por el chat). Así puedo leer yo los datos de Search Console.
+5. **Elegir el servicio de la newsletter** (MailerLite, por ejemplo) y decírmelo. Ahora no se sabe dónde se guardan los suscriptores (probablemente Hostinger Reach).
+6. **Leer las tres guías nuevas** (prejubilación, número de la Seguridad Social y emigrantes retornados) por si quieres cambiar algo: van firmadas con tu nombre.
+
+### En fechas concretas
+
+7. **14 y 30 de octubre, 13 y 27 de noviembre** (días del IPC): escribirme «IPC». Actualizo la subida de 2027, la calculadora, las imágenes y lo que va entre corchetes en las publicaciones. Si lo prefieres, lo dejo programado para que se haga solo esos días.
+8. **El día que aprueben la web:** decirme la fecha. Con ella hago el calendario de 12 semanas del banco (`publicacion/redes/banco/LEEME.md`).
+9. **El primer día de redes:** publicar la presentación en todas y fijar arriba la de X y las normas del grupo.
+10. **Metricool:** importar el CSV del calendario. Antes, probar con dos filas.
+11. **Instagram:** subir cada carrusel, con sus imágenes en orden y el texto de su tarjeta.
+12. **Vídeos:** subirlos a TikTok, Reels y Shorts con su texto, y añadirles música de la biblioteca de la app.
+13. **Desde enero de 2027:** si una publicación sale con aviso amarillo (importes de 2026), comprobar la cifra en la guía o pedirme que la actualice.
+
+### Cada día y cada semana, con las redes abiertas
+
+14. **Cada día, 15 o 20 minutos:** responder comentarios y mensajes y marcar «Hecho» en el calendario.
+15. **Una vez a la semana:** mirar en WordPress (Escritorio › Estadísticas) qué publicaciones traen visitas, o pedirme el resumen.
+
+### Cuando llegue
+
+16. **AdSense:** esperar la respuesta de Google. Si la aprueban, avisarme para revisar que los anuncios no rompan la web ni la velocidad; si la rechazan, pasarme el motivo.
+
+### Cuando quieras (opcional)
+
+17. **Enviar un correo a asociaciones de mayores, gestorías y sindicatos** ofreciéndoles las calculadoras gratis para su web. Te preparo el texto y la lista; lo envías tú desde el Gmail de Jubilómetro.
+18. **Grabar tu voz o salir en algunos vídeos.**
+19. **Bing Webmaster Tools** (bing.com/webmasters): entrar e importar la web desde Search Console, para ver las visitas que llegan de Bing y Copilot. Son dos minutos.
 
 ## Lo que hago yo, con fecha
 
@@ -54,7 +86,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | 29 de octubre | Pensión media por provincia con la nómina de octubre |
 | 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
 | 1 de noviembre | Plazos de los balnearios del Imserso |
-| El día de la aprobación | Calendario de 12 semanas con el banco (294 publicaciones, 30 carruseles, 36 vídeos), con `programar.mjs` |
+| El día de la aprobación | Calendario de 12 semanas con el banco (308 publicaciones, 33 carruseles, 36 vídeos), con `programar.mjs` |
 | Antes del 13 de noviembre | Propuestas de cada partido sobre pensiones en la guía de elecciones |
 | 13 de noviembre | IPC definitivo de octubre |
 | 27 de noviembre | IPC adelantado de noviembre: cifra de la subida de 2027 |
@@ -64,4 +96,4 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | Final de diciembre | Real decreto de la subida: cifras oficiales en guías y calculadoras |
 | 1 de enero de 2027 | Gran actualización: mínimas, no contributiva, bases, títulos 2026 → 2027 y 67 años; en la portada, quitar «Novedad» de la calculadora de la subida y renovar «Ahora mismo» |
 
-Sin fecha fija: guías del número de la Seguridad Social, mayores de 55 y retornados (SOVI, auxilio por defunción y cuánto se cobra de baja ya están publicadas); dependencia en Navarra; cifras del Imserso y teléfonos cada trimestre; ofrecer las calculadoras a asociaciones, gestorías y sindicatos.
+Sin fecha fija: dependencia en Navarra (cuando su web responda), cifras del Imserso y teléfonos cada trimestre, y más guías con demanda. Las del número de la Seguridad Social, prejubilación y emigrantes retornados ya están publicadas (12 de octubre), con sus publicaciones en el banco de redes.

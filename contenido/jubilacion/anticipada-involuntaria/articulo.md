@@ -142,10 +142,11 @@ Sí, como máximo un año, para completar los 33 años cotizados.
 
 - ¿Te compensa? Mira la [comparativa de jubilarse a los 63, 64 o 65 años](/jubilacion/compensa-jubilarse-antes/).
 - ¿Te han despedido a los 60? Lee [despido a los 60: paro, subsidio y jubilación](/jubilacion/despido-a-los-60/).
+- ¿Te despiden en un ERE con 55 años o más? Mira [prejubilación: el convenio especial que paga la empresa](/jubilacion/prejubilacion/).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, enlace a la guía de prejubilación. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*
