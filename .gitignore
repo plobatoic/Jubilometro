@@ -1,2 +1,5 @@
 node_modules/
 graphify-out/
+# Carpetas temporales de HyperFrames mientras renderiza un vídeo
+publicacion/redes/videos/work-*/
+publicacion/redes/videos/.*.hf-transaction-*/
