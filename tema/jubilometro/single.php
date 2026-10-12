@@ -118,8 +118,9 @@ while ( have_posts() ) :
 		<section aria-labelledby="rel-title">
 			<header class="jm-rail__head"><h2 id="rel-title">Sigue leyendo</h2><?php if ( $cat ) : ?><a class="jm-rail__more" href="<?php echo esc_url( home_url( '/' . $cat->slug . '/' ) ); ?>">Todo sobre <?php echo esc_html( 'IMSERSO' === $cat->name ? 'el IMSERSO' : mb_strtolower( $cat->name ) ); ?><?php echo jm_icon( 'arrow' ); // phpcs:ignore ?></a><?php endif; ?></header>
 			<div class="jm-rail__grid jm-rail__grid--four jm-rail__grid--three"><?php
-			foreach ( $rel as $r ) {
-				echo jm_story( $r, 'md', array( 'sizes' => '(min-width: 1100px) 440px, (min-width: 640px) 45vw, 100vw' ) ); // phpcs:ignore
+			foreach ( array_values( $rel ) as $i => $r ) {
+				// En el móvil, de la segunda en adelante son filas con miniatura de 6,5rem
+				echo jm_story( $r, 'md', array( 'sizes' => '(min-width: 1100px) 440px, (min-width: 640px) 45vw, ' . ( $i ? '104px' : '100vw' ) ) ); // phpcs:ignore
 			}
 			?></div>
 		</section>

@@ -228,7 +228,7 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
-### Revisión técnica y kit de redes (tema 2.10.7, 12/10/2026)
+### Revisión técnica, kit de redes y portada (temas 2.10.7 y 2.11.0, 12/10/2026)
 
 - **Rastreo de la web en vivo**: 164 URL del sitemap, 470 direcciones propias, ninguna rota; SEO y datos estructurados sin fallos; ninguna página huérfana. Navegador (24 páginas, 1440 y 390 px): axe sin fallos, sin errores de JavaScript ni desbordes. Calculadoras (e2e): todas bien.
 - **Enlaces externos**: 881, ninguno roto. Avisos que no son fallos: el botón de compartir de Facebook (no deja entrar a robots), medios que bloquean robots (403) y webs autonómicas que no responden a servidores (Xunta, GVA, Imserso, La Rioja, Asturias, Navarra).
@@ -238,6 +238,8 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Enlaces internos nuevos** hacia «Cuánto ahorrar para jubilarte» y el simulador desde cinco guías.
 - **Kit de redes** (`herramientas/redes/kit/`): `NODE_PATH=$(npm root -g) node herramientas/redes/kit/kit.mjs` genera en `publicacion/redes/kit/` la foto de perfil, las portadas de cada red con sus zonas seguras, las diapositivas de los carruseles del mes (1080 × 1350, sacadas de `diapositivas` en `mes-1.mjs`) y las imágenes con la cifra (`cifras.mjs`), más `index.html` para verlas. Comprueba que ningún texto se sale de su caja ni de la zona segura. Los carruseles con corchetes por rellenar no se generan hasta el día del dato. Textos de los perfiles: `publicacion/redes/kit/biografias.md`. El calendario del mes dice qué imagen va con cada publicación.
   - Para rehacer una pieza: cambiar el texto en `mes-1.mjs` o `cifras.mjs` y ejecutar con `--solo=carruseles` o `--solo=cifras`.
+- **Portada (tema 2.11.0)**: «Once calculadoras» (antes decía nueve) con dos fichas nuevas: la subida de 2027 (etiqueta «Novedad», justo al lado de la calculadora de pensión) y el simulador. Los accesos de arriba pasan de «Lo más consultado» a «Ahora mismo»: subida de 2027, elecciones y pensiones, edad de jubilación y viajes del Imserso (`parts/home-mast.html`; renovarlos tras el 29N y el 1 de enero).
+- **Miniaturas en el móvil**: en las listas de guías (categorías, «Sigue leyendo» y los bloques de cuatro) solo la primera foto va a todo el ancho; las demás piden una imagen de 104 px. En la página de Jubilación, las fotos pasan de 2,3 MB a 1,5 MB.
 
 ### Medición, enlaces cortos y redes (tema 2.10.2, 9/10/2026)
 

@@ -259,7 +259,8 @@ function jm_rail_four( $slug, &$used, $tint = false ) {
 	jm_shown_cats( $slug );
 	$used  = array_merge( $used, jm_ids( $list ) );
 	$cards = '';
-	foreach ( $list as $p ) { $cards .= jm_story( $p, 'md', array( 'kicker' => false, 'sizes' => '(min-width: 1150px) 330px, (min-width: 640px) 45vw, 100vw' ) ); }
+	// En el móvil solo la primera va a todo el ancho; las demás son filas con miniatura de 6,5rem
+	foreach ( array_values( $list ) as $i => $p ) { $cards .= jm_story( $p, 'md', array( 'kicker' => false, 'sizes' => '(min-width: 1150px) 330px, (min-width: 640px) 45vw, ' . ( $i ? '104px' : '100vw' ) ) ); }
 	return '<section class="jm-rail' . ( $tint ? ' jm-rail--tint' : '' ) . '" aria-labelledby="rail-' . esc_attr( $slug ) . '"><div class="jm-wrap">' . jm_rail_head( $slug )
 		. '<div class="jm-rail__grid jm-rail__grid--four' . ( 3 === count( $list ) ? ' jm-rail__grid--three' : '' ) . '">' . $cards . '</div></div></section>';
 }

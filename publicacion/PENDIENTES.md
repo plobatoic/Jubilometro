@@ -58,10 +58,10 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | Antes del 13 de noviembre | Propuestas de cada partido sobre pensiones en la guía de elecciones |
 | 13 de noviembre | IPC definitivo de octubre |
 | 27 de noviembre | IPC adelantado de noviembre: cifra de la subida de 2027 |
-| Después del 29 de noviembre | Si el Gobierno en funciones aprueba la subida o pasa a enero |
+| Después del 29 de noviembre | Si el Gobierno en funciones aprueba la subida o pasa a enero; cambiar «Elecciones y pensiones» en los accesos «Ahora mismo» de la portada |
 | 16 de diciembre | Balnearios de Castilla-La Mancha |
 | 23 de diciembre | Nuevas Cortes: si vuelve la ley de los 40 años cotizados |
 | Final de diciembre | Real decreto de la subida: cifras oficiales en guías y calculadoras |
-| 1 de enero de 2027 | Gran actualización: mínimas, no contributiva, bases, títulos 2026 → 2027 y 67 años |
+| 1 de enero de 2027 | Gran actualización: mínimas, no contributiva, bases, títulos 2026 → 2027 y 67 años; en la portada, quitar «Novedad» de la calculadora de la subida y renovar «Ahora mismo» |
 
 Sin fecha fija: guías de SOVI, auxilio por defunción, baja médica, mayores de 55, número de la Seguridad Social y retornados; dependencia en Navarra; cifras del Imserso y teléfonos cada trimestre; ofrecer las calculadoras a asociaciones, gestorías y sindicatos.

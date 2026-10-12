@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.10.7' );
+define( 'JM_THEME_VER', '2.11.0' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -522,7 +522,8 @@ add_shortcode( 'jm_articulos', function ( $a ) {
 	if ( ! $list ) { return $note; }
 	$cols = 0 === count( $list ) % 4 ? ' jm-silo--4' : '';
 	$o    = '<div class="jm-silo' . $cols . '">';
-	foreach ( $list as $p ) { $o .= jm_story( $p, 'md', array( 'kicker' => false, 'dek' => true, 'sizes' => '(min-width: 1100px) 330px, (min-width: 640px) 45vw, 100vw' ) ); }
+	// En el móvil solo la primera va a todo el ancho; las demás son filas con miniatura de 6,5rem
+	foreach ( array_values( $list ) as $i => $p ) { $o .= jm_story( $p, 'md', array( 'kicker' => false, 'dek' => true, 'sizes' => '(min-width: 1100px) 330px, (min-width: 640px) 45vw, ' . ( $i ? '104px' : '100vw' ) ) ); }
 	return $o . '</div>' . $note;
 } );
 
