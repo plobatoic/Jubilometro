@@ -8,7 +8,7 @@ miga: Dependencia en el País Vasco
 palabra_clave_principal: dependencia País Vasco
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-12
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en el País Vasco: cómo se pide en Álava, Bizkaia y Gipuzkoa, cuánto tarda y qué ayudas hay
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: diputaciones forales, Imserso y BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: diputaciones forales, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En el País Vasco no hay un único trámite: la dependencia la valora y la resuelve la **diputación foral de tu territorio** (Álava, Bizkaia o Gipuzkoa). En los tres, el camino empieza en los **servicios sociales de base de tu ayuntamiento**, con cita con la trabajadora o el trabajador social, que prepara la solicitud y la envía a la diputación. Después, un equipo te hace la **valoración en tu domicilio**.
 >
-> Es la comunidad más rápida de España: según el Imserso, la media fue de **130 días** desde la solicitud hasta la prestación, frente a 302 en el conjunto del país. Y es donde más se usa la **prestación de asistencia personal**.
+> Es de las comunidades más rápidas de España: según el Imserso, la media fue de **130 días** desde la solicitud hasta la prestación, frente a 302 en el conjunto del país. Solo Aragón (111) y Castilla y León (120) tardan menos, además de la ciudad de Ceuta. Y es donde más se usa la **prestación de asistencia personal**.
 
 ## Quién puede pedirla
 
@@ -111,7 +111,7 @@ En los servicios sociales de tu ayuntamiento, que envían la solicitud a la dipu
 
 ### ¿Cuánto tarda la dependencia en el País Vasco?
 
-Según el Imserso, la media fue de 130 días desde la solicitud hasta la prestación (datos a agosto de 2026), la más rápida de España. En Gipuzkoa, la Diputación tiene tres meses para resolver la valoración.
+Según el Imserso, la media fue de 130 días desde la solicitud hasta la prestación (datos a agosto de 2026), la tercera comunidad autónoma más rápida, tras Aragón y Castilla y León. En Gipuzkoa, la Diputación tiene tres meses para resolver la valoración.
 
 ### ¿Qué documentos necesito en Gipuzkoa?
 
@@ -143,4 +143,4 @@ Sí. El grado de dependencia se reconoce en toda España. Al cambiar de comunida
 
 *Este artículo es informativo y no sustituye la información de las diputaciones forales de Álava, Bizkaia y Gipuzkoa, que son quienes reconocen la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 12 de octubre de 2026, corregido el puesto del País Vasco en los tiempos de la dependencia: es la tercera comunidad más rápida, no la primera. 5 de octubre de 2026, primera versión.*
