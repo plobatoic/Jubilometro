@@ -130,6 +130,7 @@ Resultado: **1.263 euros al mes en 14 pagas**, 17.682 euros al año, antes de la
 1. **Descarga tu informe de bases de cotización** en Tu Seguridad Social: muestra la base de cada mes, que es el dato que necesitas para la base reguladora.
 2. **Comprueba tus años cotizados** en el informe de vida laboral: de ellos depende el porcentaje y también tu [edad de jubilación](/jubilacion/edad-de-jubilacion/).
 3. **Haz la simulación** con nuestra calculadora, que aplica los dos sistemas y te dice cuál te favorece, o con el simulador de Tu Seguridad Social, que usa tus datos reales.
+4. **Si quieres verlo todo de una vez** (fecha de jubilación, pensión bruta y neta, y si te compensa adelantarla), usa nuestro [simulador de jubilación](/calculadoras/simulador-jubilacion/).
 
 <!-- calculadora-web:pension -->
 

@@ -121,6 +121,7 @@ No necesariamente. Cuenta la media de las bases de los últimos 25 años, así q
 - ¿Quieres tu cifra exacta? Hazla con la [calculadora de pensión](/calculadoras/pension-jubilacion/).
 - ¿Cómo se hace la media? Mira la [base reguladora de la jubilación](/cuanto-cobrare/base-reguladora/).
 - ¿Cuánto te quedará en el bolsillo? Consulta la [pensión bruta y neta](/cuanto-cobrare/pension-bruta-y-neta/).
+- ¿Te llegará para tus gastos? Calcula [cuánto dinero necesitas ahorrado para jubilarte](/dinero/ahorro-jubilacion/).
 
 ---
 

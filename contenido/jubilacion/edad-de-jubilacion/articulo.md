@@ -252,6 +252,7 @@ Con carácter general, no. Los convenios colectivos firmados desde 2022 solo pue
 - ¿Cuándo te jubilas tú? Calcúlalo con la [calculadora de edad de jubilación](/calculadoras/edad-de-jubilacion/).
 - ¿Cuánto cobrarás? Lee [cómo se calcula la pensión de jubilación en 2026](/cuanto-cobrare/como-se-calcula-la-pension/).
 - ¿Quieres adelantarla? Consulta la [jubilación anticipada voluntaria y sus coeficientes reductores](/jubilacion/anticipada-voluntaria/).
+- ¿Lo quieres todo junto? El [simulador de jubilación](/calculadoras/simulador-jubilacion/) te da la fecha, la pensión y lo que cobrarías si te adelantas.
 
 ---
 

@@ -127,6 +127,7 @@ Trabajar mientras cobras una pensión anticipada tiene límites. Lo explicamos e
 - Requisitos y recortes de la [jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/).
 - Si te han despedido: [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/).
 - Si prefieres esperar: [cuánto sube tu pensión con la jubilación demorada](/jubilacion/demorada/).
+- Para comparar fechas con tus propios datos: el [simulador de jubilación](/calculadoras/simulador-jubilacion/).
 
 ---
 

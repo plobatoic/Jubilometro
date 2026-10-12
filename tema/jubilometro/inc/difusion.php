@@ -126,7 +126,9 @@ function jm_sharebox( $url, $title, $que = 'guía' ) {
 	$mail  = 'mailto:?subject=' . rawurlencode( $title ) . '&body=' . rawurlencode( "Te paso esta {$que} de Jubilómetro:\n" . jm_share_url( $url, 'email', 'email' ) );
 	$canal = jm_redes()['whatsapp'] ?? '';
 	$btn   = function ( $cls, $href, $ev, $icon, $txt ) {
-		return sprintf( '<a class="jm-sharebtn %s" href="%s"%s data-jm-ev="compartir:%s">%s<span>%s</span></a>', $cls, esc_url( $href ), 0 === strpos( $href, 'mailto:' ) ? '' : ' target="_blank" rel="noopener"', $ev, jm_icon( $icon ), esc_html( $txt ) );
+		// esc_url() quita los saltos de línea (%0A) salvo en mailto:; el de WhatsApp se arma aquí con rawurlencode y basta esc_attr()
+		$safe = 0 === strpos( $href, 'https://wa.me/?text=' ) ? esc_attr( $href ) : esc_url( $href );
+		return sprintf( '<a class="jm-sharebtn %s" href="%s"%s data-jm-ev="compartir:%s">%s<span>%s</span></a>', $cls, $safe, 0 === strpos( $href, 'mailto:' ) ? '' : ' target="_blank" rel="noopener"', $ev, jm_icon( $icon ), esc_html( $txt ) );
 	};
 	return '<section class="jm-sharebox" aria-label="Compartir esta ' . esc_attr( $que ) . '">'
 		. '<div class="jm-sharebox__text"><p class="jm-sharebox__title">¿Le puede servir a alguien?</p>'

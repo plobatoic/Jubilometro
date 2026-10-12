@@ -114,6 +114,7 @@ Porque en enero se recalcula la retención con la pensión revalorizada. Si la s
 - ¿Cuál es tu caso exacto? Calcúlalo con la [calculadora de pensión neta](/calculadoras/pension-neta-irpf/).
 - ¿Tienes que hacer la declaración? Mira [la renta de los jubilados](/dinero/declaracion-renta-jubilados/).
 - ¿Cuánto subirá tu pensión en enero? Consulta la [revalorización de 2027](/cuanto-cobrare/revalorizacion-pensiones/).
+- ¿Te alcanzará la pensión neta para tus gastos? Mira [cuánto dinero necesitas ahorrado para jubilarte](/dinero/ahorro-jubilacion/).
 
 ---
 

@@ -855,6 +855,8 @@
     box.addEventListener('click', function (e) { if (Date.now() - swiped < 450) { e.preventDefault(); e.stopPropagation(); } }, true);
   }
 
-  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initReveal, initRoll, initTilt, initStage, initBrowse, initGuilloche, initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  // El grabado es solo adorno y crear el lienzo cuesta: se dibuja cuando el navegador ya ha pintado el texto
+  function later(fn) { return function () { if ('requestIdleCallback' in window) requestIdleCallback(function () { safe(fn); }, { timeout: 1500 }); else setTimeout(function () { safe(fn); }, 300); }; }
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
