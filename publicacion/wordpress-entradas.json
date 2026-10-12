@@ -550,5 +550,9 @@
   "/viudedad/auxilio-por-defuncion/": {
     "id": 824,
     "estado": "publish"
+  },
+  "/incapacidad/cuanto-se-cobra-de-baja/": {
+    "id": 833,
+    "estado": "publish"
   }
 }

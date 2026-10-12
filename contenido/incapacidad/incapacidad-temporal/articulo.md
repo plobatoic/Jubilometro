@@ -50,7 +50,7 @@ La prestación es un porcentaje de tu **base reguladora**, que es la base de cot
 | Enfermedad común o accidente no laboral | Días 1 a 3: nada · Días 4 a 20: 60 % · Desde el día 21: 75 % |
 | Accidente de trabajo o enfermedad profesional | 75 % desde el día siguiente a la baja |
 
-Muchos convenios colectivos obligan a la empresa a completar el sueldo hasta el 100 %: revisa el tuyo. En la **prolongación de efectos** tras los 545 días cobras la misma cuantía.
+Muchos convenios colectivos obligan a la empresa a completar el sueldo hasta el 100 %: revisa el tuyo. En la **prolongación de efectos** tras los 545 días cobras la misma cuantía. Tienes el cálculo día a día, con un ejemplo en euros y quién paga cada tramo, en [cuánto se cobra de baja](/incapacidad/cuanto-se-cobra-de-baja/).
 
 ## A los 365 días: el INSS toma el control
 
@@ -124,6 +124,7 @@ No automáticamente desde mayo de 2025. Si comunicas en 10 días que quieres seg
 - ¿Qué grado te pueden dar? Mira los [grados de incapacidad permanente](/incapacidad/grados-incapacidad/).
 - ¿No puedes hacer tu trabajo? Lee la [incapacidad permanente total](/incapacidad/incapacidad-total/).
 - ¿Cuánto cobrarías? Calcúlalo con la [calculadora de incapacidad permanente](/calculadoras/incapacidad-permanente/).
+- ¿Cuánto cobras ahora, de baja? Mira [cuánto se cobra de baja, día a día](/incapacidad/cuanto-se-cobra-de-baja/).
 
 ---
 
