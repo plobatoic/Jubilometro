@@ -2,7 +2,8 @@
 // Cada escena dura lo que marca su guion (herramientas/redes/mes-1.mjs) y lleva:
 //   antetitulo · cifra o frase grande · texto de apoyo · subtítulo (lo que diría la voz)
 // En los textos, {n:desde:hasta:decimales} es una cifra que cuenta hasta su valor y *palabra* va resaltada.
-// Las cifras son las de las guías a 9 de octubre de 2026 (vídeos 1 a 12) y a 12 de octubre de 2026 (13 a 20).
+// Las cifras son las de las guías a 9 de octubre de 2026 (vídeos 1 a 12) y a 12 de octubre de 2026 (13 a 36).
+// Del 21 en adelante, temas sin importes que cambien en enero, para que sirvan todo 2027.
 // Del 13 en adelante son del banco de publicaciones (herramientas/redes/banco/videos.mjs).
 
 export const VIDEOS = [
@@ -122,7 +123,7 @@ export const VIDEOS = [
     escenas: [
       { t: [0, 3], antetitulo: 'Madres pensionistas', grande: '¿Tienes *hijos* y cobras pensión?', tam: 'm', sub: 'Si tienes hijos y cobras una pensión, mira esto.' },
       { t: [3, 11], antetitulo: 'Complemento de brecha de género', grande: '*{n:0:36.90:2} €* al mes por hijo', tam: 'l', apoyo: 'En 2026, en 14 pagas.', sub: 'El complemento de brecha de género son 36,90 euros al mes por cada hijo.' },
-      { t: [11, 19], antetitulo: 'Hasta cuatro hijos', bloque: { tipo: 'flecha', de: '4 hijos', a: '{n:0:147.60:2} € al mes' }, sub: 'Hasta cuatro hijos: 147,60 euros al mes, en 14 pagas.' },
+      { t: [11, 19], antetitulo: 'Hasta cuatro hijos', bloque: { tipo: 'flecha', de: '4 hijos', a: '{n:0:147.60:2} €' }, apoyo: 'Al mes, en 14 pagas.', sub: 'Hasta cuatro hijos: 147,60 euros al mes, en 14 pagas.' },
       { t: [19, 26], antetitulo: 'Se suma a tu pensión de', bloque: { tipo: 'lista', items: ['Jubilación', 'Incapacidad permanente', 'Viudedad'] }, sub: 'Se suma a la pensión de jubilación, de incapacidad permanente o de viudedad.' },
     ],
     cierre: { t: [26, 30], sub: 'Requisitos en jubilometro.com/brecha.' },
@@ -243,11 +244,203 @@ export const VIDEOS = [
     final: 'Calcula la tuya, gratis',
     escenas: [
       { t: [0, 3], antetitulo: 'Incapacidad permanente', grande: '*4 grados*, 4 formas de cobrar', tam: 'm', sub: 'La incapacidad permanente tiene cuatro grados, y cada uno se cobra distinto.' },
-      { t: [3, 9], antetitulo: 'Parcial', grande: '*24* mensualidades', tam: 'l', apoyo: 'De una vez, y sigues en tu trabajo.', sub: 'Parcial: 24 mensualidades de una vez, y sigues en tu trabajo.' },
+      { t: [3, 9], antetitulo: 'Parcial', grande: '*24* mensualidades', tam: 'm', apoyo: 'De una vez, y sigues en tu trabajo.', sub: 'Parcial: 24 mensualidades de una vez, y sigues en tu trabajo.' },
       { t: [9, 15], antetitulo: 'Total', grande: 'El *{n:0:55:0} %* de tu base', tam: 'l', apoyo: 'El 75 % desde los 55 años, si no trabajas.', sub: 'Total: el 55 % de tu base reguladora, o el 75 % desde los 55 años si no trabajas.' },
       { t: [15, 21], antetitulo: 'Absoluta', grande: 'El *{n:0:100:0} %*, sin IRPF', tam: 'l', sub: 'Absoluta: el 100 %, sin IRPF.' },
       { t: [21, 26], antetitulo: 'Gran incapacidad', grande: '100 % *y un complemento*', tam: 'l', apoyo: 'Para pagar a quien te cuida.', sub: 'Gran incapacidad: el 100 % más un complemento para pagar a quien te cuida.' },
     ],
     cierre: { t: [26, 30], sub: 'Calcula la tuya en jubilometro.com/calcula-incapacidad.' },
+  },
+  {
+    archivo: 'video-21-pedir-viudedad',
+    enlace: 'jubilometro.com/pedir-viudedad',
+    final: 'Paso a paso',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Pensión de viudedad', grande: '¿Cuándo hay que *pedirla*?', tam: 'l', sub: '¿Cuándo hay que pedir la pensión de viudedad?' },
+      { t: [3, 11], antetitulo: 'El derecho no caduca', grande: 'Pero los atrasos, *solo 3 meses*', tam: 'm', apoyo: 'Se cobran los tres meses anteriores a la solicitud.', sub: 'El derecho no caduca, pero solo se cobran los tres meses anteriores a la solicitud.' },
+      { t: [11, 19], antetitulo: 'Si la pides al año', grande: 'Pierdes *{n:0:9:0} meses*', tam: 'l', apoyo: 'Si la pides al cuarto mes, pierdes uno.', sub: 'Si la pides al año del fallecimiento, pierdes nueve meses de pensión.' },
+      { t: [19, 26], antetitulo: 'Cómo se pide', bloque: { tipo: 'lista', items: ['Por internet, en la sede de la Seguridad Social', 'O en una oficina, con cita previa', 'Con la orfandad y el auxilio, a la vez'] }, sub: 'Se pide por internet o con cita previa, y a la vez la orfandad y el auxilio por defunción.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Paso a paso, en jubilometro.com/pedir-viudedad.' },
+  },
+  {
+    archivo: 'video-22-pareja-de-hecho',
+    enlace: 'jubilometro.com/pareja-de-hecho',
+    final: 'Los requisitos, gratis',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Pensión de viudedad', grande: '¿Y si *no estabais casados*?', tam: 'm', sub: '¿Hay viudedad si no estabais casados?' },
+      { t: [3, 11], antetitulo: 'Pareja de hecho', grande: 'Sí, *igual* que un matrimonio', tam: 'm', apoyo: 'Si cumplís dos requisitos.', sub: 'Sí: la pareja de hecho cobra la viudedad igual que un matrimonio, si cumple dos requisitos.' },
+      { t: [11, 19], antetitulo: 'Requisito 1', grande: 'Inscritos *2 años* antes', tam: 'l', apoyo: 'En un registro de parejas de hecho o en documento público.', sub: 'Estar inscritos al menos dos años antes del fallecimiento.' },
+      { t: [19, 26], antetitulo: 'Requisito 2', grande: '*5 años* de convivencia', tam: 'l', apoyo: 'Seguidos y justo antes. Con hijos en común, basta la inscripción.', sub: 'Y haber convivido cinco años seguidos justo antes. Si tenéis hijos en común, basta con la inscripción.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/pareja-de-hecho.' },
+  },
+  {
+    archivo: 'video-23-incapacidad-denegada',
+    enlace: 'jubilometro.com/incapacidad-denegada',
+    final: 'Paso a paso',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Incapacidad permanente', grande: '¿Te la han *denegado*?', tam: 'l', sub: '¿Te han denegado la incapacidad permanente?' },
+      { t: [3, 11], antetitulo: 'Primer paso', grande: '*{n:0:30:0} días* para reclamar', tam: 'l', apoyo: 'Reclamación previa ante el propio INSS.', sub: 'Tienes 30 días desde la notificación para presentar la reclamación previa ante el INSS.' },
+      { t: [11, 19], antetitulo: 'Si la rechaza o no contesta en 45 días', grande: 'Otros *30 días*', tam: 'l', apoyo: 'Para la demanda en el Juzgado de lo Social.', sub: 'Si la rechaza o no contesta en 45 días, tienes otros 30 días para ir al Juzgado de lo Social.' },
+      { t: [19, 26], antetitulo: 'Consejo', grande: 'Aporta *todos* tus informes', tam: 'm', apoyo: 'En el juicio solo cuenta lo que está en el expediente.', sub: 'Aporta todos tus informes en la reclamación previa: en el juicio solo cuenta lo que está en el expediente, salvo los hechos nuevos.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Paso a paso, en jubilometro.com/incapacidad-denegada.' },
+  },
+  {
+    archivo: 'video-24-total-cualificada',
+    enlace: 'jubilometro.com/incapacidad-total',
+    final: 'La guía completa',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Incapacidad total', grande: '¿Tienes *55 años* o más?', tam: 'm', sub: 'Si cobras una incapacidad permanente total y tienes 55 años o más, mira esto.' },
+      { t: [3, 11], antetitulo: 'La incapacidad total', grande: 'El *{n:0:55:0} %* de tu base', tam: 'l', sub: 'La incapacidad permanente total es el 55 % de tu base reguladora.' },
+      { t: [11, 19], antetitulo: 'Desde los 55, si no trabajas', grande: 'Sube al *{n:55:75:0} %*', tam: 'l', apoyo: 'Es la total cualificada.', sub: 'Desde los 55 años, si no trabajas, sube al 75 %: es la total cualificada.' },
+      { t: [19, 26], antetitulo: 'Al mes, con una base de 1.500 €', bloque: { tipo: 'flecha', de: '825 €', a: '{n:825:1125:0} €' }, apoyo: 'Si vuelves a trabajar, ese 20 % se suspende.', sub: 'Con una base de 1.500 euros, pasas de 825 a 1.125 euros al mes. Si trabajas, el 20 % extra se suspende.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/incapacidad-total.' },
+  },
+  {
+    archivo: 'video-25-jubilacion-activa',
+    enlace: 'jubilometro.com/activa',
+    final: 'La guía completa',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Jubilación activa', grande: '¿Cobrar la pensión *y trabajar*?', tam: 'm', sub: '¿Se puede cobrar la pensión y seguir trabajando?' },
+      { t: [3, 10], antetitulo: 'Si retrasas la jubilación un año o más', grande: 'Sí, con la *activa*', tam: 'l', sub: 'Sí, con la jubilación activa, si retrasas la jubilación al menos un año.' },
+      { t: [10, 19], antetitulo: 'Lo que cobras de la pensión', bloque: { tipo: 'barras', barras: [[45, 'Con 1 año de retraso'], [65, 'Con 3 años'], [100, 'Con 5 años o más', true]] }, sub: 'Cobras desde el 45 % de la pensión con un año de retraso hasta el 100 % con cinco.' },
+      { t: [19, 26], antetitulo: 'Y cada año en activa', grande: '*+5 puntos*', tam: 'l', apoyo: 'Por cada 12 meses seguidos trabajando.', sub: 'Y el porcentaje sube 5 puntos por cada 12 meses seguidos en activa.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/activa.' },
+  },
+  {
+    archivo: 'video-26-jubilacion-flexible',
+    enlace: 'jubilometro.com/flexible',
+    final: 'La guía completa',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Ya jubilado', grande: '¿Volver a trabajar *unas horas*?', tam: 'm', sub: '¿Estás jubilado y quieres volver a trabajar unas horas?' },
+      { t: [3, 11], antetitulo: 'Jubilación flexible', grande: 'Del *{n:0:33:0} %* al *{n:0:80:0} %* de jornada', tam: 'm', apoyo: 'Y la pensión se reduce en proporción.', sub: 'Con la jubilación flexible trabajas entre el 33 y el 80 % de una jornada, y la pensión se reduce en proporción.' },
+      { t: [11, 19], antetitulo: 'Si empiezas 6 meses después', grande: 'Un *15 %* o un *25 %* más', tam: 'l', apoyo: 'Según la jornada que hagas.', sub: 'Si empiezas a trabajar al menos seis meses después de jubilarte, recibes un 15 o un 25 % más.' },
+      { t: [19, 26], antetitulo: 'Desde agosto de 2026', grande: 'También *autónomos*', tam: 'l', apoyo: 'Cobran el 25 % de su pensión.', sub: 'Y desde agosto de 2026 también pueden los autónomos, que cobran el 25 % de su pensión.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/flexible.' },
+  },
+  {
+    archivo: 'video-27-vida-laboral',
+    enlace: 'jubilometro.com/vida-laboral',
+    final: 'Cómo pedirla',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Antes de jubilarte', grande: 'Revisa tu *vida laboral*', tam: 'l', sub: 'Antes de jubilarte, revisa tu vida laboral.' },
+      { t: [3, 11], antetitulo: 'Si falta un periodo trabajado', grande: 'Pierdes *años* y *pensión*', tam: 'l', apoyo: 'Un verano, un contrato antiguo, una empresa que cerró.', sub: 'Si falta un periodo trabajado, pierdes años cotizados y puede bajar tu pensión.' },
+      { t: [11, 19], antetitulo: 'Se pide gratis', bloque: { tipo: 'lista', items: ['En Import@ss', 'Con Cl@ve o un SMS al móvil', 'O que te la manden a casa'] }, sub: 'Se pide gratis en Import@ss, con Cl@ve o con un SMS al móvil, o que te la manden a casa.' },
+      { t: [19, 26], antetitulo: 'Si hay un error', grande: 'Pide la *rectificación*', tam: 'l', apoyo: 'Con nóminas, contratos o cualquier papel que lo pruebe.', sub: 'Si hay un error, pide la rectificación con nóminas o contratos. Cuanto antes, mejor.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Cómo pedirla, en jubilometro.com/vida-laboral.' },
+  },
+  {
+    archivo: 'video-28-sms-017',
+    enlace: 'jubilometro.com/tramites',
+    final: 'Más trucos',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Ojo con los engaños', grande: '¿Un SMS *raro* de la Seguridad Social?', tam: 'm', sub: '¿Te ha llegado un SMS raro de la Seguridad Social o de Hacienda?' },
+      { t: [3, 10], antetitulo: 'Lo primero', grande: 'No pinches el *enlace*', tam: 'l', sub: 'Lo primero, no pinches el enlace.' },
+      { t: [10, 18], antetitulo: 'Llama gratis al', grande: '*017*', tam: 'xl', apoyo: 'De 8 de la mañana a 11 de la noche.', sub: 'Llama gratis al 017, de 8 de la mañana a 11 de la noche.' },
+      { t: [18, 26], antetitulo: 'Para tus trámites', bloque: { tipo: 'lista', items: ['La app Cl@ve', 'Un código por SMS que pides tú', 'Un familiar con tu permiso'] }, sub: 'Para tus trámites, usa la app Cl@ve, un código por SMS que pides tú o un familiar con tu permiso.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más trucos en jubilometro.com/tramites.' },
+  },
+  {
+    archivo: 'video-29-vender-casa',
+    enlace: 'jubilometro.com/vender-casa',
+    final: 'La guía completa',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Mayores de 65', grande: '¿Vendes tu *casa*?', tam: 'l', sub: 'Si tienes más de 65 años y vendes tu casa, mira esto.' },
+      { t: [3, 11], antetitulo: 'Si es tu vivienda habitual', grande: 'La ganancia *no paga IRPF*', tam: 'm', apoyo: 'Ganes lo que ganes y hagas lo que hagas con el dinero.', sub: 'Si es tu vivienda habitual, la ganancia no paga IRPF, ganes lo que ganes.' },
+      { t: [11, 19], antetitulo: 'Lo que sí pagas', grande: 'La *plusvalía* municipal', tam: 'l', apoyo: 'No tiene exención por edad.', sub: 'Lo que sí pagas es la plusvalía municipal, que no tiene exención por edad.' },
+      { t: [19, 26], antetitulo: 'Si la casa es de los dos', grande: 'La exención es *personal*', tam: 'm', apoyo: 'Si tu pareja tiene menos de 65, su parte tributa.', sub: 'La exención es personal: si tu pareja tiene menos de 65 años, su parte tributa, salvo que reinvierta en otra vivienda.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/vender-casa.' },
+  },
+  {
+    archivo: 'video-30-donar-o-heredar',
+    enlace: 'jubilometro.com/herencias',
+    final: 'Haz números',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Herencias', grande: '¿Donar el piso *en vida*?', tam: 'm', sub: '¿Les das ya el piso a tus hijos para ahorrar impuestos?' },
+      { t: [3, 11], antetitulo: 'Donación y herencia', grande: 'El *mismo* impuesto', tam: 'l', apoyo: 'Sucesiones y Donaciones, que paga quien recibe.', sub: 'Donar y heredar pagan el mismo impuesto, que paga quien recibe.' },
+      { t: [11, 19], antetitulo: 'Si donas un piso que ha ganado valor', grande: 'Tú pagas *IRPF*', tam: 'l', apoyo: 'Por la ganancia desde que lo compraste.', sub: 'Pero si donas en vida un piso que ha ganado valor, tú pagas IRPF por esa ganancia.' },
+      { t: [19, 26], antetitulo: 'Si lo dejas en herencia', grande: 'Esa ganancia *no tributa*', tam: 'm', apoyo: 'En los dos casos se paga la plusvalía municipal.', sub: 'Si lo dejas en herencia, esa ganancia no tributa. En los dos casos se paga la plusvalía municipal.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Haz números en jubilometro.com/herencias.' },
+  },
+  {
+    archivo: 'video-31-teleasistencia',
+    enlace: 'jubilometro.com/teleasistencia',
+    final: 'Cómo pedirla',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Mayores que viven solos', grande: '¿Y si se cae y *no puede llamar*?', tam: 'm', sub: 'Si tu madre o tu padre vive solo, ¿qué pasa si se cae?' },
+      { t: [3, 11], antetitulo: 'Teleasistencia', grande: 'Un *pulsador*, 24 horas', tam: 'l', apoyo: 'En colgante, pulsera o reloj.', sub: 'La teleasistencia es un pulsador en colgante, pulsera o reloj, conectado a una central las 24 horas.' },
+      { t: [11, 19], antetitulo: 'Si lo pulsa', grande: 'Le hablan y avisan a *quien haga falta*', tam: 'm', apoyo: 'La familia, una ambulancia o quien tenga llave.', sub: 'Si lo pulsa, le hablan por un altavoz y avisan a la familia, a una ambulancia o a quien tenga una llave.' },
+      { t: [19, 26], antetitulo: 'Cómo conseguirla', grande: 'En los *servicios sociales*', tam: 'l', apoyo: 'Sin tener la dependencia. Gratis o de pocos euros al mes.', sub: 'Se pide en los servicios sociales del ayuntamiento, sin necesidad de tener la dependencia, y suele ser gratis o de pocos euros.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/teleasistencia.' },
+  },
+  {
+    archivo: 'video-32-anticipada-involuntaria',
+    enlace: 'jubilometro.com/involuntaria',
+    final: 'Calcula tu caso',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Despedido cerca de jubilarte', grande: '¿Puedes jubilarte *antes*?', tam: 'l', sub: 'Si te despiden cerca de la jubilación, ¿puedes jubilarte antes?' },
+      { t: [3, 11], antetitulo: 'Jubilación anticipada involuntaria', grande: 'Hasta *4 años* antes', tam: 'l', apoyo: 'Tras un despido colectivo u objetivo.', sub: 'Sí: tras un despido colectivo u objetivo, hasta cuatro años antes.' },
+      { t: [11, 19], antetitulo: 'Requisitos', bloque: { tipo: 'lista', items: ['33 años cotizados', '6 meses inscrito en el paro', 'En 2027, desde los 63 (o los 61)'] }, sub: 'Necesitas 33 años cotizados y seis meses inscrito como demandante de empleo. En 2027, desde los 63, o desde los 61 con 38 años y 6 meses cotizados.' },
+      { t: [19, 26], antetitulo: 'El precio', grande: 'Hasta un *{n:0:30:0} %* menos', tam: 'l', apoyo: 'Para toda la vida, según lo que adelantes.', sub: 'El recorte puede llegar al 30 %, para toda la vida.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Calcula tu caso en jubilometro.com/involuntaria.' },
+  },
+  {
+    archivo: 'video-33-trabajaste-fuera',
+    enlace: 'jubilometro.com/otro-pais',
+    final: 'La guía completa',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Años trabajados fuera', grande: '¿Trabajaste en *Alemania* o en *Suiza*?', tam: 'm', sub: '¿Trabajaste unos años en Alemania, Francia o Suiza?' },
+      { t: [3, 11], antetitulo: 'Si el país tiene convenio', grande: 'Esos años *suman*', tam: 'l', apoyo: 'Para llegar a los 15 años mínimos en España.', sub: 'Si el país es de la Unión Europea o tiene convenio con España, esos años suman para llegar a los 15 mínimos.' },
+      { t: [11, 19], antetitulo: 'Después', grande: 'Cada país paga *su parte*', tam: 'l', apoyo: 'En proporción a lo que cotizaste en él.', sub: 'Después, cada país paga su parte, en proporción a lo que cotizaste en él.' },
+      { t: [19, 26], antetitulo: 'Ojo', grande: 'Cada país, *su edad*', tam: 'l', apoyo: 'Y sin convenio, los años de fuera no cuentan en España.', sub: 'Cada país aplica su propia edad de jubilación. Y sin convenio, esos años no cuentan en España.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/otro-pais.' },
+  },
+  {
+    archivo: 'video-34-grado-discapacidad',
+    enlace: 'jubilometro.com/grado-discapacidad',
+    final: 'Cómo pedirlo',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Grado de discapacidad', grande: '¿Lo tienes *reconocido*?', tam: 'l', sub: 'Muchas personas mayores tendrían un grado de discapacidad y nunca lo han pedido.' },
+      { t: [3, 11], antetitulo: 'Con un 33 %', grande: '*+{n:0:3000:0} €* de mínimo en el IRPF', tam: 'm', apoyo: 'Pagas menos impuestos cada año.', sub: 'Con un 33 %, tu mínimo en el IRPF sube 3.000 euros al año, y pagas menos impuestos.' },
+      { t: [11, 19], antetitulo: 'Con un 65 %', grande: '*+{n:0:9000:0} €*, y otros 3.000', tam: 'm', apoyo: 'Por discapacidad y por gastos de asistencia.', sub: 'Con un 65 %, el mínimo sube 9.000 euros, más otros 3.000 por gastos de asistencia.' },
+      { t: [19, 26], antetitulo: 'Se pide en tu comunidad', grande: 'Vale desde el día *que lo pides*', tam: 'm', apoyo: 'Tiene seis meses para resolver.', sub: 'Se pide en tu comunidad autónoma, que tiene seis meses para resolver, y vale desde el día de la solicitud.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Más en jubilometro.com/grado-discapacidad.' },
+  },
+  {
+    archivo: 'video-35-ayuda-domicilio',
+    enlace: 'jubilometro.com/ayuda-domicilio',
+    final: 'Cómo pedirla',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Dependencia', grande: '¿Ayuda en casa para tu *madre*?', tam: 'm', sub: '¿Tu madre o tu padre necesita ayuda en casa?' },
+      { t: [3, 11], antetitulo: 'Ayuda a domicilio', grande: 'Aseo, comida, *vestirse*', tam: 'm', apoyo: 'Auxiliares que van a casa.', sub: 'La ayuda a domicilio envía auxiliares a casa para el aseo, la comida o vestirse.' },
+      { t: [11, 19], antetitulo: 'Horas al mes, según el grado', bloque: { tipo: 'lista', items: ['Grado I: de 20 a 37 horas', 'Grado II: de 38 a 64 horas', 'Grado III: de 65 a 94 horas'] }, sub: 'Con la dependencia, de 20 a 37 horas al mes en el grado I, de 38 a 64 en el II y de 65 a 94 en el III.' },
+      { t: [19, 26], antetitulo: 'Cuánto cuesta', grande: 'Según tus *ingresos*', tam: 'l', apoyo: 'Nadie se queda sin ella por no tener dinero.', sub: 'Pagas una parte según tus ingresos, y nadie se queda sin ella por no tener dinero.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Cómo pedirla, en jubilometro.com/ayuda-domicilio.' },
+  },
+  {
+    archivo: 'video-36-requisitos-viudedad',
+    enlace: 'jubilometro.com/requisitos-viudedad',
+    final: 'Los requisitos, gratis',
+    escenas: [
+      { t: [0, 3], antetitulo: 'Pensión de viudedad', grande: '¿Te *corresponde*?', tam: 'l', sub: '¿Te corresponde la pensión de viudedad?' },
+      { t: [3, 11], antetitulo: 'Si la persona fallecida trabajaba', grande: '*{n:0:500:0} días* en 5 años', tam: 'l', apoyo: 'O 15 años cotizados en total.', sub: 'Si la persona fallecida trabajaba, hacen falta 500 días cotizados en los últimos cinco años, o 15 años en total.' },
+      { t: [11, 19], antetitulo: 'Si ya era pensionista', grande: 'Basta con *eso*', tam: 'l', apoyo: 'De jubilación o de incapacidad permanente.', sub: 'Si ya cobraba una jubilación o una incapacidad permanente, basta con eso.' },
+      { t: [19, 26], antetitulo: 'Si fue un accidente', grande: 'Sin cotización *mínima*', tam: 'l', apoyo: 'Y para ti, sin límite de edad ni de ingresos.', sub: 'Si murió por un accidente, no se pide cotización mínima. Y para ti no hay límite de edad ni de ingresos.' },
+    ],
+    cierre: { t: [26, 30], sub: 'Requisitos en jubilometro.com/requisitos-viudedad.' },
   },
 ];

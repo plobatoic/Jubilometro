@@ -233,4 +233,46 @@ Con un 33 % se te considera persona con discapacidad: tu mínimo en el IRPF sube
 
 La dependencia y la discapacidad son trámites distintos, aunque en algunas comunidades se piden juntos. ${FB_WEB}`,
   },
+  /* ---------- Carruseles y LinkedIn de refuerzo ---------- */
+  {
+    id: 'servicios-dependencia-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/dependencia/ley-dependencia/',
+    diapositivas: [
+      'Dependencia: los servicios que puede recibir tu familiar.',
+      'Teleasistencia: un pulsador conectado a una central las 24 horas.',
+      'Ayuda a domicilio: de 20 a 94 horas al mes, según el grado.',
+      'Centro de día: atención durante el día y a dormir a casa. Con grado I, al menos 15 horas a la semana.',
+      'Residencia: con grado II o III. Pagas según tus ingresos, como máximo el 90 % del coste.',
+      'Si no hay plaza pública: hasta 747,25 € al mes para pagar un servicio privado acreditado.',
+      'Si te cuida un familiar en casa: hasta 455,40 € al mes con grado III.',
+      'Guárdalo y compártelo en la familia. Cómo pedirlo, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Teleasistencia, ayuda a domicilio, centro de día, residencia o ayuda económica: lo que da la ley de dependencia. Guía en la biografía.
+
+#dependencia #cuidados #mayores #familia`,
+  },
+  {
+    id: 'grado-discapacidad-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Errores que cuestan dinero', fuente: '/dependencia/grado-discapacidad/',
+    diapositivas: [
+      'Grado de discapacidad: lo que cambia con un 33 % y con un 65 %.',
+      'Lo reconoce tu comunidad tras una valoración, y vale desde el día en que lo pides.',
+      '33 %: se te considera persona con discapacidad, en toda España.',
+      'IRPF: con un 33 %, tu mínimo sube 3.000 € al año.',
+      '65 %: el mínimo sube 9.000 €, más otros 3.000 por gastos de asistencia.',
+      'Con un 65 % puedes tener derecho a la pensión no contributiva de invalidez.',
+      'La comunidad tiene seis meses para resolver. Dependencia y discapacidad son trámites distintos.',
+      'Guárdalo y pídelo si te corresponde. La guía, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Con un 33 % de discapacidad pagas menos IRPF, y con un 65 %, bastante menos. Cómo se pide, en la guía de la biografía.
+
+#discapacidad #irpf #mayores #ayudas`,
+  },
+  {
+    id: 'grado-discapacidad-li', red: 'linkedin', pilar: 'Profesionales', fuente: '/dependencia/grado-discapacidad/',
+    texto: `Para asesorías fiscales con clientes mayores: un grado de discapacidad reconocido cambia la declaración de la renta, y muchas personas mayores con problemas de movilidad, de vista o de corazón nunca lo han pedido.
+
+Con un grado del 33 % se aplica un mínimo por discapacidad de 3.000 euros; con el 65 %, de 9.000 euros, más 3.000 por gastos de asistencia. El grado lo reconoce la comunidad autónoma, que tiene seis meses para resolver, y produce efectos desde la fecha de la solicitud y en toda España (Real Decreto 888/2022).
+
+Merece la pena preguntarlo en la entrevista de cada campaña. Guía para los clientes en el primer comentario.`,
+    comentario: `Grado de discapacidad del 33 y del 65 %: ${L('grado-discapacidad', 'in')}`,
+  },
 ];

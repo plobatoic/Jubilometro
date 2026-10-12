@@ -4,6 +4,8 @@
 //
 // Uso:  NODE_PATH=$(npm root -g) node herramientas/redes/kit/kit.mjs [mes-1.mjs] [--solo=perfil,portadas,carruseles,cifras]
 //       Las imágenes van a publicacion/redes/kit/ y la hoja de muestra a publicacion/redes/kit/index.html.
+//       Con --banco hace las del banco de publicaciones (herramientas/redes/banco): los carruseles de Instagram
+//       en publicacion/redes/banco/carruseles/<id>/ y las imágenes con la cifra en publicacion/redes/banco/cifras/<id>.png.
 // Los carruseles con corchetes por rellenar ([X,X], [___]) no se generan: se hacen el día del dato.
 import { createRequire } from 'node:module';
 import { mkdirSync, readFileSync, rmSync, writeFileSync, existsSync } from 'node:fs';
@@ -18,10 +20,17 @@ const { chromium } = require('playwright');
 const args = process.argv.slice(2);
 const MES = join(RAIZ, args.find((a) => !a.startsWith('--')) || 'herramientas/redes/mes-1.mjs');
 const SOLO = (args.find((a) => a.startsWith('--solo=')) || '').slice(7).split(',').filter(Boolean);
-const quiero = (k) => !SOLO.length || SOLO.includes(k);
-const SALIDA = join(RAIZ, 'publicacion', 'redes', 'kit');
+const DEL_BANCO = args.includes('--banco');
+// Del banco solo salen carruseles e imágenes con la cifra: el perfil y las portadas son del kit
+const quiero = (k) => (!DEL_BANCO || ['carruseles', 'cifras'].includes(k)) && (!SOLO.length || SOLO.includes(k));
+const SALIDA = join(RAIZ, 'publicacion', 'redes', DEL_BANCO ? 'banco' : 'kit');
 const NAVEGADOR = process.env.CHROMIUM || '/opt/pw-browsers/chromium-1194/chrome-linux/chrome';
-const { PUBLICACIONES } = await import(pathToFileURL(MES).href);
+const { PUBLICACIONES } = DEL_BANCO ? { PUBLICACIONES: (await import('../banco/index.mjs')).BANCO } : await import(pathToFileURL(MES).href);
+const LISTA_CIFRAS = DEL_BANCO
+  ? PUBLICACIONES.filter((p) => p.cifra).map((p) => ({ archivo: p.id, nombre: `${p.id} (${p.red})`, ante: 'La cifra', ...p.cifra }))
+  : CIFRAS;
+// Fecha en que se comprobaron las cifras (pie de la última diapositiva)
+const COMPROBADAS = DEL_BANCO ? 'Datos comprobados el 12 de octubre de 2026' : 'Cifras de 2026, comprobadas el 9 de octubre de 2026';
 
 /* ---------- Marca ---------- */
 const FUENTES = join(RAIZ, 'tema', 'jubilometro', 'assets', 'fonts');
@@ -66,7 +75,7 @@ const NB = ' ';
 const nb = (s) => s.replace(/(\d) (%|€|euros\b|años\b|meses\b|días\b|hijos\b)/g, `$1${NB}$2`);
 // Cifras con unidad, también en horquilla («709,40 y 1.256,60 €», «38 años y 6 meses») y fechas («el 22 y el 26 de noviembre»)
 const MESES = 'enero|febrero|marzo|abril|mayo|junio|julio|agosto|septiembre|octubre|noviembre|diciembre';
-const CIFRA = new RegExp(String.raw`(\d[\d.,]*(?: (?:y|a) \d[\d.,]*)?[  ]?(?:%|€|euros\b|años(?: y \d+[  ]meses)?(?![\wáéíóúñ])|meses\b|días\b|pagas\b|plazas\b|hijos\b)|\d{1,2}(?: y el \d{1,2})? de (?:${MESES})\b)`, 'gu');
+const CIFRA = new RegExp(String.raw`(\d[\d.,]*(?: (?:y|a) \d[\d.,]*)?[  ]?(?:%|€|euros\b|años(?: y \d+[  ]meses)?(?![\wáéíóúñ])|meses\b|días\b|pagas\b|plazas\b|hijos\b)|(?<![\d.,])\d{1,2}(?: y el \d{1,2})? de (?:${MESES})\b)`, 'gu');
 const resalta = (s) => esc(nb(s)).replace(CIFRA, '<em>$1</em>');
 
 /* ---------- Página base ---------- */
@@ -280,7 +289,7 @@ function diapositiva(p, i, total, slug) {
     const h1 = m ? `${resalta(m[1].replace(/:$/, ''))}<span class="dos">${resalta(mayus(m[2]))}</span>` : resalta(texto);
     return { clase: 's-portada', cuerpo: fondoSvg(1080, 1350, roseta(860, 1100, 250, { opacidad: 0.2 }) + roseta(860, 1100, 135, { opacidad: 0.14, color: C.sky })) + cab(true)
       + `<div class="zona" data-box><p class="ante">${esc(p.pilar)}</p><h1 data-fit="104" data-min="64">${h1}</h1></div>`
-      + `<div class="pie"><span class="desliza">Desliza ${ICONO.desliza}</span><span>Cifras de 2026</span></div>` };
+      + `<div class="pie"><span class="desliza">Desliza ${ICONO.desliza}</span><span>${DEL_BANCO ? 'Datos de octubre de 2026' : 'Cifras de 2026'}</span></div>` };
   }
   if (i === total - 1) {
     // «Guárdalo y envíaselo… Calcula la viudedad en Jubilómetro (enlace en la biografía).»
@@ -292,7 +301,7 @@ function diapositiva(p, i, total, slug) {
     if (conEnlace) sub = sub ? sub.replace(/\.$/, ': el enlace está en la biografía.') : 'El enlace está en la biografía.';
     return { clase: 's-cierre', cuerpo: fondoSvg(1080, 1350, roseta(980, 260, 300, { color: '#fff', opacidad: 0.12 }) + ondas(1080, 1160, { color: '#fff', opacidad: 0.12 })) + cab(false)
       + `<div class="zona" data-box style="bottom:200px"><div class="iconos"><span>${ICONO.guardar}</span><span>${ICONO.enviar}</span></div><h2 data-fit="88" data-min="56">${esc(nb(h2.trim()))}</h2>${sub ? `<p class="sub">${esc(nb(sub))}</p>` : ''}</div>`
-      + `<div class="pie"><span>@jubilometro</span><span>jubilometro.com</span></div><p class="fecha">Cifras de 2026, comprobadas el 9 de octubre de 2026</p>` };
+      + `<div class="pie"><span>@jubilometro</span><span>jubilometro.com</span></div><p class="fecha">${COMPROBADAS}</p>` };
   }
   const d = leer(texto);
   const barras = `<span class="barras">${Array.from({ length: total }, (_, k) => `<i${k === i ? ' class="on"' : ''}></i>`).join('')}</span>`;
@@ -303,7 +312,7 @@ function diapositiva(p, i, total, slug) {
   return { clase: 's-dato', cuerpo: `<i class="regla"></i>${cab(false)}<div class="zona" data-box>${medio}</div><div class="pie">${barras}<span>jubilometro.com</span></div>` };
 }
 
-const slugDe = (p) => `${p.fecha}-${(p.fuente || '').split('/').filter(Boolean).pop() || 'carrusel'}`;
+const slugDe = (p) => (DEL_BANCO ? p.id : `${p.fecha}-${(p.fuente || '').split('/').filter(Boolean).pop() || 'carrusel'}`);
 const pendientes = [];
 if (quiero('carruseles')) {
   for (const p of PUBLICACIONES.filter((x) => x.red === 'instagram' && x.diapositivas)) {
@@ -311,7 +320,7 @@ if (quiero('carruseles')) {
     if (p.diapositivas.some((d) => /\[[^\]]*\]/.test(d))) { pendientes.push({ slug, p }); continue; }
     p.diapositivas.forEach((_, i) => {
       const d = diapositiva(p, i, p.diapositivas.length, slug);
-      pieza({ grupo: `Carrusel · ${p.fecha}`, carrusel: slug, titulo: `${i + 1}`, archivo: `carruseles/${slug}/${String(i + 1).padStart(2, '0')}.png`, w: 1080, h: 1350,
+      pieza({ grupo: `Carrusel · ${DEL_BANCO ? p.id : p.fecha}`, carrusel: slug, titulo: `${i + 1}`, archivo: `carruseles/${slug}/${String(i + 1).padStart(2, '0')}.png`, w: 1080, h: 1350,
         html: pagina(1080, 1350, CARRUSEL_CSS, d.cuerpo, d.clase) });
     });
   }
@@ -340,7 +349,7 @@ const CIFRA_CSS = `
   .fuente b { color: #fff; font-weight: 700; }
   .web { font: 700 30px/1 "Public Sans", Arial, sans-serif; color: ${C.sky}; white-space: nowrap; }`;
 if (quiero('cifras')) {
-  for (const c of CIFRAS) {
+  for (const c of LISTA_CIFRAS) {
     let medio = '';
     if (c.grande) medio = `${c.antes ? `<p class="antes">${resalta(c.antes)}</p>` : ''}<p class="grande" data-fit="250" data-min="130">${esc(nb(c.grande))}</p>${c.despues ? `<p class="despues">${resalta(c.despues)}</p>` : ''}`;
     if (c.titulo) medio = `<p class="titulo" data-fit="92" data-min="60">${resalta(c.titulo)}</p>${c.despues ? `<p class="despues">${resalta(c.despues)}</p>` : ''}`;
@@ -391,11 +400,11 @@ if (!SOLO.length) {
   const notaCarrusel = Object.fromEntries(PUBLICACIONES.filter((x) => x.diapositivas).map((x) => [slugDe(x), x]));
   const secciones = Object.entries(porGrupo).map(([g, ps]) => {
     const pub = ps[0].carrusel ? notaCarrusel[ps[0].carrusel] : null;
-    return `<section><h2>${esc(g)}</h2>${pub ? `<p class="nota">${esc(pub.pilar)} · ${esc(pub.fuente)} · texto del pie en el calendario del mes</p>` : ''}
+    return `<section><h2>${esc(g)}</h2>${pub ? `<p class="nota">${esc(pub.pilar)} · ${esc(pub.fuente)} · texto del pie en el calendario${DEL_BANCO ? '' : ' del mes'}</p>` : ''}
       <div class="rejilla${ps[0].w / ps[0].h > 1.5 ? ' ancha' : ''}">${ps.map((p) => `<figure><a href="${p.archivo}" download><img src="${p.archivo}" alt="${esc(p.titulo)}" loading="lazy" width="${p.w}" height="${p.h}"></a><figcaption><b>${esc(p.titulo)}</b> · ${p.w} × ${p.h}${p.nota ? `<br>${esc(p.nota)}` : ''}</figcaption></figure>`).join('')}</div></section>`;
   }).join('\n');
   const pend = pendientes.map(({ p }) => `<li><b>${esc(p.fecha)}</b> · ${esc(p.diapositivas[0])} Se preparan ese mismo día, con la cifra oficial.</li>`).join('');
-  writeFileSync(join(SALIDA, 'index.html'), `<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Kit de redes</title>
+  writeFileSync(join(SALIDA, 'index.html'), `<!doctype html><html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${DEL_BANCO ? 'Imágenes del banco' : 'Kit de redes'}</title>
 <style>
 :root{--ink:#0F1B2D;--blue:#1D4ED8;--muted:#4A5568;--line:#D8E0EA;--bg:#F4F7FB}
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif}
@@ -406,7 +415,7 @@ figure{margin:0;background:#fff;border:1px solid var(--line);border-radius:8px;o
 figcaption{padding:8px 10px;font-size:.85rem;color:var(--muted)}figcaption b{color:var(--ink)}a{color:var(--blue)}
 ul{padding-left:1.2rem}
 @media print{body{background:#fff}header,section{padding:8px 0;break-inside:avoid}h2{break-after:avoid}.rejilla,.rejilla.ancha{display:block}figure{display:inline-block;vertical-align:top;width:23%;margin:0 1% 12px;break-inside:avoid}.ancha figure{width:47%}}
-</style></head><body><header><h1>Kit de redes de Jubilómetro</h1><p>Toca una imagen para descargarla. Textos de las biografías: <a href="biografias.md">biografias.md</a>.</p>
+</style></head><body><header><h1>${DEL_BANCO ? 'Imágenes del banco de publicaciones' : 'Kit de redes de Jubilómetro'}</h1><p>Toca una imagen para descargarla.${DEL_BANCO ? ' Cada carrusel lleva el nombre (id) de su publicación en el calendario.' : ' Textos de las biografías: <a href="biografias.md">biografias.md</a>.'}</p>
 ${pend ? `<p><b>Se hacen el día del dato:</b></p><ul>${pend}</ul>` : ''}</header>${secciones}</body></html>`);
 }
 

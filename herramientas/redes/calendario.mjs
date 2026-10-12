@@ -4,6 +4,7 @@
 // y comprueba antes que los enlaces cortos existen, que nada de X pasa de 280 caracteres y que no hay rayas largas.
 //
 // Uso: node herramientas/redes/calendario.mjs herramientas/redes/mes-1.mjs primer-mes
+// (el programador, programar.mjs, lo llama con su programa.mjs: allí cada publicación trae ya su imagen y su carpeta)
 import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
 import { join, resolve } from 'node:path';
 import { pathToFileURL } from 'node:url';
@@ -73,7 +74,7 @@ const imagenLista = (p) => CIFRAS.find((c) => c.archivo.startsWith(p.fecha))?.ar
 const tarjeta = (p) => {
   const red = REDES[p.red];
   const hora = p.hora ?? MES.horas[p.red];
-  const id = `${p.fecha}-${p.red}-${orden.indexOf(p.red)}-${(p.titulo ?? p.texto ?? p.partes?.[0] ?? '').slice(0, 12).replace(/\W+/g, '')}`;
+  const id = p.id ? `${p.fecha}-${p.id}` : `${p.fecha}-${p.red}-${orden.indexOf(p.red)}-${(p.titulo ?? p.texto ?? p.partes?.[0] ?? '').slice(0, 12).replace(/\W+/g, '')}`;
   let cuerpo = '';
   if (p.partes) cuerpo += p.partes.map((t, i) => bloqueTexto(t, `Copiar ${i + 1}/${p.partes.length}`)).join('');
   if (p.diapositivas) cuerpo += `<ol class="slides">${p.diapositivas.map((d) => `<li>${conHuecos(d)}</li>`).join('')}</ol>`;
@@ -82,9 +83,10 @@ const tarjeta = (p) => {
   if (p.comentario) cuerpo += `<p class="lbl">Primer comentario</p>${bloqueTexto(p.comentario, 'Copiar comentario')}`;
   const extra = [
     p.archivo ? `<p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/${esc(p.archivo)}</code></p>` : '',
-    p.imagen ? `<p class="file"><b>Imagen:</b> ${esc(p.imagen)}${imagenLista(p) ? ` Lista: <code>publicacion/redes/kit/cifras/${esc(imagenLista(p))}.png</code>` : ''}</p>` : '',
-    p.diapositivas ? `<p class="file"><b>Diapositivas:</b> ${p.diapositivas.some((d) => /\[[^\]]*\]/.test(d)) ? 'se hacen el día del dato, con las cifras ya puestas' : `listas en <code>publicacion/redes/kit/carruseles/${esc(`${p.fecha}-${(p.fuente || '').split('/').filter(Boolean).pop() || 'carrusel'}`)}/</code>`}</p>` : '',
-    p.fuente ? `<p class="src">Cifras de <a href="https://jubilometro.com${esc(p.fuente)}" target="_blank" rel="noopener">jubilometro.com${esc(p.fuente)}</a></p>` : '',
+    p.imagenLista ? `<p class="file"><b>Imagen lista:</b> <code>${esc(p.imagenLista)}</code></p>`
+      : p.imagen ? `<p class="file"><b>Imagen:</b> ${esc(p.imagen)}${imagenLista(p) ? ` Lista: <code>publicacion/redes/kit/cifras/${esc(imagenLista(p))}.png</code>` : ''}</p>` : '',
+    p.diapositivas ? `<p class="file"><b>Diapositivas:</b> ${p.diapositivas.some((d) => /\[[^\]]*\]/.test(d)) ? 'se hacen el día del dato, con las cifras ya puestas' : `listas en <code>${esc(p.carrusel ?? `publicacion/redes/kit/carruseles/${p.fecha}-${(p.fuente || '').split('/').filter(Boolean).pop() || 'carrusel'}/`)}</code>`}</p>` : '',
+    p.fuente && p.fuente !== '/' ? `<p class="src">Cifras de <a href="https://jubilometro.com${esc(p.fuente)}" target="_blank" rel="noopener">jubilometro.com${esc(p.fuente)}</a></p>` : '',
   ].join('');
   return `<article class="post" data-red="${p.red}" data-id="${esc(id)}">
   <header><span class="chip chip--${p.red}">${esc(red.nombre)}</span><span class="when">${esc(hora)}</span>${p.tipo ? `<span class="kind">${esc(p.tipo)}</span>` : ''}<span class="pilar">${esc(p.pilar ?? '')}</span>
@@ -185,11 +187,11 @@ td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; color:
   <p class="lead">Del ${diaTxt(MES.desde)} al ${diaTxt(MES.hasta)}: ${PUBLICACIONES.length} publicaciones listas, con las cifras de las guías de Jubilómetro y un enlace corto que dice de qué red llega cada visita.</p>
   <ul class="counts">${orden.map((r) => `<li><b>${cuenta[r]}</b> ${esc(REDES[r].nombre)}</li>`).join('')}</ul>
   <div class="how">
-    <p><b>Cifras:</b> las de las guías a 9 de octubre de 2026. Lo que va entre <mark>[corchetes]</mark> se rellena el día del dato del INE (14 y 30 de octubre).</p>
+    ${MES.notas ? MES.notas.map(([titulo, html]) => `<p><b>${esc(titulo)}:</b> ${html}</p>`).join('\n    ') : `<p><b>Cifras:</b> las de las guías a 9 de octubre de 2026. Lo que va entre <mark>[corchetes]</mark> se rellena el día del dato del INE (14 y 30 de octubre).</p>
     <p><b>Enlaces:</b> cada red lleva su final: <code>jubilometro.com/edad/x</code> en X, <code>/wa</code> en WhatsApp, <code>/in</code> en LinkedIn y <code>/yt</code> en YouTube. En el panel <i>Escritorio › Estadísticas</i> de WordPress verás qué publicación trae visitas.</p>
     <p><b>Facebook:</b> sin enlaces en las publicaciones, porque Meta limita a dos al mes las de las páginas sin verificar. El enlace a la web va en la información de la página.</p>
-    <p><b>Instagram y vídeos:</b> «enlace en la biografía»; en los vídeos, la dirección corta sale escrita en pantalla. Los cuatro primeros vídeos ya están hechos; los demás llevan el guion.</p>
-    <p><b>Metricool:</b> las publicaciones de X, Facebook y LinkedIn están en <code>publicacion/redes/${esc(carpeta)}/metricool.csv</code> como borrador. Prueba antes con dos filas.</p>
+    <p><b>Instagram y vídeos:</b> «enlace en la biografía»; en los vídeos, la dirección corta sale escrita en pantalla. Los vídeos están hechos, en <code>publicacion/redes/videos</code>; el guion de cada uno va en su tarjeta.</p>
+    <p><b>Metricool:</b> las publicaciones de X, Facebook y LinkedIn están en <code>publicacion/redes/${esc(carpeta)}/metricool.csv</code> como borrador. Prueba antes con dos filas.</p>`}
   </div>
   <div class="bar" role="toolbar" aria-label="Filtrar por red">
     <button type="button" data-f="" aria-pressed="true">Todas</button>

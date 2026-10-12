@@ -292,4 +292,69 @@ ${L('vivir-fuera', 'x')}`,
 
 ${L('vivir-fuera', 'wa')}`,
   },
+  /* ---------- Carruseles de refuerzo ---------- */
+  {
+    id: 'pnc-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'La cifra que te toca', fuente: '/ayudas/pension-no-contributiva/',
+    diapositivas: [
+      'Pensión no contributiva: para quien no llegó a cotizar lo suficiente.',
+      'Jubilación: desde los 65 años, sin pensión contributiva y con ingresos bajos.',
+      '628,80 €: al mes en 2026 como máximo, en 14 pagas.',
+      'Residencia: 10 años en España desde los 16, dos de ellos justo antes de pedirla.',
+      'Ingresos propios por debajo de 8.803,20 € al año. Si vives con familia, cuentan también los suyos.',
+      'Siete comunidades la complementan, y en cuatro llega sin pedirlo.',
+      'Si vives de alquiler, puedes pedir además 525 € al año de complemento.',
+      'Envíaselo a quien le pueda servir. Requisitos, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Pensión no contributiva de jubilación en 2026: cuantía, requisitos y complementos. Guía en la biografía.
+
+#pensiones #pensionnocontributiva #mayores #ayudas`,
+  },
+  {
+    id: 'renta-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Errores que cuestan dinero', fuente: '/dinero/declaracion-renta-jubilados/',
+    diapositivas: [
+      '¿Tienen que hacer la renta los jubilados? Depende de esto.',
+      'Un solo pagador: no estás obligado hasta 22.000 € brutos al año.',
+      'La jubilación y la viudedad de la Seguridad Social cuentan como un solo pagador.',
+      'Dos pagadores: si el segundo, como un plan de pensiones, pasa de 1.500 € al año, el límite baja a 15.876 €.',
+      'También baja el límite si cobras una pensión del extranjero.',
+      'La incapacidad permanente absoluta y las ayudas de la dependencia no tributan.',
+      'Aunque no estés obligado, si te han retenido de más, presentarla te devuelve ese dinero.',
+      'Guárdalo para la próxima campaña. La guía, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Cuándo tiene que hacer la declaración de la renta un jubilado: los límites y los casos que cambian las cuentas. Guía en la biografía.
+
+#renta #jubilados #pensiones #hacienda`,
+  },
+  {
+    id: 'herencias-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Errores que cuestan dinero', fuente: '/dinero/herencias-donaciones/',
+    diapositivas: [
+      '¿Donar en vida o dejar en herencia? Lo que cambia en impuestos.',
+      'Las dos pagan el Impuesto sobre Sucesiones y Donaciones, y lo paga quien recibe.',
+      'Entre padres, hijos y cónyuges, en muchas comunidades se paga muy poco.',
+      'Madrid, Andalucía, Castilla y León o la Comunitat Valenciana bonifican el 99 %.',
+      'La diferencia: si donas en vida un piso que ha ganado valor, tú pagas IRPF por esa ganancia.',
+      'Si lo dejas en herencia, esa ganancia no tributa.',
+      'En los dos casos, si es un inmueble urbano, se paga la plusvalía municipal.',
+      'Guárdalo y háblalo en familia. La guía, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Donar un piso a los hijos en vida puede salir más caro que dejarlo en herencia. Por qué, en la guía de la biografía.
+
+#herencia #impuestos #familia #jubilacion`,
+  },
+  {
+    id: 'transporte-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Errores que cuestan dinero', fuente: '/ayudas/descuentos-transporte/',
+    diapositivas: [
+      'Viajar más barato después de los 60: descuentos que conviene conocer.',
+      'Tarjeta Dorada de Renfe: 6 € al año desde los 60.',
+      '40 %: en Cercanías y Media Distancia con la Tarjeta Dorada. En el AVE, un 25 %.',
+      'Comunidad de Madrid: el Abono +65 es gratis en todo el transporte público.',
+      'Área de Barcelona: la Targeta Rosa, gratis o reducida desde los 60 con ingresos bajos.',
+      'Galicia: autobús interurbano gratis desde los 65 con la Tarjeta de Movilidad.',
+      'Andalucía: 50 % en el autobús interurbano con la Tarjeta Andalucía Junta 65.',
+      'Compártelo con quien viaje contigo. Todos los descuentos, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Tarjeta Dorada, abonos gratis y descuentos de autobús para mayores, comunidad a comunidad. Guía en la biografía.
+
+#mayores #transporte #descuentos #jubilados`,
+  },
 ];

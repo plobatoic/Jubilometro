@@ -228,6 +228,16 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Banco de publicaciones para la aprobación (tema 2.11.3, 12/10/2026)
+
+- **Banco sin fechas** (`herramientas/redes/banco/`): 294 publicaciones sacadas de las guías y calculadoras, para X (123), Facebook (65), Instagram (30 carruseles), canal de WhatsApp (23), LinkedIn (16), grupo (13 preguntas de la semana y normas) y vídeo (24). Una por tema: jubilación, cuánto cobraré, viudedad, incapacidad, ayudas y dinero, dependencia (una por comunidad, con sus días reales de espera), Imserso, calculadoras, lanzamiento y vídeos. `node herramientas/redes/banco/index.mjs` lo comprueba todo: enlaces cortos que existen y con el final de su red, 280 caracteres en X, sin rayas largas ni «No es X, es Y», sin enlaces en Facebook, Instagram ni en el texto de LinkedIn, y vídeos hechos.
+- **Primer mes reutilizable**: cada publicación de `mes-1.mjs` lleva `banco: 'perenne'` (con `hasta` si caduca) o `'fijo'` (solo vale en su fecha). La presentación de Facebook y la primera pregunta del grupo son de lanzamiento.
+- **Programador** (`herramientas/redes/programar.mjs --inicio=AAAA-MM-DD [--semanas=12]`): reparte el banco y el primer mes desde el día de la aprobación con el ritmo de cada red, primero lo que caduca, rotando de tema y sin repetir guía en tres días; hasta fin de año van antes las publicaciones con importes de 2026 y avisa de las que salen desde enero con cifras de 2026. Deja en `publicacion/redes/programado/` el programa, el calendario y el CSV de Metricool (con `calendario.mjs`, que ahora acepta notas, imágenes y carpetas por publicación).
+- **Imágenes del banco**: `kit.mjs --banco` hace los 30 carruseles (`publicacion/redes/banco/carruseles/<id>/`) y las 11 imágenes con la cifra (`cifras/<id>.png`), con `index.html` para verlas. Los números grandes ya no se confunden con fechas al resaltarlos («879.213 de octubre»).
+- **Vídeos 5 a 36** (`videos.mjs`): los 8 guiones del primer mes, ya hechos, y 24 nuevos (SOVI, auxilio por defunción, baja, jubilarse antes, mínimos, dependencia, viudedad, incapacidad, jubilación activa y flexible, vida laboral, el 017, vender la casa, herencias, teleasistencia, trabajar fuera, discapacidad, ayuda a domicilio). Del 21 en adelante no llevan importes que cambien en enero.
+- **Enlaces cortos**: 99 nuevos (154 en total), todos comprobados en vivo con su red al final.
+- Instrucciones para el día de la aprobación: `publicacion/redes/banco/LEEME.md`.
+
 ### Revisión técnica, kit de redes y portada (temas 2.10.7 y 2.11.0, 12/10/2026)
 
 - **Rastreo de la web en vivo**: 164 URL del sitemap, 470 direcciones propias, ninguna rota; SEO y datos estructurados sin fallos; ninguna página huérfana. Navegador (24 páginas, 1440 y 390 px): axe sin fallos, sin errores de JavaScript ni desbordes. Calculadoras (e2e): todas bien.

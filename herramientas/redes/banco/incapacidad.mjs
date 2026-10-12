@@ -223,4 +223,20 @@ ${L('incapacidad-jubilacion', 'x')}`,
 
 ${L('calcula-incapacidad', 'x')}`,
   },
+  {
+    id: 'incapacidad-trabajo-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/incapacidad/incapacidad-y-trabajo/',
+    diapositivas: [
+      '¿Se puede trabajar con una incapacidad permanente? Grado a grado.',
+      'Parcial: sigues en tu trabajo, y la indemnización es compatible con todo.',
+      'Total: puedes trabajar en otras funciones y cobrar la pensión a la vez.',
+      'Total cualificada: el 20 % extra se deja de cobrar mientras trabajas.',
+      'Absoluta y gran incapacidad: si el trabajo exige alta, se suspende la pensión mientras dure.',
+      'Solo son compatibles las actividades esporádicas que no exigen darse de alta.',
+      'En todos los grados, avisa al INSS antes de empezar a trabajar.',
+      'Guárdalo por si lo necesitas. La guía completa, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Trabajar cobrando una incapacidad permanente: qué se puede en cada grado desde los cambios de 2024 y 2025. Guía en la biografía.
+
+#incapacidadpermanente #trabajo #pensiones #inss`,
+  },
 ];

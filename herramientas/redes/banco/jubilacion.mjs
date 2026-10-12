@@ -173,7 +173,7 @@ Si adelantas tu jubilación 2 años, cobras antes, pero con un recorte para toda
 
 Aun así, puede compensar si no vas a tener otros ingresos hasta tu edad ordinaria, si tu salud lo aconseja o si necesitas el dinero ahora. Y casi nunca compensa si te faltan pocos meses para llegar a 38 años y 6 meses cotizados, porque con ellos te jubilas a los 65 sin recorte.
 
-¿Lo estás pensando? ${FB_WEB}`,
+${FB_WEB}`,
   },
   {
     id: 'compensa-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/jubilacion/compensa-jubilarse-antes/',
@@ -408,5 +408,65 @@ Después, el subsidio para mayores de 52 años: 480 euros al mes en 2026, hasta 
 Por último, la jubilación: la ordinaria o, si te interesa, la anticipada involuntaria, que en 2027 se puede pedir desde los 61 o los 63 años, con recorte.
 
 Lo que más conviene depende de tus años cotizados, de tu base de cotización y de si puedes volver a trabajar. ${FB_WEB}`,
+  },
+  /* ---------- Carruseles y LinkedIn de refuerzo ---------- */
+  {
+    id: 'anticipada-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/jubilacion/anticipada-voluntaria/',
+    diapositivas: [
+      'Jubilarse antes: por decisión propia o tras un despido.',
+      'Voluntaria: hasta 2 años antes de tu edad ordinaria, con 35 años cotizados.',
+      'En 2027, desde los 65 años, o desde los 63 si llegas a 38 años y 6 meses cotizados.',
+      'Recorte: del 2,81 % al 21 % de la pensión, para siempre, según los meses que adelantes.',
+      'Involuntaria: hasta 4 años antes, tras un despido colectivo u objetivo.',
+      'Pide 33 años cotizados y 6 meses inscrito como demandante de empleo.',
+      'En 2027, desde los 63 años, o desde los 61 con 38 años y 6 meses cotizados. El recorte puede llegar al 30 %.',
+      'Guárdalo antes de decidir. Calcula tu recorte en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Voluntaria o tras un despido: edades, años cotizados y recortes de la jubilación anticipada en 2027. Calculadora en la biografía.
+
+#jubilacion #jubilacionanticipada #pensiones #seguridadsocial`,
+  },
+  {
+    id: 'demorada-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/jubilacion/demorada/',
+    diapositivas: [
+      'Jubilarte más tarde: lo que ganas por cada año que esperas.',
+      '4 %: más de pensión por cada año completo de retraso, para toda la vida.',
+      'Desde el segundo año: también cuentan los semestres, un 2 % por cada 6 meses.',
+      'Pago único: entre unos 4.800 y 13.500 € por año de retraso, según tu pensión.',
+      'Mixta: una parte en porcentaje y otra en pago único, desde 2 años de retraso.',
+      'Mientras esperas, puedes trabajar y cobrar parte de la pensión con la jubilación activa.',
+      'Si eliges el pago único o la mixta, después no podrás acogerte a la jubilación flexible.',
+      'Guárdalo y calcula tu caso en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Un 4 % más de pensión por año, un pago único o una mezcla: qué ganas si te jubilas más tarde. Calculadora en la biografía.
+
+#jubilacion #jubilaciondemorada #pensiones #seguridadsocial`,
+  },
+  {
+    id: 'faltan-anos-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Errores que cuestan dinero', fuente: '/jubilacion/faltan-anos-cotizados/',
+    diapositivas: [
+      '¿Te faltan años cotizados? Cuatro vías legales para llegar.',
+      'Las metas: 15 años para tener pensión, 37 para el 100 % y 38 años y 6 meses para jubilarte a los 65.',
+      'Seguir trabajando, aunque sea a tiempo parcial: todo mes cotizado suma.',
+      'Convenio especial: cotizas tú, unos 392 € al mes en 2026 por la base mínima.',
+      'Prácticas y becas antiguas: se recuperan hasta 5 años, con plazo hasta el 31 de diciembre de 2028.',
+      'Tu vida laboral: busca periodos que falten, días por parto o años cotizados en otros países.',
+      'Si no llegas a 15 años, la alternativa es la pensión no contributiva.',
+      'Guárdalo y compártelo. Las cuatro vías, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Seguir trabajando, el convenio especial, las prácticas antiguas y tu vida laboral: cómo completar los años que te faltan. Guía en la biografía.
+
+#jubilacion #pensiones #cotizacion #seguridadsocial`,
+  },
+  {
+    id: 'involuntaria-li', red: 'linkedin', pilar: 'Profesionales', fuente: '/jubilacion/anticipada-involuntaria/',
+    texto: `Para recursos humanos y despachos que gestionan despidos colectivos u objetivos: la jubilación anticipada involuntaria sigue siendo una salida habitual para la plantilla de más edad, y sus condiciones conviene explicarlas antes del despido.
+
+Permite adelantar hasta cuatro años la edad ordinaria si el contrato se extingue por una de las causas del artículo 207 de la Ley General de la Seguridad Social, como el despido colectivo o el objetivo por causas económicas, técnicas, organizativas o de producción. Exige 33 años cotizados y seis meses inscrito como demandante de empleo justo antes de la solicitud, y en esos despidos hay que acreditar el cobro de la indemnización o su reclamación judicial.
+
+En 2027 la edad mínima es 63 años, o 61 con 38 años y 6 meses cotizados. Los coeficientes reductores son mensuales y para toda la vida: con cuatro años de adelanto y menos de 38 años y 6 meses cotizados, el recorte es del 30 %.
+
+Ejemplos en el enlace del primer comentario.`,
+    comentario: `Jubilación anticipada involuntaria: ${L('involuntaria', 'in')}`,
   },
 ];

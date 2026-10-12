@@ -39,7 +39,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 1. Abrir las redes con la ruta de arriba.
 2. Volver a conectar Hostinger en claude.ai → Ajustes → Conectores si se desconecta (la web se actualiza por WordPress, no corre prisa).
 3. Añadir los conectores: Metricool (el más importante), Canva, MailerLite (o Brevo) y Ubersuggest (o Semrush).
-4. Empezar a publicar con el calendario del primer mes; en Metricool, probar antes el CSV con dos filas; a los vídeos, añadir música de la biblioteca de la app al subirlos.
+4. Cuando aprueben la web, decirme la fecha: con ella genero el calendario de 12 semanas del banco de publicaciones (`publicacion/redes/banco/LEEME.md`). En Metricool, probar antes el CSV con dos filas; a los vídeos, añadir música de la biblioteca de la app al subirlos.
 5. Avisar los días del IPC (14 y 30 de octubre) para actualizar la guía, la calculadora, el vídeo y los corchetes de las publicaciones.
 6. Search Console: pedir la indexación de las guías nuevas o cambiadas. Para que pueda leer los datos de Google: llave de solo lectura en la configuración del entorno con el nombre `GOOGLE_SERVICE_ACCOUNT_JSON`.
 7. AdSense: esperar la aprobación de Google.
@@ -54,7 +54,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | 29 de octubre | Pensión media por provincia con la nómina de octubre |
 | 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
 | 1 de noviembre | Plazos de los balnearios del Imserso |
-| Antes del 9 de noviembre | Segundo mes de publicaciones y los 8 vídeos que faltan |
+| El día de la aprobación | Calendario de 12 semanas con el banco (294 publicaciones, 30 carruseles, 36 vídeos), con `programar.mjs` |
 | Antes del 13 de noviembre | Propuestas de cada partido sobre pensiones en la guía de elecciones |
 | 13 de noviembre | IPC definitivo de octubre |
 | 27 de noviembre | IPC adelantado de noviembre: cifra de la subida de 2027 |

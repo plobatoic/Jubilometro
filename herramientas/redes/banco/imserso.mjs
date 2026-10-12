@@ -113,7 +113,7 @@ Y la educación de personas adultas: cursos públicos en los centros de tu comun
     id: 'viajes-imserso-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'La cifra que te toca', fuente: '/imserso/viajes-imserso/', hasta: '2027-05-31',
     diapositivas: [
       'Viajes del Imserso 2026-2027: lo que tienes que saber para reservar.',
-      'Plazas: 879.213 de octubre de 2026 a junio de 2027.',
+      'Plazas: 879.213, para viajar de octubre de 2026 a junio de 2027.',
       'Desde 132,91 €: 4 días en una capital de provincia.',
       'Hasta 564,72 €: 10 días en Canarias en temporada alta.',
       '7.447 plazas a 50 € para quien tiene ingresos bajos.',
@@ -122,6 +122,22 @@ Y la educación de personas adultas: cursos públicos en los centros de tu comun
       'Guárdalo y compártelo con quien viaja contigo. Todo, en Jubilómetro (enlace en la biografía).',
     ],
     texto: `Precios, plazas y cómo reservar los viajes del Imserso de esta temporada. Guía completa en la biografía.
+
+#imserso #viajes #mayores #jubilados`,
+  },
+  {
+    id: 'requisitos-imserso-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/imserso/requisitos-viajes/',
+    diapositivas: [
+      '¿Puedes ir de viaje con el Imserso? Quién puede apuntarse.',
+      'Pensionistas de jubilación: a cualquier edad.',
+      'Pensionistas de viudedad: desde los 55 años.',
+      'Otros pensionistas y quien cobra el paro: desde los 60.',
+      'Cualquier asegurado de la Seguridad Social: desde los 65.',
+      'Tu pareja puede ir contigo aunque no cumpla nada de esto.',
+      'Hay que acreditarse cada año en el plazo del Imserso, normalmente en verano.',
+      'Compártelo con quien viaja contigo. Requisitos y plazos, en Jubilómetro (enlace en la biografía).',
+    ],
+    texto: `Quién puede viajar con el Imserso y cómo se apunta: requisitos por edad y tipo de pensión. Guía en la biografía.
 
 #imserso #viajes #mayores #jubilados`,
   },
