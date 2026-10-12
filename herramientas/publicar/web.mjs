@@ -57,6 +57,8 @@ export const IMAGENES_DESTACADAS = {
   '/jubilacion/anticipada-por-profesion/': { archivo: 'anticipada-por-profesion.webp', alt: 'Equipo de bomberas delante de un camión de bomberos', pie: 'Foto: rawpixel' },
   '/cuanto-cobrare/elecciones-y-pensiones/': { archivo: 'urna-electoral.webp', alt: 'Ilustración antigua de una urna electoral de cristal con armazón de hierro', pie: 'Ilustración: Rose Campbell-Gerke (National Gallery of Art)' },
   '/jubilacion/anticipada-40-anos-cotizados/': { archivo: 'anticipada-40-anos.webp', alt: 'Antiguo reloj de fichar de los años veinte, con esfera de reloj y una rueda de números de trabajador', pie: 'Foto: Open Grid Scheduler (Wikimedia Commons)' },
+  '/jubilacion/pension-sovi/': { archivo: 'pension-sovi.webp', alt: 'Cuadro de 1920: cinco costureras trabajan con máquinas de coser junto a una ventana', pie: 'Ilustración: Alvar Cawén, «Costureras» (1920), Galería Nacional de Finlandia' },
+  '/viudedad/auxilio-por-defuncion/': { archivo: 'auxilio-por-defuncion.webp', alt: 'Cuadro de dos peonías blancas cortadas sobre una mesa, junto a unas tijeras de podar', pie: 'Ilustración: Édouard Manet, «Rama de peonías blancas y tijeras» (1864)' },
   '/jubilacion/funcionarios/': { archivo: 'jubilacion-funcionarios.webp', alt: 'Teclas de una máquina de escribir antigua sobre una mesa de madera', pie: 'Foto: rawpixel' },
   '/jubilacion/cita-previa-seguridad-social/': { archivo: 'cita-previa-seguridad-social.webp', alt: 'Teléfono antiguo de disco, negro y dorado, sobre una mesa de madera', pie: 'Foto: rawpixel' },
   '/jubilacion/policia-local/': { archivo: 'jubilacion-policia-local.webp', alt: 'Coches de policía con las luces azules encendidas en una calle', pie: 'Foto: rawpixel' },

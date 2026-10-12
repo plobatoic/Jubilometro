@@ -108,6 +108,7 @@ No. Para el periodo mínimo no se tiene en cuenta la parte proporcional de las p
 
 - ¿Te faltan años? Lee [me faltan años cotizados para jubilarme](/jubilacion/faltan-anos-cotizados/).
 - ¿No llegas a 15 años? Consulta la [pensión no contributiva](/ayudas/pension-no-contributiva/).
+- ¿Trabajaste antes de 1967? Con 1.800 días cotizados entonces puede corresponderte la [pensión del SOVI](/jubilacion/pension-sovi/).
 - ¿Cuándo te jubilas? Mira la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ---

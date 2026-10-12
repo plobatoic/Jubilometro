@@ -542,5 +542,13 @@
   "/cuanto-cobrare/elecciones-y-pensiones/": {
     "id": 806,
     "estado": "publish"
+  },
+  "/jubilacion/pension-sovi/": {
+    "id": 822,
+    "estado": "publish"
+  },
+  "/viudedad/auxilio-por-defuncion/": {
+    "id": 824,
+    "estado": "publish"
   }
 }

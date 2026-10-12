@@ -64,4 +64,4 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | Final de diciembre | Real decreto de la subida: cifras oficiales en guías y calculadoras |
 | 1 de enero de 2027 | Gran actualización: mínimas, no contributiva, bases, títulos 2026 → 2027 y 67 años; en la portada, quitar «Novedad» de la calculadora de la subida y renovar «Ahora mismo» |
 
-Sin fecha fija: guías de SOVI, auxilio por defunción, baja médica, mayores de 55, número de la Seguridad Social y retornados; dependencia en Navarra; cifras del Imserso y teléfonos cada trimestre; ofrecer las calculadoras a asociaciones, gestorías y sindicatos.
+Sin fecha fija: guías de baja médica, mayores de 55, número de la Seguridad Social y retornados (las del SOVI y el auxilio por defunción ya están publicadas); dependencia en Navarra; cifras del Imserso y teléfonos cada trimestre; ofrecer las calculadoras a asociaciones, gestorías y sindicatos.

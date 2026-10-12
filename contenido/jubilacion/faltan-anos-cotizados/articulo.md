@@ -116,6 +116,7 @@ Todavía puedes cotizar el año que te falta (trabajando o con convenio especial
 - Cómo funciona el [convenio especial](/jubilacion/convenio-especial/).
 - Si solo tienes el mínimo: [jubilación con 15 años cotizados](/jubilacion/15-anos-cotizados/).
 - Si trabajaste fuera: [jubilarse habiendo trabajado en otro país](/jubilacion/trabajado-en-otro-pais/).
+- Si cotizaste antes de 1967: con unos cinco años de entonces puedes tener la [pensión del SOVI](/jubilacion/pension-sovi/).
 
 ---
 

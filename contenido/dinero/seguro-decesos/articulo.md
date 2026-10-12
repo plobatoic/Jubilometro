@@ -97,6 +97,7 @@ Depende de lo que vayas a pagar en primas durante los años que te quedan frente
 ## Siguiente paso
 
 - ¿Qué hacer cuando fallece un familiar? Sigue los pasos de [qué hacer cuando fallece un pensionista](/viudedad/fallecimiento-pensionista/).
+- ¿Pagaste el entierro? Pide el [auxilio por defunción](/viudedad/auxilio-por-defuncion/) de la Seguridad Social.
 - ¿Cuánto ahorro te hace falta? Consulta [cuánto dinero necesitas para jubilarte](/dinero/ahorro-jubilacion/).
 - ¿Cómo tributan tus ahorros? Repasa la [declaración de la renta de los jubilados](/dinero/declaracion-renta-jubilados/).
 

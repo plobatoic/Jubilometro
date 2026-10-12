@@ -102,6 +102,7 @@ Una ayuda de 46,50 euros para los gastos del sepelio, para quien los haya pagado
 - ¿Cumples los requisitos? Repásalos en [requisitos de la pensión de viudedad](/viudedad/requisitos/).
 - ¿Cuánto vas a cobrar? Calcúlalo con la [calculadora de pensión de viudedad](/calculadoras/pension-viudedad/).
 - ¿Qué más hay que hacer tras el fallecimiento? Mira [qué hacer cuando fallece un pensionista](/viudedad/fallecimiento-pensionista/).
+- ¿Quién pagó el entierro? Puede pedir el [auxilio por defunción](/viudedad/auxilio-por-defuncion/), en la misma solicitud que la viudedad.
 
 ---
 

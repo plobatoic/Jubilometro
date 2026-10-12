@@ -12076,6 +12076,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Qué hacer cuando fallece un familiar? Sigue los pasos de <a href="/viudedad/fallecimiento-pensionista/">qué hacer cuando fallece un pensionista</a>.</li>
+<li>¿Pagaste el entierro? Pide el <a href="/viudedad/auxilio-por-defuncion/">auxilio por defunción</a> de la Seguridad Social.</li>
 <li>¿Cuánto ahorro te hace falta? Consulta <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas para jubilarte</a>.</li>
 <li>¿Cómo tributan tus ahorros? Repasa la <a href="/dinero/declaracion-renta-jubilados/">declaración de la renta de los jubilados</a>.</li>
 </ul>
@@ -16258,6 +16259,7 @@
 <ul>
 <li>¿Te faltan años? Lee <a href="/jubilacion/faltan-anos-cotizados/">me faltan años cotizados para jubilarme</a>.</li>
 <li>¿No llegas a 15 años? Consulta la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva</a>.</li>
+<li>¿Trabajaste antes de 1967? Con 1.800 días cotizados entonces puede corresponderte la <a href="/jubilacion/pension-sovi/">pensión del SOVI</a>.</li>
 <li>¿Cuándo te jubilas? Mira la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
 </ul>
 </nav>
@@ -19883,6 +19885,7 @@
 <li>Cómo funciona el <a href="/jubilacion/convenio-especial/">convenio especial</a>.</li>
 <li>Si solo tienes el mínimo: <a href="/jubilacion/15-anos-cotizados/">jubilación con 15 años cotizados</a>.</li>
 <li>Si trabajaste fuera: <a href="/jubilacion/trabajado-en-otro-pais/">jubilarse habiendo trabajado en otro país</a>.</li>
+<li>Si cotizaste antes de 1967: con unos cinco años de entonces puedes tener la <a href="/jubilacion/pension-sovi/">pensión del SOVI</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -20922,6 +20925,169 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Pensión del SOVI: quién puede cobrarla, qué días cuentan y cuánto se paga en 2026]]></title>
+    <link>https://jubilometro.com/jubilacion/pension-sovi/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-10-12">12 de octubre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>El <strong>SOVI</strong> (Seguro Obligatorio de Vejez e Invalidez) es el seguro que existía antes de la Seguridad Social actual. Todavía paga pensiones a quien <strong>cotizó al menos 1.800 días antes del 1 de enero de 1967</strong> (o estuvo afiliado al antiguo Retiro Obrero) y <strong>no tiene derecho a otra pensión</strong> de la Seguridad Social, salvo la de viudedad.</p>
+<p>En 2026 es una cantidad fija de <strong>599,60 euros al mes en 14 pagas</strong> (8.394,40 euros al año). Si se cobra junto a una <strong>pensión de viudedad</strong>, son <strong>582,10 euros al mes</strong>. La de vejez se pide a partir de los <strong>65 años</strong>, y a muchas mujeres les <strong>suman 112 días por cada hijo</strong> nacido antes de 1967 para llegar a los 1.800.</p>
+</aside>
+<h2 id="que-es-el-sovi-y-a-quien-le-sirve-hoy">Qué es el SOVI y a quién le sirve hoy</h2>
+<p>El SOVI funcionó desde 1939 hasta el 31 de diciembre de 1966. El 1 de enero de 1967 lo sustituyó el sistema de Seguridad Social que conocemos, pero la ley mantuvo el derecho de quienes ya habían cotizado lo suficiente: <strong>conservan el derecho a sus pensiones del SOVI</strong> siempre que no tengan derecho a otra pensión del sistema, con la única excepción de la viudedad (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtsegunda" rel="noopener">disposición transitoria segunda de la Ley General de la Seguridad Social</a>).</p>
+<p>Hoy la cobran, sobre todo, <strong>mujeres</strong> que trabajaron unos años en su juventud (en fábricas, talleres, servicio doméstico o comercios) y lo dejaron al casarse o al tener hijos, sin llegar a los 15 años cotizados que pide la jubilación actual. Por eso conviene revisarlo cuando a alguien de la familia le dicen que «no tiene pensión porque le faltan años»: con <strong>cinco años</strong> cotizados antes de 1967 puede bastar.</p>
+<h2 id="requisitos-de-cada-pension-del-sovi">Requisitos de cada pensión del SOVI</h2>
+<p>En todas, la condición común es <strong>no tener derecho a otra pensión</strong> de la Seguridad Social (la viudedad sí se puede cobrar a la vez).</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Requisitos de las pensiones del SOVI</caption>
+<thead>
+<tr>
+<th scope="col">Pensión</th>
+<th scope="col">Edad</th>
+<th scope="col">Cotización</th>
+<th scope="col">Otras condiciones</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Vejez (la jubilación del SOVI)</th>
+<td>65 años, o 60 si es vejez por incapacidad debida a un accidente de trabajo o una enfermedad profesional</td>
+<td>1.800 días antes del 1 de enero de 1967, o afiliación al Retiro Obrero</td>
+<td>—</td>
+</tr>
+<tr>
+<th scope="row">Invalidez</th>
+<td>50 años (30 en casos muy graves, como la pérdida total de la vista)</td>
+<td>1.800 días antes del 1 de enero de 1967; la sola afiliación al Retiro Obrero no vale</td>
+<td>Invalidez absoluta y permanente para la profesión habitual, que no venga de un accidente de trabajo indemnizable</td>
+</tr>
+<tr>
+<th scope="row">Viudedad</th>
+<td>Depende de la fecha del fallecimiento</td>
+<td>La persona fallecida era pensionista del SOVI, había cotizado 1.800 días antes de 1967 o estaba afiliada al Retiro Obrero</td>
+<td>Si murió antes de 1967 siendo pensionista del SOVI: 65 años o incapacidad para todo trabajo, y 10 años casados. Si murió después: los requisitos de la viudedad actual</td>
+</tr>
+</tbody></table>
+</div>
+<p>Fuente: <a href="https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45964" rel="noopener">Seguridad Social, trámite del SOVI</a> y <a href="https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10970/5128" rel="noopener">páginas de invalidez y viudedad del SOVI</a>.</p>
+<h2 id="los-1-800-dias-que-cuenta-y-que-no">Los 1.800 días: qué cuenta y qué no</h2>
+<p>1.800 días son unos <strong>cinco años</strong>, y <strong>no hace falta que sean seguidos</strong>. Para llegar a ellos, el Tribunal Supremo resume así lo que cuenta (<a href="https://www.laboral-social.com/sites/laboral-social.com/files/831.2022.pdf" rel="noopener">sentencia 1307/2024, de 3 de diciembre</a>):</p>
+<ul>
+<li><strong>Cuentan los partos anteriores a 1967</strong>: <strong>112 días por cada parto</strong> de un solo hijo, y 14 días más por cada hijo a partir del segundo si el parto fue múltiple. Es la cotización ficticia del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a235" rel="noopener">artículo 235 de la Ley General de la Seguridad Social</a>, que los jueces aplican al SOVI con perspectiva de género desde 2009. Con tres hijos son 336 días, casi un año.</li>
+<li><strong>Cuentan los «días cuota»</strong> de las pagas extraordinarias de aquellos años.</li>
+<li><strong>No cuenta nada cotizado después del 31 de diciembre de 1966</strong>: «la carrera de seguro del SOVI se cerró» ese día, dice el Supremo.</li>
+<li><strong>No cuentan</strong> el servicio militar, la prestación social sustitutoria ni el <strong>servicio social femenino obligatorio</strong>. Lo ha repetido el Supremo en 2024 y otra vez en la <a href="https://www.laboral-social.com/sites/laboral-social.com/files/4652-2024.pdf" rel="noopener">sentencia 560/2026, de 18 de junio</a>.</li>
+</ul>
+<p><strong>Ejemplo:</strong> Carmen trabajó en un taller de costura entre 1958 y 1962 y tiene <strong>1.500 días</strong> cotizados: le faltan 300 para llegar a 1.800. Tuvo tres hijos, en 1963, 1965 y 1966. Con 112 días por cada parto suma <strong>336</strong> más y llega a <strong>1.836 días</strong>: tiene derecho a la pensión de vejez del SOVI.</p>
+<h2 id="cuanto-se-cobra-en-2026">Cuánto se cobra en 2026</h2>
+<p>Es una <strong>cantidad fija</strong>, igual para todos: no depende de lo que se cotizó. Se cobra en <strong>14 pagas</strong>, con las extras en junio y noviembre (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, artículos 11 y 17</a>).</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Cuantía de la pensión del SOVI en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Situación</th>
+<th scope="col">Al mes (14 pagas)</th>
+<th scope="col">Al año</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">SOVI sin otra pensión</th>
+<td><strong>599,60 €</strong></td>
+<td>8.394,40 €</td>
+</tr>
+<tr>
+<th scope="row">SOVI junto a una pensión de viudedad</th>
+<td><strong>582,10 €</strong></td>
+<td>8.149,40 €</td>
+</tr>
+<tr>
+<th scope="row">Pensión prorrateada, con años en otro país (mínimo a cargo de España)</th>
+<td>299,80 €</td>
+<td>4.197,20 €</td>
+</tr>
+</tbody></table>
+</div>
+<p>Dos reglas cuando el SOVI se cobra con otras pensiones:</p>
+<ul>
+<li><strong>Tope con la viudedad.</strong> La viudedad y el SOVI juntos no pueden pasar del <strong>doble de la pensión mínima de viudedad con 65 años</strong>: en 2026, <strong>26.213,60 euros al año</strong> (2 × 13.106,80). Si se pasa, se recorta el SOVI (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtsegunda" rel="noopener">disposición transitoria segunda, apartado 3</a>).</li>
+<li><strong>Garantía mínima.</strong> Si las pensiones que se cobran a la vez suman menos de 8.394,40 euros al año, el SOVI sube lo que falte (artículo 17.2 del Real Decreto 241/2026).</li>
+</ul>
+<p><strong>Ejemplo con viudedad:</strong> Rosa cobra una viudedad de <strong>900 euros al mes</strong> (12.600 al año). Con el SOVI de 8.149,40 suma 20.749,40, por debajo del tope: cobra las dos enteras, <strong>1.482,10 euros al mes</strong>. Si su viudedad fuera de <strong>1.400 euros</strong> (19.600 al año), el SOVI se recortaría hasta 6.613,60 euros al año, <strong>472,40 al mes</strong>, para no pasar de 26.213,60.</p>
+<h2 id="lo-que-hay-que-saber-antes-de-pedirla">Lo que hay que saber antes de pedirla</h2>
+<ul>
+<li><strong>Es incompatible con otras pensiones</strong> de la Seguridad Social y <strong>con trabajar</strong>, salvo la viudedad. Las pensiones del SOVI tampoco se pueden cobrar a la vez entre sí. Si te corresponden dos, puedes <strong>elegir la más alta</strong>.</li>
+<li><strong>Si además tienes derecho a una jubilación del sistema actual</strong> (por lo cotizado después de 1967), no puedes cobrar las dos: eliges la más alta, que casi siempre es la del sistema actual.</li>
+<li><strong>No da derecho al auxilio por defunción</strong>: esa ayuda para el entierro no existía en el SOVI. Lo explicamos en la guía del <a href="/viudedad/auxilio-por-defuncion/">auxilio por defunción</a>.</li>
+<li><strong>Es vitalicia</strong>: se cobra mientras vive la persona.</li>
+</ul>
+<h2 id="como-se-pide-y-desde-cuando-se-cobra">Cómo se pide y desde cuándo se cobra</h2>
+<ol>
+<li><strong>Dónde:</strong> en el Instituto Nacional de la Seguridad Social (INSS), en un Centro de Atención e Información (CAISS) con <a href="/jubilacion/cita-previa-seguridad-social/">cita previa</a>. Si trabajaste en el mar, en el Instituto Social de la Marina. Se usa el <strong>modelo de solicitud de jubilación</strong> (o de incapacidad o viudedad).</li>
+<li><strong>Qué llevar:</strong> DNI y, si estás casado, el libro de familia o el certificado de matrimonio. Si conservas papeles de aquellos años (cartilla, contratos, certificados de empresa o nóminas), llévalos: ayudan a encontrar cotizaciones antiguas. Para los partos, el libro de familia o las partidas de nacimiento de los hijos.</li>
+<li><strong>Plazo para contestar:</strong> 90 días para la vejez y la viudedad, y 135 para la invalidez.</li>
+</ol>
+<p><strong>Desde cuándo se cobra la de vejez:</strong> desde el día siguiente a cumplir 65 años si la pides en los <strong>30 días siguientes</strong>. Si la pides más tarde, desde el día 1 del mes siguiente a la solicitud: no se pagan los meses de atrás, así que <strong>no conviene esperar</strong>. La de invalidez se cobra desde el mes siguiente a la solicitud.</p>
+<p>Si te la deniegan, tienes <strong>30 días</strong> para presentar una <strong>reclamación previa</strong> ante el INSS y, después, puedes ir al juzgado de lo social. Así llegaron al Tribunal Supremo los casos de mujeres a las que se les había negado el SOVI sin contar sus partos, y lo ganaron.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-cobra-un-pensionista-del-sovi-en-2026">¿Cuánto cobra un pensionista del SOVI en 2026?</h3>
+<p>599,60 euros al mes en 14 pagas (8.394,40 euros al año) si no cobra otra pensión, y 582,10 euros al mes si la cobra junto a una de viudedad.</p>
+<h3 id="se-puede-cobrar-el-sovi-y-la-viudedad-a-la-vez">¿Se puede cobrar el SOVI y la viudedad a la vez?</h3>
+<p>Sí. Es la única pensión compatible con el SOVI. Juntas no pueden pasar de 26.213,60 euros al año en 2026; si se pasa, se recorta el SOVI.</p>
+<h3 id="cuentan-los-hijos-para-llegar-a-los-1-800-dias-del-sovi">¿Cuentan los hijos para llegar a los 1.800 días del SOVI?</h3>
+<p>Sí, si nacieron antes del 1 de enero de 1967: 112 días por cada parto, más 14 por cada hijo a partir del segundo en un parto múltiple. Lo ha confirmado el Tribunal Supremo en varias sentencias.</p>
+<h3 id="sirven-las-cotizaciones-posteriores-a-1967-para-el-sovi">¿Sirven las cotizaciones posteriores a 1967 para el SOVI?</h3>
+<p>No. Para el SOVI solo cuenta lo cotizado hasta el 31 de diciembre de 1966. Lo cotizado después sirve para las pensiones del sistema actual.</p>
+<h3 id="cuenta-el-servicio-social-de-la-mujer-para-el-sovi">¿Cuenta el servicio social de la mujer para el SOVI?</h3>
+<p>No. El Tribunal Supremo ha dicho en 2024 y en 2026 que el servicio social femenino obligatorio no se computa para los 1.800 días.</p>
+<h3 id="hace-falta-que-los-1-800-dias-sean-seguidos">¿Hace falta que los 1.800 días sean seguidos?</h3>
+<p>No. Basta con que sumen 1.800 días entre todos los periodos cotizados antes de 1967.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtsegunda" rel="noopener">Ley General de la Seguridad Social: disposición transitoria segunda (prestaciones del extinguido SOVI)</a> (BOE).</li>
+<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, de revalorización de las pensiones para 2026: artículos 11 y 17</a> (BOE).</li>
+<li><a href="https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45964" rel="noopener">Seguridad Social: trámite de las pensiones del SOVI (requisitos, efectos, incompatibilidades y plazos)</a>.</li>
+<li><a href="https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10970/5128" rel="noopener">Seguridad Social: invalidez del SOVI</a> y <a href="https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10970/5142" rel="noopener">viudedad del SOVI</a>.</li>
+<li>Tribunal Supremo, Sala de lo Social: <a href="https://www.laboral-social.com/sites/laboral-social.com/files/831.2022.pdf" rel="noopener">sentencia 1307/2024, de 3 de diciembre (recurso 831/2022)</a> y <a href="https://www.laboral-social.com/sites/laboral-social.com/files/4652-2024.pdf" rel="noopener">sentencia 560/2026, de 18 de junio (recurso 4652/2024)</a> (texto íntegro publicado por laboral-social.com).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Te faltan años para la jubilación actual? Mira <a href="/jubilacion/faltan-anos-cotizados/">qué hacer si te faltan años cotizados</a> y <a href="/jubilacion/15-anos-cotizados/">cuánto se cobra con 15 años</a>.</li>
+<li>¿Sin pensión contributiva y con pocos ingresos? Consulta la <a href="/ayudas/pension-no-contributiva/">pensión no contributiva de jubilación</a>.</li>
+<li>¿Cobras viudedad? Repasa los <a href="/viudedad/requisitos/">requisitos de la viudedad</a> y <a href="/viudedad/cuantia/">cómo se calcula su cuantía</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la resolución del INSS. Cuantías de 2026 según el Real Decreto 241/2026. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 12 de octubre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[El SOVI paga 599,60 € al mes en 14 pagas a quien cotizó 1.800 días antes de 1967 y no tiene otra pensión. Requisitos, partos que suman y cómo pedirla.]]></excerpt:encoded>
+    <wp:post_id>9119</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[pension-sovi]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="jubilacion"><![CDATA[Jubilación]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Pensión SOVI 2026: requisitos y cuánto se cobra (599,60 €)]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El SOVI paga 599,60 € al mes en 14 pagas a quien cotizó 1.800 días antes de 1967 y no tiene otra pensión. Requisitos, partos que suman y cómo pedirla.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[pensión SOVI]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensión SOVI 2026: requisitos y cuánto se cobra (599,60 €)]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El SOVI paga 599,60 € al mes en 14 pagas a quien cotizó 1.800 días antes de 1967 y no tiene otra pensión. Requisitos, partos que suman y cómo pedirla.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[pensión SOVI]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Jubilación anticipada de la policía local: a qué edad te puedes jubilar y con cuántos años de servicio]]></title>
     <link>https://jubilometro.com/jubilacion/policia-local/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -21040,7 +21206,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías locales adelantan la jubilación 0,20 años por año de servicio, hasta 5 o 6 años y sin recorte de pensión: a los 59 o 60 con carrera larga.]]></excerpt:encoded>
-    <wp:post_id>9119</wp:post_id>
+    <wp:post_id>9120</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21200,7 +21366,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías nacionales pueden pasar a segunda actividad desde los 58 y se jubilan a los 65. Cómo se calcula la pensión en Clases Pasivas o Seguridad Social.]]></excerpt:encoded>
-    <wp:post_id>9120</wp:post_id>
+    <wp:post_id>9121</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21358,7 +21524,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Marinos, pescadores, estibadores y mariscadoras adelantan la jubilación hasta 10 años según el barco o la actividad, sin recorte de pensión. Tabla oficial.]]></excerpt:encoded>
-    <wp:post_id>9121</wp:post_id>
+    <wp:post_id>9122</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21475,7 +21641,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9122</wp:post_id>
+    <wp:post_id>9123</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21607,7 +21773,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9123</wp:post_id>
+    <wp:post_id>9124</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21707,7 +21873,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9124</wp:post_id>
+    <wp:post_id>9125</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21726,6 +21892,155 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Jubilación con años trabajados en otro país: cómo se suman]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[jubilación trabajado en otro país]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Auxilio por defunción de la Seguridad Social: quién lo cobra, en qué casos se da y cómo pedirlo]]></title>
+    <link>https://jubilometro.com/viudedad/auxilio-por-defuncion/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-10-12">12 de octubre de 2026</time> · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>El <strong>auxilio por defunción</strong> es una ayuda de la Seguridad Social de <strong>46,50 euros</strong>, en un <strong>solo pago</strong>, para <strong>quien pagó el entierro</strong>. Se da si la persona fallecida <strong>trabajaba o estaba en una situación asimilada</strong>, cobraba una baja u otro subsidio, o era <strong>pensionista de jubilación o de incapacidad permanente</strong>.</p>
+<p>Se pide al <strong>INSS</strong> por internet (también <strong>sin certificado digital</strong>), por correo o en una oficina con cita previa. Hay <strong>cinco años</strong> para pedirlo; después se pierde.</p>
+</aside>
+<h2 id="cuanto-es-y-para-que-sirve">Cuánto es y para qué sirve</h2>
+<p>Son <strong>46,50 euros</strong> (<a href="https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45659/45676/45677" rel="noopener">Seguridad Social, auxilio por defunción</a>), una cantidad fija que no sube con las pensiones (el decreto de revalorización de 2026 no lo menciona). La ley lo define como una ayuda «para hacer frente a los gastos de sepelio a quien los haya soportado» (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>).</p>
+<p>No cubre el entierro, pero pedirlo es sencillo y conviene no dejarlo pasar. Si la persona tenía un <a href="/dinero/seguro-decesos/">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</p>
+<h2 id="quien-lo-cobra">Quién lo cobra</h2>
+<p>Lo cobra <strong>quien pagó el entierro</strong>. Salvo que se demuestre otra cosa, la ley da por hecho que lo pagó, por este orden:</p>
+<ol>
+<li>El <strong>cónyuge</strong> que sobrevive.</li>
+<li>La <strong>pareja de hecho</strong>.</li>
+<li>Los <strong>hijos</strong>.</li>
+<li>Los <strong>parientes que vivían con la persona fallecida</strong>.</li>
+</ol>
+<p>Si lo pagó otra persona (un sobrino que no vivía con ella, un amigo, un vecino), también puede pedirlo, presentando la <strong>factura o el justificante del pago</strong> del sepelio.</p>
+<h2 id="en-que-casos-se-da-y-en-cuales-no">En qué casos se da (y en cuáles no)</h2>
+<p>No hace falta un mínimo de años cotizados. Lo que importa es la situación de la persona fallecida el día de su muerte (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a217" rel="noopener">artículo 217</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Cuándo genera el auxilio por defunción la persona fallecida</caption>
+<thead>
+<tr>
+<th scope="col">Situación de la persona fallecida</th>
+<th scope="col">¿Hay auxilio?</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Trabajaba (de alta) o estaba en situación asimilada al alta, por ejemplo cobrando el paro</th>
+<td>Sí</td>
+</tr>
+<tr>
+<th scope="row">Estaba de baja o cobraba un subsidio por nacimiento, riesgo durante el embarazo o la lactancia</th>
+<td>Sí</td>
+</tr>
+<tr>
+<th scope="row">Cobraba una <strong>pensión contributiva de jubilación</strong> o de <strong>incapacidad permanente</strong></th>
+<td>Sí</td>
+</tr>
+<tr>
+<th scope="row">Era autónoma o pagaba ella misma sus cuotas</th>
+<td>Sí, si estaba al corriente del pago</td>
+</tr>
+<tr>
+<th scope="row">Solo cobraba una pensión del <strong>SOVI</strong></th>
+<td>No: ese seguro antiguo no lo incluía</td>
+</tr>
+<tr>
+<th scope="row">No estaba de alta ni cobraba ninguna de las pensiones o subsidios anteriores</th>
+<td>No</td>
+</tr>
+<tr>
+<th scope="row">Desaparecida en un accidente y declarada fallecida</th>
+<td>No</td>
+</tr>
+</tbody></table>
+</div>
+<p>Fuente: <a href="https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10964/10966/28558/192413" rel="noopener">Seguridad Social, requisitos del auxilio por defunción</a> y <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a217" rel="noopener">artículo 217.3 de la Ley General de la Seguridad Social</a>.</p>
+<p><strong>Ojo con un caso frecuente:</strong> si la persona fallecida <strong>solo cobraba una pensión de viudedad</strong>, o una <strong>pensión no contributiva</strong>, y no trabajaba, no está en la lista de la Seguridad Social y no genera el auxilio. Si además tenía una jubilación propia, sí.</p>
+<h2 id="que-documentos-hacen-falta">Qué documentos hacen falta</h2>
+<p>Según el modelo oficial de solicitud (<a href="https://www.seg-social.es/wps/wcm/connect/wss/20b4a871-c9a0-4192-9e85-cb42ca008348/MS-5_Castellano_14.pdf?MOD=AJPERES" rel="noopener">formulario MS-5 del INSS</a>):</p>
+<ul>
+<li><strong>DNI</strong> de quien lo pide (o NIE y pasaporte, si es extranjero).</li>
+<li><strong>Certificado del acta de defunción</strong>.</li>
+<li>Si eres el cónyuge, la pareja de hecho, un hijo o un familiar que vivía con la persona fallecida: el <strong>libro de familia</strong> o las actas del Registro Civil que prueben el parentesco, o la inscripción como <strong>pareja de hecho</strong>. No hace falta si presentas el justificante de haber pagado el entierro.</li>
+<li>En los demás casos: el <strong>justificante de haber pagado el sepelio</strong> (la factura de la funeraria).</li>
+<li>El número de <strong>cuenta bancaria</strong> en la que quieres cobrarlo, a tu nombre.</li>
+</ul>
+<h2 id="como-pedirlo-paso-a-paso">Cómo pedirlo, paso a paso</h2>
+<ol>
+<li><strong>Si vas a pedir también la viudedad, la orfandad o la pensión en favor de familiares</strong>, no uses este formulario: pídelo todo junto en el modelo de esas pensiones. Lo explicamos en <a href="/viudedad/solicitar-viudedad/">cómo pedir la pensión de viudedad</a>.</li>
+<li><strong>Si solo pides el auxilio</strong>, elige cómo presentarlo:<ul>
+<li><strong>Por internet</strong>, en la <a href="https://sede.seg-social.gob.es" rel="noopener">sede electrónica de la Seguridad Social</a>, con certificado digital o Cl@ve.</li>
+<li><strong>Por internet sin certificado</strong>, en el servicio de trámites sin identificación digital de la Seguridad Social, adjuntando los documentos.</li>
+<li><strong>Por correo ordinario</strong>, enviando el formulario firmado.</li>
+<li><strong>En persona</strong>, en un Centro de Atención e Información de la Seguridad Social con <a href="/jubilacion/cita-previa-seguridad-social/">cita previa</a> (91 541 25 30 o 901 10 65 70).</li>
+</ul>
+</li>
+<li><strong>Espera la respuesta.</strong> El INSS tiene <strong>90 días</strong> para contestar, aunque la media es de unos <strong>13 días</strong>. Si no contesta en 90 días, se entiende denegado y puedes presentar una reclamación previa.</li>
+</ol>
+<p>Si la persona fallecida trabajaba en el mar, se pide al Instituto Social de la Marina. Si la muerte fue por un <strong>accidente de trabajo</strong>, lo paga la <strong>mutua</strong>.</p>
+<h2 id="plazo-cinco-anos">Plazo: cinco años</h2>
+<p>Hay <strong>cinco años</strong> desde el fallecimiento para pedirlo: después, el derecho <strong>prescribe</strong>. Es la única prestación por muerte que se pierde con el tiempo; la viudedad y la orfandad se pueden pedir siempre, aunque solo se cobran tres meses hacia atrás (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a230" rel="noopener">artículo 230</a>).</p>
+<p><strong>Ejemplo:</strong> el padre de Ana, jubilado, falleció en marzo de 2023. Ana pagó el entierro y nunca pidió el auxilio. Hasta <strong>marzo de 2028</strong> puede pedirlo con la factura de la funeraria, el certificado de defunción y su DNI, y cobrará los 46,50 euros.</p>
+<h2 id="si-la-muerte-fue-por-un-accidente-de-trabajo">Si la muerte fue por un accidente de trabajo</h2>
+<p>Además del auxilio, el cónyuge, la pareja de hecho y los huérfanos tienen derecho a una <strong>indemnización a tanto alzado</strong>, en un solo pago, que paga la mutua o el INSS. Si no hay ningún familiar con derecho a pensión, la cobran el padre o la madre que vivían a cargo del trabajador (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a227" rel="noopener">artículo 227</a>).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="cuanto-paga-la-seguridad-social-por-un-fallecimiento">¿Cuánto paga la Seguridad Social por un fallecimiento?</h3>
+<p>El auxilio por defunción son 46,50 euros en un solo pago, para quien pagó el entierro. Aparte están la pensión de viudedad, la de orfandad y la pensión en favor de familiares, si se cumplen sus requisitos.</p>
+<h3 id="quien-puede-pedir-el-auxilio-por-defuncion">¿Quién puede pedir el auxilio por defunción?</h3>
+<p>Quien haya pagado el sepelio. Se presume que lo pagaron el cónyuge, la pareja de hecho, los hijos o los parientes que vivían con la persona fallecida; cualquier otra persona puede pedirlo con la factura.</p>
+<h3 id="cuanto-tiempo-hay-para-pedir-el-auxilio-por-defuncion">¿Cuánto tiempo hay para pedir el auxilio por defunción?</h3>
+<p>Cinco años desde el fallecimiento. Pasado ese plazo, el derecho prescribe.</p>
+<h3 id="se-puede-pedir-el-auxilio-por-defuncion-sin-certificado-digi">¿Se puede pedir el auxilio por defunción sin certificado digital?</h3>
+<p>Sí. La Seguridad Social tiene un servicio para presentar solicitudes sin certificado, y también se puede enviar por correo o entregar en un centro de atención con cita previa.</p>
+<h3 id="hay-auxilio-por-defuncion-si-la-persona-fallecida-cobraba-un">¿Hay auxilio por defunción si la persona fallecida cobraba una pensión de viudedad?</h3>
+<p>Solo si además trabajaba o cobraba una jubilación o una incapacidad permanente contributiva. La viudedad sola no está entre los casos que lo generan.</p>
+<h3 id="cuanto-tarda-en-cobrarse">¿Cuánto tarda en cobrarse?</h3>
+<p>El INSS tiene 90 días para resolver; la media es de unos 13 días.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">Ley General de la Seguridad Social: artículos 216, 217, 218, 227 y 230</a> (BOE).</li>
+<li><a href="https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45659/45676/45677" rel="noopener">Seguridad Social: trámite del auxilio por defunción (cuantía, plazos y dónde se pide)</a>.</li>
+<li><a href="https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10964/10966/28558/192413" rel="noopener">Seguridad Social: requisitos y documentos del auxilio por defunción</a>.</li>
+<li><a href="https://www.seg-social.es/wps/wcm/connect/wss/20b4a871-c9a0-4192-9e85-cb42ca008348/MS-5_Castellano_14.pdf?MOD=AJPERES" rel="noopener">INSS: modelo de solicitud MS-5, auxilio por defunción</a>.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>¿Qué más hay que hacer? Sigue la lista de <a href="/viudedad/fallecimiento-pensionista/">qué hacer cuando fallece un pensionista</a>.</li>
+<li>¿Te corresponde la viudedad? Revisa los <a href="/viudedad/requisitos/">requisitos</a> y calcula tu pensión de viudedad.</li>
+<li>¿Cobraba el SOVI? Mira cómo funciona la <a href="/jubilacion/pension-sovi/">pensión del SOVI</a>.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo y no sustituye la resolución del INSS. Cuantía y requisitos según la Seguridad Social a 12 de octubre de 2026. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 12 de octubre de 2026, primera versión.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[El auxilio por defunción son 46,50 € en un solo pago para quien pagó el entierro. Quién lo genera, documentos, plazo de 5 años y cómo pedirlo por internet.]]></excerpt:encoded>
+    <wp:post_id>9126</wp:post_id>
+    <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[auxilio-por-defuncion]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="viudedad"><![CDATA[Viudedad]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Auxilio por defunción 2026: 46,50 €, requisitos y solicitud]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[El auxilio por defunción son 46,50 € en un solo pago para quien pagó el entierro. Quién lo genera, documentos, plazo de 5 años y cómo pedirlo por internet.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[auxilio por defunción]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Auxilio por defunción 2026: 46,50 €, requisitos y solicitud]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El auxilio por defunción son 46,50 € en un solo pago para quien pagó el entierro. Quién lo genera, documentos, plazo de 5 años y cómo pedirlo por internet.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[auxilio por defunción]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -21824,7 +22139,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es compatible con cualquier sueldo, pero trabajar puede quitarte el complemento a mínimos, el 60 % o el 70 %. Paro, IRPF y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9125</wp:post_id>
+    <wp:post_id>9127</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22025,7 +22340,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9126</wp:post_id>
+    <wp:post_id>9128</wp:post_id>
     <wp:post_date><![CDATA[2026-09-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22109,7 +22424,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si estabas divorciado o separado, cobras viudedad si tenías pensión compensatoria, con ese tope. Violencia de género, divorcios anteriores a 2008 y reparto.]]></excerpt:encoded>
-    <wp:post_id>9127</wp:post_id>
+    <wp:post_id>9129</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22208,7 +22523,7 @@
 <ul>
 <li><strong>Pensión de viudedad</strong>, para el cónyuge o la pareja de hecho. Repasa los <a href="/viudedad/requisitos/">requisitos</a> y los <a href="/viudedad/solicitar-viudedad/">pasos para pedirla</a>.</li>
 <li><strong><a href="/viudedad/pension-orfandad/">Pensión de orfandad</a></strong>, para los hijos menores de 21 años (o de 25 si no trabajan o ganan menos del salario mínimo) y los incapacitados para el trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224" rel="noopener">artículo 224</a>).</li>
-<li><strong>Auxilio por defunción</strong>: 46,50 euros para quien haya pagado el entierro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>). No llega para cubrirlo: si había un <a href="/dinero/seguro-decesos/">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</li>
+<li><strong><a href="/viudedad/auxilio-por-defuncion/">Auxilio por defunción</a></strong>: 46,50 euros para quien haya pagado el entierro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>). No llega para cubrirlo: si había un <a href="/dinero/seguro-decesos/">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</li>
 <li><strong><a href="/viudedad/favor-de-familiares/">Pensión en favor de familiares</a></strong>, por ejemplo para los hijos o hermanos de 45 años o más, solteros, divorciados o viudos, que convivían con el pensionista y a su cargo, lo cuidaron durante mucho tiempo y no tienen medios de vida (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226" rel="noopener">artículo 226</a>).</li>
 </ul>
 <p>Todas se piden en la <strong>misma solicitud</strong> al INSS. El derecho no caduca, pero <strong>solo se cobran tres meses hacia atrás</strong> desde que se pide (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a230" rel="noopener">artículo 230</a>), salvo el auxilio por defunción, que sí prescribe.</p>
@@ -22254,7 +22569,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9128</wp:post_id>
+    <wp:post_id>9130</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22403,7 +22718,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Hijos, hermanos, nietos, padres o abuelos que vivían a cargo del fallecido pueden cobrar el 20 % de su base reguladora. Requisitos y mínimas de 2026.]]></excerpt:encoded>
-    <wp:post_id>9129</wp:post_id>
+    <wp:post_id>9131</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22509,7 +22824,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pierde al casarte o formar pareja de hecho, salvo con más de 61 años, si es tu principal ingreso y el matrimonio no pasa de 34.188 € al año.]]></excerpt:encoded>
-    <wp:post_id>9130</wp:post_id>
+    <wp:post_id>9132</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22618,7 +22933,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años (con hijos comunes basta la inscripción). Sin límite de ingresos.]]></excerpt:encoded>
-    <wp:post_id>9131</wp:post_id>
+    <wp:post_id>9133</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22735,7 +23050,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión de orfandad es el 20 % de la base reguladora por hijo, con un mínimo de 286,50 € al mes en 2026. Edad límite, orfandad absoluta y límites.]]></excerpt:encoded>
-    <wp:post_id>9132</wp:post_id>
+    <wp:post_id>9134</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22849,7 +23164,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegabais a un año de matrimonio o a dos de pareja de hecho inscrita, cobras lo mismo que la viudedad durante dos años. Cuándo se aplica y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9133</wp:post_id>
+    <wp:post_id>9135</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23039,7 +23354,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9134</wp:post_id>
+    <wp:post_id>9136</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23136,6 +23451,7 @@
 <li>¿Cumples los requisitos? Repásalos en <a href="/viudedad/requisitos/">requisitos de la pensión de viudedad</a>.</li>
 <li>¿Cuánto vas a cobrar? Calcúlalo con la calculadora de pensión de viudedad.</li>
 <li>¿Qué más hay que hacer tras el fallecimiento? Mira <a href="/viudedad/fallecimiento-pensionista/">qué hacer cuando fallece un pensionista</a>.</li>
+<li>¿Quién pagó el entierro? Puede pedir el <a href="/viudedad/auxilio-por-defuncion/">auxilio por defunción</a>, en la misma solicitud que la viudedad.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -23144,7 +23460,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9135</wp:post_id>
+    <wp:post_id>9137</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23261,7 +23577,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9136</wp:post_id>
+    <wp:post_id>9138</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
