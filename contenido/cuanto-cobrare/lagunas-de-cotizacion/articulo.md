@@ -8,7 +8,7 @@ miga: Lagunas de cotización
 palabra_clave_principal: lagunas de cotización
 intencion: informativa
 fase_plan: F2 (artículo n.º 25)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Lagunas de cotización: cómo se rellenan los meses sin cotizar al calcular la pensión de jubilación
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -103,9 +103,10 @@ No, si cobras la prestación contributiva o el subsidio para mayores de 52 años
 - ¿Cómo se calcula tu base? Mira la [base reguladora de la jubilación](/cuanto-cobrare/base-reguladora/).
 - ¿Te faltan años? Consulta las [opciones para completarlos](/jubilacion/faltan-anos-cotizados/).
 - ¿Cuánto te quedará? Calcúlalo con la [calculadora de pensión](/calculadoras/pension-jubilacion/).
+- ¿Trabajaste de jornalero? En el sistema agrario las lagunas no se rellenan: mira [la jubilación de los trabajadores agrarios](/jubilacion/agrarios/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la jubilación de los trabajadores agrarios. 28 de septiembre de 2026, primera versión.*

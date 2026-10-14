@@ -108,7 +108,7 @@ Sí, si cumples los requisitos de la [jubilación anticipada involuntaria](/jubi
 - ¿Adelantar o esperar? Usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/).
 - ¿Quieres cotizar más? Lee sobre el [convenio especial](/jubilacion/convenio-especial/).
 - ¿Te despiden en un ERE con 55 años o más? Mira [prejubilación y convenio especial](/jubilacion/prejubilacion/).
-- ¿Vuelves de trabajar fuera de Europa? Mira el [subsidio para emigrantes retornados](/ayudas/emigrantes-retornados/).
+- ¿Vuelves a España después de trabajar fuera de la Unión Europea? Mira el [subsidio para emigrantes retornados](/ayudas/emigrantes-retornados/).
 
 ---
 

@@ -8,7 +8,7 @@ miga: Complemento a mínimos
 palabra_clave_principal: complemento a mínimos
 intencion: informativa
 fase_plan: F2 (artículo n.º 28)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Complemento a mínimos en 2026: quién lo cobra, límite de ingresos, tope y cómo se pide
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -29,7 +29,7 @@ fuentes_legales:
 
 ## Cómo funciona
 
-No es una pensión distinta: es un **complemento de tu propia pensión** contributiva (jubilación, incapacidad permanente, viudedad, orfandad o a favor de familiares). Si tu pensión es menor que la mínima que te corresponde, se te paga la diferencia en las mismas 14 pagas ([artículo 59 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59)).
+No es una pensión distinta: es un **complemento de tu propia pensión** contributiva (jubilación, incapacidad permanente, viudedad, orfandad o [a favor de familiares](/viudedad/favor-de-familiares/)). Si tu pensión es menor que la mínima que te corresponde, se te paga la diferencia en las mismas 14 pagas ([artículo 59 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59)).
 
 Las cuantías mínimas de cada pensión las fija cada año la revalorización. Todas las de 2026 están en [pensión mínima de jubilación](/cuanto-cobrare/pension-minima/), incluidas las de viudedad e incapacidad.
 
@@ -93,7 +93,7 @@ Solo tienes complemento si **la suma de tus pensiones** es menor que la mínima 
 
 ### Además: medicamentos sin copago
 
-Desde el **14 de mayo de 2026**, los pensionistas que cobran el complemento a mínimos, y sus beneficiarios, **no pagan nada por los medicamentos con receta** ([artículo 102.8 de la ley del medicamento](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102), en la redacción del [Real Decreto-ley 11/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10324)). Lo explicamos en [seguros de salud para mayores de 65](/dinero/seguro-salud-mayores/).
+Desde el **14 de mayo de 2026**, los pensionistas que cobran el complemento a mínimos, y sus beneficiarios, **no pagan nada por los medicamentos con receta** (lo contamos en [lo que pagan los mayores en la farmacia](/dinero/seguro-salud-mayores/)) ([artículo 102.8 de la ley del medicamento](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102), en la redacción del [Real Decreto-ley 11/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10324)). Lo explicamos en [seguros de salud para mayores de 65](/dinero/seguro-salud-mayores/).
 
 ## Preguntas frecuentes
 
@@ -133,4 +133,4 @@ No, en las pensiones causadas desde 2013: exige residir en España. Las anterior
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*
+*Historial de cambios: 14 de octubre de 2026, enlaces a la pensión a favor de familiares y a lo que pagan los mayores en la farmacia. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*

@@ -8,7 +8,7 @@ miga: Cuidadora interna o externa
 palabra_clave_principal: cuidadora interna o externa
 intencion: informativa
 fase_plan: F2 (artículo n.º 73)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Cuidadora interna o externa para una persona mayor: cuánto cuesta en 2026, qué contrato hacer y qué ayudas hay
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -69,7 +69,7 @@ La cuidadora paga su parte (el 6,40 % de su base: contingencias comunes, desempl
 
 ## Qué obligaciones tienes como empleador
 
-1. **Contrato por escrito** y **alta en la Seguridad Social** antes de que empiece a trabajar, en el Sistema Especial para Empleados de Hogar.
+1. **Contrato por escrito** y **alta en la Seguridad Social** antes de que empiece a trabajar, en el [Sistema Especial para Empleados de Hogar](/jubilacion/empleadas-de-hogar/).
 2. **Recibo de salario** cada mes y **dos pagas extra** al año.
 3. **30 días de vacaciones** al año.
 4. **Evaluar los riesgos del puesto** y adoptar medidas de prevención ([Real Decreto 893/2024](https://www.boe.es/buscar/act.php?id=BOE-A-2024-18182)). La obligación es exigible seis meses después de que el Instituto Nacional de Seguridad y Salud en el Trabajo ponga a disposición una herramienta gratuita para hacerlo.
@@ -125,4 +125,4 @@ Sí, desde el primer día y sea cual sea el número de horas, en el Sistema Espe
 
 *Este artículo es informativo y no sustituye el asesoramiento laboral profesional ni la información de la Tesorería General de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 6 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 29 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Jubilación de las empleadas de hogar
 palabra_clave_principal: jubilación empleadas de hogar
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-06
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-10-06
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Jubilación de las empleadas de hogar: requisitos, cómo se calcula la pensión y qué pasa con los años sin cotizar
 
-*Actualizado el 6 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -103,9 +103,10 @@ La familia que te contrata, siempre, desde el 1 de enero de 2023, aunque trabaje
 - ¿Cuántos años has cotizado? Pide tu [informe de vida laboral](/cuanto-cobrare/informe-vida-laboral/).
 - ¿Te faltan años? Mira [qué hacer si te faltan años cotizados](/jubilacion/faltan-anos-cotizados/).
 - ¿Cuánto cobrarás? Calcula tu [pensión de jubilación](/calculadoras/pension-jubilacion/).
+- ¿Vas a contratar a alguien para cuidar a un mayor? Mira [cuánto cuesta una cuidadora interna o externa](/dependencia/cuidadora-interna-externa/).
 
 ---
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía de la cuidadora interna o externa. 6 de octubre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Incapacidad permanente y jubilación
 palabra_clave_principal: incapacidad permanente y jubilación
 intencion: informativa
 fase_plan: F3 (artículo n.º 53)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Incapacidad permanente y jubilación: qué pasa con tu pensión a los 67 años, si puedes cobrar las dos y cuándo te toca jubilarte
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -88,7 +88,7 @@ No. Al cumplir 67 años solo cambia el nombre de la pensión.
 
 ### ¿Me pueden revisar la incapacidad después de los 67?
 
-No por mejoría o agravación: la revisión del grado solo es posible hasta la edad mínima de jubilación.
+No por mejoría o agravación: la [revisión del grado](/incapacidad/revision-grado/) solo es posible hasta la edad mínima de jubilación.
 
 ## Fuentes oficiales
 
@@ -104,4 +104,4 @@ No por mejoría o agravación: la revisión del grado solo es posible hasta la e
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía de la revisión del grado. 29 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Anticipada con 40 años cotizados
 palabra_clave_principal: jubilación anticipada 40 años cotizados sin penalización
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-10
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-10-02
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación anticipada con 40 años cotizados sin penalización: qué proponía la ley y qué pasa ahora
 
-*Actualizado el 10 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el Boletín de las Cortes y el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el Boletín de las Cortes y el BOE*
 
 > **Respuesta rápida**
 >
@@ -131,7 +131,7 @@ Depende de tu situación, y no podemos decidirlo por ti, pero estas ideas ayudan
 Hoy ya hay casos en los que adelantar la jubilación no reduce la pensión:
 
 - **Discapacidad:** con un grado igual o superior al 45 % o al 65 %, según el caso, la edad se rebaja sin recorte. Lo explicamos en [jubilación anticipada por discapacidad](/jubilacion/anticipada-discapacidad/).
-- **Profesiones penosas o peligrosas:** bomberos, policías locales, agentes forestales, mineros, trabajadores del mar o personal de vuelo, entre otros, tienen coeficientes que rebajan la edad, no la pensión. Lo vemos en [jubilación anticipada por profesión](/jubilacion/anticipada-por-profesion/).
+- **Profesiones penosas o peligrosas:** [bomberos](/jubilacion/bomberos/), policías locales, agentes forestales, mineros, [trabajadores del mar](/jubilacion/regimen-del-mar/) o personal de vuelo, entre otros, tienen coeficientes que rebajan la edad, no la pensión. Lo vemos en [jubilación anticipada por profesión](/jubilacion/anticipada-por-profesion/).
 - **Jubilación parcial:** permite reducir la jornada antes de la edad ordinaria compatibilizando sueldo y pensión, con sus propios requisitos. Está en [jubilación parcial](/jubilacion/parcial/).
 
 ## Preguntas frecuentes
@@ -183,4 +183,4 @@ No hay fecha. Con las elecciones, la proposición ha decaído y tendría que emp
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Recoge una proposición de ley que decayó con la disolución de las Cortes el 6 de octubre de 2026. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 10 de octubre de 2026, la proposición decae con la disolución de las Cortes (Real Decreto 806/2026): nuevo estado, qué tendría que pasar para retomarla y preguntas frecuentes. 2 de octubre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlaces a las guías de bomberos y del Régimen del Mar. 10 de octubre de 2026, la proposición decae con la disolución de las Cortes (Real Decreto 806/2026): nuevo estado, qué tendría que pasar para retomarla y preguntas frecuentes. 2 de octubre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Cuánto se cobra de baja
 palabra_clave_principal: cuánto se cobra de baja
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Cuánto se cobra de baja: el 60 % y el 75 % día a día, quién te lo paga y cómo calcularlo
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -80,7 +80,7 @@ Son **1.062 euros brutos** en lugar de los 1.800 de base: un **41 % menos**. Si 
 - **Si te despiden o se acaba el contrato durante la baja** (por enfermedad común), sigues de baja, pero cobras **lo mismo que cobrarías de paro**. Cuando te den el alta, pasas al paro, y el tiempo que estuviste de baja desde el despido se descuenta del paro como ya consumido. Si la baja es por accidente de trabajo, sigues cobrando la misma cantidad hasta el alta ([artículo 283](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a283)).
 - **Menstruación incapacitante e interrupción del embarazo**: no se pide cotización mínima. Desde la **semana 39 de gestación** se pide la misma cotización que para el permiso por nacimiento. En la menstruación incapacitante se cobra **desde el primer día**; en los otros dos casos, el día de la baja lo paga la empresa con el salario entero y el subsidio empieza al día siguiente ([artículos 172 y 173](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a173)).
 - **Donación de órganos o tejidos**: el **100 %** de la base reguladora desde el primer día ([artículo 171](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a171)).
-- **Empleadas de hogar**: la base es la del mes anterior entre 30, y el empleador paga del día 4 al 8; desde el noveno, el INSS o la mutua ([Seguridad Social, baja de la empleada de hogar](https://revista.seg-social.es/-/20221003-baja-empleada-hogar)).
+- **[Empleadas de hogar](/jubilacion/empleadas-de-hogar/)**: la base es la del mes anterior entre 30, y el empleador paga del día 4 al 8; desde el noveno, el INSS o la mutua ([Seguridad Social, baja de la empleada de hogar](https://revista.seg-social.es/-/20221003-baja-empleada-hogar)).
 - **Autónomos**: también tienen baja pagada, a través de la mutua con la que tengan cubierta la incapacidad temporal, con reglas propias en algunos puntos.
 
 ## Cuánto puede durar
@@ -131,4 +131,4 @@ Sí. Si te reconocen la pensión de jubilación, la baja se termina en ese momen
 
 *Este artículo es informativo y no sustituye la información de tu empresa, tu mutua o el INSS. Porcentajes según la normativa vigente a 12 de octubre de 2026; revisa tu convenio colectivo, que puede mejorarlos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía de las empleadas de hogar. 12 de octubre de 2026, primera versión.*

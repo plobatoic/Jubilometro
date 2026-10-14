@@ -8,7 +8,7 @@ miga: Solicitar la incapacidad permanente
 palabra_clave_principal: solicitar incapacidad permanente
 intencion: transaccional
 fase_plan: F2 (artículo n.º 49)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Cómo solicitar la incapacidad permanente: quién la inicia, documentos, tribunal médico y cuánto tarda
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -76,7 +76,7 @@ Plazos de los [artículos 7, 11 y 14 de la Orden de 18 de enero de 1996](https:/
 ## Qué cobras mientras esperas
 
 - **Si vienes de una baja de 545 días** o te dieron el alta con propuesta de incapacidad, sigues cobrando la prestación de la baja (la **prolongación de efectos**) hasta que te notifiquen la resolución, aunque **ya no se cotiza** por ti. Lo explicamos en [incapacidad temporal](/incapacidad/incapacidad-temporal/).
-- **Si te reconocen la incapacidad**, la pensión empieza el día de la resolución. Pero si es **mayor** que lo que cobrabas de baja, sus efectos se **retrotraen** al día siguiente del fin de la baja y te pagan la diferencia.
+- **Si te reconocen la incapacidad**, la pensión empieza el día de la resolución. Pero si es **mayor** que lo que [cobrabas de baja](/incapacidad/cuanto-se-cobra-de-baja/), sus efectos se **retrotraen** al día siguiente del fin de la baja y te pagan la diferencia.
 - **Si te la deniegan**, no tienes que devolver lo cobrado mientras esperabas ([artículo 6.3 del Real Decreto 1300/1995](https://www.boe.es/buscar/act.php?id=BOE-A-1995-19848)).
 
 ## Ejemplo
@@ -123,4 +123,4 @@ Sí. Puedes pedirla tú en cualquier momento si crees que tus lesiones son defin
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a cuánto se cobra de baja. 28 de septiembre de 2026, primera versión.*

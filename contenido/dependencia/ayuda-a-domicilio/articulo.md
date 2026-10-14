@@ -8,7 +8,7 @@ miga: Ayuda a domicilio
 palabra_clave_principal: ayuda a domicilio
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Servicio de ayuda a domicilio para mayores: cuántas horas dan, cuánto cuesta y cómo pedirlo
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -127,9 +127,11 @@ Sí, en los servicios sociales de tu ayuntamiento, que tienen su propio servicio
 - ¿Necesitas también un botón de emergencia? Lee la guía de la [teleasistencia](/dependencia/teleasistencia/).
 - ¿Y atención durante el día fuera de casa? Mira el [centro de día](/dependencia/centro-de-dia/).
 - Todas las ayudas y cuantías: [ley de dependencia](/dependencia/ley-dependencia/).
+- ¿Necesitáis más horas? Compara con [contratar una cuidadora interna o externa](/dependencia/cuidadora-interna-externa/).
+- ¿Hay que adaptar la casa? Mira las [ayudas para adaptar la vivienda](/ayudas/ayudas-vivienda/).
 
 ---
 
 *Este artículo es informativo. Las horas concretas y el copago los fijan tu comunidad autónoma o tu ayuntamiento. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlaces a la cuidadora interna o externa y a las ayudas para adaptar la vivienda. 29 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Incapacidad y trabajo
 palabra_clave_principal: trabajar con incapacidad permanente
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,11 +19,11 @@ fuentes_legales:
 
 # Trabajar con una incapacidad permanente en 2026: qué se puede hacer en cada grado y qué pasa con la pensión
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> - **Parcial**: sigues en tu trabajo; la indemnización es compatible con todo.
+> - **[Parcial](/incapacidad/incapacidad-parcial/)**: sigues en tu trabajo; la indemnización es compatible con todo.
 > - **Total**: puedes trabajar y cobrar la pensión a la vez, siempre que **no hagas las mismas funciones** que dieron lugar a la incapacidad. Si tienes la **total cualificada**, el 20 % extra se deja de cobrar mientras trabajas.
 > - **Absoluta y gran incapacidad**: desde el **22 de diciembre de 2024**, si el trabajo exige **darte de alta en la Seguridad Social**, el INSS **suspende la pensión** mientras trabajes y la **reanuda al dejarlo**. Solo son compatibles las actividades esporádicas o marginales que no exigen alta.
 >
@@ -125,4 +125,4 @@ La pensión sí, si el trabajo exige alta en la Seguridad Social. El complemento
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía de la incapacidad parcial. 29 de septiembre de 2026, primera versión.*

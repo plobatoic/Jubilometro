@@ -8,7 +8,7 @@ miga: Solicitar la dependencia
 palabra_clave_principal: solicitar la dependencia
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo solicitar la dependencia paso a paso: documentos, dónde se pide y cómo preparar la visita de valoración
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -82,7 +82,7 @@ Plazo máximo: **seis meses** desde la solicitud hasta la resolución de la pres
 
 Es el momento más importante. El [baremo de valoración (Real Decreto 174/2011)](https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174) marca cómo se hace:
 
-- Se valora **en el entorno habitual**, es decir, en la casa donde la persona vive la mayor parte del año, con sus barreras (escaleras, bañera) y sus apoyos.
+- Se valora **en el entorno habitual**, es decir, en la casa donde la persona vive la mayor parte del año, con sus barreras (escaleras, bañera) y sus apoyos. Para quitarlas hay [ayudas para adaptar la vivienda](/ayudas/ayudas-vivienda/).
 - El profesional combina los **informes de salud**, la **observación directa**, la **comprobación** de algunas tareas y una **entrevista**.
 - Se valora **si la persona puede hacer cada tarea por sí misma de forma adecuada**, aunque ahora no la haga porque otro se la hace. Se tienen en cuenta las **ayudas técnicas** prescritas (andador, silla de ruedas).
 - Una tarea se considera bien hecha aunque cueste, si se hace con **iniciativa, coherencia, orientación y control**, y **sin riesgo grave** para la salud.
@@ -142,4 +142,4 @@ No. La solicitud y la valoración son gratuitas. Solo se paga, según los ingres
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*
+*Historial de cambios: 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*

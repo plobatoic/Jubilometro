@@ -8,7 +8,7 @@ miga: Rescate del plan de pensiones
 palabra_clave_principal: rescate plan de pensiones
 intencion: informativa
 fase_plan: F1 (artículo n.º 80)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Rescatar el plan de pensiones al jubilarte: cuándo puedes, cómo tributa y cómo pagar menos IRPF
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >
@@ -134,9 +134,10 @@ Sí. La gestora aplica una retención en cada pago, que luego se ajusta en tu de
 - ¿Cuánto necesitas ahorrado? Prueba la calculadora [¿cuánto necesito ahorrar?](/calculadoras/cuanto-ahorrar-jubilacion/).
 - ¿Te llegará con la pensión? Lee [cuánto dinero necesitas ahorrado para jubilarte](/dinero/ahorro-jubilacion/).
 - ¿Cuándo te jubilas? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
+- ¿Necesitas el dinero antes de jubilarte? Mira el [rescate de las aportaciones con más de 10 años](/dinero/rescate-aportaciones-10-anos/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de tu gestora. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 28 de septiembre de 2026, primera versión.*

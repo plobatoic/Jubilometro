@@ -8,18 +8,18 @@ miga: Documentos para pedir la jubilación
 palabra_clave_principal: documentos para pedir la jubilación
 intencion: transaccional
 fase_plan: F2 (artículo n.º 14)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-14
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 ---
 
 # Documentos para pedir la jubilación: checklist descargable
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> Para una jubilación ordinaria basta, en la mayoría de los casos, con tu **documento de identidad**, tu **cuenta bancaria** y la **solicitud**: la Seguridad Social ya tiene tus cotizaciones. Según tu situación, te pedirán además el **libro de familia** (cónyuge o hijos), **certificados de empresa** (profesiones con coeficientes reductores), **documentos del despido** (anticipada involuntaria), el **certificado de discapacidad** o los **periodos trabajados en el extranjero**.
+> Para una jubilación ordinaria basta, en la mayoría de los casos, con tu **documento de identidad**, tu **cuenta bancaria** y la **solicitud**: la Seguridad Social ya tiene tus cotizaciones. Según tu situación, te pedirán además el **libro de familia** (cónyuge o hijos), **certificados de empresa** (profesiones con coeficientes reductores), **documentos del despido** (anticipada involuntaria), el **[certificado de discapacidad](/dependencia/grado-discapacidad/)** o los **periodos trabajados en el extranjero**.
 >
 > **[Descarga la lista para imprimir (PDF)](descargas/checklist-documentos-jubilacion.pdf)** y ve marcando lo que ya tienes.
 
@@ -92,4 +92,4 @@ Tu NIE y el pasaporte o documento de identidad de tu país.
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía del grado de discapacidad. 27 de septiembre de 2026, primera versión.*

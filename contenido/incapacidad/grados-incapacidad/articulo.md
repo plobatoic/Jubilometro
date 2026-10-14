@@ -8,7 +8,7 @@ miga: Grados de incapacidad
 palabra_clave_principal: grados de incapacidad permanente
 intencion: informativa
 fase_plan: F1 (artículo n.º 45)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Grados de incapacidad permanente: parcial, total, absoluta y gran incapacidad, qué significa cada uno y cuánto se cobra
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > La incapacidad permanente tiene **cuatro grados**, según cuánto te impide trabajar:
 >
-> - **Parcial**: rindes al menos un 33 % menos en tu trabajo, pero puedes hacerlo. Cobras una **indemnización única de 24 mensualidades**.
+> - **[Parcial](/incapacidad/incapacidad-parcial/)**: rindes al menos un 33 % menos en tu trabajo, pero puedes hacerlo. Cobras una **indemnización única de 24 mensualidades**.
 > - **Total**: no puedes hacer tu trabajo habitual, pero sí otro. Cobras el **55 %** de tu base reguladora (el **75 %** desde los 55 años si no trabajas).
 > - **Absoluta**: no puedes trabajar en nada. Cobras el **100 %**, sin IRPF.
 > - **Gran incapacidad**: además, necesitas ayuda de otra persona para comer, vestirte o moverte. Cobras el **100 % más un complemento** para pagar a quien te cuide.
@@ -151,4 +151,4 @@ No hay una lista oficial de enfermedades: el INSS valora cómo tus limitaciones 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad permanente y su grado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión absoluta o de gran incapacidad si se trabaja con alta (artículo 198.2).*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía de la incapacidad parcial. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión absoluta o de gran incapacidad si se trabaja con alta (artículo 198.2).*

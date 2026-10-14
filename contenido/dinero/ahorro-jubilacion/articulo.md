@@ -8,7 +8,7 @@ miga: Cuánto ahorrar para jubilarte
 palabra_clave_principal: cuánto dinero necesito para jubilarme
 intencion: informativa
 fase_plan: F2 (artículo n.º 87)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Cuánto dinero necesitas ahorrado para jubilarte: cómo calcularlo con tu gasto, tu pensión y los años que vivirás
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del INE y del BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del INE y del BOE*
 
 > **Respuesta rápida**
 >
@@ -128,9 +128,10 @@ Divide el capital que necesitas entre los meses que te quedan hasta jubilarte. E
 - ¿Quieres tu cifra exacta? Usa la [calculadora de ahorro para la jubilación](/calculadoras/cuanto-ahorrar-jubilacion/).
 - ¿Cuánto cobrarás? Mira [cuánto cobraré según mi sueldo](/cuanto-cobrare/pension-segun-sueldo/).
 - ¿Tienes un plan de pensiones? Consulta cómo [rescatarlo pagando menos impuestos](/dinero/rescate-plan-pensiones/).
+- ¿Tienes aportaciones de hace más de 10 años? Mira [cómo sacarlas sin estar jubilado](/dinero/rescate-aportaciones-10-anos/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento financiero profesional. Las rentabilidades son hipótesis de cálculo, no previsiones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 29 de septiembre de 2026, primera versión.*

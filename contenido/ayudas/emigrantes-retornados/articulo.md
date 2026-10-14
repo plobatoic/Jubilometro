@@ -8,7 +8,7 @@ miga: Emigrantes retornados
 palabra_clave_principal: emigrantes retornados
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Emigrantes retornados: el subsidio de hasta 18 meses, la pensión para mayores de 65 y la sanidad al volver a España
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE, del SEPE y de la Delegación del Gobierno*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE, del SEPE y de la Delegación del Gobierno*
 
 > **Respuesta rápida**
 >
@@ -55,7 +55,7 @@ Lo regula la [disposición adicional 57.ª de la Ley General de la Seguridad Soc
 6. **No tener rentas propias de más de 915,75 euros** en el mes anterior a la solicitud: el 75 % del salario mínimo, sin pagas extra ([artículo 275](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a275)). No cuentan los ingresos de tu familia.
 7. Tener el **certificado de emigrante retornado** (te contamos abajo cómo se pide).
 
-**Si vuelves de Europa no es para ti.** Según el SEPE, este subsidio no se aplica si trabajaste en el Espacio Económico Europeo (la Unión Europea, Islandia, Liechtenstein y Noruega), en Suiza, en Chile, en China si cotizaste allí por desempleo, o en Australia si tenías la residencia permanente. Si vuelves de la Unión Europea, del Espacio Económico Europeo, del Reino Unido, de Suiza o de Australia con residencia permanente, no te hace falta el certificado de emigrante retornado: el trabajo hecho allí se acredita directamente en el SEPE, normalmente con el **formulario U1** (el E301 si vienes de Noruega, Islandia o Liechtenstein).
+**Si vuelves de la Unión Europea no es para ti.** Según el SEPE, este subsidio no se aplica si trabajaste en el Espacio Económico Europeo (la Unión Europea, Islandia, Liechtenstein y Noruega), en Suiza, en Chile, en China si cotizaste allí por desempleo, o en Australia si tenías la residencia permanente. Si vuelves de la Unión Europea, del Espacio Económico Europeo, del Reino Unido, de Suiza o de Australia con residencia permanente, no te hace falta el certificado de emigrante retornado: el trabajo hecho allí se acredita directamente en el SEPE, normalmente con el **formulario U1** (el E301 si vienes de Noruega, Islandia o Liechtenstein).
 
 ### Cuánto se cobra en 2026
 
@@ -204,4 +204,4 @@ Si eres español de origen y vuelves de un país donde España paga la prestaci�
 
 *Este artículo es informativo. Los requisitos y los documentos pueden variar según tu caso y tu provincia: confírmalos en el SEPE y en tu Delegación o Subdelegación del Gobierno antes de hacer el trámite. Información vigente a 12 de octubre de 2026. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, precisión sobre los países de los que se puede volver. 12 de octubre de 2026, primera versión.*

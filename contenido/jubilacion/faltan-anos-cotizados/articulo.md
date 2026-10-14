@@ -8,7 +8,7 @@ miga: Me faltan años cotizados
 palabra_clave_principal: me faltan años cotizados para jubilarme
 intencion: informativa
 fase_plan: F3 (artículo n.º 20)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-14
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Me faltan años cotizados para jubilarme: opciones legales para completarlos
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -48,7 +48,7 @@ Consulta tu **informe de vida laboral** para saber exactamente cuántos días ti
 
 ## Vía 1: seguir cotizando trabajando
 
-Cualquier trabajo con alta en la Seguridad Social suma: a tiempo completo, parcial, como autónomo o como empleada del hogar. Si tienes derecho a paro, los meses en que lo cobras también cotizan.
+Cualquier trabajo con alta en la Seguridad Social suma: a tiempo completo, parcial, como autónomo o como [empleada del hogar](/jubilacion/empleadas-de-hogar/). Si tienes derecho a paro, los meses en que lo cobras también cotizan.
 
 Si ya has cumplido tu edad ordinaria, trabajar más además te da derecho a la [jubilación demorada](/jubilacion/demorada/).
 
@@ -122,4 +122,4 @@ Todavía puedes cotizar el año que te falta (trabajando o con convenio especial
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía de las empleadas de hogar. 27 de septiembre de 2026, primera versión.*

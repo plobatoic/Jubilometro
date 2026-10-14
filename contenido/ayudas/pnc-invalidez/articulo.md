@@ -8,7 +8,7 @@ miga: PNC de invalidez
 palabra_clave_principal: pensión no contributiva de invalidez
 intencion: informativa
 fase_plan: F2 (artículo n.º 56)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Pensión no contributiva de invalidez en 2026: requisitos, cuánto se cobra y cómo compatibilizarla con un trabajo
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
 
 > **Respuesta rápida**
 >
@@ -60,7 +60,7 @@ Qué ingresos cuentan (en bruto), qué no cuenta (tu vivienda habitual, las pres
 
 Tus ingresos propios de hasta el **35 %** de la pensión (3.081,12 euros al año) no la reducen; lo que pase de esa cifra se descuenta, sin bajar del 25 % ([artículo 364](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a364)).
 
-**Complemento por tercera persona**: si tu grado de discapacidad es del **75 % o más** y, por tus limitaciones, necesitas a otra persona para los actos esenciales de la vida (vestirte, desplazarte, comer…), cobras además el **50 % de la pensión**: 4.401,60 euros al año, **314,40 euros al mes**.
+**Complemento por tercera persona**: si tu [grado de discapacidad](/dependencia/grado-discapacidad/) es del **75 % o más** y, por tus limitaciones, necesitas a otra persona para los actos esenciales de la vida (vestirte, desplazarte, comer…), cobras además el **50 % de la pensión**: 4.401,60 euros al año, **314,40 euros al mes**.
 
 ## Trabajar cobrando la pensión
 
@@ -115,4 +115,4 @@ Pasa a ser pensión no contributiva de jubilación, con las mismas condiciones y
 
 *Este artículo es informativo y no sustituye la resolución del organismo de tu comunidad autónoma, que es quien reconoce la pensión no contributiva. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a la guía del grado de discapacidad. 28 de septiembre de 2026, primera versión.*

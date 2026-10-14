@@ -8,7 +8,7 @@ miga: Jubilación de funcionarios
 palabra_clave_principal: jubilación funcionarios clases pasivas
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-02
+fecha_actualizacion: 2026-10-14
 publicacion: 2026-10-02
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Jubilación de los funcionarios: Clases Pasivas o Seguridad Social, edades, cálculo de la pensión y MUFACE
 
-*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -133,7 +133,7 @@ Si eras mutualista, la asistencia sanitaria apenas cambia al jubilarte:
 - **Sigues siendo mutualista** de MUFACE si lo eras en activo (los militares tienen ISFAS y el personal de Justicia, MUGEJU, con reglas parecidas). Los funcionarios de ayuntamientos, de las comunidades autónomas con cuerpos propios o de la Seguridad Social no están en MUFACE: su asistencia sanitaria es la de la Seguridad Social.
 - **Dejas de pagar la cuota**: los mutualistas jubilados están exentos de cotizar a MUFACE.
 - **Sigues eligiendo entidad médica**: la sanidad pública o una de las aseguradoras del concierto. Para 2025-2027 son **Adeslas y Asisa**, y el cambio ordinario se puede pedir en **enero y en junio** de cada año.
-- **Los medicamentos no son gratis**: los mutualistas, también los jubilados, pagan con carácter general el **30 %** del precio ([artículo 102.9 de la ley del medicamento](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102)). MUFACE convoca cada año ayudas para compensar parte de ese gasto a los jubilados.
+- **Los medicamentos no son gratis**: los mutualistas ([compáralo con lo que pagan los demás pensionistas](/dinero/seguro-salud-mayores/)), también los jubilados, pagan con carácter general el **30 %** del precio ([artículo 102.9 de la ley del medicamento](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8343#a102)). MUFACE convoca cada año ayudas para compensar parte de ese gasto a los jubilados.
 - **Subsidio de jubilación**: si te jubilas forzosamente o por incapacidad, puedes pedir este pago único en los **cinco años** siguientes, en la sede electrónica de MUFACE.
 
 ## Preguntas frecuentes
@@ -182,4 +182,4 @@ Sí, puedes pedirlo hasta los 70 años, y tu administración debe responder de f
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de Clases Pasivas o de tu órgano de personal. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, enlaces a las guías de docentes, Guardia Civil, Policía Nacional y militares. 2 de octubre de 2026, primera versión.*
+*Historial de cambios: 14 de octubre de 2026, enlace a lo que pagan los pensionistas en la farmacia. 6 de octubre de 2026, enlaces a las guías de docentes, Guardia Civil, Policía Nacional y militares. 2 de octubre de 2026, primera versión.*
