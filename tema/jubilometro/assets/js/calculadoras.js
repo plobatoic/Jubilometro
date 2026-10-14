@@ -26,7 +26,7 @@
     // noviembre, redondeada a un decimal. Mientras no se publique el IPC de noviembre es una
     // estimación: pct supone que los meses que faltan repiten el último dato; min y max son la
     // horquilla de la guía de revalorización. Al aprobarse, poner oficial: true y la cifra.
-    subida: { anio: 2027, pct: 3.6, min: 3.3, max: 3.7, oficial: false, datos: 'el IPC hasta septiembre de 2026 (dato adelantado)', pnc: 628.80 }
+    subida: { anio: 2027, pct: 3.6, min: 3.3, max: 3.7, oficial: false, datos: 'el IPC definitivo hasta septiembre de 2026', pnc: 628.80 }
   };
 
   // Edad ordinaria (art. 205.1.a y DT 7ª LGSS): año -> [meses cotizados para 65, edad exigida en meses si no]

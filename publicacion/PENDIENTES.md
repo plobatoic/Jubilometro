@@ -55,7 +55,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 ### En fechas concretas
 
-7. **14 y 30 de octubre, 13 y 27 de noviembre** (días del IPC): escribirme «IPC». Actualizo la subida de 2027, la calculadora, las imágenes y lo que va entre corchetes en las publicaciones. Si lo prefieres, lo dejo programado para que se haga solo esos días.
+7. **30 de octubre, 13 y 27 de noviembre** (días del IPC): escribirme «IPC» (el del 14 de octubre ya está hecho: el definitivo de septiembre confirmó el 4,9 %). Actualizo la subida de 2027, la calculadora, las imágenes y lo que va entre corchetes en las publicaciones. Si lo prefieres, lo dejo programado para que se haga solo esos días.
 8. **El día que aprueben la web:** decirme la fecha. Con ella hago el calendario de 12 semanas del banco (`publicacion/redes/banco/LEEME.md`).
 9. **El primer día de redes:** publicar la presentación en todas y fijar arriba la de X y las normas del grupo.
 10. **Metricool:** importar el CSV del calendario. Antes, probar con dos filas.
@@ -82,7 +82,6 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 | Fecha | Qué |
 |---|---|
-| 14 de octubre | IPC definitivo de septiembre: subida de 2027 (y su imagen para Facebook) |
 | 29 de octubre | Pensión media por provincia con la nómina de octubre |
 | 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
 | 1 de noviembre | Plazos de los balnearios del Imserso |

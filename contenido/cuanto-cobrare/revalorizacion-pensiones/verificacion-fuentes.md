@@ -8,7 +8,7 @@
 | 4 | Pensiones no contributivas: al menos el mismo porcentaje que las contributivas | Art. 62 LGSS | Texto del BOE | Verificado en BOE |
 | 5 | Desde 2027, mínima con cónyuge a cargo (65+) ≥ umbral de la pobreza de un hogar de dos adultos (1,5 × umbral unipersonal de la ECV); resto de mínimas +50 % del incremento adicional; PNC con referencia 0,75 × umbral unipersonal | DA 53.ª LGSS (bloque da-29 de la API) | Texto del BOE | Verificado en BOE |
 | 6 | Pensión máxima: porcentaje del art. 58.2 + 0,115 puntos acumulativos hasta 2050 | DT 39.ª LGSS; preámbulo del RD 241/2026 | Texto del BOE | Verificado en BOE |
-| 7 | IPC interanual: dic-2025 2,9; ene-2026 2,3; feb 2,3; mar 3,4; abr 3,2; may 3,2; jun 3,2; jul 3,6; ago 4,3; sep 4,9 (dato adelantado, tipo 3 en la API). Media de los 10 meses: 33,3 / 10 = 3,33 % | INE, serie IPC290750 (API Tempus3, consultada el 28/09/2026 y el 02/10/2026) | Datos oficiales | Verificado en INE |
+| 7 | IPC interanual: dic-2025 2,9; ene-2026 2,3; feb 2,3; mar 3,4; abr 3,2; may 3,2; jun 3,2; jul 3,6; ago 4,3; sep 4,9 (definitivo desde el 14/10/2026, tipo 1 en la API; igual que el adelantado). Media de los 10 meses: 33,3 / 10 = 3,33 % | INE, serie IPC290750 (API Tempus3, consultada el 28/09/2026, el 02/10/2026 y el 14/10/2026) | Datos oficiales | Verificado en INE |
 | 8 | Escenarios: (33,3 + 2 × media oct-nov) / 12 → 3,0 → 3,28 %; 3,5 → 3,36 %; 4,0 → 3,44 %; 4,5 → 3,53 %; 4,9 → 3,59 %; 5,5 → 3,69 % | — | Cálculo propio | Cálculo propio (estimación, 02/10/2026) |
 | 9 | Redondeo a un decimal: media dic-2024/nov-2025 = 2,67 % → subida 2026 del 2,7 %; media dic-2023/nov-2024 = 2,80 % → 2025 del 2,8 % | INE (IPC290750) y La Moncloa | Cálculo propio con datos oficiales | Verificado |
 | 10 | Subidas 2022-2026: 2,5 %, 8,5 %, 3,8 %, 2,8 %, 2,7 % | La Moncloa, nota del 10/02/2026 | — | Verificado |
@@ -21,5 +21,5 @@
 
 ## Pendiente de actualizar
 
-- IPC definitivo de septiembre (mediados de octubre), octubre y noviembre: actualizar la tabla y la horquilla cada mes.
+- IPC de octubre (adelantado el 30/10, definitivo el 13/11) y de noviembre: actualizar la tabla y la horquilla cada mes. El definitivo de septiembre (14/10) confirmó el 4,9 %.
 - Finales de noviembre: cifra definitiva de la subida. Finales de diciembre: norma que la aprueba y cuantías mínimas y máxima de 2027.

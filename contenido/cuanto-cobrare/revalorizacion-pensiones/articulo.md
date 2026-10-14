@@ -23,7 +23,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> En enero de 2027, las pensiones contributivas subirán lo que marque la **inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026**. Con los datos del INE hasta septiembre (dato adelantado), esa media va por el **3,33 %**, así que la subida apunta a **entre el 3,3 % y el 3,7 %**. La cifra exacta se sabrá a finales de noviembre.
+> En enero de 2027, las pensiones contributivas subirán lo que marque la **inflación media de los doce meses que van de diciembre de 2025 a noviembre de 2026**. Con los datos definitivos del INE hasta septiembre, esa media va por el **3,33 %**, así que la subida apunta a **entre el 3,3 % y el 3,7 %**. La cifra exacta se sabrá a finales de noviembre.
 >
 > La subida se aplica sola, sin pedir nada, y se cobra desde la **pensión de enero**. Las pensiones mínimas y las no contributivas subirán además lo necesario para acercarse al umbral de la pobreza, como marca la ley para 2027.
 >
@@ -47,7 +47,7 @@ Estos son los datos que ha publicado el [Instituto Nacional de Estadística (INE
 | Junio de 2026 | 3,2 % |
 | Julio de 2026 | 3,6 % |
 | Agosto de 2026 | 4,3 % |
-| Septiembre de 2026 (dato adelantado) | 4,9 % |
+| Septiembre de 2026 | 4,9 % |
 | Octubre y noviembre de 2026 | Pendientes de publicar |
 | **Media de los diez meses conocidos** | **3,33 %** |
 
@@ -173,4 +173,4 @@ No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la m
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a la pensión a favor de familiares. 12 de octubre de 2026, cuándo se aprueban las cuantías con las elecciones de por medio. 10 de octubre de 2026, qué pasa con la subida por las elecciones del 29 de noviembre. 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*
+*Historial de cambios: 14 de octubre de 2026, el IPC definitivo de septiembre confirma el 4,9 % y enlace a la pensión a favor de familiares. 12 de octubre de 2026, cuándo se aprueban las cuantías con las elecciones de por medio. 10 de octubre de 2026, qué pasa con la subida por las elecciones del 29 de noviembre. 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*
