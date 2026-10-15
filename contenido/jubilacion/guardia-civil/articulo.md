@@ -8,7 +8,7 @@ miga: Jubilación de la Guardia Civil
 palabra_clave_principal: jubilación guardia civil
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-06
+fecha_actualizacion: 2026-10-15
 publicacion: 2026-10-06
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación de la Guardia Civil: pase a la reserva, retiro a los 65 y cuánto se cobra de pensión
 
-*Actualizado el 6 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 15 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -105,10 +105,11 @@ No en la Seguridad Social: a diferencia de los policías locales o los bomberos,
 
 - ¿Cómo funciona Clases Pasivas? Lee [la jubilación de los funcionarios](/jubilacion/funcionarios/).
 - ¿Eres policía nacional? Mira [la jubilación de la Policía Nacional](/jubilacion/policia-nacional/).
+- ¿Eres militar de las Fuerzas Armadas? Mira [la jubilación de los militares](/jubilacion/militares/).
 - ¿Qué profesiones sí tienen coeficientes? Lee [jubilación anticipada por profesión](/jubilacion/anticipada-por-profesion/).
 
 ---
 
 *Este artículo es informativo y no sustituye la información de la Dirección General de la Guardia Civil ni de Clases Pasivas. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 15 de octubre de 2026, enlace a la jubilación de los militares. 6 de octubre de 2026, primera versión.*

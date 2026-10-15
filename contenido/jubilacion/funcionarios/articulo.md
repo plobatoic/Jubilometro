@@ -8,7 +8,7 @@ miga: Jubilación de funcionarios
 palabra_clave_principal: jubilación funcionarios clases pasivas
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-15
 publicacion: 2026-10-02
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,11 +21,11 @@ fuentes_legales:
 
 # Jubilación de los funcionarios: Clases Pasivas o Seguridad Social, edades, cálculo de la pensión y MUFACE
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 15 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> Depende de cuándo entraste. Si eres funcionario de carrera del Estado (incluidos docentes, militares y personal de Justicia) y entraste **antes del 1 de enero de 2011**, te jubilas por **Clases Pasivas**: forzosamente a los **65 años** o, si lo pides, desde los **60 con 30 años de servicios**. Tu pensión es el **haber regulador** de tu grupo multiplicado por un porcentaje que llega al **100 % con 35 años de servicios**.
+> Depende de cuándo entraste. Si eres funcionario de carrera del Estado (incluidos [docentes](/jubilacion/docentes/), [militares](/jubilacion/militares/) y personal de Justicia) y entraste **antes del 1 de enero de 2011**, te jubilas por **Clases Pasivas**: forzosamente a los **65 años** o, si lo pides, desde los **60 con 30 años de servicios**. Tu pensión es el **haber regulador** de tu grupo multiplicado por un porcentaje que llega al **100 % con 35 años de servicios**.
 >
 > Si entraste **desde el 1 de enero de 2011**, tu pensión es de la **Seguridad Social**, con las mismas reglas que el resto de trabajadores. Si eres mutualista de **MUFACE**, sigues siéndolo al jubilarte y dejas de pagar su cuota.
 
@@ -182,4 +182,4 @@ Sí, puedes pedirlo hasta los 70 años, y tu administración debe responder de f
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de Clases Pasivas o de tu órgano de personal. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a lo que pagan los pensionistas en la farmacia. 6 de octubre de 2026, enlaces a las guías de docentes, Guardia Civil, Policía Nacional y militares. 2 de octubre de 2026, primera versión.*
+*Historial de cambios: 15 de octubre de 2026, enlaces a las guías de docentes y militares. 14 de octubre de 2026, enlace a lo que pagan los pensionistas en la farmacia. 6 de octubre de 2026, enlaces a las guías de docentes, Guardia Civil, Policía Nacional y militares. 2 de octubre de 2026, primera versión.*

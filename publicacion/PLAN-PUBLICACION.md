@@ -228,6 +228,13 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Revisión de SEO, rastreo y AdSense (15/10/2026, tema 2.11.5)
+
+- **Rastreo**: 170 URL del sitemap, 488 direcciones propias, ninguna rota. SEO sin fallos (título, descripción, canónica, robots, Open Graph, un h1, JSON-LD válido, nada duplicado). `dateModified` y `lastmod` del sitemap al día. IndexNow activo (clave 200). llms.txt incluye las guías nuevas.
+- **AdSense**: `ads.txt` correcto; `google-adsense-account` en todas las páginas y `adsbygoogle.js` en guías, temas y portada (no en calculadoras ni legales, a propósito). El mensaje de consentimiento de Google (TCF) está activo (`__tcfapi`, `googlefcPresent`) y los anuncios automáticos también; desde el servidor de pruebas (fuera de la UE) el hueco sale «unfilled». Botón «Configurar cookies» en el pie y políticas con la revocación.
+- **Velocidad (Lighthouse local, móvil)**: portada 78, guía de edad 84; accesibilidad, SEO 100; prácticas 79 (solo por AdSense). LCP de la guía 3,7 s: la foto (55 KB) compite con unos 375 KB de AdSense y del mensaje de consentimiento. Mejora propuesta tras la aprobación: cargar AdSense después del contenido.
+- **Estadísticas propias (30 días)**: 151 vistas, 50 desde Google; la guía que más entra desde Google es la de militares, seguida de edad de jubilación, Guardia Civil, bomberos y Policía Nacional. Enlaces nuevos hacia militares desde funcionarios, Guardia Civil y edad de jubilación.
+
 ### Tres guías nuevas y sus publicaciones (tema 2.11.4, 12/10/2026)
 
 - **[Prejubilación](https://jubilometro.com/jubilacion/prejubilacion/)** (id 848): convenio especial en los despidos colectivos de trabajadores de 55 años o más (art. 51.9 del Estatuto de los Trabajadores, DA 13.ª LGSS, art. 20 de la Orden TAS/2865/2003). La empresa paga hasta los 63 (61 por causas económicas), base de los últimos seis meses, quién lo pide y en qué plazo, indemnización y su IRPF, aportación al Tesoro y el ejemplo de Javier. Enlazada desde despido a los 60, anticipada involuntaria, subsidio de 52 y convenio especial. Enlace corto `prejubilacion`.
