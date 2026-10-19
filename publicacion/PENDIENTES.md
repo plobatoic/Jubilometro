@@ -70,7 +70,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 ### Cuando llegue
 
-16. **AdSense** (en revisión a 15 de octubre de 2026): esperar la respuesta de Google, que suele tardar de 2 a 4 semanas. Mientras tanto no se toca el código de anuncios. Si la aprueban, avisarme: haré que los anuncios carguen después del texto, para que la web vaya más rápida en el móvil, y revisaré que no rompan nada. Si la rechazan, pasarme el motivo exacto que da Google.
+16. **AdSense** (en revisión a 19 de octubre de 2026): esperar la respuesta de Google, que suele tardar de 2 a 4 semanas. Mientras tanto no se toca el código de anuncios. Si la aprueban, avisarme: haré que los anuncios carguen después del texto, para que la web vaya más rápida en el móvil, y revisaré que no rompan nada. Si la rechazan, pasarme el motivo exacto que da Google.
 
 ### Cuando quieras (opcional)
 
