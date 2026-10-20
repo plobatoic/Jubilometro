@@ -3,7 +3,7 @@ titulo_seo: "Política de cookies de Jubilómetro"
 h1: "Política de cookies"
 meta_descripcion: "Qué cookies usa jubilometro.com: las técnicas y, si lo aceptas, las de anuncios de Google AdSense. Cómo cambiar tu elección y cómo borrarlas."
 url: /politica-de-cookies/
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-20
 ---
 
 # Política de cookies
@@ -62,4 +62,4 @@ Si bloqueas todas las cookies, puede que alguna función de la web no vaya bien.
 
 ## 5. Más información
 
-Cómo tratamos los datos personales se explica en la [política de privacidad](/politica-de-privacidad/). Si añadimos otras cookies, por ejemplo de estadísticas de visitas, actualizaremos antes esta página y el aviso de consentimiento.
+Cómo tratamos los datos personales se explica en la [política de privacidad](/politica-de-privacidad/). Las estadísticas de visitas de la propia web no usan cookies ni guardan nada en tu dispositivo: solo cuentan visitas por día. Si añadimos otras cookies, actualizaremos antes esta página y el aviso de consentimiento.

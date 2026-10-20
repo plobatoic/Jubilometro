@@ -26,7 +26,7 @@ fuentes_legales:
 >
 > Desde 2022 **no hay límite de ingresos**. Si no llegáis a los dos años de inscripción, se puede cobrar una **prestación temporal de viudedad durante dos años**.
 
-**Novedad del 20 de octubre de 2026**: el Consejo de Ministros ha aprobado un real decreto-ley que, según [la información difundida tras el Consejo de Ministros](https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-consejo-de-ministros-aprueba-nuevas-medidas-de-proteccion-social-en-materia-de-viudedad-incapacidad-temporal-y-prestaciones-familiares-2026-10-20/), permitirá cobrar la viudedad a las parejas con **hijos en común** que acrediten **dos años de convivencia**, aunque **no estén inscritas** como pareja de hecho. Quien la pidió para un fallecimiento anterior y se la denegaron tendrá **un año** para volver a pedirla. Entrará en vigor cuando se publique en el **BOE**, y la Diputación Permanente del Congreso tiene que convalidarlo. Actualizaremos esta guía con el texto oficial.
+**Novedad del 20 de octubre de 2026**: el Consejo de Ministros ha aprobado un real decreto-ley que, según [ha explicado el Gobierno](https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/201026-rueda-prensa-ministros.aspx), permitirá cobrar la viudedad a las parejas con **hijos en común** que acrediten **dos años de convivencia**, aunque **no estén inscritas** como pareja de hecho. Quien la pidió para un fallecimiento anterior y se la denegaron tendrá **un año** para volver a pedirla. Entrará en vigor cuando se publique en el **BOE**, y la Diputación Permanente del Congreso tiene que convalidarlo. Actualizaremos esta guía con el texto oficial.
 
 ## Los requisitos de la pareja de hecho
 

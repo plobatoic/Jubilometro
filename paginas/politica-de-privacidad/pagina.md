@@ -3,7 +3,7 @@ titulo_seo: "Política de privacidad de Jubilómetro"
 h1: "Política de privacidad"
 meta_descripcion: "Qué datos trata Jubilómetro, para qué y cómo ejercer tus derechos. Las calculadoras no guardan tus datos; los anuncios de Google, solo si lo aceptas."
 url: /politica-de-privacidad/
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-20
 ---
 
 # Política de privacidad
@@ -28,6 +28,8 @@ Los datos que escribes en las calculadoras (fecha de nacimiento, años cotizados
 | Identificadores de cookies y del dispositivo, dirección IP y páginas que visitas, que recogen Google y sus socios publicitarios al mostrar anuncios | Mostrar anuncios, medirlos y evitar el fraude; si lo aceptas, personalizarlos según tu navegación | Tu consentimiento en el aviso de cookies (art. 6.1.a RGPD). Algunos socios alegan interés legítimo para ciertos fines: puedes oponerte en el mismo aviso | Según la [política de cookies](/politica-de-cookies/); hasta 13 meses en las cookies de Google |
 | Datos técnicos de la conexión (dirección IP, navegador, página visitada, fecha y hora), en los registros del servidor | Mantener la web en funcionamiento y protegerla frente a ataques | Interés legítimo en la seguridad de la web (art. 6.1.f RGPD) | El plazo que fija el proveedor de alojamiento para sus registros |
 
+**Estadísticas de visitas.** Para saber qué guías se leen y cómo se llega a ellas, la web cuenta las páginas vistas, de dónde llega la visita (un buscador, una red social, un enlace) y qué botones se pulsan. Solo guarda **sumas por día**: no usa cookies ni guarda nada en tu dispositivo, y no conserva tu dirección IP ni ningún dato que te identifique, así que esas cifras no son datos personales.
+
 Jubilómetro no te envía publicidad por correo, no elabora perfiles con tus datos y no toma decisiones automatizadas sobre ti. Los anuncios los selecciona Google.
 
 ## 4. Quién más accede a los datos
@@ -51,4 +53,4 @@ La web está dirigida a personas adultas. No tratamos a sabiendas datos de menor
 
 ## 7. Cambios en esta política
 
-Si cambia la forma en que tratamos los datos (por ejemplo, si añadimos estadísticas de visitas), actualizaremos esta página y su fecha antes de aplicar el cambio.
+Si cambia la forma en que tratamos los datos, actualizaremos esta página y su fecha antes de aplicar el cambio.

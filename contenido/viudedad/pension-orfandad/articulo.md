@@ -8,7 +8,7 @@ miga: Pensión de orfandad
 palabra_clave_principal: pensión de orfandad
 intencion: informativa
 fase_plan: F3 (artículo n.º 42)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Pensión de orfandad en 2026: quién la cobra, cuánto es, hasta qué edad y qué pasa si faltan los dos padres
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -53,7 +53,7 @@ Porcentajes del [artículo 17 de la Orden de 13 de febrero de 1967](https://www.
 
 **Hay un límite**: la suma de la viudedad y las orfandades no puede superar el **100 % de la base reguladora**. Si la viudedad es del 70 % (por cargas familiares), el límite puede superarse, pero las orfandades juntas no pueden pasar del **48 %** ([artículo 229](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a229)).
 
-**Violencia contra la mujer**: si la madre fallece por violencia contra la mujer y los hijos no reúnen los requisitos de la pensión, tienen una **prestación de orfandad** (en 2026, como mínimo 11.603,20 euros al año con un solo beneficiario).
+**Violencia contra la mujer**: si la madre fallece por violencia contra la mujer y los hijos no reúnen los requisitos de la pensión, tienen una **prestación de orfandad** (en 2026, como mínimo 11.603,20 euros al año con un solo beneficiario). El 20 de octubre de 2026, el Consejo de Ministros aprobó un real decreto-ley que, según [ha explicado el Gobierno](https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/201026-rueda-prensa-ministros.aspx), elevará esta protección a una prestación equivalente al **doble del salario mínimo** vigente en cada momento. Se aplicará cuando se publique en el BOE.
 
 ## Ejemplos con una base reguladora de 1.800 euros
 
@@ -110,4 +110,4 @@ No, si el huérfano tiene menos de 22 años o está incapacitado para todo traba
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre sobre la prestación de orfandad por violencia contra la mujer (pendiente del BOE). 29 de septiembre de 2026, primera versión.*
