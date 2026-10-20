@@ -93,7 +93,7 @@ A 30 de septiembre de 2026, **99.224 personas** tenían resuelto su PIA en Galic
 
 Cada persona recibe de media **1,67 prestaciones**, más que la media española (1,45). La **teleasistencia** (34,40 % frente al 27,27 % en España) y la **prestación vinculada al servicio** (12,71 % frente al 9,47 %) pesan más que en el resto del país.
 
-**Cuantía media de la prestación por cuidados familiares en Galicia**: 383,09 euros al mes con grado I, 389,64 con grado II y 397,14 con grado III, muy por encima de la media española (174,91, 278,78 y 386,36) gracias al Bono Cuidado en el Hogar. Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en Galicia**: 383,09 euros al mes con grado I, 389,64 con grado II y 397,14 con grado III, muy por encima de la media española en los grados I y II (174,91 y 278,78) y algo por encima en el grado III (386,36), gracias al Bono Cuidado en el Hogar. Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 **Plazas públicas**: para los centros de día, residencias, teleasistencia y ayuda en el hogar, la Xunta ordena la lista de espera con su **Programa de Asignación de Recursos**, que da prioridad al mayor grado, a la menor capacidad económica, a la situación familiar y a quien no recibe otra prestación.
 
@@ -109,7 +109,7 @@ No. La Xunta consulta directamente tu historia clínica del Sergas, salvo que te
 
 ### ¿Cuánto tarda la dependencia en Galicia?
 
-La Xunta tiene seis meses para resolver. Según el Imserso, la media fue de 307 días desde la solicitud hasta la prestación (datos a septiembre de 2026): 179 días hasta el grado y 140 más hasta la prestación.
+La Xunta tiene seis meses para resolver. Según el Imserso, la media fue de 307 días desde la solicitud hasta la prestación (datos a septiembre de 2026). Por fases, la media fue de 179 días hasta el grado y de 140 del grado a la prestación (cada media sale de expedientes distintos, por eso no suman 307).
 
 ### ¿Qué es el bono de 5.000 euros de la Xunta?
 
@@ -136,4 +136,4 @@ Sí. En Galicia es la misma solicitud: el procedimiento BS210A sirve para pedir 
 
 *Este artículo es informativo y no sustituye la información de la Xunta de Galicia, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; comparación del grado III y medias por fases aclaradas. 5 de octubre de 2026, primera versión.*

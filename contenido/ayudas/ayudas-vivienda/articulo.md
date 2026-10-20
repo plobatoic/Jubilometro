@@ -8,7 +8,7 @@ miga: Adaptar la vivienda
 palabra_clave_principal: ayudas adaptar vivienda personas mayores
 intencion: informativa
 fase_plan: F3 (artículo n.º 76)
-fecha_actualizacion: 2026-09-30
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Ayudas para adaptar la vivienda de una persona mayor en 2026: subvenciones, obras en la comunidad de vecinos y alquiler
 
-*Actualizado el 30 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, el Ministerio de Hacienda y la Generalitat de Catalunya*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, el Ministerio de Hacienda y la Generalitat de Catalunya*
 
 > **Respuesta rápida**
 >
@@ -75,13 +75,13 @@ La [Ley de Propiedad Horizontal](https://www.boe.es/buscar/act.php?id=BOE-A-1960
 - **Obras obligatorias sin votación** (artículo 10.1.b): la comunidad debe hacer las obras de accesibilidad (**rampas, ascensores** u otros dispositivos) que pida un propietario en cuya vivienda viva una persona **mayor de 70 años** o con discapacidad, siempre que lo que se reparta a cada vecino en un año, **descontadas las subvenciones**, no supere **12 cuotas mensuales ordinarias** de comunidad. Si supera ese límite, **siguen siendo obligatorias** si quien las pide paga la diferencia. También lo son cuando las ayudas públicas cubren el **75 %** del coste.
 - **Por votación** (artículo 17.2): el resto de obras para suprimir barreras y la instalación de un **ascensor** se aprueban con la **mayoría** de los propietarios que representen la mayoría de las cuotas. Una vez aprobadas, todos pagan, aunque superen las 12 cuotas.
 
-**Ejemplo:** Manuel, de 75 años, es propietario de un piso en un edificio de 10 vecinos que pagan 60 euros al mes de comunidad, así que el límite es de 720 euros por vecino al año. Una rampa que cuesta 6.000 euros supone 600 euros por vecino: la comunidad **está obligada** a hacerla si Manuel la pide. Si costara 9.000 euros (900 por vecino), también lo estaría si Manuel paga los 1.800 euros que exceden del límite.
+**Ejemplo:** Manuel, de 75 años, es propietario de un piso en un edificio de 10 vecinos que pagan 60 euros al mes de comunidad, así que el límite es de 720 euros por vecino al año. Una rampa que cuesta 6.000 euros supone 600 euros por vecino: la comunidad **está obligada** a hacerla si Manuel la pide. Si costara 9.000 euros (900 por vecino), también lo estaría si Manuel pagara los 1.800 euros que exceden del límite.
 
 ## Si vives de alquiler
 
 El inquilino puede hacer en el **interior de la vivienda** las obras necesarias por su **edad superior a 70 años** o su discapacidad, o las de su cónyuge, pareja o familiares que vivan con él, **avisando antes por escrito** al propietario, siempre que no afecten a elementos comunes ni a la seguridad del edificio. Al terminar el contrato, el casero puede exigir que la vivienda vuelva a su estado anterior ([artículo 24 de la Ley de Arrendamientos Urbanos](https://www.boe.es/buscar/act.php?id=BOE-A-1994-26003#a24)).
 
-Para las obras en **elementos comunes** (el portal, la escalera, el ascensor), la [Ley 15/1995](https://www.boe.es/buscar/act.php?id=BOE-A-1995-12914) reconoce el derecho a pedirlas a los inquilinos, propietarios y usufructuarios con discapacidad, y los **mayores de 70 años** pueden ejercerlo **sin tener que acreditar** una discapacidad.
+Para las obras en **elementos comunes** (el portal, la escalera, el ascensor), la [Ley 15/1995](https://www.boe.es/buscar/act.php?id=BOE-A-1995-12914) reconoce a los inquilinos, propietarios y usufructuarios con discapacidad el derecho a pedirlas, y los **mayores de 70 años** pueden ejercerlo **sin tener que acreditar** una discapacidad.
 
 ## Programas de las comunidades, diputaciones y ayuntamientos
 
@@ -112,7 +112,7 @@ Sí. El plan estatal subvenciona hasta el 80 % de las obras de accesibilidad den
 
 ### ¿La comunidad de vecinos está obligada a poner una rampa o un ascensor?
 
-Sí, si lo pide un propietario en cuya casa vive una persona mayor de 70 años o con discapacidad y a cada vecino no le cuesta más de 12 cuotas mensuales al año, descontadas las ayudas. Si cuesta más, sigue siendo obligatoria si quien la pide paga la diferencia.
+Sí, si lo pide un propietario en cuya casa vive una persona mayor de 70 años o con discapacidad y a cada vecino no le cuesta más de 12 cuotas mensuales al año, descontadas las ayudas. Si cuesta más, la obra sigue siendo obligatoria si quien la pide paga la diferencia.
 
 ### ¿Cuánto paga el plan estatal por instalar un ascensor?
 
@@ -146,4 +146,4 @@ El 10 %, si eres un particular, la vivienda tiene más de dos años y los materi
 
 *Este artículo es informativo y no sustituye las bases de cada convocatoria ni el asesoramiento de un técnico o un abogado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 30 de septiembre de 2026, cerrado el plazo de la ayuda de Cataluña para arreglos interiores (terminó ese día a las 14:00). 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, tres frases corregidas. 30 de septiembre de 2026, cerrado el plazo de la ayuda de Cataluña para arreglos interiores (terminó ese día a las 14:00). 29 de septiembre de 2026, primera versión.*

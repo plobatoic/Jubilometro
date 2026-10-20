@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Jubilación de autónomos 2026: requisitos y cuánto cobran"
 h1: "Jubilación de autónomos: requisitos, cuánto cobran y cómo mejorar su pensión"
-meta_descripcion: "Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorarla."
+meta_descripcion: "Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorar su pensión."
 url: /jubilacion/autonomos/
 categoria: Jubilación
 miga: Jubilación de autónomos
@@ -83,7 +83,7 @@ Tienes dos vías:
 - **Jubilación activa:** si retrasas tu jubilación al menos un año, puedes cobrar entre el 45 % y el 100 % de la pensión y seguir de alta.
 - **Jubilación flexible:** si ya te jubilaste y quieres volver a una actividad por cuenta propia, cobras el 25 % de la pensión, siempre que no hayas sido autónomo en los 3 años anteriores a tu jubilación.
 
-Si te jubilas del todo, tienes que **darte de baja en el RETA**, salvo que trabajes con alguno de estos regímenes de compatibilidad.
+Al jubilarte tienes que **darte de baja en el RETA**, salvo que sigas trabajando con alguno de estos regímenes de compatibilidad.
 
 ## Profesionales con mutualidad alternativa: la pasarela al RETA
 
@@ -111,7 +111,7 @@ Si debes cuotas, la Seguridad Social te da 30 días naturales para pagarlas. Si 
 
 ### ¿Cuenta el tiempo cotizado como asalariado?
 
-Sí. Si has cotizado en varios regímenes, se suman los periodos. Si en ambos tienes derecho a pensión, hay reglas específicas; consúltalo con la Seguridad Social.
+Sí. Si has cotizado en varios regímenes, se suman los periodos. Si en más de uno tienes derecho a pensión, hay reglas específicas; consúltalo con la Seguridad Social.
 
 ### ¿Pueden los abogados con mutualidad pasarse al RETA?
 
@@ -139,4 +139,4 @@ Depende de las bases de cada año, pero con 30 años cotizados el porcentaje ser
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, pasarela al RETA para profesionales con mutualidad alternativa (Ley 2/2026). 6 de octubre de 2026, enlace a la guía de los trabajadores agrarios. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, pasarela al RETA para profesionales con mutualidad alternativa (Ley 2/2026); tres frases más claras. 6 de octubre de 2026, enlace a la guía de los trabajadores agrarios. 27 de septiembre de 2026, primera versión.*

@@ -52,7 +52,7 @@ Hasta el 22 de octubre de 2026, la ley la calificaba de **excepcional**. La [ref
 Según el [artículo 12 del Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811):
 
 - El **cónyuge o pareja de hecho**.
-- Los **parientes hasta el cuarto grado**, por consanguinidad, afinidad o adopción (hijos, nietos, hermanos, sobrinos, primos, y los de tu pareja).
+- Los **parientes hasta el cuarto grado**, por consanguinidad, afinidad o adopción (hijos, nietos, hermanos, sobrinos, primos, y los de su pareja).
 - Una **persona de su entorno** que la persona dependiente proponga y que pueda prestarle los cuidados.
 
 **Convivencia**: con grado **II o III**, el cuidador tiene que **vivir con la persona dependiente**. Con grado I se puede exceptuar si se garantiza la atención inmediata. Desde el 23 de octubre de 2026, la ley permite además no exigir la convivencia, de forma excepcional, cuando el cuidador **vive en una vivienda próxima** y se compromete a cuidar **sin cobrar** por ello ([artículo 18.2](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a18)). Las condiciones concretas de la prestación las acordarán el Estado y las comunidades en un nuevo real decreto. Mientras tanto, se sigue aplicando el de 2013.
@@ -107,7 +107,7 @@ La prestación la cobra la persona dependiente: como máximo 455,40 euros al mes
 
 ### ¿Quién puede ser cuidador no profesional?
 
-El cónyuge o pareja, un pariente hasta el cuarto grado o una persona del entorno que proponga la persona dependiente. Con grado II o III tiene que vivir con ella.
+El cónyuge o pareja, un pariente hasta el cuarto grado o una persona del entorno que proponga la persona dependiente. Con grado II o III tiene que vivir con ella, salvo que, de forma excepcional, viva en una vivienda próxima y se comprometa a cuidarla sin cobrar por ello.
 
 ### ¿El cuidador cotiza a la Seguridad Social?
 
@@ -143,4 +143,4 @@ Sí. Desde el 23 de octubre de 2026 la Ley 4/2026 elimina ese plazo suspensivo, 
 
 *Este artículo es informativo y no sustituye la resolución de tu comunidad autónoma, que es quien reconoce la prestación. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del plazo suspensivo de dos años, ya no es excepcional, convivencia, compatibilidades, derechos de la cuidadora principal y pago en caso de fallecimiento. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del plazo suspensivo de dos años, ya no es excepcional, convivencia, compatibilidades, derechos de la cuidadora principal y pago en caso de fallecimiento; pregunta frecuente al día con la reforma. 28 de septiembre de 2026, primera versión.*

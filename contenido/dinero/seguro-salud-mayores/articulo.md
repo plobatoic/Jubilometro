@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Seguro de salud para mayores de 65: qué mirar antes de firmar"
 h1: "Seguros de salud para mayores de 65: lo que ya cubre la sanidad pública, lo que pagas en la farmacia y qué mirar en una póliza privada"
-meta_descripcion: "Con 65 años tienes sanidad pública y pagas el 10 % de los medicamentos con un tope al mes. En un seguro privado, mira la renovación y las subidas."
+meta_descripcion: "Como pensionista tienes sanidad pública y pagas el 10 % de los medicamentos con un tope al mes. En un seguro privado, mira la renovación y las subidas."
 url: /dinero/seguro-salud-mayores/
 categoria: Dinero
 miga: Seguro de salud para mayores
 palabra_clave_principal: seguro de salud mayores de 65
 intencion: informativa
 fase_plan: F2 (artículo n.º 86)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Seguros de salud para mayores de 65: lo que ya cubre la sanidad pública, lo que pagas en la farmacia y qué mirar en una póliza privada
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -117,4 +117,4 @@ En el IRPF estatal, no. La deducción es para autónomos en activo (hasta 500 eu
 
 *Este artículo es informativo y no sustituye la lectura de tu póliza ni la información de tu servicio de salud. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, descripción más precisa. 29 de septiembre de 2026, primera versión.*

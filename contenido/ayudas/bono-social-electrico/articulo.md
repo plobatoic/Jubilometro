@@ -8,7 +8,7 @@ miga: Bono social eléctrico
 palabra_clave_principal: bono social eléctrico pensionistas
 intencion: informativa
 fase_plan: F2 (artículo n.º 58)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Bono social eléctrico para pensionistas en 2026: descuento del 35 o el 50 %, requisitos y cómo pedirlo
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -79,7 +79,7 @@ También tienes derecho si tienes el **título de familia numerosa** o si alguie
 
 ## Cómo se pide
 
-1. **Cambia a la tarifa regulada (PVPC)** con una **comercializadora de referencia**, si no lo estás.
+1. **Cambia a la tarifa regulada (PVPC)** con una **comercializadora de referencia**, si no estás ya en ella.
 2. **Pide el bono social** a esa comercializadora con el formulario de solicitud y esta documentación ([Orden ETU/943/2017](https://www.boe.es/buscar/act.php?id=BOE-A-2017-11532)): copia del **NIF o NIE** tuyo y de los miembros de tu hogar, **certificado de empadronamiento** en vigor en la dirección del suministro, el **libro de familia** o certificados que acrediten el parentesco y, si es tu caso, el título de familia numerosa o el documento que acredite la circunstancia especial (discapacidad, dependencia…).
 3. La comercializadora comprueba los datos con la Administración y te **aplica el descuento** en las facturas.
 
@@ -135,4 +135,4 @@ Una ayuda anual para calefacción, agua caliente o cocina que reciben automátic
 
 *Este artículo es informativo y no sustituye la información de tu comercializadora ni del Ministerio para la Transición Ecológica. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, frase corregida. 28 de septiembre de 2026, primera versión.*

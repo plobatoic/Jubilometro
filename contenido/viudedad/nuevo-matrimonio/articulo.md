@@ -1,14 +1,14 @@
 ---
 titulo_seo: "¿Se pierde la viudedad si te vuelves a casar? Requisitos 2026"
 h1: "¿Se pierde la pensión de viudedad si te vuelves a casar o tienes nueva pareja? Cuándo la conservas en 2026"
-meta_descripcion: "La viudedad se pierde al casarte o formar pareja de hecho, salvo con más de 61 años, si es tu principal ingreso y el matrimonio no pasa de 34.188 € al año."
+meta_descripcion: "La viudedad se pierde al casarte o formar pareja de hecho, salvo con más de 61 años y si es tu principal ingreso. Si el matrimonio supera 34.188 €, baja."
 url: /viudedad/nuevo-matrimonio/
 categoria: Viudedad
 miga: Viudedad y nuevo matrimonio
 palabra_clave_principal: pensión de viudedad nuevo matrimonio
 intencion: informativa
 fase_plan: F3 (artículo n.º 40)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # ¿Se pierde la pensión de viudedad si te vuelves a casar o tienes nueva pareja? Cuándo la conservas en 2026
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -27,7 +27,7 @@ fuentes_legales:
 >
 > 1. Tener **más de 61 años** (o menos, con una incapacidad permanente absoluta, gran incapacidad o discapacidad del 65 %).
 > 2. Que la viudedad sea tu **principal fuente de ingresos**: al menos el **75 %** de lo que ingresas al año.
-> 3. Que los ingresos anuales **del nuevo matrimonio** no superen **dos veces el salario mínimo**: **34.188 euros** en 2026.
+> 3. Que los ingresos anuales **del nuevo matrimonio** no superen **dos veces el salario mínimo**: **34.188 euros** en 2026. Si los superan, la viudedad **se reduce** lo necesario para no pasar de ese límite.
 
 ## Los tres requisitos para no perderla
 
@@ -38,7 +38,7 @@ Están en el [artículo 11 de la Orden de 13 de febrero de 1967](https://www.boe
 |---|---|
 | Edad o incapacidad | Más de 61 años; o menos, si tienes una incapacidad permanente absoluta, una gran incapacidad o una discapacidad del 65 % o más |
 | Principal fuente de ingresos | La viudedad (con el complemento a mínimos, si lo tienes) supone al menos el **75 %** de tus ingresos anuales. Cuentan los del trabajo, el capital y otras prestaciones, con los datos del año anterior |
-| Ingresos del matrimonio | Los ingresos de los dos, incluida la viudedad, no superan **dos veces el salario mínimo anual**: 2 × 17.094 = **34.188 euros** en 2026 |
+| Ingresos del matrimonio | Los ingresos de los dos, incluida la viudedad, no superan **dos veces el salario mínimo anual**: 2 × 17.094 = **34.188 euros** en 2026. Si los superan, la viudedad se reduce hasta ese límite |
 
 **Si se pasa del límite de ingresos** pero cumples los otros dos requisitos, no la pierdes: la viudedad **se reduce** lo necesario para no superar los 34.188 euros.
 
@@ -63,7 +63,7 @@ Están en el [artículo 11 de la Orden de 13 de febrero de 1967](https://www.boe
 
 ### ¿Se pierde la pensión de viudedad si me vuelvo a casar?
 
-En general, sí. Solo la conservas si tienes más de 61 años (o una incapacidad absoluta, gran incapacidad o discapacidad del 65 %), la viudedad es al menos el 75 % de tus ingresos y el matrimonio no ingresa más de 34.188 euros al año en 2026.
+En general, sí. Solo la conservas si tienes más de 61 años (o una incapacidad absoluta, gran incapacidad o discapacidad del 65 %) y la viudedad es al menos el 75 % de tus ingresos. Si además el matrimonio ingresa más de 34.188 euros al año (2026), la viudedad se reduce lo necesario para no pasar de esa cifra.
 
 ### ¿Y si solo vivo con mi nueva pareja?
 
@@ -97,4 +97,4 @@ No. La pensión de viudedad es compatible con cualquier renta del trabajo.
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, la respuesta rápida, la tabla, la meta y una pregunta frecuente recogen que la viudedad se reduce si el matrimonio supera el límite de ingresos (artículo 11.1.c de la Orden de 1967); meta más corta. 29 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Jubilación de los bomberos
 palabra_clave_principal: jubilación bomberos
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-06
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-06
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Jubilación anticipada de los bomberos y bomberos forestales: a qué edad y con cuántos años de servicio
 
-*Actualizado el 6 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -53,7 +53,7 @@ Se multiplica **0,20** por los **años completos** trabajados como bombero, y se
 
 A diferencia de los policías locales, en los bomberos el límite no es un número de años de adelanto, sino una **edad mínima**: **60 años**, que baja a **59** si acreditas **35 años o más de cotización efectiva como bombero**, sin contar la parte de las pagas extra (artículo 2.2).
 
-**Ejemplo.** Javier entró en el parque de bomberos de su ayuntamiento a los 27 años. A los 62 lleva 35 años de servicio y 38 cotizados en total, así que su edad ordinaria es 67. Su adelanto es de 7 años (35 × 0,20): puede jubilarse a los **60**, con la pensión completa que le corresponda por sus años cotizados más los 7 de adelanto.
+**Ejemplo.** Javier entró en el parque de bomberos de su ayuntamiento a los 25 años. A los 60 lleva 35 años de servicio y 38 cotizados en total, así que su edad ordinaria es 67. Su adelanto es de 7 años (35 × 0,20): puede jubilarse a los **60**, con la pensión completa que le corresponda por sus años cotizados más los 7 de adelanto.
 
 ## Qué tiempo cuenta como trabajado
 
@@ -115,4 +115,4 @@ El real decreto no los incluye: se aplica a los bomberos de las administraciones
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corregidas las edades del ejemplo. 6 de octubre de 2026, primera versión.*

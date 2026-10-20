@@ -85,7 +85,7 @@ Cada persona recibe de media **1,26 prestaciones**, de las cifras más bajas de 
 
 ### Las cuantías máximas en Canarias son más altas
 
-Canarias paga con fondos propios por encima de los máximos estatales. Lo fijan el [Decreto-ley 3/2023](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12086) y, para la asistencia personal, el [Decreto-ley 2/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9043), vigente desde el 11 de marzo de 2026:
+Canarias paga con fondos propios por encima de los máximos estatales, salvo en los cuidados familiares de grado I, que se quedan en 180 euros como en el resto de España. Lo fijan el [Decreto-ley 3/2023](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-12086) y, para la asistencia personal, el [Decreto-ley 2/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-9043), vigente desde el 11 de marzo de 2026:
 
 <!-- tabla: Cuantías máximas de las prestaciones económicas de dependencia en Canarias (euros al mes) -->
 | Grado | Cuidados en el entorno familiar | Vinculada al servicio | Asistencia personal |
@@ -114,7 +114,7 @@ En Canarias el silencio es estimatorio: según la ficha oficial del trámite, si
 
 ### ¿Cuánto tarda la dependencia en Canarias?
 
-Según el Imserso, la media fue de 214 días desde la solicitud hasta la prestación (datos a septiembre de 2026): 138 días hasta el grado y 45 más hasta la prestación.
+Según el Imserso, la media fue de 214 días desde la solicitud hasta la prestación (datos a septiembre de 2026). Por fases, la media fue de 138 días hasta el grado y de 45 del grado a la prestación (cada media sale de expedientes distintos, por eso no suman 214).
 
 ### ¿Cómo pido una revisión del grado?
 
@@ -139,4 +139,4 @@ Con el trámite de revisión del grado de dependencia de la misma sede electrón
 
 *Este artículo es informativo y no sustituye la información del Gobierno de Canarias, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026, cuantías máximas propias de Canarias (Decretos-leyes 3/2023 y 2/2026) y compatibilidad de la ayuda a domicilio. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026, cuantías máximas propias de Canarias (Decretos-leyes 3/2023 y 2/2026) y compatibilidad de la ayuda a domicilio; la excepción del grado I y medias por fases aclaradas. 5 de octubre de 2026, primera versión.*

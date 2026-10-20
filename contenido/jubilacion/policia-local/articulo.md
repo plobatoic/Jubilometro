@@ -8,7 +8,7 @@ miga: Jubilación de la policía local
 palabra_clave_principal: jubilación policía local
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-06
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-06
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación anticipada de la policía local: a qué edad te puedes jubilar y con cuántos años de servicio
 
-*Actualizado el 6 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -52,7 +52,7 @@ Se multiplica **0,20** por los **años completos** trabajados como policía loca
 
 Con 30 años de servicio el cálculo daría 6 años (30 × 0,20), pero el adelanto se queda en **5** porque el sexto exige 37 años como policía local. Los **37 años** se cuentan como **cotización efectiva**, sin sumar la parte de las pagas extra; si te jubilas en 2026, bastan **36 años y 6 meses**.
 
-**Ejemplo.** Marta entró en la policía local a los 24 años y en 2027 suma 37 años de servicio y 39 cotizados en total. Su edad ordinaria es 65 (tiene más de 38 años y 6 meses cotizados) y su adelanto llega al máximo de 6 años: puede jubilarse a los **59 años**, sin recorte en la pensión.
+**Ejemplo.** Marta entró en la policía local a los 22 años y en 2027, con 59, suma 37 años de servicio y 39 cotizados en total. Su edad ordinaria es 65 (tiene más de 38 años y 6 meses cotizados) y su adelanto llega al máximo de 6 años: puede jubilarse a los **59 años**, sin recorte en la pensión.
 
 ## Qué tiempo cuenta como trabajado
 
@@ -64,7 +64,7 @@ Cuenta el tiempo de **actividad efectiva y cotización** en puestos propios de l
 
 ## Lo que tienes que saber antes de pedirla
 
-- **Sin recorte en la pensión.** El tiempo que adelantas se considera cotizado para calcular el porcentaje de tu pensión (artículo 4). Si te jubilas a los 60 con 35 años cotizados, se calcula como si tuvieras 40.
+- **Sin recorte en la pensión.** El tiempo que adelantas se considera cotizado para calcular el porcentaje de tu pensión (artículo 4). Si te jubilas a los 62 con 35 años cotizados, se calcula como si tuvieras 40.
 - **Avisa al ayuntamiento antes del 31 de enero.** Tienes que comunicar a tu ayuntamiento que quieres jubilarte con el coeficiente **antes del 31 de enero de cada año** (disposición transitoria segunda), para que pueda reponer tu plaza.
 - **Hay que seguir de alta como policía local.** El adelanto se aplica si sigues en activo como policía local cuando te jubilas. Si ya has cumplido la edad rebajada y pasas a otro trabajo, conservas el derecho (artículo 5).
 - **Cotizas algo más.** Desde 2019 se paga una cotización adicional del **10,60 %**: el **8,84 %** lo paga el ayuntamiento y el **1,76 %**, el policía ([disposición adicional 164.ª de la Ley 6/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-9268)).
@@ -116,4 +116,4 @@ No con esta norma: el Real Decreto 1449/2018 solo se aplica a las policías loca
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corregidas las edades de dos ejemplos. 6 de octubre de 2026, primera versión.*

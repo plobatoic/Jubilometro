@@ -8,7 +8,7 @@ miga: Cómo reservar los viajes
 palabra_clave_principal: reservar viaje Imserso
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo reservar un viaje del Imserso paso a paso: por internet o en agencia, cómo pagarlo y cómo cancelarlo
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en las condiciones de las empresas comercializadoras*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en las condiciones de las empresas comercializadoras*
 
 > **Respuesta rápida**
 >
@@ -76,7 +76,7 @@ La [convocatoria](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12865) (ar
 | Si reservas… | Qué pagas y cuándo |
 |---|---|
 | Más de 45 días antes de la salida | Una **señal** (como máximo, el 20 % del precio) en los **5 días** siguientes a la reserva, y el **resto, 45 días antes** de salir. También puedes pagarlo todo de una vez. |
-| 45 días antes de la salida o menos | **Todo**, en las **48 horas** siguientes a la reserva. |
+| 45 días antes de la salida o menos | **Todo**, en las **48 horas** siguientes a la reserva (en los turnos de octubre y noviembre, la convocatoria exige pagarlo al reservar). |
 
 Si no pagas a tiempo, **la reserva se cancela automáticamente**, y si ya habías pagado la señal se aplican los gastos de cancelación. El precio total es el mismo pagues como pagues.
 
@@ -161,4 +161,4 @@ Sí, menos los gastos: el 6,20 % siempre y, si cancelas en los 15 días anterior
 
 *Este artículo es informativo. Las condiciones de reserva, pago y cancelación las fijan el Imserso y las empresas que comercializan los viajes, que las recogen en el documento de viaje. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, pago al reservar en octubre y noviembre. 29 de septiembre de 2026, primera versión.*

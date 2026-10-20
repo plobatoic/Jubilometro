@@ -48,7 +48,7 @@ En 2027, con la tabla de [edad de jubilación](/jubilacion/edad-de-jubilacion/),
 
 Existe además un régimen especial para trabajadores de la **industria manufacturera**, con requisitos propios. Si es tu sector, pregunta en tu empresa o a un graduado social.
 
-**Personal laboral de las Administraciones Públicas**: desde el 1 de julio de 2026, el [Real Decreto-ley 19/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14113) fija cómo se cumple el contrato de relevo en ayuntamientos, comunidades y Estado. La Administración tiene que prever las jubilaciones parciales en su oferta de empleo público y vincular cada una a un **contrato fijo a tiempo completo** que salga de esas convocatorias. Mientras se resuelve la convocatoria, puede contratar a un **relevista temporal**. Hasta el 1 de abril de 2027, también vale un contrato fijo firmado desde el 1 de abril de 2024. El relevista no tiene que estar en paro, y la Administración emite un **certificado** que identifica a los dos.
+**Personal laboral de las Administraciones Públicas**: desde el 1 de julio de 2026, el [Real Decreto-ley 19/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14113) fija cómo se cumple el contrato de relevo en los ayuntamientos, las comunidades autónomas y la Administración del Estado. La Administración tiene que prever las jubilaciones parciales en su oferta de empleo público y vincular cada una a un **contrato fijo a tiempo completo** que salga de esas convocatorias. Mientras se resuelve la convocatoria, puede contratar a un **relevista temporal**. Hasta el 1 de abril de 2027, también vale un contrato fijo firmado desde el 1 de abril de 2024. El relevista no tiene que estar en paro, y la Administración emite un **certificado** que identifica a los dos.
 
 ## Jubilación parcial desde la edad ordinaria (sin contrato de relevo)
 
@@ -56,9 +56,9 @@ Si ya has cumplido tu edad ordinaria y tienes derecho a la pensión, puedes redu
 
 ## Cuánto cobras: ejemplo
 
-María tiene 64 años en 2027, 36 años cotizados y 20 años en su empresa; su edad ordinaria es 67. Reduce su jornada un 50 % y su empresa contrata a un joven con un contrato de relevo indefinido a jornada completa.
+María tiene 64 años en 2027, 36 años cotizados y 20 años en su empresa; su edad ordinaria es 67. Quiere reducir su jornada un 50 % y su empresa contrata a un joven con un contrato de relevo indefinido a jornada completa.
 
-- Si su pensión completa fuera de 1.600 euros, como jubilada parcial al 50 % cobra **800 euros de pensión**, más el **50 % de su salario**.
+- Si su pensión completa fuera de 1.600 euros, como jubilada parcial al 50 % cobraría, desde el segundo año, **800 euros de pensión**, más el **50 % de su salario**.
 - Como se anticipa 3 años, el primer año su reducción de jornada tendría que estar entre el 20 % y el 33 %; al 50 % solo podría pasar desde el segundo año. Con un 30 % el primer año, cobraría **480 euros** de pensión y el 70 % de su salario.
 - Al cumplir los 67 pasa a la jubilación completa.
 
@@ -111,4 +111,4 @@ La empresa tiene que sustituirlo por otra persona en las condiciones que marca l
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, jubilación parcial del personal laboral de las Administraciones Públicas (Real Decreto-ley 19/2026). 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, jubilación parcial del personal laboral de las Administraciones Públicas (Real Decreto-ley 19/2026); el ejemplo respeta la reducción del primer año. 27 de septiembre de 2026, primera versión.*

@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Dependencia en Baleares 2026: solicitud, plazos y ayudas"
 h1: "Dependencia en las Illes Balears: cómo se pide, cuánto tarda y qué ayudas se dan en 2026"
-meta_descripcion: "En Baleares la dependencia y la discapacidad se piden en una misma solicitud. El grado se resuelve en 3 meses como máximo. Documentos, pasos y ayudas en 2026."
+meta_descripcion: "En Baleares la dependencia y la discapacidad se piden en una misma solicitud. El grado tiene un plazo legal de 3 meses. Documentos, pasos y ayudas en 2026."
 url: /dependencia/baleares/
 categoria: Dependencia
 miga: Dependencia en las Illes Balears
@@ -63,7 +63,7 @@ Si no estás de acuerdo con la resolución, puedes presentar una **reclamación 
 | De la solicitud a la prestación | 188 días | 293 días |
 | Personas esperando seis meses o más | 2.455 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega en una media de 90 días, dentro del plazo de tres meses del Govern. Casi todas las personas que esperan más de seis meses (2.355) ya tienen el grado y les falta la resolución de su PIA.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega en una media de 90 días, dentro del plazo de tres meses del Govern. Casi todas las personas que esperan seis meses o más (2.355 de las 2.455) ya tienen el grado y les falta la resolución de su PIA.
 
 Si no te contestan, puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
@@ -125,4 +125,4 @@ La prestación por cuidados familiares, casi la mitad de las ayudas, seguida de 
 
 *Este artículo es informativo y no sustituye la información del Govern de les Illes Balears, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; descripción y cifra de espera aclaradas. 5 de octubre de 2026, primera versión.*

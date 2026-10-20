@@ -35,7 +35,7 @@ Según la [ficha oficial del trámite](https://www.tramitacastillayleon.jcyl.es/
 
 ## Cómo se pide, paso a paso
 
-1. **Pide ayuda antes de rellenarla**. La Junta recomienda contar con un profesional. Puedes acudir a tu **CEAS**, que dependen de las diputaciones y de los ayuntamientos de más de 20.000 habitantes, o llamar a los teléfonos de ayuda de la Gerencia: **983 415 194**, **983 412 251** o **983 428 206** (también te pueden llamar ellos). Si vives en una residencia, la dirección del centro puede ayudarte.
+1. **Pide ayuda antes de rellenarla**. La Junta recomienda contar con un profesional. Puedes acudir a tu **CEAS** (los CEAS dependen de las diputaciones y de los ayuntamientos de más de 20.000 habitantes), o llamar a los teléfonos de ayuda de la Gerencia: **983 415 194**, **983 412 251** o **983 428 206** (también te pueden llamar ellos). Si vives en una residencia, la dirección del centro puede ayudarte.
 2. **Reúne los documentos**:
    - La **solicitud** en el modelo normalizado.
    - El **informe sobre condiciones de salud** en el modelo oficial, si es tu primera valoración o pides una revisión del grado.
@@ -127,4 +127,4 @@ Una ayuda mensual para pagar una residencia, un centro de día o una ayuda a dom
 
 *Este artículo es informativo y no sustituye la información de la Junta de Castilla y León, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; corrección gramatical. 5 de octubre de 2026, primera versión.*

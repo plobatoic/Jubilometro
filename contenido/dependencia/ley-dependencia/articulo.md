@@ -146,7 +146,7 @@ La ley fija un máximo de seis meses desde la solicitud hasta la resolución de 
 
 ### ¿Un familiar puede cobrar por cuidar a una persona dependiente?
 
-Sí, con la ayuda por cuidados en el entorno familiar, que cobra la persona dependiente. El cuidador debe ser su pareja, un pariente hasta el cuarto grado o alguien de su entorno, y en los grados II y III tiene que vivir con ella. Además puede cotizar a la Seguridad Social gratis con un convenio especial.
+Sí, con la ayuda por cuidados en el entorno familiar, que cobra la persona dependiente. El cuidador debe ser su pareja, un pariente hasta el cuarto grado o alguien de su entorno, y en los grados II y III tiene que vivir con ella, salvo que, de forma excepcional, viva en una vivienda próxima y se comprometa a cuidarla sin cobrar por ello. Además puede cotizar a la Seguridad Social gratis con un convenio especial.
 
 ### ¿Las ayudas de dependencia tributan en el IRPF?
 
@@ -154,7 +154,7 @@ No. La prestación vinculada al servicio, la de cuidados en el entorno familiar 
 
 ### ¿Qué cambia con la reforma de la ley de dependencia de 2026?
 
-Desde el 23 de octubre de 2026 (Ley 4/2026): teleasistencia para todas las personas con grado, fin del aplazamiento de la ayuda por cuidados familiares, la vivienda habitual deja de contar en el copago, el grado de dependencia equivale a una discapacidad del 33 % o del 65 % y hay nuevos servicios, como los cuidados en viviendas. Las comunidades tienen hasta 2030 para permitir combinar todas las ayudas en casa.
+Desde el 23 de octubre de 2026 (Ley 4/2026): teleasistencia para todas las personas con grado, fin del aplazamiento de la ayuda por cuidados familiares, la vivienda habitual deja de contar en el copago, el grado de dependencia equivale a una discapacidad del 33 % o del 65 % y hay nuevos servicios, como los cuidados en viviendas. Las comunidades tienen hasta el 1 de enero de 2030 para permitir combinar todas las ayudas en casa.
 
 ### ¿Se puede cambiar de grado?
 
@@ -179,4 +179,4 @@ Sí. Si la situación empeora o mejora, o si hubo un error en la valoración, se
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): teleasistencia, compatibilidades, cuidados familiares, plazos, copago, equivalencia con la discapacidad y nuevos servicios. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): teleasistencia, compatibilidades, cuidados familiares, plazos, copago, equivalencia con la discapacidad y nuevos servicios; preguntas frecuentes al día con la reforma. 28 de septiembre de 2026, primera versión.*

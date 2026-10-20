@@ -8,7 +8,7 @@ miga: Viudedad tras divorcio o separación
 palabra_clave_principal: pensión de viudedad divorciados
 intencion: informativa
 fase_plan: F3 (artículo n.º 41)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Pensión de viudedad tras un divorcio o una separación: cuándo se cobra, cuánto y cómo se reparte con el nuevo cónyuge
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -51,7 +51,7 @@ Cuando hay varias personas con derecho (por ejemplo, el ex cónyuge y el viudo o
 
 **Ana se divorció en 2012 y cobraba 300 euros al mes de pensión compensatoria.** Su ex fallece en 2026 sin haberse vuelto a casar, con una base reguladora de 1.600 euros. La viudedad sería del 52 %, 832 euros, pero como supera la compensatoria, **Ana cobra 300 euros al mes**.
 
-**Luis estuvo casado 20 años con Carmen y luego 10 con Marta, con quien vivía al morir.** Por tiempo vivido, a Carmen le correspondería dos tercios y a Marta uno, pero a Marta se le garantiza el **40 %**: Marta cobra el 40 % de la pensión y Carmen, el **60 %**, siempre que su pensión compensatoria sea al menos esa cantidad.
+**Luis estuvo casado 20 años con Carmen y luego 10 con Marta, con quien vivía al morir.** Por tiempo vivido, a Carmen le corresponderían dos tercios y a Marta, uno, pero a Marta se le garantiza el **40 %**: Marta cobra el 40 % de la pensión y Carmen, el **60 %**, siempre que su pensión compensatoria sea al menos esa cantidad.
 
 **Rosa, 70 años, se divorció en 2005 tras 25 años casada** y nunca cobró pensión compensatoria. No tiene otra pensión pública. Por la disposición transitoria, **sí tiene derecho** a la viudedad.
 
@@ -92,4 +92,4 @@ Sin sentencia de separación o divorcio seguíais casados legalmente, así que e
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corrección de una concordancia. 29 de septiembre de 2026, primera versión.*

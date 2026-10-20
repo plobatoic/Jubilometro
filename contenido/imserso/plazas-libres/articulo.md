@@ -8,7 +8,7 @@ miga: Plazas libres
 palabra_clave_principal: plazas libres Imserso
 intencion: informativa (estacional)
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Plazas libres del Imserso: cómo encontrar viaje cuando tus destinos se han agotado
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en las condiciones de las empresas comercializadoras*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en las condiciones de las empresas comercializadoras*
 
 > **Respuesta rápida**
 >
@@ -35,7 +35,7 @@ Las 879.213 plazas de la temporada se reparten por provincias al empezar las ven
 2. **Impagos.** La [convocatoria](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12865) (artículo 9) cancela las plazas de quien no paga la señal o no paga **el resto 45 días antes** de la salida. Además, según las condiciones de las empresas, las reservas sin la señal pagada **se anulan a los 5 días**.
 3. **Cupos de otras provincias** que no se han llenado: desde el final de la primera fase de ventas puedes reservar **con salida desde cualquier provincia**.
 
-> **Cuándo mirar.** Las plazas por impago aparecen sobre todo **unos 45 días antes de cada salida**, cuando vence el pago final. Si quieres viajar en febrero, por ejemplo, revisa las salidas de febrero **a mediados y finales de diciembre**.
+> **Cuándo mirar.** Las plazas por impago aparecen sobre todo **unos 45 días antes de cada salida**, cuando vence el pago final. Si quieres viajar en febrero, por ejemplo, revisa las salidas de febrero **desde mediados de diciembre hasta mediados de enero**.
 
 ## Cómo buscar plazas libres paso a paso
 
@@ -65,7 +65,7 @@ Una vez pasados los primeros días de ventas en tu comunidad, puedes reservar **
 ## Lo que no existe
 
 - **No hay «venta libre» para personas sin acreditar.** Todas las plazas, también las libres, son solo para quienes tienen la acreditación del Imserso y sus acompañantes. Si no te acreditaste a tiempo, lee qué hacer en [requisitos de los viajes del Imserso](/imserso/requisitos-viajes/).
-- **No hay rebaja por última hora.** Los precios son los del anexo I de la convocatoria durante toda la temporada, reserves cuando reserves. Eso sí, si reservas con **45 días o menos** hasta la salida, tendrás que **pagarlo todo en 48 horas**.
+- **No hay rebaja por última hora.** Los precios son los del anexo I de la convocatoria durante toda la temporada, reserves cuando reserves. Eso sí, si reservas con **45 días o menos** hasta la salida, tendrás que **pagarlo todo en 48 horas** (en los turnos de octubre y noviembre, al hacer la reserva).
 - **Las plazas de 50 euros no se liberan para cualquiera.** Son para quienes las tienen asignadas en su carta de acreditación, por ingresos bajos.
 
 ## Ejemplo
@@ -75,7 +75,7 @@ Luis y Carmen, de Zaragoza, tenían fecha de reserva el 14 de septiembre, pero l
 - **Desde el 19 de septiembre**, buscar salidas a Benidorm desde **Huesca, Teruel o Navarra**.
 - Probar el viaje **sin transporte** a Benidorm, e ir en tren por su cuenta.
 - Cambiar a otro destino de la Comunitat Valenciana o de Cataluña con plazas.
-- Apuntarse en **lista de espera** para la fecha que querían y volver a mirar las salidas de noviembre **a mediados de octubre**, cuando vence el pago final de los que reservaron.
+- Apuntarse en **lista de espera** para la fecha que querían y volver a mirar las salidas de noviembre **unos 45 días antes** (entre mediados de septiembre y mediados de octubre), cuando vence el pago final de los que reservaron.
 
 ## Preguntas frecuentes
 
@@ -115,4 +115,4 @@ Por correo electrónico, si reservaste en la web. Después tienes que reconfirma
 
 *Este artículo es informativo. La disponibilidad de plazas la muestran en cada momento las webs de las empresas que comercializan los viajes. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, fechas de las plazas por impago y pago en octubre y noviembre. 29 de septiembre de 2026, primera versión.*

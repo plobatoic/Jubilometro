@@ -8,7 +8,7 @@ miga: Seguro de decesos
 palabra_clave_principal: seguro de decesos mayores de 60
 intencion: informativa
 fase_plan: F2 (artículo n.º 85)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Seguro de decesos a partir de los 60: qué cubre, qué pasa con las primas y los derechos que te da la ley
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -34,7 +34,7 @@ fuentes_legales:
 - **Si tu familia elige otra funeraria** o la aseguradora no puede prestar el servicio, esta debe **pagar la suma asegurada a tus herederos**.
 - **Lo que sobre** entre la suma asegurada y el coste del servicio es tuyo o de tus herederos.
 
-**Ejemplo**: si la suma asegurada es de 4.000 euros y el servicio que presta la aseguradora cuesta 3.500, los 500 euros restantes corresponden a tus herederos. Pídelos si no te los ofrecen.
+**Ejemplo**: si la suma asegurada es de 4.000 euros y el servicio que presta la aseguradora cuesta 3.500, los 500 euros restantes corresponden a tus herederos. Tus herederos pueden reclamarlos si no se los ofrecen.
 
 Muchas pólizas añaden otras coberturas (repatriación, asistencia en viaje, gestiones tras el fallecimiento). Son parte del contrato: compruébalas en las condiciones.
 
@@ -105,4 +105,4 @@ Depende de lo que vayas a pagar en primas durante los años que te quedan frente
 
 *Este artículo es informativo y no sustituye la lectura de tu póliza ni el asesoramiento profesional. Si tienes un conflicto con tu aseguradora, empieza por reclamar ante su servicio de atención al cliente. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, frase más precisa. 29 de septiembre de 2026, primera versión.*

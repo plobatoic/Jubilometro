@@ -8,7 +8,7 @@ miga: Complemento de alquiler
 palabra_clave_principal: complemento de alquiler pensión no contributiva
 intencion: transaccional
 fase_plan: F3 (artículo n.º 61)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Complemento de alquiler para pensionistas no contributivos en 2026: 525 euros al año, requisitos y cómo pedirlo
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -31,7 +31,7 @@ fuentes_legales:
 
 Según el [Real Decreto 1191/2012](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-10476), que sigue regulando el complemento cada año:
 
-1. **Cobrar una pensión no contributiva** de jubilación o de invalidez, cuando la pides y cuando te la resuelven.
+1. **Cobrar una pensión no contributiva** de jubilación o de invalidez, cuando pides el complemento y cuando te lo resuelven.
 2. **No tener vivienda en propiedad.**
 3. **Ser titular del contrato de alquiler.** Si en la casa viven dos o más pensionistas no contributivos, solo lo cobra el titular del contrato o, si son varios, **el primero que figure**.
 4. **Que la vivienda alquilada sea tu domicilio habitual**: el contrato tiene que durar al menos **un año** y tienes que haber vivido en ella los **180 días anteriores** a la solicitud.
@@ -100,4 +100,4 @@ No. El complemento no cuenta como ingreso para mantener la pensión ni para calc
 
 *Este artículo es informativo y no sustituye la resolución de tu comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, frase más clara. 29 de septiembre de 2026, primera versión.*

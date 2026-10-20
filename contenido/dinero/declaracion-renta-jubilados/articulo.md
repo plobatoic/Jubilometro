@@ -8,7 +8,7 @@ miga: Renta de los jubilados
 palabra_clave_principal: declaración de la renta jubilados
 intencion: informativa
 fase_plan: F1 (artículo n.º 78)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,13 +19,13 @@ fuentes_legales:
 
 # Declaración de la renta de los jubilados: cuándo estás obligado, qué pensiones tributan y cómo pagar menos
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > Si solo cobras tu pensión y te la paga **un único pagador** (por ejemplo, la Seguridad Social, aunque sean jubilación y viudedad), **no estás obligado a declarar** si cobras **menos de 22.000 euros brutos al año**.
 >
-> Si tienes **dos o más pagadores** y lo que te paga el segundo (y los demás) **pasa de 1.500 euros**, el límite baja a **15.876 euros**. También baja si cobras una **pensión extranjera** o una pensión compensatoria. La incapacidad permanente absoluta y las ayudas de dependencia no tributan, y a partir de 65 años tu mínimo exento sube.
+> Si tienes **dos o más pagadores** y lo que te paga el segundo (y los demás) **pasa de 1.500 euros**, el límite baja a **15.876 euros**. También baja si cobras una **pensión extranjera** o una pensión compensatoria. La incapacidad permanente absoluta y las ayudas de dependencia no tributan, y a partir de los 65 años tu mínimo exento sube.
 
 ## ¿Estoy obligado a declarar?
 
@@ -109,7 +109,7 @@ No. La absoluta y la gran incapacidad de la Seguridad Social están exentas del 
 
 ### ¿Cuánto es el mínimo exento para un jubilado?
 
-5.550 euros más 1.150 si tiene más de 65 años (6.700 en total) y otros 1.400 si tiene más de 75 (8.100). Además, puede restar 2.000 euros de gastos y, si su pensión es baja, la reducción por rendimientos del trabajo, de hasta 7.302 euros.
+5.550 euros más 1.150 si tiene 65 años o más (6.700 en total) y otros 1.400 si tiene 75 o más (8.100). Además, puede restar 2.000 euros de gastos y, si su pensión es baja, la reducción por rendimientos del trabajo, de hasta 7.302 euros.
 
 ### ¿Qué pasa si cobro una pensión de otro país?
 
@@ -130,4 +130,4 @@ Si vives en España, en general tributa aquí según el convenio con ese país. 
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de la Agencia Tributaria. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, edades del mínimo personal precisadas. 28 de septiembre de 2026, primera versión.*

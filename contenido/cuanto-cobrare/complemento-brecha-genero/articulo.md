@@ -8,7 +8,7 @@ miga: Complemento de brecha de género
 palabra_clave_principal: complemento brecha de género
 intencion: informativa
 fase_plan: F2 (artículo n.º 29)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,13 +19,13 @@ fuentes_legales:
 
 # Complemento de brecha de género en 2026: 36,90 euros por hijo, quién lo cobra y cómo se pide
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > El complemento para la reducción de la brecha de género es una cantidad fija que se suma a la pensión de **jubilación, incapacidad permanente o viudedad** de quien haya tenido hijos: en 2026, **36,90 euros al mes por cada hijo**, con un **máximo de cuatro** (147,60 euros), en 14 pagas.
 >
-> Lo cobran **las madres** con carácter general. **Los padres** solo si cumplen requisitos concretos (por ejemplo, que su carrera se viera afectada por el nacimiento) y su pensión es menor que la de la madre. Cada hijo da derecho a un solo complemento.
+> Lo cobran **las madres** con carácter general. **Los padres** solo si cumplen requisitos concretos: por ejemplo, que su carrera se viera afectada por el nacimiento y su pensión sea menor que la de la madre. Cada hijo da derecho a un solo complemento.
 
 ## Cuánto es
 
@@ -127,4 +127,4 @@ Lo mantienes. Si te reconocen una nueva pensión con derecho al complemento de b
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, requisitos de los padres más precisos. 28 de septiembre de 2026, primera versión.*

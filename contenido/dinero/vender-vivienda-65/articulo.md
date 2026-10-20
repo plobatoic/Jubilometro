@@ -8,7 +8,7 @@ miga: Vender la vivienda con más de 65 años
 palabra_clave_principal: vender vivienda habitual mayores de 65 años
 intencion: informativa
 fase_plan: F2 (artículo n.º 83)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Vender tu vivienda habitual con más de 65 años: por qué no pagas IRPF, qué impuestos sí pagas y qué hacer con el dinero
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >
@@ -59,7 +59,7 @@ El IRPF es individual: cada propietario declara **su parte** de la ganancia ([ar
 - **Tu mitad** está exenta.
 - **Su mitad tributa**, salvo que **reinvierta** lo que le corresponde de la venta en una **nueva vivienda habitual** en un plazo de **dos años**. Si reinvierte solo una parte, queda exenta la parte proporcional de la ganancia ([artículo 38.1 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38) y [artículo 41 del Reglamento](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a41)).
 
-Con la ganancia de Luisa (180.000 euros) repartida entre dos, la mitad de la pareja menor de 65 años pagaría unos **19.580 euros** si no reinvierte. **Si podéis esperar** a que cumpla 65 años para vender, os ahorráis ese impuesto.
+Con una ganancia como la de Luisa (180.000 euros) repartida entre dos, la mitad de la pareja menor de 65 años pagaría unos **19.580 euros** si no reinvierte. **Si podéis esperar** a que cumpla 65 años para vender, os ahorráis ese impuesto.
 
 ## Qué impuestos sí pagas
 
@@ -70,7 +70,7 @@ Con la ganancia de Luisa (180.000 euros) repartida entre dos, la mitad de la par
 ## Qué hacer con el dinero
 
 - **Cuidado con las ayudas**: si cobras **complemento a mínimos** o una **pensión no contributiva**, las ganancias patrimoniales y los intereses del dinero cuentan como rentas para esas ayudas ([artículo 59 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59)). Consúltalo antes con la Seguridad Social o tu comunidad.
-- **Renta vitalicia**: si con el dinero contratas una renta vitalicia asegurada, cada pago tributa muy poco (el 8 % se considera rendimiento si tienes más de 70 años al contratarla). Y si vendes **otros bienes** con más de 65 años y reinviertes en una renta vitalicia en seis meses, esa ganancia tampoco tributa, hasta 240.000 euros ([artículo 38.3](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38)).
+- **Renta vitalicia**: si con el dinero contratas una renta vitalicia asegurada, cada pago tributa muy poco (el 8 % se considera rendimiento si tienes 70 años o más al contratarla). Y si vendes **otros bienes** con más de 65 años y reinviertes en una renta vitalicia en seis meses, esa ganancia tampoco tributa, hasta 240.000 euros ([artículo 38.3](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38)).
 - **Tus rendimientos sí tributan**: los intereses o dividendos que te dé ese dinero se declaran cada año.
 
 ## Preguntas frecuentes
@@ -112,4 +112,4 @@ La ganancia tributa aunque tengas más de 65 años. Puedes evitarlo si reinviert
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de la Agencia Tributaria. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, dos precisiones. 28 de septiembre de 2026, primera versión.*

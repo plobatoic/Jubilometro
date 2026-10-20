@@ -8,7 +8,7 @@ miga: Ayudas por comunidad
 palabra_clave_principal: ayudas para mayores por comunidad autónoma
 intencion: informativa
 fase_plan: F3 (artículo n.º 59)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Ayudas para mayores y pensionistas por comunidad autónoma en 2026: complementos a la pensión y servicios
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en los boletines oficiales y las webs de cada comunidad*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en los boletines oficiales y las webs de cada comunidad*
 
 > **Respuesta rápida**
 >
@@ -90,7 +90,7 @@ Si vives en Navarra y cobras una **pensión de jubilación o de viudedad** de la
 - Que tus pensiones, tus otras rentas y la propia deducción no sumen más de **21.619,59 euros** (30.800 euros para toda la unidad familiar, si formas parte de una). Si los superas, la deducción baja en lo que te pases.
 - Es **incompatible** con la renta garantizada de Navarra y con el ingreso mínimo vital.
 
-Si cobras la **viudedad con complemento a mínimos** o una **viudedad del SOVI**, puedes pedir que te la **adelanten cada mes** al Departamento de Derechos Sociales, si llevas al menos **6 meses empadronado** en Navarra ([Gobierno de Navarra](https://www.navarra.es/es/tramites/on/-/line/Deducciones-fiscales-por-pension-de-viudedad)). En el resto de casos (jubilación, o viudedad sin complemento a mínimos), se aplica en la declaración de la renta.
+Si cobras la **viudedad con complemento a mínimos** o una **viudedad del SOVI**, puedes pedir al Departamento de Derechos Sociales que te la **adelanten cada mes**, si llevas al menos **6 meses empadronado** en Navarra ([Gobierno de Navarra](https://www.navarra.es/es/tramites/on/-/line/Deducciones-fiscales-por-pension-de-viudedad)). En el resto de casos (jubilación, o viudedad sin complemento a mínimos), se aplica en la declaración de la renta.
 
 <!-- tabla: Anticipo de la deducción por pensión de viudedad en Navarra en 2026 -->
 | Pensión de viudedad | Al año | Al mes |
@@ -178,4 +178,4 @@ Sí. Completa los ingresos del hogar hasta la renta máxima garantizada, que par
 
 *Este artículo es informativo. Las cuantías y requisitos los fija cada comunidad autónoma, que puede cambiarlos cada año; confírmalos en sus servicios sociales. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, frase más clara. 29 de septiembre de 2026, primera versión.*

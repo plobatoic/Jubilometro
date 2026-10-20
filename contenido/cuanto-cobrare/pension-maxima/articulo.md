@@ -8,7 +8,7 @@ miga: Pensión máxima
 palabra_clave_principal: pensión máxima de jubilación 2026
 intencion: informativa
 fase_plan: F1 (artículo n.º 26)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Pensión máxima de jubilación en 2026: cuánto es, quién la cobra y qué pasa si tu pensión la supera
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -50,7 +50,7 @@ Una vez reconocida, tu pensión sube cada año con la revalorización general, a
 
 Hay que cumplir dos condiciones a la vez:
 
-1. **Una base reguladora igual o superior a 3.359,60 euros.** La base reguladora es la media de tus bases de cotización de los últimos años (lo explicamos en [cómo se calcula la pensión](/cuanto-cobrare/como-se-calcula-la-pension/)). Como se divide entre 350 los últimos 300 meses, para llegar a 3.359,60 euros hacen falta bases de cotización de **3.919,53 euros al mes de media**, en euros actualizados. La base de cotización equivale, más o menos, al sueldo bruto anual dividido entre 12: unos **47.000 euros brutos al año**.
+1. **Una base reguladora igual o superior a 3.359,60 euros.** La base reguladora es la media de tus bases de cotización de los últimos años (lo explicamos en [cómo se calcula la pensión](/cuanto-cobrare/como-se-calcula-la-pension/)). Como la suma de las bases de los últimos 300 meses se divide entre 350, para llegar a 3.359,60 euros hacen falta bases de cotización de **3.919,53 euros al mes de media**, en euros actualizados. La base de cotización equivale, más o menos, al sueldo bruto anual dividido entre 12: unos **47.000 euros brutos al año**.
 2. **El 100 % por años cotizados**: 36 años y 6 meses si te jubilas en 2026, o 37 años desde 2027. Con menos años, el porcentaje baja y la pensión queda por debajo de la máxima aunque hayas cotizado mucho.
 
 El tope de cotización en 2026 es de **5.101,20 euros al mes** ([Orden PJC/297/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296)): quien gana más no cotiza ni genera pensión por el exceso.
@@ -124,4 +124,4 @@ Lo que suban las pensiones, más 0,115 puntos adicionales acumulativos cada año
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corrección gramatical. 28 de septiembre de 2026, primera versión.*

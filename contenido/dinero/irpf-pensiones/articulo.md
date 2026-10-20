@@ -8,7 +8,7 @@ miga: Retención de IRPF en la pensión
 palabra_clave_principal: retención IRPF pensión
 intencion: transaccional
 fase_plan: F3 (artículo n.º 79)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,11 +19,11 @@ fuentes_legales:
 
 # Cómo cambiar la retención de IRPF de tu pensión: modelo 145, tipo voluntario y varios pagadores
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en la Seguridad Social*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en la Seguridad Social*
 
 > **Respuesta rápida**
 >
-> La Seguridad Social calcula cada año cuánto IRPF te retiene de la pensión con los datos que tiene. Puedes cambiarlo de tres formas, todas en la **sede de la Seguridad Social** (con o sin certificado digital) o en un centro de atención:
+> La Seguridad Social calcula cada año cuánto IRPF te retiene de la pensión con los datos que tiene. Puedes cambiarlo de tres formas: las dos primeras, en la **sede de la Seguridad Social** (con o sin certificado digital) o en un centro de atención, y la tercera, en Hacienda:
 >
 > 1. **Comunicar tu situación personal y familiar** (el equivalente al **modelo 145**) si te casas, enviudas, tu cónyuge deja de tener ingresos o te reconocen una discapacidad. Si el cambio supone **más** retención, tienes **10 días** para comunicarlo.
 > 2. **Pedir un tipo voluntario más alto**, para que no te salga a pagar en la declaración. Se aplica como mínimo **hasta final de año**.
@@ -125,4 +125,4 @@ Normalmente porque tienes otro pagador (un plan de pensiones, una mutualidad, un
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal ni la información de la Agencia Tributaria y la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, la tercera vía se pide en Hacienda. 29 de septiembre de 2026, primera versión.*

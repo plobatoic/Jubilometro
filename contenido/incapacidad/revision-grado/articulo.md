@@ -8,7 +8,7 @@ miga: Revisión del grado
 palabra_clave_principal: revisión grado incapacidad permanente
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Revisión del grado de incapacidad permanente: cuándo se puede pedir, cómo se hace y qué riesgos tiene
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -34,8 +34,8 @@ Toda resolución de incapacidad permanente, la inicial y las de revisión, debe 
 <!-- tabla: Cuándo se puede revisar el grado de incapacidad permanente -->
 | Motivo | ¿Cuándo? | ¿Quién puede pedirla? |
 |---|---|---|
-| Agravación (empeoras) | Desde la fecha de tu resolución | Tú, el INSS, la mutua o la empresa responsable |
-| Mejoría | Desde la fecha de tu resolución | El INSS (de oficio), la mutua o la empresa responsable, y también tú |
+| Agravación (empeoras) | Desde la fecha que indique tu resolución | Tú, el INSS, la mutua o la empresa responsable |
+| Mejoría | Desde la fecha que indique tu resolución | El INSS (de oficio), la mutua o la empresa responsable, y también tú |
 | Trabajas por cuenta propia o ajena | En cualquier momento | El INSS de oficio o tú |
 | Error de diagnóstico | En cualquier momento | Cualquiera de los legitimados |
 
@@ -121,4 +121,4 @@ El INSS tiene 135 días para resolver. Si no contesta, se entiende denegada y pu
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, la tabla coincide con el resto de la guía. 29 de septiembre de 2026, primera versión.*

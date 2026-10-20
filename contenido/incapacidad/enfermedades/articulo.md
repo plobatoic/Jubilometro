@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Enfermedades que dan incapacidad permanente y tribunal médico"
 h1: "Enfermedades que dan la incapacidad permanente: por qué no hay una lista, cómo te valora el tribunal médico y qué enfermedades son profesionales"
-meta_descripcion: "No hay lista de enfermedades que den la incapacidad: se valoran tus limitaciones para trabajar. Cómo es el tribunal médico y las enfermedades profesionales."
+meta_descripcion: "No hay lista de enfermedades que den la incapacidad: se valoran tus limitaciones para trabajar. El tribunal médico y las enfermedades profesionales."
 url: /incapacidad/enfermedades/
 categoria: Incapacidad
 miga: Enfermedades y tribunal médico
 palabra_clave_principal: enfermedades que dan incapacidad permanente
 intencion: informativa
 fase_plan: F2 (artículo n.º 48)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Enfermedades que dan la incapacidad permanente: por qué no hay una lista, cómo te valora el tribunal médico y qué enfermedades son profesionales
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -134,4 +134,4 @@ No. Son valoraciones distintas: la discapacidad la reconoce tu comunidad autóno
 
 *Este artículo es informativo y no sustituye el asesoramiento médico o legal ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corrección de la meta. 28 de septiembre de 2026, primera versión.*

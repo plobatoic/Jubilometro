@@ -64,7 +64,7 @@ Datos de la [Consejería de Bienestar Social](https://bienestarsocial.castillala
 | De la solicitud a la prestación | 166 días | 293 días |
 | Personas esperando seis meses o más | 2.214 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega en la mitad de tiempo que en el conjunto de España.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega en poco más de la mitad de tiempo que en el conjunto de España (117 días frente a 220).
 
 Si la Junta no resuelve en plazo, la solicitud se entiende **desestimada**, pero puedes recurrir y la Administración sigue obligada a contestar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
@@ -128,4 +128,4 @@ Dos: la primera reconoce tu grado de dependencia y la segunda, tu Programa Indiv
 
 *Este artículo es informativo y no sustituye la información de la Junta de Comunidades de Castilla-La Mancha, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; comparación precisada. 5 de octubre de 2026, primera versión.*

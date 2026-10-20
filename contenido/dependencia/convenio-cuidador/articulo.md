@@ -77,7 +77,7 @@ Si has **reducido tu jornada**, el convenio completa tu cotización, con un tope
 
 El convenio tiene efectos **desde la fecha en que se reconoce la prestación por cuidados familiares** si lo pides en los **90 días naturales** siguientes. Si lo pides más tarde, solo cuenta **desde la fecha de la solicitud** ([disposición adicional decimocuarta de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724)). Cada mes de retraso es un mes sin cotizar.
 
-**Ejemplo:** a Luis le notifican el 15 de marzo de 2026 que su madre, con grado II, cobrará la prestación por cuidados familiares y que él es su cuidador. Si pide el convenio antes del 13 de junio, cotizará desde el 15 de marzo. Si lo pide el 1 de septiembre, perderá cinco meses y medio de cotización.
+**Ejemplo:** a Luis le notifican el 17 de marzo de 2026 que su madre, con grado II, cobrará la prestación por cuidados familiares y que él es su cuidador. Si pide el convenio hasta el 15 de junio, cotizará desde el 17 de marzo. Si lo pide el 1 de septiembre, perderá cinco meses y medio de cotización.
 
 ## Cómo se pide
 
@@ -134,4 +134,4 @@ No lo necesita ni puede firmarlo: ya cobra su pensión de jubilación.
 
 *Este artículo es informativo y no sustituye la información de la Tesorería General de la Seguridad Social, que es quien gestiona el convenio. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Hi*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; fechas del ejemplo en días hábiles. 29 de septiembre de 2026, primera versión.*

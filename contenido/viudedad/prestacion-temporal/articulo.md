@@ -8,7 +8,7 @@ miga: Prestación temporal de viudedad
 palabra_clave_principal: prestación temporal de viudedad
 intencion: informativa
 fase_plan: F3 (artículo extra de viudedad)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Prestación temporal de viudedad: qué pasa si llevabais menos de un año casados o de dos inscritos como pareja de hecho
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -51,7 +51,7 @@ En todos los casos, la persona fallecida tiene que haber cumplido los **requisit
 
 ## Ejemplos
 
-**Marta se casó con Juan en marzo de 2026.** Juan tenía un cáncer diagnosticado en 2025 y fallece en noviembre, sin hijos en común y sin haber vivido juntos antes. Con una base reguladora de 1.800 euros, Marta cobra la prestación temporal: **936 euros al mes durante dos años**.
+**Marta se casó con Juan en enero de 2026.** Juan tenía un cáncer diagnosticado en 2025 y fallece en septiembre, sin hijos en común y sin haber vivido juntos antes. Con una base reguladora de 1.800 euros, Marta cobra la prestación temporal: **936 euros al mes durante dos años**.
 
 **Si Juan hubiera muerto en un accidente de tráfico**, o si el cáncer se lo hubieran diagnosticado **después de la boda**, Marta tendría derecho a la **pensión vitalicia**, sin importar que llevaran ocho meses casados.
 
@@ -99,4 +99,4 @@ No. La prestación temporal se extingue a los dos años.
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, fechas del ejemplo. 29 de septiembre de 2026, primera versión.*

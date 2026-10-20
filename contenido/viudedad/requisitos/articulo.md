@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Requisitos de la pensión de viudedad en 2026: quién la cobra"
 h1: "Requisitos de la pensión de viudedad en 2026: quién puede cobrarla y qué tiene que haber cotizado el fallecido"
-meta_descripcion: "Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 en total. Requisitos para matrimonios, parejas de hecho y divorciados."
+meta_descripcion: "Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 años en total. Requisitos de matrimonios, parejas de hecho y divorciados."
 url: /viudedad/requisitos/
 categoria: Viudedad
 miga: Requisitos
@@ -59,7 +59,7 @@ La pareja de hecho tiene derecho a la pensión si se cumplen dos requisitos ([ar
 1. **Estar inscritos** en un registro de parejas de hecho de la comunidad autónoma o del ayuntamiento, o haberla formalizado en **documento público**, al menos **dos años antes** del fallecimiento.
 2. **Haber convivido de forma estable al menos cinco años** seguidos justo antes del fallecimiento, acreditado con el **certificado de empadronamiento**. Este requisito no se exige si tenéis **hijos en común**.
 
-**Novedad del 20 de octubre de 2026**: el Consejo de Ministros ha aprobado un real decreto-ley que, según [ha explicado el Gobierno](https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/201026-rueda-prensa-ministros.aspx), permitirá cobrar la viudedad a las parejas con **hijos en común** que acrediten **dos años de convivencia**, aunque **no estén inscritas** como pareja de hecho. Quien la pidió para un fallecimiento anterior y se la denegaron tendrá **un año** para volver a pedirla. Entrará en vigor cuando se publique en el **BOE**, y la Diputación Permanente del Congreso tiene que convalidarlo. Actualizaremos esta guía con el texto oficial.
+**Novedad del 20 de octubre de 2026**: el Consejo de Ministros ha aprobado un real decreto-ley que, según [ha explicado el Gobierno](https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/201026-rueda-prensa-ministros.aspx), permitirá cobrar la viudedad a las parejas con **hijos en común** que acrediten **dos años de convivencia**, aunque **no estén inscritas** como pareja de hecho. Quien la pidió para un fallecimiento anterior y no la obtuvo tendrá **un año** para volver a pedirla. Entrará en vigor cuando se publique en el **BOE**, y la Diputación Permanente del Congreso tiene que convalidarlo. Actualizaremos esta guía con el texto oficial.
 
 Ninguno de los dos podía estar casado con otra persona ni tener otra pareja de hecho. Desde 2022 ya **no se exige un límite de ingresos** a las parejas de hecho. Lo explicamos a fondo en [viudedad en parejas de hecho](/viudedad/pareja-de-hecho/).
 
@@ -168,4 +168,4 @@ No. Se cobra a cualquier edad. La edad solo influye en la pensión mínima y en 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce la pensión de viudedad. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre para parejas con hijos en común no inscritas (pendiente del BOE). 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre para parejas con hijos en común no inscritas (pendiente del BOE); redacción del aviso; meta más clara. 28 de septiembre de 2026, primera versión.*

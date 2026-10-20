@@ -43,7 +43,7 @@ El procedimiento lo regula el **Decreto 4/2023**, publicado en el Boletín Ofici
    - **En persona**, en las oficinas de información y atención a la ciudadanía del Principado o en cualquier otro registro público.
    - **Por internet**, en la sede electrónica del Principado.
 4. **No tienes que aportar** tus datos de identidad y residencia: el Principado los consulta, salvo que te opongas. Los de tu capacidad económica, tampoco, si tú y, en su caso, tu cónyuge o pareja y las personas que conviven contigo firmáis la solicitud sin oponeros a la consulta. En una separación o un divorcio sí hay que aportar la sentencia y el convenio regulador.
-5. **Si el informe de salud no basta**, te pedirán otro en **diez días**. Si en tres meses no lo aportas, el expediente se archiva.
+5. **Si el informe de salud no basta**, te pedirán que aportes otro en un plazo de **diez días**. Si en tres meses no lo aportas, el expediente se archiva.
 6. **Visita a domicilio**: un profesional especializado acuerda contigo el día para aplicar el baremo y hacer un informe sobre tu entorno.
 7. **Resolución** del grado y del Programa Individual de Atención. En casos de interés público se puede pedir la **tramitación de urgencia**, con un informe social favorable.
 
@@ -121,4 +121,4 @@ Con el mismo formulario oficial y un informe de salud que muestre que has mejora
 
 *Este artículo es informativo y no sustituye la información del Principado de Asturias, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; plazo más claro. 5 de octubre de 2026, primera versión.*

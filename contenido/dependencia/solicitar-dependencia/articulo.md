@@ -25,7 +25,7 @@ fuentes_legales:
 >
 > La dependencia se pide en los **servicios sociales de tu comunidad autónoma** (por internet o en persona, a menudo con ayuda de los servicios sociales del ayuntamiento). Necesitas, sobre todo, el **DNI**, un **informe de salud** en el modelo oficial y, según la comunidad, el **empadronamiento**, un **informe social** y datos económicos y bancarios.
 >
-> Después, un profesional **visita a la persona en su casa** y aplica el baremo oficial; la comunidad reconoce el **grado** y, con el **Programa Individual de Atención (PIA)**, el servicio o la ayuda concreta. Todo el proceso debe resolverse en **seis meses** y **pedirlo es gratis**.
+> Después, un profesional **visita a la persona en su casa** y aplica el baremo oficial; la comunidad reconoce el **grado** y, con el **Programa Individual de Atención (PIA)**, el servicio o la ayuda concreta. Todo el proceso debe resolverse en **seis meses** y **pedirlo es gratis** (salvo en la Región de Murcia, que cobra una tasa por la solicitud inicial, con exenciones).
 
 ## Antes de empezar: ¿tiene sentido pedirla?
 
@@ -59,7 +59,7 @@ La norma estatal ([artículo 3 del Real Decreto 1051/2013](https://www.boe.es/bu
 
 La tramita la **comunidad autónoma** donde vive la persona ([artículo 28](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)), y la resolución vale en toda España. La puede pedir **la propia persona o su representante** (un familiar con autorización, un tutor o curador).
 
-Tenemos una guía con los pasos, los documentos, los plazos y los teléfonos de cada comunidad:
+Tenemos una guía con los pasos, los documentos, los plazos y los teléfonos de estas 16 comunidades:
 
 - [Andalucía](/dependencia/andalucia/), [Aragón](/dependencia/aragon/), [Asturias](/dependencia/asturias/), [Illes Balears](/dependencia/baleares/), [Canarias](/dependencia/canarias/) y [Cantabria](/dependencia/cantabria/).
 - [Castilla-La Mancha](/dependencia/castilla-la-mancha/), [Castilla y León](/dependencia/castilla-y-leon/), [Cataluña](/dependencia/cataluna/), [Comunitat Valenciana](/dependencia/comunitat-valenciana/) y [Extremadura](/dependencia/extremadura/).
@@ -123,7 +123,7 @@ Sí. La valoración se hace en la residencia, que es su entorno habitual, y pued
 
 ### ¿Cuesta dinero pedir la dependencia?
 
-No. La solicitud y la valoración son gratuitas. Solo se paga, según los ingresos, una parte del coste de algunos servicios.
+En casi todas las comunidades, no: la solicitud y la valoración son gratuitas. La excepción es la Región de Murcia, que cobra la tasa T-172 por la solicitud inicial (con exenciones para ingresos bajos). Solo se paga, según los ingresos, una parte del coste de algunos servicios.
 
 ## Fuentes oficiales
 
@@ -143,4 +143,4 @@ No. La solicitud y la valoración son gratuitas. Solo se paga, según los ingres
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): plazo de tres meses del artículo 28 y tramitación urgente. 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): plazo de tres meses del artículo 28 y tramitación urgente; la tasa de Murcia y la lista de comunidades. 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*

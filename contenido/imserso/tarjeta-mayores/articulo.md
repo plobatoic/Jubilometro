@@ -8,7 +8,7 @@ miga: Tarjeta dorada y carné de mayores
 palabra_clave_principal: tarjeta dorada
 intencion: informativa
 fase_plan: F3 (artículo n.º 92)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Tarjeta Dorada de Renfe y tarjetas de mayores de las comunidades: descuentos y cómo conseguirlas
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en Renfe y en las webs de las comunidades autónomas*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en Renfe y en las webs de las comunidades autónomas*
 
 > **Respuesta rápida**
 >
@@ -61,7 +61,7 @@ Algunas condiciones que conviene saber:
 
 ### Cuánto cuesta y cómo se saca
 
-- **Precio:** 6 euros por un año, 12 euros por dos años o 15 euros por tres años (esta última opción, un 16 % más barata).
+- **Precio:** 6 euros por un año, 12 euros por dos años o 15 euros por tres años (esta última opción, casi un 17 % más barata).
 - **Dónde:** en las **taquillas de las estaciones** o en **agencias de viajes**. Lleva tu DNI y, si la pides por incapacidad o discapacidad, la resolución que lo acredite. Algunas **entidades bancarias** colaboradoras la emiten asociada a una tarjeta de crédito o débito.
 - **Cómo se usa:** al comprar el billete (en la web, la aplicación o la taquilla) eliges el descuento de Tarjeta Dorada e indicas su número. Llévala en el viaje, porque te la pueden pedir.
 
@@ -148,4 +148,4 @@ No, es gratuita. Solo hay que tener 65 años y vivir en Andalucía. Con ingresos
 
 *Este artículo es informativo. Las condiciones de las tarjetas las fijan Renfe y cada comunidad autónoma, que pueden cambiarlas: compruébalas antes de viajar o de pedirlas. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corregido un porcentaje. 29 de septiembre de 2026, primera versión.*

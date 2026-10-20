@@ -8,7 +8,7 @@ miga: Informe de vida laboral
 palabra_clave_principal: informe de vida laboral
 intencion: transaccional
 fase_plan: F2 (artículo n.º 32)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Informe de vida laboral: cómo pedirlo, cómo leerlo y cómo corregir los errores que rebajan tu pensión
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -81,7 +81,7 @@ La Seguridad Social tiene un servicio de **rectificación del informe de vida la
 
 **Ana tiene 35 años cotizados** y siempre ha cotizado por 2.100 euros (en euros de hoy). Se jubila en 2026 a su edad ordinaria: base reguladora de 1.800 euros y un 96,58 % por años cotizados, **1.738,44 euros al mes**.
 
-Pero en su vida laboral **faltan dos años** de hace una década: la empresa no la dio de alta. Si no lo corrige, tendrá 33 años cotizados (92,02 %) y esos 24 meses se rellenarán con la base mínima (simplificando, con la de 2026: 1.424,40 euros): su base reguladora bajará a 1.753,67 euros y su pensión, a **1.613,73 euros al mes**. Perdería **124,71 euros al mes**, casi 1.746 euros al año, toda su jubilación.
+Pero en su vida laboral **faltan dos años** de hace una década: la empresa no la dio de alta. Si no lo corrige, tendrá 33 años cotizados (92,02 %) y esos 24 meses se rellenarán con la base mínima (simplificando, con la de 2026: 1.424,40 euros): su base reguladora bajará a 1.753,67 euros y su pensión, a **1.613,73 euros al mes**. Perdería **124,71 euros al mes**, casi 1.746 euros al año durante toda su jubilación.
 
 ## Preguntas frecuentes
 
@@ -123,4 +123,4 @@ Muestra cuánto tiempo has estado de alta. Para saber por cuánto has cotizado, 
 
 *Este artículo es informativo y no sustituye la información de la Tesorería General de la Seguridad Social (TGSS) ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, enlace a la guía del número de la Seguridad Social. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, frase corregida. 12 de octubre de 2026, enlace a la guía del número de la Seguridad Social. 28 de septiembre de 2026, primera versión.*

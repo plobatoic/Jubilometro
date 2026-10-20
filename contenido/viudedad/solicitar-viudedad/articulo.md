@@ -8,7 +8,7 @@ miga: Solicitar la viudedad
 palabra_clave_principal: solicitar pensión de viudedad
 intencion: transaccional
 fase_plan: F2 (artículo n.º 37c)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo solicitar la pensión de viudedad: dónde se pide, documentos, plazos y cuánto tarda
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -58,7 +58,7 @@ El INSS puede consultar por sí mismo algunos datos (como la vida laboral de la 
 ## Cuánto tarda
 
 - El INSS tiene un plazo máximo de **90 días** para resolver y notificar las prestaciones de muerte y supervivencia ([Real Decreto 286/2003](https://www.boe.es/buscar/act.php?id=BOE-A-2003-7073)).
-- Si pasa ese plazo sin respuesta, la solicitud **se entiende denegada** por silencio administrativo ([artículo 129.3](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a129)) y puedes reclamar. Aunque luego te la reconozcan, cobrarás los atrasos desde la fecha de efectos.
+- Si pasa ese plazo sin respuesta, la solicitud **se entiende denegada** por silencio administrativo ([artículo 129.3](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a129)) y puedes reclamar. Si luego te la reconocen, cobrarás los atrasos desde la fecha de efectos.
 
 ## Si te la deniegan o no estás de acuerdo con la cuantía
 
@@ -108,4 +108,4 @@ Una ayuda de 46,50 euros para los gastos del sepelio, para quien los haya pagado
 
 *Este artículo es informativo y no sustituye la información del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, redacción más clara. 28 de septiembre de 2026, primera versión.*

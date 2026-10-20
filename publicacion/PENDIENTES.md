@@ -82,9 +82,11 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 | Fecha | Qué |
 |---|---|
+| 21 de octubre | BOE: el decreto-ley del 20 de octubre (viudedad de parejas no inscritas con hijos, orfandad y bajas especiales) en sus guías |
+| 23 de octubre | Entra en vigor la reforma de la dependencia: repaso de las guías |
 | 29 de octubre | Pensión media por provincia con la nómina de octubre |
 | 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
-| 1 de noviembre | Plazos de los balnearios del Imserso |
+| 1 de noviembre | Plazos de los balnearios del Imserso y, en Cataluña, la ayuda mientras esperas la dependencia |
 | El día de la aprobación | Calendario de 12 semanas con el banco (308 publicaciones, 33 carruseles, 36 vídeos), con `programar.mjs` |
 | Antes del 13 de noviembre | Propuestas de cada partido sobre pensiones en la guía de elecciones |
 | 13 de noviembre | IPC definitivo de octubre |

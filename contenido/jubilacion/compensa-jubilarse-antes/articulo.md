@@ -1,14 +1,14 @@
 ---
 titulo_seo: "¿Compensa jubilarse antes? Cálculo a los 63, 64 y 65 años"
 h1: "¿Compensa jubilarse antes? Comparativa real a los 63, 64 y 65 años"
-meta_descripcion: "Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 79 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos."
+meta_descripcion: "Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 78 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos."
 url: /jubilacion/compensa-jubilarse-antes/
 categoria: Jubilación
 miga: ¿Compensa jubilarse antes?
 palabra_clave_principal: compensa jubilarse antes
 intencion: comparativa
 fase_plan: F2 (artículo n.º 4)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,11 +17,11 @@ fuentes_legales:
 
 # ¿Compensa jubilarse antes? Comparativa real a los 63, 64 y 65 años
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> Si adelantas tu jubilación 2 años, cobras antes, pero con un recorte de por vida. Solo con las pensiones en la mano, **lo cobrado de más se agota entre los 73 y los 79 años**, según tu recorte. A partir de ahí, cada año pierdes dinero. Como la esperanza de vida a los 65 supera los 19 años en los hombres y los 23 en las mujeres, **en la mayoría de los casos jubilarse antes sale más caro**.
+> Si adelantas tu jubilación 2 años, cobras antes, pero con un recorte de por vida. Solo con las pensiones en la mano, **lo cobrado de más se agota entre los 73 y los 78 años**, según tu recorte. A partir de ahí, cada año pierdes dinero. Como la esperanza de vida a los 65 supera los 19 años en los hombres y los 23 en las mujeres, **en la mayoría de los casos jubilarse antes sale más caro**.
 >
 > Aun así, puede compensar si no vas a tener otros ingresos hasta tu edad ordinaria, si tu salud lo aconseja o si necesitas el dinero ahora. Y casi nunca compensa si te faltan pocos meses para cotizar 38 años y 6 meses.
 
@@ -133,4 +133,4 @@ Trabajar mientras cobras una pensión anticipada tiene límites. Lo explicamos e
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, la meta y la respuesta rápida coinciden con la tabla. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*

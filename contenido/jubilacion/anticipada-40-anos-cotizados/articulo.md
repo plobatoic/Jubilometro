@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Jubilación anticipada con 40 años cotizados sin penalización"
 h1: "Jubilación anticipada con 40 años cotizados sin penalización: qué proponía la ley y qué pasa ahora"
-meta_descripcion: "La ley para quitar el recorte con 40 años cotizados decae con las elecciones del 29 de noviembre. Qué proponía, qué pasa ahora y cuánto pierdes hoy."
+meta_descripcion: "La ley para quitar el recorte con 40 años cotizados decayó al disolverse las Cortes el 6 de octubre. Qué proponía, qué pasa ahora y cuánto pierdes hoy."
 url: /jubilacion/anticipada-40-anos-cotizados/
 categoria: Jubilación
 miga: Anticipada con 40 años cotizados
 palabra_clave_principal: jubilación anticipada 40 años cotizados sin penalización
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-02
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación anticipada con 40 años cotizados sin penalización: qué proponía la ley y qué pasa ahora
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el Boletín de las Cortes y el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el Boletín de las Cortes y el BOE*
 
 > **Respuesta rápida**
 >
@@ -124,7 +124,7 @@ Depende de tu situación, y no podemos decidirlo por ti, pero estas ideas ayudan
 - **Según el texto que decayó, jubilarte antes no te habría dejado fuera:** quien ya estuviera jubilado con 40 años cotizados podría pedir el recálculo. Pero perdería la diferencia de todos los meses hasta pedirlo, y una ley nueva podría decir otra cosa.
 - **Si te faltan pocos meses para los 65**, recuerda que adelantar un solo mes ya cuesta un 3,11 % de pensión de por vida en la voluntaria: esperar esos meses suele salir más a cuenta.
 - **Si estás en el paro**, comprueba si cobras el [subsidio para mayores de 52 años](/jubilacion/subsidio-mayores-52/), que cotiza para la jubilación, o si te interesa suscribir un [convenio especial con la Seguridad Social](/jubilacion/convenio-especial/) para seguir sumando años.
-- **Compara siempre con cifras.** Lo hacemos para los 63, 64 y 65 años en [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/).
+- **Compara siempre con cifras.** Lo hacemos para los 63, 64 y 65 años en [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/)
 
 ## Formas de jubilarse antes sin recorte que ya existen
 
@@ -142,7 +142,7 @@ No. No hay ninguna ley aprobada: la proposición superó la toma en consideraci�
 
 ### ¿Qué pasa con la ley de los 40 años con las elecciones del 29 de noviembre?
 
-Decae. Al disolverse las Cortes caducan todas las iniciativas que estaban pendientes. Para retomarla habría que registrarla de nuevo cuando se constituyan las nuevas Cortes, el 23 de diciembre de 2026, o que el Gobierno la aprobara por real decreto-ley.
+Ya ha decaído: al disolverse las Cortes, el 6 de octubre, caducaron todas las iniciativas que estaban pendientes. Para retomarla habría que registrarla de nuevo cuando se constituyan las nuevas Cortes, el 23 de diciembre de 2026, o que el Gobierno la aprobara por real decreto-ley.
 
 ### ¿Con 40 años cotizados a qué edad me puedo jubilar en 2027?
 
@@ -183,4 +183,4 @@ No hay fecha. Con las elecciones, la proposición ha decaído y tendría que emp
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Recoge una proposición de ley que decayó con la disolución de las Cortes el 6 de octubre de 2026. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlaces a las guías de bomberos y del Régimen del Mar. 10 de octubre de 2026, la proposición decae con la disolución de las Cortes (Real Decreto 806/2026): nuevo estado, qué tendría que pasar para retomarla y preguntas frecuentes. 2 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, la proposición ya decayó el 6 de octubre; corrección ortográfica. 14 de octubre de 2026, enlaces a las guías de bomberos y del Régimen del Mar. 10 de octubre de 2026, la proposición decae con la disolución de las Cortes (Real Decreto 806/2026): nuevo estado, qué tendría que pasar para retomarla y preguntas frecuentes. 2 de octubre de 2026, primera versión.*

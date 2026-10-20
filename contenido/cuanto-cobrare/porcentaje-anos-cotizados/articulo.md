@@ -8,7 +8,7 @@ miga: Porcentaje por años cotizados
 palabra_clave_principal: porcentaje pensión años cotizados
 intencion: informativa
 fase_plan: F1 (artículo n.º 24)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Porcentaje de la pensión según los años cotizados: tabla año a año para 2026 y 2027
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -28,7 +28,7 @@ fuentes_legales:
 
 ## Cómo se calcula el porcentaje
 
-La pensión de jubilación es tu [base reguladora](/cuanto-cobrare/como-se-calcula-la-pension/) multiplicada por un porcentaje que depende de cuánto has cotizado. Las reglas están en el [artículo 210 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210) y en su disposición transitoria 9.ª, que fija una escala para cada periodo:
+La pensión de jubilación es tu [base reguladora](/cuanto-cobrare/base-reguladora/) multiplicada por un porcentaje que depende de cuánto has cotizado. Las reglas están en el [artículo 210 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210) y en su disposición transitoria 9.ª, que fija una escala para cada periodo:
 
 <!-- tabla: Porcentaje por cada mes cotizado por encima de 15 años -->
 | Año de jubilación | Primeros 15 años | Meses siguientes | Llegas al 100 % con |
@@ -70,14 +70,14 @@ Lo que cuenta es el **año en que te jubilas**, no el año en que naciste: si te
 
 Cómo leer la tabla:
 
-- **Cada año de más vale unos 2,3 puntos** (12 meses × 0,19 % = 2,28 puntos desde 2027). Los primeros años por encima de 15 valían algo más hasta 2026, porque sus meses sumaban un 0,21 %.
+- **Cada año de más vale unos 2,3 puntos** (12 meses × 0,19 % = 2,28 puntos desde 2027). Los primeros años por encima de 15 valen algo más si te jubilas en 2026, porque sus meses suman un 0,21 %.
 - **Por encima del 100 % no se gana nada**, salvo que retrases la jubilación más allá de tu edad ordinaria: entonces cada año completo suma un 4 % adicional (lo explicamos en [jubilación demorada](/jubilacion/demorada/)).
 - **La escala de 2027 es algo más dura**: con los mismos años cotizados, el porcentaje es alrededor de un punto menor que en 2026, y hace falta medio año más para el 100 %.
 
 ## Cómo calcular tu porcentaje exacto
 
-1. **Cuenta tus meses cotizados** en el informe de vida laboral de Tu Seguridad Social (aparecen en días: divídelos entre 365 para tener los años).
-2. **Réstale 180 meses** (los 15 años que dan el 50 %).
+1. **Cuenta tus meses cotizados** en el informe de vida laboral de Tu Seguridad Social (aparecen en días: divídelos entre 365 para tener los años y multiplica el resultado por 12 para tener los meses).
+2. **Réstales 180 meses** (los 15 años que dan el 50 %).
 3. **Aplica la escala del año en que te jubilas.** Desde 2027: los primeros 248 meses de ese resto, al 0,19 %; los 16 siguientes, al 0,18 %.
 
 **Ejemplo 1: María se jubila en 2027 con 33 años y 4 meses cotizados** (400 meses) y una base reguladora de 1.800 euros.
@@ -136,4 +136,4 @@ No. Depende solo de los años cotizados y del año en que te jubilas. La edad in
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, enlace a la base reguladora y pasos del cálculo más claros. 28 de septiembre de 2026, primera versión.*

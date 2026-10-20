@@ -1,14 +1,14 @@
 ---
 titulo_seo: "¿Se puede trabajar con una incapacidad permanente? (2026)"
 h1: "Trabajar con una incapacidad permanente en 2026: qué se puede hacer en cada grado y qué pasa con la pensión"
-meta_descripcion: "Con la total puedes trabajar en otra cosa; con la absoluta, si te das de alta, se suspende la pensión desde 2024. Grado a grado, con tu contrato y el paro."
+meta_descripcion: "Con la total puedes trabajar en otra cosa; con la absoluta, desde 2024, si te das de alta se suspende la pensión. Grado a grado, con tu contrato y el paro."
 url: /incapacidad/incapacidad-y-trabajo/
 categoria: Incapacidad
 miga: Incapacidad y trabajo
 palabra_clave_principal: trabajar con incapacidad permanente
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Trabajar con una incapacidad permanente en 2026: qué se puede hacer en cada grado y qué pasa con la pensión
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -125,4 +125,4 @@ La pensión sí, si el trabajo exige alta en la Seguridad Social. El complemento
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a la guía de la incapacidad parcial. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, meta más clara. 14 de octubre de 2026, enlace a la guía de la incapacidad parcial. 29 de septiembre de 2026, primera versión.*

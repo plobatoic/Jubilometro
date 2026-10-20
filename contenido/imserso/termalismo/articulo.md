@@ -8,7 +8,7 @@ miga: Termalismo
 palabra_clave_principal: termalismo Imserso
 intencion: informativa (estacional)
 fase_plan: F3 (artículo n.º 91)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Termalismo del Imserso: precios de los balnearios, requisitos, baremo y plazos
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -128,7 +128,7 @@ Hay más solicitudes que plazas, así que el Imserso ordena las solicitudes por 
 
 **Edad.** En pareja, se hace la media y se redondea hacia arriba.
 
-**Turnos anteriores.** Premia a quien no ha ido: **24 puntos** si lo pediste los dos últimos años y no conseguiste plaza ninguno; **12** si no fuiste pero no lo pediste en alguno de los dos años; **9** si lo pediste los dos años y solo fuiste el penúltimo; **6** si lo pediste los dos años y solo fuiste el último; **0** si fuiste los dos. En pareja, los dos deben estar en la misma situación para tener la puntuación más alta.
+**Turnos anteriores.** Premia a quien no ha ido: **24 puntos** si lo pediste los dos últimos años y no conseguiste plaza en ninguno; **12** si no fuiste pero no lo pediste en alguno de los dos años; **9** si lo pediste los dos años y solo fuiste el penúltimo; **6** si lo pediste los dos años y solo fuiste el último; **0** si fuiste los dos. En pareja, los dos deben estar en la misma situación para tener la puntuación más alta.
 
 Los **empates** se resuelven por la fecha de nacimiento. Si unes tu solicitud a la de otra persona (un amigo o un familiar, por ejemplo), os darán plaza a los dos o a ninguno, con la **media de vuestras puntuaciones**.
 
@@ -171,7 +171,7 @@ Hay dos periodos y, en cada uno, dos plazos: uno con prioridad en la adjudicaci�
 
 Puedes pedir plaza en los dos periodos. Si ya has ido en el primero, en el segundo **se restan 60 puntos** a tu solicitud y deben pasar al menos **seis meses** entre los dos turnos.
 
-> **¿Aún quieres ir en 2026?** Hasta el 31 de octubre puedes entrar en la lista de espera de los turnos de septiembre a diciembre. Las plazas que se liberan por renuncias se ofrecen por orden de puntos: para los turnos que empiezan en los 60 días siguientes se usa la lista de quienes pidieron ese balneario en primer lugar.
+> **¿Aún quieres ir en 2026?** Hasta el 31 de octubre puedes entrar en la lista de espera de los turnos que quedan hasta diciembre. Las plazas que se liberan por renuncias se ofrecen por orden de puntos: para los turnos que empiezan en los 60 días siguientes se usa la lista de quienes pidieron ese balneario en primer lugar.
 
 ### La convocatoria de 2027
 
@@ -224,4 +224,4 @@ El Imserso te notifica la adjudicación en papel o, si lo elegiste en la solicit
 
 *Este artículo es informativo y no sustituye la información oficial del Imserso ni de los balnearios. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, dos frases corregidas. 29 de septiembre de 2026, primera versión.*

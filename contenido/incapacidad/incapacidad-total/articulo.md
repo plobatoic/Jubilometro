@@ -8,7 +8,7 @@ miga: Incapacidad total
 palabra_clave_principal: incapacidad permanente total
 intencion: informativa
 fase_plan: F1 (artículo n.º 46)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Incapacidad permanente total en 2026: cuánto se cobra, requisitos, cómo trabajar con ella y la total cualificada
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -82,7 +82,7 @@ A partir de los **55 años**, la pensión sube un **20 % de la base reguladora**
 ## Trabajar con la incapacidad total
 
 - **Puedes trabajar** en la misma empresa o en otra, siempre que las funciones **no coincidan** con las que dieron lugar a la incapacidad ([artículo 198](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198)). Si haces el mismo trabajo, el INSS puede revisar el grado en cualquier momento.
-- **Tu contrato no se extingue solo.** Desde el 1 de mayo de 2025, tienes **10 días naturales** desde la notificación para decir por escrito a la empresa que quieres seguir. La empresa tiene **tres meses** para adaptar tu puesto o cambiarte a uno vacante compatible, y solo puede extinguir el contrato si el ajuste es una carga excesiva, no hay puesto o rechazas el cambio adecuado ([Ley 2/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567)). En las empresas de menos de 25 trabajadores, la carga es excesiva si la adaptación cuesta más que la indemnización por despido o que seis meses de tu sueldo (lo mayor de las dos).
+- **Tu contrato no se extingue solo.** Desde el 1 de mayo de 2025, tienes **10 días naturales** desde la notificación para decir por escrito a la empresa que quieres seguir. La empresa tiene **tres meses** para adaptar tu puesto o cambiarte a uno vacante compatible, y solo puede extinguir el contrato si el ajuste es una carga excesiva, no hay puesto o rechazas el cambio adecuado ([Ley 2/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-8567)). En las empresas de menos de 25 trabajadores, la carga es excesiva si la adaptación cuesta más que la indemnización por despido o que seis meses de tu sueldo (la mayor de las dos cantidades).
 - **El paro** solo es compatible con la pensión si esta era compatible con el trabajo que te dio derecho al paro ([artículo 282.1](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a282)).
 
 ## Cobrarla de una vez: la indemnización para menores de 60 años
@@ -100,7 +100,7 @@ Si tienes **menos de 60 años**, puedes pedir, de forma excepcional, cambiar la 
 | 58 años | 24 |
 | 59 años | 12 |
 
-Hay que pedirla en los **tres años** siguientes a la resolución, que se presuma que las lesiones no van a cambiar y acreditar que trabajas o que invertirás el dinero en una actividad por cuenta propia. **A los 60 años vuelves a cobrar la pensión**, revalorizada. Una vez concedida, no se puede deshacer.
+Hay que pedirla en los **tres años** siguientes a la resolución, que se prevea que las lesiones no van a cambiar y que acredites que trabajas o que invertirás el dinero en una actividad por cuenta propia. **A los 60 años vuelves a cobrar la pensión**, revalorizada. Una vez concedida, no se puede deshacer.
 
 ## Impuestos
 
@@ -153,4 +153,4 @@ A los 67 años la pensión pasa a llamarse de jubilación, con la misma cuantía
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y calcula la pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión. 29 de septiembre de 2026: corregido el suelo de la total por enfermedad común, que desde 2019 es la pensión mínima de menores de 60 años con cónyuge no a cargo (684,30 euros al mes), y la cita del artículo 282.1 sobre el paro.*
+*Historial de cambios: 20 de octubre de 2026, corrección de dos frases. 28 de septiembre de 2026, primera versión. 29 de septiembre de 2026: corregido el suelo de la total por enfermedad común, que desde 2019 es la pensión mínima de menores de 60 años con cónyuge no a cargo (684,30 euros al mes), y la cita del artículo 282.1 sobre el paro.*

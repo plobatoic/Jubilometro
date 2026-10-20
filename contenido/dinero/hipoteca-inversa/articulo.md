@@ -8,7 +8,7 @@ miga: Hipoteca inversa y nuda propiedad
 palabra_clave_principal: hipoteca inversa
 intencion: informativa
 fase_plan: F2 (artículo n.º 82)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Hipoteca inversa, venta de la nuda propiedad o renta vitalicia: cómo sacar dinero de tu casa sin dejar de vivir en ella
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >
@@ -28,7 +28,7 @@ fuentes_legales:
 >
 > - **Hipoteca inversa**: un préstamo con tu casa como garantía que cobras de una vez o cada mes. **Sigues siendo el dueño** y la deuda la pagan tus herederos (o venden la casa) cuando falleces. Lo que cobras **no tributa en el IRPF**.
 > - **Venta de la nuda propiedad**: vendes la casa pero te quedas el **usufructo vitalicio**, el derecho a vivir en ella toda tu vida. Si es tu vivienda habitual, la ganancia **está exenta** con más de 65 años.
-> - **Renta vitalicia**: vendes la casa (o la nuda propiedad) y con el dinero contratas una renta de por vida con una aseguradora. Con más de 70 años, solo tributa el **8 %** de cada pago.
+> - **Renta vitalicia**: vendes la casa (o la nuda propiedad) y con el dinero contratas una renta de por vida con una aseguradora. Con 70 años o más, solo tributa el **8 %** de cada pago.
 
 ## Las tres opciones, comparadas
 
@@ -39,7 +39,7 @@ fuentes_legales:
 | ¿Sigues viviendo en casa? | Sí | Sí, de por vida | Solo si vendes la nuda propiedad y conservas el usufructo |
 | Qué cobras | Un préstamo, en un pago o en pagos periódicos | El precio de la nuda propiedad | Una renta mensual de por vida |
 | Qué heredan tus hijos | La casa con la deuda (pueden pagarla o vender) | Nada de la casa | Nada de lo invertido en la renta (salvo que el contrato prevea otra cosa) |
-| IRPF de lo que cobras | No es renta | Ganancia exenta si es tu vivienda habitual y tienes más de 65 años | Solo tributa un porcentaje de cada pago según tu edad (8 % con más de 70 años) |
+| IRPF de lo que cobras | No es renta | Ganancia exenta si es tu vivienda habitual y tienes más de 65 años | Solo tributa un porcentaje de cada pago según tu edad (8 % con 70 años o más) |
 
 ## Hipoteca inversa
 
@@ -69,7 +69,7 @@ Vendes la **nuda propiedad** (la casa sin el derecho a usarla) y te reservas el 
 
 Una **renta vitalicia asegurada** es un contrato con una aseguradora: le entregas un capital y te paga una cantidad **cada mes mientras vivas**. Se puede combinar con la venta de la casa o de la nuda propiedad.
 
-- **Tributa poco**: de cada pago, solo se considera rendimiento un porcentaje fijo según tu edad al contratarla: **24 %** entre 60 y 65 años, **20 %** entre 66 y 69 y **8 %** con más de 70 ([artículo 25.3 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a25)).
+- **Tributa poco**: de cada pago, solo se considera rendimiento un porcentaje fijo según tu edad al contratarla: **24 %** entre 60 y 65 años, **20 %** entre 66 y 69 y **8 %** con 70 o más ([artículo 25.3 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a25)).
 - **Si vendes otros bienes** (una segunda vivienda, acciones) con más de 65 años y reinviertes el dinero en una renta vitalicia asegurada **en seis meses**, la ganancia no tributa, con un máximo de **240.000 euros** reinvertidos ([artículo 38.3](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38)).
 
 **Ejemplo**: Pilar contrata a los 72 años una renta vitalicia de **6.000 euros al año**. Solo **480 euros** (el 8 %) cuentan como rendimiento en su declaración de la renta.
@@ -121,4 +121,4 @@ Tú, como usufructuario: el IBI lo paga el titular del usufructo antes que el pr
 
 *Este artículo es informativo y no sustituye el asesoramiento financiero, fiscal o legal independiente, obligatorio en la hipoteca inversa. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, precisada la edad del 8 % de la renta vitalicia. 28 de septiembre de 2026, primera versión.*

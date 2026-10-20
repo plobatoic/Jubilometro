@@ -8,7 +8,7 @@ miga: Cuantía
 palabra_clave_principal: cuantía pensión de viudedad
 intencion: informativa
 fase_plan: F1 (artículo n.º 37b)
-fecha_actualizacion: 2026-09-30
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Cuánto se cobra de pensión de viudedad en 2026: el 52, el 60 o el 70 % de la base reguladora, con ejemplos
 
-*Actualizado el 30 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -91,7 +91,7 @@ Si trabajas y ganas más de 9.442 euros al año, no tienes complemento a mínimo
 **Elena, 55 años.** Su marido murió trabajando. Sus mejores 24 meses seguidos de los últimos 15 años suman 50.400 euros de bases de cotización:
 
 - Base reguladora: 50.400 ÷ 28 = 1.800 euros.
-- Pensión: 52 % → **936 euros al mes** en 14 pagas (por encima de la mínima de 709,40), compatible con su sueldo.
+- Pensión: 52 % → **936 euros al mes** en 14 pagas (por encima de la mínima de 709,40), y compatible con un sueldo si Elena trabaja.
 
 **Rosa, 70 años, sin pensión propia ni otros ingresos.** Su marido era jubilado y la base reguladora de su pensión, actualizada, es de 1.500 euros. Rosa cumple los requisitos del 60 % y lo pide: 900 euros al mes, en lugar de 780 con el 52 %. Como no llega a la pensión mínima de 936,20 euros y no tiene otros ingresos, cobra además 36,20 euros de complemento a mínimos: **936,20 euros al mes** en total.
 
@@ -145,4 +145,4 @@ Con la misma base reguladora de su pensión de jubilación, actualizada con las 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula la pensión de viudedad. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 30 de septiembre de 2026, el ejemplo de Rosa incluye el complemento a mínimos que le corresponde. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, aclarado un ejemplo. 30 de septiembre de 2026, el ejemplo de Rosa incluye el complemento a mínimos que le corresponde. 28 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Viajes del Imserso
 palabra_clave_principal: viajes del Imserso
 intencion: informativa (estacional)
 fase_plan: F1 (artículo n.º 90)
-fecha_actualizacion: 2026-10-02
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza
 
-*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -74,7 +74,7 @@ El precio incluye:
 
 Estos son los precios por persona que fija la convocatoria (anexo I). La **temporada alta** cuesta 100 euros más: en la costa peninsular, Baleares y el turismo de escapada son **octubre, mayo y junio**; en **Canarias**, **diciembre, enero y febrero**.
 
-<!-- tabla: Precio por persona de los viajes del Imserso 2026-2027 (con transporte) -->
+<!-- tabla: Precio por persona de los viajes del Imserso 2026-2027 (con transporte, salvo las capitales de provincia) -->
 | Viaje | Temporada normal | Temporada alta |
 |---|---|---|
 | Costa peninsular, 10 días | 309,22 € | 409,22 € |
@@ -202,4 +202,4 @@ El plazo de nuevas solicitudes de la temporada 2026-2027 terminó el 10 de julio
 
 *Este artículo es informativo y no sustituye la información oficial del Imserso ni de las empresas que comercializan los viajes, que son las que confirman plazas y precios. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión; 2 de octubre de 2026, temporada en marcha, plazas con animales de compañía y duplicado de la acreditación.*
+*Historial de cambios: 20 de octubre de 2026, título de la tabla precisado. 28 de septiembre de 2026, primera versión; 2 de octubre de 2026, temporada en marcha, plazas con animales de compañía y duplicado de la acreditación.*

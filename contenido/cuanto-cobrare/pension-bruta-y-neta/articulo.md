@@ -8,7 +8,7 @@ miga: Pensión bruta y neta
 palabra_clave_principal: pensión neta IRPF
 intencion: informativa
 fase_plan: F2 (artículo n.º 31)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,13 +19,13 @@ fuentes_legales:
 
 # Pensión bruta y neta en 2026: cuánto IRPF te retienen y cuánto cobras limpio
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > La pensión que te reconocen es **bruta**. De ella, la Seguridad Social descuenta cada mes una **retención de IRPF** (los pensionistas no pagan cotizaciones sociales), y lo que llega al banco es la **pensión neta**.
 >
-> Si eres pensionista sin hijos a cargo y tu pensión no pasa de **16.476 euros brutos al año** (unos 1.176 euros en 14 pagas), **no tienes retención**. Por encima, el porcentaje sube poco a poco: con 1.500 euros al mes, en torno al **9 %**; con 2.000, cerca del **17 %**; con 3.000, alrededor del **22 %**.
+> Si eres pensionista sin hijos a cargo y tu pensión no pasa de **16.476 euros brutos al año** (unos 1.177 euros en 14 pagas), **no tienes retención**. Por encima, el porcentaje sube poco a poco: con 1.500 euros al mes, en torno al **9 %**; con 2.000, cerca del **17 %**; con 3.000, alrededor del **22 %**.
 
 ## De bruto a neto: qué se descuenta
 
@@ -120,4 +120,4 @@ Porque en enero se recalcula la retención con la pensión revalorizada. Si la s
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal profesional. Las retenciones de la tabla son un cálculo de ejemplo con las normas vigentes en 2026; tu retención exacta la calcula la Seguridad Social con tus datos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corregido un redondeo. 28 de septiembre de 2026, primera versión.*

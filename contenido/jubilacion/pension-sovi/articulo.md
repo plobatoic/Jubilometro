@@ -8,7 +8,7 @@ miga: Pensión del SOVI
 palabra_clave_principal: pensión SOVI
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Pensión del SOVI: quién puede cobrarla, qué días cuentan y cuánto se paga en 2026
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -91,7 +91,7 @@ Dos reglas cuando el SOVI se cobra con otras pensiones:
 
 **Desde cuándo se cobra la de vejez:** desde el día siguiente a cumplir 65 años si la pides en los **30 días siguientes**. Si la pides más tarde, desde el día 1 del mes siguiente a la solicitud: no se pagan los meses de atrás, así que **no conviene esperar**. La de invalidez se cobra desde el mes siguiente a la solicitud.
 
-Si te la deniegan, tienes **30 días** para presentar una **reclamación previa** ante el INSS y, después, puedes ir al juzgado de lo social. Así llegaron al Tribunal Supremo los casos de mujeres a las que se les había negado el SOVI sin contar sus partos, y lo ganaron.
+Si te la deniegan, tienes **30 días** para presentar una **reclamación previa** ante el INSS y, después, puedes ir al juzgado de lo social. Así llegaron al Tribunal Supremo los casos de mujeres a las que se les había negado el SOVI sin contar sus partos, y los ganaron.
 
 ## Preguntas frecuentes
 
@@ -137,4 +137,4 @@ No. Basta con que sumen 1.800 días entre todos los periodos cotizados antes de 
 
 *Este artículo es informativo y no sustituye la resolución del INSS. Cuantías de 2026 según el Real Decreto 241/2026. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corrección de una concordancia. 12 de octubre de 2026, primera versión.*

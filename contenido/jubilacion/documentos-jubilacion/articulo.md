@@ -8,14 +8,14 @@ miga: Documentos para pedir la jubilación
 palabra_clave_principal: documentos para pedir la jubilación
 intencion: transaccional
 fase_plan: F2 (artículo n.º 14)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 ---
 
 # Documentos para pedir la jubilación: checklist descargable
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -54,7 +54,7 @@ No hace falta que lleves tu vida laboral: la Seguridad Social ya tiene tus cotiz
 1. **Revisa tu vida laboral un año antes** de jubilarte. Si faltan periodos, reclámalos con tus contratos o nóminas: corregirlo después retrasa la pensión.
 2. **Digitaliza los documentos** en PDF o fotos legibles si vas a hacer el trámite por internet.
 3. **Pide con tiempo los certificados de empresa**, sobre todo si tu empresa ya no existe o has trabajado en varias.
-4. **Presenta la solicitud en plazo**: hasta 3 meses antes de dejar de trabajar. Si la presentas más de 3 meses después, pierdes pensión.
+4. **Presenta la solicitud en plazo**: puedes hacerlo desde 3 meses antes de dejar de trabajar. Si la presentas más de 3 meses después, pierdes pensión.
 5. **Guarda el justificante** de la solicitud y responde en plazo si te piden algo más.
 
 Te explicamos el trámite en [cómo solicitar la jubilación por internet paso a paso](/jubilacion/solicitar-jubilacion-internet/).
@@ -92,4 +92,4 @@ Tu NIE y el pasaporte o documento de identidad de tu país.
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a la guía del grado de discapacidad. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, plazo de solicitud más claro. 14 de octubre de 2026, enlace a la guía del grado de discapacidad. 27 de septiembre de 2026, primera versión.*

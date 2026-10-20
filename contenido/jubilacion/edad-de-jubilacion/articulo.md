@@ -8,7 +8,7 @@ categoria: Jubilación
 palabra_clave_principal: edad de jubilación 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 1 del plan de contenidos)
-fecha_actualizacion: 2026-10-15
+fecha_actualizacion: 2026-10-20
 fecha_publicacion: PENDIENTE
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -25,7 +25,7 @@ proxima_revision: enero de 2027 (y cuando cambie la normativa)
 
 # Edad de jubilación en 2027: tabla por año de nacimiento y años cotizados
 
-*Actualizado el 15 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -123,7 +123,7 @@ Esta es la tabla que aplica la Seguridad Social ([disposición transitoria 7.ª 
 
 ![Gráfico de escalones: la edad exigida sin cotización larga sube de 65 años y 1 mes en 2013 a 67 años en 2027, y la cotización para jubilarse a los 65 pasa de 35 años y 3 meses a 38 años y 6 meses](imagenes/edad-jubilacion-2013-2027.webp "La subida de la edad de jubilación y de la cotización exigida, año a año. Elaboración propia a partir de la disposición transitoria 7.ª de la LGSS.")
 
-La reforma que puso en marcha este calendario es la [Ley 27/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-13242). En 2025 y 2026 se exigió la misma cotización (38 años y 3 meses); en 2027 sube tres meses más y la edad, dos meses.
+La reforma que puso en marcha este calendario es la [Ley 27/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-13242). En 2025 se exigió y en 2026 se exige la misma cotización (38 años y 3 meses); en 2027 sube tres meses más y la edad, dos meses.
 
 ## Cómo se cuentan los 38 años y 6 meses cotizados
 
@@ -173,7 +173,7 @@ Tienes el detalle de cada opción en nuestras guías de [jubilación anticipada 
 Son dos requisitos distintos que se suelen mezclar:
 
 - **Para jubilarte a los 65 años** en 2027 necesitas 38 años y 6 meses cotizados.
-- **Para cobrar el 100 % de tu base reguladora** bastan 37 años cotizados si te jubilas en 2027 o después (en 2026 eran 36 años y 6 meses).
+- **Para cobrar el 100 % de tu base reguladora** bastan 37 años cotizados si te jubilas en 2027 o después (en 2026 son 36 años y 6 meses).
 
 Desde 2027, con 15 años cotizados cobras el 50 % de la base reguladora. Cada mes adicional suma un 0,19 % hasta el mes 248 y un 0,18 % a partir de ahí, hasta llegar al 100 % con 37 años ([disposición transitoria 9.ª de la LGSS](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtnovena)). Por eso Antonio, con 34 años, cobrará el 93,32 %.
 
@@ -258,4 +258,4 @@ Con carácter general, no. Los convenios colectivos firmados desde 2022 solo pue
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y su fecha. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 15 de octubre de 2026, enlace a la jubilación de los militares. 14 de octubre de 2026, enlaces a las guías de bomberos y del Régimen del Mar y a la jubilación de los docentes. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión; 2 de octubre de 2026, nuevo informe de edad legal de jubilación de la Seguridad Social y enlace a la proposición de ley de los 40 años cotizados.*
+*Historial de cambios: 20 de octubre de 2026, tiempos verbales de 2026. 15 de octubre de 2026, enlace a la jubilación de los militares. 14 de octubre de 2026, enlaces a las guías de bomberos y del Régimen del Mar y a la jubilación de los docentes. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión; 2 de octubre de 2026, nuevo informe de edad legal de jubilación de la Seguridad Social y enlace a la proposición de ley de los 40 años cotizados.*

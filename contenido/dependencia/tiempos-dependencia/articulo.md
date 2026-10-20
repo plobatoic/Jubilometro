@@ -23,7 +23,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> La ley da a las comunidades autónomas **seis meses** para resolver la dependencia, desde la solicitud hasta la prestación. En la práctica, según el **Imserso**, se tarda de media **293 días** en España: **220** hasta que te reconocen el grado y **50** más hasta que te asignan la prestación (datos de octubre de 2025 a septiembre de 2026).
+> La ley da a las comunidades autónomas **seis meses** para resolver la dependencia, desde la solicitud hasta la prestación. En la práctica, según el **Imserso**, se tarda de media **293 días** en España: **220** de media hasta que te reconocen el grado y **50** de media del grado a la prestación (cada media sale de expedientes distintos, por eso no suman 293) (datos de octubre de 2025 a septiembre de 2026).
 >
 > Depende mucho de dónde vivas: desde **75 días en Ceuta** y **109 en Aragón** hasta **413 en Asturias** y **529 en la Región de Murcia**. Si pasan seis meses sin resolución, tu derecho empieza a contar igualmente desde ese momento.
 
@@ -118,4 +118,4 @@ Presenta un escrito en los servicios sociales de tu comunidad pidiendo que resue
 
 *Este artículo es informativo y no sustituye la información de los servicios sociales de tu comunidad autónoma. Los tiempos son medias oficiales: tu expediente puede tardar más o menos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente, y datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente, y datos del Imserso a 30 de septiembre de 2026; medias por fases aclaradas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*

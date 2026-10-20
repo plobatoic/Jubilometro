@@ -8,7 +8,7 @@ miga: Jubilación de las empleadas de hogar
 palabra_clave_principal: jubilación empleadas de hogar
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-06
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Jubilación de las empleadas de hogar: requisitos, cómo se calcula la pensión y qué pasa con los años sin cotizar
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -55,7 +55,7 @@ En el Régimen General, cuando en esos años hay meses **sin cotizar** (**laguna
 | Entre 2012 y 2023 | No se rellenaban: solo contaban los periodos realmente cotizados |
 | Desde 2024 | Se aplica la regla general del Régimen General |
 
-Esto beneficia sobre todo a quien tuvo **épocas sin trabajo** en los años que se usan para calcular la pensión.
+El cambio de 2024 beneficia sobre todo a quien tuvo **épocas sin trabajo** en los años que se usan para calcular la pensión.
 
 ## Por qué importa cotizar por el salario real
 
@@ -109,4 +109,4 @@ La familia que te contrata, siempre, desde el 1 de enero de 2023, aunque trabaje
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a la guía de la cuidadora interna o externa. 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, frase más clara. 14 de octubre de 2026, enlace a la guía de la cuidadora interna o externa. 6 de octubre de 2026, primera versión.*

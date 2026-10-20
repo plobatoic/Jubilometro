@@ -8,7 +8,7 @@ miga: Renta vitalicia
 palabra_clave_principal: renta vitalicia mayores de 65
 intencion: informativa
 fase_plan: F3 (artículo n.º 84)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Renta vitalicia asegurada para mayores de 65: cómo vender un bien sin pagar IRPF y cómo tributa la renta
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -78,8 +78,8 @@ Las rentas vitalicias que contratas con tu dinero **tributan poco**, porque se c
 ## Los inconvenientes que debes conocer
 
 - **Es irreversible.** Si **rescatas o adelantas** la renta, total o parcialmente, **pierdes la exención**: tendrás que declarar la ganancia en una **autoliquidación complementaria** del año de la venta, con **intereses de demora**.
-- **Si fallecen pronto, el capital puede perderse.** Sin contraseguro, la renta se acaba con tu vida. Puedes pactar un **contraseguro** (tus herederos recuperan una parte), un **periodo cierto** de pagos o que la renta **revierta** en tu pareja, pero todo eso **reduce la renta mensual**.
-- **La inflación.** Muchas rentas son fijas. La ley permite que crezcan o que bajen como mucho un 5 % al año: pregunta si la tuya se revaloriza.
+- **Si falleces pronto, el capital puede perderse.** Sin contraseguro, la renta se acaba con tu vida. Puedes pactar un **contraseguro** (tus herederos recuperan una parte), un **periodo cierto** de pagos o que la renta **revierta** en tu pareja, pero todo eso **reduce la renta mensual**.
+- **La inflación.** Muchas rentas son fijas. La ley permite que suban, pero no que bajen más de un 5 % al año: pregunta si la tuya se revaloriza.
 - **Liquidez.** Ese dinero ya no estará disponible para imprevistos (una residencia, una reforma). Valóralo antes de comprometer todo tu ahorro.
 
 ## Otras opciones parecidas
@@ -125,4 +125,4 @@ Depende del contrato, pero si rescatas o adelantas la renta, pierdes la exenció
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal o financiero. Antes de contratar, compara las condiciones de varias aseguradoras. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, dos frases corregidas. 29 de septiembre de 2026, primera versión.*

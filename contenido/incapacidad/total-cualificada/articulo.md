@@ -8,7 +8,7 @@ miga: Incapacidad total cualificada
 palabra_clave_principal: incapacidad total cualificada
 intencion: informativa
 fase_plan: F3 (artículo n.º 51)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Incapacidad permanente total cualificada: cómo pasar del 55 % al 75 % a partir de los 55 años y cuándo se pierde el aumento
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -71,7 +71,7 @@ El 20 % se calcula sobre **la misma base reguladora** de tu pensión. Si el tota
 
 ## ¿Y si prefieres cobrarla de una vez?
 
-Si tienes **menos de 60 años**, puedes pedir, excepcionalmente, que la pensión de la total se sustituya por una **indemnización a tanto alzado**: **84 mensualidades** de la pensión si tienes menos de 54 años, y menos cuanto más mayor (60 a los 55, 12 a los 59). Hay que pedirlo en los **tres años** siguientes al reconocimiento, que se prevea que tus lesiones no cambiarán y que estés trabajando o vayas a usar el dinero para montar un negocio. **A los 60 años vuelves a cobrar la pensión** ([artículo 5 de la Orden de 31 de julio de 1972](https://www.boe.es/buscar/act.php?id=BOE-A-1972-1210)).
+Si tienes **menos de 60 años**, puedes pedir, excepcionalmente, que la pensión de la total se sustituya por una **indemnización a tanto alzado**: **84 mensualidades** de la pensión si tienes menos de 54 años, y menos cuanto más mayor (60 a los 55, 12 a los 59). Hay que pedirlo en los **tres años** siguientes al reconocimiento, y además hace falta que se prevea que tus lesiones no cambiarán y que estés trabajando o vayas a usar el dinero para montar un negocio. **A los 60 años vuelves a cobrar la pensión** ([artículo 5 de la Orden de 31 de julio de 1972](https://www.boe.es/buscar/act.php?id=BOE-A-1972-1210)).
 
 ## Impuestos y jubilación
 
@@ -94,7 +94,7 @@ Pierdes el 20 % extra mientras trabajes, por cuenta ajena o propia, pero sigues 
 
 ### ¿Cuánto es la pensión mínima de la total cualificada?
 
-Depende de la edad: en 2026, 936,20 euros al mes con 65 años o más y 875,90 entre los 60 y los 64, sin cónyuge a cargo. Antes de los 60, si viene de enfermedad común, 690,20.
+Depende de la edad: en 2026, 936,20 euros al mes con 65 años o más y 875,90 entre los 60 y los 64, sin cónyuge. Antes de los 60, si viene de enfermedad común, 690,20.
 
 ### ¿La total cualificada tributa?
 
@@ -117,4 +117,4 @@ Sí, como la total. Solo la incapacidad absoluta y la gran incapacidad están ex
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corrección de una frase y de una referencia a la tabla de mínimas. 29 de septiembre de 2026, primera versión.*

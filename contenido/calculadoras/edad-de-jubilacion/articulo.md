@@ -8,7 +8,7 @@ miga: Calculadora de edad de jubilación
 palabra_clave_principal: calculadora edad de jubilación
 intencion: transaccional (herramienta)
 fase_plan: F1 (herramienta n.º 94)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: borrador pendiente de revisión profesional
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -61,7 +61,7 @@ Calculados a 27 de septiembre de 2026 con la misma lógica que la calculadora:
 | Elena | Nació el 15/03/1962; 37 años y 6 meses cotizados; sigue trabajando | **27 de septiembre de 2027, con 65 años y 6 meses**: ese día llega a 38 años y 6 meses cotizados |
 | Pedro | Nació el 08/01/1961; 38 años y 6 meses cotizados | **Ya cumple los requisitos**: en 2026 bastan 38 años y 3 meses y ya tiene 65 |
 
-El caso de Elena muestra por qué conviene contar bien: con 6 meses más cotizados adelanta su jubilación **año y medio** respecto a los 67.
+El caso de Elena muestra por qué conviene contar bien: con 12 meses más cotizados adelanta su jubilación **año y medio** respecto a los 67.
 
 ## Qué no calcula (y dónde mirarlo)
 
@@ -81,7 +81,7 @@ La fecha oficial solo la reconoce el INSS al resolver tu solicitud. Para contras
 
 Aplica exactamente la tabla de la ley y cuenta años y meses completos, como hace la Seguridad Social. El resultado depende de que el tiempo cotizado que introduzcas sea correcto: cópialo de tu informe de vida laboral.
 
-### ¿Por qué me sale una fecha en 2027 si cumplo 66 años y 10 meses en 2026?
+### ¿Por qué me sale una fecha en 2027 si en 2026 basta con 66 años y 10 meses?
 
 Porque la edad exigida depende del año en que te jubilas. Si cumples 66 años y 10 meses después del 31 de diciembre de 2026, ya se te aplican las reglas de 2027: 67 años con menos de 38 años y 6 meses cotizados.
 
@@ -101,11 +101,11 @@ No. El cálculo se hace en tu propio navegador y los datos no salen de tu dispos
 ## Siguiente paso
 
 - Consulta la [tabla de edad de jubilación por año de nacimiento](/jubilacion/edad-de-jubilacion/).
-- ¿Te interesa adelantarla? Echa cuentas con [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/).
+- ¿Te interesa adelantarla? Echa cuentas con [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/)
 - Prepara la solicitud: [cómo pedir la jubilación por internet](/jubilacion/solicitar-jubilacion-internet/).
 
 ---
 
 *Esta calculadora es informativa y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corregido un cálculo y una pregunta frecuente; corrección ortográfica. 27 de septiembre de 2026, primera versión.*

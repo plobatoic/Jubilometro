@@ -79,7 +79,7 @@ Según el [artículo 16 del Real Decreto 1051/2013](https://www.boe.es/buscar/ac
 - **Según tu comunidad**, con el [centro de día](/dependencia/centro-de-dia/) o con la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/), siempre que la suma no supere la intensidad máxima de tu grado. La reforma suprime las incompatibilidades estatales y obliga a las comunidades a permitir combinar **todas las ayudas en casa antes del 1 de enero de 2030**. Hasta entonces mandan sus reglas.
 - **No** con la residencia.
 
-Desde la reforma, la ayuda a domicilio también puede **organizarse de forma conjunta** cuando varias personas dependientes viven en la misma vivienda, en viviendas de un mismo conjunto o en **viviendas próximas**, si lo piden ([artículo 23](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a23)).
+Desde el 23 de octubre de 2026, con la reforma, la ayuda a domicilio también puede **organizarse de forma conjunta** cuando varias personas dependientes viven en la misma vivienda, en viviendas de un mismo conjunto o en **viviendas próximas**, si lo piden ([artículo 23](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a23)).
 
 ## Sin grado de dependencia: el SAD municipal
 
@@ -137,4 +137,4 @@ Sí, en los servicios sociales de tu ayuntamiento, que tienen su propio servicio
 
 *Este artículo es informativo. Las horas concretas y el copago los fijan tu comunidad autónoma o tu ayuntamiento. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): compatibilidades y ayuda a domicilio compartida, y datos del Imserso a 30 de septiembre de 2026. 14 de octubre de 2026, enlaces a la cuidadora interna o externa y a las ayudas para adaptar la vivienda. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): compatibilidades y ayuda a domicilio compartida, y datos del Imserso a 30 de septiembre de 2026; fecha de la reforma. 14 de octubre de 2026, enlaces a la cuidadora interna o externa y a las ayudas para adaptar la vivienda. 29 de septiembre de 2026, primera versión.*

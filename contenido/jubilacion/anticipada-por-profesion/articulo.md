@@ -8,7 +8,7 @@ miga: Jubilación anticipada por profesión
 palabra_clave_principal: coeficientes reductores edad jubilación profesión
 intencion: informativa
 fase_plan: F3 (artículo n.º 12)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Jubilación anticipada por profesión (bomberos, policía local, mineros…): coeficientes reductores de edad
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > Algunas profesiones especialmente penosas o peligrosas tienen **coeficientes reductores de la edad de jubilación**: por cada año trabajado en ellas, tu edad de jubilación baja una fracción de año. Por ejemplo, con un coeficiente de 0,20, cada 5 años trabajados adelantan un año tu jubilación.
 >
-> A diferencia de la jubilación anticipada voluntaria, **no se recorta la pensión**: el tiempo adelantado cuenta como cotizado para calcularla. Tienen coeficientes, entre otros, los bomberos, los policías locales, los bomberos y agentes forestales, los mineros, los trabajadores del mar y el personal de vuelo.
+> A diferencia de la jubilación anticipada voluntaria, **no se recorta la pensión**: el tiempo adelantado cuenta como cotizado para calcularla. Tienen coeficientes, entre otros, los bomberos, los policías locales, los bomberos forestales y los agentes forestales, los mineros, los trabajadores del mar y el personal de vuelo.
 
 ## Cómo funcionan los coeficientes reductores de la edad
 
@@ -119,4 +119,4 @@ Los sindicatos o asociaciones empresariales de tu sector pueden iniciar el proce
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, enlaces a las guías de policía local, bomberos, Guardia Civil, Policía Nacional y militares, y edad mínima de los bomberos. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, enumeración más clara. 6 de octubre de 2026, enlaces a las guías de policía local, bomberos, Guardia Civil, Policía Nacional y militares, y edad mínima de los bomberos. 27 de septiembre de 2026, primera versión.*

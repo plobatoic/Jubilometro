@@ -8,7 +8,7 @@ miga: Convenio especial
 palabra_clave_principal: convenio especial Seguridad Social
 intencion: comparativa
 fase_plan: F3 (artículo n.º 18)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Convenio especial con la Seguridad Social: cuándo compensa pagarlo antes de jubilarte
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -51,7 +51,7 @@ La cuota se calcula aplicando a la base que elijas el tipo de contingencias comu
 <!-- tabla: Coste mensual aproximado del convenio especial en 2026 -->
 | Base de cotización elegida | Cuota (28,30 % × 0,94) | MEI (0,90 %) | Total al mes | Total en 2 años |
 |---|---|---|---|---|
-| 1.424,40 € (mínima) | 378,92 € | 12,82 € | 391,74 € | 9.401,72 € |
+| 1.424,40 € (mínima) | 378,92 € | 12,82 € | 391,74 € | 9.401,76 € |
 | 2.000 € | 532,04 € | 18,00 € | 550,04 € | 13.200,96 € |
 | 2.500 € | 665,05 € | 22,50 € | 687,55 € | 16.501,20 € |
 
@@ -127,4 +127,4 @@ Mientras cobras el subsidio, el SEPE ya cotiza por ti para la jubilación. Consu
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de la Tesorería General de la Seguridad Social o del INSS. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, enlace a la guía de prejubilación. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corregido un total. 12 de octubre de 2026, enlace a la guía de prejubilación. 27 de septiembre de 2026, primera versión.*

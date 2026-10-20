@@ -160,7 +160,7 @@ Si has cotizado por encima de eso, no cobrarás más. Lo que sí se paga aparte 
     id: 'bruta-neta-fb', red: 'facebook', pilar: 'La cifra que te toca', fuente: '/cuanto-cobrare/pension-bruta-y-neta/',
     texto: `Si en la carta de la Seguridad Social pone una cifra y en el banco te llega otra, es por la retención del IRPF. La pensión que te reconocen es bruta, y lo que llega a la cuenta es la neta.
 
-Los pensionistas no pagan cotizaciones sociales, solo esa retención. Sin hijos a cargo y con una pensión de hasta 16.476 euros brutos al año (unos 1.176 euros al mes en 14 pagas), no te retienen nada.
+Los pensionistas no pagan cotizaciones sociales, solo esa retención. Sin hijos a cargo y con una pensión de hasta 16.476 euros brutos al año (unos 1.177 euros al mes en 14 pagas), no te retienen nada.
 
 Por encima, el porcentaje sube poco a poco: con 1.500 euros al mes, en torno al 9 %; con 2.000, cerca del 17 %, y con 3.000, alrededor del 22 %.
 

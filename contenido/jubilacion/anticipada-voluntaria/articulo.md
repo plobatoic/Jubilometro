@@ -8,7 +8,7 @@ miga: Jubilación anticipada voluntaria
 palabra_clave_principal: jubilación anticipada voluntaria
 intencion: informativa
 fase_plan: F1 (artículo n.º 2)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación anticipada voluntaria: requisitos, coeficientes reductores y ejemplos con cifras
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -66,7 +66,7 @@ Desde 2022 el recorte se calcula **por meses de adelanto** (antes era por trimes
 
 Los meses intermedios tienen su propio porcentaje en la tabla del [artículo 208 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a208). Dos ideas para leerla:
 
-- **El primer mes es el más caro en proporción.** Adelantar un solo mes ya supone perder casi un 3 % de pensión de por vida.
+- **El primer mes es el más caro en proporción.** Adelantar un solo mes ya supone perder entre un 2,81 % y un 3,26 % de pensión de por vida.
 - **Cotizar más reduce el castigo.** Con 44 años y 6 meses cotizados, adelantar dos años cuesta un 13 %; con menos de 38 años y 6 meses, un 21 %.
 
 Si tu pensión sin recorte superaría la pensión máxima, hay reglas especiales: el recorte se aplica sobre la pensión máxima, con un calendario gradual (disposición transitoria 34.ª de la LGSS). En ese caso conviene pedir el cálculo al INSS.
@@ -153,4 +153,4 @@ No en la práctica: la ley exige que tu pensión ya reducida supere la mínima q
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, porcentaje exacto según la tabla. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*

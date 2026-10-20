@@ -96,15 +96,15 @@ Si la persona ha **empeorado** desde la valoración, suele ser más rápido pedi
 
 ## Ejemplo
 
-**Rosa pidió la dependencia para su padre, Manuel, de 86 años, el 10 de enero de 2026.** El 11 de julio, sin respuesta, presenta el escrito del paso 2 por la sede electrónica. En septiembre le notifican el **grado II** y, en noviembre, la ayuda por cuidados en el entorno familiar.
+**Rosa pidió la dependencia para su padre, Manuel, de 86 años, el 9 de enero de 2026.** El 10 de julio, sin respuesta, presenta el escrito del paso 2 por la sede electrónica. En septiembre le notifican el **grado II** y, en noviembre, la ayuda por cuidados en el entorno familiar.
 
-Como la solicitud entró el 10 de enero, el derecho de Manuel cuenta desde que se cumplieron los seis meses (**10 de julio de 2026**), aunque la resolución llegara después. Como la ayuda se resuelve después del 23 de octubre de 2026, la comunidad ya **no puede aplazar** el pago de esos atrasos (de julio a noviembre): la reforma de la ley eliminó el aplazamiento de hasta dos años de la ayuda por cuidados familiares.
+Como la solicitud entró el 9 de enero, el derecho de Manuel cuenta desde que se cumplieron los seis meses (**9 de julio de 2026**), aunque la resolución llegara después. Como la ayuda se resuelve después del 23 de octubre de 2026, la comunidad ya **no puede aplazar** el pago de esos atrasos (de julio a noviembre): la reforma de la ley eliminó el aplazamiento de hasta dos años de la ayuda por cuidados familiares.
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto tiempo tiene la Administración para resolver la dependencia?
 
-Seis meses desde que la solicitud entra en el registro, para el grado y la ayuda concreta.
+Seis meses desde que la solicitud entra en el registro, para el grado y la ayuda concreta. Desde el 23 de octubre de 2026, la ley fija además un máximo de tres meses para resolver el procedimiento.
 
 ### ¿Qué pasa si no me contestan en seis meses?
 
@@ -139,4 +139,4 @@ No para el escrito, el recurso administrativo ni la queja al Defensor del Pueblo
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional. Los plazos y el tipo de recurso los indica cada resolución y la normativa de tu comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente; fechas del ejemplo en días hábiles y plazo de tres meses en las preguntas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*

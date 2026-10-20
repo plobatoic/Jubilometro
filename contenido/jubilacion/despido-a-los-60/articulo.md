@@ -8,7 +8,7 @@ miga: Despido a los 60
 palabra_clave_principal: despido a los 60 años paro y jubilación
 intencion: informativa
 fase_plan: F2 (artículo n.º 16)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Despido a los 60: paro, subsidio y jubilación, en qué orden y cuánto cobrarás
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -65,7 +65,7 @@ Tienes dos caminos:
 
 ## Ejemplo: Pedro, despedido a los 60 con 39 años cotizados
 
-Pedro nació en marzo de 1966, le despiden en marzo de 2026 y su edad ordinaria es 65 (tiene más de 38 años y 6 meses cotizados).
+Pedro nació en marzo de 1966, lo despiden en marzo de 2026 y su edad ordinaria es 65 (tiene más de 38 años y 6 meses cotizados).
 
 <!-- tabla: Calendario de Pedro según la opción elegida -->
 | Periodo | Opción A: esperar a la edad ordinaria | Opción B: anticipada involuntaria a los 61 |
@@ -77,7 +77,7 @@ Pedro nació en marzo de 1966, le despiden en marzo de 2026 y su edad ordinaria 
 - La **opción A** da menos ingresos entre los 62 y los 65 (el subsidio), pero una pensión mayor para siempre.
 - La **opción B** da más ingresos antes, pero con un recorte permanente del 28 % (4 años de adelanto con entre 38 años y 6 meses y 41 años y 6 meses cotizados).
 
-Para compararlas con tus números, usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/). En casos con indemnizaciones altas o bases de cotización muy elevadas, merece la pena un asesoramiento profesional.
+Para compararlas con tus números, usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/) En casos con indemnizaciones altas o bases de cotización muy elevadas, merece la pena un asesoramiento profesional.
 
 ## Otras piezas que conviene conocer
 
@@ -119,4 +119,4 @@ Puede bajarla si antes cotizabas por una base alta, porque durante el subsidio s
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS) o del Servicio Público de Empleo Estatal (SEPE). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes y enlace a la guía de prejubilación. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corrección de estilo; corrección ortográfica. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes y enlace a la guía de prejubilación. 27 de septiembre de 2026, primera versión.*

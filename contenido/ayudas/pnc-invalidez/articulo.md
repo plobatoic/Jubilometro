@@ -8,7 +8,7 @@ miga: PNC de invalidez
 palabra_clave_principal: pensión no contributiva de invalidez
 intencion: informativa
 fase_plan: F2 (artículo n.º 56)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,11 +20,11 @@ fuentes_legales:
 
 # Pensión no contributiva de invalidez en 2026: requisitos, cuánto se cobra y cómo compatibilizarla con un trabajo
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
 
 > **Respuesta rápida**
 >
-> La pensión no contributiva (PNC) de invalidez, que la ley llama ahora **de incapacidad no contributiva**, es para personas de **18 a 64 años** con una **discapacidad o enfermedad crónica del 65 % o más**, que vivan en España desde hace **cinco años** y no tengan ingresos suficientes. No hace falta haber cotizado.
+> La pensión no contributiva (PNC) de invalidez, que la ley llama ahora **de incapacidad no contributiva**, es para personas de **18 a 64 años** con una **discapacidad o enfermedad crónica del 65 % o más**, que hayan vivido en España **cinco años** (dos de ellos justo antes de pedirla) y no tengan ingresos suficientes. No hace falta haber cotizado.
 >
 > En 2026 es de **628,80 euros al mes en 14 pagas** como máximo (157,20 como mínimo), más un **complemento del 50 %** (314,40 euros al mes) si la discapacidad llega al **75 %** y necesitas ayuda de otra persona. Es **compatible con un trabajo** con ciertos límites, y a los 65 años pasa a ser de jubilación.
 
@@ -115,4 +115,4 @@ Pasa a ser pensión no contributiva de jubilación, con las mismas condiciones y
 
 *Este artículo es informativo y no sustituye la resolución del organismo de tu comunidad autónoma, que es quien reconoce la pensión no contributiva. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a la guía del grado de discapacidad. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, requisito de residencia más preciso en la respuesta rápida. 14 de octubre de 2026, enlace a la guía del grado de discapacidad. 28 de septiembre de 2026, primera versión.*

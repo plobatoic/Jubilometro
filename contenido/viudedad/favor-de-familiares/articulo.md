@@ -8,7 +8,7 @@ miga: Pensión en favor de familiares
 palabra_clave_principal: pensión en favor de familiares
 intencion: informativa
 fase_plan: F3 (artículo n.º 44)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Pensión en favor de familiares en 2026: qué hijos, hermanos, nietos, padres o abuelos la cobran y cuánto es
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > La pensión en favor de familiares es para los parientes que **vivían con el fallecido y a su cargo** y **no tienen medios para vivir**: nietos y hermanos (menores de edad o incapacitados), madre, padre, abuelos y, si el fallecido era **pensionista de jubilación o incapacidad**, los **hijos o hermanos de más de 45 años** que lo cuidaban ([artículo 226 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226)).
 >
-> Cada beneficiario cobra el **20 % de la base reguladora** del fallecido, con un mínimo de **286,50 euros al mes** en 2026, que sube a **651,90 euros** (o **691,70** con 65 años) si es el único beneficiario y no hay viudo ni huérfanos pensionistas.
+> Cada beneficiario cobra el **20 % de la base reguladora** del fallecido, con un mínimo de **286,50 euros al mes** en 2026, que sube a **651,90 euros** (o **691,70** con 65 años o más) si es el único beneficiario y no hay viudo ni huérfanos pensionistas.
 
 ## Quién puede cobrarla
 
@@ -117,4 +117,4 @@ Para los nietos, hermanos, padres y abuelos, uno de los requisitos es no tener d
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, precisión en la respuesta rápida. 29 de septiembre de 2026, primera versión.*

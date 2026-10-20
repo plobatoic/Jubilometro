@@ -8,7 +8,7 @@ miga: Domiciliar la pensión
 palabra_clave_principal: domiciliar la pensión
 intencion: transaccional
 fase_plan: F3 (artículo n.º 89)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Domiciliar la pensión o cambiarla de banco: cómo se hace, cuándo llega y qué tener en cuenta con los regalos
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y la Agencia Tributaria*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >
@@ -29,7 +29,7 @@ fuentes_legales:
 
 ## Tu derecho a elegir banco
 
-Los pensionistas pueden **elegir libremente** la entidad financiera que les paga la pensión y **cambiarla en cualquier momento** ([Orden de 22 de febrero de 1996, artículo 16](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). Solo tienes que ser **titular de la cuenta**, sola o junto con otras personas.
+Los pensionistas pueden **elegir libremente** la entidad financiera que les paga la pensión y **cambiarla en cualquier momento** ([Orden de 22 de febrero de 1996, artículo 16](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). Solo tienes que ser **titular de la cuenta**, en solitario o junto con otras personas.
 
 Puedes cobrarla de dos formas ([artículo 17](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)):
 
@@ -125,4 +125,4 @@ No, si no eres titular. Puede ser una cuenta conjunta con tu hijo, pero tú tien
 
 *Este artículo es informativo. Las condiciones de cada cuenta y de cada promoción las fija el banco: léelas antes de firmar. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, corrección de estilo. 29 de septiembre de 2026, primera versión.*

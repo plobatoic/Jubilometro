@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Jubilación con 15 años cotizados: cuánto se cobra en 2026"
 h1: "Jubilación con 15 años cotizados: cuánto se cobra y ejemplos"
-meta_descripcion: "Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936 € al mes. Requisitos y ejemplos."
+meta_descripcion: "Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936,20 € al mes. Requisitos y casos."
 url: /jubilacion/15-anos-cotizados/
 categoria: Jubilación
 miga: Jubilación con 15 años cotizados
 palabra_clave_principal: jubilación con 15 años cotizados
 intencion: informativa
 fase_plan: F2 (artículo n.º 19)
-fecha_actualizacion: 2026-09-30
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación con 15 años cotizados: cuánto se cobra y ejemplos
 
-*Actualizado el 30 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -115,4 +115,4 @@ No. Para el periodo mínimo no se tiene en cuenta la parte proporcional de las p
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 30 de septiembre de 2026, la fuente oficial de las cuantías pasa a ser el Real Decreto 241/2026, que derogó el 39/2026 (las cifras no cambian). 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, cifra exacta en la meta. 30 de septiembre de 2026, la fuente oficial de las cuantías pasa a ser el Real Decreto 241/2026, que derogó el 39/2026 (las cifras no cambian). 27 de septiembre de 2026, primera versión.*

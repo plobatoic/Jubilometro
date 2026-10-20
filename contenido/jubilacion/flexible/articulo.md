@@ -8,7 +8,7 @@ miga: Jubilación flexible
 palabra_clave_principal: jubilación flexible 2026
 intencion: informativa
 fase_plan: F1 (artículo n.º 6)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación flexible 2026: qué cambia con el Real Decreto 416/2026 y a quién le interesa
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -53,7 +53,7 @@ Las jubilaciones flexibles iniciadas antes del 28 de agosto de 2026 siguen con l
 
 ### Por cuenta ajena
 
-La pensión se reduce **en proporción inversa a tu jornada**: si trabajas el 60 % de una jornada completa, cobras el 40 % de tu pensión.
+La pensión se reduce **en el mismo porcentaje que la jornada que trabajas**: si trabajas el 60 % de una jornada completa, cobras el 40 % de tu pensión.
 
 Si el primer trabajo compatible empieza **al menos 6 meses después** de la fecha de tu jubilación, se suma un incremento calculado sobre la pensión que cobrabas antes de pasar a la flexible:
 
@@ -79,11 +79,11 @@ Si vuelves a trabajar como autónomo, cobras el **25 % de tu pensión** mientras
 ## A quién le interesa
 
 - **Jubilados que quieren seguir en activo a media jornada**, por dinero o por gusto, sin renunciar a toda la pensión.
-- **Quien se jubiló y le ofrecen volver**, por ejemplo, para formar a su relevo en la empresa.
+- **Quien se jubiló y recibe una oferta para volver**, por ejemplo, para formar a su relevo en la empresa.
 - **Asalariados que se jubilaron recientemente**: si esperan 6 meses a volver, el incremento del 15 % o 25 % mejora mucho la cuenta.
 - **Jubilados que quieren emprender un pequeño negocio** y no han sido autónomos en los 3 años anteriores a su jubilación.
 
-No les interesa, o no pueden acogerse, a quienes eligieron el pago único o la opción mixta de la jubilación demorada, ni a los funcionarios de Clases Pasivas. El Real Decreto tampoco se aplica a los regímenes especiales de funcionarios civiles del Estado, Fuerzas Armadas y Administración de Justicia.
+No pueden acogerse quienes eligieron el pago único o la opción mixta de la jubilación demorada, ni los funcionarios de Clases Pasivas. El Real Decreto tampoco se aplica a los regímenes especiales de funcionarios civiles del Estado, Fuerzas Armadas y Administración de Justicia.
 
 ## Cómo solicitarla
 
@@ -130,4 +130,4 @@ Si ya estás jubilado y todavía no has empezado a trabajar, la nueva regulació
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, tres frases corregidas. 27 de septiembre de 2026, primera versión.*
