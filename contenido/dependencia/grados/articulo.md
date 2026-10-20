@@ -8,7 +8,7 @@ miga: Grados y baremo
 palabra_clave_principal: grados de dependencia
 intencion: informativa
 fase_plan: F1 (artículo n.º 67)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Grados de dependencia: cómo se puntúa el baremo y qué ayudas corresponden al grado I, II y III
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -35,7 +35,7 @@ fuentes_legales:
 
 ## Qué significa cada grado
 
-Los define el [artículo 26 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a26), y los puntos, el [baremo del Real Decreto 174/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174):
+Los define el [artículo 26 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a26), y los puntos, el [baremo del Real Decreto 174/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174). La [reforma de la ley de dependencia](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el 23 de octubre de 2026, obliga al Gobierno a aprobar un **baremo nuevo en un año**. Mientras tanto se sigue usando este:
 
 <!-- tabla: Grados de dependencia: definición y puntos del baremo -->
 | Grado | Definición | Puntos |
@@ -105,6 +105,10 @@ Si no estás de acuerdo con el grado reconocido, puedes **recurrir la resolució
 
 25 puntos. Con menos de 25 no se reconoce grado. El grado I va de 25 a 49 puntos, el II de 50 a 74 y el III de 75 a 100.
 
+### ¿El grado de dependencia da un grado de discapacidad?
+
+Desde el 23 de octubre de 2026, el grado I equivale a una discapacidad del 33 % y los grados II y III, a una del 65 %, pero solo donde una norma lo prevea expresamente y nunca para el IRPF. Lo explicamos en [grado de discapacidad](/dependencia/grado-discapacidad/).
+
 ### ¿Qué diferencia hay entre el grado II y el grado III?
 
 En el grado II necesitas ayuda dos o tres veces al día; en el grado III, varias veces al día y el apoyo continuo de otra persona. El III da más horas de ayuda a domicilio (65 a 94 al mes) y ayudas más altas (hasta 747,25 euros).
@@ -138,4 +142,4 @@ Sí. La revisión del grado se puede pedir en cualquier momento si la situación
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de tu comunidad autónoma, que es quien valora la dependencia y reconoce el grado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, aviso del nuevo baremo previsto por la Ley 4/2026. 28 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Grado de discapacidad
 palabra_clave_principal: grado de discapacidad 33 y 65
 intencion: informativa
 fase_plan: F2 (artículo n.º 77)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Grado de discapacidad del 33 % y del 65 %: qué ventajas da cada uno, cómo se pide y cómo se valora
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -88,6 +88,8 @@ Por eso conviene aportar informes que describan **cómo te limita** tu situació
 
 Puedes tener las tres a la vez, pero cada una se pide por separado. Lo explicamos en [grados de dependencia](/dependencia/grados/) y [grados de incapacidad permanente](/incapacidad/grados-incapacidad/).
 
+**Novedad desde el 23 de octubre de 2026**: con la [Ley 4/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), a quien tiene reconocido un **grado I de dependencia** se le considera con una discapacidad del **33 %**, y con un **grado II o III**, del **65 %** ([artículo 4.2 de la Ley General de derechos de las personas con discapacidad](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632#a4)). Pero esa equivalencia **solo vale donde una ley o una norma lo prevea expresamente** y **no sirve para el IRPF** ni para otros impuestos. Para las ventajas fiscales, y en general para tener un porcentaje concreto, sigue haciendo falta el **certificado de discapacidad**. Si tienes grado de dependencia, puedes pedir además la valoración de discapacidad para que te reconozcan un porcentaje mayor.
+
 ## Preguntas frecuentes
 
 ### ¿Qué ventajas tiene un 33 % de discapacidad?
@@ -102,6 +104,10 @@ Un mínimo de 9.000 euros más 3.000 por gastos de asistencia en el IRPF, el acc
 
 La comunidad autónoma tiene seis meses desde la solicitud, o la mitad si acuerda la tramitación urgente. El grado se reconoce con efectos desde la fecha de la solicitud.
 
+### ¿Un grado de dependencia da la discapacidad automáticamente?
+
+Desde el 23 de octubre de 2026, el grado I de dependencia equivale a un 33 % de discapacidad y los grados II y III a un 65 %, pero solo donde una norma lo prevea expresamente, nunca a efectos fiscales. Para el IRPF necesitas el certificado de discapacidad.
+
 ### ¿Una incapacidad permanente da el 33 % de discapacidad?
 
 Para el IRPF y algunos otros efectos, sí: los pensionistas de incapacidad permanente total, absoluta o gran incapacidad se consideran con un 33 % o más. Para tener un grado mayor hay que pedir la valoración a la comunidad autónoma.
@@ -115,6 +121,7 @@ En la fecha que indique la resolución, o a petición tuya cuando pasen dos año
 - [Real Decreto 888/2022, procedimiento y baremo del grado de discapacidad: artículos 4 a 13](https://www.boe.es/buscar/act.php?id=BOE-A-2022-17105) (BOE).
 - [Ley del IRPF: artículos 19 y 60](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764) (BOE).
 - [Ley General de derechos de las personas con discapacidad (Real Decreto Legislativo 1/2013): artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2013-12632) (BOE).
+- [Ley 4/2026, de 1 de octubre, que equipara los grados de dependencia con la discapacidad (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Ley del IVA: artículo 91](https://www.boe.es/buscar/act.php?id=BOE-A-1992-28740) (BOE).
 
 ## Siguiente paso
@@ -127,4 +134,4 @@ En la fecha que indique la resolución, o a petición tuya cuando pasen dos año
 
 *Este artículo es informativo y no sustituye la información de los servicios sociales de tu comunidad autónoma, que son quienes reconocen el grado de discapacidad. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, equivalencia entre grado de dependencia y discapacidad de la Ley 4/2026 (en vigor el 23 de octubre). 29 de septiembre de 2026, primera versión.*

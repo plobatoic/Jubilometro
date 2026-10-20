@@ -1,5 +1,5 @@
-// Banco de publicaciones · Dependencia y cuidados. Cifras de las guías de jubilometro.com a 12 de octubre de 2026.
-// Días de espera: Imserso, de la solicitud a la prestación (septiembre de 2025 a agosto de 2026); media de España, 302.
+// Banco de publicaciones · Dependencia y cuidados. Cifras de las guías de jubilometro.com a 20 de octubre de 2026.
+// Días de espera: Imserso, de la solicitud a la prestación (octubre de 2025 a septiembre de 2026); media de España, 293.
 // Ya están en el primer mes: convenio del cuidador (todas las redes), cuánto tarda (hilo de X y LinkedIn),
 // grados y ayuda a domicilio en Facebook.
 import { L, FB_WEB } from './comun.mjs';
@@ -13,37 +13,37 @@ ${L(`dependencia-${slug}`, 'x')}`,
 
 export const DEPENDENCIA = [
   /* ---------- Una por comunidad ---------- */
-  comunidad('andalucia', 'Andalucía', `Dependencia en Andalucía: se pide en el portal VED o en una oficina de registro con cita previa, con un informe de salud que suele hacer tu médico de cabecera. La Junta habla de un año; la media real fue de 413 días hasta la prestación.`),
-  comunidad('aragon', 'Aragón', `Dependencia en Aragón: todo empieza con una llamada para pedir cita con la trabajadora social. Si autorizas que consulten tu historia clínica, no necesitas informe médico. Media real: 111 días hasta la prestación, la segunda más rápida de España.`),
-  comunidad('asturias', 'Asturias', `Dependencia en Asturias: si el Principado no resuelve en seis meses, la solicitud se entiende concedida. Aun así, la media real fue de 416 días desde la solicitud hasta la prestación, la segunda más larga de España (302 de media).`),
-  comunidad('baleares', 'Baleares', `Dependencia en Baleares: se pide con la misma solicitud que la discapacidad, y si tus datos de salud están al día en el IB-Salut no hace falta informe médico. Media real: 192 días desde la solicitud hasta la prestación, frente a 302 en España.`),
-  comunidad('canarias', 'Canarias', `Dependencia en Canarias: si el Gobierno no contesta en seis meses, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 250 días desde la solicitud hasta la prestación (302 en España).`),
-  comunidad('cantabria', 'Cantabria', `Dependencia en Cantabria: los impresos se recogen en tu centro de salud o en los servicios sociales de tu ayuntamiento, que te ayudan a rellenarlos. Lo resuelve el ICASS. Media real: 171 días desde la solicitud hasta la prestación, frente a 302 en España.`),
-  comunidad('castilla-la-mancha', 'Castilla-La Mancha', `Dependencia en Castilla-La Mancha: la Junta tiene seis meses para resolver, que se quedan en tres si tienes más de 90 años. El informe de salud lo hace tu médico de atención primaria. Media real: 165 días hasta la prestación (302 en España).`),
-  comunidad('castilla-y-leon', 'Castilla y León', `Dependencia en Castilla y León: se pide en tu CEAS, y el grado y las ayudas se resuelven casi siempre a la vez. Por eso es de las más rápidas: 120 días de media desde la solicitud hasta la prestación, frente a 302 en España.`),
-  comunidad('cataluna', 'Cataluña', `Dependencia en Cataluña: la media real fue de 204 días hasta el grado y 264 hasta la prestación, y es la comunidad con más personas esperando seis meses o más: 41.643. Se puede pedir en línea con idCAT Mòbil.`),
-  comunidad('comunitat-valenciana', 'Comunitat Valenciana', `Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 299 días.`),
-  comunidad('extremadura', 'Extremadura', `Dependencia en Extremadura: la solicitud es el único papel obligatorio. Si autorizas la consulta, la Junta obtiene sola tu informe de salud, tu padrón y tus datos económicos. Media real: 272 días desde la solicitud hasta la prestación (302 en España).`),
-  comunidad('galicia', 'Galicia', `Dependencia en Galicia: si te cuida un familiar en casa, puedes cobrar el Bono Cuidado en el Hogar, 5.000 € al año, sin importar tu renta ni tu grado. No hace falta informe médico: la Xunta consulta tu historia del Sergas. Media: 308 días.`),
-  comunidad('la-rioja', 'La Rioja', `Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 131 días hasta la prestación, de las más rápidas de España.`),
-  comunidad('madrid', 'Comunidad de Madrid', `Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 335 días desde la solicitud hasta la prestación (302 en España).`),
-  comunidad('murcia', 'Región de Murcia', `Dependencia en la Región de Murcia: la media real fue de 536 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.`),
-  comunidad('pais-vasco', 'País Vasco', `Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, la tercera comunidad más rápida.`),
+  comunidad('andalucia', 'Andalucía', `Dependencia en Andalucía: se pide en el portal VED o en una oficina de registro con cita previa, con un informe de salud que suele hacer tu médico de cabecera. La Junta habla de un año; la media real fue de 402 días hasta la prestación.`),
+  comunidad('aragon', 'Aragón', `Dependencia en Aragón: todo empieza con una llamada para pedir cita con la trabajadora social. Si autorizas que consulten tu historia clínica, no necesitas informe médico. Media real: 109 días hasta la prestación, la segunda más rápida de España.`),
+  comunidad('asturias', 'Asturias', `Dependencia en Asturias: si el Principado no resuelve en seis meses, la solicitud se entiende concedida. Aun así, la media real fue de 413 días desde la solicitud hasta la prestación, la segunda más larga de España (293 de media).`),
+  comunidad('baleares', 'Baleares', `Dependencia en Baleares: se pide con la misma solicitud que la discapacidad, y si tus datos de salud están al día en el IB-Salut no hace falta informe médico. Media real: 188 días desde la solicitud hasta la prestación, frente a 293 en España.`),
+  comunidad('canarias', 'Canarias', `Dependencia en Canarias: si el Gobierno no contesta en seis meses, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 214 días desde la solicitud hasta la prestación (293 en España).`),
+  comunidad('cantabria', 'Cantabria', `Dependencia en Cantabria: los impresos se recogen en tu centro de salud o en los servicios sociales de tu ayuntamiento, que te ayudan a rellenarlos. Lo resuelve el ICASS. Media real: 169 días desde la solicitud hasta la prestación, frente a 293 en España.`),
+  comunidad('castilla-la-mancha', 'Castilla-La Mancha', `Dependencia en Castilla-La Mancha: la Junta tiene seis meses para resolver, que se quedan en tres si tienes más de 90 años. El informe de salud lo hace tu médico de atención primaria. Media real: 166 días hasta la prestación (293 en España).`),
+  comunidad('castilla-y-leon', 'Castilla y León', `Dependencia en Castilla y León: se pide en tu CEAS, y el grado y las ayudas se resuelven casi siempre a la vez. Por eso es de las más rápidas: 120 días de media desde la solicitud hasta la prestación, frente a 293 en España.`),
+  comunidad('cataluna', 'Cataluña', `Dependencia en Cataluña: la media real fue de 198 días hasta el grado y 261 hasta la prestación, y es la comunidad con más personas esperando seis meses o más: 40.624. Se puede pedir en línea con idCAT Mòbil.`),
+  comunidad('comunitat-valenciana', 'Comunitat Valenciana', `Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.`),
+  comunidad('extremadura', 'Extremadura', `Dependencia en Extremadura: la solicitud es el único papel obligatorio. Si autorizas la consulta, la Junta obtiene sola tu informe de salud, tu padrón y tus datos económicos. Media real: 277 días desde la solicitud hasta la prestación (293 en España).`),
+  comunidad('galicia', 'Galicia', `Dependencia en Galicia: si te cuida un familiar en casa, puedes cobrar el Bono Cuidado en el Hogar, 5.000 € al año, sin importar tu renta ni tu grado. No hace falta informe médico: la Xunta consulta tu historia del Sergas. Media: 307 días.`),
+  comunidad('la-rioja', 'La Rioja', `Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 130 días hasta la prestación, de las más rápidas de España.`),
+  comunidad('madrid', 'Comunidad de Madrid', `Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 327 días desde la solicitud hasta la prestación (293 en España).`),
+  comunidad('murcia', 'Región de Murcia', `Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.`),
+  comunidad('pais-vasco', 'País Vasco', `Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, de las más rápidas de España.`),
 
   /* ---------- Pedir y reclamar ---------- */
   {
     id: 'espera-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/dependencia/tiempos-dependencia/',
     diapositivas: [
       '¿Cuánto tarda la dependencia en tu comunidad? Los datos reales del Imserso.',
-      'España: 302 días de media de la solicitud a la prestación, aunque la ley da seis meses.',
-      'Las más rápidas: Aragón, 111 días; Castilla y León, 120; País Vasco, 130; La Rioja, 131.',
-      'Por debajo de la media: Castilla-La Mancha, 165; Cantabria, 171; Baleares, 192; Navarra, 222; Canarias, 250.',
-      'Cerca de la media: Cataluña, 264; Extremadura, 272; Comunitat Valenciana, 299; Galicia, 308.',
-      'Las más lentas: Madrid, 335; Andalucía, 413; Asturias, 416; Región de Murcia, 536.',
+      'España: 293 días de media de la solicitud a la prestación, aunque la ley da seis meses.',
+      'Las más rápidas: Aragón, 109 días; Castilla y León, 120; La Rioja y País Vasco, 130.',
+      'Por debajo de la media: Castilla-La Mancha, 166; Cantabria, 169; Baleares, 188; Canarias, 214; Navarra, 228.',
+      'Cerca de la media: Cataluña, 261; Extremadura, 277; Comunitat Valenciana, 297; Galicia, 307.',
+      'Las más lentas: Madrid, 327; Andalucía, 402; Asturias, 413; Región de Murcia, 529.',
       'Si pasan seis meses sin resolución, tu derecho empieza a contar desde entonces.',
       'Guárdalo y mira la guía de tu comunidad en Jubilómetro (enlace en la biografía).',
     ],
-    texto: `De 111 días en Aragón a 536 en la Región de Murcia: lo que tarda de verdad la dependencia en cada comunidad. Guías por comunidad en la biografía.
+    texto: `De 109 días en Aragón a 529 en la Región de Murcia: lo que tarda de verdad la dependencia en cada comunidad. Guías por comunidad en la biografía.
 
 #dependencia #mayores #cuidados #imserso`,
   },

@@ -8,7 +8,7 @@ miga: Teleasistencia
 palabra_clave_principal: teleasistencia
 intencion: informativa
 fase_plan: F3 (artículo n.º 74)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Teleasistencia para personas mayores: qué es, cuánto cuesta y cómo pedirla con o sin dependencia
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en las administraciones que la prestan*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en las administraciones que la prestan*
 
 > **Respuesta rápida**
 >
@@ -51,14 +51,15 @@ En Madrid capital, por ejemplo, más de 40.700 personas usan ya la pulsera con d
 
 ## Vía 1: con la dependencia reconocida
 
-Si tienes **grado de dependencia**, la teleasistencia puede formar parte de tu **Programa Individual de Atención (PIA)**. Es la prestación más extendida del sistema: a 31 de agosto de 2026 había **694.152**, el **27 %** de todas las prestaciones de dependencia ([estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual)).
+Si tienes **grado de dependencia**, la teleasistencia puede formar parte de tu **Programa Individual de Atención (PIA)**. Es la prestación más extendida del sistema: a 30 de septiembre de 2026 había **704.211**, el **27 %** de todas las prestaciones de dependencia ([estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual)).
 
-Lo mejor es que **se suma a casi todo**. Según el [Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (artículos 7 y 16):
+Lo mejor es que **se suma a todo**. Desde el **23 de octubre de 2026**, con la [reforma de la ley de dependencia](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), las personas con grado tienen **derecho a la teleasistencia en cualquier grado, con independencia del resto de ayudas** que tengan reconocidas: es un servicio complementario a todo lo demás ([artículo 22.4 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a22)).
 
 - Es **compatible** con la [ayuda a domicilio](/dependencia/ayuda-a-domicilio/), el [centro de día](/dependencia/centro-de-dia/), la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/) y las demás prestaciones económicas.
-- **No** se da a quien vive en una **residencia**, porque allí ya hay atención continua.
+- Hasta el 22 de octubre de 2026 no se daba a quien vivía en una **residencia**, porque allí ya hay atención continua ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811), artículos 7 y 16). La ley ya no lo excluye, aunque en una residencia rara vez hace falta.
+- La ley pide además garantizarla en **zonas rurales** con conexión las 24 horas y con **atención en lengua de signos**.
 
-De hecho, las combinaciones más frecuentes del sistema son **ayuda a domicilio + teleasistencia** (275.137 personas) y **cuidados familiares + teleasistencia** (236.646). Si ya tienes grado y no la tienes, pide a tus servicios sociales que la **añadan a tu PIA**.
+De hecho, las combinaciones más frecuentes del sistema son **ayuda a domicilio + teleasistencia** (278.895 personas) y **cuidados familiares + teleasistencia** (240.362). Si ya tienes grado y no la tienes, pide a tus servicios sociales que la **añadan a tu PIA**.
 
 ¿Aún no tienes grado? Lee [cómo solicitar la dependencia](/dependencia/solicitar-dependencia/).
 
@@ -104,7 +105,7 @@ No. Puedes pedirla también en los servicios sociales de tu ayuntamiento como se
 
 ### ¿Es compatible la teleasistencia con la ayuda por cuidados familiares?
 
-Sí. La teleasistencia es compatible con todas las prestaciones económicas de la dependencia y con la ayuda a domicilio y el centro de día. Solo no se da a quien vive en una residencia.
+Sí. La teleasistencia es compatible con todas las prestaciones económicas de la dependencia y con la ayuda a domicilio y el centro de día. Desde el 23 de octubre de 2026, la ley la reconoce como derecho en cualquier grado, además de cualquier otra ayuda.
 
 ### ¿Funciona la teleasistencia fuera de casa?
 
@@ -116,9 +117,10 @@ Nada: la central te habla, compruebas que estás bien y se cierra el aviso. Es m
 
 ## Fuentes oficiales
 
-- [Ley 39/2006, de dependencia, artículos 22 y 25 bis](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 39/2006, de dependencia, artículo 22](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 4/2026, de reforma de la ley de dependencia (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Real Decreto 1051/2013, de prestaciones de dependencia, artículos 7 y 16](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
-- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 31 de agosto de 2026 (tablas 4.1 y 5.3)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 30 de septiembre de 2026 (tablas 4.1 y 5.3)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ayuntamiento de Madrid: la teleasistencia avanzada será gratuita para mayores de 85 años desde 2027 (30 de junio de 2026)](https://www.madrid.es/portales/munimadrid/es/Inicio/Actualidad/Noticias/Las-personas-mayores-de-85-anos-disfrutaran-de-la-Teleasistencia-Avanzada-de-forma-gratuita-desde-2027/?vgnextfmt=default&vgnextoid=15b3ebe83281f910VgnVCM100000891ecb1aRCRD&vgnextchannel=a12149fa40ec9410VgnVCM100000171f5a0aRCRD).
 - [Junta de Andalucía: Tarjeta Andalucía Junta 65 y Servicio Andaluz de Teleasistencia](https://www.juntadeandalucia.es/agenciadeserviciossocialesydependencia/index.php/m-tarjeta-andalucia-junta-sesentaycinco/m-que-es).
 
@@ -132,4 +134,4 @@ Nada: la central te habla, compruebas que estás bien y se cierra el aviso. Es m
 
 *Este artículo es informativo. Las condiciones y el precio de la teleasistencia pública los fija cada ayuntamiento o comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): la teleasistencia pasa a ser un derecho en cualquier grado y compatible con todo, y datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

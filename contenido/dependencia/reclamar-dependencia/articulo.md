@@ -8,7 +8,7 @@ miga: Reclamar la dependencia
 palabra_clave_principal: reclamar dependencia
 intencion: transaccional
 fase_plan: F3 (artículo n.º 70)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo reclamar la dependencia: qué hacer si pasan seis meses sin respuesta o no estás de acuerdo con el grado
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -34,7 +34,9 @@ La [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-
 1. **Plazo máximo de seis meses** entre la fecha de entrada de la solicitud y la resolución que reconoce la **prestación**, aunque tu comunidad tramite por separado el grado y la ayuda.
 2. **El derecho nace**, como tarde, **al acabar esos seis meses**, aunque no te hayan contestado. Si después te reconocen la ayuda, te corresponden los atrasos desde entonces.
 
-Hay una excepción: en la [prestación por cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/), la ley permite a la Administración **aplazar el pago** de esos atrasos **hasta dos años**. El plazo se interrumpe en cuanto empiezas a cobrarla.
+Hasta el 22 de octubre de 2026 había una excepción: en la [prestación por cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/), la ley permitía **aplazar el pago** de esos atrasos **hasta dos años**. La reforma **elimina ese aplazamiento**, y las prestaciones que estaban en suspenso recuperan su vigencia y su cuantía.
+
+La [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el **23 de octubre de 2026**, añade dos cosas: un plazo máximo de **tres meses** para resolver el procedimiento ([artículo 28.1](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)), sin tocar los seis meses de la prestación, y la obligación de tramitar **de urgencia** los expedientes de personas en **especial vulnerabilidad** (por falta de recursos, aislamiento, problemas de vivienda o de salud, violencia de género, entre otras) ([artículo 28.7](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)).
 
 En la práctica, muchas comunidades tardan bastante más: el tiempo medio de espera por comunidad lo recogemos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
@@ -96,7 +98,7 @@ Si la persona ha **empeorado** desde la valoración, suele ser más rápido pedi
 
 **Rosa pidió la dependencia para su padre, Manuel, de 86 años, el 10 de enero de 2026.** El 11 de julio, sin respuesta, presenta el escrito del paso 2 por la sede electrónica. En septiembre le notifican el **grado II** y, en noviembre, la ayuda por cuidados en el entorno familiar.
 
-Como la solicitud entró el 10 de enero, el derecho de Manuel cuenta desde que se cumplieron los seis meses (**10 de julio de 2026**), aunque la resolución llegara después. La comunidad podrá aplazar el pago de esos atrasos (de julio a noviembre) hasta dos años, porque es una prestación por cuidados familiares.
+Como la solicitud entró el 10 de enero, el derecho de Manuel cuenta desde que se cumplieron los seis meses (**10 de julio de 2026**), aunque la resolución llegara después. Como la ayuda se resuelve después del 23 de octubre de 2026, la comunidad ya **no puede aplazar** el pago de esos atrasos (de julio a noviembre): la reforma de la ley eliminó el aplazamiento de hasta dos años de la ayuda por cuidados familiares.
 
 ## Preguntas frecuentes
 
@@ -114,7 +116,7 @@ Normalmente un mes desde que recibes la resolución. La propia resolución indic
 
 ### ¿Me pagan con retroactividad la dependencia?
 
-Sí, desde la resolución o, si se retrasó, desde el final de los seis meses. En la ayuda por cuidados familiares, el pago de los atrasos se puede aplazar hasta dos años.
+Sí, desde la resolución o, si se retrasó, desde el final de los seis meses. Desde el 23 de octubre de 2026 ya no se puede aplazar el pago de los atrasos de la ayuda por cuidados familiares.
 
 ### ¿Necesito abogado para reclamar la dependencia?
 
@@ -123,6 +125,7 @@ No para el escrito, el recurso administrativo ni la queja al Defensor del Pueblo
 ## Fuentes oficiales
 
 - [Ley 39/2006, de dependencia, artículos 27 a 30 y disposición final primera](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 4/2026, de reforma de la ley de dependencia (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Ley 39/2015, del Procedimiento Administrativo Común, artículos 21, 22, 24, 40 y 112 a 124](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565) (BOE).
 - [Defensor del Pueblo: presentar una queja](https://www.defensordelpueblo.es/).
 
@@ -136,4 +139,4 @@ No para el escrito, el recurso administrativo ni la queja al Defensor del Pueblo
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional. Los plazos y el tipo de recurso los indica cada resolución y la normativa de tu comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*

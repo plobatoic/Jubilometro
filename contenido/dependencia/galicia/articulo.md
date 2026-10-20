@@ -8,7 +8,7 @@ miga: Dependencia en Galicia
 palabra_clave_principal: dependencia Galicia
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en Galicia: cómo se pide, cuánto tarda y qué ayudas da la Xunta en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Xunta de Galicia, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Xunta de Galicia, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En Galicia, la dependencia se pide con una **solicitud conjunta de dependencia y discapacidad** (procedimiento **BS210A**), por internet en la sede electrónica de la Xunta o en persona en cualquier registro. **No hace falta llevar un informe médico**: la Xunta consulta tu historia clínica del Sergas. Los servicios sociales de tu ayuntamiento o de tu centro de salud te ayudan a presentarla.
 >
-> La Xunta tiene **seis meses** para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **308 días** desde la solicitud hasta la prestación. Si te cuida un familiar en casa, puedes cobrar el **Bono Cuidado en el Hogar: 5.000 euros al año**, sin importar tu renta ni tu grado.
+> La Xunta tiene **seis meses** para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **307 días** desde la solicitud hasta la prestación. Si te cuida un familiar en casa, puedes cobrar el **Bono Cuidado en el Hogar: 5.000 euros al año**, sin importar tu renta ni tu grado.
 
 ## Quién puede pedirla
 
@@ -54,15 +54,15 @@ Para dudas, llama al **012**, el teléfono de atención a la ciudadanía de la X
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en Galicia frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en Galicia frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Galicia | España |
 |---|---|---|
-| De la solicitud al grado | 178 días | 228 días |
-| Del grado a la prestación | 139 días | 52 días |
-| De la solicitud a la prestación | 308 días | 302 días |
-| Personas esperando seis meses o más | 470 | 130.162 |
+| De la solicitud al grado | 179 días | 220 días |
+| Del grado a la prestación | 140 días | 50 días |
+| De la solicitud a la prestación | 307 días | 293 días |
+| Personas esperando seis meses o más | 463 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). En Galicia el grado llega antes que en el conjunto de España, pero el paso del grado a la prestación es más lento. Casi no hay personas con más de seis meses de espera: **470**.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). En Galicia el grado llega antes que en el conjunto de España, pero el paso del grado a la prestación es más lento. Casi no hay personas con más de seis meses de espera: **463**.
 
 Aunque la solicitud se entiende denegada si no hay respuesta en seis meses, puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
@@ -77,23 +77,23 @@ La persona cuidadora puede ser tu cónyuge o pareja de hecho, un familiar hasta 
 
 ## Qué ayudas se dan en Galicia
 
-A 31 de agosto de 2026, **98.578 personas** tenían resuelto su PIA en Galicia y **97.845** (el 99,26 %) recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **99.224 personas** tenían resuelto su PIA en Galicia y **98.485** (el 99,26 %) recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en Galicia (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en Galicia (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Teleasistencia | 55.907 | 34,12 % |
-| Prestación por cuidados familiares | 43.338 | 26,45 % |
-| Ayuda a domicilio | 22.116 | 13,50 % |
-| Prestación vinculada al servicio | 21.133 | 12,90 % |
-| Centros de día y de noche | 7.819 | 4,77 % |
-| Atención residencial | 7.443 | 4,54 % |
-| Prevención de la dependencia y promoción de la autonomía | 5.961 | 3,64 % |
-| Prestación de asistencia personal | 147 | 0,09 % |
+| Teleasistencia | 57.019 | 34,40 % |
+| Prestación por cuidados familiares | 44.123 | 26,62 % |
+| Ayuda a domicilio | 22.114 | 13,34 % |
+| Prestación vinculada al servicio | 21.067 | 12,71 % |
+| Centros de día y de noche | 7.834 | 4,73 % |
+| Atención residencial | 7.439 | 4,49 % |
+| Prevención de la dependencia y promoción de la autonomía | 6.002 | 3,62 % |
+| Prestación de asistencia personal | 149 | 0,09 % |
 
-Cada persona recibe de media **1,66 prestaciones**, más que la media española (1,45). La **teleasistencia** (34,12 % frente al 27,16 % en España) y la **prestación vinculada al servicio** (12,90 % frente al 9,47 %) pesan más que en el resto del país.
+Cada persona recibe de media **1,67 prestaciones**, más que la media española (1,45). La **teleasistencia** (34,40 % frente al 27,27 % en España) y la **prestación vinculada al servicio** (12,71 % frente al 9,47 %) pesan más que en el resto del país.
 
-**Cuantía media de la prestación por cuidados familiares en Galicia**: 381,51 euros al mes con grado I, 388,92 con grado II y 396,78 con grado III, muy por encima de la media española (172,90, 275,03 y 381,50) gracias al Bono Cuidado en el Hogar. Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en Galicia**: 383,09 euros al mes con grado I, 389,64 con grado II y 397,14 con grado III, muy por encima de la media española (174,91, 278,78 y 386,36) gracias al Bono Cuidado en el Hogar. Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 **Plazas públicas**: para los centros de día, residencias, teleasistencia y ayuda en el hogar, la Xunta ordena la lista de espera con su **Programa de Asignación de Recursos**, que da prioridad al mayor grado, a la menor capacidad económica, a la situación familiar y a quien no recibe otra prestación.
 
@@ -109,7 +109,7 @@ No. La Xunta consulta directamente tu historia clínica del Sergas, salvo que te
 
 ### ¿Cuánto tarda la dependencia en Galicia?
 
-La Xunta tiene seis meses para resolver. Según el Imserso, la media fue de 308 días desde la solicitud hasta la prestación (datos a agosto de 2026): 178 días hasta el grado y 139 más hasta la prestación.
+La Xunta tiene seis meses para resolver. Según el Imserso, la media fue de 307 días desde la solicitud hasta la prestación (datos a septiembre de 2026): 179 días hasta el grado y 140 más hasta la prestación.
 
 ### ¿Qué es el bono de 5.000 euros de la Xunta?
 
@@ -123,7 +123,7 @@ Sí. En Galicia es la misma solicitud: el procedimiento BS210A sirve para pedir 
 
 - [Xunta de Galicia: procedimiento BS210A, reconocimiento de la situación de dependencia y de la discapacidad](https://sede.xunta.gal/detalle-procedemento?langId=es_ES&codtram=BS210A).
 - [Consellería de Política Social e Igualdade: Bono Cuidado en el Hogar](https://politicasocial.xunta.gal/es/areas/mayores-y-dependencia/bonos-para-personas-con-dependencia/bono-cuidado-en-el-hogar) y [Bono Cuidado en Residencia](https://politicasocial.xunta.gal/es/areas/mayores-y-dependencia/bonos-para-personas-con-dependencia/bono-cuidado-en-residencia).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 
 ## Siguiente paso
@@ -136,4 +136,4 @@ Sí. En Galicia es la misma solicitud: el procedimiento BS210A sirve para pedir 
 
 *Este artículo es informativo y no sustituye la información de la Xunta de Galicia, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

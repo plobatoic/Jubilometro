@@ -8,7 +8,7 @@ miga: Dependencia en las Illes Balears
 palabra_clave_principal: dependencia Baleares
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Dependencia en las Illes Balears: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Govern de les Illes Balears, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Govern de les Illes Balears, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En las Illes Balears, la dependencia se pide con la **misma solicitud que la discapacidad**, en el modelo oficial del Govern: por internet (certificado digital, DNI electrónico o Cl@ve), en cualquier registro público o por correo. La tramita la **Dirección General de Atención a la Dependencia**. Si tus datos de salud están al día en el **IB-Salut**, no tienes que llevar el informe de salud.
 >
-> El reconocimiento del grado de dependencia tiene un plazo de **tres meses**; si no contestan, se entiende **denegado**. Según el Imserso, la media real fue de **192 días** desde la solicitud hasta la prestación, frente a 302 en España.
+> El reconocimiento del grado de dependencia tiene un plazo de **tres meses**; si no contestan, se entiende **denegado**. Según el Imserso, la media real fue de **188 días** desde la solicitud hasta la prestación, frente a 293 en España.
 
 ## Quién puede pedirla
 
@@ -55,36 +55,36 @@ Si no estás de acuerdo con la resolución, puedes presentar una **reclamación 
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en las Illes Balears frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en las Illes Balears frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Illes Balears | España |
 |---|---|---|
-| De la solicitud al grado | 93 días | 228 días |
-| Del grado a la prestación | 90 días | 52 días |
-| De la solicitud a la prestación | 192 días | 302 días |
-| Personas esperando seis meses o más | 2.412 | 130.162 |
+| De la solicitud al grado | 90 días | 220 días |
+| Del grado a la prestación | 91 días | 50 días |
+| De la solicitud a la prestación | 188 días | 293 días |
+| Personas esperando seis meses o más | 2.455 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega en una media de 93 días, dentro del plazo de tres meses del Govern. Casi todas las personas que esperan más de seis meses (2.312) ya tienen el grado y les falta la resolución de su PIA.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega en una media de 90 días, dentro del plazo de tres meses del Govern. Casi todas las personas que esperan más de seis meses (2.355) ya tienen el grado y les falta la resolución de su PIA.
 
 Si no te contestan, puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en las Illes Balears
 
-A 31 de agosto de 2026, **35.529 personas** tenían resuelto su PIA en las Illes Balears, y todas recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **35.710 personas** tenían resuelto su PIA en las Illes Balears, y todas recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en las Illes Balears (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en las Illes Balears (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Prestación por cuidados familiares | 27.673 | 46,05 % |
-| Teleasistencia | 20.286 | 33,76 % |
-| Prevención de la dependencia y promoción de la autonomía | 3.719 | 6,19 % |
-| Atención residencial | 3.093 | 5,15 % |
-| Ayuda a domicilio | 2.641 | 4,39 % |
-| Centros de día y de noche | 1.864 | 3,10 % |
-| Prestación vinculada al servicio | 819 | 1,36 % |
+| Prestación por cuidados familiares | 27.642 | 46,04 % |
+| Teleasistencia | 20.401 | 33,98 % |
+| Prevención de la dependencia y promoción de la autonomía | 3.662 | 6,10 % |
+| Atención residencial | 3.073 | 5,12 % |
+| Ayuda a domicilio | 2.593 | 4,32 % |
+| Centros de día y de noche | 1.858 | 3,09 % |
+| Prestación vinculada al servicio | 814 | 1,36 % |
 
-Cada persona recibe de media **1,69 prestaciones**, la cifra más alta de España (1,45 de media): lo habitual es combinar la **prestación por cuidados familiares** (46,05 % de las ayudas, frente al 31,37 % en España) con la **teleasistencia** (33,76 %, frente al 27,16 %).
+Cada persona recibe de media **1,68 prestaciones**, la cifra más alta de España (1,45 de media): lo habitual es combinar la **prestación por cuidados familiares** (46,04 % de las ayudas, frente al 31,36 % en España) con la **teleasistencia** (33,98 %, frente al 27,27 %).
 
-**Cuantía media de la prestación por cuidados familiares en las Illes Balears**: 162,95 euros al mes con grado I, 278,79 con grado II y 389,22 con grado III (en España, 172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en las Illes Balears**: 162,96 euros al mes con grado I, 278,97 con grado II y 389,49 con grado III (en España, 174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -98,7 +98,7 @@ El informe de salud en el modelo de la sede electrónica, de menos de seis meses
 
 ### ¿Cuánto tarda la dependencia en Baleares?
 
-El grado tiene un plazo de tres meses. Según el Imserso, la media fue de 93 días hasta el grado y de 192 desde la solicitud hasta la prestación (datos a agosto de 2026).
+El grado tiene un plazo de tres meses. Según el Imserso, la media fue de 90 días hasta el grado y de 188 desde la solicitud hasta la prestación (datos a septiembre de 2026).
 
 ### ¿Qué pasa si no me contestan?
 
@@ -111,7 +111,7 @@ La prestación por cuidados familiares, casi la mitad de las ayudas, seguida de 
 ## Fuentes oficiales
 
 - [Govern de les Illes Balears, Dirección General de Atención a la Dependencia: reconocimiento del grado de discapacidad y dependencia](https://www.caib.es/sites/dgdependencia/es/solicitud_de_reconocimiento_de_la_situacion_de_dependencia-16349/).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías máximas)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
@@ -125,4 +125,4 @@ La prestación por cuidados familiares, casi la mitad de las ayudas, seguida de 
 
 *Este artículo es informativo y no sustituye la información del Govern de les Illes Balears, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

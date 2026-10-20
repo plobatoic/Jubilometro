@@ -8,7 +8,7 @@ miga: Jubilación de autónomos
 palabra_clave_principal: jubilación autónomos
 intencion: informativa
 fase_plan: F2 (artículo n.º 10)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Jubilación de autónomos: requisitos, cuánto cobran y cómo mejorar su pensión
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -85,6 +85,16 @@ Tienes dos vías:
 
 Si te jubilas del todo, tienes que **darte de baja en el RETA**, salvo que trabajes con alguno de estos regímenes de compatibilidad.
 
+## Profesionales con mutualidad alternativa: la pasarela al RETA
+
+Muchos **abogados, arquitectos, procuradores y otros profesionales colegiados** cotizaron a una **mutualidad alternativa** en lugar de al régimen de autónomos (RETA). La [Ley 2/2026, de 29 de julio](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16653), en vigor desde el **1 de agosto de 2026**, les abre una **pasarela**:
+
+- **Transferir** a la Seguridad Social lo acumulado en la mutualidad y convertirlo en **periodos cotizados** en el RETA. La conversión toma la base mínima de autónomos de cada momento, con un coeficiente de entre 0,67 y 0,87.
+- Es **voluntaria e irreversible**: quien la pide queda en el RETA para esa actividad. No pueden pedirla quienes ya cobran una pensión de un régimen público o de la mutualidad, salvo la de viudedad. La transferencia **no tributa**.
+- El plazo para pedirla será de **un año desde que se apruebe el reglamento**, que la ley mandaba aprobar en tres meses. A 20 de octubre de 2026, los colegios profesionales seguían reclamándolo.
+- Además, a quien tenga **52 años o más a 31 de diciembre de 2026** y se jubile a la **edad ordinaria**, cada mes cotizado en la mutualidad alternativa le contará como un mes en el RETA, solo para calcular el porcentaje por años cotizados.
+- Quien dejó la mutualidad antes de que pasara a capitalización individual y no llega a **15 años** cotizados en la Seguridad Social podrá firmar, una sola vez, un **convenio especial** que le compute hasta cinco años anteriores.
+
 ## Preguntas frecuentes
 
 ### ¿A qué edad se jubila un autónomo en 2027?
@@ -103,6 +113,10 @@ Si debes cuotas, la Seguridad Social te da 30 días naturales para pagarlas. Si 
 
 Sí. Si has cotizado en varios regímenes, se suman los periodos. Si en ambos tienes derecho a pensión, hay reglas específicas; consúltalo con la Seguridad Social.
 
+### ¿Pueden los abogados con mutualidad pasarse al RETA?
+
+Sí, con la pasarela de la Ley 2/2026: podrán transferir lo acumulado en la mutualidad alternativa y convertirlo en años cotizados de autónomo. El plazo será de un año desde que se apruebe el reglamento, todavía pendiente a 20 de octubre de 2026.
+
 ### ¿Cuánto cobra un autónomo con 30 años cotizados por la base mínima?
 
 Depende de las bases de cada año, pero con 30 años cotizados el porcentaje sería del 84,20 % de la base reguladora si te jubilas en 2027 o después. Con bases mínimas, la pensión resultante puede quedar cerca de la mínima y, si cumples el límite de ingresos, recibirías el complemento a mínimos.
@@ -110,6 +124,7 @@ Depende de las bases de cada año, pero con 30 años cotizados el porcentaje ser
 ## Fuentes
 
 - [Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE): artículos 205 a 215 y 318.
+- [Ley 2/2026, de 29 de julio, sobre las mutualidades alternativas y la pasarela al RETA](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16653) (BOE).
 - [Autónomos y Emprendedor: pensión media de los autónomos que se jubilan (23 de septiembre de 2026)](https://www.autonomosyemprendedor.es/articulo/seguridad-social/seguridad-social-confirma-cuanto-cobran-media-autonomos-que-estan-jubilando-otono/20260923163543055972.html).
 - [Agencia Tributaria: límites de aportación a sistemas de previsión social](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c13-determinacion-renta-contribuyente-sujeta-gravamen/reducciones-base-imponible-general/reducciones-aportaciones-contribuciones-sistemas-prevision-social/normas-comunes-aplicables-aportaciones-sistemas-social/limites-exceso-aportaciones.html).
 
@@ -124,4 +139,4 @@ Depende de las bases de cada año, pero con 30 años cotizados el porcentaje ser
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 6 de octubre de 2026, enlace a la guía de los trabajadores agrarios. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, pasarela al RETA para profesionales con mutualidad alternativa (Ley 2/2026). 6 de octubre de 2026, enlace a la guía de los trabajadores agrarios. 27 de septiembre de 2026, primera versión.*

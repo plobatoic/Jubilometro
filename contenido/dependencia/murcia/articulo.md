@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Dependencia en Murcia 2026: solicitud, tasa, plazos y ayudas"
 h1: "Dependencia en la Región de Murcia: cómo se pide, qué tasa se paga, cuánto tarda y qué ayudas hay en 2026"
-meta_descripcion: "En Murcia la dependencia se pide al IMAS (procedimiento 7402) con informe del centro de salud y una tasa, con exenciones. Es la más lenta: 536 días de media."
+meta_descripcion: "En Murcia la dependencia se pide al IMAS (procedimiento 7402) con informe del centro de salud y una tasa, con exenciones. Es la más lenta: 529 días de media."
 url: /dependencia/murcia/
 categoria: Dependencia
 miga: Dependencia en la Región de Murcia
 palabra_clave_principal: dependencia Murcia
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en la Región de Murcia: cómo se pide, qué tasa se paga, cuánto tarda y qué ayudas hay en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Comunidad Autónoma de la Región de Murcia, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Comunidad Autónoma de la Región de Murcia, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En la Región de Murcia, la dependencia se pide al **Instituto Murciano de Acción Social (IMAS)** con el **procedimiento 7402**, en persona en un registro o por la **sede electrónica** de la CARM. Necesitas el **certificado histórico de empadronamiento**, el **informe de salud** en el modelo oficial de tu centro de salud y el justificante de pago de la **tasa T-172**, de la que están **exentas** las familias con ingresos bajos.
 >
-> El IMAS tiene **seis meses** para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **536 días** desde la solicitud hasta la prestación, la más larga de España (302 de media).
+> El IMAS tiene **seis meses** para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **529 días** desde la solicitud hasta la prestación, la más larga de España (293 de media).
 
 ## Quién puede pedirla
 
@@ -63,37 +63,37 @@ Contra la resolución se puede presentar una **reclamación previa** ante la dir
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en la Región de Murcia frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en la Región de Murcia frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Región de Murcia | España |
 |---|---|---|
-| De la solicitud al grado | 299 días | 228 días |
-| Del grado a la prestación | 202 días | 52 días |
-| De la solicitud a la prestación | 536 días | 302 días |
-| Personas esperando seis meses o más | 9.547 | 130.162 |
+| De la solicitud al grado | 284 días | 220 días |
+| Del grado a la prestación | 198 días | 50 días |
+| De la solicitud a la prestación | 529 días | 293 días |
+| Personas esperando seis meses o más | 9.570 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Murcia es la comunidad que **más tarda** de toda España, por delante de Asturias (416 días) y Andalucía (413). En su carta de servicios, la consejería se compromete a resolver el 90 % de las **valoraciones** en tres meses y todas en cuatro, sin contar los retrasos ajenos a la Administración, pero la espera hasta la **prestación** es mucho mayor.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Murcia es la comunidad que **más tarda** de toda España, por delante de Asturias (413 días) y Andalucía (402). En su carta de servicios, la consejería se compromete a resolver el 90 % de las **valoraciones** en tres meses y todas en cuatro, sin contar los retrasos ajenos a la Administración, pero la espera hasta la **prestación** es mucho mayor.
 
 Si pasan los seis meses sin respuesta, la solicitud se entiende desestimada, pero puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en la Región de Murcia
 
-A 31 de agosto de 2026, **52.506 personas** tenían resuelto su PIA en la Región de Murcia y **52.223** (el 99,46 %) recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **52.764 personas** tenían resuelto su PIA en la Región de Murcia y **52.520** (el 99,54 %) recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en la Región de Murcia (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en la Región de Murcia (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Prestación por cuidados familiares | 33.784 | 48,41 % |
-| Teleasistencia | 17.669 | 25,32 % |
-| Atención residencial | 5.393 | 7,73 % |
-| Centros de día y de noche | 4.258 | 6,10 % |
-| Ayuda a domicilio | 4.083 | 5,85 % |
-| Prevención de la dependencia y promoción de la autonomía | 2.999 | 4,30 % |
-| Prestación vinculada al servicio | 1.593 | 2,28 % |
+| Prestación por cuidados familiares | 34.099 | 48,85 % |
+| Teleasistencia | 17.500 | 25,07 % |
+| Atención residencial | 5.392 | 7,73 % |
+| Centros de día y de noche | 4.249 | 6,09 % |
+| Ayuda a domicilio | 4.112 | 5,89 % |
+| Prevención de la dependencia y promoción de la autonomía | 2.904 | 4,16 % |
+| Prestación vinculada al servicio | 1.535 | 2,20 % |
 | Prestación de asistencia personal | 6 | 0,01 % |
 
-Cada persona recibe de media **1,33 prestaciones**, menos que en España (1,45). Casi la mitad de las ayudas (**48,41 %**) son **prestaciones por cuidados familiares**, frente al 31,37 % de media en España, mientras que la **ayuda a domicilio** pesa mucho menos (5,85 % frente al 16,24 %).
+Cada persona recibe de media **1,32 prestaciones**, menos que en España (1,45). Casi la mitad de las ayudas (**48,85 %**) son **prestaciones por cuidados familiares**, frente al 31,36 % de media en España, mientras que la **ayuda a domicilio** pesa mucho menos (5,89 % frente al 16,23 %).
 
-**Cuantía media de la prestación por cuidados familiares en la Región de Murcia**: 129,97 euros al mes con grado I, 237,99 con grado II y 328,56 con grado III (en España, 172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en la Región de Murcia**: 129,68 euros al mes con grado I, 237,48 con grado II y 328,17 con grado III (en España, 174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -111,7 +111,7 @@ El informe sobre las condiciones de salud en el modelo oficial, que hace un prof
 
 ### ¿Cuánto tarda la dependencia en Murcia?
 
-El plazo legal es de seis meses, pero según el Imserso la media real fue de 536 días desde la solicitud hasta la prestación (datos a agosto de 2026), la más larga de España.
+El plazo legal es de seis meses, pero según el Imserso la media real fue de 529 días desde la solicitud hasta la prestación (datos a septiembre de 2026), la más larga de España.
 
 ### ¿Cómo consigo el certificado de mi grado de dependencia?
 
@@ -121,7 +121,7 @@ Al momento, en persona en una oficina del IMAS o de atención al ciudadano de la
 
 - [Región de Murcia: procedimiento 7402, reconocimiento de grado de dependencia y de las prestaciones](https://sede.carm.es/web/pagina?IDCONTENIDO=7402&IDTIPO=240&RASTRO=c%24m40288).
 - [Región de Murcia: información de la tasa T-172](https://sede.carm.es/documentos/7402/Informaci%C3%B3n%20TASA%20172.pdf).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías máximas)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
@@ -135,4 +135,4 @@ Al momento, en persona en una oficina del IMAS o de atención al ciudadano de la
 
 *Este artículo es informativo y no sustituye la información de la Comunidad Autónoma de la Región de Murcia, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

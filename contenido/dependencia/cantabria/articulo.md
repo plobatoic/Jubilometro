@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Dependencia en Cantabria 2026: solicitud al ICASS y plazos"
 h1: "Dependencia en Cantabria: cómo se pide al ICASS, cuánto tarda y qué ayudas se dan en 2026"
-meta_descripcion: "En Cantabria la dependencia se pide al ICASS con el anexo I, el padrón y un informe de salud oficial. Tarda 171 días de media. Pasos, documentos y ayudas."
+meta_descripcion: "En Cantabria la dependencia se pide al ICASS con el anexo I, el padrón y un informe de salud oficial. Tarda 169 días de media. Pasos, documentos y ayudas."
 url: /dependencia/cantabria/
 categoria: Dependencia
 miga: Dependencia en Cantabria
 palabra_clave_principal: dependencia Cantabria
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en Cantabria: cómo se pide al ICASS, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Gobierno de Cantabria (ICASS), Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Gobierno de Cantabria (ICASS), Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En Cantabria, la dependencia se pide al **Instituto Cántabro de Servicios Sociales (ICASS)** con la solicitud oficial (anexo I), tu DNI, el **certificado de empadronamiento** y un **informe sobre tus condiciones de salud** en el modelo oficial, firmado por un médico de la sanidad pública. Los impresos se recogen en tu **centro de salud** o en los **servicios sociales de tu ayuntamiento**, donde también te asesoran.
 >
-> El ICASS tiene **seis meses** para resolver el grado y tus ayudas. Según el Imserso, la media real fue de **171 días** desde la solicitud hasta la prestación, frente a 302 en España.
+> El ICASS tiene **seis meses** para resolver el grado y tus ayudas. Según el Imserso, la media real fue de **169 días** desde la solicitud hasta la prestación, frente a 293 en España.
 
 ## Quién puede pedirla
 
@@ -51,13 +51,13 @@ El procedimiento lo regula la **Orden UMA/47/2019** del Gobierno de Cantabria. S
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en Cantabria frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en Cantabria frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Cantabria | España |
 |---|---|---|
-| De la solicitud al grado | 123 días | 228 días |
-| Del grado a la prestación | 48 días | 52 días |
-| De la solicitud a la prestación | 171 días | 302 días |
-| Personas esperando seis meses o más | 225 | 130.162 |
+| De la solicitud al grado | 119 días | 220 días |
+| Del grado a la prestación | 49 días | 50 días |
+| De la solicitud a la prestación | 169 días | 293 días |
+| Personas esperando seis meses o más | 311 | 128.336 |
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Cantabria es de las pocas comunidades que, de media, resuelven dentro de los seis meses que marca la ley.
 
@@ -65,22 +65,22 @@ Si tu caso se retrasa, mira [cuánto tarda la dependencia](/dependencia/tiempos-
 
 ## Qué ayudas se dan en Cantabria
 
-A 31 de agosto de 2026, **19.672 personas** tenían resuelto su PIA en Cantabria y prácticamente todas (**19.671**) recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **20.358 personas** tenían resuelto su PIA en Cantabria y prácticamente todas (**20.357**) recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en Cantabria (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en Cantabria (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Prestación por cuidados familiares | 9.527 | 30,32 % |
-| Prevención de la dependencia y promoción de la autonomía | 8.392 | 26,71 % |
-| Atención residencial | 5.185 | 16,50 % |
-| Teleasistencia | 4.380 | 13,94 % |
-| Centros de día y de noche | 2.062 | 6,56 % |
-| Ayuda a domicilio | 1.228 | 3,91 % |
-| Prestación vinculada al servicio | 643 | 2,05 % |
+| Prestación por cuidados familiares | 9.524 | 29,56 % |
+| Prevención de la dependencia y promoción de la autonomía | 9.101 | 28,25 % |
+| Atención residencial | 5.220 | 16,20 % |
+| Teleasistencia | 4.405 | 13,67 % |
+| Centros de día y de noche | 2.068 | 6,42 % |
+| Ayuda a domicilio | 1.224 | 3,80 % |
+| Prestación vinculada al servicio | 679 | 2,11 % |
 
-Cada persona recibe de media **1,60 prestaciones**, de las cifras más altas de España (1,45). Cantabria es la comunidad donde más pesan los **servicios de prevención y promoción de la autonomía** (26,71 %, frente al 3,32 % de media) y la **atención residencial** (16,50 %, frente al 7,50 %).
+Cada persona recibe de media **1,58 prestaciones**, de las cifras más altas de España (1,45). Cantabria es la comunidad donde más pesan los **servicios de prevención y promoción de la autonomía** (28,25 %, frente al 3,33 % de media) y la **atención residencial** (16,20 %, frente al 7,45 %).
 
-**Cuantía media de la prestación por cuidados familiares en Cantabria**: 130,19 euros al mes con grado I, 214,92 con grado II y 294,57 con grado III (en España, 172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en Cantabria**: 129,97 euros al mes con grado I, 214,37 con grado II y 294,30 con grado III (en España, 174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -94,7 +94,7 @@ El informe sobre las condiciones de salud en el modelo oficial (anexo II), firma
 
 ### ¿Cuánto tarda la dependencia en Cantabria?
 
-El ICASS tiene seis meses para resolver. Según el Imserso, la media fue de 171 días desde la solicitud hasta la prestación (datos a agosto de 2026).
+El ICASS tiene seis meses para resolver. Según el Imserso, la media fue de 169 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
 
 ### Tengo la gran invalidez, ¿tengo que pedir la valoración desde cero?
 
@@ -108,7 +108,7 @@ Si no aceptas expresamente el servicio o la prestación que te proponen, el ICAS
 
 - [ICASS: reconocimiento de la situación de dependencia y acceso a las prestaciones del SAAD](https://www.serviciossocialescantabria.org/uploads/documentos/Procedimiento%20dependencia.pdf).
 - [ICASS: Orden UMA/47/2019, de 20 de mayo, procedimiento de reconocimiento de la dependencia (texto actualizado)](https://www.serviciossocialescantabria.org/uploads/normativa/Orden%20UMA%2047%202019%20PROCEDIMIENTO%20RECONOCIMIENTO%20DEPENDENCIA%20(ACTUALIZADA).pdf).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 
 ## Siguiente paso
@@ -121,4 +121,4 @@ Si no aceptas expresamente el servicio o la prestación que te proponen, el ICAS
 
 *Este artículo es informativo y no sustituye la información del Gobierno de Cantabria, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

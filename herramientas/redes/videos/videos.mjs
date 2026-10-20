@@ -2,7 +2,8 @@
 // Cada escena dura lo que marca su guion (herramientas/redes/mes-1.mjs) y lleva:
 //   antetitulo · cifra o frase grande · texto de apoyo · subtítulo (lo que diría la voz)
 // En los textos, {n:desde:hasta:decimales} es una cifra que cuenta hasta su valor y *palabra* va resaltada.
-// Las cifras son las de las guías a 9 de octubre de 2026 (vídeos 1 a 12) y a 12 de octubre de 2026 (13 a 36).
+// Las cifras son las de las guías a 9 de octubre de 2026 (vídeos 1 a 12) y a 12 de octubre de 2026 (13 a 36);
+// el 18 (espera de la dependencia), con los datos del Imserso a 30 de septiembre de 2026.
 // Del 21 en adelante, temas sin importes que cambien en enero, para que sirvan todo 2027.
 // Del 13 en adelante son del banco de publicaciones (herramientas/redes/banco/videos.mjs).
 
@@ -221,8 +222,8 @@ export const VIDEOS = [
     escenas: [
       { t: [0, 3], antetitulo: 'Dependencia', grande: '¿Cuánto tarda *de verdad*?', tam: 'l', sub: '¿Cuánto tarda de verdad la dependencia?' },
       { t: [3, 9], antetitulo: 'Lo que dice la ley', grande: '*6 meses*', tam: 'xl', sub: 'La ley da seis meses para resolverla.' },
-      { t: [9, 17], antetitulo: 'La media real en España', grande: '*{n:0:302:0} días*', tam: 'xl', apoyo: 'De la solicitud a la prestación, según el Imserso.', sub: 'La media real en España son 302 días, según el Imserso.' },
-      { t: [17, 26], antetitulo: 'Depende de tu comunidad', bloque: { tipo: 'lista', items: ['Aragón: 111 días', 'País Vasco: 130 días', 'Región de Murcia: 536 días'] }, sub: 'Desde 111 días en Aragón hasta 536 en la Región de Murcia.' },
+      { t: [9, 17], antetitulo: 'La media real en España', grande: '*{n:0:293:0} días*', tam: 'xl', apoyo: 'De la solicitud a la prestación, según el Imserso.', sub: 'La media real en España son 293 días, según el Imserso.' },
+      { t: [17, 26], antetitulo: 'Depende de tu comunidad', bloque: { tipo: 'lista', items: ['Aragón: 109 días', 'País Vasco: 130 días', 'Región de Murcia: 529 días'] }, sub: 'Desde 109 días en Aragón hasta 529 en la Región de Murcia.' },
     ],
     cierre: { t: [26, 30], sub: 'Tu comunidad, en jubilometro.com/espera-dependencia.' },
   },

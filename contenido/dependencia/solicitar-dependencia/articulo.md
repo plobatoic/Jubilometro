@@ -8,7 +8,7 @@ miga: Solicitar la dependencia
 palabra_clave_principal: solicitar la dependencia
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo solicitar la dependencia paso a paso: documentos, dónde se pide y cómo preparar la visita de valoración
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -63,7 +63,7 @@ Tenemos una guía con los pasos, los documentos, los plazos y los teléfonos de 
 
 - [Andalucía](/dependencia/andalucia/), [Aragón](/dependencia/aragon/), [Asturias](/dependencia/asturias/), [Illes Balears](/dependencia/baleares/), [Canarias](/dependencia/canarias/) y [Cantabria](/dependencia/cantabria/).
 - [Castilla-La Mancha](/dependencia/castilla-la-mancha/), [Castilla y León](/dependencia/castilla-y-leon/), [Cataluña](/dependencia/cataluna/), [Comunitat Valenciana](/dependencia/comunitat-valenciana/) y [Extremadura](/dependencia/extremadura/).
-- [Galicia](/dependencia/galicia/), [La Rioja](/dependencia/la-rioja/), [Comunidad de Madrid](/dependencia/madrid/), [Región de Murcia](/dependencia/murcia/), [Navarra](/dependencia/navarra/) y [País Vasco](/dependencia/pais-vasco/).
+- [Galicia](/dependencia/galicia/), [La Rioja](/dependencia/la-rioja/), [Comunidad de Madrid](/dependencia/madrid/), [Región de Murcia](/dependencia/murcia/) y [País Vasco](/dependencia/pais-vasco/).
 
 En todas, si tienes dudas, empieza por los **servicios sociales de tu ayuntamiento**: te dan el modelo, te ayudan a rellenarlo y, en muchas comunidades, hacen el informe social.
 
@@ -76,7 +76,7 @@ En todas, si tienes dudas, empieza por los **servicios sociales de tu ayuntamien
 5. **Programa Individual de Atención (PIA)**: los servicios sociales proponen, **consultando a la persona y a la familia**, el servicio o la ayuda que mejor encaja ([artículo 29](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a29)). En algunas comunidades, como Andalucía, grado y PIA llegan en una **única resolución**.
 6. **Resolución de la prestación** y comienzo del servicio o del pago.
 
-Plazo máximo: **seis meses** desde la solicitud hasta la resolución de la prestación. Si se pasa, lee [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+Plazo máximo: **seis meses** desde la solicitud hasta la resolución de la prestación. Desde el 23 de octubre de 2026, con la [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), hay además un máximo de **tres meses** para resolver el procedimiento, y los casos de **especial vulnerabilidad** se tramitan **de urgencia**. Si se pasa el plazo, lee [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Cómo preparar la visita de valoración
 
@@ -128,6 +128,7 @@ No. La solicitud y la valoración son gratuitas. Solo se paga, según los ingres
 ## Fuentes oficiales
 
 - [Ley 39/2006, de dependencia, artículos 5 y 26 a 30 y disposición final primera](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 4/2026, de reforma de la ley de dependencia (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Real Decreto 174/2011, que aprueba el baremo de valoración de la dependencia (anexo I, criterios de aplicación)](https://www.boe.es/buscar/act.php?id=BOE-A-2011-3174) (BOE).
 - [Real Decreto 1051/2013, de prestaciones de dependencia, artículo 3](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 - [Ley 39/2015, del Procedimiento Administrativo Común, artículos 21, 22 y 68](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565) (BOE).
@@ -142,4 +143,4 @@ No. La solicitud y la valoración son gratuitas. Solo se paga, según los ingres
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): plazo de tres meses del artículo 28 y tramitación urgente. 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*

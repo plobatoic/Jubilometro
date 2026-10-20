@@ -8,7 +8,7 @@ miga: Convenio del cuidador
 palabra_clave_principal: convenio especial cuidador no profesional
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Convenio especial del cuidador no profesional: cómo seguir cotizando gratis mientras cuidas a un familiar
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en la Seguridad Social*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -52,7 +52,7 @@ Según el Real Decreto 615/2007 y la [Seguridad Social](https://portal.seg-socia
 
 **No puedes firmarlo** si ya eres pensionista de jubilación o incapacidad permanente, o de viudedad o a favor de familiares con 65 años o más: en esos casos ya no lo necesitas para tu pensión.
 
-Los cuidadores familiares son, sobre todo, **hijos e hijas** (36,6 %), **madres** (22,5 %) y **cónyuges** (20,3 %), y casi la mitad tienen entre **50 y 66 años**, la edad en la que más pesa cada año cotizado ([estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual), agosto de 2026).
+Los cuidadores familiares son, sobre todo, **hijos e hijas** (36,6 %), **madres** (22,4 %) y **cónyuges** (20,4 %), y casi la mitad tienen entre **50 y 66 años**, la edad en la que más pesa cada año cotizado ([estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual), septiembre de 2026).
 
 ## Por cuánto se cotiza
 
@@ -122,7 +122,7 @@ No lo necesita ni puede firmarlo: ya cobra su pensión de jubilación.
 - [Ley General de la Seguridad Social, disposición adicional decimocuarta (redacción del Real Decreto-ley 6/2019)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
 - [Seguridad Social: alta en el convenio especial de cuidadores no profesionales](https://portal.seg-social.gob.es/wps/portal/importass/importass/Colectivos/convenios+especiales/guia?1dmy=&urile=wcm%3Apath%3A%2Fwps%2Fwcm%2Fconnect%2Fimportass%2Fimportass_contenidos%2Fsolicitudes%2F1cecuidadores).
 - [Orden PJC/297/2026, de cotización a la Seguridad Social para 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296) (BOE).
-- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 31 de agosto de 2026](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 30 de septiembre de 2026](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 
 ## Siguiente paso
 
@@ -134,4 +134,4 @@ No lo necesita ni puede firmarlo: ya cobra su pensión de jubilación.
 
 *Este artículo es informativo y no sustituye la información de la Tesorería General de la Seguridad Social, que es quien gestiona el convenio. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Hi*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

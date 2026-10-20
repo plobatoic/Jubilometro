@@ -8,7 +8,7 @@ miga: Dependencia en Castilla-La Mancha
 palabra_clave_principal: dependencia Castilla-La Mancha
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en Castilla-La Mancha: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Junta de Comunidades de Castilla-La Mancha, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Junta de Comunidades de Castilla-La Mancha, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En Castilla-La Mancha, la dependencia se pide con la solicitud oficial y un **informe de salud que hace tu médico de atención primaria**. Se presenta en la **Delegación Provincial de Bienestar Social**, en cualquier registro o por la **sede electrónica** de la Junta, y los **servicios sociales de tu localidad** te ayudan a rellenarla. Después, un profesional va a tu casa a valorarte.
 >
-> La Junta tiene **seis meses** para resolver, que se quedan en **tres meses** si tienes **más de 90 años** o si es un menor de 6 años. Si no contesta a tiempo, se entiende **denegada**. Según el Imserso, la media real fue de **165 días** desde la solicitud hasta la prestación, frente a 302 en España.
+> La Junta tiene **seis meses** para resolver, que se quedan en **tres meses** si tienes **más de 90 años** o si es un menor de 6 años. Si no contesta a tiempo, se entiende **denegada**. Según el Imserso, la media real fue de **166 días** desde la solicitud hasta la prestación, frente a 293 en España.
 
 ## Quién puede pedirla
 
@@ -56,13 +56,13 @@ Datos de la [Consejería de Bienestar Social](https://bienestarsocial.castillala
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en Castilla-La Mancha frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en Castilla-La Mancha frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Castilla-La Mancha | España |
 |---|---|---|
-| De la solicitud al grado | 115 días | 228 días |
-| Del grado a la prestación | 52 días | 52 días |
-| De la solicitud a la prestación | 165 días | 302 días |
-| Personas esperando seis meses o más | 2.230 | 130.162 |
+| De la solicitud al grado | 117 días | 220 días |
+| Del grado a la prestación | 51 días | 50 días |
+| De la solicitud a la prestación | 166 días | 293 días |
+| Personas esperando seis meses o más | 2.214 | 128.336 |
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega en la mitad de tiempo que en el conjunto de España.
 
@@ -70,23 +70,23 @@ Si la Junta no resuelve en plazo, la solicitud se entiende **desestimada**, pero
 
 ## Qué ayudas se dan en Castilla-La Mancha
 
-A 31 de agosto de 2026, **82.708 personas** tenían resuelto su PIA en Castilla-La Mancha y **81.282** (el 98,28 %) recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **83.038 personas** tenían resuelto su PIA en Castilla-La Mancha y **81.797** (el 98,51 %) recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en Castilla-La Mancha (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en Castilla-La Mancha (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Teleasistencia | 35.166 | 28,40 % |
-| Prestación por cuidados familiares | 24.949 | 20,15 % |
-| Prevención de la dependencia y promoción de la autonomía | 18.569 | 15,00 % |
-| Ayuda a domicilio | 15.341 | 12,39 % |
-| Atención residencial | 13.037 | 10,53 % |
-| Prestación vinculada al servicio | 12.403 | 10,02 % |
-| Centros de día y de noche | 4.336 | 3,50 % |
+| Teleasistencia | 35.290 | 28,31 % |
+| Prestación por cuidados familiares | 25.303 | 20,30 % |
+| Prevención de la dependencia y promoción de la autonomía | 18.861 | 15,13 % |
+| Ayuda a domicilio | 15.287 | 12,27 % |
+| Atención residencial | 13.101 | 10,51 % |
+| Prestación vinculada al servicio | 12.440 | 9,98 % |
+| Centros de día y de noche | 4.335 | 3,48 % |
 | Prestación de asistencia personal | 19 | 0,02 % |
 
-Cada persona recibe de media **1,50 prestaciones** (en España, 1,45). Destacan los **servicios de prevención y promoción de la autonomía** (talleres de memoria, de ejercicio o de estimulación para mantener la autonomía), con el **15 %** de las prestaciones frente al 3,32 % de media en España, y la **atención residencial** (10,53 % frente al 7,50 %).
+Cada persona recibe de media **1,50 prestaciones** (en España, 1,45). Destacan los **servicios de prevención y promoción de la autonomía** (talleres de memoria, de ejercicio o de estimulación para mantener la autonomía), con el **15 %** de las prestaciones frente al 3,33 % de media en España, y la **atención residencial** (10,51 % frente al 7,45 %).
 
-**Cuantía media de la prestación por cuidados familiares en Castilla-La Mancha**: 156,82 euros al mes con grado I, 266,97 con grado II y 364,24 con grado III (en España, 172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en Castilla-La Mancha**: 156,72 euros al mes con grado I, 267,18 con grado II y 364,35 con grado III (en España, 174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -100,7 +100,7 @@ La solicitud con sus declaraciones responsables y el informe de salud de tu méd
 
 ### ¿Cuánto tarda la dependencia en Castilla-La Mancha?
 
-La Junta tiene seis meses para resolver, y tres meses si tienes más de 90 años o es un menor de 6 años. Según el Imserso, la media fue de 165 días desde la solicitud hasta la prestación (datos a agosto de 2026).
+La Junta tiene seis meses para resolver, y tres meses si tienes más de 90 años o es un menor de 6 años. Según el Imserso, la media fue de 166 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
 
 ### ¿Qué pasa si no me contestan en seis meses?
 
@@ -114,7 +114,7 @@ Dos: la primera reconoce tu grado de dependencia y la segunda, tu Programa Indiv
 
 - [Junta de Comunidades de Castilla-La Mancha: solicitud de la valoración de la dependencia (trámite 1001691)](https://www.jccm.es/tramites/1001691).
 - [Consejería de Bienestar Social: reconocimiento de la situación de dependencia y direcciones de las delegaciones provinciales](https://bienestarsocial.castillalamancha.es/actuaciones/reconocimiento-de-la-situacion-de-dependencia-y-derecho-las-prestaciones-del-sistema).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías máximas)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
@@ -128,4 +128,4 @@ Dos: la primera reconoce tu grado de dependencia y la segunda, tu Programa Indiv
 
 *Este artículo es informativo y no sustituye la información de la Junta de Comunidades de Castilla-La Mancha, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

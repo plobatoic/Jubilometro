@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Dependencia en la Comunidad de Madrid 2026: trámite y plazos"
 h1: "Dependencia en la Comunidad de Madrid: cómo se pide, documentos, plazos y qué ayudas se dan en 2026"
-meta_descripcion: "En Madrid la dependencia se pide por internet o en los servicios sociales municipales. Documentos, plazo legal de 6 meses, media real de 335 días y ayudas."
+meta_descripcion: "En Madrid la dependencia se pide por internet o en los servicios sociales municipales. Documentos, plazo legal de 6 meses, media real de 327 días y ayudas."
 url: /dependencia/madrid/
 categoria: Dependencia
 miga: Dependencia en Madrid
 palabra_clave_principal: dependencia Comunidad de Madrid
 intencion: transaccional
 fase_plan: F2 (artículo n.º 64)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Dependencia en la Comunidad de Madrid: cómo se pide, documentos, plazos y qué ayudas se dan en 2026
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Comunidad de Madrid, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Comunidad de Madrid, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En la Comunidad de Madrid, la dependencia se pide **por internet** en la sede electrónica, con firma electrónica, o **en persona** a través de los **servicios sociales de tu ayuntamiento o junta de distrito**. Necesitas, entre otros documentos, un **informe de salud de menos de tres meses** y el **informe social** de los servicios sociales municipales. Después, te llaman para hacer la **valoración en tu domicilio**.
 >
-> La Comunidad tiene **seis meses** para resolver (tres para personas con **ELA** u otras enfermedades de alta complejidad); si no contesta, se entiende **denegada**. Según el Imserso, la media real fue de **335 días** desde la solicitud hasta la prestación.
+> La Comunidad tiene **seis meses** para resolver (tres para personas con **ELA** u otras enfermedades de alta complejidad); si no contesta, se entiende **denegada**. Según el Imserso, la media real fue de **327 días** desde la solicitud hasta la prestación.
 
 ## Quién puede pedirla
 
@@ -54,31 +54,31 @@ Una vez reconocida, tienes que **comunicar cualquier cambio** en los datos que d
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en la Comunidad de Madrid frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en la Comunidad de Madrid frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Comunidad de Madrid | España |
 |---|---|---|
-| De la solicitud al grado | 209 días | 228 días |
-| Del grado a la prestación | 49 días | 52 días |
-| De la solicitud a la prestación | 335 días | 302 días |
-| Personas esperando seis meses o más | 10.505 | 130.162 |
+| De la solicitud al grado | 204 días | 220 días |
+| Del grado a la prestación | 45 días | 50 días |
+| De la solicitud a la prestación | 327 días | 293 días |
+| Personas esperando seis meses o más | 10.725 | 128.336 |
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Aunque la solicitud se entiende denegada si no hay respuesta en seis meses, tu derecho nace, como tarde, al cumplirse ese plazo si después te lo reconocen. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
 ## Qué ayudas se dan en Madrid
 
-A 31 de agosto de 2026, **226.581 personas** tenían resuelto su PIA en la Comunidad de Madrid, y todas recibían ya alguna prestación. Las más frecuentes:
+A 30 de septiembre de 2026, **229.163 personas** tenían resuelto su PIA en la Comunidad de Madrid, y todas recibían ya alguna prestación. Las más frecuentes:
 
-<!-- tabla: Prestaciones de dependencia en la Comunidad de Madrid (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en la Comunidad de Madrid (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Teleasistencia | 111.269 | 33,78 % |
-| Prestación por cuidados familiares | 67.278 | 20,43 % |
-| Ayuda a domicilio | 66.291 | 20,13 % |
-| Prestación vinculada al servicio | 32.679 | 9,92 % |
-| Atención residencial | 25.357 | 7,70 % |
-| Centros de día y de noche | 19.276 | 5,85 % |
+| Teleasistencia | 113.035 | 33,81 % |
+| Ayuda a domicilio | 68.306 | 20,43 % |
+| Prestación por cuidados familiares | 67.945 | 20,32 % |
+| Prestación vinculada al servicio | 33.088 | 9,90 % |
+| Atención residencial | 25.389 | 7,59 % |
+| Centros de día y de noche | 19.310 | 5,78 % |
 
-**Cuantía media de la prestación por cuidados familiares en Madrid**: 182,03 euros al mes con grado I, 275,03 con grado II y 387,25 con grado III (en España, 172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)).
+**Cuantía media de la prestación por cuidados familiares en Madrid**: 182,10 euros al mes con grado I, 275,14 con grado II y 387,65 con grado III (en España, 174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)).
 
 ## Preguntas frecuentes
 
@@ -92,7 +92,7 @@ DNI o NIE, informe de salud de menos de tres meses, informe social de los servic
 
 ### ¿Cuánto tarda la dependencia en Madrid?
 
-El plazo legal es de seis meses (tres para ELA y enfermedades de alta complejidad). Según el Imserso, la media real fue de 335 días desde la solicitud hasta la prestación entre septiembre de 2025 y agosto de 2026.
+El plazo legal es de seis meses (tres para ELA y enfermedades de alta complejidad). Según el Imserso, la media real fue de 327 días desde la solicitud hasta la prestación entre octubre de 2025 y septiembre de 2026.
 
 ### ¿Qué pasa si no contestan en seis meses?
 
@@ -100,12 +100,12 @@ La solicitud se entiende denegada por silencio, pero la Comunidad sigue obligada
 
 ### ¿Qué ayuda es la más habitual en Madrid?
 
-La teleasistencia (33,78 % de las prestaciones), seguida de la prestación por cuidados familiares (20,43 %) y la ayuda a domicilio (20,13 %).
+La teleasistencia (33,81 % de las prestaciones), seguida de la ayuda a domicilio (20,43 %) y la prestación por cuidados familiares (20,32 %).
 
 ## Fuentes oficiales
 
 - [Comunidad de Madrid: reconocimiento de la situación de dependencia (sede electrónica)](https://sede.comunidad.madrid/prestacion-social/reconocimiento-dependencia).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías máximas)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
@@ -119,4 +119,4 @@ La teleasistencia (33,78 % de las prestaciones), seguida de la prestación por c
 
 *Este artículo es informativo y no sustituye la información de la Comunidad de Madrid, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

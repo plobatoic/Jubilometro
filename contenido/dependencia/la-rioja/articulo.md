@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Dependencia en La Rioja 2026: solicitud, plazos y ayudas"
 h1: "Dependencia en La Rioja: cómo se pide, cuánto tarda y qué ayudas se dan en 2026"
-meta_descripcion: "En La Rioja la dependencia se pide con el anexo I, el padrón histórico y un informe del médico de atención primaria. Tarda 131 días de media. Pasos y ayudas."
+meta_descripcion: "En La Rioja la dependencia se pide con el anexo I, el padrón histórico y un informe del médico de atención primaria. Tarda 130 días de media. Pasos y ayudas."
 url: /dependencia/la-rioja/
 categoria: Dependencia
 miga: Dependencia en La Rioja
 palabra_clave_principal: dependencia La Rioja
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en La Rioja: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Gobierno de La Rioja, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Gobierno de La Rioja, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En La Rioja, la dependencia se pide con la solicitud oficial (anexo I), el **certificado o volante histórico de empadronamiento** y un **informe del Sistema Público de Salud de La Rioja** que rellena tu **médico de atención primaria**. Se presenta en las oficinas de atención al ciudadano del Gobierno de La Rioja, en cualquier registro o en su oficina electrónica. La valora el **Centro de Valoración de la Discapacidad y la Dependencia**.
 >
-> Si no te notifican la resolución a tiempo, la solicitud se entiende **desestimada**. Según el Imserso, la media real fue de **131 días** desde la solicitud hasta la prestación, de las más rápidas de España (302 de media).
+> Si no te notifican la resolución a tiempo, la solicitud se entiende **desestimada**. Según el Imserso, la media real fue de **130 días** desde la solicitud hasta la prestación, de las más rápidas de España (293 de media).
 
 ## Quién puede pedirla
 
@@ -49,36 +49,36 @@ El procedimiento lo regula la **Orden 2/2012**, de 3 de abril, de la Consejería
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en La Rioja frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en La Rioja frente a España (días, datos a 30 de septiembre de 2026) -->
 | | La Rioja | España |
 |---|---|---|
-| De la solicitud al grado | 73 días | 228 días |
-| Del grado a la prestación | 73 días | 52 días |
-| De la solicitud a la prestación | 131 días | 302 días |
-| Personas esperando seis meses o más | 310 | 130.162 |
+| De la solicitud al grado | 71 días | 220 días |
+| Del grado a la prestación | 73 días | 50 días |
+| De la solicitud a la prestación | 130 días | 293 días |
+| Personas esperando seis meses o más | 299 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). De todas las comunidades autónomas, La Rioja es donde antes llega el grado (73 días de media; solo la ciudad de Ceuta es más rápida) y, en el conjunto del proceso, el quinto territorio más rápido de España.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). De todas las comunidades autónomas, La Rioja es donde antes llega el grado (71 días de media; solo la ciudad de Ceuta es más rápida) y, en el conjunto del proceso, uno de los cinco territorios más rápidos de España.
 
 Si la Administración no te notifica la resolución en plazo, se entiende **desestimada**: puedes recurrir. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en La Rioja
 
-A 31 de agosto de 2026, **9.749 personas** tenían resuelto su PIA en La Rioja y prácticamente todas (**9.746**) recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **9.735 personas** tenían resuelto su PIA en La Rioja y prácticamente todas (**9.732**) recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en La Rioja (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en La Rioja (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Teleasistencia | 4.354 | 29,96 % |
-| Ayuda a domicilio | 3.522 | 24,23 % |
-| Atención residencial | 2.173 | 14,95 % |
-| Prestación por cuidados familiares | 1.229 | 8,46 % |
-| Centros de día y de noche | 1.178 | 8,11 % |
-| Prevención de la dependencia y promoción de la autonomía | 1.099 | 7,56 % |
-| Prestación vinculada al servicio | 978 | 6,73 % |
+| Teleasistencia | 4.305 | 29,71 % |
+| Ayuda a domicilio | 3.462 | 23,89 % |
+| Atención residencial | 2.179 | 15,04 % |
+| Prestación por cuidados familiares | 1.227 | 8,47 % |
+| Centros de día y de noche | 1.195 | 8,25 % |
+| Prevención de la dependencia y promoción de la autonomía | 1.115 | 7,69 % |
+| Prestación vinculada al servicio | 1.008 | 6,96 % |
 
-Cada persona recibe de media **1,49 prestaciones** (en España, 1,45). La Rioja apuesta por los **servicios** más que por el dinero: la **ayuda a domicilio** (24,23 %, frente al 16,24 % en España), la **atención residencial** (14,95 %, frente al 7,50 %) y los **centros de día** (8,11 %, frente al 4,40 %). La **prestación por cuidados familiares** es la menos usada de todas las comunidades: el 8,46 %, frente al 31,37 % de media.
+Cada persona recibe de media **1,49 prestaciones** (en España, 1,45). La Rioja apuesta por los **servicios** más que por el dinero: la **ayuda a domicilio** (23,89 %, frente al 16,23 % en España), la **atención residencial** (15,04 %, frente al 7,45 %) y los **centros de día** (8,25 %, frente al 4,37 %). La **prestación por cuidados familiares** es la menos usada de todas las comunidades: el 8,47 %, frente al 31,36 % de media.
 
-**Cuantía media de la prestación por cuidados familiares en La Rioja**: 183,58 euros al mes con grado I, 212,04 con grado II y 292,99 con grado III (en España, 172,90, 275,03 y 381,50). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en La Rioja**: 183,58 euros al mes con grado I, 211,66 con grado II y 292,90 con grado III (en España, 174,91, 278,78 y 386,36). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -92,7 +92,7 @@ El informe del Sistema Público de Salud de La Rioja en el modelo oficial (anexo
 
 ### ¿Cuánto tarda la dependencia en La Rioja?
 
-Según el Imserso, la media fue de 73 días hasta el grado y de 131 desde la solicitud hasta la prestación (datos a agosto de 2026), de las más rápidas de España.
+Según el Imserso, la media fue de 71 días hasta el grado y de 130 desde la solicitud hasta la prestación (datos a septiembre de 2026), de las más rápidas de España.
 
 ### ¿Qué pasa si no estoy en casa el día de la valoración?
 
@@ -106,7 +106,7 @@ La teleasistencia, seguida de la ayuda a domicilio y de la atención residencial
 
 - [Gobierno de La Rioja: valoración y reconocimiento de la situación de dependencia (oficina electrónica)](https://web.larioja.org/oficina-electronica/tramite?n=15867) y [prestaciones económicas del Sistema Riojano para la Autonomía Personal y la Dependencia](https://web.larioja.org/oficina-electronica/tramite?n=16167).
 - [Orden 2/2012, de 3 de abril, del procedimiento de valoración y reconocimiento de la situación de dependencia en La Rioja (texto en La Administración al Día, INAP)](https://laadministracionaldia.inap.es/noticia.asp?id=1100234).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 
 ## Siguiente paso
@@ -119,4 +119,4 @@ La teleasistencia, seguida de la ayuda a domicilio y de la atención residencial
 
 *Este artículo es informativo y no sustituye la información del Gobierno de La Rioja, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

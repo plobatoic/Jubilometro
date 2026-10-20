@@ -8,7 +8,7 @@ miga: Parejas de hecho
 palabra_clave_principal: pensión de viudedad pareja de hecho
 intencion: informativa
 fase_plan: F2 (artículo n.º 38)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,13 +18,15 @@ fuentes_legales:
 
 # Pensión de viudedad en parejas de hecho: requisitos de inscripción y convivencia, cuánto se cobra y qué pasa si no se cumplen
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > La pareja de hecho tiene derecho a la **pensión de viudedad** en las mismas condiciones que un matrimonio si cumple dos requisitos: estar **inscrita** en un registro de parejas de hecho (o haberla formalizado en **documento público**) al menos **dos años antes** del fallecimiento, y haber **convivido cinco años** seguidos justo antes, acreditado con el **empadronamiento**. Si tenéis **hijos en común**, basta con la inscripción de dos años.
 >
 > Desde 2022 **no hay límite de ingresos**. Si no llegáis a los dos años de inscripción, se puede cobrar una **prestación temporal de viudedad durante dos años**.
+
+**Novedad del 20 de octubre de 2026**: el Consejo de Ministros ha aprobado un real decreto-ley que, según [la información difundida tras el Consejo de Ministros](https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-consejo-de-ministros-aprueba-nuevas-medidas-de-proteccion-social-en-materia-de-viudedad-incapacidad-temporal-y-prestaciones-familiares-2026-10-20/), permitirá cobrar la viudedad a las parejas con **hijos en común** que acrediten **dos años de convivencia**, aunque **no estén inscritas** como pareja de hecho. Quien la pidió para un fallecimiento anterior y se la denegaron tendrá **un año** para volver a pedirla. Entrará en vigor cuando se publique en el **BOE**, y la Diputación Permanente del Congreso tiene que convalidarlo. Actualizaremos esta guía con el texto oficial.
 
 ## Los requisitos de la pareja de hecho
 
@@ -73,7 +75,7 @@ Sí, si estaban inscritas en un registro de parejas de hecho (o en documento pú
 
 ### ¿Hay que estar inscritos para cobrar la viudedad?
 
-Sí. La convivencia por sí sola no basta: hace falta la inscripción en un registro de parejas de hecho o su constitución en documento público con al menos dos años de antelación al fallecimiento.
+Hoy sí. La convivencia por sí sola no basta: hace falta la inscripción en un registro de parejas de hecho o su constitución en documento público con al menos dos años de antelación al fallecimiento. El real decreto-ley aprobado el 20 de octubre de 2026 permitirá, cuando se publique en el BOE, que las parejas con hijos en común y dos años de convivencia la cobren sin estar inscritas.
 
 ### ¿La pareja de hecho tiene límite de ingresos para la viudedad?
 
@@ -102,4 +104,4 @@ Sí, en general: la pensión se extingue si te casas o constituyes una nueva par
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre para parejas con hijos en común no inscritas (pendiente del BOE). 28 de septiembre de 2026, primera versión.*

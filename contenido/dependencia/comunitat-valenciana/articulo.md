@@ -8,7 +8,7 @@ miga: Dependencia en la Comunitat Valenciana
 palabra_clave_principal: dependencia Comunitat Valenciana
 intencion: transaccional
 fase_plan: F2 (artículo n.º 66)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Dependencia en la Comunitat Valenciana: cómo se pide, plazos, silencio positivo y qué ayudas se dan en 2026
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Generalitat Valenciana, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Generalitat Valenciana, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En la Comunitat Valenciana, la dependencia se pide en los **servicios sociales de atención primaria del ayuntamiento** donde estés empadronado (también en otros registros o por internet), con un **informe de salud** en el modelo oficial. La Generalitat tiene **tres meses** para resolver el grado y **otros tres** para el Programa Individual de Atención (PIA).
 >
-> Si pasan **seis meses** sin resolución, la solicitud se entiende **estimada** y la prestación se abona con efectos retroactivos, según la Generalitat. En la práctica, según el Imserso, la media fue de **299 días** desde la solicitud hasta la prestación.
+> Si pasan **seis meses** sin resolución, la solicitud se entiende **estimada** y la prestación se abona con efectos retroactivos, según la Generalitat. En la práctica, según el Imserso, la media fue de **297 días** desde la solicitud hasta la prestación.
 
 ## Cómo se pide, paso a paso
 
@@ -47,31 +47,31 @@ Según la [Generalitat Valenciana](https://serviciossociales.gva.es/es/web/depen
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en la Comunitat Valenciana frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en la Comunitat Valenciana frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Comunitat Valenciana | España |
 |---|---|---|
-| De la solicitud al grado | 254 días | 228 días |
-| Del grado a la prestación | 42 días | 52 días |
-| De la solicitud a la prestación | 299 días | 302 días |
-| Personas esperando seis meses o más | 15.463 | 130.162 |
+| De la solicitud al grado | 253 días | 220 días |
+| Del grado a la prestación | 42 días | 50 días |
+| De la solicitud a la prestación | 297 días | 293 días |
+| Personas esperando seis meses o más | 16.945 | 128.336 |
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El plazo legal valenciano es de tres meses para el grado y otros tres para el PIA, dentro del máximo de seis de la ley estatal. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
 ## Qué ayudas se dan en la Comunitat Valenciana
 
-A 31 de agosto de 2026, **185.958 personas** tenían resuelto su PIA y **183.329** (el 98,6 %) recibían ya alguna prestación. Las más frecuentes:
+A 30 de septiembre de 2026, **185.965 personas** tenían resuelto su PIA y **183.720** (el 98,8 %) recibían ya alguna prestación. Las más frecuentes:
 
-<!-- tabla: Prestaciones de dependencia en la Comunitat Valenciana (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en la Comunitat Valenciana (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Prestación por cuidados familiares | 134.610 | 48,25 % |
-| Teleasistencia | 82.446 | 29,55 % |
-| Prestación vinculada al servicio | 28.586 | 10,25 % |
-| Atención residencial | 12.994 | 4,66 % |
-| Centros de día y de noche | 10.134 | 3,63 % |
-| Ayuda a domicilio | 7.120 | 2,55 % |
+| Prestación por cuidados familiares | 134.676 | 48,31 % |
+| Teleasistencia | 81.998 | 29,41 % |
+| Prestación vinculada al servicio | 28.517 | 10,23 % |
+| Atención residencial | 12.982 | 4,66 % |
+| Centros de día y de noche | 10.169 | 3,65 % |
+| Ayuda a domicilio | 7.286 | 2,61 % |
 
-La **ayuda a domicilio** pública tiene aquí un peso muy bajo (2,55 %, frente al 16,24 % en España), y la **prestación por cuidados familiares**, muy alto. **Cuantía media**: 180,95 euros al mes con grado I, 313,13 con grado II y 446,02 con grado III, la más alta de España en el grado III (en España, 172,90, 275,03 y 381,50). Los máximos que fija el Estado son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)), y las comunidades pueden añadir protección con fondos propios ([artículo 11.2 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a11)).
+La **ayuda a domicilio** pública tiene aquí un peso muy bajo (2,61 %, frente al 16,23 % en España), y la **prestación por cuidados familiares**, muy alto. **Cuantía media**: 180,98 euros al mes con grado I, 313,14 con grado II y 446,42 con grado III, la más alta de España en el grado III (en España, 174,91, 278,78 y 386,36). Los máximos que fija el Estado son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)), y las comunidades pueden añadir protección con fondos propios ([artículo 11.2 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a11)).
 
 ## Preguntas frecuentes
 
@@ -81,7 +81,7 @@ En los servicios sociales de atención primaria de tu ayuntamiento (registro mun
 
 ### ¿Cuánto tarda la dependencia en la Comunitat Valenciana?
 
-El plazo legal es de tres meses para el grado y otros tres para el PIA. Según el Imserso, la media real fue de 299 días desde la solicitud hasta la prestación entre septiembre de 2025 y agosto de 2026.
+El plazo legal es de tres meses para el grado y otros tres para el PIA. Según el Imserso, la media real fue de 297 días desde la solicitud hasta la prestación entre octubre de 2025 y septiembre de 2026.
 
 ### ¿Qué pasa si no contestan en seis meses?
 
@@ -93,13 +93,13 @@ Sí, en el modelo normalizado y elaborado por la sanidad pública, salvo que ten
 
 ### ¿Qué ayuda es la más habitual en la Comunitat Valenciana?
 
-La prestación por cuidados familiares (48,25 % de las prestaciones), seguida de la teleasistencia (29,55 %).
+La prestación por cuidados familiares (48,31 % de las prestaciones), seguida de la teleasistencia (29,41 %).
 
 ## Fuentes oficiales
 
 - [Generalitat Valenciana: reconocimiento inicial de la dependencia](https://serviciossociales.gva.es/es/web/dependencia/reconeixement-inicial-de-la-dependencia).
 - [Generalitat Valenciana: ficha del procedimiento 3256 (solicitud de reconocimiento del grado de dependencia)](https://www.gva.es/pdf/PR3256_es_amp.pdf).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) y [Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
 ## Siguiente paso
@@ -112,4 +112,4 @@ La prestación por cuidados familiares (48,25 % de las prestaciones), seguida de
 
 *Este artículo es informativo y no sustituye la información de la Generalitat Valenciana, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

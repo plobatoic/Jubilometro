@@ -52,7 +52,7 @@ export const VIDEOS_BANCO = [
   video('video-18-dependencia-espera', {
     id: 'video-dependencia-espera', pilar: 'Calcula tu caso', fuente: '/dependencia/tiempos-dependencia/',
     titulo: '¿Cuánto tarda de verdad la dependencia?',
-    texto: `La ley da seis meses, pero la media real en España es de 302 días: de 111 en Aragón a 536 en la Región de Murcia. Tu comunidad: ${L('espera-dependencia', 'yt')}
+    texto: `La ley da seis meses, pero la media real en España es de 293 días: de 109 en Aragón a 529 en la Región de Murcia. Tu comunidad: ${L('espera-dependencia', 'yt')}
 
 #dependencia #mayores #cuidados`,
   }),

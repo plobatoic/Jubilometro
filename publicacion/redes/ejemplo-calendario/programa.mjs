@@ -427,7 +427,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/galicia/",
-  "texto": "Dependencia en Galicia: si te cuida un familiar en casa, puedes cobrar el Bono Cuidado en el Hogar, 5.000 € al año, sin importar tu renta ni tu grado. No hace falta informe médico: la Xunta consulta tu historia del Sergas. Media: 308 días.\n\njubilometro.com/dependencia-galicia/x",
+  "texto": "Dependencia en Galicia: si te cuida un familiar en casa, puedes cobrar el Bono Cuidado en el Hogar, 5.000 € al año, sin importar tu renta ni tu grado. No hace falta informe médico: la Xunta consulta tu historia del Sergas. Media: 307 días.\n\njubilometro.com/dependencia-galicia/x",
   "fecha": "2026-11-06",
   "hora": "13:30"
  },
@@ -2126,7 +2126,7 @@ export const PUBLICACIONES = [
   "red": "grupo",
   "tipo": "Pregunta de la semana",
   "pilar": "Comunidad",
-  "texto": "Pregunta de la semana: ¿cuánto tardaron en resolver la dependencia de vuestro familiar, y en qué comunidad?\n\nSegún el Imserso, la media en España es de 302 días, pero va de 111 en Aragón a 536 en la Región de Murcia. Vuestra experiencia ayuda a quien acaba de pedirla.",
+  "texto": "Pregunta de la semana: ¿cuánto tardaron en resolver la dependencia de vuestro familiar, y en qué comunidad?\n\nSegún el Imserso, la media en España es de 293 días, pero va de 109 en Aragón a 529 en la Región de Murcia. Vuestra experiencia ayuda a quien acaba de pedirla.",
   "fecha": "2026-12-07",
   "hora": "10:00"
  },
@@ -2657,7 +2657,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/andalucia/",
-  "texto": "Dependencia en Andalucía: se pide en el portal VED o en una oficina de registro con cita previa, con un informe de salud que suele hacer tu médico de cabecera. La Junta habla de un año; la media real fue de 413 días hasta la prestación.\n\njubilometro.com/dependencia-andalucia/x",
+  "texto": "Dependencia en Andalucía: se pide en el portal VED o en una oficina de registro con cita previa, con un informe de salud que suele hacer tu médico de cabecera. La Junta habla de un año; la media real fue de 402 días hasta la prestación.\n\njubilometro.com/dependencia-andalucia/x",
   "fecha": "2026-12-15",
   "hora": "13:30"
  },
@@ -2904,7 +2904,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/aragon/",
-  "texto": "Dependencia en Aragón: todo empieza con una llamada para pedir cita con la trabajadora social. Si autorizas que consulten tu historia clínica, no necesitas informe médico. Media real: 111 días hasta la prestación, la segunda más rápida de España.\n\njubilometro.com/dependencia-aragon/x",
+  "texto": "Dependencia en Aragón: todo empieza con una llamada para pedir cita con la trabajadora social. Si autorizas que consulten tu historia clínica, no necesitas informe médico. Media real: 109 días hasta la prestación, la segunda más rápida de España.\n\njubilometro.com/dependencia-aragon/x",
   "fecha": "2026-12-20",
   "hora": "10:00"
  },
@@ -3122,7 +3122,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/asturias/",
-  "texto": "Dependencia en Asturias: si el Principado no resuelve en seis meses, la solicitud se entiende concedida. Aun así, la media real fue de 416 días desde la solicitud hasta la prestación, la segunda más larga de España (302 de media).\n\njubilometro.com/dependencia-asturias/x",
+  "texto": "Dependencia en Asturias: si el Principado no resuelve en seis meses, la solicitud se entiende concedida. Aun así, la media real fue de 413 días desde la solicitud hasta la prestación, la segunda más larga de España (293 de media).\n\njubilometro.com/dependencia-asturias/x",
   "fecha": "2026-12-23",
   "hora": "13:30"
  },
@@ -3228,13 +3228,13 @@ export const PUBLICACIONES = [
    ],
    [
     "9-17 s",
-    "La media real en España · 302 días",
-    "La media real en España son 302 días, según el Imserso."
+    "La media real en España · 293 días",
+    "La media real en España son 293 días, según el Imserso."
    ],
    [
     "17-26 s",
-    "Depende de tu comunidad · Aragón: 111 días · País Vasco: 130 días · Región de Murcia: 536 días",
-    "Desde 111 días en Aragón hasta 536 en la Región de Murcia."
+    "Depende de tu comunidad · Aragón: 109 días · País Vasco: 130 días · Región de Murcia: 529 días",
+    "Desde 109 días en Aragón hasta 529 en la Región de Murcia."
    ],
    [
     "26-30 s",
@@ -3246,7 +3246,7 @@ export const PUBLICACIONES = [
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/tiempos-dependencia/",
   "titulo": "¿Cuánto tarda de verdad la dependencia?",
-  "texto": "La ley da seis meses, pero la media real en España es de 302 días: de 111 en Aragón a 536 en la Región de Murcia. Tu comunidad: jubilometro.com/espera-dependencia/yt\n\n#dependencia #mayores #cuidados",
+  "texto": "La ley da seis meses, pero la media real en España es de 293 días: de 109 en Aragón a 529 en la Región de Murcia. Tu comunidad: jubilometro.com/espera-dependencia/yt\n\n#dependencia #mayores #cuidados",
   "fecha": "2026-12-25",
   "hora": "13:00"
  },
@@ -3303,7 +3303,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/baleares/",
-  "texto": "Dependencia en Baleares: se pide con la misma solicitud que la discapacidad, y si tus datos de salud están al día en el IB-Salut no hace falta informe médico. Media real: 192 días desde la solicitud hasta la prestación, frente a 302 en España.\n\njubilometro.com/dependencia-baleares/x",
+  "texto": "Dependencia en Baleares: se pide con la misma solicitud que la discapacidad, y si tus datos de salud están al día en el IB-Salut no hace falta informe médico. Media real: 188 días desde la solicitud hasta la prestación, frente a 293 en España.\n\njubilometro.com/dependencia-baleares/x",
   "fecha": "2026-12-27",
   "hora": "10:00"
  },
@@ -3463,7 +3463,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/canarias/",
-  "texto": "Dependencia en Canarias: si el Gobierno no contesta en seis meses, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 250 días desde la solicitud hasta la prestación (302 en España).\n\njubilometro.com/dependencia-canarias/x",
+  "texto": "Dependencia en Canarias: si el Gobierno no contesta en seis meses, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 214 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-canarias/x",
   "fecha": "2026-12-30",
   "hora": "09:00"
  },
@@ -3588,7 +3588,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/cantabria/",
-  "texto": "Dependencia en Cantabria: los impresos se recogen en tu centro de salud o en los servicios sociales de tu ayuntamiento, que te ayudan a rellenarlos. Lo resuelve el ICASS. Media real: 171 días desde la solicitud hasta la prestación, frente a 302 en España.\n\njubilometro.com/dependencia-cantabria/x",
+  "texto": "Dependencia en Cantabria: los impresos se recogen en tu centro de salud o en los servicios sociales de tu ayuntamiento, que te ayudan a rellenarlos. Lo resuelve el ICASS. Media real: 169 días desde la solicitud hasta la prestación, frente a 293 en España.\n\njubilometro.com/dependencia-cantabria/x",
   "fecha": "2027-01-01",
   "hora": "09:00"
  },
@@ -3722,7 +3722,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/castilla-la-mancha/",
-  "texto": "Dependencia en Castilla-La Mancha: la Junta tiene seis meses para resolver, que se quedan en tres si tienes más de 90 años. El informe de salud lo hace tu médico de atención primaria. Media real: 165 días hasta la prestación (302 en España).\n\njubilometro.com/dependencia-castilla-la-mancha/x",
+  "texto": "Dependencia en Castilla-La Mancha: la Junta tiene seis meses para resolver, que se quedan en tres si tienes más de 90 años. El informe de salud lo hace tu médico de atención primaria. Media real: 166 días hasta la prestación (293 en España).\n\njubilometro.com/dependencia-castilla-la-mancha/x",
   "fecha": "2027-01-04",
   "hora": "09:00"
  },
@@ -3818,7 +3818,7 @@ export const PUBLICACIONES = [
   "red": "linkedin",
   "pilar": "Profesionales",
   "fuente": "/dependencia/tiempos-dependencia/",
-  "texto": "La ley de dependencia da a las comunidades seis meses para resolver. Según las estadísticas del Imserso (resoluciones de septiembre de 2025 a agosto de 2026), la media real en España es de 302 días: 228 hasta el reconocimiento del grado y 52 más hasta la prestación.\n\nLa diferencia entre territorios es enorme: 78 días en Ceuta y 111 en Aragón frente a 416 en Asturias y 536 en la Región de Murcia.\n\nPara trabajadores sociales y servicios de atención a mayores, hemos ordenado los datos por comunidad, con lo que se puede hacer cuando se pasa el plazo. Enlace en el primer comentario.",
+  "texto": "La ley de dependencia da a las comunidades seis meses para resolver. Según las estadísticas del Imserso (resoluciones de octubre de 2025 a septiembre de 2026), la media real en España es de 293 días: 220 hasta el reconocimiento del grado y 50 más hasta la prestación.\n\nLa diferencia entre territorios es enorme: 75 días en Ceuta y 109 en Aragón frente a 413 en Asturias y 529 en la Región de Murcia.\n\nPara trabajadores sociales y servicios de atención a mayores, hemos ordenado los datos por comunidad, con lo que se puede hacer cuando se pasa el plazo. Enlace en el primer comentario.",
   "comentario": "Tiempos de la dependencia por comunidad: jubilometro.com/espera-dependencia/in",
   "id": "mes1-56",
   "fecha": "2027-01-05",
@@ -3859,7 +3859,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/castilla-y-leon/",
-  "texto": "Dependencia en Castilla y León: se pide en tu CEAS, y el grado y las ayudas se resuelven casi siempre a la vez. Por eso es de las más rápidas: 120 días de media desde la solicitud hasta la prestación, frente a 302 en España.\n\njubilometro.com/dependencia-castilla-y-leon/x",
+  "texto": "Dependencia en Castilla y León: se pide en tu CEAS, y el grado y las ayudas se resuelven casi siempre a la vez. Por eso es de las más rápidas: 120 días de media desde la solicitud hasta la prestación, frente a 293 en España.\n\njubilometro.com/dependencia-castilla-y-leon/x",
   "fecha": "2027-01-05",
   "hora": "13:30"
  },
@@ -3967,7 +3967,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/cataluna/",
-  "texto": "Dependencia en Cataluña: la media real fue de 204 días hasta el grado y 264 hasta la prestación, y es la comunidad con más personas esperando seis meses o más: 41.643. Se puede pedir en línea con idCAT Mòbil.\n\njubilometro.com/dependencia-cataluna/x",
+  "texto": "Dependencia en Cataluña: la media real fue de 198 días hasta el grado y 261 hasta la prestación, y es la comunidad con más personas esperando seis meses o más: 40.624. Se puede pedir en línea con idCAT Mòbil.\n\njubilometro.com/dependencia-cataluna/x",
   "fecha": "2027-01-07",
   "hora": "09:00"
  },
@@ -4060,7 +4060,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/comunitat-valenciana/",
-  "texto": "Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 299 días.\n\njubilometro.com/dependencia-comunitat-valenciana/x",
+  "texto": "Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.\n\njubilometro.com/dependencia-comunitat-valenciana/x",
   "fecha": "2027-01-08",
   "hora": "13:30"
  },
@@ -4072,15 +4072,15 @@ export const PUBLICACIONES = [
   "fuente": "/dependencia/tiempos-dependencia/",
   "diapositivas": [
    "¿Cuánto tarda la dependencia en tu comunidad? Los datos reales del Imserso.",
-   "España: 302 días de media de la solicitud a la prestación, aunque la ley da seis meses.",
-   "Las más rápidas: Aragón, 111 días; Castilla y León, 120; País Vasco, 130; La Rioja, 131.",
-   "Por debajo de la media: Castilla-La Mancha, 165; Cantabria, 171; Baleares, 192; Navarra, 222; Canarias, 250.",
-   "Cerca de la media: Cataluña, 264; Extremadura, 272; Comunitat Valenciana, 299; Galicia, 308.",
-   "Las más lentas: Madrid, 335; Andalucía, 413; Asturias, 416; Región de Murcia, 536.",
+   "España: 293 días de media de la solicitud a la prestación, aunque la ley da seis meses.",
+   "Las más rápidas: Aragón, 109 días; Castilla y León, 120; La Rioja y País Vasco, 130.",
+   "Por debajo de la media: Castilla-La Mancha, 166; Cantabria, 169; Baleares, 188; Canarias, 214; Navarra, 228.",
+   "Cerca de la media: Cataluña, 261; Extremadura, 277; Comunitat Valenciana, 297; Galicia, 307.",
+   "Las más lentas: Madrid, 327; Andalucía, 402; Asturias, 413; Región de Murcia, 529.",
    "Si pasan seis meses sin resolución, tu derecho empieza a contar desde entonces.",
    "Guárdalo y mira la guía de tu comunidad en Jubilómetro (enlace en la biografía)."
   ],
-  "texto": "De 111 días en Aragón a 536 en la Región de Murcia: lo que tarda de verdad la dependencia en cada comunidad. Guías por comunidad en la biografía.\n\n#dependencia #mayores #cuidados #imserso",
+  "texto": "De 109 días en Aragón a 529 en la Región de Murcia: lo que tarda de verdad la dependencia en cada comunidad. Guías por comunidad en la biografía.\n\n#dependencia #mayores #cuidados #imserso",
   "carrusel": "publicacion/redes/banco/carruseles/espera-ig/",
   "fecha": "2027-01-08",
   "hora": "19:00"
@@ -4126,7 +4126,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/extremadura/",
-  "texto": "Dependencia en Extremadura: la solicitud es el único papel obligatorio. Si autorizas la consulta, la Junta obtiene sola tu informe de salud, tu padrón y tus datos económicos. Media real: 272 días desde la solicitud hasta la prestación (302 en España).\n\njubilometro.com/dependencia-extremadura/x",
+  "texto": "Dependencia en Extremadura: la solicitud es el único papel obligatorio. Si autorizas la consulta, la Junta obtiene sola tu informe de salud, tu padrón y tus datos económicos. Media real: 277 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-extremadura/x",
   "fecha": "2027-01-11",
   "hora": "09:00"
  },
@@ -4233,7 +4233,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/la-rioja/",
-  "texto": "Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 131 días hasta la prestación, de las más rápidas de España.\n\njubilometro.com/dependencia-la-rioja/x",
+  "texto": "Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 130 días hasta la prestación, de las más rápidas de España.\n\njubilometro.com/dependencia-la-rioja/x",
   "fecha": "2027-01-12",
   "hora": "09:00"
  },
@@ -4269,7 +4269,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/madrid/",
-  "texto": "Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 335 días desde la solicitud hasta la prestación (302 en España).\n\njubilometro.com/dependencia-madrid/x",
+  "texto": "Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 327 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-madrid/x",
   "fecha": "2027-01-13",
   "hora": "09:00"
  },
@@ -4368,7 +4368,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/murcia/",
-  "texto": "Dependencia en la Región de Murcia: la media real fue de 536 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.\n\njubilometro.com/dependencia-murcia/x",
+  "texto": "Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.\n\njubilometro.com/dependencia-murcia/x",
   "fecha": "2027-01-14",
   "hora": "09:00"
  },
@@ -4395,7 +4395,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/pais-vasco/",
-  "texto": "Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, la tercera comunidad más rápida.\n\njubilometro.com/dependencia-pais-vasco/x",
+  "texto": "Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, de las más rápidas de España.\n\njubilometro.com/dependencia-pais-vasco/x",
   "fecha": "2027-01-15",
   "hora": "09:00"
  },
@@ -4797,10 +4797,10 @@ export const PUBLICACIONES = [
   "pilar": "Familias y cuidados",
   "fuente": "/dependencia/tiempos-dependencia/",
   "partes": [
-   "¿Cuánto tarda la dependencia? La ley da seis meses. La media real en España es de 302 días, y depende mucho de dónde vivas. Hilo con los datos del Imserso.",
-   "1. De media, 228 días hasta que te reconocen el grado y 52 más hasta que te asignan la prestación (resoluciones de septiembre de 2025 a agosto de 2026).",
-   "2. Las más rápidas: Ceuta, con 78 días, y Aragón, con 111.",
-   "3. Las más lentas: Asturias, con 416 días, y la Región de Murcia, con 536.",
+   "¿Cuánto tarda la dependencia? La ley da seis meses. La media real en España es de 293 días, y depende mucho de dónde vivas. Hilo con los datos del Imserso.",
+   "1. De media, 220 días hasta que te reconocen el grado y 50 más hasta que te asignan la prestación (resoluciones de octubre de 2025 a septiembre de 2026).",
+   "2. Las más rápidas: Ceuta, con 75 días, y Aragón, con 109.",
+   "3. Las más lentas: Asturias, con 413 días, y la Región de Murcia, con 529.",
    "4. Si pasan seis meses sin resolución, tu derecho empieza a contar igualmente desde ese momento. Por eso conviene pedirla cuanto antes.",
    "5. Los días de tu comunidad y qué hacer si se retrasa: jubilometro.com/espera-dependencia/x"
   ],

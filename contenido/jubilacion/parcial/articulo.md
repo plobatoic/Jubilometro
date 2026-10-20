@@ -8,7 +8,7 @@ miga: Jubilación parcial
 palabra_clave_principal: jubilación parcial
 intencion: informativa
 fase_plan: F2 (artículo n.º 8)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-10-20
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación parcial con contrato de relevo: requisitos y quién puede pedirla
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -47,6 +47,8 @@ La reforma del [Real Decreto-ley 11/2024](https://www.boe.es/buscar/doc.php?id=B
 En 2027, con la tabla de [edad de jubilación](/jubilacion/edad-de-jubilacion/), esto supone poder pedirla **desde los 64 años** si tu edad ordinaria es 67, o **desde los 62** si es 65 (con 38 años y 6 meses cotizados).
 
 Existe además un régimen especial para trabajadores de la **industria manufacturera**, con requisitos propios. Si es tu sector, pregunta en tu empresa o a un graduado social.
+
+**Personal laboral de las Administraciones Públicas**: desde el 1 de julio de 2026, el [Real Decreto-ley 19/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14113) fija cómo se cumple el contrato de relevo en ayuntamientos, comunidades y Estado. La Administración tiene que prever las jubilaciones parciales en su oferta de empleo público y vincular cada una a un **contrato fijo a tiempo completo** que salga de esas convocatorias. Mientras se resuelve la convocatoria, puede contratar a un **relevista temporal**. Hasta el 1 de abril de 2027, también vale un contrato fijo firmado desde el 1 de abril de 2024. El relevista no tiene que estar en paro, y la Administración emite un **certificado** que identifica a los dos.
 
 ## Jubilación parcial desde la edad ordinaria (sin contrato de relevo)
 
@@ -96,6 +98,7 @@ La empresa tiene que sustituirlo por otra persona en las condiciones que marca l
 
 - [Ley General de la Seguridad Social, artículo 215](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a215) (BOE).
 - [Real Decreto-ley 11/2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917) (BOE).
+- [Real Decreto-ley 19/2026, jubilación parcial del personal laboral de las Administraciones Públicas](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14113) (BOE).
 - [La Moncloa: entran en vigor las medidas para mejorar la compatibilidad de la pensión con el trabajo (28 de marzo de 2025)](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2025/280325-compatibilidad-pension-trabajo.aspx).
 
 ## Siguiente paso
@@ -108,4 +111,4 @@ La empresa tiene que sustituirlo por otra persona en las condiciones que marca l
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, jubilación parcial del personal laboral de las Administraciones Públicas (Real Decreto-ley 19/2026). 27 de septiembre de 2026, primera versión.*

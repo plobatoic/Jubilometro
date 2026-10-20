@@ -8,7 +8,7 @@ miga: Ayuda a domicilio
 palabra_clave_principal: ayuda a domicilio
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Servicio de ayuda a domicilio para mayores: cuántas horas dan, cuánto cuesta y cómo pedirlo
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -47,13 +47,13 @@ La norma es clara: las **tareas del hogar solo se prestan junto con la atención
 El [anexo II del Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) fija las horas mensuales según el grado. Tu comunidad puede dar más, pero no menos:
 
 <!-- tabla: Horas de ayuda a domicilio según el grado de dependencia -->
-| Grado | Horas al mes | Aproximadamente | Media real en España (agosto de 2026) |
+| Grado | Horas al mes | Aproximadamente | Media real en España (septiembre de 2026) |
 |---|---|---|---|
-| Grado I | 20 a 37 | 1 a 2 horas cada día laborable | 20,9 horas |
-| Grado II | 38 a 64 | 2 a 3 horas cada día laborable | 44,8 horas |
-| Grado III | 65 a 94 | 3 a 4,3 horas cada día laborable | 67,5 horas |
+| Grado I | 20 a 37 | 1 a 2 horas cada día laborable | 21 horas |
+| Grado II | 38 a 64 | 2 a 3 horas cada día laborable | 44,9 horas |
+| Grado III | 65 a 94 | 3 a 4,3 horas cada día laborable | 67,8 horas |
 
-Las medias son de la [estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) a 31 de agosto de 2026, cuando había **414.984 personas** con ayuda a domicilio de la dependencia (el 16 % de todas las prestaciones). La cifra concreta de horas se fija en tu **Programa Individual de Atención (PIA)**, que debe separar las horas de atención personal de las de tareas domésticas.
+Las medias son de la [estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) a 30 de septiembre de 2026, cuando había **419.171 personas** con ayuda a domicilio de la dependencia (el 16 % de todas las prestaciones). La cifra concreta de horas se fija en tu **Programa Individual de Atención (PIA)**, que debe separar las horas de atención personal de las de tareas domésticas.
 
 **Ojo:** una hora de ayuda a domicilio es un **módulo de atención**, no siempre 60 minutos seguidos: puede repartirse en visitas más cortas (por la mañana para levantarse y asearse, y por la noche para acostarse, por ejemplo).
 
@@ -69,15 +69,17 @@ Pide a los servicios sociales una **simulación** de tu copago antes de aceptar 
 
 ### Si no hay plaza pública: la prestación vinculada
 
-Si tu comunidad no puede darte el servicio con sus medios, puede reconocerte una **prestación económica vinculada** para contratarlo con una **empresa acreditada**. Las cuantías máximas en 2026 son **313,50 euros al mes** en el grado I, **445,30** en el II y **747,25** en el III, rebajadas según tu capacidad económica. La media real que se cobra por esta ayuda vinculada a la ayuda a domicilio es de **246 euros** en el grado I, **387** en el II y **614** en el III (Imserso, agosto de 2026).
+Si tu comunidad no puede darte el servicio con sus medios, puede reconocerte una **prestación económica vinculada** para contratarlo con una **empresa acreditada**. Las cuantías máximas en 2026 son **313,50 euros al mes** en el grado I, **445,30** en el II y **747,25** en el III, rebajadas según tu capacidad económica. La media real que se cobra por esta ayuda vinculada a la ayuda a domicilio es de **246 euros** en el grado I, **388** en el II y **615** en el III (Imserso, septiembre de 2026).
 
 ## Con qué es compatible
 
-Según el [artículo 25 bis de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) y el [artículo 16 del Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811):
+Según el [artículo 16 del Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) y la [reforma de la ley de dependencia](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el 23 de octubre de 2026:
 
-- **Siempre** con la [teleasistencia](/dependencia/teleasistencia/) y con los servicios de prevención y promoción de la autonomía (rehabilitación, estimulación cognitiva). Ayuda a domicilio más teleasistencia es la combinación más habitual del sistema: **275.137 personas**.
-- **Según tu comunidad**, con el [centro de día](/dependencia/centro-de-dia/) o con la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/), siempre que la suma no supere la intensidad máxima de tu grado.
+- **Siempre** con la [teleasistencia](/dependencia/teleasistencia/) y con los servicios de prevención y promoción de la autonomía (rehabilitación, estimulación cognitiva). Ayuda a domicilio más teleasistencia es la combinación más habitual del sistema: **278.895 personas**.
+- **Según tu comunidad**, con el [centro de día](/dependencia/centro-de-dia/) o con la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/), siempre que la suma no supere la intensidad máxima de tu grado. La reforma suprime las incompatibilidades estatales y obliga a las comunidades a permitir combinar **todas las ayudas en casa antes del 1 de enero de 2030**. Hasta entonces mandan sus reglas.
 - **No** con la residencia.
+
+Desde la reforma, la ayuda a domicilio también puede **organizarse de forma conjunta** cuando varias personas dependientes viven en la misma vivienda, en viviendas de un mismo conjunto o en **viviendas próximas**, si lo piden ([artículo 23](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a23)).
 
 ## Sin grado de dependencia: el SAD municipal
 
@@ -118,9 +120,10 @@ Sí, en los servicios sociales de tu ayuntamiento, que tienen su propio servicio
 
 ## Fuentes oficiales
 
-- [Ley 39/2006, de dependencia, artículos 15, 23, 25 bis y 33](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 39/2006, de dependencia, artículos 15, 23 y 33](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 4/2026, de reforma de la ley de dependencia (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Real Decreto 1051/2013, de prestaciones de dependencia, artículos 8 y 16 y anexos II y IV](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
-- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 31 de agosto de 2026](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 30 de septiembre de 2026](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 
 ## Siguiente paso
 
@@ -134,4 +137,4 @@ Sí, en los servicios sociales de tu ayuntamiento, que tienen su propio servicio
 
 *Este artículo es informativo. Las horas concretas y el copago los fijan tu comunidad autónoma o tu ayuntamiento. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlaces a la cuidadora interna o externa y a las ayudas para adaptar la vivienda. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): compatibilidades y ayuda a domicilio compartida, y datos del Imserso a 30 de septiembre de 2026. 14 de octubre de 2026, enlaces a la cuidadora interna o externa y a las ayudas para adaptar la vivienda. 29 de septiembre de 2026, primera versión.*

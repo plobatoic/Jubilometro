@@ -8,7 +8,7 @@ miga: Dependencia en Castilla y León
 palabra_clave_principal: dependencia Castilla y León
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en Castilla y León: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Junta de Castilla y León, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Junta de Castilla y León, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En Castilla y León, la dependencia se pide con el **modelo oficial de solicitud** y un **informe sobre condiciones de salud** también en modelo oficial. Puedes presentarla en tu **Centro de Acción Social (CEAS)**, en las gerencias territoriales de Servicios Sociales, en cualquier registro o **por internet**. La gestiona la **Gerencia de Servicios Sociales** de la Junta.
 >
-> La Junta tiene **seis meses** para resolver, y solo **30 días** si se trata de un menor de tres años. Según el Imserso, la media real fue de **120 días** desde la solicitud hasta la prestación, frente a 302 en España: en Castilla y León el grado y las ayudas se resuelven casi siempre a la vez.
+> La Junta tiene **seis meses** para resolver, y solo **30 días** si se trata de un menor de tres años. Según el Imserso, la media real fue de **120 días** desde la solicitud hasta la prestación, frente a 293 en España: en Castilla y León el grado y las ayudas se resuelven casi siempre a la vez.
 
 ## Quién puede pedirla
 
@@ -51,37 +51,37 @@ Para dudas, llama también al **012** (983 327 850 desde fuera de la comunidad).
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en Castilla y León frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en Castilla y León frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Castilla y León | España |
 |---|---|---|
-| De la solicitud al grado | 119 días | 228 días |
-| Del grado a la prestación | 0 días | 52 días |
-| De la solicitud a la prestación | 120 días | 302 días |
-| Personas esperando seis meses o más | 3 | 130.162 |
+| De la solicitud al grado | 119 días | 220 días |
+| Del grado a la prestación | 0 días | 50 días |
+| De la solicitud a la prestación | 120 días | 293 días |
+| Personas esperando seis meses o más | 1 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El Imserso explica que en Castilla y León la mayoría de las resoluciones de grado y de prestación se hacen **de forma conjunta**: por eso el segundo tramo es de cero días. Es una de las comunidades más rápidas, y solo **3 personas** llevaban más de seis meses esperando.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El Imserso explica que en Castilla y León la mayoría de las resoluciones de grado y de prestación se hacen **de forma conjunta**: por eso el segundo tramo es de cero días. Es una de las comunidades más rápidas, y solo **1 persona** llevaba más de seis meses esperando.
 
 **Desde cuándo cobras**: según la [Junta](https://serviciossociales.jcyl.es/web/es/dependencia-discapacidad/preguntas-respuestas-frecuentes.html), las prestaciones económicas tienen **efectos desde los dos meses** siguientes a la presentación de la solicitud de valoración o de revisión, aunque la resolución llegue después; esos dos meses se alargan si te piden documentos. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
 ## Qué ayudas se dan en Castilla y León
 
-A 31 de agosto de 2026, **129.156 personas** tenían resuelto su PIA en Castilla y León y **126.202** (el 97,71 %) recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **129.593 personas** tenían resuelto su PIA en Castilla y León y **126.723** (el 97,79 %) recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en Castilla y León (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en Castilla y León (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Prestación vinculada al servicio | 46.005 | 25,18 % |
-| Prestación por cuidados familiares | 41.361 | 22,64 % |
-| Teleasistencia | 36.612 | 20,04 % |
-| Ayuda a domicilio | 23.904 | 13,08 % |
-| Prevención de la dependencia y promoción de la autonomía | 14.250 | 7,80 % |
-| Atención residencial | 9.057 | 4,96 % |
-| Centros de día y de noche | 8.088 | 4,43 % |
-| Prestación de asistencia personal | 3.408 | 1,87 % |
+| Prestación vinculada al servicio | 46.078 | 25,14 % |
+| Prestación por cuidados familiares | 41.674 | 22,74 % |
+| Teleasistencia | 36.819 | 20,09 % |
+| Ayuda a domicilio | 23.808 | 12,99 % |
+| Prevención de la dependencia y promoción de la autonomía | 14.288 | 7,80 % |
+| Atención residencial | 9.062 | 4,94 % |
+| Centros de día y de noche | 8.083 | 4,41 % |
+| Prestación de asistencia personal | 3.459 | 1,89 % |
 
-Cada persona recibe de media **1,41 prestaciones** (en España, 1,45). Lo que distingue a Castilla y León es la **prestación vinculada al servicio**, una ayuda para pagar un servicio privado acreditado (residencia, centro de día o ayuda a domicilio) cuando no hay plaza pública: es la más frecuente, con el **25,18 %**, frente al 9,47 % de media en España. Para cobrarla, junto con la resolución recibes un **documento con un código** que entregas a la residencia, al centro o a la empresa que te atiende; así pueden informar cada mes a la Gerencia de los servicios prestados. Si lo pierdes, se puede volver a pedir en el portal del ciudadano de la Junta. También destacan la **prevención y promoción de la autonomía** (7,80 % frente al 3,32 %) y la **asistencia personal** (1,87 % frente al 0,53 %).
+Cada persona recibe de media **1,41 prestaciones** (en España, 1,45). Lo que distingue a Castilla y León es la **prestación vinculada al servicio**, una ayuda para pagar un servicio privado acreditado (residencia, centro de día o ayuda a domicilio) cuando no hay plaza pública: es la más frecuente, con el **25,14 %**, frente al 9,47 % de media en España. Para cobrarla, junto con la resolución recibes un **documento con un código** que entregas a la residencia, al centro o a la empresa que te atiende; así pueden informar cada mes a la Gerencia de los servicios prestados. Si lo pierdes, se puede volver a pedir en el portal del ciudadano de la Junta. También destacan la **prevención y promoción de la autonomía** (7,80 % frente al 3,33 %) y la **asistencia personal** (1,89 % frente al 0,53 %).
 
-**Cuantía media de la prestación por cuidados familiares en Castilla y León**: 128,45 euros al mes con grado I, 216,30 con grado II y 300,85 con grado III (en España, 172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)); la cuantía final depende de tu capacidad económica. Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en Castilla y León**: 128,36 euros al mes con grado I, 216,22 con grado II y 300,92 con grado III (en España, 174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)); la cuantía final depende de tu capacidad económica. Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -95,7 +95,7 @@ El informe sobre condiciones de salud en el modelo oficial de la Junta, para la 
 
 ### ¿Cuánto tarda la dependencia en Castilla y León?
 
-La Junta tiene seis meses para resolver (30 días para menores de tres años). Según el Imserso, la media fue de 120 días desde la solicitud hasta la prestación (datos a agosto de 2026), una de las más rápidas de España.
+La Junta tiene seis meses para resolver (30 días para menores de tres años). Según el Imserso, la media fue de 120 días desde la solicitud hasta la prestación (datos a septiembre de 2026), una de las más rápidas de España.
 
 ### ¿Qué teléfono tiene la dependencia en Castilla y León?
 
@@ -113,7 +113,7 @@ Una ayuda mensual para pagar una residencia, un centro de día o una ayuda a dom
 
 - [Junta de Castilla y León: reconocimiento de situación de dependencia (IAPA 1454)](https://www.tramitacastillayleon.jcyl.es/web/jcyl/AdministracionElectronica/es/Plantilla100Detalle/1251181050732/Tramite/1259395711876/Tramite).
 - [Servicios Sociales de Castilla y León: preguntas frecuentes sobre dependencia](https://serviciossociales.jcyl.es/web/es/dependencia-discapacidad/preguntas-respuestas-frecuentes.html).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías máximas)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
@@ -127,4 +127,4 @@ Una ayuda mensual para pagar una residencia, un centro de día o una ayuda a dom
 
 *Este artículo es informativo y no sustituye la información de la Junta de Castilla y León, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

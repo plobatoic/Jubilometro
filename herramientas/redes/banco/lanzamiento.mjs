@@ -100,7 +100,7 @@ Pasa más de lo que parece: contratos de verano, empresas que cerraron, años en
 El destino, el hotel, la época del año o un truco para conseguir plaza. Con vuestras respuestas hacemos una lista para el grupo.`),
   pregunta('pregunta-dependencia', `Pregunta de la semana: ¿cuánto tardaron en resolver la dependencia de vuestro familiar, y en qué comunidad?
 
-Según el Imserso, la media en España es de 302 días, pero va de 111 en Aragón a 536 en la Región de Murcia. Vuestra experiencia ayuda a quien acaba de pedirla.`),
+Según el Imserso, la media en España es de 293 días, pero va de 109 en Aragón a 529 en la Región de Murcia. Vuestra experiencia ayuda a quien acaba de pedirla.`),
   pregunta('pregunta-antes', `Pregunta de la semana: ¿qué os habría gustado saber antes de jubilaros?
 
 Un trámite, una fecha, un error que os costó dinero. Lo que contéis aquí puede ahorrar un disgusto a quien se jubila el año que viene.`),

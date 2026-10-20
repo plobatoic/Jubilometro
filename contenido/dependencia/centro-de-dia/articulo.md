@@ -8,7 +8,7 @@ miga: Centro de día
 palabra_clave_principal: centro de día
 intencion: informativa
 fase_plan: F3 (artículo n.º 75)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Centro de día para personas mayores: qué ofrece, cuánto cuesta y cómo conseguir plaza pública
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -58,7 +58,7 @@ Cada centro organiza su programa, pero suele incluir:
 2. **En el Programa Individual de Atención (PIA)**, di que prefieres el centro de día. La ley obliga a consultar a la persona y a su familia antes de decidir.
 3. La comunidad te asigna una **plaza pública o concertada** según la disponibilidad o, si no la hay, una **prestación vinculada** para pagar un centro privado acreditado.
 
-A 31 de agosto de 2026, **112.565 personas** tenían centro de día o de noche como prestación de la dependencia, el **4,4 %** del total ([estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual)). Es un servicio menos frecuente que la ayuda a domicilio, en parte porque no hay plazas en todas las zonas.
+A 30 de septiembre de 2026, **112.923 personas** tenían centro de día o de noche como prestación de la dependencia, el **4,4 %** del total ([estadística del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual)). Es un servicio menos frecuente que la ayuda a domicilio, en parte porque no hay plazas en todas las zonas.
 
 ### Cuántas horas
 
@@ -76,11 +76,11 @@ Desde 2023, el transporte adaptado **debe garantizarse** cuando la movilidad de 
 **Centro privado con prestación vinculada:** recibes una ayuda mensual para pagarlo. Las cuantías máximas de 2026 son:
 
 <!-- tabla: Prestación vinculada al centro de día en 2026 -->
-| Grado | Cuantía máxima al mes | Media real (agosto de 2026) |
+| Grado | Cuantía máxima al mes | Media real (septiembre de 2026) |
 |---|---|---|
-| Grado I | 445,30 € | 266,41 € |
-| Grado II | 445,30 € | 370,57 € |
-| Grado III | 747,25 € | 506,41 € |
+| Grado I | 445,30 € | 268,00 € |
+| Grado II | 445,30 € | 370,40 € |
+| Grado III | 747,25 € | 506,63 € |
 
 La cantidad concreta se rebaja según tus ingresos, con un mínimo de 100, 150 y 200 euros según el grado. Los máximos están en el [anexo IV del Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (en el grado I, el máximo general es de 313,50 euros, pero sube a 445,30 cuando la ayuda es para centro de día) y las medias, en la estadística del Imserso.
 
@@ -89,7 +89,7 @@ La cantidad concreta se rebaja según tus ingresos, con un mínimo de 100, 150 y
 ## Con qué es compatible
 
 - **Siempre** con la [teleasistencia](/dependencia/teleasistencia/).
-- **Según tu comunidad**, con la [ayuda a domicilio](/dependencia/ayuda-a-domicilio/) (para levantarse o acostarse, por ejemplo) o con la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/). En toda España, **15.815 personas** combinan centro de día con cuidados familiares.
+- **Según tu comunidad**, con la [ayuda a domicilio](/dependencia/ayuda-a-domicilio/) (para levantarse o acostarse, por ejemplo) o con la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/). En toda España, **15.915 personas** combinan centro de día con cuidados familiares. La [reforma de la ley de dependencia](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el 23 de octubre de 2026, suprime las incompatibilidades estatales y obliga a las comunidades a permitir combinar todas las ayudas en casa **antes del 1 de enero de 2030**.
 - **No** con la residencia.
 
 ## ¿Centro de día o residencia?
@@ -124,9 +124,10 @@ Solo si tu comunidad permite combinarlos. Pregunta en los servicios sociales al 
 
 ## Fuentes oficiales
 
-- [Ley 39/2006, de dependencia, artículos 15, 24, 25 bis y 33](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 39/2006, de dependencia, artículos 15, 24 y 33](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
+- [Ley 4/2026, de reforma de la ley de dependencia (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Real Decreto 1051/2013, de prestaciones de dependencia, artículos 4, 9 y 16 y anexos III y IV](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
-- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 31 de agosto de 2026](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadística del Sistema para la Autonomía y Atención a la Dependencia a 30 de septiembre de 2026](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 
 ## Siguiente paso
 
@@ -138,4 +139,4 @@ Solo si tu comunidad permite combinarlos. Pregunta en los servicios sociales al 
 
 *Este artículo es informativo. La disponibilidad de plazas, los horarios y el copago los fija cada comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): compatibilidades, y datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

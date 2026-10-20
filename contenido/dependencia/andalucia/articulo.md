@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Dependencia en Andalucía 2026: cómo se pide y cuánto tarda"
 h1: "Dependencia en Andalucía: cómo se pide, cuánto tarda y qué ayudas se dan en 2026"
-meta_descripcion: "En Andalucía la dependencia se pide por el portal VED o en un registro con cita y tarda de media 413 días. Pasos, documentos, prestaciones y cuantías."
+meta_descripcion: "En Andalucía la dependencia se pide por el portal VED o en un registro con cita y tarda de media 402 días. Pasos, documentos, prestaciones y cuantías."
 url: /dependencia/andalucia/
 categoria: Dependencia
 miga: Dependencia en Andalucía
 palabra_clave_principal: dependencia Andalucía
 intencion: transaccional
 fase_plan: F2 (artículo n.º 63)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,13 +20,13 @@ fuentes_legales:
 
 # Dependencia en Andalucía: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Junta de Andalucía, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Junta de Andalucía, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En Andalucía, la dependencia se pide **por internet en el portal VED** (con certificado digital o Cl@ve) o **en persona en una oficina de registro**, con cita previa, junto con un **informe de salud** en el modelo oficial, que suele hacer tu médico de cabecera. Después, un profesional te hace **una única visita** a casa y recibes **una sola resolución** con tu grado y tus ayudas.
 >
-> La Junta calcula **alrededor de un año** de tramitación. Según el Imserso, la media real fue de **413 días** desde la solicitud hasta la prestación (datos a agosto de 2026), frente a los 302 de media en España.
+> La Junta calcula **alrededor de un año** de tramitación. Según el Imserso, la media real fue de **402 días** desde la solicitud hasta la prestación (datos a septiembre de 2026), frente a los 293 de media en España.
 
 ## Quién puede pedirla
 
@@ -49,13 +49,13 @@ Para dudas: teléfono **012** o **955 012 012**.
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en Andalucía frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en Andalucía frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Andalucía | España |
 |---|---|---|
-| De la solicitud al grado | 376 días | 228 días |
-| Del grado a la prestación | 16 días | 52 días |
-| De la solicitud a la prestación | 413 días | 302 días |
-| Personas esperando seis meses o más | 27.990 | 130.162 |
+| De la solicitud al grado | 369 días | 220 días |
+| Del grado a la prestación | 14 días | 50 días |
+| De la solicitud a la prestación | 402 días | 293 días |
+| Personas esperando seis meses o más | 26.700 | 128.336 |
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). En Andalucía el grado y el PIA se resuelven casi siempre juntos, por eso el segundo tramo es corto. La Junta indica que el plazo es menor en casos de **urgencia**, en **menores de 6 años** y en personas con **ELA**.
 
@@ -63,21 +63,21 @@ La ley da seis meses como máximo para resolver, y tu derecho nace, como tarde, 
 
 ## Qué ayudas se dan en Andalucía
 
-A 31 de agosto de 2026, **359.838 personas** tenían resuelto su PIA en Andalucía y **348.957** (el 97 %) recibían ya alguna prestación. Las más frecuentes:
+A 30 de septiembre de 2026, **362.480 personas** tenían resuelto su PIA en Andalucía y **350.085** (el 97 %) recibían ya alguna prestación. Las más frecuentes:
 
-<!-- tabla: Prestaciones de dependencia en Andalucía (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en Andalucía (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Ayuda a domicilio | 208.789 | 36,85 % |
-| Teleasistencia | 200.035 | 35,31 % |
-| Prestación por cuidados familiares | 103.108 | 18,20 % |
-| Atención residencial | 32.923 | 5,81 % |
-| Centros de día y de noche | 17.380 | 3,07 % |
-| Prestación vinculada al servicio | 3.868 | 0,68 % |
+| Ayuda a domicilio | 210.417 | 36,80 % |
+| Teleasistencia | 202.473 | 35,41 % |
+| Prestación por cuidados familiares | 104.159 | 18,22 % |
+| Atención residencial | 33.007 | 5,77 % |
+| Centros de día y de noche | 17.426 | 3,05 % |
+| Prestación vinculada al servicio | 3.822 | 0,67 % |
 
-Cada persona recibe de media **1,57 prestaciones**, por encima de la media española (1,45). La **ayuda a domicilio** y la **teleasistencia** pesan mucho más que en el conjunto del país (16,24 % y 27,16 %).
+Cada persona recibe de media **1,58 prestaciones**, por encima de la media española (1,45). La **ayuda a domicilio** y la **teleasistencia** pesan mucho más que en el conjunto del país (16,23 % y 27,27 %).
 
-**Cuantía media de la prestación por cuidados familiares en Andalucía**: 106,14 euros al mes con grado I, 224,86 con grado II y 337,76 con grado III (en España, 172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en Andalucía**: 126,80 euros al mes con grado I, 248,40 con grado II y 364,86 con grado III (en España, 174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -87,7 +87,7 @@ Por internet en el portal VED, con certificado digital o Cl@ve, o en persona en 
 
 ### ¿Cuánto tarda la dependencia en Andalucía?
 
-La Junta habla de alrededor de un año. Según el Imserso, la media fue de 413 días desde la solicitud hasta la prestación entre septiembre de 2025 y agosto de 2026.
+La Junta habla de alrededor de un año. Según el Imserso, la media fue de 402 días desde la solicitud hasta la prestación entre octubre de 2025 y septiembre de 2026.
 
 ### ¿Cuántas visitas hay que hacer?
 
@@ -95,7 +95,7 @@ Una sola: un profesional va a tu casa, valora tu grado, te informa de las presta
 
 ### ¿Qué ayuda es la más habitual en Andalucía?
 
-La ayuda a domicilio (36,85 % de las prestaciones) y la teleasistencia (35,31 %), seguidas de la prestación por cuidados familiares (18,20 %).
+La ayuda a domicilio (36,80 % de las prestaciones) y la teleasistencia (35,41 %), seguidas de la prestación por cuidados familiares (18,22 %).
 
 ### ¿Qué hago si pasan meses sin respuesta?
 
@@ -104,7 +104,7 @@ Guarda el justificante de la solicitud, pregunta por tu expediente en el 012 y, 
 ## Fuentes oficiales
 
 - [Junta de Andalucía: solicitar el reconocimiento de la situación de dependencia](https://www.juntadeandalucia.es/temas/familias-igualdad/dependencia/solicitud.html).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías máximas)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
@@ -118,4 +118,4 @@ Guarda el justificante de la solicitud, pregunta por tu expediente en el 012 y, 
 
 *Este artículo es informativo y no sustituye la información de la Junta de Andalucía, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Dependencia en Asturias
 palabra_clave_principal: dependencia Asturias
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-05
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en Asturias: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 5 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Principado de Asturias (BOPA), Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Principado de Asturias (BOPA), Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En Asturias, la dependencia se pide a la **Consejería de Derechos Sociales y Bienestar** con el formulario oficial (trámite **PSPM0006T01**) y un **informe de salud de menos de seis meses** firmado por un profesional de la sanidad pública o de tu mutualidad. Se presenta en persona en una oficina de atención a la ciudadanía o un registro, o por la **sede electrónica** del Principado. Los **servicios sociales de tu concejo** te informan y te ayudan a rellenarla.
 >
-> El Principado tiene **seis meses** para resolver y, si no lo hace, la solicitud se entiende **concedida** (silencio positivo). Aun así, según el Imserso, la media real fue de **416 días** desde la solicitud hasta la prestación, la segunda más larga de España.
+> El Principado tiene **seis meses** para resolver y, si no lo hace, la solicitud se entiende **concedida** (silencio positivo). Aun así, según el Imserso, la media real fue de **413 días** desde la solicitud hasta la prestación, la segunda más larga de España.
 
 ## Quién puede pedirla
 
@@ -49,37 +49,37 @@ El procedimiento lo regula el **Decreto 4/2023**, publicado en el Boletín Ofici
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en Asturias frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en Asturias frente a España (días, datos a 30 de septiembre de 2026) -->
 | | Asturias | España |
 |---|---|---|
-| De la solicitud al grado | 299 días | 228 días |
-| Del grado a la prestación | 119 días | 52 días |
-| De la solicitud a la prestación | 416 días | 302 días |
-| Personas esperando seis meses o más | 4.520 | 130.162 |
+| De la solicitud al grado | 296 días | 220 días |
+| Del grado a la prestación | 118 días | 50 días |
+| De la solicitud a la prestación | 413 días | 293 días |
+| Personas esperando seis meses o más | 3.774 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Asturias es la segunda comunidad que más tarda, solo por detrás de la Región de Murcia (536 días).
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Asturias es la segunda comunidad que más tarda, solo por detrás de la Región de Murcia (529 días).
 
 **El silencio es positivo**: el artículo 20.3 del Decreto 4/2023 dice que, si se supera el plazo de seis meses sin resolver y notificar, el silencio se entiende **estimatorio**, es decir, a tu favor. Conserva el justificante de presentación con la fecha. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en Asturias
 
-A 31 de agosto de 2026, **36.915 personas** tenían resuelto su PIA en Asturias y **35.982** (el 97,47 %) recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **37.440 personas** tenían resuelto su PIA en Asturias y **36.507** (el 97,51 %) recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en Asturias (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en Asturias (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Prestación por cuidados familiares | 15.028 | 27,97 % |
-| Teleasistencia | 11.572 | 21,54 % |
-| Ayuda a domicilio | 8.778 | 16,34 % |
-| Prevención de la dependencia y promoción de la autonomía | 6.420 | 11,95 % |
-| Prestación vinculada al servicio | 5.489 | 10,22 % |
-| Atención residencial | 4.147 | 7,72 % |
-| Centros de día y de noche | 2.256 | 4,20 % |
+| Prestación por cuidados familiares | 15.266 | 27,94 % |
+| Teleasistencia | 12.024 | 22,00 % |
+| Ayuda a domicilio | 9.016 | 16,50 % |
+| Prevención de la dependencia y promoción de la autonomía | 6.339 | 11,60 % |
+| Prestación vinculada al servicio | 5.544 | 10,14 % |
+| Atención residencial | 4.157 | 7,61 % |
+| Centros de día y de noche | 2.270 | 4,15 % |
 | Prestación de asistencia personal | 32 | 0,06 % |
 
-Cada persona recibe de media **1,46 prestaciones**, como en el conjunto de España (1,45). Destacan los **servicios de prevención y promoción de la autonomía**, con el **11,95 %** de las prestaciones frente al 3,32 % de media.
+Cada persona recibe de media **1,46 prestaciones**, como en el conjunto de España (1,45). Destacan los **servicios de prevención y promoción de la autonomía**, con el **11,60 %** de las prestaciones frente al 3,33 % de media.
 
-**Cuantía media de la prestación por cuidados familiares en Asturias**: 119,50 euros al mes con grado I, 205,13 con grado II y 287,43 con grado III, por debajo de la media española (172,90, 275,03 y 381,50). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en Asturias**: 119,32 euros al mes con grado I, 204,07 con grado II y 286,85 con grado III, por debajo de la media española (174,91, 278,78 y 386,36). Los máximos legales son 180, 315,90 y 455,40 euros ([Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -97,7 +97,7 @@ En Asturias el silencio es estimatorio: si el Principado no resuelve y notifica 
 
 ### ¿Cuánto tarda la dependencia en Asturias?
 
-Según el Imserso, la media fue de 416 días desde la solicitud hasta la prestación (datos a agosto de 2026), la segunda más larga de España.
+Según el Imserso, la media fue de 413 días desde la solicitud hasta la prestación (datos a septiembre de 2026), la segunda más larga de España.
 
 ### ¿Cómo pido una revisión del grado?
 
@@ -107,7 +107,7 @@ Con el mismo formulario oficial y un informe de salud que muestre que has mejora
 
 - [Principado de Asturias: reconocimiento de la situación de dependencia (PSPM0006T01)](https://miprincipado.asturias.es/-/dboid-6269000269979835407573).
 - [Decreto 4/2023, de 27 de enero, del procedimiento de reconocimiento de la situación de dependencia (BOPA n.º 25, de 7 de febrero de 2023)](https://socialasturias.asturias.es/-/normativa-dependencia-1).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías máximas)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 
@@ -121,4 +121,4 @@ Con el mismo formulario oficial y un informe de salud que muestre que has mejora
 
 *Este artículo es informativo y no sustituye la información del Principado de Asturias, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Dependencia en el País Vasco
 palabra_clave_principal: dependencia País Vasco
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -21,13 +21,13 @@ fuentes_legales:
 
 # Dependencia en el País Vasco: cómo se pide en Álava, Bizkaia y Gipuzkoa, cuánto tarda y qué ayudas hay
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: diputaciones forales, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: diputaciones forales, Imserso y BOE*
 
 > **Respuesta rápida**
 >
 > En el País Vasco no hay un único trámite: la dependencia la valora y la resuelve la **diputación foral de tu territorio** (Álava, Bizkaia o Gipuzkoa). En los tres, el camino empieza en los **servicios sociales de base de tu ayuntamiento**, con cita con la trabajadora o el trabajador social, que prepara la solicitud y la envía a la diputación. Después, un equipo te hace la **valoración en tu domicilio**.
 >
-> Es de las comunidades más rápidas de España: según el Imserso, la media fue de **130 días** desde la solicitud hasta la prestación, frente a 302 en el conjunto del país. Solo Aragón (111) y Castilla y León (120) tardan menos, además de la ciudad de Ceuta. Y es donde más se usa la **prestación de asistencia personal**.
+> Es de las comunidades más rápidas de España: según el Imserso, la media fue de **130 días** desde la solicitud hasta la prestación, frente a 293 en el conjunto del país. Solo Aragón (109) y Castilla y León (120) tardan menos, además de la ciudad de Ceuta. Y es donde más se usa la **prestación de asistencia personal**.
 
 ## Quién puede pedirla
 
@@ -67,41 +67,41 @@ La solicitud se dirige al **Instituto Foral de Bienestar Social (IFBS)**, en la 
 
 ## Cuánto tarda
 
-<!-- tabla: Tiempo de tramitación de la dependencia en el País Vasco frente a España (días, datos a 31 de agosto de 2026) -->
+<!-- tabla: Tiempo de tramitación de la dependencia en el País Vasco frente a España (días, datos a 30 de septiembre de 2026) -->
 | | País Vasco | España |
 |---|---|---|
-| De la solicitud al grado | 80 días | 228 días |
-| Del grado a la prestación | 47 días | 52 días |
-| De la solicitud a la prestación | 130 días | 302 días |
-| Personas esperando seis meses o más | 9.007 | 130.162 |
+| De la solicitud al grado | 79 días | 220 días |
+| Del grado a la prestación | 48 días | 50 días |
+| De la solicitud a la prestación | 130 días | 293 días |
+| Personas esperando seis meses o más | 9.051 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3), con los tres territorios juntos. Casi todas las personas que esperan más de seis meses (8.871) ya tienen el grado reconocido y lo que les falta es la resolución de su PIA, es decir, de sus servicios o ayudas.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3), con los tres territorios juntos. Casi todas las personas que esperan más de seis meses (8.917) ya tienen el grado reconocido y lo que les falta es la resolución de su PIA, es decir, de sus servicios o ayudas.
 
 Si tu caso se retrasa, mira [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y [cómo reclamar](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en el País Vasco
 
-A 31 de agosto de 2026, **75.089 personas** tenían resuelto su PIA en el País Vasco, y todas recibían ya alguna prestación. Así se reparten:
+A 30 de septiembre de 2026, **75.257 personas** tenían resuelto su PIA en el País Vasco, y todas recibían ya alguna prestación. Así se reparten:
 
-<!-- tabla: Prestaciones de dependencia en el País Vasco (31 de agosto de 2026) -->
+<!-- tabla: Prestaciones de dependencia en el País Vasco (30 de septiembre de 2026) -->
 | Prestación | Número | % del total |
 |---|---|---|
-| Prestación por cuidados familiares | 40.600 | 37,24 % |
-| Teleasistencia | 29.334 | 26,91 % |
-| Atención residencial | 13.592 | 12,47 % |
-| Centros de día y de noche | 7.905 | 7,25 % |
-| Prestación de asistencia personal | 7.824 | 7,18 % |
-| Ayuda a domicilio | 7.283 | 6,68 % |
-| Prestación vinculada al servicio | 1.346 | 1,23 % |
-| Prevención de la dependencia y promoción de la autonomía | 1.131 | 1,04 % |
+| Prestación por cuidados familiares | 40.783 | 37,34 % |
+| Teleasistencia | 29.294 | 26,82 % |
+| Atención residencial | 13.586 | 12,44 % |
+| Centros de día y de noche | 7.868 | 7,20 % |
+| Prestación de asistencia personal | 7.783 | 7,13 % |
+| Ayuda a domicilio | 7.428 | 6,80 % |
+| Prestación vinculada al servicio | 1.375 | 1,26 % |
+| Prevención de la dependencia y promoción de la autonomía | 1.118 | 1,02 % |
 
 Cada persona recibe de media **1,45 prestaciones**, igual que en el conjunto de España. Lo que distingue a Euskadi:
 
-- La **prestación de asistencia personal**, que paga a un asistente contratado para ayudarte en tu día a día, llega al 7,18 % de las prestaciones, **más de trece veces** la media española (0,53 %). Más de la mitad de todas las de España se pagan aquí.
-- La **atención residencial** (12,47 %) y los **centros de día** (7,25 %) pesan más que en el resto del país (7,50 % y 4,40 %).
-- La **ayuda a domicilio** (6,68 %) pesa mucho menos que en España (16,24 %).
+- La **prestación de asistencia personal**, que paga a un asistente contratado para ayudarte en tu día a día, llega al 7,13 % de las prestaciones, **más de trece veces** la media española (0,53 %). Más de la mitad de todas las de España se pagan aquí.
+- La **atención residencial** (12,44 %) y los **centros de día** (7,20 %) pesan más que en el resto del país (7,45 % y 4,37 %).
+- La **ayuda a domicilio** (6,80 %) pesa mucho menos que en España (16,23 %).
 
-**Cuantía media de la prestación por cuidados familiares en el País Vasco**: 166,45 euros al mes con grado I, 285,69 con grado II y 384,91 con grado III (en España, 172,90, 275,03 y 381,50). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
+**Cuantía media de la prestación por cuidados familiares en el País Vasco**: 166,51 euros al mes con grado I, 285,73 con grado II y 385,50 con grado III (en España, 174,91, 278,78 y 386,36). Lo explicamos en [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ## Preguntas frecuentes
 
@@ -111,7 +111,7 @@ En los servicios sociales de tu ayuntamiento, que envían la solicitud a la dipu
 
 ### ¿Cuánto tarda la dependencia en el País Vasco?
 
-Según el Imserso, la media fue de 130 días desde la solicitud hasta la prestación (datos a agosto de 2026), la tercera comunidad autónoma más rápida, tras Aragón y Castilla y León. En Gipuzkoa, la Diputación tiene tres meses para resolver la valoración.
+Según el Imserso, la media fue de 130 días desde la solicitud hasta la prestación (datos a septiembre de 2026), empatada con La Rioja como la tercera comunidad autónoma más rápida, tras Aragón y Castilla y León. En Gipuzkoa, la Diputación tiene tres meses para resolver la valoración.
 
 ### ¿Qué documentos necesito en Gipuzkoa?
 
@@ -119,7 +119,7 @@ Tu DNI, la solicitud de valoración y un informe de salud básico. La Diputació
 
 ### ¿Qué es la prestación de asistencia personal?
 
-Una ayuda para pagar a un asistente que te acompaña en tu vida diaria, en casa, en el trabajo o en tus estudios. En el País Vasco la cobran 7.824 personas, más que en ninguna otra comunidad.
+Una ayuda para pagar a un asistente que te acompaña en tu vida diaria, en casa, en el trabajo o en tus estudios. En el País Vasco la cobran 7.783 personas, más que en ninguna otra comunidad.
 
 ### ¿Me sirve el grado si me mudo a otra comunidad?
 
@@ -130,7 +130,7 @@ Sí. El grado de dependencia se reconoce en toda España. Al cambiar de comunida
 - [Diputación Foral de Gipuzkoa: valoración de la dependencia (BVD)](https://egoitza.gipuzkoa.eus/es/listado-tramites/-/tramiteak/xehetasuna/6/843).
 - [Diputación Foral de Bizkaia: guía «Valoración de la dependencia» (4 de mayo de 2026)](https://www.bizkaia.eus/es/web/comunicacion/noticias/-/news/detailView/diputacion-foral-de-bizkaia-y-ayuntamiento-de-bilbao-presentan-la-guia-valoracion-de-la-dependencia-para-apoyar-a-personas-dependientes-y-sus-familias).
 - [Diputación Foral de Álava, IFBS: solicitud de reconocimiento de la situación de dependencia (impreso 001)](https://egoitza.araba.eus/documents/1525748/1525983/001CAST+RE.+22-205_form.pdf/5bc3a7da-b512-94d0-92ef-1030fe051bff?t=1656931612363).
-- [Imserso: estadísticas mensuales del SAAD, situación a 31 de agosto de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
+- [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 
 ## Siguiente paso
@@ -143,4 +143,4 @@ Sí. El grado de dependencia se reconoce en toda España. Al cambiar de comunida
 
 *Este artículo es informativo y no sustituye la información de las diputaciones forales de Álava, Bizkaia y Gipuzkoa, que son quienes reconocen la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, corregido el puesto del País Vasco en los tiempos de la dependencia: es la tercera comunidad más rápida, no la primera. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 12 de octubre de 2026, corregido el puesto del País Vasco en los tiempos de la dependencia: es la tercera comunidad más rápida, no la primera. 5 de octubre de 2026, primera versión.*

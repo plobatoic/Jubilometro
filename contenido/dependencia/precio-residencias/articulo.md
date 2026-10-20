@@ -8,7 +8,7 @@ miga: Precio de las residencias
 palabra_clave_principal: precio residencia de mayores
 intencion: informativa
 fase_plan: F1 (artículo n.º 72)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Precio de las residencias de mayores: cuánto cuesta una plaza pública o concertada en cada comunidad y cuánto pagas tú
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del Imserso y del BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del Imserso y del BOE*
 
 > **Respuesta rápida**
 >
@@ -76,6 +76,8 @@ Tu aportación depende de tu **capacidad económica**. El [acuerdo del Consejo T
 
 Son **mínimos comunes**: cada comunidad tiene su propia normativa de copago y puede concretarlos de otra forma, así que pide que te expliquen el cálculo cuando te ofrezcan la plaza.
 
+**Cambio de la reforma de 2026**: la [Ley 4/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el **23 de octubre de 2026**, establece que la capacidad económica es **solo la de la persona** que recibe el servicio y que, al calcularla, **no se computa la vivienda habitual** ([artículos 32 bis y 33 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a33)). También obliga a garantizar un **mínimo exento** y una cantidad para **gastos personales** que se actualice cada año. Las comunidades tienen **un año** para adaptar sus normas: si te ofrecen plaza, pregunta si tu comunidad ya deja fuera la vivienda.
+
 ## Si vas a una residencia privada
 
 - **No hay un precio oficial** de las plazas privadas: depende de la ciudad, la residencia y el grado de dependencia. Como referencia, la Administración paga de media 1.967,45 euros al mes por una plaza concertada.
@@ -100,7 +102,7 @@ Depende de tu comunidad, pero el criterio mínimo común es que pagas según tu 
 
 ### ¿Cuentan la casa y los ahorros para pagar la residencia?
 
-Sí: a partir de los 65 años se suma a tu renta el 5 % de tu patrimonio neto. En una residencia se cuenta también la vivienda habitual, salvo que en ella siga viviendo alguien a tu cargo, por su valor catastral y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros).
+Los ahorros sí: a partir de los 65 años se suma a tu renta el 5 % de tu patrimonio neto. La vivienda habitual se contaba en una residencia, salvo que en ella siguiera viviendo alguien a tu cargo, pero la reforma de la ley de dependencia, en vigor desde el 23 de octubre de 2026, dice que no debe computarse. Las comunidades tienen un año para adaptar sus normas, así que pregunta cómo lo aplica la tuya.
 
 ### ¿Qué ayuda hay para pagar una residencia privada?
 
@@ -114,6 +116,7 @@ Donde hay más plazas por habitante mayor: Castilla y León (7,55 por cada 100 m
 
 - [Imserso: Servicios sociales dirigidos a personas mayores en España, diciembre de 2024 (atención residencial: plazas, cobertura y precios)](https://imserso.es/el-imserso/documentacion/estadisticas/servicios-sociales-dirigidos-a-personas-mayores-en-espana-diciembre-2024).
 - [Acuerdo del Consejo Territorial para la mejora del sistema de dependencia (Resolución de 13 de julio de 2012)](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468) (BOE).
+- [Ley 4/2026, de reforma de la ley de dependencia: capacidad económica y copago (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Real Decreto 1051/2013, anexo IV (cuantías de la prestación vinculada)](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 - [Ley del IRPF, artículo 7](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764) (BOE).
 
@@ -127,4 +130,4 @@ Donde hay más plazas por habitante mayor: Castilla y León (7,55 por cada 100 m
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien fija el precio y el copago de sus plazas. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): la vivienda habitual deja de computar en la capacidad económica. 28 de septiembre de 2026, primera versión.*

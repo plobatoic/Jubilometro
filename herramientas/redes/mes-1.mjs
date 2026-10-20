@@ -525,10 +525,10 @@ ${FB_WEB}`,
   {
     fecha: '2026-10-27', banco: 'perenne', red: 'x', tipo: 'Hilo', pilar: 'Familias y cuidados', fuente: '/dependencia/tiempos-dependencia/',
     partes: [
-      `¿Cuánto tarda la dependencia? La ley da seis meses. La media real en España es de 302 días, y depende mucho de dónde vivas. Hilo con los datos del Imserso.`,
-      `1. De media, 228 días hasta que te reconocen el grado y 52 más hasta que te asignan la prestación (resoluciones de septiembre de 2025 a agosto de 2026).`,
-      `2. Las más rápidas: Ceuta, con 78 días, y Aragón, con 111.`,
-      `3. Las más lentas: Asturias, con 416 días, y la Región de Murcia, con 536.`,
+      `¿Cuánto tarda la dependencia? La ley da seis meses. La media real en España es de 293 días, y depende mucho de dónde vivas. Hilo con los datos del Imserso.`,
+      `1. De media, 220 días hasta que te reconocen el grado y 50 más hasta que te asignan la prestación (resoluciones de octubre de 2025 a septiembre de 2026).`,
+      `2. Las más rápidas: Ceuta, con 75 días, y Aragón, con 109.`,
+      `3. Las más lentas: Asturias, con 413 días, y la Región de Murcia, con 529.`,
       `4. Si pasan seis meses sin resolución, tu derecho empieza a contar igualmente desde ese momento. Por eso conviene pedirla cuanto antes.`,
       `5. Los días de tu comunidad y qué hacer si se retrasa: ${L('espera-dependencia', 'x')}`,
     ],
@@ -562,9 +562,9 @@ A más grado, más horas de ayuda a domicilio y ayudas más altas. ${FB_WEB}`,
   },
   {
     fecha: '2026-10-27', banco: 'perenne', red: 'linkedin', pilar: 'Profesionales', fuente: '/dependencia/tiempos-dependencia/',
-    texto: `La ley de dependencia da a las comunidades seis meses para resolver. Según las estadísticas del Imserso (resoluciones de septiembre de 2025 a agosto de 2026), la media real en España es de 302 días: 228 hasta el reconocimiento del grado y 52 más hasta la prestación.
+    texto: `La ley de dependencia da a las comunidades seis meses para resolver. Según las estadísticas del Imserso (resoluciones de octubre de 2025 a septiembre de 2026), la media real en España es de 293 días: 220 hasta el reconocimiento del grado y 50 más hasta la prestación.
 
-La diferencia entre territorios es enorme: 78 días en Ceuta y 111 en Aragón frente a 416 en Asturias y 536 en la Región de Murcia.
+La diferencia entre territorios es enorme: 75 días en Ceuta y 109 en Aragón frente a 413 en Asturias y 529 en la Región de Murcia.
 
 Para trabajadores sociales y servicios de atención a mayores, hemos ordenado los datos por comunidad, con lo que se puede hacer cuando se pasa el plazo. Enlace en el primer comentario.`,
     comentario: `Tiempos de la dependencia por comunidad: ${L('espera-dependencia', 'in')}`,

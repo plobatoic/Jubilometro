@@ -8,7 +8,7 @@ miga: Residencia pública o privada
 palabra_clave_principal: residencia pública o privada
 intencion: informativa
 fase_plan: F2 (artículo n.º 71)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Residencia de mayores pública, concertada o privada: diferencias, cuánto pagas en cada una y cómo conseguir plaza
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
 
 > **Respuesta rápida**
 >
@@ -57,6 +57,8 @@ Para empezar, hay que pedir el reconocimiento de la dependencia: lo explicamos e
 - **Tu capacidad económica** es tu renta anual más, desde los 65 años, el **5 % de tu patrimonio neto**. Se divide entre 12.
 - **La vivienda habitual** solo cuenta si no queda viviendo en ella nadie a tu cargo, por su **valor catastral** y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (**hasta 300.000 euros**): con estos mínimos, en muchos casos cuenta poco o nada.
 - **Pagas** esa cantidad menos **114 euros** para tus gastos personales (el 19 % del IPREM), sin pasar del **90 % del coste** de la plaza.
+
+**Cambio de la reforma de 2026**: la [Ley 4/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el **23 de octubre de 2026**, establece que la capacidad económica es **solo la de la persona** que recibe el servicio y que, al calcularla, **no se computa la vivienda habitual** ([artículos 32 bis y 33 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a33)). También obliga a garantizar un **mínimo exento** y una cantidad para **gastos personales** que se actualice cada año. Las comunidades tienen **un año** para adaptar sus normas: si te ofrecen plaza, pregunta si tu comunidad ya deja fuera la vivienda.
 
 **En una privada con prestación vinculada**, la ayuda es el **coste de la plaza más 114 euros menos tu capacidad económica**, con el máximo de **747,25 euros al mes** ([Real Decreto 1051/2013, anexo IV](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)). Toda la ayuda tiene que ir a pagar la residencia.
 
@@ -104,13 +106,14 @@ La prestación económica vinculada al servicio: hasta 747,25 euros al mes con g
 
 ### ¿Cuenta la casa para pagar la residencia?
 
-Solo si no sigue viviendo en ella alguien a tu cargo, como tu cónyuge. Según los mínimos comunes, se toma su valor catastral aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros), y de lo que quede se suma el 5 %. Cada comunidad puede concretarlo con su normativa.
+Con los mínimos comunes de 2012, solo si no sigue viviendo en ella alguien a tu cargo, como tu cónyuge, por su valor catastral y aplicando la exención de vivienda habitual del Impuesto sobre el Patrimonio (hasta 300.000 euros). La reforma de la ley de dependencia, en vigor desde el 23 de octubre de 2026, dice que la vivienda habitual no debe computarse, y las comunidades tienen un año para adaptar sus normas. Pregunta cómo lo aplica la tuya.
 
 ## Fuentes oficiales
 
 - [Ley 39/2006 de dependencia: artículos 14, 16 y 17](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (BOE).
 - [Real Decreto 1051/2013: artículos 2 y 10 y anexo IV](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811) (BOE).
 - [Acuerdo del Consejo Territorial de 2012 sobre capacidad económica y participación en el coste (Resolución de 13 de julio de 2012)](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468) (BOE).
+- [Ley 4/2026, de reforma de la ley de dependencia: capacidad económica y copago (en vigor desde el 23 de octubre de 2026)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) (BOE).
 - [Imserso: Servicios sociales dirigidos a personas mayores en España, diciembre de 2024](https://imserso.es/el-imserso/documentacion/estadisticas/servicios-sociales-dirigidos-a-personas-mayores-en-espana-diciembre-2024).
 
 ## Siguiente paso
@@ -123,4 +126,4 @@ Solo si no sigue viviendo en ella alguien a tu cargo, como tu cónyuge. Según l
 
 *Este artículo es informativo y no sustituye la información de los servicios sociales de tu comunidad autónoma, que es quien reconoce la dependencia y fija el copago. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): la vivienda habitual deja de computar en la capacidad económica. 28 de septiembre de 2026, primera versión.*
