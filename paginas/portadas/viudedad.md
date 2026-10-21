@@ -13,10 +13,10 @@ Además de la viudedad, la muerte de un familiar puede dar derecho a otras pensi
 ## Matrimonios, parejas de hecho y personas divorciadas
 
 - **Matrimonio**: basta con estar casados en la fecha del fallecimiento. Solo si la muerte se debe a una enfermedad común anterior a la boda, se exige un año de matrimonio o hijos en común; si no se cumple, se cobra la [prestación temporal de viudedad](/viudedad/prestacion-temporal/) durante dos años.
-- **Pareja de hecho**: tiene los mismos derechos si estaba inscrita en un registro (o en documento público) al menos **dos años antes** del fallecimiento y había convivido **cinco años seguidos**. Con hijos en común basta la inscripción de dos años. Lo explicamos en [viudedad de parejas de hecho](/viudedad/pareja-de-hecho/).
-- **Divorciados o separados**: solo cobran si recibían una **pensión compensatoria** que se extingue con la muerte, con excepciones para las víctimas de violencia de género y para quienes se separaron antes de 2008. Lo detallamos en [viudedad tras divorcio o separación](/viudedad/divorcio-separacion/).
+- **Pareja de hecho**: tiene los mismos derechos si estaba inscrita en un registro (o en documento público) al menos **dos años antes** del fallecimiento y había convivido **cinco años seguidos**. Con hijos en común, desde el 21 de octubre de 2026 no hace falta la inscripción: bastan dos años de convivencia acreditados con el padrón ([Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872)), y si el fallecimiento fue anterior se puede pedir hasta el 21 de octubre de 2027. Lo explicamos en [viudedad de parejas de hecho](/viudedad/pareja-de-hecho/).
+- **Divorciados o separados**: solo cobran si recibían una **pensión compensatoria** que se extingue con la muerte, con excepciones para las víctimas de violencia de género y para quienes se separaron o divorciaron antes de 2008 (con 65 años y 15 de matrimonio, y desde el 21 de octubre de 2026 aunque cobren otra pensión pública). Lo detallamos en [viudedad tras divorcio o separación](/viudedad/divorcio-separacion/).
 
-Volver a casarse normalmente hace perder la pensión, salvo que tengas más de 61 años, la viudedad sea tu principal ingreso y los ingresos del nuevo matrimonio sean bajos: todas las condiciones, en [viudedad y nuevo matrimonio](/viudedad/nuevo-matrimonio/).
+Volver a casarse normalmente hace perder la pensión, salvo que tengas más de 61 años (o una incapacidad o discapacidad grave) y la viudedad sea al menos el 75 % de tus ingresos; si los ingresos del nuevo matrimonio pasan de dos veces el salario mínimo (34.188 euros al año en 2026), la viudedad se reduce. Todas las condiciones, en [viudedad y nuevo matrimonio](/viudedad/nuevo-matrimonio/).
 
 ## Cuánto se cobra: 52 %, 60 % o 70 %
 

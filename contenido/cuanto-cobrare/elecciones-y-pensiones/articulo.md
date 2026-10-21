@@ -8,7 +8,7 @@ miga: Elecciones y pensiones
 palabra_clave_principal: elecciones pensiones subida 2027
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-10-10
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-10-10
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027
 
-*Actualizado el 10 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -60,7 +60,7 @@ La ley marca la fórmula, pero cada año hace falta una norma que la aplique y f
 
 ### Qué puede hacer el Gobierno antes y después del 29 de noviembre
 
-- **Hasta las elecciones**, el Gobierno conserva todas sus funciones y puede aprobar un real decreto-ley. Con las Cortes disueltas, lo convalida la **Diputación Permanente** del Congreso ([artículos 78 y 86 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)).
+- **Hasta las elecciones**, el Gobierno conserva todas sus funciones y puede aprobar un real decreto-ley. Con las Cortes disueltas, lo convalida la **Diputación Permanente** del Congreso ([artículos 78 y 86 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)). Ya ha pasado en esta campaña: el [Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872), de 20 de octubre, cambió la [viudedad de las parejas de hecho](/viudedad/pareja-de-hecho/) con hijos en común, la orfandad y las bajas especiales, y está en vigor desde el 21 de octubre a la espera de esa convalidación.
 - **Desde el 29 de noviembre**, el Gobierno queda **en funciones** ([artículo 101 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)) hasta que haya uno nuevo. Un Gobierno en funciones se limita al despacho ordinario de los asuntos, salvo en casos de urgencia o de interés general que lo justifiquen ([artículo 21.3 de la Ley 50/1997, del Gobierno](https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a21)). No puede presentar proyectos de ley ni los presupuestos.
 
 ### Qué pasó otras veces
@@ -154,4 +154,4 @@ Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tar
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). No recoge opiniones políticas: solo lo que dicen las normas y los organismos oficiales. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 10 de octubre de 2026, primera versión.*
+*Historial de cambios: 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*

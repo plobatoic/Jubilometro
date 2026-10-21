@@ -18,11 +18,11 @@ No basta con cumplir los requisitos: hay que **acreditarse** en el plazo que abr
 - En **mundicolor.es** (911 590 911), los viajes a Baleares y Canarias.
 - O en una **agencia de viajes autorizada**, que cobra 15 euros por persona de gestión.
 
-Pagas una señal y el resto 45 días antes de salir. Todos los pasos, en [cómo reservar los viajes del IMSERSO](/imserso/solicitar-viajes/). Y si el día que te tocaba no quedaban plazas, no está todo perdido: durante toda la temporada vuelven a la venta las que otros cancelan, sobre todo unos 45 días antes de cada salida. Te contamos cómo encontrarlas en [plazas libres del IMSERSO](/imserso/plazas-libres/).
+Pagas una señal y el resto 45 días antes de salir; si reservas con 45 días o menos, lo pagas todo en 48 horas (en los turnos de octubre y noviembre, al reservar). Todos los pasos, en [cómo reservar los viajes del IMSERSO](/imserso/solicitar-viajes/). Y si el día que te tocaba no quedaban plazas, no está todo perdido: durante toda la temporada vuelven a la venta las que otros cancelan, sobre todo unos 45 días antes de cada salida. Te contamos cómo encontrarlas en [plazas libres del IMSERSO](/imserso/plazas-libres/).
 
 ## Termalismo: balnearios y tratamientos
 
-El [Programa de Termalismo](/imserso/termalismo/) ofrece estancias de **10 días (9 noches)** en un balneario, con pensión completa, reconocimiento médico y el tratamiento termal que te prescriban, por entre **302,14 y 452,90 euros** por persona según el balneario y el mes. La convocatoria de 2026 tiene 197.000 plazas de febrero a diciembre. Pueden ir los pensionistas de jubilación o incapacidad permanente, los de viudedad desde los 55 años y otras personas desde los 60 o los 65, siempre que se valgan por sí mismos, necesiten el tratamiento y tengan puntos suficientes en el baremo.
+El [Programa de Termalismo](/imserso/termalismo/) ofrece estancias de **10 días (9 noches)** en un balneario, con pensión completa, reconocimiento médico y el tratamiento termal que te prescriban, por entre **302,14 y 452,90 euros** por persona según el balneario y el mes. La convocatoria de 2026 tiene 197.000 plazas de febrero a diciembre; para los turnos que quedan, solo sigue abierta la lista de espera, hasta el 31 de octubre de 2026. Pueden ir los pensionistas de jubilación o incapacidad permanente, los de viudedad desde los 55 años y otras personas desde los 60 o los 65, siempre que se valgan por sí mismos, necesiten el tratamiento y tengan puntos suficientes en el baremo.
 
 **Ejemplo:** una pareja de jubilados que va 10 días a un balneario de nivel económico en febrero, marzo, noviembre o diciembre paga 604,28 euros entre los dos, con el alojamiento, la comida y los tratamientos incluidos; el transporte hasta el balneario va aparte.
 

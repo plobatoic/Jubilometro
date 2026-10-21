@@ -98,4 +98,4 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | Final de diciembre | Real decreto de la subida: cifras oficiales en guías y calculadoras |
 | 1 de enero de 2027 | Gran actualización: mínimas, no contributiva, bases, títulos 2026 → 2027 y 67 años; en la portada, quitar «Novedad» de la calculadora de la subida y renovar «Ahora mismo» |
 
-Sin fecha fija: completar la guía de dependencia de Navarra con los documentos y teléfonos de la ficha oficial (cuando navarra.es responda), cifras del Imserso y teléfonos cada trimestre, y más guías con demanda. Las del número de la Seguridad Social, prejubilación y emigrantes retornados ya están publicadas (12 de octubre), con sus publicaciones en el banco de redes.
+Sin fecha fija: cifras del Imserso y teléfonos cada trimestre, y más guías con demanda. Las del número de la Seguridad Social, prejubilación y emigrantes retornados ya están publicadas (12 de octubre), con sus publicaciones en el banco de redes.
