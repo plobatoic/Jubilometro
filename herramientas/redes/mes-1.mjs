@@ -381,7 +381,7 @@ El incremento se suspende mientras se trabaja, por cuenta ajena o propia, y se r
   },
   {
     fecha: '2026-10-21', banco: 'perenne', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/viudedad/pareja-de-hecho/',
-    texto: `Las parejas de hecho cobran la viudedad igual que un matrimonio si estaban inscritas al menos 2 años antes del fallecimiento y convivían 5 años seguidos. Con hijos en común basta la inscripción.
+    texto: `Las parejas de hecho cobran la viudedad igual que un matrimonio si estaban inscritas al menos 2 años antes del fallecimiento y convivían 5 años. Con hijos en común bastan 2 años de convivencia, sin inscripción.
 
 Desde 2022 no hay límite de ingresos. ${L('pareja-de-hecho', 'x')}`,
   },
@@ -904,7 +904,7 @@ ${L('incapacidad-total', 'x')}`,
     fecha: '2026-11-07', banco: 'perenne', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/viudedad/pareja-de-hecho/',
     texto: `Pensión de viudedad si no estabais casados: las parejas de hecho la cobran en las mismas condiciones que un matrimonio si cumplen dos requisitos.
 
-Estar inscritas en un registro de parejas de hecho (o en documento público) al menos dos años antes del fallecimiento, y haber convivido cinco años seguidos justo antes, acreditado con el empadronamiento. Si tenéis hijos en común, basta con la inscripción de dos años.
+Estar inscritas en un registro de parejas de hecho (o en documento público) al menos dos años antes del fallecimiento, y haber convivido cinco años seguidos justo antes, acreditado con el empadronamiento. Si tenéis hijos en común, desde el 21 de octubre de 2026 bastan dos años de convivencia, sin inscripción.
 
 Desde 2022 no hay límite de ingresos. Y si no llegáis a los dos años de inscripción, se puede cobrar una prestación temporal de viudedad durante dos años. ${FB_WEB}`,
   },

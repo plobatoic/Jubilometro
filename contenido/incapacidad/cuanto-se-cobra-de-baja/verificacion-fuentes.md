@@ -20,3 +20,4 @@
 | 14 | Convenios que completan hasta el 100 % | — | Práctica habitual de la negociación colectiva | Redacción prudente («muchos convenios») |
 | 15 | Ejemplo (base 1.800 € → 60 €/día; 432 + 180 + 450 = 1.062 €; AT: 60 + 29 × 45 = 1.365 €) | — | Cálculo propio | Comprobado |
 | 16 | Autónomos: baja a través de la mutua, con reglas propias | — | Sin detalle de porcentajes en el texto | Redacción prudente |
+| 17 | Situaciones especiales 4.ª (menopausia) y 5.ª (violencia de género) del art. 169.1.a); sin cotización mínima (art. 172); subsidio desde el día siguiente a cargo de la entidad gestora (art. 173.1); base reguladora del mes anterior al previo (art. 171.2); reducción del 75 % de cuotas empresariales para mayores de 62 (art. 144.4); efectos el 1/12/2026 (DF 4.ª); DA 64.ª sobre catástrofes | Real Decreto-ley 31/2026, de 20 de octubre (BOE-A-2026-21872, BOE de 21/10/2026, en vigor ese día) | Texto oficial del BOE (21/10/2026) | Verificado |

@@ -80,7 +80,7 @@ export const VIDEOS_BANCO = [
   video('video-22-pareja-de-hecho', {
     id: 'video-pareja-de-hecho', pilar: 'Calcula tu caso', fuente: '/viudedad/pareja-de-hecho/',
     titulo: '¿Viudedad sin estar casados? Sí, con dos requisitos',
-    texto: `Las parejas de hecho cobran la viudedad igual que un matrimonio si están inscritas al menos 2 años antes y convivían 5 años seguidos. Requisitos: ${L('pareja-de-hecho', 'yt')}
+    texto: `Las parejas de hecho cobran la viudedad igual que un matrimonio si están inscritas al menos 2 años antes y convivían 5 años seguidos. Con hijos en común, bastan 2 años de convivencia. Requisitos: ${L('pareja-de-hecho', 'yt')}
 
 #viudedad #parejadehecho #pensiones`,
   }),

@@ -8,7 +8,7 @@ miga: Pensión de orfandad
 palabra_clave_principal: pensión de orfandad
 intencion: informativa
 fase_plan: F3 (artículo n.º 42)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Pensión de orfandad en 2026: quién la cobra, cuánto es, hasta qué edad y qué pasa si faltan los dos padres
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -53,7 +53,7 @@ Porcentajes del [artículo 17 de la Orden de 13 de febrero de 1967](https://www.
 
 **Hay un límite**: la suma de la viudedad y las orfandades no puede superar el **100 % de la base reguladora**. Si la viudedad es del 70 % (por cargas familiares), el límite puede superarse, pero las orfandades juntas no pueden pasar del **48 %** ([artículo 229](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a229)).
 
-**Violencia contra la mujer**: si la madre fallece por violencia contra la mujer y los hijos no reúnen los requisitos de la pensión, tienen una **prestación de orfandad** (en 2026, como mínimo 11.603,20 euros al año con un solo beneficiario). El 20 de octubre de 2026, el Consejo de Ministros aprobó un real decreto-ley que, según [ha explicado el Gobierno](https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/201026-rueda-prensa-ministros.aspx), elevará esta protección a una prestación equivalente al **doble del salario mínimo** vigente en cada momento. Se aplicará cuando se publique en el BOE.
+**Violencia contra la mujer**: si la madre fallece por violencia contra la mujer, desde el **21 de octubre de 2026** la pensión de orfandad es, como mínimo, el **doble del salario mínimo** al mes (2.442 euros en 2026), y si los hijos no reúnen los requisitos de la pensión tienen una **prestación de orfandad** de esa misma cuantía. Si hay varios hermanos, se reparten esa cantidad. Además, la pensión **no se pierde si los niños son adoptados** ([Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872), que modifica el [artículo 224](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224)).
 
 ## Ejemplos con una base reguladora de 1.800 euros
 
@@ -63,7 +63,7 @@ Porcentajes del [artículo 17 de la Orden de 13 de febrero de 1967](https://www.
 
 ## Hasta cuándo se cobra y cómo se paga
 
-- **Se extingue** al cumplir la edad límite (salvo incapacidad), por **adopción**, por **matrimonio** (salvo incapacidad) o por fallecimiento. Si al extinguirse no se han cobrado **12 mensualidades**, se paga de una vez lo que falte hasta completarlas ([artículo 21 de la Orden de 1967](https://www.boe.es/buscar/act.php?id=BOE-A-1967-2876)).
+- **Se extingue** al cumplir la edad límite (salvo incapacidad), por **adopción** (salvo si la madre falleció por violencia contra la mujer), por **matrimonio** (salvo incapacidad) o por fallecimiento. Si al extinguirse no se han cobrado **12 mensualidades**, se paga de una vez lo que falte hasta completarlas ([artículo 21 de la Orden de 1967](https://www.boe.es/buscar/act.php?id=BOE-A-1967-2876)).
 - **Es compatible** con cualquier renta del trabajo del huérfano o del progenitor viudo, y con la pensión de viudedad de este ([artículo 225](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a225)). La condición de ganar menos del salario mínimo solo cuenta para ampliar la edad hasta los 25 años.
 - **Se paga a quien tenga a su cargo** al huérfano (normalmente, el otro progenitor).
 - **No tributa en el IRPF** si el huérfano tiene menos de 22 años o está incapacitado para todo trabajo ([artículo 7.h de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7)).
@@ -95,6 +95,7 @@ No, si el huérfano tiene menos de 22 años o está incapacitado para todo traba
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social: artículos 217, 219, 224, 225 y 229](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
+- [Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872) (BOE de 21 de octubre de 2026).
 - [Orden de 13 de febrero de 1967, prestaciones de muerte y supervivencia: artículos 17, 18 y 21](https://www.boe.es/buscar/act.php?id=BOE-A-1967-2876) (BOE).
 - [Real Decreto 241/2026, revalorización de pensiones: anexo I (mínimas de orfandad)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977) (BOE).
 - [Real Decreto 126/2026, salario mínimo interprofesional](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3815) (BOE).
@@ -110,4 +111,4 @@ No, si el huérfano tiene menos de 22 años o está incapacitado para todo traba
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre sobre la prestación de orfandad por violencia contra la mujer (pendiente del BOE). 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 21 de octubre de 2026, el Real Decreto-ley 31/2026 ya está en el BOE: orfandad por violencia contra la mujer. 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre sobre la prestación de orfandad por violencia contra la mujer (pendiente del BOE). 29 de septiembre de 2026, primera versión.*

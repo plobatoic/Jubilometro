@@ -28,6 +28,7 @@ export const DEPENDENCIA = [
   comunidad('la-rioja', 'La Rioja', `Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 130 días hasta la prestación, de las más rápidas de España.`),
   comunidad('madrid', 'Comunidad de Madrid', `Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 327 días desde la solicitud hasta la prestación (293 en España).`),
   comunidad('murcia', 'Región de Murcia', `Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.`),
+  comunidad('navarra', 'Navarra', `Dependencia en Navarra: se empieza en tu servicio social de base (en Pamplona, la unidad de barrio), y la ley foral da tres meses para el grado. Media real: 146 días hasta el grado y 228 hasta la prestación, frente a 293 en España.`),
   comunidad('pais-vasco', 'País Vasco', `Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, de las más rápidas de España.`),
 
   /* ---------- Pedir y reclamar ---------- */

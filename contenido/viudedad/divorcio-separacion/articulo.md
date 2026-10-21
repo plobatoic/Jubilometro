@@ -8,7 +8,7 @@ miga: Viudedad tras divorcio o separación
 palabra_clave_principal: pensión de viudedad divorciados
 intencion: informativa
 fase_plan: F3 (artículo n.º 41)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,13 +18,13 @@ fuentes_legales:
 
 # Pensión de viudedad tras un divorcio o una separación: cuándo se cobra, cuánto y cómo se reparte con el nuevo cónyuge
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > Si estabas **divorciado o separado judicialmente**, tienes derecho a la pensión de viudedad de tu ex solo si **cobrabas una pensión compensatoria** que se extingue con su muerte, y la viudedad **no puede superar** esa pensión compensatoria. Además, no puedes haberte vuelto a casar ni haber formado una pareja de hecho ([artículo 220 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a220)).
 >
-> Hay dos excepciones: las **víctimas de violencia de género** no necesitan pensión compensatoria, y quienes se divorciaron o separaron **antes de 2008** pueden cobrarla con **65 años o más**, sin otra pensión pública y tras **15 años de matrimonio**. Si tu ex se volvió a casar, la pensión se **reparte según el tiempo vivido** con cada uno, con un mínimo del **40 %** para el cónyuge actual.
+> Hay dos excepciones: las **víctimas de violencia de género** no necesitan pensión compensatoria, y quienes se divorciaron o separaron **antes de 2008** pueden cobrarla con **65 años o más** y tras **15 años de matrimonio**, aunque tengan otra pensión pública (desde el 21 de octubre de 2026). Si tu ex se volvió a casar, la pensión se **reparte según el tiempo vivido** con cada uno, con un mínimo del **40 %** para el cónyuge actual.
 
 ## Los requisitos
 
@@ -39,7 +39,7 @@ fuentes_legales:
 ## Las excepciones
 
 - **Víctimas de violencia de género**: tienen derecho aunque no cobraran pensión compensatoria, si acreditan que lo eran en el momento de la separación o el divorcio: con una sentencia firme, el archivo de la causa por fallecimiento del agresor, una orden de protección, un informe del Ministerio Fiscal o cualquier otro medio de prueba.
-- **Divorcios y separaciones anteriores a 2008**: tienen derecho sin pensión compensatoria las personas de **65 años o más**, **sin derecho a otra pensión pública**, cuyo matrimonio con el fallecido duró **al menos 15 años** ([disposición transitoria 13.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724)). La cuantía se calcula con la normativa anterior a 2008. No la tiene quien era **deudor** de la pensión compensatoria.
+- **Divorcios y separaciones anteriores a 2008**: tienen derecho sin pensión compensatoria las personas de **65 años o más** cuyo matrimonio con el fallecido duró **al menos 15 años**. Desde el **21 de octubre de 2026** ya no se exige **no tener derecho a otra pensión pública** ([Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872)), y quien tenía suspendida esta viudedad u otra pensión contributiva por ese motivo puede pedir que se la vuelvan a pagar **hasta el 21 de octubre de 2027**, con efectos desde el mes siguiente a la solicitud y con el límite de la suma de pensiones públicas ([disposición transitoria 13.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724)). La cuantía se calcula con la normativa anterior a 2008. No la tiene quien era **deudor** de la pensión compensatoria.
 
 ## Si tu ex se volvió a casar: el reparto
 
@@ -53,7 +53,7 @@ Cuando hay varias personas con derecho (por ejemplo, el ex cónyuge y el viudo o
 
 **Luis estuvo casado 20 años con Carmen y luego 10 con Marta, con quien vivía al morir.** Por tiempo vivido, a Carmen le corresponderían dos tercios y a Marta, uno, pero a Marta se le garantiza el **40 %**: Marta cobra el 40 % de la pensión y Carmen, el **60 %**, siempre que su pensión compensatoria sea al menos esa cantidad.
 
-**Rosa, 70 años, se divorció en 2005 tras 25 años casada** y nunca cobró pensión compensatoria. No tiene otra pensión pública. Por la disposición transitoria, **sí tiene derecho** a la viudedad.
+**Rosa, 70 años, se divorció en 2005 tras 25 años casada** y nunca cobró pensión compensatoria. Cobra su propia pensión de jubilación, que desde el 21 de octubre de 2026 ya no lo impide: por la disposición transitoria, **sí tiene derecho** a la viudedad.
 
 ## Preguntas frecuentes
 
@@ -63,7 +63,7 @@ Solo si cobrabas una pensión compensatoria que se extingue con su muerte, y no 
 
 ### ¿Y si me divorcié antes de 2008?
 
-Si tienes 65 años o más, no tienes derecho a otra pensión pública y estuviste casada al menos 15 años, puedes cobrarla aunque no tuvieras pensión compensatoria.
+Si tienes 65 años o más y estuviste casada al menos 15 años, puedes cobrarla aunque no tuvieras pensión compensatoria. Desde el 21 de octubre de 2026 da igual que tengas otra pensión pública, y si te la suspendieron por eso, puedes pedir que te la vuelvan a pagar hasta el 21 de octubre de 2027.
 
 ### ¿Cómo se reparte la viudedad entre la ex y la viuda?
 
@@ -80,6 +80,7 @@ Sin sentencia de separación o divorcio seguíais casados legalmente, así que e
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social: artículos 219, 220 y 221 y disposición transitoria 13.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
+- [Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872) (BOE de 21 de octubre de 2026).
 - [Código Civil: artículos 97 y 98](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763) (BOE).
 
 ## Siguiente paso
@@ -92,4 +93,4 @@ Sin sentencia de separación o divorcio seguíais casados legalmente, así que e
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, corrección de una concordancia. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 21 de octubre de 2026, el Real Decreto-ley 31/2026 quita el requisito de no tener otra pensión pública en los divorcios anteriores a 2008. 20 de octubre de 2026, corrección de una concordancia. 29 de septiembre de 2026, primera versión.*

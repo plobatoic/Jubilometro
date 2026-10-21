@@ -8,7 +8,7 @@ miga: Solicitar la dependencia
 palabra_clave_principal: solicitar la dependencia
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo solicitar la dependencia paso a paso: documentos, dónde se pide y cómo preparar la visita de valoración
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -59,11 +59,11 @@ La norma estatal ([artículo 3 del Real Decreto 1051/2013](https://www.boe.es/bu
 
 La tramita la **comunidad autónoma** donde vive la persona ([artículo 28](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)), y la resolución vale en toda España. La puede pedir **la propia persona o su representante** (un familiar con autorización, un tutor o curador).
 
-Tenemos una guía con los pasos, los documentos, los plazos y los teléfonos de estas 16 comunidades:
+Tenemos una guía con los pasos, los plazos y las ayudas de cada comunidad:
 
 - [Andalucía](/dependencia/andalucia/), [Aragón](/dependencia/aragon/), [Asturias](/dependencia/asturias/), [Illes Balears](/dependencia/baleares/), [Canarias](/dependencia/canarias/) y [Cantabria](/dependencia/cantabria/).
 - [Castilla-La Mancha](/dependencia/castilla-la-mancha/), [Castilla y León](/dependencia/castilla-y-leon/), [Cataluña](/dependencia/cataluna/), [Comunitat Valenciana](/dependencia/comunitat-valenciana/) y [Extremadura](/dependencia/extremadura/).
-- [Galicia](/dependencia/galicia/), [La Rioja](/dependencia/la-rioja/), [Comunidad de Madrid](/dependencia/madrid/), [Región de Murcia](/dependencia/murcia/) y [País Vasco](/dependencia/pais-vasco/).
+- [Galicia](/dependencia/galicia/), [La Rioja](/dependencia/la-rioja/), [Comunidad de Madrid](/dependencia/madrid/), [Región de Murcia](/dependencia/murcia/), [Navarra](/dependencia/navarra/) y [País Vasco](/dependencia/pais-vasco/).
 
 En todas, si tienes dudas, empieza por los **servicios sociales de tu ayuntamiento**: te dan el modelo, te ayudan a rellenarlo y, en muchas comunidades, hacen el informe social.
 
@@ -143,4 +143,4 @@ En casi todas las comunidades, no: la solicitud y la valoración son gratuitas. 
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): plazo de tres meses del artículo 28 y tramitación urgente; la tasa de Murcia y la lista de comunidades. 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*
+*Historial de cambios: 21 de octubre de 2026, enlace a la guía nueva de Navarra. 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): plazo de tres meses del artículo 28 y tramitación urgente; la tasa de Murcia y la lista de comunidades. 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*

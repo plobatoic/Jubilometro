@@ -8,7 +8,7 @@ miga: Cuánto tarda la dependencia
 palabra_clave_principal: cuánto tarda la dependencia
 intencion: informativa
 fase_plan: F2 (artículo n.º 69)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cuánto tarda la dependencia: días de espera en cada comunidad autónoma y qué puedes hacer mientras
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del Imserso y del BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del Imserso y del BOE*
 
 > **Respuesta rápida**
 >
@@ -44,7 +44,7 @@ Tiempos medios calculados por el Imserso sobre las resoluciones dictadas entre e
 | Melilla | 76 | 90 | 178 |
 | [Illes Balears](/dependencia/baleares/) | 90 | 91 | 188 |
 | [Canarias](/dependencia/canarias/) | 138 | 45 | 214 |
-| Navarra | 146 | 86 | 228 |
+| [Navarra](/dependencia/navarra/) | 146 | 86 | 228 |
 | [Cataluña](/dependencia/cataluna/) | 198 | 51 | 261 |
 | [Extremadura](/dependencia/extremadura/) | 155 | 122 | 277 |
 | [Comunitat Valenciana](/dependencia/comunitat-valenciana/) | 253 | 42 | 297 |
@@ -118,4 +118,4 @@ Presenta un escrito en los servicios sociales de tu comunidad pidiendo que resue
 
 *Este artículo es informativo y no sustituye la información de los servicios sociales de tu comunidad autónoma. Los tiempos son medias oficiales: tu expediente puede tardar más o menos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente, y datos del Imserso a 30 de septiembre de 2026; medias por fases aclaradas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 21 de octubre de 2026, enlace a la guía nueva de Navarra. 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente, y datos del Imserso a 30 de septiembre de 2026; medias por fases aclaradas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*

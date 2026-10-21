@@ -15,3 +15,4 @@
 | 11 | Mínimas de viudedad 2026: 1.256,60 / 936,20 / 875,90 / 709,40 €/mes | RD 241/2026, anexo I (ficha de «Pensión mínima») | Texto del BOE | Verificado en BOE |
 | 12 | Límite de la suma de pensiones: 3.359,60 €/mes en 2026 | RD 241/2026, art. 3 | Texto del BOE | Verificado en BOE |
 | 13 | Ejemplos (Marta 936 €; Jorge; Rosa limitada a 400 €) | — | Aplicación de las reglas anteriores | Cálculo propio |
+| 14 | Parejas con hijos en común: dos años de convivencia sin inscripción (art. 221.2); DT 48.ª (plazo de doce meses) y rehabilitación de la DA 40.ª | Real Decreto-ley 31/2026, de 20 de octubre (BOE-A-2026-21872, BOE de 21/10/2026, en vigor ese día) | Texto oficial del BOE (21/10/2026) | Verificado |

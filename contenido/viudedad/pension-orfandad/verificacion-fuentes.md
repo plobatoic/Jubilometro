@@ -15,3 +15,4 @@
 | 11 | SMI 2026: 1.221 € × 14 = 17.094 €/año | RD 126/2026, art. 1 | Texto del BOE | Verificado en BOE |
 | 12 | Exención de IRPF de pensiones de orfandad de menores de 22 años o incapacitados para todo trabajo | Ley del IRPF, art. 7.h | Texto consolidado del BOE | Verificado en BOE |
 | 13 | Ejemplos (base 1.800 €): viudedad 52 % = 936; orfandad 20 % = 360; 70 % = 1.260 (total 1.980; orfandades 40 % ≤ 48 %); orfandad absoluta: 360 + 468 = 828 € cada uno | — | Cálculo propio | Cálculo propio |
+| 14 | Orfandad por violencia contra la mujer: mínimo mensual y prestación iguales al doble del SMI (2 × 1.221 = 2.442 € en 2026), importe conjunto si hay varios beneficiarios; no se extingue por adopción (art. 224) | Real Decreto-ley 31/2026, de 20 de octubre (BOE-A-2026-21872, BOE de 21/10/2026, en vigor ese día) | Texto oficial del BOE (21/10/2026) | Verificado |

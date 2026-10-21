@@ -577,7 +577,7 @@ export const PUBLICACIONES = [
   "diapositivas": [
    "Viudedad: las seis dudas que más nos llegan, con respuesta corta.",
    "¿Hay límite de edad o de ingresos? No. Y se puede cobrar trabajando.",
-   "¿Y si no estábamos casados? Las parejas de hecho la cobran si están inscritas 2 años antes y convivían 5.",
+   "¿Y si no estábamos casados? Las parejas de hecho la cobran si están inscritas 2 años antes y convivían 5. Con hijos en común, bastan 2 años de convivencia.",
    "¿Y si me vuelvo a casar? Se pierde, salvo con más de 61 años y ingresos bajos.",
    "¿Y si estaba divorciada? Solo si cobrabas una pensión compensatoria, con excepciones.",
    "¿Es compatible con mi jubilación? Sí, con un tope de 3.359,60 € al mes entre las dos en 2026.",
@@ -1545,7 +1545,7 @@ export const PUBLICACIONES = [
   "red": "linkedin",
   "pilar": "Profesionales",
   "fuente": "/viudedad/divorcio-separacion/",
-  "texto": "Para abogados de familia: un detalle del convenio de divorcio que tiene consecuencias años después, cuando fallece uno de los excónyuges.\n\nSegún el artículo 220 de la Ley General de la Seguridad Social, la persona divorciada o separada judicialmente solo accede a la pensión de viudedad si era acreedora de una pensión compensatoria del artículo 97 del Código Civil que se extingue con el fallecimiento. La viudedad queda limitada al importe de esa compensatoria.\n\nLas excepciones son dos: las víctimas de violencia de género, que no necesitan la compensatoria, y las separaciones y divorcios anteriores a 2008, con 65 años, sin otra pensión pública y al menos 15 años de matrimonio. Si hay cónyuge actual, la pensión se reparte por tiempo de convivencia, con un mínimo del 40 % para él o ella.\n\nLo resumimos en el enlace del primer comentario.",
+  "texto": "Para abogados de familia: un detalle del convenio de divorcio que tiene consecuencias años después, cuando fallece uno de los excónyuges.\n\nSegún el artículo 220 de la Ley General de la Seguridad Social, la persona divorciada o separada judicialmente solo accede a la pensión de viudedad si era acreedora de una pensión compensatoria del artículo 97 del Código Civil que se extingue con el fallecimiento. La viudedad queda limitada al importe de esa compensatoria.\n\nLas excepciones son dos: las víctimas de violencia de género, que no necesitan la compensatoria, y las separaciones y divorcios anteriores a 2008, con 65 años y al menos 15 años de matrimonio (desde el Real Decreto-ley 31/2026, aunque se cobre otra pensión pública). Si hay cónyuge actual, la pensión se reparte por tiempo de convivencia, con un mínimo del 40 % para él o ella.\n\nLo resumimos en el enlace del primer comentario.",
   "comentario": "Viudedad tras un divorcio: jubilometro.com/divorcio/in",
   "fecha": "2026-11-26",
   "hora": "08:30"
@@ -2298,7 +2298,7 @@ export const PUBLICACIONES = [
    [
     "19-26 s",
     "Requisito 2 · 5 años de convivencia",
-    "Y haber convivido cinco años seguidos justo antes. Si tenéis hijos en común, basta con la inscripción."
+    "Y haber convivido cinco años seguidos justo antes. Con hijos en común, bastan dos años, sin inscripción."
    ],
    [
     "26-30 s",
@@ -2310,7 +2310,7 @@ export const PUBLICACIONES = [
   "pilar": "Calcula tu caso",
   "fuente": "/viudedad/pareja-de-hecho/",
   "titulo": "¿Viudedad sin estar casados? Sí, con dos requisitos",
-  "texto": "Las parejas de hecho cobran la viudedad igual que un matrimonio si están inscritas al menos 2 años antes y convivían 5 años seguidos. Requisitos: jubilometro.com/pareja-de-hecho/yt\n\n#viudedad #parejadehecho #pensiones",
+  "texto": "Las parejas de hecho cobran la viudedad igual que un matrimonio si están inscritas al menos 2 años antes y convivían 5 años seguidos. Con hijos en común, bastan 2 años de convivencia. Requisitos: jubilometro.com/pareja-de-hecho/yt\n\n#viudedad #parejadehecho #pensiones",
   "fecha": "2026-12-09",
   "hora": "13:00"
  },
@@ -3188,7 +3188,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Errores que cuestan dinero",
   "fuente": "/viudedad/pareja-de-hecho/",
-  "texto": "Las parejas de hecho cobran la viudedad igual que un matrimonio si estaban inscritas al menos 2 años antes del fallecimiento y convivían 5 años seguidos. Con hijos en común basta la inscripción.\n\nDesde 2022 no hay límite de ingresos. jubilometro.com/pareja-de-hecho/x",
+  "texto": "Las parejas de hecho cobran la viudedad igual que un matrimonio si estaban inscritas al menos 2 años antes del fallecimiento y convivían 5 años. Con hijos en común bastan 2 años de convivencia, sin inscripción.\n\nDesde 2022 no hay límite de ingresos. jubilometro.com/pareja-de-hecho/x",
   "id": "mes1-36",
   "fecha": "2026-12-25",
   "hora": "09:00"
@@ -4012,7 +4012,7 @@ export const PUBLICACIONES = [
   "red": "facebook",
   "pilar": "Calcula tu caso",
   "fuente": "/viudedad/requisitos/",
-  "texto": "Requisitos de la pensión de viudedad, explicados sin letra pequeña.\n\nLo que se mira es la situación de la persona fallecida. Tenía que estar trabajando (o cobrando el paro, por ejemplo) y tener 500 días cotizados en los últimos 5 años, o haber cotizado 15 años en total, o ser ya pensionista de jubilación o de incapacidad permanente. Si murió por un accidente o por una enfermedad profesional, no se exige ningún tiempo cotizado.\n\nPueden cobrarla el cónyuge, la pareja de hecho inscrita que cumpla los requisitos de convivencia y el excónyuge que cobraba una pensión compensatoria.\n\nPara quien la cobra no hay límite de edad ni de ingresos, y es compatible con trabajar. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "texto": "Requisitos de la pensión de viudedad, explicados sin letra pequeña.\n\nLo que se mira es la situación de la persona fallecida. Tenía que estar trabajando (o cobrando el paro, por ejemplo) y tener 500 días cotizados en los últimos 5 años, o haber cotizado 15 años en total, o ser ya pensionista de jubilación o de incapacidad permanente. Si murió por un accidente o por una enfermedad profesional, no se exige ningún tiempo cotizado.\n\nPueden cobrarla el cónyuge, la pareja de hecho que cumpla los requisitos de convivencia (e inscripción, salvo que tengáis hijos en común) y el excónyuge que cobraba una pensión compensatoria.\n\nPara quien la cobra no hay límite de edad ni de ingresos, y es compatible con trabajar. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-08",
   "hora": "11:00"
  },
@@ -4251,7 +4251,7 @@ export const PUBLICACIONES = [
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
   "fuente": "/viudedad/divorcio-separacion/",
-  "texto": "¿Cobras viudedad si tu exmarido o tu exmujer fallece? Depende sobre todo de una cosa: la pensión compensatoria.\n\nSi estabas divorciado o separado judicialmente, tienes derecho a la viudedad solo si cobrabas una pensión compensatoria que se extingue con su muerte. La viudedad no puede ser mayor que esa compensatoria. Y no puedes haberte vuelto a casar ni tener una pareja de hecho.\n\nHay dos excepciones. Las víctimas de violencia de género no necesitan la pensión compensatoria. Y quien se divorció o se separó antes de 2008 puede cobrarla sin ella si tiene 65 años o más, no cobra otra pensión pública y estuvo casado al menos 15 años.\n\nSi tu ex se volvió a casar, la pensión se reparte según el tiempo vivido con cada uno, y el cónyuge actual se queda al menos el 40 %. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "texto": "¿Cobras viudedad si tu exmarido o tu exmujer fallece? Depende sobre todo de una cosa: la pensión compensatoria.\n\nSi estabas divorciado o separado judicialmente, tienes derecho a la viudedad solo si cobrabas una pensión compensatoria que se extingue con su muerte. La viudedad no puede ser mayor que esa compensatoria. Y no puedes haberte vuelto a casar ni tener una pareja de hecho.\n\nHay dos excepciones. Las víctimas de violencia de género no necesitan la pensión compensatoria. Y quien se divorció o se separó antes de 2008 puede cobrarla sin ella si tiene 65 años o más y estuvo casado al menos 15 años. Desde el 21 de octubre de 2026, aunque cobre otra pensión pública.\n\nSi tu ex se volvió a casar, la pensión se reparte según el tiempo vivido con cada uno, y el cónyuge actual se queda al menos el 40 %. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-12",
   "hora": "11:00"
  },
@@ -4500,7 +4500,7 @@ export const PUBLICACIONES = [
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
   "fuente": "/viudedad/pareja-de-hecho/",
-  "texto": "Pensión de viudedad si no estabais casados: las parejas de hecho la cobran en las mismas condiciones que un matrimonio si cumplen dos requisitos.\n\nEstar inscritas en un registro de parejas de hecho (o en documento público) al menos dos años antes del fallecimiento, y haber convivido cinco años seguidos justo antes, acreditado con el empadronamiento. Si tenéis hijos en común, basta con la inscripción de dos años.\n\nDesde 2022 no hay límite de ingresos. Y si no llegáis a los dos años de inscripción, se puede cobrar una prestación temporal de viudedad durante dos años. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "texto": "Pensión de viudedad si no estabais casados: las parejas de hecho la cobran en las mismas condiciones que un matrimonio si cumplen dos requisitos.\n\nEstar inscritas en un registro de parejas de hecho (o en documento público) al menos dos años antes del fallecimiento, y haber convivido cinco años seguidos justo antes, acreditado con el empadronamiento. Si tenéis hijos en común, desde el 21 de octubre de 2026 bastan dos años de convivencia, sin inscripción.\n\nDesde 2022 no hay límite de ingresos. Y si no llegáis a los dos años de inscripción, se puede cobrar una prestación temporal de viudedad durante dos años. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "id": "mes1-92",
   "fecha": "2027-01-16",
   "hora": "11:00"

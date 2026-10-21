@@ -11,3 +11,4 @@
 | 7 | Pensión compensatoria por desequilibrio (temporal, indefinida o única) e indemnización al cónyuge de buena fe en la nulidad | Código Civil, arts. 97 y 98 | Texto consolidado del BOE | Verificado en BOE |
 | 8 | Ejemplos: 52 % de 1.600 = 832 € → limitado a 300 €; reparto 60 % / 40 % con garantía del 40 % | — | Cálculo propio | Cálculo propio |
 | 9 | Separación de hecho: el vínculo matrimonial subsiste, por lo que en principio se aplica el art. 219 | LGSS, arts. 219 y 220 (interpretación: el art. 220 se refiere a la separación judicial) | Lectura del texto | Advertido en el texto («en principio») |
+| 10 | DT 13.ª.2 sin el requisito de no tener derecho a otra pensión pública; rehabilitación de pensiones suspendidas en doce meses, con efectos desde el mes siguiente y límite de concurrencia (DT 13.ª.3) | Real Decreto-ley 31/2026, de 20 de octubre (BOE-A-2026-21872, BOE de 21/10/2026, en vigor ese día) | Texto oficial del BOE (21/10/2026) | Verificado |

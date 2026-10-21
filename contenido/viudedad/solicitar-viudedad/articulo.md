@@ -8,7 +8,7 @@ miga: Solicitar la viudedad
 palabra_clave_principal: solicitar pensión de viudedad
 intencion: transaccional
 fase_plan: F2 (artículo n.º 37c)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo solicitar la pensión de viudedad: dónde se pide, documentos, plazos y cuánto tarda
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -41,7 +41,7 @@ fuentes_legales:
 - **Tu DNI o NIE** (y el de los hijos, si se pide orfandad).
 - **Certificado de defunción** de la persona fallecida.
 - **Libro de familia o certificado de matrimonio**, que acredite el vínculo.
-- **Si erais pareja de hecho**: certificado de **inscripción en el registro de parejas de hecho** (o documento público) con al menos dos años de antigüedad y **certificado de empadronamiento** que acredite **cinco años de convivencia** (salvo que tengáis hijos en común).
+- **Si erais pareja de hecho**: certificado de **inscripción en el registro de parejas de hecho** (o documento público) con al menos dos años de antigüedad y **certificado de empadronamiento** que acredite **cinco años de convivencia**. Si tenéis **hijos en común**, basta el **certificado de empadronamiento** con **dos años** de convivencia, sin inscripción ([Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872)).
 - **Si estabais separados o divorciados**: la sentencia y el convenio que fijaba la **pensión compensatoria**, o la documentación que acredite ser **víctima de violencia de género**.
 - **Si fue un accidente de trabajo o enfermedad profesional**: la documentación que lo acredite.
 - **Si pides el 70 % por cargas familiares**, la documentación de tus ingresos y de los hijos que conviven contigo.
@@ -108,4 +108,4 @@ Una ayuda de 46,50 euros para los gastos del sepelio, para quien los haya pagado
 
 *Este artículo es informativo y no sustituye la información del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, redacción más clara. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 21 de octubre de 2026, documentos de las parejas con hijos en común tras el Real Decreto-ley 31/2026. 20 de octubre de 2026, redacción más clara. 28 de septiembre de 2026, primera versión.*

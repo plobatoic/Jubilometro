@@ -566,5 +566,9 @@
   "/jubilacion/prejubilacion/": {
     "id": 848,
     "estado": "publish"
+  },
+  "/dependencia/navarra/": {
+    "id": 992,
+    "estado": "publish"
   }
 }

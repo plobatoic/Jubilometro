@@ -11,3 +11,4 @@
 | 7 | Reclamación previa en 30 días desde la notificación (o desde el silencio) | Ley 36/2011 reguladora de la jurisdicción social, art. 71.2 | Texto consolidado del BOE | Verificado en BOE |
 | 8 | 60 % a solicitud desde 65 años sin otra pensión | RD 900/2018, art. 4 | Texto del BOE | Verificado en BOE |
 | 9 | Ejemplo de efectos (fallecimiento el 10/3; solicitud el 30/9; efectos desde el 30/6) | — | Aplicación del art. 230 | Cálculo propio |
+| 10 | Documentación de las parejas con hijos en común: certificado de empadronamiento con dos años de convivencia (art. 221.2) | Real Decreto-ley 31/2026, de 20 de octubre (BOE-A-2026-21872, BOE de 21/10/2026, en vigor ese día) | Texto oficial del BOE (21/10/2026) | Verificado |

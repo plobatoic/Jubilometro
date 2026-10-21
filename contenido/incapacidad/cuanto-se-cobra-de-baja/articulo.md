@@ -8,7 +8,7 @@ miga: Cuánto se cobra de baja
 palabra_clave_principal: cuánto se cobra de baja
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-10-12
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Cuánto se cobra de baja: el 60 % y el 75 % día a día, quién te lo paga y cómo calcularlo
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -45,7 +45,7 @@ Fuentes: [artículo 173 de la Ley General de la Seguridad Social](https://www.bo
 
 ## Qué es la base reguladora y cómo se calcula
 
-La base reguladora es tu **base de cotización por contingencias comunes del mes anterior a la baja**, dividida entre **30** si cobras por meses, o entre los días de ese mes (28, 29, 30 o 31) si cobras por días ([Seguridad Social, cuantía de la incapacidad temporal](https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10952/28362/28365/cuantia)). Si entraste en la empresa ese mes, se divide entre los días que cotizaste.
+La base reguladora es tu **base de cotización por contingencias comunes del mes anterior a la baja** (para las bajas desde el 1 de diciembre de 2026, la del mes anterior a ese: si la baja empieza en diciembre, la de octubre, salvo que empezaras a trabajar en la empresa en noviembre o en diciembre; [Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872)), dividida entre **30** si cobras por meses, o entre los días de ese mes (28, 29, 30 o 31) si cobras por días ([Seguridad Social, cuantía de la incapacidad temporal](https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10952/28362/28365/cuantia)). Si entraste en la empresa ese mes, se divide entre los días que cotizaste.
 
 La base de cotización aparece en tu **nómina** y suele ser algo más alta que tu sueldo del mes, porque incluye la **parte proporcional de las pagas extra**.
 
@@ -79,7 +79,9 @@ Son **1.062 euros brutos** en lugar de los 1.800 de base: un **41 % menos**. Si 
 
 - **Si te despiden o se acaba el contrato durante la baja** (por enfermedad común), sigues de baja, pero cobras **lo mismo que cobrarías de paro**. Cuando te den el alta, pasas al paro, y el tiempo que estuviste de baja desde el despido se descuenta del paro como ya consumido. Si la baja es por accidente de trabajo, sigues cobrando la misma cantidad hasta el alta ([artículo 283](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a283)).
 - **Menstruación incapacitante, interrupción del embarazo y gestación desde la semana 39**: en los dos primeros casos no se pide cotización mínima. Desde la **semana 39 de gestación** se pide la misma cotización que para el permiso por nacimiento. En la menstruación incapacitante se cobra **desde el primer día**; en los otros dos casos, el día de la baja lo paga la empresa con el salario entero y el subsidio empieza al día siguiente ([artículos 172 y 173](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a173)).
-- **Novedad aprobada el 20 de octubre de 2026, pendiente del BOE**: según [ha explicado el Gobierno](https://www.lamoncloa.gob.es/consejodeministros/resumenes/Paginas/2026/201026-rueda-prensa-ministros.aspx), un real decreto-ley crea una baja especial para las mujeres con **patologías incapacitantes relacionadas con la menopausia** y para las trabajadoras **víctimas de violencia de género** cuyas lesiones les impidan trabajar, sin cotización mínima y pagada desde el día siguiente a la baja (60 % hasta el día 20 y 75 % después). Además, la baja de las personas afectadas por **catástrofes**, como la dana, se equiparará a la de un accidente de trabajo. Se aplicará cuando se publique en el BOE. Actualizaremos esta guía con el texto oficial.
+- **Nuevas bajas especiales desde el 1 de diciembre de 2026**: el [Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872) crea dos situaciones especiales más: las mujeres con una **patología limitante por trastorno menopáusico** codificada por el médico del servicio público de salud y las trabajadoras con **lesiones causadas por violencia de género**, que necesitan un documento oficial (comunicación a la Fiscalía o al juzgado, orden de protección, informe del Ministerio Fiscal o sentencia). Las dos se cobran **sin cotización mínima**, con los mismos porcentajes que la enfermedad común (60 % hasta el día 20 y 75 % después), y el subsidio lo paga el INSS o la mutua **desde el día siguiente a la baja**. Desde esa fecha, la menstruación incapacitante también se paga así. Se aplica a las bajas que empiecen a partir del 1 de diciembre.
+- **Catástrofes**: las leyes que se aprueben tras una catástrofe, como la dana, **podrán** tratar las bajas, la incapacidad y las pensiones de muerte y supervivencia de los afectados como si fueran por accidente de trabajo (disposición adicional sexagésima cuarta de la ley).
+- **Trabajadores de 62 años o más**: desde el 1 de diciembre de 2026, la empresa paga un **75 % menos** de cotización por contingencias comunes mientras están de baja. Al trabajador no le cambia nada en la nómina, pero abarata su baja a la empresa.
 - **Donación de órganos o tejidos**: el **100 %** de la base reguladora desde el primer día ([artículo 171](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a171)).
 - **[Empleadas de hogar](/jubilacion/empleadas-de-hogar/)**: la base es la del mes anterior entre 30, y el empleador paga del día 4 al 8; desde el noveno, el INSS o la mutua ([Seguridad Social, baja de la empleada de hogar](https://revista.seg-social.es/-/20221003-baja-empleada-hogar)).
 - **Autónomos**: también tienen baja pagada, a través de la mutua con la que tengan cubierta la incapacidad temporal, con reglas propias en algunos puntos.
@@ -117,6 +119,7 @@ Sí. Si te reconocen la pensión de jubilación, la baja se termina en ese momen
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social: artículos 169 a 175 (incapacidad temporal) y 283 (baja y paro)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a173) (BOE).
+- [Real Decreto-ley 31/2026, de 20 de octubre, para la mejora de la acción protectora de la Seguridad Social](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872) (BOE de 21 de octubre de 2026).
 - [Real Decreto 53/1980, sobre la cuantía de la prestación por incapacidad laboral transitoria (60 % del día 4 al 20)](https://www.boe.es/buscar/doc.php?id=BOE-A-1980-1003) (BOE).
 - [Decreto 3158/1966, artículo 2 (75 % de la base)](https://www.boe.es/buscar/act.php?id=BOE-A-1966-21116) (BOE).
 - [Real Decreto 1060/2022, que suprime la entrega del parte a la empresa](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-160) (BOE).
@@ -132,4 +135,4 @@ Sí. Si te reconocen la pensión de jubilación, la baja se termina en ese momen
 
 *Este artículo es informativo y no sustituye la información de tu empresa, tu mutua o el INSS. Porcentajes según la normativa vigente a 12 de octubre de 2026; revisa tu convenio colectivo, que puede mejorarlos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre sobre bajas por menopausia, violencia de género y catástrofes (pendiente del BOE); los tres casos especiales, en el mismo apartado. 14 de octubre de 2026, enlace a la guía de las empleadas de hogar. 12 de octubre de 2026, primera versión.*
+*Historial de cambios: 21 de octubre de 2026, el Real Decreto-ley 31/2026 ya está en el BOE: bajas especiales por menopausia y violencia de género, base reguladora y cotización de los mayores de 62 desde el 1 de diciembre. 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre sobre bajas por menopausia, violencia de género y catástrofes (pendiente del BOE); los tres casos especiales, en el mismo apartado. 14 de octubre de 2026, enlace a la guía de las empleadas de hogar. 12 de octubre de 2026, primera versión.*

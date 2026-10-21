@@ -272,7 +272,7 @@ export const VIDEOS = [
       { t: [0, 3], antetitulo: 'Pensión de viudedad', grande: '¿Y si *no estabais casados*?', tam: 'm', sub: '¿Hay viudedad si no estabais casados?' },
       { t: [3, 11], antetitulo: 'Pareja de hecho', grande: 'Sí, *igual* que un matrimonio', tam: 'm', apoyo: 'Si cumplís dos requisitos.', sub: 'Sí: la pareja de hecho cobra la viudedad igual que un matrimonio, si cumple dos requisitos.' },
       { t: [11, 19], antetitulo: 'Requisito 1', grande: 'Inscritos *2 años* antes', tam: 'l', apoyo: 'En un registro de parejas de hecho o en documento público.', sub: 'Estar inscritos al menos dos años antes del fallecimiento.' },
-      { t: [19, 26], antetitulo: 'Requisito 2', grande: '*5 años* de convivencia', tam: 'l', apoyo: 'Seguidos y justo antes. Con hijos en común, basta la inscripción.', sub: 'Y haber convivido cinco años seguidos justo antes. Si tenéis hijos en común, basta con la inscripción.' },
+      { t: [19, 26], antetitulo: 'Requisito 2', grande: '*5 años* de convivencia', tam: 'l', apoyo: 'Seguidos y justo antes. Con hijos en común, 2 años y sin inscripción.', sub: 'Y haber convivido cinco años seguidos justo antes. Con hijos en común, bastan dos años, sin inscripción.' },
     ],
     cierre: { t: [26, 30], sub: 'Más en jubilometro.com/pareja-de-hecho.' },
   },

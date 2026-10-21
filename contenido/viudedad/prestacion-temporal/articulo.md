@@ -8,7 +8,7 @@ miga: Prestación temporal de viudedad
 palabra_clave_principal: prestación temporal de viudedad
 intencion: informativa
 fase_plan: F3 (artículo extra de viudedad)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,11 +18,11 @@ fuentes_legales:
 
 # Prestación temporal de viudedad: qué pasa si llevabais menos de un año casados o de dos inscritos como pareja de hecho
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> Si tu cónyuge muere por una **enfermedad común que ya tenía antes de casaros** y no llevabais **un año casados** (ni tenéis hijos en común), o si erais **pareja de hecho** con menos de **dos años de inscripción**, no tienes derecho a la pensión de viudedad vitalicia. Pero sí a la **prestación temporal de viudedad**: la **misma cuantía** que la pensión que te habría correspondido, durante **dos años** ([artículo 222 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a222)).
+> Si tu cónyuge muere por una **enfermedad común que ya tenía antes de casaros** y no llevabais **un año casados** (ni tenéis hijos en común), o si erais **pareja de hecho** sin hijos en común con menos de **dos años de inscripción** (con hijos en común, desde el 21 de octubre de 2026 no hace falta inscripción: bastan dos años de convivencia), no tienes derecho a la pensión de viudedad vitalicia. Pero sí a la **prestación temporal de viudedad**: la **misma cuantía** que la pensión que te habría correspondido, durante **dos años** ([artículo 222 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a222)).
 >
 > Si la muerte se debe a un **accidente**, a una **enfermedad profesional** o a una enfermedad que apareció **después de la boda**, no se exige el año de matrimonio: cobras la pensión vitalicia.
 
@@ -99,4 +99,4 @@ No. La prestación temporal se extingue a los dos años.
 
 *Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, fechas del ejemplo. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 21 de octubre de 2026, parejas con hijos en común tras el Real Decreto-ley 31/2026. 20 de octubre de 2026, fechas del ejemplo. 29 de septiembre de 2026, primera versión.*

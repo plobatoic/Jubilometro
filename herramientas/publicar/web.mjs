@@ -122,6 +122,7 @@ export const IMAGENES_DESTACADAS = {
   '/dependencia/baleares/': { archivo: 'dependencia-baleares.webp', alt: 'Catedral de Palma y palacio de la Almudaina junto a las palmeras del paseo', pie: 'Foto: w_lemay (Flickr)' },
   '/dependencia/cantabria/': { archivo: 'dependencia-cantabria.webp', alt: 'Palacio de Sobrellano y su capilla en Comillas, entre prados y montes verdes', pie: 'Foto: Carlos SGP (Flickr)' },
   '/dependencia/la-rioja/': { archivo: 'dependencia-la-rioja.webp', alt: 'Hileras de viñedo bajo un cielo azul con nubes en La Rioja', pie: 'Foto: rawpixel' },
+  '/dependencia/navarra/': { archivo: 'dependencia-navarra.webp', alt: 'Puente de las Oblatas, en Pamplona, con su arco blanco sobre el río y edificios de ladrillo al fondo', pie: 'Foto: Zarateman (Wikimedia Commons)' },
   '/viudedad/nuevo-matrimonio/': { archivo: 'nuevo-matrimonio.webp', alt: 'Pareja de personas mayores paseando abrazadas por un camino rural', pie: 'Foto: rawpixel' },
   '/viudedad/favor-de-familiares/': { archivo: 'favor-de-familiares.webp', alt: 'Manos de un hombre mayor apoyadas en un bastón', pie: 'Foto: rawpixel' },
   '/cuanto-cobrare/mei-cuota-solidaridad/': { archivo: 'mei-cuota-solidaridad.webp', alt: 'Cartuchos de monedas de 1 y 2 euros', pie: 'Foto: rawpixel' },
