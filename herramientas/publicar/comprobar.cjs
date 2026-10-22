@@ -41,7 +41,7 @@ function buscar(dir) {
     if (!r.jsonld.every(Boolean) || r.jsonld.length !== 1) problemas.push('JSON-LD no válido');
     if (errores.length) problemas.push(`errores: ${errores.join(' | ')}`);
     for (const e of r.enlaces) {
-      if (!urls.has(e)) pendientes.set(e, (pendientes.get(e) ?? 0) + 1);
+      if (!urls.has(e.split('#')[0])) pendientes.set(e, (pendientes.get(e) ?? 0) + 1);
     }
     const nombre = path.relative(raiz, archivo);
     console.log(`${problemas.length ? 'FALLO' : 'OK   '} ${nombre} · title ${r.title.length} · desc ${r.desc.length}${problemas.length ? ' · ' + problemas.join('; ') : ''}`);

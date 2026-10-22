@@ -2507,3 +2507,21 @@ html body { background: #fff; }
   .jm-tile:has(> .jm-tile__tag) > .jm-tile__icon { grid-row: 1 / 4; }
   .jm-tile:has(> .jm-tile__icon) > :not(.jm-tile__icon) { grid-column: 2; }
 }
+
+/* ==========================================================================
+   PULIDO (tema 2.11.8): fecha del pie en una línea y ficha del autor en el móvil
+   ========================================================================== */
+/* El icono y el texto van en línea: la fecha ya no se parte en dos columnas */
+.jm-footer .jm-meta > span { display: block; padding-left: 1.5rem; text-indent: -1.5rem; }
+.jm-footer .jm-meta > span .jm-i { display: inline-block; vertical-align: -.2em; margin-right: .4rem; }
+.jm-footer .jm-meta [data-jm-rev] { white-space: nowrap; }
+@media (max-width: 599px) {
+  /* Foto, «Escrito y revisado por» y nombre en la primera fila; la biografía a todo el ancho */
+  .jm-authorbox { column-gap: 1rem; row-gap: 0; align-items: center; }
+  .jm-authorbox > div { display: contents; }
+  .jm-authorbox .jm-avatar { grid-row: 1 / span 2; width: 3.6rem; height: 3.6rem; font-size: 1.3rem; }
+  .jm-authorbox__k { grid-column: 2; align-self: end; }
+  .jm-authorbox h2 { grid-column: 2; align-self: start; margin-top: .2rem; }
+  .jm-authorbox > div > p:not(.jm-authorbox__k) { grid-column: 1 / -1; }
+  .jm-authorbox > div > p:not(.jm-authorbox__k):not(.jm-authorbox__links) { margin-top: 1rem; }
+}

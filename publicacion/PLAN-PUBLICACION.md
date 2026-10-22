@@ -228,6 +228,16 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Velocidad y acabado visual (22/10/2026, tema 2.11.8)
+
+- **Revisión visual** de portada, categoría, guía, calculadora y Navarra en móvil y ordenador (capturas con desplazamiento para que carguen las imágenes). La foto principal de las guías se ve bien en ordenador (el hueco gris era de la captura).
+- **Novedades del BOE** de la portada al día: Real Decreto-ley 31/2026 (21/10: viudedad sin inscribir la pareja y baja especial por menopausia) y Ley 4/2026 (publicada el 3/10, en vigor el 23/10: reforma de la dependencia). Ahora son seis.
+- **Pie**: «Cifras revisadas el…» ya no se parte en dos columnas; icono y texto en línea, con sangría y la fecha sin cortar.
+- **Ficha del autor en el móvil**: foto, «Escrito y revisado por» y nombre en la primera fila, y la biografía a todo el ancho (antes quedaba en una columna estrecha con un hueco grande debajo de la foto).
+- **`comprobar`**: ya no avisa de enlaces con ancla (`/dependencia/grados/#revision-del-grado`) como si la página no existiera; ahora compara sin el `#`, igual que el publicador.
+- **Velocidad (Lighthouse)**: sin anuncios, móvil 85-99 en portada (varía entre mediciones por la carga del procesador), 88 guía, 87 categoría, 90 calculadora; ordenador 98 portada y 97 guía; accesibilidad, buenas prácticas y SEO 100. Con AdSense, móvil 46 portada y 55 guía: los anuncios (unos 300 KB y el aviso de consentimiento) son lo que más pesa y solo se podrán retrasar cuando AdSense apruebe la web. Descartado partir el CSS por plantilla: llega comprimido (32 KB) y el ahorro sería de unos 20 KB por página, con riesgo de romper estilos.
+- Comprobaciones: 25 pruebas, `comprobar` sin avisos y `comprobar-web` (312 enlaces y archivos) «Todo correcto».
+
 ### Matices de la web, baja por menopausia y programas electorales (22/10/2026, tema 2.11.7)
 
 - **Guía nueva** [Baja por menopausia](https://jubilometro.com/incapacidad/baja-menopausia/) (id 1013): situación especial del Real Decreto-ley 31/2026, sin cotización previa, cobro desde el día siguiente, base del mes anterior al previo, ejemplo de Elena (984,75 € frente a 906,75 €), a quién se aplica y desde cuándo (efectos el 1/12/2026; la guía avisa de que el texto no detalla las bajas iniciadas entre el 21/10 y el 30/11). Enlace corto `baja-menopausia`, dos publicaciones en el banco y enlaces desde la portada de Incapacidad y la guía de la baja. Sin imagen destacada (StockSnap y Flickr bloqueados desde el servidor).
