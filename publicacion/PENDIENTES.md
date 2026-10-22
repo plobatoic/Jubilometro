@@ -83,7 +83,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | Fecha | Qué |
 |---|---|
 | 23 de octubre | Entra en vigor la reforma de la dependencia: repaso de las guías |
-| Cada día hasta el 29 de noviembre | Programas electorales: en cuanto PP y PSOE publiquen el suyo, comparativa de lo que propone cada partido sobre pensiones, con sus documentos oficiales |
+| Cada día hasta el 29 de noviembre | Programas electorales: revisión de las webs oficiales de los partidos. Cuando estén todos (o como tarde el 13 de noviembre, con «pendiente» para los que falten), se crea la sección «Elecciones 2026» con la comparativa de pensiones y una guía por partido (decisión del 22 de octubre) |
 | 29 de octubre | Pensión media por provincia con la nómina de octubre |
 | 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
 | 1 de noviembre | Plazos de los balnearios del Imserso y, en Cataluña, la ayuda mientras esperas la dependencia |
