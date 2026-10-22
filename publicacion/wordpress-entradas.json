@@ -570,5 +570,9 @@
   "/dependencia/navarra/": {
     "id": 992,
     "estado": "publish"
+  },
+  "/incapacidad/baja-menopausia/": {
+    "id": 1013,
+    "estado": "publish"
   }
 }

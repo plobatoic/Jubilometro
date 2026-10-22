@@ -8,7 +8,7 @@ miga: Viajes de las comunidades
 palabra_clave_principal: viajes para mayores comunidades autónomas
 intencion: informativa (estacional)
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-10-22
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Viajes y balnearios para mayores de las comunidades autónomas: alternativas al Imserso en 2026
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en las webs oficiales de cada comunidad*
+*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en las webs oficiales de cada comunidad*
 
 > **Respuesta rápida**
 >
@@ -74,6 +74,8 @@ Es el programa de viajes más grande: **350.000 plazas** en cerca de **1.400 rut
 
 A diferencia del Imserso, **no hay baremo** ni acreditación previa: reserva quien llega antes a la agencia.
 
+**Si cuidas a un familiar dependiente**: el programa reserva **350 plazas gratuitas** para cuidadores no profesionales de personas que cobran la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/) ([Comunidad de Madrid](https://www.comunidad.madrid/asuntos-sociales/rutas-culturales-2026)).
+
 ## Castilla y León: viajes del Club de los 60
 
 La Junta organiza cada año una campaña de viajes para los socios del **Club de los 60**: basta con tener **60 años** y vivir en Castilla y León, y te haces socio al presentar la solicitud ([Servicios Sociales de Castilla y León](https://serviciossociales.jcyl.es/web/es/personas-mayores/programa-viajes-club-campana.html)).
@@ -117,7 +119,7 @@ En general, no: estos programas exigen estar empadronado o residir en la comunid
 
 ### ¿Qué programa para mayores sigue abierto ahora?
 
-A 29 de septiembre de 2026, el termalismo de Castilla-La Mancha (hasta el 15 de diciembre o hasta agotar plazas) y las Rutas Culturales de Madrid (hasta agotar plazas). En el Imserso, la lista de espera del termalismo está abierta hasta el 31 de octubre.
+A 22 de octubre de 2026, el termalismo de Castilla-La Mancha (hasta el 15 de diciembre o hasta agotar plazas) y las Rutas Culturales de Madrid (en persona en las agencias autorizadas, hasta agotar plazas). En el Imserso, la lista de espera del termalismo está abierta hasta el 31 de octubre.
 
 ### ¿Hay que estar jubilado para las Rutas Culturales de Madrid?
 
@@ -145,4 +147,4 @@ Sí. Son programas distintos, de administraciones distintas, y ninguno excluye a
 
 *Este artículo es informativo. Cada comunidad fija y puede cambiar sus requisitos, plazas y precios: confírmalos en su web oficial antes de solicitar. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 22 de octubre de 2026, situación de los programas a 22 de octubre y plazas gratuitas para cuidadores en Madrid. 29 de septiembre de 2026, primera versión.*

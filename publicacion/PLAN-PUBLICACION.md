@@ -228,6 +228,12 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Matices de la web, baja por menopausia y programas electorales (22/10/2026, tema 2.11.7)
+
+- **Guía nueva** [Baja por menopausia](https://jubilometro.com/incapacidad/baja-menopausia/) (id 1013): situación especial del Real Decreto-ley 31/2026, sin cotización previa, cobro desde el día siguiente, base del mes anterior al previo, ejemplo de Elena (984,75 € frente a 906,75 €), a quién se aplica y desde cuándo (efectos el 1/12/2026; la guía avisa de que el texto no detalla las bajas iniciadas entre el 21/10 y el 30/11). Enlace corto `baja-menopausia`, dos publicaciones en el banco y enlaces desde la portada de Incapacidad y la guía de la baja. Sin imagen destacada (StockSnap y Flickr bloqueados desde el servidor).
+- **Barrido de matices**: plazos vencidos escritos en futuro (44 casos revisados, uno corregido), fechas «a día de» antiguas (viajes autonómicos: situación a 22/10 comprobada en las webs de Castilla-La Mancha y Madrid, más las 350 plazas gratuitas para cuidadores de Madrid), pie de la guía de la baja y cifras clave cruzadas entre guías (máxima, mínimas, no contributiva, salario mínimo, IPREM y límite de ingresos): todas coinciden.
+- **Programas electorales**: a 22/10 ningún partido ha publicado su programa del 29N (solo hay frases de mítines en webs de terceros). Del 2023 solo se pudo leer el programa oficial del PSOE: el del PP en su web es un resumen sin pensiones, el de Vox lo bloquea su web y el de Sumar no está en su web. Para no publicar algo parcial, la guía de elecciones explica los criterios de la comparativa (solo documentos oficiales, mismos partidos y preguntas, sin valoraciones) y una tarea diaria revisa las webs oficiales y la publicará cuando estén los programas de PP y PSOE.
+
 ### Real Decreto-ley 31/2026 y guía de Navarra (21/10/2026, tema 2.11.6)
 
 - **[Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872)** (BOE del 21/10/2026, en vigor ese día; tiene que convalidarlo la Diputación Permanente del Congreso en 30 días). Guías actualizadas con el texto oficial, sustituyendo los avisos «pendiente del BOE»:

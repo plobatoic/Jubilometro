@@ -8,7 +8,7 @@ miga: Elecciones y pensiones
 palabra_clave_principal: elecciones pensiones subida 2027
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-10-21
+fecha_actualizacion: 2026-10-22
 publicacion: 2026-10-10
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027
 
-*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -105,7 +105,13 @@ Las dudas sobre tu caso las resuelve la Oficina del Censo Electoral de tu provin
 
 ## Qué proponen los partidos sobre las pensiones
 
-Los partidos presentan sus candidaturas del 21 al 26 de octubre y suelen publicar sus programas antes de la campaña, que empieza el 13 de noviembre. Cuando estén publicados, añadiremos aquí lo que dice cada uno sobre la subida de las pensiones, la edad de jubilación, las pensiones mínimas y la jubilación anticipada, con el enlace a su programa y sin valoraciones.
+Los partidos presentan sus candidaturas del 21 al 26 de octubre y suelen publicar sus programas antes de la campaña, que empieza el 13 de noviembre. **A 22 de octubre de 2026, ninguno ha publicado todavía su programa para estas elecciones.**
+
+Cuando estén publicados, prepararemos una comparativa con lo que dice cada uno sobre la subida de las pensiones, la edad de jubilación, las pensiones mínimas, la jubilación anticipada y la financiación del sistema. Estos son los criterios:
+
+- **Solo documentos oficiales**: el programa que publique cada partido en su web, con el enlace y la página. No recogemos frases de mítines ni de entrevistas, que cambian de un día a otro.
+- **Todos con el mismo espacio**: los partidos con grupo propio en el Congreso que acaba de disolverse que se presenten, en el mismo orden y con las mismas preguntas.
+- **Sin valoraciones**: contamos qué propone cada uno, y, si una propuesta cambia una ley, cuál y en qué; no si es buena o mala.
 
 ## Preguntas frecuentes
 
@@ -154,4 +160,4 @@ Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tar
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). No recoge opiniones políticas: solo lo que dicen las normas y los organismos oficiales. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
+*Historial de cambios: 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*

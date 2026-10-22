@@ -11,6 +11,20 @@ export const INCAPACIDAD = [
 ${L('baja', 'x')}`,
   },
   {
+    id: 'baja-menopausia-x', red: 'x', pilar: 'Calendario y avisos', fuente: '/incapacidad/baja-menopausia/', desde: '2026-10-22',
+    texto: `Desde el 1 de diciembre hay una baja especial por menopausia: para una patología que te impida trabajar, codificada por el médico de la sanidad pública. Sin cotización previa y cobrando desde el día siguiente a la baja.
+
+${L('baja-menopausia', 'x')}`,
+  },
+  {
+    id: 'baja-menopausia-fb', red: 'facebook', pilar: 'Calendario y avisos', fuente: '/incapacidad/baja-menopausia/', desde: '2026-10-22',
+    texto: `Una novedad del decreto-ley del 21 de octubre: desde el 1 de diciembre de 2026 existe una baja especial por menopausia.
+
+No basta con tener síntomas. Es para una patología de la menopausia que te impida trabajar, diagnosticada y codificada por el médico de la sanidad pública. Tiene tres diferencias con una baja normal por enfermedad: no hace falta haber cotizado un mínimo, se cobra desde el día siguiente a la baja (no desde el cuarto) y lo paga directamente el INSS o la mutua. El día de la baja, la empresa paga el sueldo entero.
+
+Se cobra lo mismo que en una baja por enfermedad: el 60 % de la base reguladora hasta el día 20 y el 75 % desde el 21. ${FB_WEB}`,
+  },
+  {
     id: 'baja-fb', red: 'facebook', pilar: 'La cifra que te toca', fuente: '/incapacidad/cuanto-se-cobra-de-baja/',
     cifra: { ante: 'Ejemplo', antes: 'Lucía, 30 días de baja por enfermedad con una base de 1.800 € al mes', grande: '1.062 €', despues: 'brutos ese mes, si su convenio no mejora la baja.', fuente: 'Artículo 173 de la Ley General de la Seguridad Social, Real Decreto 53/1980 y Decreto 3158/1966.', corto: 'baja' },
     texto: `¿Cuánto se cobra de baja? Lo vemos con el caso de Lucía, que cotiza por una base de 1.800 euros al mes y pasa 30 días de baja por una gripe complicada.

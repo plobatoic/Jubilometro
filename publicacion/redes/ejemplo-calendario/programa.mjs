@@ -1060,11 +1060,12 @@ export const PUBLICACIONES = [
   "hora": "09:00"
  },
  {
-  "id": "baja-larga-fb",
+  "id": "baja-menopausia-fb",
   "red": "facebook",
-  "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/incapacidad-temporal/",
-  "texto": "Qué pasa cuando una baja se alarga, mes a mes.\n\nLa baja (la incapacidad temporal) dura como máximo 365 días. Al llegar ahí, solo el INSS decide: te puede dar el alta, prorrogar la baja otros 180 días si espera que te recuperes o empezar el expediente de incapacidad permanente.\n\nA los 545 días la baja termina, pero sigues cobrando lo mismo mientras el INSS resuelve si tienes una incapacidad permanente. Tiene 90 días para hacerlo, y entre baja y espera nunca se pueden pasar los 730 días.\n\nHasta el día 545 sigues de alta y se cotiza por ti, así que esos meses cuentan para tu jubilación. Desde ahí, mientras esperas la decisión, ya no se cotiza. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "Calendario y avisos",
+  "fuente": "/incapacidad/baja-menopausia/",
+  "desde": "2026-10-22",
+  "texto": "Una novedad del decreto-ley del 21 de octubre: desde el 1 de diciembre de 2026 existe una baja especial por menopausia.\n\nNo basta con tener síntomas. Es para una patología de la menopausia que te impida trabajar, diagnosticada y codificada por el médico de la sanidad pública. Tiene tres diferencias con una baja normal por enfermedad: no hace falta haber cotizado un mínimo, se cobra desde el día siguiente a la baja (no desde el cuarto) y lo paga directamente el INSS o la mutua. El día de la baja, la empresa paga el sueldo entero.\n\nSe cobra lo mismo que en una baja por enfermedad: el 60 % de la base reguladora hasta el día 20 y el 75 % desde el 21. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2026-11-18",
   "hora": "11:00"
  },
@@ -1290,11 +1291,12 @@ export const PUBLICACIONES = [
   "hora": "11:00"
  },
  {
-  "id": "baja-larga-x",
+  "id": "baja-menopausia-x",
   "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/incapacidad-temporal/",
-  "texto": "La baja dura como máximo 365 días, que se pueden alargar 180 más. A los 545 días se acaba, pero sigues cobrando lo mismo hasta que el INSS decide si tienes una incapacidad permanente, con un límite de 730 días en total.\n\njubilometro.com/baja-larga/x",
+  "pilar": "Calendario y avisos",
+  "fuente": "/incapacidad/baja-menopausia/",
+  "desde": "2026-10-22",
+  "texto": "Desde el 1 de diciembre hay una baja especial por menopausia: para una patología que te impida trabajar, codificada por el médico de la sanidad pública. Sin cotización previa y cobrando desde el día siguiente a la baja.\n\njubilometro.com/baja-menopausia/x",
   "fecha": "2026-11-22",
   "hora": "10:00"
  },
@@ -1579,11 +1581,11 @@ export const PUBLICACIONES = [
   "hora": "13:30"
  },
  {
-  "id": "grados-incapacidad-x",
+  "id": "baja-larga-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/grados-incapacidad/",
-  "texto": "Los cuatro grados de incapacidad permanente: parcial (24 mensualidades de una vez), total (el 55 % de tu base, o el 75 % desde los 55 si no trabajas), absoluta (el 100 %, sin IRPF) y gran incapacidad (el 100 % más un complemento).\n\njubilometro.com/grados-incapacidad/x",
+  "fuente": "/incapacidad/incapacidad-temporal/",
+  "texto": "La baja dura como máximo 365 días, que se pueden alargar 180 más. A los 545 días se acaba, pero sigues cobrando lo mismo hasta que el INSS decide si tienes una incapacidad permanente, con un límite de 730 días en total.\n\njubilometro.com/baja-larga/x",
   "fecha": "2026-11-27",
   "hora": "09:00"
  },
@@ -1912,11 +1914,11 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "total-x",
+  "id": "grados-incapacidad-x",
   "red": "x",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/incapacidad-total/",
-  "texto": "Con una incapacidad total, desde mayo de 2025 la empresa ya no puede despedirte sin más. Tienes 10 días para decirle por escrito que quieres seguir, y ella tiene 3 meses para adaptar tu puesto o cambiarte a otro compatible.\n\njubilometro.com/total/x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/incapacidad/grados-incapacidad/",
+  "texto": "Los cuatro grados de incapacidad permanente: parcial (24 mensualidades de una vez), total (el 55 % de tu base, o el 75 % desde los 55 si no trabajas), absoluta (el 100 %, sin IRPF) y gran incapacidad (el 100 % más un complemento).\n\njubilometro.com/grados-incapacidad/x",
   "fecha": "2026-12-02",
   "hora": "13:30"
  },
@@ -2104,11 +2106,11 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
-  "id": "grados-incapacidad-fb",
+  "id": "baja-larga-fb",
   "red": "facebook",
   "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/grados-incapacidad/",
-  "texto": "La incapacidad permanente tiene cuatro grados, según cuánto te impide trabajar, y cada uno se cobra de una forma.\n\nParcial: rindes al menos un 33 % menos en tu trabajo, pero puedes seguir haciéndolo. Cobras una indemnización única de 24 mensualidades y sigues en tu puesto.\n\nTotal: no puedes hacer tu trabajo habitual, pero sí otro. Cobras el 55 % de tu base reguladora, que sube al 75 % desde los 55 años si no trabajas.\n\nAbsoluta: no puedes trabajar en nada. Cobras el 100 %, sin retención de IRPF.\n\nGran incapacidad: además, necesitas ayuda de otra persona para comer, vestirte o moverte. Cobras el 100 % más un complemento para pagar a quien te cuida.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "fuente": "/incapacidad/incapacidad-temporal/",
+  "texto": "Qué pasa cuando una baja se alarga, mes a mes.\n\nLa baja (la incapacidad temporal) dura como máximo 365 días. Al llegar ahí, solo el INSS decide: te puede dar el alta, prorrogar la baja otros 180 días si espera que te recuperes o empezar el expediente de incapacidad permanente.\n\nA los 545 días la baja termina, pero sigues cobrando lo mismo mientras el INSS resuelve si tienes una incapacidad permanente. Tiene 90 días para hacerlo, y entre baja y espera nunca se pueden pasar los 730 días.\n\nHasta el día 545 sigues de alta y se cotiza por ti, así que esos meses cuentan para tu jubilación. Desde ahí, mientras esperas la decisión, ya no se cotiza. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2026-12-06",
   "hora": "11:00"
  },
@@ -2188,23 +2190,23 @@ export const PUBLICACIONES = [
   "hora": "13:30"
  },
  {
-  "id": "incapacidad-trabajo-ig",
+  "id": "grados-incapacidad-ig",
   "red": "instagram",
   "tipo": "Carrusel",
   "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/incapacidad-y-trabajo/",
+  "fuente": "/incapacidad/grados-incapacidad/",
   "diapositivas": [
-   "¿Se puede trabajar con una incapacidad permanente? Grado a grado.",
-   "Parcial: sigues en tu trabajo, y la indemnización es compatible con todo.",
-   "Total: puedes trabajar en otras funciones y cobrar la pensión a la vez.",
-   "Total cualificada: el 20 % extra se deja de cobrar mientras trabajas.",
-   "Absoluta y gran incapacidad: si el trabajo exige alta, se suspende la pensión mientras dure.",
-   "Solo son compatibles las actividades esporádicas que no exigen darse de alta.",
-   "En todos los grados, avisa al INSS antes de empezar a trabajar.",
-   "Guárdalo por si lo necesitas. La guía completa, en Jubilómetro (enlace en la biografía)."
+   "Incapacidad permanente: los 4 grados y cuánto se cobra en cada uno.",
+   "Parcial: rindes al menos un 33 % menos, pero puedes seguir en tu trabajo.",
+   "Parcial: 24 mensualidades de una vez, y la empresa te mantiene en tu puesto.",
+   "Total: 55 % de tu base reguladora, si no puedes hacer tu trabajo habitual pero sí otro.",
+   "Total cualificada: 75 % desde los 55 años, mientras no trabajes.",
+   "Absoluta: 100 % de tu base, sin IRPF, si no puedes trabajar en nada.",
+   "Gran incapacidad: 100 % más un complemento para pagar a quien te cuida.",
+   "Guárdalo y calcula la tuya en Jubilómetro (enlace en la biografía)."
   ],
-  "texto": "Trabajar cobrando una incapacidad permanente: qué se puede en cada grado desde los cambios de 2024 y 2025. Guía en la biografía.\n\n#incapacidadpermanente #trabajo #pensiones #inss",
-  "carrusel": "publicacion/redes/banco/carruseles/incapacidad-trabajo-ig/",
+  "texto": "Parcial, total, absoluta y gran incapacidad: qué significa cada grado y cuánto se cobra. Calculadora en la biografía.\n\n#incapacidadpermanente #pensiones #seguridadsocial #inss",
+  "carrusel": "publicacion/redes/banco/carruseles/grados-incapacidad-ig/",
   "fecha": "2026-12-07",
   "hora": "19:00"
  },
@@ -2219,11 +2221,11 @@ export const PUBLICACIONES = [
   "hora": "08:30"
  },
  {
-  "id": "absoluta-x",
+  "id": "total-x",
   "red": "x",
-  "pilar": "La cifra que te toca",
-  "fuente": "/incapacidad/incapacidad-absoluta/",
-  "texto": "Incapacidad permanente absoluta: el 100 % de tu base reguladora, de por vida y sin IRPF. Desde el 22 de diciembre de 2024, si trabajas con alta en la Seguridad Social, el INSS suspende la pensión mientras dure el trabajo.\n\njubilometro.com/absoluta/x",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/incapacidad/incapacidad-total/",
+  "texto": "Con una incapacidad total, desde mayo de 2025 la empresa ya no puede despedirte sin más. Tienes 10 días para decirle por escrito que quieres seguir, y ella tiene 3 meses para adaptar tu puesto o cambiarte a otro compatible.\n\njubilometro.com/total/x",
   "fecha": "2026-12-08",
   "hora": "09:00"
  },
@@ -2497,11 +2499,11 @@ export const PUBLICACIONES = [
   "hora": "11:00"
  },
  {
-  "id": "parcial-incapacidad-x",
+  "id": "absoluta-x",
   "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/incapacidad-parcial/",
-  "texto": "La incapacidad permanente parcial no es una pensión: cobras una sola vez 24 mensualidades de la base de tu baja y sigues trabajando. La empresa tiene que mantenerte en tu puesto o en uno adecuado, y solo puede bajarte el sueldo hasta un 25 %.\n\njubilometro.com/incapacidad-parcial/x",
+  "pilar": "La cifra que te toca",
+  "fuente": "/incapacidad/incapacidad-absoluta/",
+  "texto": "Incapacidad permanente absoluta: el 100 % de tu base reguladora, de por vida y sin IRPF. Desde el 22 de diciembre de 2024, si trabajas con alta en la Seguridad Social, el INSS suspende la pensión mientras dure el trabajo.\n\njubilometro.com/absoluta/x",
   "fecha": "2026-12-13",
   "hora": "10:00"
  },
@@ -2533,55 +2535,50 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
-  "id": "total-fb",
+  "id": "grados-incapacidad-fb",
   "red": "facebook",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/incapacidad-total/",
-  "texto": "Si te reconocen una incapacidad permanente total, tu contrato ya no se termina solo. Es un cambio de mayo de 2025 que mucha gente aún no conoce.\n\nTienes 10 días naturales desde que te notifican la incapacidad para decir por escrito a tu empresa que quieres seguir. Desde ahí, la empresa tiene tres meses para adaptar tu puesto o cambiarte a uno vacante que puedas hacer. Solo puede terminar el contrato si la adaptación es una carga excesiva, si no hay ningún puesto compatible o si rechazas un cambio adecuado.\n\nLa pensión de la total, el 55 % de tu base reguladora, es compatible con el sueldo de ese otro puesto, en tu empresa o en otra. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "Calcula tu caso",
+  "fuente": "/incapacidad/grados-incapacidad/",
+  "texto": "La incapacidad permanente tiene cuatro grados, según cuánto te impide trabajar, y cada uno se cobra de una forma.\n\nParcial: rindes al menos un 33 % menos en tu trabajo, pero puedes seguir haciéndolo. Cobras una indemnización única de 24 mensualidades y sigues en tu puesto.\n\nTotal: no puedes hacer tu trabajo habitual, pero sí otro. Cobras el 55 % de tu base reguladora, que sube al 75 % desde los 55 años si no trabajas.\n\nAbsoluta: no puedes trabajar en nada. Cobras el 100 %, sin retención de IRPF.\n\nGran incapacidad: además, necesitas ayuda de otra persona para comer, vestirte o moverte. Cobras el 100 % más un complemento para pagar a quien te cuida.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2026-12-14",
   "hora": "11:00"
  },
  {
   "red": "video",
   "tipo": "Vídeo (listo)",
-  "archivo": "video-20-grados-incapacidad.mp4",
+  "archivo": "video-23-incapacidad-denegada.mp4",
   "guion": [
    [
     "0-3 s",
-    "Incapacidad permanente · 4 grados, 4 formas de cobrar",
-    "La incapacidad permanente tiene cuatro grados, y cada uno se cobra distinto."
+    "Incapacidad permanente · ¿Te la han denegado?",
+    "¿Te han denegado la incapacidad permanente?"
    ],
    [
-    "3-9 s",
-    "Parcial · 24 mensualidades",
-    "Parcial: 24 mensualidades de una vez, y sigues en tu trabajo."
+    "3-11 s",
+    "Primer paso · 30 días para reclamar",
+    "Tienes 30 días desde la notificación para presentar la reclamación previa ante el INSS."
    ],
    [
-    "9-15 s",
-    "Total · El 55 % de tu base",
-    "Total: el 55 % de tu base reguladora, o el 75 % desde los 55 años si no trabajas."
+    "11-19 s",
+    "Si la rechaza o no contesta en 45 días · Otros 30 días",
+    "Si la rechaza o no contesta en 45 días, tienes otros 30 días para ir al Juzgado de lo Social."
    ],
    [
-    "15-21 s",
-    "Absoluta · El 100 %, sin IRPF",
-    "Absoluta: el 100 %, sin IRPF."
-   ],
-   [
-    "21-26 s",
-    "Gran incapacidad · 100 % y un complemento",
-    "Gran incapacidad: el 100 % más un complemento para pagar a quien te cuida."
+    "19-26 s",
+    "Consejo · Aporta todos tus informes",
+    "Aporta todos tus informes en la reclamación previa: en el juicio solo cuenta lo que está en el expediente, salvo los hechos nuevos."
    ],
    [
     "26-30 s",
-    "jubilometro.com/calcula-incapacidad",
-    "Calcula la tuya en jubilometro.com/calcula-incapacidad."
+    "jubilometro.com/incapacidad-denegada",
+    "Paso a paso, en jubilometro.com/incapacidad-denegada."
    ]
   ],
-  "id": "video-grados-incapacidad",
-  "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/grados-incapacidad/",
-  "titulo": "Incapacidad permanente: 4 grados, 4 formas de cobrar",
-  "texto": "Parcial, 24 mensualidades; total, el 55 % (75 % desde los 55); absoluta, el 100 % sin IRPF, y gran incapacidad, el 100 % más un complemento. Calcula la tuya: jubilometro.com/calcula-incapacidad/yt\n\n#incapacidadpermanente #pensiones #inss",
+  "id": "video-incapacidad-denegada",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/incapacidad/denegada/",
+  "titulo": "¿Te han denegado la incapacidad? Tienes 30 días",
+  "texto": "Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa ante el INSS y otros 30 para la demanda. Paso a paso: jubilometro.com/incapacidad-denegada/yt\n\n#incapacidadpermanente #inss #pensiones",
   "fecha": "2026-12-14",
   "hora": "13:00"
  },
@@ -2786,11 +2783,11 @@ export const PUBLICACIONES = [
   "hora": "13:30"
  },
  {
-  "id": "enfermedades-x",
+  "id": "parcial-incapacidad-x",
   "red": "x",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/enfermedades/",
-  "texto": "No hay una lista de enfermedades que den la incapacidad permanente. El tribunal médico valora las limitaciones que te deja, comparadas con lo que exige tu trabajo. Por eso la misma enfermedad da la incapacidad a una persona y a otra no.\n\njubilometro.com/enfermedades/x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/incapacidad/incapacidad-parcial/",
+  "texto": "La incapacidad permanente parcial no es una pensión: cobras una sola vez 24 mensualidades de la base de tu baja y sigues trabajando. La empresa tiene que mantenerte en tu puesto o en uno adecuado, y solo puede bajarte el sueldo hasta un 25 %.\n\njubilometro.com/incapacidad-parcial/x",
   "fecha": "2026-12-18",
   "hora": "09:00"
  },
@@ -3043,20 +3040,20 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
-  "id": "enfermedades-fb",
+  "id": "total-fb",
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/enfermedades/",
-  "texto": "«¿Qué enfermedades dan la incapacidad permanente?» es de las preguntas que más se buscan, y la respuesta sorprende: no existe una lista.\n\nLo que valora el tribunal médico del INSS (el Equipo de Valoración de Incapacidades) son las limitaciones que te deja la enfermedad. Tienen que ser graves, se tienen que poder comprobar con pruebas y tienen que ser previsiblemente definitivas. Y se comparan con lo que exige tu profesión: una lesión de rodilla no pesa igual en un albañil que en un administrativo.\n\nPor eso, más que el diagnóstico, importan los informes que describen qué no puedes hacer.\n\nLo que sí tiene lista oficial son las enfermedades profesionales: si la tuya lo es, no te piden cotización mínima. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "fuente": "/incapacidad/incapacidad-total/",
+  "texto": "Si te reconocen una incapacidad permanente total, tu contrato ya no se termina solo. Es un cambio de mayo de 2025 que mucha gente aún no conoce.\n\nTienes 10 días naturales desde que te notifican la incapacidad para decir por escrito a tu empresa que quieres seguir. Desde ahí, la empresa tiene tres meses para adaptar tu puesto o cambiarte a uno vacante que puedas hacer. Solo puede terminar el contrato si la adaptación es una carga excesiva, si no hay ningún puesto compatible o si rechazas un cambio adecuado.\n\nLa pensión de la total, el 55 % de tu base reguladora, es compatible con el sueldo de ese otro puesto, en tu empresa o en otra. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2026-12-22",
   "hora": "11:00"
  },
  {
-  "id": "pedir-incapacidad-x",
+  "id": "enfermedades-x",
   "red": "x",
-  "pilar": "Trámites sin líos",
-  "fuente": "/incapacidad/solicitar/",
-  "texto": "La incapacidad permanente la puedes pedir tú, en la sede de la Seguridad Social o con cita previa. Te valora el tribunal médico, tienes 10 días para alegar antes de la decisión y el INSS tiene 135 días para resolver. Si no contesta, puedes reclamar.\n\njubilometro.com/pedir-incapacidad/x",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/incapacidad/enfermedades/",
+  "texto": "No hay una lista de enfermedades que den la incapacidad permanente. El tribunal médico valora las limitaciones que te deja, comparadas con lo que exige tu trabajo. Por eso la misma enfermedad da la incapacidad a una persona y a otra no.\n\njubilometro.com/enfermedades/x",
   "fecha": "2026-12-22",
   "hora": "13:30"
  },
@@ -3214,69 +3211,74 @@ export const PUBLICACIONES = [
  {
   "red": "video",
   "tipo": "Vídeo (listo)",
-  "archivo": "video-18-dependencia-espera.mp4",
+  "archivo": "video-20-grados-incapacidad.mp4",
   "guion": [
    [
     "0-3 s",
-    "Dependencia · ¿Cuánto tarda de verdad?",
-    "¿Cuánto tarda de verdad la dependencia?"
+    "Incapacidad permanente · 4 grados, 4 formas de cobrar",
+    "La incapacidad permanente tiene cuatro grados, y cada uno se cobra distinto."
    ],
    [
     "3-9 s",
-    "Lo que dice la ley · 6 meses",
-    "La ley da seis meses para resolverla."
+    "Parcial · 24 mensualidades",
+    "Parcial: 24 mensualidades de una vez, y sigues en tu trabajo."
    ],
    [
-    "9-17 s",
-    "La media real en España · 293 días",
-    "La media real en España son 293 días, según el Imserso."
+    "9-15 s",
+    "Total · El 55 % de tu base",
+    "Total: el 55 % de tu base reguladora, o el 75 % desde los 55 años si no trabajas."
    ],
    [
-    "17-26 s",
-    "Depende de tu comunidad · Aragón: 109 días · País Vasco: 130 días · Región de Murcia: 529 días",
-    "Desde 109 días en Aragón hasta 529 en la Región de Murcia."
+    "15-21 s",
+    "Absoluta · El 100 %, sin IRPF",
+    "Absoluta: el 100 %, sin IRPF."
+   ],
+   [
+    "21-26 s",
+    "Gran incapacidad · 100 % y un complemento",
+    "Gran incapacidad: el 100 % más un complemento para pagar a quien te cuida."
    ],
    [
     "26-30 s",
-    "jubilometro.com/espera-dependencia",
-    "Tu comunidad, en jubilometro.com/espera-dependencia."
+    "jubilometro.com/calcula-incapacidad",
+    "Calcula la tuya en jubilometro.com/calcula-incapacidad."
    ]
   ],
-  "id": "video-dependencia-espera",
+  "id": "video-grados-incapacidad",
   "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/tiempos-dependencia/",
-  "titulo": "¿Cuánto tarda de verdad la dependencia?",
-  "texto": "La ley da seis meses, pero la media real en España es de 293 días: de 109 en Aragón a 529 en la Región de Murcia. Tu comunidad: jubilometro.com/espera-dependencia/yt\n\n#dependencia #mayores #cuidados",
+  "fuente": "/incapacidad/grados-incapacidad/",
+  "titulo": "Incapacidad permanente: 4 grados, 4 formas de cobrar",
+  "texto": "Parcial, 24 mensualidades; total, el 55 % (75 % desde los 55); absoluta, el 100 % sin IRPF, y gran incapacidad, el 100 % más un complemento. Calcula la tuya: jubilometro.com/calcula-incapacidad/yt\n\n#incapacidadpermanente #pensiones #inss",
   "fecha": "2026-12-25",
   "hora": "13:00"
  },
  {
-  "id": "abogado-x",
+  "id": "pedir-incapacidad-x",
   "red": "x",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/abogado/",
-  "texto": "Para pedir la incapacidad y para la reclamación previa no necesitas abogado. Para el juicio no es obligatorio, pero el INSS va con el suyo. Como beneficiario de la Seguridad Social tienes justicia gratuita, sin importar tus ingresos.\n\njubilometro.com/abogado-incapacidad/x",
+  "pilar": "Trámites sin líos",
+  "fuente": "/incapacidad/solicitar/",
+  "texto": "La incapacidad permanente la puedes pedir tú, en la sede de la Seguridad Social o con cita previa. Te valora el tribunal médico, tienes 10 días para alegar antes de la decisión y el INSS tiene 135 días para resolver. Si no contesta, puedes reclamar.\n\njubilometro.com/pedir-incapacidad/x",
   "fecha": "2026-12-25",
   "hora": "13:30"
  },
  {
-  "id": "grados-incapacidad-ig",
+  "id": "incapacidad-trabajo-ig",
   "red": "instagram",
   "tipo": "Carrusel",
   "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/grados-incapacidad/",
+  "fuente": "/incapacidad/incapacidad-y-trabajo/",
   "diapositivas": [
-   "Incapacidad permanente: los 4 grados y cuánto se cobra en cada uno.",
-   "Parcial: rindes al menos un 33 % menos, pero puedes seguir en tu trabajo.",
-   "Parcial: 24 mensualidades de una vez, y la empresa te mantiene en tu puesto.",
-   "Total: 55 % de tu base reguladora, si no puedes hacer tu trabajo habitual pero sí otro.",
-   "Total cualificada: 75 % desde los 55 años, mientras no trabajes.",
-   "Absoluta: 100 % de tu base, sin IRPF, si no puedes trabajar en nada.",
-   "Gran incapacidad: 100 % más un complemento para pagar a quien te cuida.",
-   "Guárdalo y calcula la tuya en Jubilómetro (enlace en la biografía)."
+   "¿Se puede trabajar con una incapacidad permanente? Grado a grado.",
+   "Parcial: sigues en tu trabajo, y la indemnización es compatible con todo.",
+   "Total: puedes trabajar en otras funciones y cobrar la pensión a la vez.",
+   "Total cualificada: el 20 % extra se deja de cobrar mientras trabajas.",
+   "Absoluta y gran incapacidad: si el trabajo exige alta, se suspende la pensión mientras dure.",
+   "Solo son compatibles las actividades esporádicas que no exigen darse de alta.",
+   "En todos los grados, avisa al INSS antes de empezar a trabajar.",
+   "Guárdalo por si lo necesitas. La guía completa, en Jubilómetro (enlace en la biografía)."
   ],
-  "texto": "Parcial, total, absoluta y gran incapacidad: qué significa cada grado y cuánto se cobra. Calculadora en la biografía.\n\n#incapacidadpermanente #pensiones #seguridadsocial #inss",
-  "carrusel": "publicacion/redes/banco/carruseles/grados-incapacidad-ig/",
+  "texto": "Trabajar cobrando una incapacidad permanente: qué se puede en cada grado desde los cambios de 2024 y 2025. Guía en la biografía.\n\n#incapacidadpermanente #trabajo #pensiones #inss",
+  "carrusel": "publicacion/redes/banco/carruseles/incapacidad-trabajo-ig/",
   "fecha": "2026-12-25",
   "hora": "19:00"
  },
@@ -3346,39 +3348,39 @@ export const PUBLICACIONES = [
  {
   "red": "video",
   "tipo": "Vídeo (listo)",
-  "archivo": "video-23-incapacidad-denegada.mp4",
+  "archivo": "video-18-dependencia-espera.mp4",
   "guion": [
    [
     "0-3 s",
-    "Incapacidad permanente · ¿Te la han denegado?",
-    "¿Te han denegado la incapacidad permanente?"
+    "Dependencia · ¿Cuánto tarda de verdad?",
+    "¿Cuánto tarda de verdad la dependencia?"
    ],
    [
-    "3-11 s",
-    "Primer paso · 30 días para reclamar",
-    "Tienes 30 días desde la notificación para presentar la reclamación previa ante el INSS."
+    "3-9 s",
+    "Lo que dice la ley · 6 meses",
+    "La ley da seis meses para resolverla."
    ],
    [
-    "11-19 s",
-    "Si la rechaza o no contesta en 45 días · Otros 30 días",
-    "Si la rechaza o no contesta en 45 días, tienes otros 30 días para ir al Juzgado de lo Social."
+    "9-17 s",
+    "La media real en España · 293 días",
+    "La media real en España son 293 días, según el Imserso."
    ],
    [
-    "19-26 s",
-    "Consejo · Aporta todos tus informes",
-    "Aporta todos tus informes en la reclamación previa: en el juicio solo cuenta lo que está en el expediente, salvo los hechos nuevos."
+    "17-26 s",
+    "Depende de tu comunidad · Aragón: 109 días · País Vasco: 130 días · Región de Murcia: 529 días",
+    "Desde 109 días en Aragón hasta 529 en la Región de Murcia."
    ],
    [
     "26-30 s",
-    "jubilometro.com/incapacidad-denegada",
-    "Paso a paso, en jubilometro.com/incapacidad-denegada."
+    "jubilometro.com/espera-dependencia",
+    "Tu comunidad, en jubilometro.com/espera-dependencia."
    ]
   ],
-  "id": "video-incapacidad-denegada",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/denegada/",
-  "titulo": "¿Te han denegado la incapacidad? Tienes 30 días",
-  "texto": "Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa ante el INSS y otros 30 para la demanda. Paso a paso: jubilometro.com/incapacidad-denegada/yt\n\n#incapacidadpermanente #inss #pensiones",
+  "id": "video-dependencia-espera",
+  "pilar": "Calcula tu caso",
+  "fuente": "/dependencia/tiempos-dependencia/",
+  "titulo": "¿Cuánto tarda de verdad la dependencia?",
+  "texto": "La ley da seis meses, pero la media real en España es de 293 días: de 109 en Aragón a 529 en la Región de Murcia. Tu comunidad: jubilometro.com/espera-dependencia/yt\n\n#dependencia #mayores #cuidados",
   "fecha": "2026-12-28",
   "hora": "13:00"
  },
@@ -3450,11 +3452,11 @@ export const PUBLICACIONES = [
   "hora": "11:00"
  },
  {
-  "id": "revision-grado-x",
+  "id": "denegada-x",
   "red": "x",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/revision-grado/",
-  "texto": "Pedir la revisión del grado de incapacidad tiene un riesgo: el INSS no está atado a lo que pides y puede bajarte de grado. La revisión se puede pedir desde la fecha que indica tu resolución, y solo hasta la edad de jubilación.\n\njubilometro.com/revision-grado/x",
+  "fuente": "/incapacidad/denegada/",
+  "texto": "¿Te han denegado la incapacidad permanente? Tienes 30 días para la reclamación previa ante el INSS. Si la rechaza o no contesta en 45 días, otros 30 para ir al Juzgado de lo Social. Aporta todos tus informes en la reclamación previa.\n\njubilometro.com/incapacidad-denegada/x",
   "fecha": "2026-12-29",
   "hora": "13:30"
  },
@@ -3468,12 +3470,11 @@ export const PUBLICACIONES = [
   "hora": "09:00"
  },
  {
-  "id": "retornados-fb",
+  "id": "enfermedades-fb",
   "red": "facebook",
-  "pilar": "La cifra que te toca",
-  "fuente": "/ayudas/emigrantes-retornados/",
-  "texto": "Si tienes familia que emigró y está pensando en volver, esto le interesa: los españoles que regresan después de trabajar fuera tienen un subsidio propio, el subsidio para emigrantes retornados. Lo paga el SEPE.\n\nEs para quien ha trabajado al menos 12 meses en los últimos 6 años en países de fuera del Espacio Económico Europeo y no cobró paro allí. Son 570 euros al mes los seis primeros meses, 540 los seis siguientes y 480 los seis últimos. Antes hay que pedir el certificado de emigrante retornado en la Delegación o Subdelegación del Gobierno.\n\nOjo con el plazo: si se pide en los 15 días hábiles siguientes a la vuelta, se cobra desde el día siguiente; pasados 6 meses, lo deniegan. Y quien vuelve con 65 años o más y sin ingresos puede tener una pensión asistencial por ancianidad.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "imagenLista": "publicacion/redes/banco/cifras/retornados-fb.png",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/incapacidad/enfermedades/",
+  "texto": "«¿Qué enfermedades dan la incapacidad permanente?» es de las preguntas que más se buscan, y la respuesta sorprende: no existe una lista.\n\nLo que valora el tribunal médico del INSS (el Equipo de Valoración de Incapacidades) son las limitaciones que te deja la enfermedad. Tienen que ser graves, se tienen que poder comprobar con pruebas y tienen que ser previsiblemente definitivas. Y se comparan con lo que exige tu profesión: una lesión de rodilla no pesa igual en un albañil que en un administrativo.\n\nPor eso, más que el diagnóstico, importan los informes que describen qué no puedes hacer.\n\nLo que sí tiene lista oficial son las enfermedades profesionales: si la tuya lo es, no te piden cotización mínima. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2026-12-30",
   "hora": "11:00"
  },
@@ -3566,20 +3567,21 @@ export const PUBLICACIONES = [
   "hora": "09:00"
  },
  {
-  "id": "denegada-fb",
+  "id": "retornados-fb",
   "red": "facebook",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/denegada/",
-  "texto": "Si el INSS te deniega la incapacidad permanente, o te da un grado menor del que crees que te corresponde, no está todo perdido, pero hay que moverse rápido.\n\nTienes 30 días desde la notificación para presentar una reclamación previa ante el propio INSS. Si en 45 días no contesta o la rechaza, tienes otros 30 días para presentar una demanda en el Juzgado de lo Social.\n\nUn consejo importante: en el juicio solo se discuten los hechos que constan en el expediente, salvo los nuevos. Por eso conviene aportar todos tus informes médicos ya en la reclamación previa.\n\nPara el juicio no es obligatorio ir con abogado, aunque el INSS siempre va con el suyo. Tienes derecho a la justicia gratuita sin importar tus ingresos. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "La cifra que te toca",
+  "fuente": "/ayudas/emigrantes-retornados/",
+  "texto": "Si tienes familia que emigró y está pensando en volver, esto le interesa: los españoles que regresan después de trabajar fuera tienen un subsidio propio, el subsidio para emigrantes retornados. Lo paga el SEPE.\n\nEs para quien ha trabajado al menos 12 meses en los últimos 6 años en países de fuera del Espacio Económico Europeo y no cobró paro allí. Son 570 euros al mes los seis primeros meses, 540 los seis siguientes y 480 los seis últimos. Antes hay que pedir el certificado de emigrante retornado en la Delegación o Subdelegación del Gobierno.\n\nOjo con el plazo: si se pide en los 15 días hábiles siguientes a la vuelta, se cobra desde el día siguiente; pasados 6 meses, lo deniegan. Y quien vuelve con 65 años o más y sin ingresos puede tener una pensión asistencial por ancianidad.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "imagenLista": "publicacion/redes/banco/cifras/retornados-fb.png",
   "fecha": "2026-12-31",
   "hora": "11:00"
  },
  {
-  "id": "incapacidad-jubilacion-x",
+  "id": "abogado-x",
   "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/incapacidad/incapacidad-y-jubilacion/",
-  "texto": "A los 67 años, la pensión de incapacidad permanente pasa a llamarse de jubilación, sin ningún otro cambio: ni la cuantía ni las condiciones. Y si tienes derecho a las dos del mismo régimen, cobras una sola, la más alta.\n\njubilometro.com/incapacidad-jubilacion/x",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/incapacidad/abogado/",
+  "texto": "Para pedir la incapacidad y para la reclamación previa no necesitas abogado. Para el juicio no es obligatorio, pero el INSS va con el suyo. Como beneficiario de la Seguridad Social tienes justicia gratuita, sin importar tus ingresos.\n\njubilometro.com/abogado-incapacidad/x",
   "fecha": "2026-12-31",
   "hora": "13:30"
  },
@@ -3700,11 +3702,11 @@ export const PUBLICACIONES = [
   "hora": "11:00"
  },
  {
-  "id": "denegada-x",
+  "id": "revision-grado-x",
   "red": "x",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/denegada/",
-  "texto": "¿Te han denegado la incapacidad permanente? Tienes 30 días para la reclamación previa ante el INSS. Si la rechaza o no contesta en 45 días, otros 30 para ir al Juzgado de lo Social. Aporta todos tus informes en la reclamación previa.\n\njubilometro.com/incapacidad-denegada/x",
+  "fuente": "/incapacidad/revision-grado/",
+  "texto": "Pedir la revisión del grado de incapacidad tiene un riesgo: el INSS no está atado a lo que pides y puede bajarte de grado. La revisión se puede pedir desde la fecha que indica tu resolución, y solo hasta la edad de jubilación.\n\njubilometro.com/revision-grado/x",
   "fecha": "2027-01-03",
   "hora": "10:00"
  },
@@ -3855,33 +3857,31 @@ export const PUBLICACIONES = [
   "hora": "11:00"
  },
  {
+  "id": "incapacidad-jubilacion-x",
+  "red": "x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/incapacidad/incapacidad-y-jubilacion/",
+  "texto": "A los 67 años, la pensión de incapacidad permanente pasa a llamarse de jubilación, sin ningún otro cambio: ni la cuantía ni las condiciones. Y si tienes derecho a las dos del mismo régimen, cobras una sola, la más alta.\n\njubilometro.com/incapacidad-jubilacion/x",
+  "fecha": "2027-01-05",
+  "hora": "13:30"
+ },
+ {
   "id": "dependencia-castilla-y-leon-x",
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/castilla-y-leon/",
   "texto": "Dependencia en Castilla y León: se pide en tu CEAS, y el grado y las ayudas se resuelven casi siempre a la vez. Por eso es de las más rápidas: 120 días de media desde la solicitud hasta la prestación, frente a 293 en España.\n\njubilometro.com/dependencia-castilla-y-leon/x",
-  "fecha": "2027-01-05",
-  "hora": "13:30"
- },
- {
-  "id": "subida-sola-x",
-  "red": "x",
-  "pilar": "Calendario y avisos",
-  "fuente": "/cuanto-cobrare/revalorizacion-pensiones/",
-  "hasta": "2027-01-31",
-  "texto": "La subida de las pensiones de enero se aplica sola: no hay que pedirla. En 2027 será lo que haya subido de media el IPC de diciembre de 2025 a noviembre de 2026, y las mínimas y las no contributivas subirán algo más.\n\nCalcula la tuya: jubilometro.com/subida/x",
   "fecha": "2027-01-06",
   "hora": "09:00"
  },
  {
+  "id": "denegada-fb",
   "red": "facebook",
-  "pilar": "La cifra que te toca",
-  "fuente": "/ayudas/bono-social-electrico/",
-  "texto": "Bono social eléctrico para pensionistas: un descuento del 35 % en la factura de la luz (50 % para los vulnerables severos), sobre un consumo máximo al año.\n\nLos pensionistas tienen una vía propia: tienen derecho si todas las personas de la casa con ingresos cobran la pensión mínima de jubilación o de incapacidad permanente y no tienen otros ingresos de más de 500 euros al año. También se puede tener por renta baja: 12.600 euros al año si vives solo en 2026.\n\nHace falta tener la tarifa regulada (PVPC) con una comercializadora de referencia. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "id": "mes1-48",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/incapacidad/denegada/",
+  "texto": "Si el INSS te deniega la incapacidad permanente, o te da un grado menor del que crees que te corresponde, no está todo perdido, pero hay que moverse rápido.\n\nTienes 30 días desde la notificación para presentar una reclamación previa ante el propio INSS. Si en 45 días no contesta o la rechaza, tienes otros 30 días para presentar una demanda en el Juzgado de lo Social.\n\nUn consejo importante: en el juicio solo se discuten los hechos que constan en el expediente, salvo los nuevos. Por eso conviene aportar todos tus informes médicos ya en la reclamación previa.\n\nPara el juicio no es obligatorio ir con abogado, aunque el INSS siempre va con el suyo. Tienes derecho a la justicia gratuita sin importar tus ingresos. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-06",
-  "hora": "11:00",
-  "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
+  "hora": "11:00"
  },
  {
   "red": "video",
@@ -3923,11 +3923,12 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "bomberos-x",
+  "id": "subida-sola-x",
   "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/bomberos/",
-  "texto": "Un bombero con 25 años de servicio adelanta su jubilación 5 años, sin recorte en la pensión: el coeficiente es de 0,20 por año. Desde el 18 de septiembre de 2025 también lo tienen los bomberos forestales.\n\njubilometro.com/bomberos/x",
+  "pilar": "Calendario y avisos",
+  "fuente": "/cuanto-cobrare/revalorizacion-pensiones/",
+  "hasta": "2027-01-31",
+  "texto": "La subida de las pensiones de enero se aplica sola: no hay que pedirla. En 2027 será lo que haya subido de media el IPC de diciembre de 2025 a noviembre de 2026, y las mínimas y las no contributivas subirán algo más.\n\nCalcula la tuya: jubilometro.com/subida/x",
   "fecha": "2027-01-06",
   "hora": "13:30"
  },
@@ -3963,22 +3964,32 @@ export const PUBLICACIONES = [
   "hora": "08:30"
  },
  {
+  "id": "bomberos-x",
+  "red": "x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/jubilacion/bomberos/",
+  "texto": "Un bombero con 25 años de servicio adelanta su jubilación 5 años, sin recorte en la pensión: el coeficiente es de 0,20 por año. Desde el 18 de septiembre de 2025 también lo tienen los bomberos forestales.\n\njubilometro.com/bomberos/x",
+  "fecha": "2027-01-07",
+  "hora": "09:00"
+ },
+ {
+  "red": "facebook",
+  "pilar": "La cifra que te toca",
+  "fuente": "/ayudas/bono-social-electrico/",
+  "texto": "Bono social eléctrico para pensionistas: un descuento del 35 % en la factura de la luz (50 % para los vulnerables severos), sobre un consumo máximo al año.\n\nLos pensionistas tienen una vía propia: tienen derecho si todas las personas de la casa con ingresos cobran la pensión mínima de jubilación o de incapacidad permanente y no tienen otros ingresos de más de 500 euros al año. También se puede tener por renta baja: 12.600 euros al año si vives solo en 2026.\n\nHace falta tener la tarifa regulada (PVPC) con una comercializadora de referencia. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "id": "mes1-48",
+  "fecha": "2027-01-07",
+  "hora": "11:00",
+  "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
+ },
+ {
   "id": "dependencia-cataluna-x",
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/cataluna/",
   "texto": "Dependencia en Cataluña: la media real fue de 198 días hasta el grado y 261 hasta la prestación, y es la comunidad con más personas esperando seis meses o más: 40.624. Se puede pedir en línea con idCAT Mòbil.\n\njubilometro.com/dependencia-cataluna/x",
   "fecha": "2027-01-07",
-  "hora": "09:00"
- },
- {
-  "id": "reclamar-dependencia-fb",
-  "red": "facebook",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/dependencia/reclamar-dependencia/",
-  "texto": "Pidieron la dependencia para su madre hace un año y siguen sin respuesta. Es una situación muy frecuente, y hay forma de moverla.\n\nLa Administración tiene seis meses desde la solicitud para reconocer el grado y la ayuda. Si se pasa, el derecho empieza a contar igualmente desde el final de esos seis meses, y se puede reclamar: primero con un escrito pidiendo que resuelvan, después con un recurso y, si hace falta, con una queja al Defensor del Pueblo o ante los tribunales.\n\nSi ya hay resolución pero no estáis de acuerdo con el grado o con la ayuda, se puede recurrir, normalmente en un mes. La propia resolución dice qué recurso cabe y ante quién.\n\nY si la persona empeora, no hace falta recurrir: se pide la revisión del grado. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "fecha": "2027-01-07",
-  "hora": "11:00"
+  "hora": "13:30"
  },
  {
   "red": "x",
@@ -3986,15 +3997,6 @@ export const PUBLICACIONES = [
   "fuente": "/cuanto-cobrare/certificado-pension/",
   "texto": "El certificado de tu pensión se descarga gratis y al momento en la sede de la Seguridad Social, con Cl@ve, certificado digital o un SMS a tu móvil.\n\nCon un acceso tienes todos: resumido, desglosado, de retenciones de IRPF, de revalorización…\n\njubilometro.com/certificado/x",
   "id": "mes1-61",
-  "fecha": "2027-01-07",
-  "hora": "13:30"
- },
- {
-  "id": "policia-local-x",
-  "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/policia-local/",
-  "texto": "Policía local: cada año de servicio rebaja la edad de jubilación 0,20 años, hasta 5 años antes (6 con 37 años de servicio). Hace falta haber trabajado 15 años como policía local, y la pensión no se recorta.\n\njubilometro.com/policia-local/x",
   "fecha": "2027-01-08",
   "hora": "09:00"
  },
@@ -4008,11 +4010,11 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
-  "id": "requisitos-viudedad-fb",
+  "id": "reclamar-dependencia-fb",
   "red": "facebook",
-  "pilar": "Calcula tu caso",
-  "fuente": "/viudedad/requisitos/",
-  "texto": "Requisitos de la pensión de viudedad, explicados sin letra pequeña.\n\nLo que se mira es la situación de la persona fallecida. Tenía que estar trabajando (o cobrando el paro, por ejemplo) y tener 500 días cotizados en los últimos 5 años, o haber cotizado 15 años en total, o ser ya pensionista de jubilación o de incapacidad permanente. Si murió por un accidente o por una enfermedad profesional, no se exige ningún tiempo cotizado.\n\nPueden cobrarla el cónyuge, la pareja de hecho que cumpla los requisitos de convivencia (e inscripción, salvo que tengáis hijos en común) y el excónyuge que cobraba una pensión compensatoria.\n\nPara quien la cobra no hay límite de edad ni de ingresos, y es compatible con trabajar. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/dependencia/reclamar-dependencia/",
+  "texto": "Pidieron la dependencia para su madre hace un año y siguen sin respuesta. Es una situación muy frecuente, y hay forma de moverla.\n\nLa Administración tiene seis meses desde la solicitud para reconocer el grado y la ayuda. Si se pasa, el derecho empieza a contar igualmente desde el final de esos seis meses, y se puede reclamar: primero con un escrito pidiendo que resuelvan, después con un recurso y, si hace falta, con una queja al Defensor del Pueblo o ante los tribunales.\n\nSi ya hay resolución pero no estáis de acuerdo con el grado o con la ayuda, se puede recurrir, normalmente en un mes. La propia resolución dice qué recurso cabe y ante quién.\n\nY si la persona empeora, no hace falta recurrir: se pide la revisión del grado. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-08",
   "hora": "11:00"
  },
@@ -4056,11 +4058,11 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "dependencia-comunitat-valenciana-x",
+  "id": "policia-local-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/comunitat-valenciana/",
-  "texto": "Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.\n\njubilometro.com/dependencia-comunitat-valenciana/x",
+  "fuente": "/jubilacion/policia-local/",
+  "texto": "Policía local: cada año de servicio rebaja la edad de jubilación 0,20 años, hasta 5 años antes (6 con 37 años de servicio). Hace falta haber trabajado 15 años como policía local, y la pensión no se recorta.\n\njubilometro.com/policia-local/x",
   "fecha": "2027-01-08",
   "hora": "13:30"
  },
@@ -4086,12 +4088,30 @@ export const PUBLICACIONES = [
   "hora": "19:00"
  },
  {
+  "id": "dependencia-comunitat-valenciana-x",
+  "red": "x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/dependencia/comunitat-valenciana/",
+  "texto": "Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.\n\njubilometro.com/dependencia-comunitat-valenciana/x",
+  "fecha": "2027-01-09",
+  "hora": "10:00"
+ },
+ {
+  "id": "requisitos-viudedad-fb",
+  "red": "facebook",
+  "pilar": "Calcula tu caso",
+  "fuente": "/viudedad/requisitos/",
+  "texto": "Requisitos de la pensión de viudedad, explicados sin letra pequeña.\n\nLo que se mira es la situación de la persona fallecida. Tenía que estar trabajando (o cobrando el paro, por ejemplo) y tener 500 días cotizados en los últimos 5 años, o haber cotizado 15 años en total, o ser ya pensionista de jubilación o de incapacidad permanente. Si murió por un accidente o por una enfermedad profesional, no se exige ningún tiempo cotizado.\n\nPueden cobrarla el cónyuge, la pareja de hecho que cumpla los requisitos de convivencia (e inscripción, salvo que tengáis hijos en común) y el excónyuge que cobraba una pensión compensatoria.\n\nPara quien la cobra no hay límite de edad ni de ingresos, y es compatible con trabajar. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "fecha": "2027-01-09",
+  "hora": "11:00"
+ },
+ {
   "red": "x",
   "pilar": "Errores que cuestan dinero",
   "fuente": "/cuanto-cobrare/informe-vida-laboral/",
   "texto": "Revisa tu vida laboral años antes de jubilarte. Un periodo trabajado que no aparece te quita años cotizados y rebaja tu pensión.\n\nSe pide gratis en Import@ss, también con un SMS, o te la mandan a casa. Si hay un error, se puede pedir que lo corrijan.\n\njubilometro.com/vida-laboral/x",
   "id": "mes1-83",
-  "fecha": "2027-01-09",
+  "fecha": "2027-01-10",
   "hora": "10:00"
  },
  {
@@ -4100,7 +4120,7 @@ export const PUBLICACIONES = [
   "pilar": "Calcula tu caso",
   "fuente": "/jubilacion/compensa-jubilarse-antes/",
   "texto": "¿Compensa jubilarse antes? Hicimos las cuentas con las pensiones en la mano.\n\nSi adelantas tu jubilación 2 años, cobras antes, pero con un recorte para toda la vida. Lo que cobras de más en esos dos años se agota entre los 73 y los 79 años, según tu recorte. A partir de ahí, cada año pierdes dinero. Y a los 65 años la esperanza de vida supera los 19 años en los hombres y los 23 en las mujeres.\n\nAun así, puede compensar si no vas a tener otros ingresos hasta tu edad ordinaria, si tu salud lo aconseja o si necesitas el dinero ahora. Y casi nunca compensa si te faltan pocos meses para llegar a 38 años y 6 meses cotizados, porque con ellos te jubilas a los 65 sin recorte.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "fecha": "2027-01-09",
+  "fecha": "2027-01-10",
   "hora": "11:00"
  },
  {
@@ -4109,24 +4129,6 @@ export const PUBLICACIONES = [
   "pilar": "Calcula tu caso",
   "fuente": "/jubilacion/policia-nacional/",
   "texto": "Policía Nacional: la segunda actividad no es la jubilación. En la escala básica se puede pedir desde los 58 años y sigues cobrando las retribuciones básicas y el 80 % de las complementarias generales. La jubilación forzosa llega a los 65.\n\njubilometro.com/policia-nacional/x",
-  "fecha": "2027-01-10",
-  "hora": "10:00"
- },
- {
-  "id": "certificado-fb",
-  "red": "facebook",
-  "pilar": "Trámites sin líos",
-  "fuente": "/cuanto-cobrare/certificado-pension/",
-  "texto": "El banco, el ayuntamiento o una residencia te piden el certificado de tu pensión. Se saca gratis y al momento por internet, sin ir a ninguna oficina.\n\nEstá en la sede electrónica de la Seguridad Social, en el certificado integral de prestaciones. Puedes entrar con certificado digital, con Cl@ve o con un código por SMS, si la Seguridad Social tiene tu móvil.\n\nCon un solo acceso descargas todos los modelos: el resumido o el desglosado con lo que cobras, uno sin importes, el de retenciones del IRPF para la declaración de la renta, el de revalorización del año y, si no cobras nada, el de no pensionista.\n\nSi te cuesta, puede hacerlo un familiar con tu permiso. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "fecha": "2027-01-10",
-  "hora": "11:00"
- },
- {
-  "id": "dependencia-extremadura-x",
-  "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/extremadura/",
-  "texto": "Dependencia en Extremadura: la solicitud es el único papel obligatorio. Si autorizas la consulta, la Junta obtiene sola tu informe de salud, tu padrón y tus datos económicos. Media real: 277 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-extremadura/x",
   "fecha": "2027-01-11",
   "hora": "09:00"
  },
@@ -4140,11 +4142,11 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
+  "id": "certificado-fb",
   "red": "facebook",
-  "pilar": "Familias y cuidados",
-  "fuente": "/dependencia/grados/",
-  "texto": "¿Cómo se decide el grado de dependencia? Con un baremo oficial que puntúa de 0 a 100 cuánta ayuda necesita la persona para comer, asearse, vestirse, moverse, cuidar su salud o hacer las tareas de casa.\n\nMenos de 25 puntos: sin grado.\nDe 25 a 49: grado I, dependencia moderada.\nDe 50 a 74: grado II, dependencia severa.\nDe 75 a 100: grado III, gran dependencia.\n\nA más grado, más horas de ayuda a domicilio y ayudas más altas. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "id": "mes1-54",
+  "pilar": "Trámites sin líos",
+  "fuente": "/cuanto-cobrare/certificado-pension/",
+  "texto": "El banco, el ayuntamiento o una residencia te piden el certificado de tu pensión. Se saca gratis y al momento por internet, sin ir a ninguna oficina.\n\nEstá en la sede electrónica de la Seguridad Social, en el certificado integral de prestaciones. Puedes entrar con certificado digital, con Cl@ve o con un código por SMS, si la Seguridad Social tiene tu móvil.\n\nCon un solo acceso descargas todos los modelos: el resumido o el desglosado con lo que cobras, uno sin importes, el de retenciones del IRPF para la declaración de la renta, el de revalorización del año y, si no cobras nada, el de no pensionista.\n\nSi te cuesta, puede hacerlo un familiar con tu permiso. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-11",
   "hora": "11:00"
  },
@@ -4188,11 +4190,11 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "militares-x",
+  "id": "dependencia-extremadura-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/militares/",
-  "texto": "Militares de carrera: oficiales y suboficiales pasan a la reserva a los 61 años, y la tropa y marinería permanente, a los 58. El retiro, que es la jubilación, llega a los 65, o desde los 60 con 30 años de servicio si lo pides.\n\njubilometro.com/militares/x",
+  "fuente": "/dependencia/extremadura/",
+  "texto": "Dependencia en Extremadura: la solicitud es el único papel obligatorio. Si autorizas la consulta, la Junta obtiene sola tu informe de salud, tu padrón y tus datos económicos. Media real: 277 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-extremadura/x",
   "fecha": "2027-01-11",
   "hora": "13:30"
  },
@@ -4229,11 +4231,11 @@ export const PUBLICACIONES = [
   "hora": "08:30"
  },
  {
-  "id": "dependencia-la-rioja-x",
+  "id": "militares-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/la-rioja/",
-  "texto": "Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 130 días hasta la prestación, de las más rápidas de España.\n\njubilometro.com/dependencia-la-rioja/x",
+  "fuente": "/jubilacion/militares/",
+  "texto": "Militares de carrera: oficiales y suboficiales pasan a la reserva a los 61 años, y la tropa y marinería permanente, a los 58. El retiro, que es la jubilación, llega a los 65, o desde los 60 con 30 años de servicio si lo pides.\n\njubilometro.com/militares/x",
   "fecha": "2027-01-12",
   "hora": "09:00"
  },
@@ -4247,13 +4249,22 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
-  "id": "divorcio-fb",
   "red": "facebook",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/viudedad/divorcio-separacion/",
-  "texto": "¿Cobras viudedad si tu exmarido o tu exmujer fallece? Depende sobre todo de una cosa: la pensión compensatoria.\n\nSi estabas divorciado o separado judicialmente, tienes derecho a la viudedad solo si cobrabas una pensión compensatoria que se extingue con su muerte. La viudedad no puede ser mayor que esa compensatoria. Y no puedes haberte vuelto a casar ni tener una pareja de hecho.\n\nHay dos excepciones. Las víctimas de violencia de género no necesitan la pensión compensatoria. Y quien se divorció o se separó antes de 2008 puede cobrarla sin ella si tiene 65 años o más y estuvo casado al menos 15 años. Desde el 21 de octubre de 2026, aunque cobre otra pensión pública.\n\nSi tu ex se volvió a casar, la pensión se reparte según el tiempo vivido con cada uno, y el cónyuge actual se queda al menos el 40 %. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "Familias y cuidados",
+  "fuente": "/dependencia/grados/",
+  "texto": "¿Cómo se decide el grado de dependencia? Con un baremo oficial que puntúa de 0 a 100 cuánta ayuda necesita la persona para comer, asearse, vestirse, moverse, cuidar su salud o hacer las tareas de casa.\n\nMenos de 25 puntos: sin grado.\nDe 25 a 49: grado I, dependencia moderada.\nDe 50 a 74: grado II, dependencia severa.\nDe 75 a 100: grado III, gran dependencia.\n\nA más grado, más horas de ayuda a domicilio y ayudas más altas. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "id": "mes1-54",
   "fecha": "2027-01-12",
   "hora": "11:00"
+ },
+ {
+  "id": "dependencia-la-rioja-x",
+  "red": "x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/dependencia/la-rioja/",
+  "texto": "Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 130 días hasta la prestación, de las más rápidas de España.\n\njubilometro.com/dependencia-la-rioja/x",
+  "fecha": "2027-01-12",
+  "hora": "13:30"
  },
  {
   "id": "funcionarios-x",
@@ -4261,24 +4272,15 @@ export const PUBLICACIONES = [
   "pilar": "Calcula tu caso",
   "fuente": "/jubilacion/funcionarios/",
   "texto": "Funcionarios del Estado: si entraste antes del 1 de enero de 2011, tu pensión es de Clases Pasivas (desde los 60 años con 30 de servicio, y el 100 % con 35). Si entraste después, es de la Seguridad Social, como la del resto.\n\njubilometro.com/funcionarios/x",
-  "fecha": "2027-01-12",
-  "hora": "13:30"
- },
- {
-  "id": "dependencia-madrid-x",
-  "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/madrid/",
-  "texto": "Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 327 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-madrid/x",
   "fecha": "2027-01-13",
   "hora": "09:00"
  },
  {
-  "id": "profesiones-fb",
+  "id": "divorcio-fb",
   "red": "facebook",
-  "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/anticipada-por-profesion/",
-  "texto": "Algunas profesiones especialmente penosas o peligrosas permiten jubilarse antes sin perder pensión. Funcionan con coeficientes reductores: por cada año trabajado en ellas, la edad de jubilación baja una fracción de año. Con un coeficiente de 0,20, cada 5 años trabajados adelantan un año la jubilación.\n\nA diferencia de la jubilación anticipada voluntaria, no hay recorte: el tiempo adelantado cuenta como cotizado para calcular la pensión.\n\nLos tienen, entre otros, los bomberos (también los forestales desde septiembre de 2025), los policías locales, los mineros, los trabajadores del mar y el personal de vuelo.\n\n¿Tu profesión tiene coeficiente reductor? Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/viudedad/divorcio-separacion/",
+  "texto": "¿Cobras viudedad si tu exmarido o tu exmujer fallece? Depende sobre todo de una cosa: la pensión compensatoria.\n\nSi estabas divorciado o separado judicialmente, tienes derecho a la viudedad solo si cobrabas una pensión compensatoria que se extingue con su muerte. La viudedad no puede ser mayor que esa compensatoria. Y no puedes haberte vuelto a casar ni tener una pareja de hecho.\n\nHay dos excepciones. Las víctimas de violencia de género no necesitan la pensión compensatoria. Y quien se divorció o se separó antes de 2008 puede cobrarla sin ella si tiene 65 años o más y estuvo casado al menos 15 años. Desde el 21 de octubre de 2026, aunque cobre otra pensión pública.\n\nSi tu ex se volvió a casar, la pensión se reparte según el tiempo vivido con cada uno, y el cónyuge actual se queda al menos el 40 %. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-13",
   "hora": "11:00"
  },
@@ -4323,11 +4325,11 @@ export const PUBLICACIONES = [
   "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
  },
  {
-  "id": "mar-x",
+  "id": "dependencia-madrid-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/regimen-del-mar/",
-  "texto": "Trabajadores del mar: coeficientes de 0,15 a 0,40 por año según el barco, con hasta 10 años de adelanto y sin recorte. 25 años en un arrastrero de más de 250 toneladas adelantan la jubilación 8 años y 9 meses.\n\njubilometro.com/mar/x",
+  "fuente": "/dependencia/madrid/",
+  "texto": "Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 327 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-madrid/x",
   "fecha": "2027-01-13",
   "hora": "13:30"
  },
@@ -4364,22 +4366,31 @@ export const PUBLICACIONES = [
   "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
  },
  {
+  "id": "mar-x",
+  "red": "x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/jubilacion/regimen-del-mar/",
+  "texto": "Trabajadores del mar: coeficientes de 0,15 a 0,40 por año según el barco, con hasta 10 años de adelanto y sin recorte. 25 años en un arrastrero de más de 250 toneladas adelantan la jubilación 8 años y 9 meses.\n\njubilometro.com/mar/x",
+  "fecha": "2027-01-14",
+  "hora": "09:00"
+ },
+ {
+  "id": "profesiones-fb",
+  "red": "facebook",
+  "pilar": "Calcula tu caso",
+  "fuente": "/jubilacion/anticipada-por-profesion/",
+  "texto": "Algunas profesiones especialmente penosas o peligrosas permiten jubilarse antes sin perder pensión. Funcionan con coeficientes reductores: por cada año trabajado en ellas, la edad de jubilación baja una fracción de año. Con un coeficiente de 0,20, cada 5 años trabajados adelantan un año la jubilación.\n\nA diferencia de la jubilación anticipada voluntaria, no hay recorte: el tiempo adelantado cuenta como cotizado para calcular la pensión.\n\nLos tienen, entre otros, los bomberos (también los forestales desde septiembre de 2025), los policías locales, los mineros, los trabajadores del mar y el personal de vuelo.\n\n¿Tu profesión tiene coeficiente reductor? Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "fecha": "2027-01-14",
+  "hora": "11:00"
+ },
+ {
   "id": "dependencia-murcia-x",
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/murcia/",
   "texto": "Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.\n\njubilometro.com/dependencia-murcia/x",
   "fecha": "2027-01-14",
-  "hora": "09:00"
- },
- {
-  "id": "vida-laboral-fb",
-  "red": "facebook",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/cuanto-cobrare/informe-vida-laboral/",
-  "texto": "Un consejo que ahorra disgustos: revisa tu vida laboral años antes de jubilarte, no el mes de antes.\n\nEl informe de vida laboral recoge todas tus altas y bajas en la Seguridad Social. Si falta un periodo trabajado (un verano en una fábrica, un contrato de los años 80, una empresa que cerró), pierdes años cotizados y puede bajar tu base reguladora.\n\nSe pide gratis en el portal Import@ss con Cl@ve, certificado, DNI electrónico o un SMS al móvil, y también se puede pedir que te lo manden a casa por correo. Si encuentras un error, se pide la rectificación en la sede de la Seguridad Social, con nóminas, contratos o cualquier papel que lo pruebe.\n\nCuanto antes lo revises, más fácil es encontrar esos papeles. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "fecha": "2027-01-14",
-  "hora": "11:00"
+  "hora": "13:30"
  },
  {
   "id": "agrarios-x",
@@ -4387,33 +4398,24 @@ export const PUBLICACIONES = [
   "pilar": "Errores que cuestan dinero",
   "fuente": "/jubilacion/agrarios/",
   "texto": "Jornaleros del campo: se jubilan a la misma edad que el resto, pero con reglas propias. La que más sorprende: los meses sin cotizar no se rellenan al calcular la pensión, y hay que estar al día en las cuotas de los meses sin trabajo.\n\njubilometro.com/agrarios/x",
-  "fecha": "2027-01-14",
-  "hora": "13:30"
- },
- {
-  "id": "dependencia-pais-vasco-x",
-  "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/pais-vasco/",
-  "texto": "Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, de las más rápidas de España.\n\njubilometro.com/dependencia-pais-vasco/x",
   "fecha": "2027-01-15",
   "hora": "09:00"
  },
  {
-  "id": "certificado-wa",
+  "id": "vida-laboral-wa",
   "red": "whatsapp",
   "pilar": "Trámites sin líos",
-  "fuente": "/cuanto-cobrare/certificado-pension/",
-  "texto": "Para guardar: el certificado de tu pensión (con importes, sin importes, de retenciones o de revalorización) se descarga gratis en la sede de la Seguridad Social con Cl@ve, certificado digital o un SMS al móvil.\n\nPaso a paso: jubilometro.com/certificado/wa",
+  "fuente": "/cuanto-cobrare/informe-vida-laboral/",
+  "texto": "Un trámite de cinco minutos que conviene hacer años antes de jubilarse: descargar el informe de vida laboral y comprobar que no falta ningún periodo trabajado. Es gratis, con Cl@ve o con un SMS al móvil.\n\nCómo pedirlo y cómo corregir errores: jubilometro.com/vida-laboral/wa",
   "fecha": "2027-01-15",
   "hora": "10:00"
  },
  {
+  "id": "cobro-fb",
   "red": "facebook",
-  "pilar": "Familias y cuidados",
-  "fuente": "/dependencia/ayuda-a-domicilio/",
-  "texto": "Ayuda a domicilio para mayores: con la dependencia reconocida, la ley fija entre 20 y 94 horas al mes según el grado. De 20 a 37 en el grado I, de 38 a 64 en el grado II y de 65 a 94 en el grado III.\n\nLas auxiliares ayudan con el aseo, la comida, vestirse y moverse, y con las tareas de casa. Se paga una parte según los ingresos, y nadie se queda sin el servicio por no tener dinero. Sin grado de dependencia, muchos ayuntamientos lo ofrecen como servicio social.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "id": "mes1-85",
+  "pilar": "Calendario y avisos",
+  "fuente": "/cuanto-cobrare/calendario-pago-pensiones/",
+  "texto": "«¿Por qué a mi vecina le llega la pensión antes que a mí?» Porque cada banco decide si adelanta el pago y qué día.\n\nLa Seguridad Social paga la pensión a mes vencido: la de cada mes, como tarde, el primer día hábil del mes siguiente, y nunca después del día 4. La mayoría de los bancos la adelantan, y el dinero suele llegar entre el 22 y el 26 del mismo mes.\n\nSe cobran 14 pagas: las doce mensuales y dos extra, que llegan con la pensión de junio y con la de noviembre. Las pensiones por accidente de trabajo o enfermedad profesional se cobran en 12 pagas, con las extra repartidas. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-15",
   "hora": "11:00"
  },
@@ -4457,11 +4459,11 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "empleadas-hogar-x",
+  "id": "dependencia-navarra-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/empleadas-de-hogar/",
-  "texto": "Empleadas de hogar: se jubilan con las mismas reglas que cualquier asalariado, con al menos 15 años cotizados. Desde 2023, el alta y la cotización corren siempre a cargo de la familia empleadora, aunque trabajes pocas horas.\n\njubilometro.com/empleadas-hogar/x",
+  "fuente": "/dependencia/navarra/",
+  "texto": "Dependencia en Navarra: se empieza en tu servicio social de base (en Pamplona, la unidad de barrio), y la ley foral da tres meses para el grado. Media real: 146 días hasta el grado y 228 hasta la prestación, frente a 293 en España.\n\njubilometro.com/dependencia-navarra/x",
   "fecha": "2027-01-15",
   "hora": "13:30"
  },
@@ -4488,12 +4490,30 @@ export const PUBLICACIONES = [
   "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
  },
  {
-  "id": "pedir-dependencia-x",
+  "id": "empleadas-hogar-x",
   "red": "x",
-  "pilar": "Trámites sin líos",
-  "fuente": "/dependencia/solicitar-dependencia/",
-  "texto": "La dependencia se pide gratis en los servicios sociales de tu comunidad, a menudo con ayuda de los de tu ayuntamiento. Lo básico: el DNI y un informe de salud en el modelo oficial. Después, un profesional valora a la persona en su casa.\n\njubilometro.com/pedir-dependencia/x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/jubilacion/empleadas-de-hogar/",
+  "texto": "Empleadas de hogar: se jubilan con las mismas reglas que cualquier asalariado, con al menos 15 años cotizados. Desde 2023, el alta y la cotización corren siempre a cargo de la familia empleadora, aunque trabajes pocas horas.\n\njubilometro.com/empleadas-hogar/x",
   "fecha": "2027-01-16",
+  "hora": "10:00"
+ },
+ {
+  "red": "facebook",
+  "pilar": "Familias y cuidados",
+  "fuente": "/dependencia/ayuda-a-domicilio/",
+  "texto": "Ayuda a domicilio para mayores: con la dependencia reconocida, la ley fija entre 20 y 94 horas al mes según el grado. De 20 a 37 en el grado I, de 38 a 64 en el grado II y de 65 a 94 en el grado III.\n\nLas auxiliares ayudan con el aseo, la comida, vestirse y moverse, y con las tareas de casa. Se paga una parte según los ingresos, y nadie se queda sin el servicio por no tener dinero. Sin grado de dependencia, muchos ayuntamientos lo ofrecen como servicio social.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "id": "mes1-85",
+  "fecha": "2027-01-16",
+  "hora": "11:00"
+ },
+ {
+  "id": "dependencia-pais-vasco-x",
+  "red": "x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/dependencia/pais-vasco/",
+  "texto": "Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, de las más rápidas de España.\n\njubilometro.com/dependencia-pais-vasco/x",
+  "fecha": "2027-01-17",
   "hora": "10:00"
  },
  {
@@ -4502,7 +4522,7 @@ export const PUBLICACIONES = [
   "fuente": "/viudedad/pareja-de-hecho/",
   "texto": "Pensión de viudedad si no estabais casados: las parejas de hecho la cobran en las mismas condiciones que un matrimonio si cumplen dos requisitos.\n\nEstar inscritas en un registro de parejas de hecho (o en documento público) al menos dos años antes del fallecimiento, y haber convivido cinco años seguidos justo antes, acreditado con el empadronamiento. Si tenéis hijos en común, desde el 21 de octubre de 2026 bastan dos años de convivencia, sin inscripción.\n\nDesde 2022 no hay límite de ingresos. Y si no llegáis a los dos años de inscripción, se puede cobrar una prestación temporal de viudedad durante dos años. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "id": "mes1-92",
-  "fecha": "2027-01-16",
+  "fecha": "2027-01-17",
   "hora": "11:00"
  },
  {
@@ -4511,24 +4531,6 @@ export const PUBLICACIONES = [
   "pilar": "Errores que cuestan dinero",
   "fuente": "/jubilacion/faltan-anos-cotizados/",
   "texto": "¿Te faltan años cotizados? Antes de rendirte, mira cuatro cosas: seguir trabajando aunque sea a tiempo parcial, el convenio especial, recuperar prácticas y becas antiguas (hasta 5 años, con plazo hasta 2028) y los días por parto.\n\njubilometro.com/faltan-anos/x",
-  "fecha": "2027-01-17",
-  "hora": "10:00"
- },
- {
-  "id": "documentos-fb",
-  "red": "facebook",
-  "pilar": "Trámites sin líos",
-  "fuente": "/jubilacion/documentos-jubilacion/",
-  "texto": "¿Qué papeles hay que llevar para pedir la jubilación? Menos de los que piensa mucha gente.\n\nPara una jubilación ordinaria, en la mayoría de los casos basta con el documento de identidad, la cuenta del banco donde quieres cobrar y la solicitud: la Seguridad Social ya tiene tus cotizaciones.\n\nSegún tu caso, te pedirán además el libro de familia (si tienes cónyuge o hijos), certificados de empresa (si tu profesión tiene coeficientes reductores), los papeles del despido (en la anticipada involuntaria), el certificado de discapacidad o los periodos trabajados en el extranjero.\n\nEn la web tienes la lista para imprimir e ir marcando lo que ya tienes. El enlace está en la información de esta página.",
-  "fecha": "2027-01-17",
-  "hora": "11:00"
- },
- {
-  "id": "reclamar-dependencia-x",
-  "red": "x",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/dependencia/reclamar-dependencia/",
-  "texto": "Si la dependencia no se resuelve en seis meses, tu derecho empieza a contar igualmente desde ese día y puedes reclamar. Y si la persona empeora, no hace falta recurrir: se pide la revisión del grado en cualquier momento.\n\njubilometro.com/reclamar-dependencia/x",
   "fecha": "2027-01-18",
   "hora": "09:00"
  },
@@ -4542,11 +4544,11 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
-  "id": "cobro-fb",
+  "id": "otro-pais-fb",
   "red": "facebook",
-  "pilar": "Calendario y avisos",
-  "fuente": "/cuanto-cobrare/calendario-pago-pensiones/",
-  "texto": "«¿Por qué a mi vecina le llega la pensión antes que a mí?» Porque cada banco decide si adelanta el pago y qué día.\n\nLa Seguridad Social paga la pensión a mes vencido: la de cada mes, como tarde, el primer día hábil del mes siguiente, y nunca después del día 4. La mayoría de los bancos la adelantan, y el dinero suele llegar entre el 22 y el 26 del mismo mes.\n\nSe cobran 14 pagas: las doce mensuales y dos extra, que llegan con la pensión de junio y con la de noviembre. Las pensiones por accidente de trabajo o enfermedad profesional se cobran en 12 pagas, con las extra repartidas. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "Calcula tu caso",
+  "fuente": "/jubilacion/trabajado-en-otro-pais/",
+  "texto": "Muchos españoles trabajaron unos años fuera, en Alemania, Francia, Suiza o Venezuela, y no saben qué pasa con esos años al jubilarse.\n\nSi cotizaste en un país de la Unión Europea, del Espacio Económico Europeo, en Suiza, en el Reino Unido o en un país con convenio de Seguridad Social con España (la mayoría de Latinoamérica, entre otros), esos años se suman a los de España para cumplir los requisitos, como los 15 años mínimos.\n\nDespués, cada país paga su parte de la pensión en proporción a los años cotizados en él, y cada uno aplica su propia edad de jubilación. Los años trabajados en un país sin convenio no cuentan en España.\n\n¿Trabajaste fuera? Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-18",
   "hora": "11:00"
  },
@@ -4590,11 +4592,11 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "otro-pais-x",
+  "id": "pedir-dependencia-x",
   "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/trabajado-en-otro-pais/",
-  "texto": "¿Trabajaste unos años en Alemania, Francia, Suiza o en Latinoamérica? Si el país es de la UE o tiene convenio con España, esos años se suman a los de aquí para llegar a los 15 mínimos. Después, cada país paga su parte.\n\njubilometro.com/otro-pais/x",
+  "pilar": "Trámites sin líos",
+  "fuente": "/dependencia/solicitar-dependencia/",
+  "texto": "La dependencia se pide gratis en los servicios sociales de tu comunidad, a menudo con ayuda de los de tu ayuntamiento. Lo básico: el DNI y un informe de salud en el modelo oficial. Después, un profesional valora a la persona en su casa.\n\njubilometro.com/pedir-dependencia/x",
   "fecha": "2027-01-18",
   "hora": "13:30"
  },
@@ -4631,11 +4633,11 @@ export const PUBLICACIONES = [
   "hora": "08:30"
  },
  {
-  "id": "grados-dependencia-x",
+  "id": "pedir-jubilacion-x",
   "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/grados/",
-  "texto": "El grado de dependencia sale de un baremo de 0 a 100 puntos: con menos de 25 no hay grado; de 25 a 49, grado I; de 50 a 74, grado II, y de 75 a 100, grado III. A más grado, más horas de ayuda y ayudas más altas.\n\njubilometro.com/grados-dependencia/x",
+  "pilar": "Trámites sin líos",
+  "fuente": "/jubilacion/solicitar-jubilacion-internet/",
+  "texto": "Puedes pedir la jubilación por internet sin certificado digital: con tu correo, una foto del DNI y un selfi. Pídela en los 3 meses anteriores o posteriores a dejar de trabajar para cobrar desde el día siguiente al cese.\n\njubilometro.com/pedir-jubilacion/x",
   "fecha": "2027-01-19",
   "hora": "09:00"
  },
@@ -4649,41 +4651,41 @@ export const PUBLICACIONES = [
   "hora": "10:00"
  },
  {
+  "id": "vida-laboral-fb",
+  "red": "facebook",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/cuanto-cobrare/informe-vida-laboral/",
+  "texto": "Un consejo que ahorra disgustos: revisa tu vida laboral años antes de jubilarte, no el mes de antes.\n\nEl informe de vida laboral recoge todas tus altas y bajas en la Seguridad Social. Si falta un periodo trabajado (un verano en una fábrica, un contrato de los años 80, una empresa que cerró), pierdes años cotizados y puede bajar tu base reguladora.\n\nSe pide gratis en el portal Import@ss con Cl@ve, certificado, DNI electrónico o un SMS al móvil, y también se puede pedir que te lo manden a casa por correo. Si encuentras un error, se pide la rectificación en la sede de la Seguridad Social, con nóminas, contratos o cualquier papel que lo pruebe.\n\nCuanto antes lo revises, más fácil es encontrar esos papeles. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "fecha": "2027-01-19",
+  "hora": "11:00"
+ },
+ {
+  "id": "reclamar-dependencia-x",
+  "red": "x",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/dependencia/reclamar-dependencia/",
+  "texto": "Si la dependencia no se resuelve en seis meses, tu derecho empieza a contar igualmente desde ese día y puedes reclamar. Y si la persona empeora, no hace falta recurrir: se pide la revisión del grado en cualquier momento.\n\njubilometro.com/reclamar-dependencia/x",
+  "fecha": "2027-01-19",
+  "hora": "13:30"
+ },
+ {
+  "id": "documentos-x",
+  "red": "x",
+  "pilar": "Trámites sin líos",
+  "fuente": "/jubilacion/documentos-jubilacion/",
+  "texto": "Para una jubilación ordinaria suele bastar con el DNI, el número de cuenta y la solicitud: la Seguridad Social ya tiene tus cotizaciones. Te pedirán más papeles solo en casos concretos. Lista para imprimir:\n\njubilometro.com/documentos/x",
+  "fecha": "2027-01-20",
+  "hora": "09:00"
+ },
+ {
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
   "fuente": "/viudedad/compatibilidad-trabajo/",
   "texto": "¿Se puede trabajar cobrando la viudedad? Sí: la pensión de viudedad es compatible con cualquier sueldo, por cuenta ajena o como autónomo, sin límite.\n\nLo que sí puedes perder al trabajar son los extras que dependen de los ingresos: el complemento a mínimos si tus otros ingresos pasan de 9.442 euros al año, el 60 % de los mayores de 65 (vuelves al 52 %) y el 70 % por cargas familiares si superas su límite.\n\nTienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "id": "mes1-26",
-  "fecha": "2027-01-19",
+  "fecha": "2027-01-20",
   "hora": "11:00",
   "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
- },
- {
-  "id": "pedir-jubilacion-x",
-  "red": "x",
-  "pilar": "Trámites sin líos",
-  "fuente": "/jubilacion/solicitar-jubilacion-internet/",
-  "texto": "Puedes pedir la jubilación por internet sin certificado digital: con tu correo, una foto del DNI y un selfi. Pídela en los 3 meses anteriores o posteriores a dejar de trabajar para cobrar desde el día siguiente al cese.\n\njubilometro.com/pedir-jubilacion/x",
-  "fecha": "2027-01-19",
-  "hora": "13:30"
- },
- {
-  "id": "ayuda-domicilio-x",
-  "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/ayuda-a-domicilio/",
-  "texto": "Con la dependencia reconocida, la ayuda a domicilio va de 20 a 37 horas al mes en el grado I, de 38 a 64 en el grado II y de 65 a 94 en el grado III. Pagas una parte según tus ingresos, y nadie se queda sin ella por no tener dinero.\n\njubilometro.com/ayuda-domicilio/x",
-  "fecha": "2027-01-20",
-  "hora": "09:00"
- },
- {
-  "id": "faltan-anos-fb",
-  "red": "facebook",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/jubilacion/faltan-anos-cotizados/",
-  "texto": "Si te faltan años para llegar a los 15 mínimos, a los 37 del 100 % o a los 38 años y 6 meses que permiten jubilarte a los 65, hay cuatro vías legales:\n\n1. Seguir trabajando, aunque sea a tiempo parcial.\n2. Firmar un convenio especial con la Seguridad Social y cotizar tú.\n3. Recuperar las prácticas y becas antiguas: hasta 5 años, con plazo hasta el 31 de diciembre de 2028.\n4. Revisar tu vida laboral: periodos que no aparecen, días por parto, cuidado de hijos o años cotizados en otros países.\n\nSi aun así no llegas a 15 años, la alternativa es la pensión no contributiva. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "fecha": "2027-01-20",
-  "hora": "11:00"
  },
  {
   "red": "video",
@@ -4725,11 +4727,11 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "documentos-x",
+  "id": "grados-dependencia-x",
   "red": "x",
-  "pilar": "Trámites sin líos",
-  "fuente": "/jubilacion/documentos-jubilacion/",
-  "texto": "Para una jubilación ordinaria suele bastar con el DNI, el número de cuenta y la solicitud: la Seguridad Social ya tiene tus cotizaciones. Te pedirán más papeles solo en casos concretos. Lista para imprimir:\n\njubilometro.com/documentos/x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/dependencia/grados/",
+  "texto": "El grado de dependencia sale de un baremo de 0 a 100 puntos: con menos de 25 no hay grado; de 25 a 49, grado I; de 50 a 74, grado II, y de 75 a 100, grado III. A más grado, más horas de ayuda y ayudas más altas.\n\njubilometro.com/grados-dependencia/x",
   "fecha": "2027-01-20",
   "hora": "13:30"
  },
@@ -4765,22 +4767,32 @@ export const PUBLICACIONES = [
   "hora": "08:30"
  },
  {
+  "id": "otro-pais-x",
   "red": "x",
-  "pilar": "Familias y cuidados",
-  "fuente": "/dependencia/convenio-cuidador/",
-  "texto": "Si cuidas en casa a tu madre o a tu padre y cobra la prestación por cuidados familiares de la dependencia, puedes seguir cotizando para tu jubilación sin pagar nada: la cuota la paga el Imserso.\n\nSe pide en la Tesorería en los 90 días siguientes. jubilometro.com/cuidador/x",
-  "id": "mes1-20",
+  "pilar": "Calcula tu caso",
+  "fuente": "/jubilacion/trabajado-en-otro-pais/",
+  "texto": "¿Trabajaste unos años en Alemania, Francia, Suiza o en Latinoamérica? Si el país es de la UE o tiene convenio con España, esos años se suman a los de aquí para llegar a los 15 mínimos. Después, cada país paga su parte.\n\njubilometro.com/otro-pais/x",
   "fecha": "2027-01-21",
   "hora": "09:00"
  },
  {
   "red": "facebook",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/cuanto-cobrare/lagunas-de-cotizacion/",
-  "texto": "¿Qué pasa con los meses que no cotizaste? Si caen dentro de los años que se usan para calcular tu pensión, no cuentan como cero: se rellenan.\n\nLos 48 primeros meses sin cotizar se rellenan con la base mínima de cada mes y el resto con el 50 %. Desde 2026, las trabajadoras por cuenta ajena rellenan además los meses 49 a 60 con el 100 % y los 61 a 84 con el 80 %, y lo mismo los hombres cuya carrera se vio afectada por el nacimiento de sus hijos.\n\nOjo: los meses rellenados mejoran la base reguladora, pero no suman años cotizados. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "id": "mes1-60",
+  "pilar": "Familias y cuidados",
+  "fuente": "/dependencia/convenio-cuidador/",
+  "texto": "Para quien cuida de un familiar dependiente en casa: hay una forma de no perder años de cotización para tu propia jubilación.\n\nSi tu familiar cobra la prestación por cuidados en el entorno familiar y tú figuras como cuidador en su plan de atención, puedes firmar un convenio especial con la Seguridad Social. Cotizas sin pagar nada, porque la cuota la abona el Imserso: por la base mínima (1.424,40 euros al mes en 2026) si el grado es III, por una parte si es II y por la mitad si es I.\n\nPídelo en la Tesorería General de la Seguridad Social dentro de los 90 días siguientes a que se reconozca la prestación, para que cuente desde ese día. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "id": "mes1-21",
   "fecha": "2027-01-21",
-  "hora": "11:00"
+  "hora": "11:00",
+  "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
+ },
+ {
+  "id": "ayuda-domicilio-x",
+  "red": "x",
+  "pilar": "Calcula tu caso",
+  "fuente": "/dependencia/ayuda-a-domicilio/",
+  "texto": "Con la dependencia reconocida, la ayuda a domicilio va de 20 a 37 horas al mes en el grado I, de 38 a 64 en el grado II y de 65 a 94 en el grado III. Pagas una parte según tus ingresos, y nadie se queda sin ella por no tener dinero.\n\njubilometro.com/ayuda-domicilio/x",
+  "fecha": "2027-01-21",
+  "hora": "13:30"
  },
  {
   "id": "cuanto-tarda-x",
@@ -4788,41 +4800,24 @@ export const PUBLICACIONES = [
   "pilar": "Trámites sin líos",
   "fuente": "/jubilacion/cuanto-tarda-jubilacion/",
   "texto": "¿Cuánto tarda la Seguridad Social en reconocer la jubilación? Tiene 90 días, pero en julio de 2026 la media fue de 7,46 días. Y si se retrasa, cobras los atrasos desde la fecha de efectos de tu pensión.\n\njubilometro.com/cuanto-tarda/x",
-  "fecha": "2027-01-21",
-  "hora": "13:30"
- },
- {
-  "red": "x",
-  "tipo": "Hilo",
-  "pilar": "Familias y cuidados",
-  "fuente": "/dependencia/tiempos-dependencia/",
-  "partes": [
-   "¿Cuánto tarda la dependencia? La ley da seis meses. La media real en España es de 293 días, y depende mucho de dónde vivas. Hilo con los datos del Imserso.",
-   "1. De media, 220 días hasta que te reconocen el grado y 50 más hasta que te asignan la prestación (resoluciones de octubre de 2025 a septiembre de 2026).",
-   "2. Las más rápidas: Ceuta, con 75 días, y Aragón, con 109.",
-   "3. Las más lentas: Asturias, con 413 días, y la Región de Murcia, con 529.",
-   "4. Si pasan seis meses sin resolución, tu derecho empieza a contar igualmente desde ese momento. Por eso conviene pedirla cuanto antes.",
-   "5. Los días de tu comunidad y qué hacer si se retrasa: jubilometro.com/espera-dependencia/x"
-  ],
-  "id": "mes1-53",
   "fecha": "2027-01-22",
   "hora": "09:00"
  },
  {
-  "id": "vida-laboral-wa",
+  "id": "certificado-wa",
   "red": "whatsapp",
   "pilar": "Trámites sin líos",
-  "fuente": "/cuanto-cobrare/informe-vida-laboral/",
-  "texto": "Un trámite de cinco minutos que conviene hacer años antes de jubilarse: descargar el informe de vida laboral y comprobar que no falta ningún periodo trabajado. Es gratis, con Cl@ve o con un SMS al móvil.\n\nCómo pedirlo y cómo corregir errores: jubilometro.com/vida-laboral/wa",
+  "fuente": "/cuanto-cobrare/certificado-pension/",
+  "texto": "Para guardar: el certificado de tu pensión (con importes, sin importes, de retenciones o de revalorización) se descarga gratis en la sede de la Seguridad Social con Cl@ve, certificado digital o un SMS al móvil.\n\nPaso a paso: jubilometro.com/certificado/wa",
   "fecha": "2027-01-22",
   "hora": "10:00"
  },
  {
-  "id": "otro-pais-fb",
+  "id": "faltan-anos-fb",
   "red": "facebook",
-  "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/trabajado-en-otro-pais/",
-  "texto": "Muchos españoles trabajaron unos años fuera, en Alemania, Francia, Suiza o Venezuela, y no saben qué pasa con esos años al jubilarse.\n\nSi cotizaste en un país de la Unión Europea, del Espacio Económico Europeo, en Suiza, en el Reino Unido o en un país con convenio de Seguridad Social con España (la mayoría de Latinoamérica, entre otros), esos años se suman a los de España para cumplir los requisitos, como los 15 años mínimos.\n\nDespués, cada país paga su parte de la pensión en proporción a los años cotizados en él, y cada uno aplica su propia edad de jubilación. Los años trabajados en un país sin convenio no cuentan en España.\n\n¿Trabajaste fuera? Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/jubilacion/faltan-anos-cotizados/",
+  "texto": "Si te faltan años para llegar a los 15 mínimos, a los 37 del 100 % o a los 38 años y 6 meses que permiten jubilarte a los 65, hay cuatro vías legales:\n\n1. Seguir trabajando, aunque sea a tiempo parcial.\n2. Firmar un convenio especial con la Seguridad Social y cotizar tú.\n3. Recuperar las prácticas y becas antiguas: hasta 5 años, con plazo hasta el 31 de diciembre de 2028.\n4. Revisar tu vida laboral: periodos que no aparecen, días por parto, cuidado de hijos o años cotizados en otros países.\n\nSi aun así no llegas a 15 años, la alternativa es la pensión no contributiva. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2027-01-22",
   "hora": "11:00"
  },
@@ -4866,11 +4861,19 @@ export const PUBLICACIONES = [
   "hora": "13:00"
  },
  {
-  "id": "prejubilacion-x",
   "red": "x",
-  "pilar": "Errores que cuestan dinero",
-  "fuente": "/jubilacion/prejubilacion/",
-  "texto": "Si te despiden en un ERE con 55 años o más, la empresa debe pagarte un convenio especial con la Seguridad Social hasta los 63 (61 por causas económicas), para que sigas cotizando. Si no lo pide, tienes 6 meses para pedirlo tú.\n\njubilometro.com/prejubilacion/x",
+  "tipo": "Hilo",
+  "pilar": "Familias y cuidados",
+  "fuente": "/dependencia/tiempos-dependencia/",
+  "partes": [
+   "¿Cuánto tarda la dependencia? La ley da seis meses. La media real en España es de 293 días, y depende mucho de dónde vivas. Hilo con los datos del Imserso.",
+   "1. De media, 220 días hasta que te reconocen el grado y 50 más hasta que te asignan la prestación (resoluciones de octubre de 2025 a septiembre de 2026).",
+   "2. Las más rápidas: Ceuta, con 75 días, y Aragón, con 109.",
+   "3. Las más lentas: Asturias, con 413 días, y la Región de Murcia, con 529.",
+   "4. Si pasan seis meses sin resolución, tu derecho empieza a contar igualmente desde ese momento. Por eso conviene pedirla cuanto antes.",
+   "5. Los días de tu comunidad y qué hacer si se retrasa: jubilometro.com/espera-dependencia/x"
+  ],
+  "id": "mes1-53",
   "fecha": "2027-01-22",
   "hora": "13:30"
  },
@@ -4897,42 +4900,39 @@ export const PUBLICACIONES = [
   "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
  },
  {
-  "id": "numero-ss-x",
+  "id": "prejubilacion-x",
   "red": "x",
-  "pilar": "Trámites sin líos",
-  "fuente": "/jubilacion/numero-seguridad-social/",
-  "texto": "Tu número de la Seguridad Social es el mismo toda la vida. Viene en tus nóminas y en tu informe de vida laboral, y en Import@ss puedes descargar un documento que lo acredita, también sin certificado digital: con un selfi y una foto de tu DNI.\n\njubilometro.com/numero-ss/x",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/jubilacion/prejubilacion/",
+  "texto": "Si te despiden en un ERE con 55 años o más, la empresa debe pagarte un convenio especial con la Seguridad Social hasta los 63 (61 por causas económicas), para que sigas cotizando. Si no lo pide, tienes 6 meses para pedirlo tú.\n\njubilometro.com/prejubilacion/x",
   "fecha": "2027-01-23",
   "hora": "10:00"
  },
  {
-  "id": "sueldo-fb",
   "red": "facebook",
-  "pilar": "Calcula tu caso",
-  "fuente": "/cuanto-cobrare/pension-segun-sueldo/",
-  "texto": "¿Cuánto cobraré de pensión con mi sueldo? Hay una regla sencilla para hacerse una idea.\n\nSi has cotizado 37 años siempre por la misma base, tu pensión bruta al mes es 6/7 de esa base. Como la pensión se cobra en 14 pagas, al año cobras lo mismo que tu sueldo bruto anual.\n\nCon una base de 1.500 euros, unos 1.286 euros de pensión al mes. Con 2.000, unos 1.714. Con 3.000, unos 2.571. A partir de una base de 3.919,53 euros llegas a la pensión máxima, 3.359,60 euros al mes en 2026.\n\nLa base de cotización es tu sueldo bruto con las pagas extra repartidas en 12 meses: aparece en la nómina. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "imagenLista": "publicacion/redes/banco/cifras/sueldo-fb.png",
+  "pilar": "Errores que cuestan dinero",
+  "fuente": "/cuanto-cobrare/lagunas-de-cotizacion/",
+  "texto": "¿Qué pasa con los meses que no cotizaste? Si caen dentro de los años que se usan para calcular tu pensión, no cuentan como cero: se rellenan.\n\nLos 48 primeros meses sin cotizar se rellenan con la base mínima de cada mes y el resto con el 50 %. Desde 2026, las trabajadoras por cuenta ajena rellenan además los meses 49 a 60 con el 100 % y los 61 a 84 con el 80 %, y lo mismo los hombres cuya carrera se vio afectada por el nacimiento de sus hijos.\n\nOjo: los meses rellenados mejoran la base reguladora, pero no suman años cotizados. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "id": "mes1-60",
   "fecha": "2027-01-23",
-  "hora": "11:00",
-  "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
+  "hora": "11:00"
  },
  {
   "red": "x",
-  "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/15-anos-cotizados/",
-  "texto": "Con 15 años cotizados ya tienes pensión de jubilación, pero del 50 % de tu base reguladora y a los 67 años.\n\nOjo: 2 de esos 15 años tienen que estar dentro de los 15 anteriores a jubilarte. Si sale baja, el complemento a mínimos puede subirla.\n\njubilometro.com/15-anos/x",
-  "id": "mes1-16",
-  "fecha": "2027-01-24",
-  "hora": "10:00"
- },
- {
-  "red": "facebook",
   "pilar": "Familias y cuidados",
   "fuente": "/dependencia/convenio-cuidador/",
-  "texto": "Para quien cuida de un familiar dependiente en casa: hay una forma de no perder años de cotización para tu propia jubilación.\n\nSi tu familiar cobra la prestación por cuidados en el entorno familiar y tú figuras como cuidador en su plan de atención, puedes firmar un convenio especial con la Seguridad Social. Cotizas sin pagar nada, porque la cuota la abona el Imserso: por la base mínima (1.424,40 euros al mes en 2026) si el grado es III, por una parte si es II y por la mitad si es I.\n\nPídelo en la Tesorería General de la Seguridad Social dentro de los 90 días siguientes a que se reconozca la prestación, para que cuente desde ese día. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
-  "id": "mes1-21",
+  "texto": "Si cuidas en casa a tu madre o a tu padre y cobra la prestación por cuidados familiares de la dependencia, puedes seguir cotizando para tu jubilación sin pagar nada: la cuota la paga el Imserso.\n\nSe pide en la Tesorería en los 90 días siguientes. jubilometro.com/cuidador/x",
+  "id": "mes1-20",
   "fecha": "2027-01-24",
-  "hora": "11:00",
-  "nota": "Lleva importes de 2026: compruébalos en la guía antes de publicar, porque en enero cambian con la subida."
+  "hora": "10:00"
+ },
+ {
+  "id": "documentos-fb",
+  "red": "facebook",
+  "pilar": "Trámites sin líos",
+  "fuente": "/jubilacion/documentos-jubilacion/",
+  "texto": "¿Qué papeles hay que llevar para pedir la jubilación? Menos de los que piensa mucha gente.\n\nPara una jubilación ordinaria, en la mayoría de los casos basta con el documento de identidad, la cuenta del banco donde quieres cobrar y la solicitud: la Seguridad Social ya tiene tus cotizaciones.\n\nSegún tu caso, te pedirán además el libro de familia (si tienes cónyuge o hijos), certificados de empresa (si tu profesión tiene coeficientes reductores), los papeles del despido (en la anticipada involuntaria), el certificado de discapacidad o los periodos trabajados en el extranjero.\n\nEn la web tienes la lista para imprimir e ir marcando lo que ya tienes. El enlace está en la información de esta página.",
+  "fecha": "2027-01-24",
+  "hora": "11:00"
  }
 ];
