@@ -1303,7 +1303,7 @@ img[data-jm-local] { object-fit: cover; }
 .jm-prep .jm-i { flex: none; width: 1.2rem; height: 1.2rem; margin-top: .2rem; color: var(--jm-accent); }
 .jm-prep a { font-weight: 700; }
 /* "Configurar cookies" solo tiene sentido cuando hay publicidad (y con ella, el panel de consentimiento de Google) */
-body:not(.jm-ads-on) li:has(> [data-jm-cookies]), body:not(.jm-ads-on) [data-jm-cookies] { display: none; }
+body:not(.jm-cmp) li:has(> [data-jm-cookies]), body:not(.jm-cmp) [data-jm-cookies] { display: none; }
 
 /* 31. UTILIDADES ----------------------------------------------------------- */
 .jm-mt-0 { margin-top: 0 !important; }
@@ -2525,3 +2525,7 @@ html body { background: #fff; }
   .jm-authorbox > div > p:not(.jm-authorbox__k) { grid-column: 1 / -1; }
   .jm-authorbox > div > p:not(.jm-authorbox__k):not(.jm-authorbox__links) { margin-top: 1rem; }
 }
+
+/* Información básica de protección de datos bajo el formulario de la newsletter (tema 2.11.9) */
+.jm-nl__body > p.jm-nl__legal { margin-top: .25rem; font-size: .875rem; line-height: 1.5; color: var(--jm-muted); }
+.jm-nl__legal a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }

@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.8' );
+define( 'JM_THEME_VER', '2.11.11' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -194,10 +194,12 @@ function jm_tema_instalar( WP_REST_Request $req ) {
  * 3. CLASES DEL BODY
  *    jm-live: oculta al público las zonas de redacción (solo las ve el editor conectado)
  *    jm-ads-on: muestra los huecos de anuncio cuando AdSense está configurado
+ *    jm-cmp: muestra «Configurar cookies» cuando hay ID de AdSense (y con él, el aviso de Google)
  * ------------------------------------------------------------------ */
 add_filter( 'body_class', function ( $c ) {
 	$c[] = 'jm-live';
 	if ( defined( 'JM_ADSENSE' ) && JM_ADSENSE ) { $c[] = 'jm-ads-on'; }
+	if ( '' !== jm_adsense_client() ) { $c[] = 'jm-cmp'; }
 	return $c;
 } );
 

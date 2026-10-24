@@ -228,6 +228,22 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Revisión legal y de contenido (24/10/2026, tema 2.11.11)
+
+- **Páginas legales** reescritas en WordPress (copia en `publicacion/paginas-web/`), comparando el texto con lo que hace la web de verdad (cookies que aparecen, almacenamiento del navegador, formularios, plugins activos y recursos externos: solo Google; las imágenes de Unsplash ya se sirven desde la web):
+  - **Aviso legal**: condiciones de uso, publicidad (sin anuncios en calculadoras ni legales, sin patrocinados), enlaces a otras webs (art. 17 LSSI), calculadoras insertables, cambios y fuero del consumidor.
+  - **Privacidad**: campos reales del formulario (con «motivo»), registros técnicos del servidor, destinatarios (Hostinger en Chipre como encargado; Google), plazos de conservación por tratamiento, edad mínima de 14 años (art. 7 LOPDGDD), decisiones automatizadas, seguridad, plazo de un mes para responder, derecho a retirar el consentimiento y cambios.
+  - **Cookies**: tablas con nombre, finalidad, duración y si piden permiso: almacenamiento propio (`jm_fs`, `jm_ultima_guia`, sesión de editores) y cookies de Google (`FCCDCF` y `FCNEC` del aviso de privacidad, `__gads`, `__gpi`, `__eoi`, `IDE` y `test_cookie`); enlaces de ayuda de Chrome, Firefox, Safari (iPhone y Mac) y Edge comprobados.
+  - **Descargo**: no somos un organismo público, normas pendientes de convalidar, datos de terceros y cómo avisar de un error. **Accesibilidad**: texto base corregido a 18-19 px (decía 19-20), botón de tamaño de letra, tablas en fichas, cómo se comprueba (Lighthouse 100 el 22/10) y limitaciones conocidas (anuncios y PDF de terceros).
+  - **Metodología y Quiénes somos**: los anuncios ya no se describen como «identificados como Publicidad» (los pone Google y no siempre llevan esa etiqueta): ahora «separados del contenido y nunca en las calculadoras». Quiénes somos: 11 calculadoras (decía 9). Guías: «las once calculadoras» (decía diez).
+  - **Contacto y newsletter**: información básica de protección de datos (primera capa) junto a cada formulario.
+- **«Configurar cookies» estaba oculto en toda la web**: solo se mostraba con la clase `jm-ads-on`, que depende de una constante que nunca se activó. Ahora se muestra con la clase nueva `jm-cmp` cuando hay ID de AdSense; en las páginas sin AdSense (calculadoras y legales) lleva a la portada con `#configurar-cookies`, que abre el aviso de Google. No cambia cómo ni cuándo carga AdSense.
+- **«Seguir leyendo»** solo guarda la última guía si el aviso de Google da permiso para almacenar información en el dispositivo (finalidad 1 del TCF), y borra lo guardado si no lo hay (art. 22.2 LSSI). El tamaño de letra no pide permiso porque lo elige el lector.
+- **Portada, «Novedades del BOE»**: la pensión máxima de 2026 citaba el «RD 39/2026, 22 de enero» (derogado); ahora el Real Decreto 241/2026, publicado el 26/03/2026 con efectos desde el 1 de enero, y en su orden.
+- **Elecciones y pensiones**: situación de los programas a 23/10 (ninguno publicado), con su fila en la verificación.
+- BOE del 21 al 24/10 revisado: nada nuevo de pensiones, Seguridad Social, dependencia ni IMSERSO después del RDL 31/2026. Plazos de los artículos revisados: el único próximo es la lista de espera del termalismo (31/10), ya programado.
+- Comprobaciones: 25 pruebas, `comprobar` sin avisos, `comprobar-web` «Todo correcto» (un 403 pasajero en la primera pasada), sin errores de JavaScript en guía, portada, calculadora y privacidad; Lighthouse de cookies y contacto: accesibilidad y buenas prácticas 100 (las legales llevan `noindex` a propósito).
+
 ### Velocidad y acabado visual (22/10/2026, tema 2.11.8)
 
 - **Revisión visual** de portada, categoría, guía, calculadora y Navarra en móvil y ordenador (capturas con desplazamiento para que carguen las imágenes). La foto principal de las guías se ve bien en ordenador (el hueco gris era de la captura).

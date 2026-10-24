@@ -19,5 +19,6 @@
 | 13 | La proposición de los 40 años estaba en enmiendas en la Comisión de Trabajo y decae | Art. 207 RC; elEconomista, Estrella Digital, 65 y Más (6-10/10/2026) | Prensa y norma | Verificado |
 | 14 | La Ley de Familias, parada en el Congreso, decae | 65 y Más (6/10/2026) | Atribuido en el texto | Atribuido |
 | 15 | IPC adelantado de noviembre previsto el 27/11/2026 | Calendario del INE | que.es (9/10/2026) y calendario de mantenimiento | Previsto (confirmar la semana antes) |
+| 16 | A 23/10/2026 ningún partido con grupo propio (PSOE, PP, Vox, Sumar, ERC, Junts, EH Bildu, EAJ-PNV) ha publicado su programa del 29N | Webs oficiales de los partidos (Vox y PSOE leídas a través de Apify; la página «programa electoral» de Vox da error 404) | Revisión diaria programada | Verificado |
 
 **Para revisar:** cuando se publiquen los programas (antes del 13/11), añadir las propuestas sobre pensiones de cada candidatura con enlace a su programa; el 27/11, la subida con el IPC de noviembre; tras el 29/11, si el Gobierno aprueba el real decreto-ley de revalorización y cuándo; el 23/12, si se vuelve a registrar la proposición de los 40 años.

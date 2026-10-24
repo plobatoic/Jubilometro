@@ -56,12 +56,22 @@
     });
   }
 
-  // Botón "Configurar cookies": reabre la CMP de Google (Privacidad y mensajes de AdSense)
+  // Botón "Configurar cookies": reabre la CMP de Google (Privacidad y mensajes de AdSense).
+  // Las calculadoras y las páginas legales no cargan AdSense ni su aviso: allí el botón lleva a la
+  // portada con #configurar-cookies, que abre el aviso en cuanto se carga.
   function initCookies() {
+    function abrir() {
+      window.googlefc = window.googlefc || {}; window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
+      window.googlefc.callbackQueue.push(function () { if (window.googlefc.showRevocationMessage) window.googlefc.showRevocationMessage(); });
+    }
+    var conAviso = !!document.querySelector('script[src*="adsbygoogle"]');
+    if (conAviso && location.hash === '#configurar-cookies') {
+      abrir();
+      try { history.replaceState(null, '', location.pathname + location.search); } catch (e) { /* sin historial */ }
+    }
     $$('[data-jm-cookies]').forEach(function (b) {
       b.addEventListener('click', function () {
-        window.googlefc = window.googlefc || {}; window.googlefc.callbackQueue = window.googlefc.callbackQueue || [];
-        window.googlefc.callbackQueue.push(function () { if (window.googlefc.showRevocationMessage) window.googlefc.showRevocationMessage(); });
+        if (conAviso) abrir(); else location.href = '/#configurar-cookies';
       });
     });
   }
@@ -213,16 +223,35 @@
     });
   }
 
-  // «Seguir leyendo»: la libreta recuerda la última guía que abriste (solo en tu navegador)
+  // «Seguir leyendo»: la libreta recuerda la última guía que abriste (solo en tu navegador).
+  // Guardar algo en el dispositivo sin que el lector lo pida necesita su permiso (art. 22.2 LSSI):
+  // se usa la elección del aviso de privacidad de Google (finalidad 1 del TCF, «almacenar información
+  // en el dispositivo»). Sin aviso o sin permiso no se guarda nada y se borra lo guardado antes.
   function initResume() {
     var post = $('[data-jm-view]'), box = $('[data-jm-resume]'), key = 'jm_ultima_guia';
+    if (!post && !box) return;
     try {
-      if (post) { var h = $('.jm-post__title h1'); if (h) localStorage.setItem(key, JSON.stringify({ t: h.textContent.trim(), u: location.pathname })); }
       if (box) {
         var d = JSON.parse(localStorage.getItem(key) || 'null');
         if (d && d.u && d.t) { var a = $('a', box) || box.appendChild(document.createElement('a')); a.href = d.u; a.textContent = d.t; box.classList.add('is-on'); }
       }
     } catch (e) { /* sin almacenamiento: no pasa nada */ }
+    function aplicar(permiso) {
+      try {
+        if (!permiso) { localStorage.removeItem(key); if (box) box.classList.remove('is-on'); return; }
+        var h = post && $('.jm-post__title h1');
+        if (h) localStorage.setItem(key, JSON.stringify({ t: h.textContent.trim(), u: location.pathname }));
+      } catch (e) { /* sin almacenamiento */ }
+    }
+    var intentos = 0;
+    (function esperar() {
+      if (typeof window.__tcfapi === 'function') {
+        window.__tcfapi('addEventListener', 2, function (tc, ok) {
+          if (!ok || !tc || (tc.eventStatus !== 'tcloaded' && tc.eventStatus !== 'useractioncomplete')) return;
+          aplicar(tc.gdprApplies === false || !!(tc.purpose && tc.purpose.consents && tc.purpose.consents[1]));
+        });
+      } else if (++intentos < 20) { setTimeout(esperar, 500); }
+    })();
   }
 
   /* ---------- Movimiento (nunca con "reducir movimiento") ---------- */

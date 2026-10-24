@@ -8,7 +8,7 @@ miga: Elecciones y pensiones
 palabra_clave_principal: elecciones pensiones subida 2027
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-10-22
+fecha_actualizacion: 2026-10-24
 publicacion: 2026-10-10
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027
 
-*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 24 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -105,7 +105,7 @@ Las dudas sobre tu caso las resuelve la Oficina del Censo Electoral de tu provin
 
 ## Qué proponen los partidos sobre las pensiones
 
-Los partidos presentan sus candidaturas del 21 al 26 de octubre y suelen publicar sus programas antes de la campaña, que empieza el 13 de noviembre. **A 22 de octubre de 2026, ninguno ha publicado todavía su programa para estas elecciones.**
+Los partidos presentan sus candidaturas del 21 al 26 de octubre y suelen publicar sus programas antes de la campaña, que empieza el 13 de noviembre. **A 23 de octubre de 2026, ninguno ha publicado todavía su programa para estas elecciones** en su web oficial.
 
 Cuando estén publicados, prepararemos una comparativa con lo que dice cada uno sobre la subida de las pensiones, la edad de jubilación, las pensiones mínimas, la jubilación anticipada y la financiación del sistema. Estos son los criterios:
 
@@ -160,4 +160,4 @@ Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tar
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). No recoge opiniones políticas: solo lo que dicen las normas y los organismos oficiales. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
+*Historial de cambios: 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
