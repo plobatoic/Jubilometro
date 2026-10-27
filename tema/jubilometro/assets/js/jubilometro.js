@@ -170,12 +170,49 @@
 
   // Estadísticas propias, sin cookies ni datos personales (inc/estadisticas.php): una señal por página vista
   // (de dónde llega la visita y si se queda a leer) y otra por botón pulsado. Cuenta también para «Lo más leído».
+  // Dirección con la que se llegó (con sus utm_): initStats las quita de la barra y Analytics la necesita entera
+  var urlInicial = location.href;
   function beacon(o) {
     if (!navigator.sendBeacon) return;
     var fd = new FormData(); Object.keys(o).forEach(function (k) { fd.append(k, o[k]); });
     try { navigator.sendBeacon('/wp-admin/admin-ajax.php', fd); } catch (e) {}
   }
-  function track(ev) { var p = ev.split(':'); beacon({ action: 'jm_ev', e: p[0], k: p[1] || '' }); }
+  function track(ev) {
+    var p = ev.split(':'); beacon({ action: 'jm_ev', e: p[0], k: p[1] || '' });
+    if (gaOn) window.gtag('event', p[0], { jm_detalle: p[1] || '' }); // el mismo botón, también en Analytics
+  }
+
+  // Google Analytics 4 (functions.php deja el ID en window.jmGA). Usa cookies, así que solo se carga
+  // con permiso del aviso de privacidad de Google: finalidades 1 (almacenar en el dispositivo) y 8
+  // (medir el contenido) del TCF y el proveedor Google (755), o cuando el RGPD no se aplica. Si se
+  // retira el permiso, deja de guardar cookies. Sin aviso en la página (calculadoras, legales), nada.
+  var gaOn = false;
+  function initAnalytics() {
+    var id = window.jmGA, intentos = 0;
+    if (!id || !/^G-[A-Z0-9]{6,14}$/.test(id)) return;
+    function cargar() {
+      if (gaOn) { window.gtag('consent', 'update', { analytics_storage: 'granted' }); return; }
+      gaOn = true;
+      window.dataLayer = window.dataLayer || [];
+      window.gtag = function () { window.dataLayer.push(arguments); };
+      window.gtag('consent', 'default', { analytics_storage: 'granted', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' });
+      window.gtag('js', new Date());
+      window.gtag('config', id, { page_location: urlInicial, allow_google_signals: false, allow_ad_personalization_signals: false });
+      var sc = document.createElement('script'); sc.async = true;
+      sc.src = 'https://www.googletagmanager.com/gtag/js?id=' + encodeURIComponent(id);
+      document.head.appendChild(sc);
+    }
+    (function esperar() {
+      if (typeof window.__tcfapi === 'function') {
+        window.__tcfapi('addEventListener', 2, function (tc, ok) {
+          if (!ok || !tc || (tc.eventStatus !== 'tcloaded' && tc.eventStatus !== 'useractioncomplete')) return;
+          var pc = tc.purpose && tc.purpose.consents, vc = tc.vendor && tc.vendor.consents;
+          if (tc.gdprApplies === false || (pc && pc[1] && pc[8] && vc && vc[755])) cargar();
+          else if (gaOn) window.gtag('consent', 'update', { analytics_storage: 'denied' });
+        });
+      } else if (++intentos < 20) { setTimeout(esperar, 500); }
+    })();
+  }
   function initStats() {
     var b = document.body, q = new URLSearchParams(location.search), r = '', sent = false, t0;
     try { r = document.referrer ? new URL(document.referrer).hostname : ''; } catch (e) {}
@@ -886,6 +923,6 @@
 
   // El grabado es solo adorno y crear el lienzo cuesta: se dibuja cuando el navegador ya ha pintado el texto
   function later(fn) { return function () { if ('requestIdleCallback' in window) requestIdleCallback(function () { safe(fn); }, { timeout: 1500 }); else setTimeout(function () { safe(fn); }, 300); }; }
-  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initAnalytics, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();

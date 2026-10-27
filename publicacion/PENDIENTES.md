@@ -80,6 +80,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 17. **Enviar un correo a asociaciones de mayores, gestorías y sindicatos** ofreciéndoles las calculadoras gratis para su web. Te preparo el texto y la lista; lo envías tú desde el Gmail de Jubilómetro.
 18. **Grabar tu voz o salir en algunos vídeos.**
 19. **Bing Webmaster Tools** (bing.com/webmasters): entrar e importar la web desde Search Console, para ver las visitas que llegan de Bing y Copilot. Son dos minutos.
+20. **Google Analytics 4** (pedido el 27/10): en analytics.google.com, «Empezar a medir» → cuenta «Jubilómetro» → propiedad «jubilometro.com» (zona horaria España, moneda euro) → flujo de datos «Web» con `https://jubilometro.com`. Copiar el **ID de medición** (empieza por `G-`) y pasármelo por el chat: es público, no es una contraseña. Yo lo activo (opción `jm_ga4_id`), actualizo privacidad y cookies y compruebo que solo cuenta con permiso. En Analytics, después: Administrar › Recogida y conservación de datos › Conservación de datos: 14 meses; y Administrar › Vínculos de productos › Search Console: vincular.
 
 ## Lo que hago yo, con fecha
 

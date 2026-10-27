@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.12' );
+define( 'JM_THEME_VER', '2.11.13' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -684,6 +684,38 @@ add_action( 'init', function () {
 	echo 'google.com, ' . esc_html( substr( $c, 3 ) ) . ', DIRECT, f08c47fec0942fa0' . "\n"; // phpcs:ignore
 	exit;
 }, 1 );
+
+/*
+ * Google Analytics 4. Se activa guardando el ID de medición (G-…) en la opción jm_ga4_id
+ * (Ajustes > Generales, o por la API: POST /wp/v2/settings {"jm_ga4_id": "G-…"}).
+ * Aquí solo se deja el ID en la página: jubilometro.js carga gtag.js cuando el aviso de privacidad
+ * de Google da permiso (finalidades 1 y 8 del TCF y el proveedor Google, 755) o cuando el RGPD no
+ * se aplica. Sin aviso en la página (calculadoras y legales no cargan AdSense) no se carga.
+ * No se cuenta a los editores conectados. No cambia cómo ni cuándo carga AdSense.
+ */
+add_action( 'init', function () {
+	register_setting( 'general', 'jm_ga4_id', array(
+		'type'              => 'string',
+		'default'           => '',
+		'show_in_rest'      => true,
+		'description'       => 'ID de medición de Google Analytics 4 (G-…)',
+		'sanitize_callback' => function ( $v ) {
+			$v = strtoupper( trim( (string) $v ) );
+			return preg_match( '/^G-[A-Z0-9]{6,14}$/', $v ) ? $v : '';
+		},
+	) );
+} );
+add_action( 'add_option_jm_ga4_id', 'jm_adsense_purge' );
+add_action( 'update_option_jm_ga4_id', 'jm_adsense_purge' );
+function jm_ga4_id() {
+	$c = get_option( 'jm_ga4_id', '' );
+	return is_string( $c ) && preg_match( '/^G-[A-Z0-9]{6,14}$/', $c ) ? $c : '';
+}
+add_action( 'wp_head', function () {
+	$id = jm_ga4_id();
+	if ( ! $id || current_user_can( 'edit_posts' ) ) { return; }
+	printf( '<script data-no-optimize="1">window.jmGA=%s;</script>' . "\n", wp_json_encode( $id ) );
+}, 3 );
 
 // Un tema (página pilar) se indexa cuando tiene al menos 3 guías publicadas; mientras, noindex y fuera del sitemap
 function jm_thin_page( $id ) {

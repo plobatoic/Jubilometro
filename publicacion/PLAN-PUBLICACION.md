@@ -228,6 +228,14 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Google Analytics 4 preparado (27/10/2026, tema 2.11.13)
+
+- **Apagado hasta tener el ID**: opción `jm_ga4_id` (Ajustes › Generales o `POST /wp/v2/settings {"jm_ga4_id": "G-…"}`); al guardarla se vacía la caché de LiteSpeed. El tema solo escribe `window.jmGA` en la cabecera (no a los editores conectados).
+- **Solo con permiso** (art. 22.2 LSSI): `initAnalytics` espera al aviso de privacidad de Google y carga `gtag.js` si hay consentimiento para las finalidades 1 y 8 del TCF y el proveedor Google (755), o si el RGPD no se aplica; si se retira, `analytics_storage` pasa a `denied`. Sin aviso en la página (calculadoras y legales no cargan AdSense) no se carga. Consentimiento de anuncios (`ad_*`) siempre denegado, sin Google Signals ni personalización.
+- **Campañas**: `page_location` lleva la dirección de llegada con sus `utm_` (el contador propio las quita de la barra después). Los botones que cuenta la web (compartir, calculadoras, newsletter, herramientas) se envían también como eventos (`jm_detalle`).
+- Probado en vivo con un ID de prueba y peticiones a Google bloqueadas: con permiso se carga y la configuración lleva la URL con utm; sin permiso o sin aviso, no; AdSense carga igual en los tres casos; sin errores.
+- **Al activarlo**: poner el ID, añadir Analytics a privacidad (finalidad, Google Ireland, transferencias) y a la tabla de cookies (`_ga` y `_ga_<ID>`, 2 años, con permiso), y comprobar en tiempo real.
+
 ### Repaso completo: SEO, rastreo, código y guía nueva (27/10/2026, tema 2.11.12)
 
 - **Rastreo y SEO**: las 172 URL de los sitemaps responden 200, con canónica propia, un solo h1, título y descripción en su medida y sin duplicados, imagen para redes y JSON-LD válido (Article, FAQPage, BreadcrumbList, WebApplication, Dataset). robots.txt, sitemaps, redirecciones (http, www, sin barra y URL antiguas de las legales), ads.txt, clave de IndexNow, llms.txt (162 entradas), feed y cabeceras de seguridad (HSTS, nosniff, SAMEORIGIN) correctos. Ninguna guía huérfana: todas reciben al menos dos enlaces de otras guías; la de la baja por menopausia gana uno desde la baja de larga duración.
