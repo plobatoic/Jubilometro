@@ -8,7 +8,7 @@ miga: Incapacidad temporal
 palabra_clave_principal: incapacidad temporal 545 días
 intencion: informativa
 fase_plan: F2 (artículo n.º 52)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-10-27
 publicacion: 2026-09-29
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Baja de larga duración: qué pasa a los 365 días, a los 545 y después, y cuándo llega la incapacidad permanente
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 27 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -125,9 +125,10 @@ No automáticamente desde mayo de 2025. Si comunicas en 10 días que quieres seg
 - ¿No puedes hacer tu trabajo? Lee la [incapacidad permanente total](/incapacidad/incapacidad-total/).
 - ¿Cuánto cobrarías? Calcúlalo con la [calculadora de incapacidad permanente](/calculadoras/incapacidad-permanente/).
 - ¿Cuánto cobras ahora, de baja? Mira [cuánto se cobra de baja, día a día](/incapacidad/cuanto-se-cobra-de-baja/).
+- ¿Tu baja es por una patología de la menopausia? Desde el 1 de diciembre de 2026 tiene reglas propias: lo explicamos en [la baja por menopausia](/incapacidad/baja-menopausia/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni las resoluciones del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 27 de octubre de 2026, enlace a la baja por menopausia. 28 de septiembre de 2026, primera versión.*

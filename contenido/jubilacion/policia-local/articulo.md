@@ -8,7 +8,7 @@ miga: Jubilación de la policía local
 palabra_clave_principal: jubilación policía local
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-27
 publicacion: 2026-10-06
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación anticipada de la policía local: a qué edad te puedes jubilar y con cuántos años de servicio
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 27 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -98,7 +98,7 @@ El Real Decreto 1449/2018 habla de funcionarios de carrera de la Policía local.
 
 ### ¿Los policías nacionales y autonómicos tienen el mismo coeficiente?
 
-No con esta norma: el Real Decreto 1449/2018 solo se aplica a las policías locales. Otros cuerpos tienen sus propias reglas; lo resumimos en [jubilación anticipada por profesión](/jubilacion/anticipada-por-profesion/).
+No con esta norma: el Real Decreto 1449/2018 solo se aplica a las policías locales. Los Mossos d'Esquadra, la Ertzaintza y la Policía Foral también tienen un coeficiente de 0,20, con otros límites: lo explicamos en [jubilación de las policías autonómicas](/jubilacion/policias-autonomicas/). Los demás cuerpos los resumimos en [jubilación anticipada por profesión](/jubilacion/anticipada-por-profesion/).
 
 ## Fuentes oficiales
 
@@ -116,4 +116,4 @@ No con esta norma: el Real Decreto 1449/2018 solo se aplica a las policías loca
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, corregidas las edades de dos ejemplos. 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 27 de octubre de 2026, enlace a la guía de las policías autonómicas. 20 de octubre de 2026, corregidas las edades de dos ejemplos. 6 de octubre de 2026, primera versión.*

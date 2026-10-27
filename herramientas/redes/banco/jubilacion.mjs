@@ -231,6 +231,12 @@ ${L('bomberos', 'x')}`,
 ${L('policia-local', 'x')}`,
   },
   {
+    id: 'policias-autonomicas-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/jubilacion/policias-autonomicas/',
+    texto: `Mossos d'Esquadra, Ertzaintza y Policía Foral: cada año de servicio rebaja la edad de jubilación 0,20 años, sin recorte en la pensión. El límite es la edad: nunca antes de los 60, o de los 59 con 35 años en el cuerpo.
+
+${L('policias-autonomicas', 'x')}`,
+  },
+  {
     id: 'policia-nacional-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/jubilacion/policia-nacional/',
     texto: `Policía Nacional: la segunda actividad no es la jubilación. En la escala básica se puede pedir desde los 58 años y sigues cobrando las retribuciones básicas y el 80 % de las complementarias generales. La jubilación forzosa llega a los 65.
 

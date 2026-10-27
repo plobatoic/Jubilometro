@@ -574,5 +574,9 @@
   "/incapacidad/baja-menopausia/": {
     "id": 1013,
     "estado": "publish"
+  },
+  "/jubilacion/policias-autonomicas/": {
+    "id": 1027,
+    "estado": "publish"
   }
 }

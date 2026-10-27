@@ -45,6 +45,9 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
    - jubilometro.com/jubilacion/pension-sovi/
    - jubilometro.com/viudedad/auxilio-por-defuncion/
    - jubilometro.com/incapacidad/cuanto-se-cobra-de-baja/
+   - jubilometro.com/jubilacion/policias-autonomicas/ (nueva, 27/10)
+   - jubilometro.com/incapacidad/baja-menopausia/
+   - jubilometro.com/dependencia/navarra/
 
    Bing (y con él Copilot y ChatGPT) se entera solo.
 2. **Abrir las redes**, empezando por el paso 1 de la ruta de arriba (el Gmail de Jubilómetro). Un paso cada vez, conmigo.

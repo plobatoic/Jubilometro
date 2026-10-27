@@ -8,7 +8,7 @@ miga: Jubilación anticipada por profesión
 palabra_clave_principal: coeficientes reductores edad jubilación profesión
 intencion: informativa
 fase_plan: F3 (artículo n.º 12)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-10-27
 autor: "Pau Lobato (equipo editorial de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación anticipada por profesión (bomberos, policía local, mineros…): coeficientes reductores de edad
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 27 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -46,7 +46,7 @@ Dos reglas generales ([artículo 206 de la Ley General de la Seguridad Social](h
 |---|---|---|
 | [Bomberos al servicio de las administraciones públicas](/jubilacion/bomberos/) | 0,20 | [Real Decreto 383/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-5987) |
 | [Policías locales](/jubilacion/policia-local/) | 0,20 | [Real Decreto 1449/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-17135) |
-| Miembros de la Ertzaintza y de otros cuerpos policiales autonómicos, según su norma | 0,20 | Normas propias |
+| [Ertzaintza, Mossos d'Esquadra y Policía Foral de Navarra](/jubilacion/policias-autonomicas/), nunca antes de los 60 años (59 con 35 de servicio) | 0,20 | [Ley General de la Seguridad Social, disposiciones adicionales 20.ª, 20.ª bis y 20.ª ter](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#davigesima) |
 | [Bomberos forestales](/jubilacion/bomberos/) | 0,20 | Real Decreto 817/2025 |
 | Agentes forestales y medioambientales de las administraciones públicas | 0,20 | [Real Decreto 919/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-20696) |
 | Minería del carbón | Del 0,05 al 0,50 según la categoría | Real Decreto 2366/1984 |
@@ -119,4 +119,4 @@ Los sindicatos o asociaciones empresariales de tu sector pueden iniciar el proce
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, enumeración más clara. 6 de octubre de 2026, enlaces a las guías de policía local, bomberos, Guardia Civil, Policía Nacional y militares, y edad mínima de los bomberos. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 27 de octubre de 2026, Ertzaintza, Mossos d'Esquadra y Policía Foral con su norma y su guía. 20 de octubre de 2026, enumeración más clara. 6 de octubre de 2026, enlaces a las guías de policía local, bomberos, Guardia Civil, Policía Nacional y militares, y edad mínima de los bomberos. 27 de septiembre de 2026, primera versión.*

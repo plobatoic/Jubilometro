@@ -228,6 +228,14 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Repaso completo: SEO, rastreo, código y guía nueva (27/10/2026, tema 2.11.12)
+
+- **Rastreo y SEO**: las 172 URL de los sitemaps responden 200, con canónica propia, un solo h1, título y descripción en su medida y sin duplicados, imagen para redes y JSON-LD válido (Article, FAQPage, BreadcrumbList, WebApplication, Dataset). robots.txt, sitemaps, redirecciones (http, www, sin barra y URL antiguas de las legales), ads.txt, clave de IndexNow, llms.txt (162 entradas), feed y cabeceras de seguridad (HSTS, nosniff, SAMEORIGIN) correctos. Ninguna guía huérfana: todas reciben al menos dos enlaces de otras guías; la de la baja por menopausia gana uno desde la baja de larga duración.
+- **Código y seguridad**: sin errores de JavaScript en portada, categorías, guías, calculadoras, datos, buscador y 404; `comprobar-web` «Todo correcto»; pruebas de las calculadoras (e2e) correctas. La API no lista usuarios, xmlrpc está desactivado y el registro de errores, protegido.
+- **BOE del 25 al 27/10**: nada que cambie las guías. El RDL 31/2026 sigue pendiente de convalidar (revisión programada hacia el 20/11).
+- **Guía nueva: [jubilación de las policías autonómicas](https://jubilometro.com/jubilacion/policias-autonomicas/)** (id 1027): Mossos d'Esquadra, Ertzaintza y Policía Foral de Navarra, coeficiente 0,20 con suelo de 60 años (59 con 35 de servicio), según las disposiciones adicionales 20.ª, 20.ª bis y 20.ª ter de la LGSS; cotización adicional del 10,60 % (Orden PJC/297/2026, art. 32.2); acuerdo de Navarra del 29/04/2022 (navarra.es) y procedimiento de la Ertzaintza según el sindicato ErNE. Elegida porque las guías por profesión son las que más visitas traen (militares, la primera). Sin foto: Wikimedia limita las descargas. Enlazada desde anticipada por profesión (su fila de la tabla ya cita la norma), policía local y la portada de Jubilación; enlace corto `policias-autonomicas` y una publicación para X en el banco (312).
+- Comprobaciones: 25 pruebas, `comprobar` sin avisos, banco correcto, `comprobar-web` «Todo correcto»; la guía nueva, en el sitemap y en llms.txt, sin desbordes en el móvil.
+
 ### Revisión legal y de contenido (24/10/2026, tema 2.11.11)
 
 - **Páginas legales** reescritas en WordPress (copia en `publicacion/paginas-web/`), comparando el texto con lo que hace la web de verdad (cookies que aparecen, almacenamiento del navegador, formularios, plugins activos y recursos externos: solo Google; las imágenes de Unsplash ya se sirven desde la web):
