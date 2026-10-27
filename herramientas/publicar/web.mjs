@@ -65,6 +65,7 @@ export const IMAGENES_DESTACADAS = {
   '/viudedad/auxilio-por-defuncion/': { archivo: 'auxilio-por-defuncion.webp', alt: 'Cuadro de dos peonías blancas cortadas sobre una mesa, junto a unas tijeras de podar', pie: 'Ilustración: Édouard Manet, «Rama de peonías blancas y tijeras» (1864)' },
   '/jubilacion/funcionarios/': { archivo: 'jubilacion-funcionarios.webp', alt: 'Teclas de una máquina de escribir antigua sobre una mesa de madera', pie: 'Foto: rawpixel' },
   '/jubilacion/cita-previa-seguridad-social/': { archivo: 'cita-previa-seguridad-social.webp', alt: 'Teléfono antiguo de disco, negro y dorado, sobre una mesa de madera', pie: 'Foto: rawpixel' },
+  '/incapacidad/baja-menopausia/': { archivo: 'baja-menopausia.webp', alt: 'Cuadro de Sorolla: una mujer con vestido blanco sentada en un sofá amarillo', pie: 'Cuadro: Joaquín Sorolla, «Clotilde sentada en un sofá» (1910)' },
   '/jubilacion/policias-autonomicas/': { archivo: 'jubilacion-policias-autonomicas.webp', alt: 'Todoterreno de los Mossos d\'Esquadra con una moto policial en un remolque, en una calle de Barcelona', pie: 'Foto: Francesc 2000 (Wikimedia Commons)' },
   '/jubilacion/policia-local/': { archivo: 'jubilacion-policia-local.webp', alt: 'Coches de policía con las luces azules encendidas en una calle', pie: 'Foto: rawpixel' },
   '/jubilacion/bomberos/': { archivo: 'jubilacion-bomberos.webp', alt: 'Bomberos con mangueras junto a un camión de bomberos durante una intervención', pie: 'Foto: rawpixel' },

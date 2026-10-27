@@ -228,6 +228,15 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Portada más corta en el móvil y foto de la baja por menopausia (27/10/2026, tema 2.11.16)
+
+- **«Guías por tema» en el móvil**: mosaico de dos columnas con el icono, el nombre y el número de guías de cada tema; toda la tarjeta es el enlace al tema. Las guías sueltas ya salen en «Más guías», en «¿En qué momento estás?» y en la página de cada tema, así que en el móvil se repetían. De 2.486 a 771 px. En el ordenador no cambia (tres guías por tema).
+- **«Novedades del BOE» en el móvil**: se ven las tres últimas y un botón «Ver las 6 novedades» (`initTimelineMore`, con `aria-expanded`; al plegar, el botón vuelve a la vista). De 2.587 a 1.627 px. En el ordenador se ven las seis, sin botón.
+- La portada en el móvil baja de 17.947 a 15.272 px, sin errores de JavaScript.
+- **Foto de la baja por menopausia**: «Clotilde sentada en un sofá» (Joaquín Sorolla, 1910, Museo Sorolla, inventario 00900), reproducción del Google Art Project en Wikimedia Commons, dominio público; recortada a 16:9 por el busto (92 KB). Descargada a través de Apify; crédito en `CREDITOS.md`. Ya sale en la guía, en la imagen para redes y en las listas.
+- Comprobaciones: 25 pruebas, `comprobar` sin avisos, `comprobar-web` con un solo 403 pasajero de la protección de Hostinger (la calculadora de anticipada responde 200 con `curl`).
+- **Foto real del autor**: hace falta una foto de Pau; no se puede inventar ni usar una de banco como si fuera él. Cuando la envíe, se sube como avatar y a «Quiénes somos».
+
 ### Revisión visual y mejoras (27/10/2026, temas 2.11.14 y 2.11.15)
 
 - **Revisión** con capturas completas de portada, tema Jubilación, guía de militares, calculadora de pensión neta, Guías, Calculadoras, pensión media por provincia y Quiénes somos, en móvil y ordenador. Sin desbordes ni errores de JavaScript; el ordenador se ve acabado. Problemas encontrados: la guía más nueva salía destacada en Jubilación con un recuadro vacío (sin foto), la página Guías medía 34.500 px en el móvil y «Las cifras de 2026» ocupaba seis tarjetas apiladas.

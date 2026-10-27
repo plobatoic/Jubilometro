@@ -2576,3 +2576,21 @@ body.is-filtering .jm-topic__more { display: none; }
   .jm-saldo__row a { display: inline; font-size: .875rem; white-space: normal; padding-top: .4rem; }
   .jm-saldo__row a .jm-i { display: inline-block; vertical-align: -.2em; margin-left: .2em; }
 }
+
+/* Portada en el móvil (2.11.16): «Guías por tema» en mosaico de dos columnas con el nombre y el número
+   de guías (toda la tarjeta es el enlace; las guías sueltas ya salen en «Más guías» y en cada tema)
+   y «Novedades del BOE» con las tres últimas y un botón para ver el resto */
+.jm-timeline__more { display: none; }
+@media (max-width: 639px) {
+  .jm-temas__grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .6rem; }
+  .jm-tema { padding: .95rem .9rem .9rem; gap: 0; }
+  .jm-tema:last-child:nth-child(odd) { grid-column: 1 / -1; }
+  .jm-tema__list, .jm-tema__more { display: none; }
+  .jm-tema__head { grid-template-columns: minmax(0, 1fr); row-gap: .45rem; justify-items: start; }
+  .jm-tema__icon { grid-row: auto; width: 2.4rem; height: 2.4rem; border-radius: 11px; }
+  .jm-tema h3 { font-size: 1.125rem; overflow-wrap: break-word; }
+  .jm-tema h3 a::after { content: ""; position: absolute; inset: 0; z-index: 1; border-radius: inherit; }
+  .jm-timeline:not(.is-open) > li:nth-child(n+4) { display: none; }
+  .jm-timeline__more { display: inline-flex; justify-self: start; margin-top: -1.5rem; }
+  .jm-update { padding: 1.1rem 1.15rem; }
+}

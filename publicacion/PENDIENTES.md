@@ -81,6 +81,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 18. **Grabar tu voz o salir en algunos vídeos.**
 19. **Bing Webmaster Tools** (bing.com/webmasters): entrar e importar la web desde Search Console, para ver las visitas que llegan de Bing y Copilot. Son dos minutos.
 20. **Google Analytics 4** (pedido el 27/10): en analytics.google.com, «Empezar a medir» → cuenta «Jubilómetro» → propiedad «jubilometro.com» (zona horaria España, moneda euro) → flujo de datos «Web» con `https://jubilometro.com`. Copiar el **ID de medición** (empieza por `G-`) y pasármelo por el chat: es público, no es una contraseña. Yo lo activo (opción `jm_ga4_id`), actualizo privacidad y cookies y compruebo que solo cuenta con permiso. En Analytics, después: Administrar › Recogida y conservación de datos › Conservación de datos: 14 meses; y Administrar › Vínculos de productos › Search Console: vincular.
+21. **Tu foto para la firma de las guías** (pedido el 27/10): ahora sale un círculo con «PL». Mándame por el chat una foto tuya de cara, con luz natural y fondo liso (vale una del móvil, en horizontal o vertical). Yo la recorto, la subo como foto de autor y la pongo en «Quiénes somos». No se puede usar una foto de banco como si fueras tú: Google y los lectores valoran que el autor sea real.
 
 ## Lo que hago yo, con fecha
 

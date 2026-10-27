@@ -742,6 +742,24 @@
     });
   }
 
+  // Portada, «Novedades del BOE»: en el móvil se ven las tres últimas y un botón para el resto
+  // (el CSS solo pliega la lista y muestra el botón por debajo de 640 px)
+  function initTimelineMore() {
+    var list = $('.jm-timeline'); if (!list) return;
+    var n = $$(':scope > li', list).length; if (n <= 3) return;
+    var btn = document.createElement('button');
+    btn.type = 'button'; btn.className = 'jm-btn jm-btn--ghost jm-timeline__more';
+    btn.setAttribute('aria-expanded', 'false');
+    btn.textContent = 'Ver las ' + n + ' novedades';
+    btn.addEventListener('click', function () {
+      var open = list.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      btn.textContent = open ? 'Ver menos' : 'Ver las ' + n + ' novedades';
+      if (!open) btn.scrollIntoView({ block: 'nearest' });
+    });
+    list.insertAdjacentElement('afterend', btn);
+  }
+
   function initLiveSearch() {
     var inputs = $$('#jm-s, #mast-s'); if (!inputs.length || !window.fetch) return;
     var index = null, loading = null;
@@ -974,6 +992,6 @@
 
   // El grabado es solo adorno y crear el lienzo cuesta: se dibuja cuando el navegador ya ha pintado el texto
   function later(fn) { return function () { if ('requestIdleCallback' in window) requestIdleCallback(function () { safe(fn); }, { timeout: 1500 }); else setTimeout(function () { safe(fn); }, 300); }; }
-  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initAnalytics, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch, initGuideFilter].forEach(safe); }
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initAnalytics, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch, initGuideFilter, initTimelineMore].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
