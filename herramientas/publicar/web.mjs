@@ -65,6 +65,7 @@ export const IMAGENES_DESTACADAS = {
   '/viudedad/auxilio-por-defuncion/': { archivo: 'auxilio-por-defuncion.webp', alt: 'Cuadro de dos peonías blancas cortadas sobre una mesa, junto a unas tijeras de podar', pie: 'Ilustración: Édouard Manet, «Rama de peonías blancas y tijeras» (1864)' },
   '/jubilacion/funcionarios/': { archivo: 'jubilacion-funcionarios.webp', alt: 'Teclas de una máquina de escribir antigua sobre una mesa de madera', pie: 'Foto: rawpixel' },
   '/jubilacion/cita-previa-seguridad-social/': { archivo: 'cita-previa-seguridad-social.webp', alt: 'Teléfono antiguo de disco, negro y dorado, sobre una mesa de madera', pie: 'Foto: rawpixel' },
+  '/jubilacion/policias-autonomicas/': { archivo: 'jubilacion-policias-autonomicas.webp', alt: 'Todoterreno de los Mossos d\'Esquadra con una moto policial en un remolque, en una calle de Barcelona', pie: 'Foto: Francesc 2000 (Wikimedia Commons)' },
   '/jubilacion/policia-local/': { archivo: 'jubilacion-policia-local.webp', alt: 'Coches de policía con las luces azules encendidas en una calle', pie: 'Foto: rawpixel' },
   '/jubilacion/bomberos/': { archivo: 'jubilacion-bomberos.webp', alt: 'Bomberos con mangueras junto a un camión de bomberos durante una intervención', pie: 'Foto: rawpixel' },
   '/jubilacion/guardia-civil/': { archivo: 'jubilacion-guardia-civil.webp', alt: 'Moto Montesa verde de la Guardia Civil de 1982 expuesta en un museo de motos', pie: 'Foto: Txemai Argazki (Flickr)' },

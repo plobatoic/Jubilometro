@@ -2529,3 +2529,50 @@ html body { background: #fff; }
 /* Información básica de protección de datos bajo el formulario de la newsletter (tema 2.11.9) */
 .jm-nl__body > p.jm-nl__legal { margin-top: .25rem; font-size: .875rem; line-height: 1.5; color: var(--jm-muted); }
 .jm-nl__legal a { color: inherit; text-decoration: underline; text-underline-offset: .15em; }
+
+/* ==========================================================================
+   PULIDO (tema 2.11.14): tarjetas sin foto y página «Guías» con buscador
+   ========================================================================== */
+/* Guía sin foto: lámina azul de la marca con el icono y el nombre del tema, en vez de un hueco */
+.jm-story__media--empty { container-type: inline-size; display: grid; place-items: center; color: #fff;
+  background: radial-gradient(120% 90% at 85% 10%, rgb(255 255 255 / .16), transparent 55%),
+    repeating-linear-gradient(135deg, rgb(255 255 255 / .05) 0 2px, transparent 2px 16px),
+    linear-gradient(135deg, var(--jm-brass) 0%, var(--jm-pine) 100%); }
+.jm-story__ph { display: grid; justify-items: center; gap: .7rem; text-align: center; }
+.jm-story__media--empty .jm-i { box-sizing: content-box; width: 2.6rem; height: 2.6rem; padding: .9rem; border-radius: 50%; background: rgb(255 255 255 / .14); color: #fff; stroke-width: 1.5; }
+.jm-story__ph-t { font: 700 .75rem/1.2 var(--jm-font-body); letter-spacing: .12em; text-transform: uppercase; color: rgb(255 255 255 / .92); }
+@container (max-width: 180px) {
+  .jm-story__ph-t { display: none; }
+  .jm-story__media--empty .jm-i { width: 1.5rem; height: 1.5rem; padding: .55rem; }
+}
+
+/* «Guías»: buscador y 6 guías por tema con «Ver las N guías» */
+.jm-guidefilter { display: grid; gap: .5rem; max-width: 40rem; margin-block: 1.75rem .25rem; }
+.jm-guidefilter__l { font-weight: 700; color: var(--jm-ink); }
+.jm-guidefilter__n { min-height: 1.4em; margin: 0; color: var(--jm-muted); font-size: var(--jm-fs-sm); }
+.jm-topic__list > li.is-extra { display: none; }
+.jm-topic__list.is-open > li.is-extra, body.is-filtering .jm-topic__list > li.is-extra { display: block; }
+.jm-topic__list > li[hidden], .jm-topic[hidden] { display: none !important; }
+.jm-topic__more { justify-self: start; margin-top: -.5rem; }
+body.is-filtering .jm-topic__more { display: none; }
+@media (min-width: 960px) { .jm-topic__more { grid-column: 2; } }
+/* En las listas con miniaturas, la guía sin foto lleva un cuadrado de la marca para que no se descuadre */
+.jm-topic__list:has(.jm-topic__thumb) a:not(:has(.jm-topic__thumb)) { grid-template-columns: 4.5rem 1fr auto; padding-left: .8rem; }
+.jm-topic__list:has(.jm-topic__thumb) a:not(:has(.jm-topic__thumb))::before { content: ""; grid-column: 1; grid-row: 1 / span 2; width: 4.5rem; aspect-ratio: 1; border-radius: var(--jm-radius-sm);
+  background: repeating-linear-gradient(135deg, rgb(255 255 255 / .06) 0 2px, transparent 2px 12px), linear-gradient(135deg, var(--jm-brass), var(--jm-pine)); }
+.jm-topic__list:has(.jm-topic__thumb) a:not(:has(.jm-topic__thumb)) > :is(span.jm-topic__t, small) { grid-column: 2; }
+.jm-topic__list:has(.jm-topic__thumb) a:not(:has(.jm-topic__thumb)) > .jm-i { grid-column: 3; grid-row: 1 / span 2; }
+
+/* Portada, «Las cifras de 2026» en el móvil: dos columnas (la tarjeta impar ocupa el ancho) en vez de una */
+@media (max-width: 639px) {
+  .jm-saldo { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .65rem; }
+  .jm-saldo__row, .jm-saldo__row:last-child { padding: 1rem .9rem .95rem; gap: .3rem; }
+  .jm-saldo__row:last-child:nth-child(odd) { grid-column: 1 / -1; }
+  .jm-saldo__v { font-size: 1.55rem; white-space: normal; margin-bottom: .2rem; }
+  .jm-saldo__v small { font-size: .8125rem; }
+  .jm-saldo__c { font-size: .9375rem; line-height: 1.25; }
+  .jm-saldo__n { font-size: .8125rem; line-height: 1.4; }
+  .jm-saldo__norma { font-size: .6875rem; }
+  .jm-saldo__row a { display: inline; font-size: .875rem; white-space: normal; padding-top: .4rem; }
+  .jm-saldo__row a .jm-i { display: inline-block; vertical-align: -.2em; margin-left: .2em; }
+}

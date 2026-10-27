@@ -97,7 +97,8 @@ function jm_story_img( $p, $sizes, $eager = false ) {
 	if ( ! $thumb ) {
 		$c    = jm_primary_cat( $p->ID );
 		$icon = $c && isset( jm_data( 'cats' )[ $c->slug ] ) ? jm_data( 'cats' )[ $c->slug ]['icon'] : 'book';
-		return '<figure class="jm-story__media jm-story__media--empty">' . jm_icon( $icon ) . '</figure>';
+		$tema = $c ? '<span class="jm-story__ph-t">' . esc_html( $c->name ) . '</span>' : '';
+		return '<figure class="jm-story__media jm-story__media--empty" aria-hidden="true"><span class="jm-story__ph">' . jm_icon( $icon ) . $tema . '</span></figure>';
 	}
 	$attr = array( 'sizes' => $sizes, 'class' => '' );
 	if ( $eager ) {

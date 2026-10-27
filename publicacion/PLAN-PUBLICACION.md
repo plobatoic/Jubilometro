@@ -228,6 +228,15 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Revisión visual y mejoras (27/10/2026, temas 2.11.14 y 2.11.15)
+
+- **Revisión** con capturas completas de portada, tema Jubilación, guía de militares, calculadora de pensión neta, Guías, Calculadoras, pensión media por provincia y Quiénes somos, en móvil y ordenador. Sin desbordes ni errores de JavaScript; el ordenador se ve acabado. Problemas encontrados: la guía más nueva salía destacada en Jubilación con un recuadro vacío (sin foto), la página Guías medía 34.500 px en el móvil y «Las cifras de 2026» ocupaba seis tarjetas apiladas.
+- **Foto de la guía de las policías autonómicas**: todoterreno de Tráfico de los Mossos d'Esquadra con una moto en remolque (Francesc 2000, Wikimedia Commons, dominio público), recortada a 16:9 y en webp (65 KB). Descargada a través de Apify porque Wikimedia limita las descargas desde aquí; crédito en `CREDITOS.md`.
+- **Guía sin foto** (`jm_story_img`): en vez de un hueco claro con un icono, una lámina azul de la marca con el icono y el nombre del tema (en miniaturas pequeñas solo el icono, con una consulta de contenedor). En las listas con miniaturas, un cuadrado de la marca para que no se descuadre. La baja por menopausia sigue sin foto (el buscador de Wikimedia estaba saturado) y ya se ve bien.
+- **Guías**: buscador que filtra las 145 guías al escribir (sin tildes ni mayúsculas, todas las palabras), con el número de resultados y, si no hay, enlace al buscador de la web; cada tema muestra 6 guías y un botón «Ver las N guías de…». En el móvil la página baja de 34.500 a 15.700 px.
+- **Portada, «Las cifras de 2026» en el móvil**: dos columnas (la tarjeta impar ocupa el ancho), cifras algo menores y flecha junto al texto: de 1.156 a 640 px.
+- Nota: tras muchas capturas seguidas, la protección de Hostinger (hCDN) sirve una página con reCAPTCHA al navegador sin pantalla y da algún 403 a `comprobar-web`; con `curl` la web responde bien y se pasa en unos minutos. No afecta a los lectores.
+
 ### Google Analytics 4 preparado (27/10/2026, tema 2.11.13)
 
 - **Apagado hasta tener el ID**: opción `jm_ga4_id` (Ajustes › Generales o `POST /wp/v2/settings {"jm_ga4_id": "G-…"}`); al guardarla se vacía la caché de LiteSpeed. El tema solo escribe `window.jmGA` en la cabecera (no a los editores conectados).

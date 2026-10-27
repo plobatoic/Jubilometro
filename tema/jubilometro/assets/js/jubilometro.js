@@ -691,6 +691,57 @@
   }
 
   /* ---------- Buscador instantáneo: resultados mientras escribes ---------- */
+  // Página «Guías»: buscador que filtra las guías al escribir y, en cada tema, solo las 6 primeras
+  // con un botón para ver el resto (en el móvil la lista completa ocupaba decenas de pantallas).
+  function initGuideFilter() {
+    var topics = $$('.jm-topic'); if (topics.length < 3 || !$('.jm-topic__list')) return;
+    var MAX = 6, norm = function (s) { return (s || '').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, ''); };
+    var total = 0;
+    topics.forEach(function (t) {
+      var list = $('.jm-topic__list', t); if (!list) return;
+      var items = $$(':scope > li', list); total += items.length;
+      items.forEach(function (li) { li.setAttribute('data-jm-txt', norm(li.textContent)); });
+      if (items.length <= MAX) return;
+      items.forEach(function (li, i) { if (i >= MAX) li.classList.add('is-extra'); });
+      var h = $('h2', t), nombre = h ? h.textContent.trim() : '';
+      if (nombre !== nombre.toUpperCase()) nombre = nombre.toLowerCase(); // «IMSERSO» se queda en mayúsculas
+      var btn = document.createElement('button');
+      btn.type = 'button'; btn.className = 'jm-btn jm-btn--ghost jm-topic__more';
+      btn.setAttribute('aria-expanded', 'false');
+      btn.textContent = 'Ver las ' + items.length + ' guías de ' + nombre;
+      btn.addEventListener('click', function () {
+        var open = list.classList.toggle('is-open');
+        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        btn.textContent = open ? 'Ver menos' : 'Ver las ' + items.length + ' guías de ' + nombre;
+      });
+      list.insertAdjacentElement('afterend', btn);
+    });
+    var box = document.createElement('div');
+    box.className = 'jm-guidefilter';
+    box.innerHTML = '<label class="jm-guidefilter__l" for="jm-gf">Busca entre las ' + total + ' guías</label>' +
+      '<input class="jm-input" id="jm-gf" type="search" autocomplete="off" placeholder="Ej.: viudedad, IMSERSO, policía">' +
+      '<p class="jm-guidefilter__n" aria-live="polite"></p>';
+    topics[0].parentNode.insertBefore(box, topics[0]);
+    var input = $('input', box), out = $('.jm-guidefilter__n', box), timer;
+    input.addEventListener('input', function () {
+      clearTimeout(timer);
+      timer = setTimeout(function () {
+        var q = norm(input.value.trim()), n = 0, words = q.split(/\s+/).filter(Boolean);
+        document.body.classList.toggle('is-filtering', !!q);
+        topics.forEach(function (t) {
+          var vis = 0;
+          $$('.jm-topic__list > li', t).forEach(function (li) {
+            var ok = !words.length || words.every(function (w) { return li.getAttribute('data-jm-txt').indexOf(w) > -1; });
+            li.hidden = !ok; if (ok) vis++;
+          });
+          t.hidden = !!q && vis === 0; n += vis;
+        });
+        out.innerHTML = !q ? '' : n ? n + (n === 1 ? ' guía encontrada' : ' guías encontradas') :
+          'No hay ninguna guía con esas palabras. Prueba con otra o usa el <a href="/?s=' + encodeURIComponent(input.value.trim()) + '">buscador</a>.';
+      }, 120);
+    });
+  }
+
   function initLiveSearch() {
     var inputs = $$('#jm-s, #mast-s'); if (!inputs.length || !window.fetch) return;
     var index = null, loading = null;
@@ -923,6 +974,6 @@
 
   // El grabado es solo adorno y crear el lienzo cuesta: se dibuja cuando el navegador ya ha pintado el texto
   function later(fn) { return function () { if ('requestIdleCallback' in window) requestIdleCallback(function () { safe(fn); }, { timeout: 1500 }); else setTimeout(function () { safe(fn); }, 300); }; }
-  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initAnalytics, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch].forEach(safe); }
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initAnalytics, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch, initGuideFilter].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
