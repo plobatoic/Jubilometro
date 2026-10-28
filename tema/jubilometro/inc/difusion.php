@@ -66,7 +66,7 @@ function jm_redes_def() {
 add_action( 'init', function () {
 	$props = array();
 	foreach ( array_keys( jm_redes_def() ) as $red ) { $props[ $red ] = array( 'type' => 'string' ); }
-	register_setting( 'general', 'jm_redes', array(
+	register_setting( 'jubilometro', 'jm_redes', array(
 		'type'              => 'object',
 		'default'           => array(),
 		'show_in_rest'      => array( 'schema' => array( 'type' => 'object', 'properties' => $props, 'additionalProperties' => false ) ),

@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.16' );
+define( 'JM_THEME_VER', '2.11.17' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -628,14 +628,17 @@ function jm_tablas_moviles( $html ) {
 
 /*
  * AdSense (anuncios automáticos). Se activa guardando el ID de editor (ca-pub-…) en la opción
- * jm_adsense_client (Ajustes > Generales, o por la API: POST /wp/v2/settings {"jm_adsense_client": "ca-pub-…"}).
+ * jm_adsense_client por la API: POST /wp/v2/settings {"jm_adsense_client": "ca-pub-…"}.
  * - La etiqueta google-adsense-account va en todas las páginas (verificación del sitio).
  * - El código de anuncios no se carga en las calculadoras, las páginas legales, el buscador ni la 404:
  *   así no hay anuncios junto a los botones de calcular (clics accidentales) ni en páginas sin contenido propio.
- * - /ads.txt se genera solo con el ID (no hace falta subir el archivo al hosting).
+ * - /ads.txt: desde el 28/10/2026 hay un archivo fijo en la raíz del hosting (copia en publicacion/hosting/ads.txt),
+ *   que el servidor entrega sin pasar por WordPress. Si se borra, el tema lo genera con el ID.
+ * - Los ajustes del tema van en su propio grupo («jubilometro»), no en «general»: WordPress vacía al guardar
+ *   Ajustes › Generales todas las opciones de ese grupo que no tienen campo en la página.
  */
 add_action( 'init', function () {
-	register_setting( 'general', 'jm_adsense_client', array(
+	register_setting( 'jubilometro', 'jm_adsense_client', array(
 		'type'              => 'string',
 		'default'           => '',
 		'show_in_rest'      => true,
@@ -687,14 +690,14 @@ add_action( 'init', function () {
 
 /*
  * Google Analytics 4. Se activa guardando el ID de medición (G-…) en la opción jm_ga4_id
- * (Ajustes > Generales, o por la API: POST /wp/v2/settings {"jm_ga4_id": "G-…"}).
+ * por la API: POST /wp/v2/settings {"jm_ga4_id": "G-…"}.
  * Aquí solo se deja el ID en la página: jubilometro.js carga gtag.js cuando el aviso de privacidad
  * de Google da permiso (finalidades 1 y 8 del TCF y el proveedor Google, 755) o cuando el RGPD no
  * se aplica. Sin aviso en la página (calculadoras y legales no cargan AdSense) no se carga.
  * No se cuenta a los editores conectados. No cambia cómo ni cuándo carga AdSense.
  */
 add_action( 'init', function () {
-	register_setting( 'general', 'jm_ga4_id', array(
+	register_setting( 'jubilometro', 'jm_ga4_id', array(
 		'type'              => 'string',
 		'default'           => '',
 		'show_in_rest'      => true,

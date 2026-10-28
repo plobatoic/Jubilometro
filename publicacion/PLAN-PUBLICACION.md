@@ -228,6 +228,13 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### ads.txt fijo y ajustes protegidos (28/10/2026, tema 2.11.17)
+
+- **Aviso del titular**: AdSense marcaba `ads.txt` como «Autorizado» y ha dejado de hacerlo. Comprobado hoy: `https://jubilometro.com/ads.txt` (y con www) responde 200, `text/plain`, con la línea correcta, en 30 peticiones seguidas y con agentes de Google; también desde los servidores de Google (proxy de Google Translate). `robots.txt` no lo bloquea. Lo más probable es que el rastreador de AdSense lo pidiera en un momento en que no pudo leerlo, porque el archivo lo generaba WordPress en cada visita (PHP y base de datos, unos 0,8 s) y la protección del CDN de Hostinger puede bloquear peticiones automáticas. No hay registros de acceso en la API para confirmarlo.
+- **Arreglo 1**: `ads.txt` fijo en la raíz del hosting (copia en `publicacion/hosting/`), subido con el conector de Hostinger. Ahora lo entrega el servidor directamente (sin PHP, con `Last-Modified` y `ETag`). El contenido es idéntico; el tema sigue generándolo si el archivo desaparece.
+- **Arreglo 2 (fallo latente)**: `jm_adsense_client`, `jm_ga4_id` y `jm_redes` estaban registrados en el grupo `general` sin campo en la página. Al guardar Ajustes › Generales, WordPress pone a vacío todas las opciones de ese grupo que no vienen en el formulario: se habría borrado el ID de AdSense (y con él la etiqueta de verificación, el código y `ads.txt`). Pasan al grupo propio `jubilometro`; siguen en la API de ajustes. Comprobado: los tres valores siguen iguales y la portada mantiene la etiqueta `google-adsense-account` y `adsbygoogle.js` como antes (no cambia cómo ni cuándo carga AdSense).
+- AdSense vuelve a leer el archivo por su cuenta; el estado puede tardar unos días en volver a «Autorizado».
+
 ### Portada más corta en el móvil y foto de la baja por menopausia (27/10/2026, tema 2.11.16)
 
 - **«Guías por tema» en el móvil**: mosaico de dos columnas con el icono, el nombre y el número de guías de cada tema; toda la tarjeta es el enlace al tema. Las guías sueltas ya salen en «Más guías», en «¿En qué momento estás?» y en la página de cada tema, así que en el móvil se repetían. De 2.486 a 771 px. En el ordenador no cambia (tres guías por tema).
@@ -248,7 +255,7 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 
 ### Google Analytics 4 preparado (27/10/2026, tema 2.11.13)
 
-- **Apagado hasta tener el ID**: opción `jm_ga4_id` (Ajustes › Generales o `POST /wp/v2/settings {"jm_ga4_id": "G-…"}`); al guardarla se vacía la caché de LiteSpeed. El tema solo escribe `window.jmGA` en la cabecera (no a los editores conectados).
+- **Apagado hasta tener el ID**: opción `jm_ga4_id` (`POST /wp/v2/settings {"jm_ga4_id": "G-…"}`; no tiene campo en Ajustes › Generales); al guardarla se vacía la caché de LiteSpeed. El tema solo escribe `window.jmGA` en la cabecera (no a los editores conectados).
 - **Solo con permiso** (art. 22.2 LSSI): `initAnalytics` espera al aviso de privacidad de Google y carga `gtag.js` si hay consentimiento para las finalidades 1 y 8 del TCF y el proveedor Google (755), o si el RGPD no se aplica; si se retira, `analytics_storage` pasa a `denied`. Sin aviso en la página (calculadoras y legales no cargan AdSense) no se carga. Consentimiento de anuncios (`ad_*`) siempre denegado, sin Google Signals ni personalización.
 - **Campañas**: `page_location` lleva la dirección de llegada con sus `utm_` (el contador propio las quita de la barra después). Los botones que cuenta la web (compartir, calculadoras, newsletter, herramientas) se envían también como eventos (`jm_detalle`).
 - Probado en vivo con un ID de prueba y peticiones a Google bloqueadas: con permiso se carga y la configuración lleva la URL con utm; sin permiso o sin aviso, no; AdSense carga igual en los tres casos; sin errores.
