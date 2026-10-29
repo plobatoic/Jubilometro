@@ -228,6 +228,13 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Pensión media por provincia con la nómina de octubre (29/10/2026)
+
+- **Fuente**: nota de la Seguridad Social del 27/10/2026 («La pensión media del sistema de la Seguridad Social alcanza los 1.376,1 euros en octubre») y su Excel adjunto `Pensiones OCTUBRE_2026.xlsx`, hoja «Número pensiones (IP-J-V)». Las 52 provincias suman 6.777.927 pensiones de jubilación, el total del Excel, y la media ponderada da 1.577,61 € (la nota redondea a 1.577,6 €).
+- **Datos**: media nacional 1.577,61 € (+1,51 € sobre septiembre); la más alta, Bizkaia (1.943,10 €); la más baja, Ourense (1.144,37 €); 17 provincias por encima de la media; nuevas altas de jubilación, 1.758 € (dato de septiembre de la nota). CSV del mes en `publicacion/datos/`.
+- **Herramienta nueva** `herramientas/datos/pension-provincia.mjs`: lee el Excel oficial (sin dependencias), comprueba 52 provincias y que la suma sea el total, y cambia en la página solo los datos (título, fechas, resumen, las dos listas de 10, tabla, metodología, «Qué dicen los datos», fuente y título y descripción de Rank Math); con `--subir` actualiza la web y reescribe las cifras de `paginas/portadas/datos.md`.
+- Comprobado en vivo: título «Pensión media por provincia (octubre 2026) | Jubilómetro», 52 filas, buscador, filtro por comunidad y CSV correctos, sin errores de JavaScript; `/datos/` con las cifras nuevas. Próximo recordatorio programado para el 28/11/2026.
+
 ### ads.txt fijo y ajustes protegidos (28/10/2026, tema 2.11.17)
 
 - **Aviso del titular**: AdSense marcaba `ads.txt` como «Autorizado» y ha dejado de hacerlo. Comprobado hoy: `https://jubilometro.com/ads.txt` (y con www) responde 200, `text/plain`, con la línea correcta, en 30 peticiones seguidas y con agentes de Google; también desde los servidores de Google (proxy de Google Translate). `robots.txt` no lo bloquea. Lo más probable es que el rastreador de AdSense lo pidiera en un momento en que no pudo leerlo, porque el archivo lo generaba WordPress en cada visita (PHP y base de datos, unos 0,8 s) y la protección del CDN de Hostinger puede bloquear peticiones automáticas. No hay registros de acceso en la API para confirmarlo.
@@ -455,7 +462,7 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 | 1 de diciembre de 2026 | Efectos de las bajas especiales por menopausia y violencia de género, de la nueva base reguladora de la baja y de la reducción de cuotas de los mayores de 62: pasar a presente la guía de cuánto se cobra de baja |
 | 23 de octubre de 2026 | Entra en vigor la Ley 4/2026 de dependencia: repasar que las guías hablen en presente, y seguir el real decreto nuevo de la prestación por cuidados familiares (mientras, rige el RD 1051/2013) |
 | 1 de noviembre de 2026 | Cataluña: vence el plazo de la Generalitat para empezar a pagar la ayuda mientras esperas (Decreto-ley 4/2026); pasar el texto a pasado y añadir lo que se sepa del pago |
-| 29 de octubre de 2026 | Tabla de pensión media por provincia con la nómina de octubre y texto de la portada `/datos/` |
+| 28 de noviembre de 2026 (y cada mes, tras la nota de la Seguridad Social) | Tabla de pensión media por provincia y texto de la portada `/datos/` con la nómina del mes: `node herramientas/datos/pension-provincia.mjs --excel=… --mes=AAAA-MM --fuente=… --altas=…` (primero sin `--subir`) y `subir-portadas.mjs --solo=datos`. Octubre hecho el 29/10 |
 | 1 de noviembre de 2026 | Plazos de termalismo del IMSERSO (requisitos de los viajes y termalismo) |
 | 16 de diciembre de 2026 | Termalismo de Castilla-La Mancha y plazos autonómicos (turismo autonómico) |
 | 1 de enero de 2027 | Haberes reguladores de Clases Pasivas de 2027 (anexo del real decreto-ley o la ley de presupuestos) y pensión máxima en la guía de funcionarios |

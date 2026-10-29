@@ -6,17 +6,17 @@ La Seguridad Social publica cada mes las pensiones en vigor el día 1. Nosotros 
 
 ## Pensión media de jubilación por provincia
 
-La primera tabla ya publicada es la [pensión media de jubilación por provincia](/datos/pension-media-provincia/), con la nómina de **septiembre de 2026**: la media nacional es de **1.576,10 euros al mes**, repartidos entre **6.760.137 pensiones** de jubilación.
+La primera tabla ya publicada es la [pensión media de jubilación por provincia](/datos/pension-media-provincia/), con la nómina de **octubre de 2026**: la media nacional es de **1.577,61 euros al mes**, repartidos entre **6.777.927 pensiones** de jubilación.
 
-- La más alta es la de **Bizkaia (1.941,48 euros)**, seguida de Álava, Gipuzkoa, Asturias y Madrid.
-- La más baja es la de **Ourense (1.142,35 euros)**. Entre las dos hay **799 euros al mes** de diferencia.
-- Solo **17 de las 52 provincias** superan la media nacional, porque las más pobladas, como Madrid y Barcelona, la empujan hacia arriba.
+- La más alta es la de **Bizkaia (1.943,10 euros)**, seguida de Álava, Gipuzkoa, Asturias y Madrid.
+- La más baja es la de **Ourense (1.144,37 euros)**. Entre las dos hay **799 euros al mes** de diferencia.
+- Solo **17 de las 52 provincias** superan la media nacional, porque las provincias más pobladas (Madrid, Barcelona) tiran de la media hacia arriba.
 
 Puedes buscar tu provincia, filtrar por comunidad autónoma y descargar la tabla completa en CSV.
 
 ## Cómo leer una pensión media
 
-La pensión media es la de **todas las pensiones de jubilación que se cobran hoy**, también las de quienes se jubilaron hace veinte años con carreras más cortas y salarios más bajos. Por eso es menor que la de quienes se jubilan ahora: las nuevas altas de jubilación rondan ya los **1.711 euros al mes**.
+La pensión media es la de **todas las pensiones de jubilación que se cobran hoy**, también las de quienes se jubilaron hace veinte años con carreras más cortas y salarios más bajos. Por eso es menor que la de quienes se jubilan ahora: las nuevas altas de jubilación rondan ya los **1.758 euros al mes**.
 
 Tampoco te dice cuánto vas a cobrar tú. Tu pensión depende de tu base reguladora y de los años que hayas cotizado, como explicamos en [cómo se calcula la pensión de jubilación](/cuanto-cobrare/como-se-calcula-la-pension/). Para una primera cifra, usa la [calculadora de pensión de jubilación](/calculadoras/pension-jubilacion/) o mira los ejemplos de [cuánto se cobra según el sueldo](/cuanto-cobrare/pension-segun-sueldo/).
 

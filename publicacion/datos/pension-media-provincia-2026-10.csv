@@ -1,0 +1,54 @@
+puesto,provincia,comunidad,pensiones,pension_media,diferencia_con_la_media
+1,Bizkaia,País Vasco,203070,1943.10,365.49
+2,Álava,País Vasco,59722,1927.19,349.58
+3,Gipuzkoa,País Vasco,137953,1860.49,282.88
+4,Asturias,Principado de Asturias,189554,1839.53,261.92
+5,Madrid,Comunidad de Madrid,897945,1800.10,222.49
+6,Navarra,Navarra,105698,1761.32,183.71
+7,Ceuta,Ceuta,5114,1756.45,178.84
+8,Valladolid,Castilla y León,82671,1721.14,143.53
+9,Zaragoza,Aragón,156926,1698.59,120.98
+10,Guadalajara,Castilla-La Mancha,30997,1674.25,96.64
+11,Melilla,Melilla,4869,1670.82,93.21
+12,Burgos,Castilla y León,67011,1667.06,89.45
+13,Cantabria,Cantabria,96037,1663.91,86.30
+14,Barcelona,Cataluña,913330,1655.79,78.18
+15,Cádiz,Andalucía,133704,1619.76,42.15
+16,Palencia,Castilla y León,29206,1609.70,32.09
+17,León,Castilla y León,88653,1579.92,2.31
+18,Tarragona,Cataluña,122706,1537.11,-40.50
+19,Teruel,Aragón,24039,1535.19,-42.42
+20,Valencia,Comunitat Valenciana,369459,1530.08,-47.53
+21,La Rioja,La Rioja,53193,1525.78,-51.83
+22,Ciudad Real,Castilla-La Mancha,59725,1521.72,-55.89
+23,Soria,Castilla y León,16185,1514.49,-63.12
+24,Huesca,Aragón,36632,1511.58,-66.03
+25,Segovia,Castilla y León,24387,1501.68,-75.93
+26,Sevilla,Andalucía,240617,1492.59,-85.02
+27,Las Palmas,Canarias,113851,1480.45,-97.16
+28,Salamanca,Castilla y León,55474,1469.53,-108.08
+29,Girona,Cataluña,119143,1468.05,-109.56
+30,Toledo,Castilla-La Mancha,83716,1460.64,-116.97
+31,Huelva,Andalucía,64126,1459.67,-117.94
+32,Illes Balears,Illes Balears,147238,1456.79,-120.82
+33,Albacete,Castilla-La Mancha,49113,1448.94,-128.67
+34,Málaga,Andalucía,187223,1442.96,-134.65
+35,Santa Cruz de Tenerife,Canarias,105642,1438.84,-138.77
+36,Murcia,Región de Murcia,165638,1431.56,-146.05
+37,A Coruña,Galicia,196551,1430.73,-146.88
+38,Lleida,Cataluña,67356,1427.34,-150.27
+39,Pontevedra,Galicia,160154,1417.46,-160.15
+40,Castellón,Comunitat Valenciana,93208,1407.40,-170.21
+41,Ávila,Castilla y León,26140,1383.35,-194.26
+42,Cuenca,Castilla-La Mancha,27398,1373.26,-204.35
+43,Badajoz,Extremadura,84386,1369.29,-208.32
+44,Granada,Andalucía,128519,1362.00,-215.61
+45,Alicante,Comunitat Valenciana,235393,1352.25,-225.36
+46,Zamora,Castilla y León,31606,1349.99,-227.62
+47,Córdoba,Andalucía,118083,1329.56,-248.05
+48,Cáceres,Extremadura,64462,1322.06,-255.55
+49,Jaén,Andalucía,89681,1320.24,-257.37
+50,Almería,Andalucía,76385,1299.54,-278.07
+51,Lugo,Galicia,70245,1244.01,-333.60
+52,Ourense,Galicia,67793,1144.37,-433.24
+,Total nacional,,6777927,1577.61,
