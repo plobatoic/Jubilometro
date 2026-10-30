@@ -18,6 +18,7 @@
 | 14 | Pensión máxima 2026: 3.359,60 €/mes | RD 241/2026, art. 3 | Texto del BOE | Verificado en BOE |
 | 15 | Ley 21/2021, de garantía del poder adquisitivo de las pensiones (BOE-A-2021-21652), modificó el art. 58 | Nota del BOE en el art. 58 | — | Verificado en BOE |
 | 16 | Ejemplos (tabla de subidas con 3,3/3,5/3,7 %; Carmen 1.450 × 1,035 = 1.500,75 €, +50,75 × 14 = 710,50 € al año; Rosa 700 × 1,035 = 724,50 €) | — | Cálculo propio | Cálculo propio |
+| 17 | Pensión media de jubilación: 892,38 € (diciembre de 2010) y 1.577,61 € (octubre de 2026) | Excel de la nota de pensiones de octubre de 2026 (hoja «P. Media €») | Leído del archivo oficial el 30/10/2026 | Verificado (fuente oficial) |
 
 ## Pendiente de actualizar
 

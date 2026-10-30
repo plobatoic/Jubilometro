@@ -8,7 +8,7 @@ miga: Revalorización 2027
 palabra_clave_principal: subida pensiones 2027
 intencion: informativa
 fase_plan: F1 (artículo n.º 33)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-10-30
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Revalorización de las pensiones en 2027: cuánto suben, cómo se calcula y cuándo se cobra
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y el INE*
+*Actualizado el 30 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y el INE*
 
 > **Respuesta rápida**
 >
@@ -126,6 +126,8 @@ En 2026 el camino tuvo un tropiezo: el Congreso no convalidó en enero el primer
 
 Desde 2022 las pensiones suben con la inflación media: es la fórmula de la Ley 21/2021, de garantía del poder adquisitivo de las pensiones. Si la media saliera negativa, las pensiones **no bajarían**: se quedarían igual ([artículo 58.3](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58)).
 
+La **pensión media** sube cada año algo más que la revalorización, porque quienes se jubilan ahora cobran más que la media: la de jubilación ha pasado de 892,38 euros en diciembre de 2010 a 1.577,61 euros en octubre de 2026. Lo vemos año a año en la [evolución de la pensión media](/datos/evolucion-pension-media/).
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto subirán las pensiones en 2027?
@@ -173,4 +175,4 @@ No: suben más. Además del porcentaje general, la ley obliga a que en 2027 la m
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien revaloriza tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, el IPC definitivo de septiembre confirma el 4,9 % y enlace a la pensión a favor de familiares. 12 de octubre de 2026, cuándo se aprueban las cuantías con las elecciones de por medio. 10 de octubre de 2026, qué pasa con la subida por las elecciones del 29 de noviembre. 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*
+*Historial de cambios: 30 de octubre de 2026, enlace a la evolución de la pensión media desde 2010 (datos de la Seguridad Social). 14 de octubre de 2026, el IPC definitivo de septiembre confirma el 4,9 % y enlace a la pensión a favor de familiares. 12 de octubre de 2026, cuándo se aprueban las cuantías con las elecciones de por medio. 10 de octubre de 2026, qué pasa con la subida por las elecciones del 29 de noviembre. 5 de octubre de 2026, enlace a la nueva calculadora de la subida. 2 de octubre de 2026, añadido el IPC adelantado de septiembre (4,9 %): la media sube al 3,33 % y la horquilla pasa a 3,3-3,7 %; ejemplos recalculados. 28 de septiembre de 2026, primera versión con los datos del IPC hasta agosto.*

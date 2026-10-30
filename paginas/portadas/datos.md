@@ -6,13 +6,17 @@ La Seguridad Social publica cada mes las pensiones en vigor el día 1. Nosotros 
 
 ## Pensión media de jubilación por provincia
 
-La primera tabla ya publicada es la [pensión media de jubilación por provincia](/datos/pension-media-provincia/), con la nómina de **octubre de 2026**: la media nacional es de **1.577,61 euros al mes**, repartidos entre **6.777.927 pensiones** de jubilación.
+La primera tabla es la [pensión media de jubilación por provincia](/datos/pension-media-provincia/), con la nómina de **octubre de 2026**: la media nacional es de **1.577,61 euros al mes**, repartidos entre **6.777.927 pensiones** de jubilación.
 
 - La más alta es la de **Bizkaia (1.943,10 euros)**, seguida de Álava, Gipuzkoa, Asturias y Madrid.
 - La más baja es la de **Ourense (1.144,37 euros)**. Entre las dos hay **799 euros al mes** de diferencia.
 - Solo **17 de las 52 provincias** superan la media nacional, porque las provincias más pobladas (Madrid, Barcelona) tiran de la media hacia arriba.
 
 Puedes buscar tu provincia, filtrar por comunidad autónoma y descargar la tabla completa en CSV.
+
+## Evolución de la pensión media desde 2010
+
+La segunda tabla muestra la [evolución de la pensión media](/datos/evolucion-pension-media/) año a año desde 2010: jubilación, viudedad, incapacidad permanente y todo el sistema, con el número de pensiones. También compara lo que cobran las nuevas jubilaciones con la media de todas, para ver el efecto de las carreras más largas y los sueldos más altos.
 
 ## Cómo leer una pensión media
 
