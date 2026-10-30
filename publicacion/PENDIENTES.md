@@ -8,8 +8,8 @@ Revisada el 30/10/2026 con el informe de nichos: los mayores de 55 usan sobre to
 
 | Paso | Qué | Estado |
 |---|---|---|
-| 1 | Correo solo para Jubilómetro (Gmail) con verificación en dos pasos | Empezado el 30/10 |
-| 2 | Página de Facebook (desde tu perfil personal de Facebook, que queda como administrador oculto) | Pendiente |
+| 1 | Correo de Jubilómetro: **hola@jubilometro.com** (Hostinger, prueba gratuita hasta el 30/10/2027), con alias contacto@ y pau@ y reenvío confirmado al Gmail personal | Hecho el 30/10 |
+| 2 | Página de Facebook (desde tu perfil personal de Facebook, que queda como administrador oculto) | Empezado el 30/10 |
 | 3 | Canal de WhatsApp | Pendiente |
 | 4 | Canal de YouTube (con el Gmail del paso 1) | Pendiente |
 | 5 | X (Twitter): avisos rápidos de novedades (BOE, IPC, subida) y para que te encuentren periodistas | Pendiente |
