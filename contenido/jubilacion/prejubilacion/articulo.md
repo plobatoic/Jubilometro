@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12
 publicacion: 2026-10-12
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430#a51
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Prejubilación: qué es, quién paga tu cotización si te despiden con 55 años y cómo llegar a la jubilación
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos del BOE y de la Seguridad Social*
 
 > **Respuesta rápida**
 >

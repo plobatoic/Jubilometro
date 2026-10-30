@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F1 (artículo n.º 37b)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1966-21116
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Cuánto se cobra de pensión de viudedad en 2026: el 52, el 60 o el 70 % de la base reguladora, con ejemplos
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

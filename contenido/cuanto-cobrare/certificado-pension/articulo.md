@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-02
 publicacion: 2026-10-02
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://revista.seg-social.es/-/certificado-integral-de-prestaciones
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Certificado de pensión de la Seguridad Social: cuál necesitas y cómo descargarlo gratis, incluso sin Cl@ve
 
-*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en la Seguridad Social*
+*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en la Seguridad Social*
 
 > **Respuesta rápida**
 >

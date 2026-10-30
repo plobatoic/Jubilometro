@@ -9,7 +9,7 @@ palabra_clave_principal: calculadora edad de jubilación
 intencion: transaccional (herramienta)
 fase_plan: F1 (herramienta n.º 94)
 fecha_actualizacion: 2026-10-20
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: borrador pendiente de revisión profesional
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

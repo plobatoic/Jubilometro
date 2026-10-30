@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://egoitza.gipuzkoa.eus/es/listado-tramites/-/tramiteak/xehetasuna/6/843
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Dependencia en el País Vasco: cómo se pide en Álava, Bizkaia y Gipuzkoa, cuánto tarda y qué ayudas hay
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: diputaciones forales, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: diputaciones forales, Imserso y BOE*
 
 > **Respuesta rápida**
 >

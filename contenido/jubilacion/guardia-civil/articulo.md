@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-15
 publicacion: 2026-10-06
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2014-12408
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación de la Guardia Civil: pase a la reserva, retiro a los 65 y cuánto se cobra de pensión
 
-*Actualizado el 15 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 15 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

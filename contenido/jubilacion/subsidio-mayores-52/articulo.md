@@ -9,7 +9,7 @@ palabra_clave_principal: subsidio mayores de 52 años
 intencion: informativa
 fase_plan: F1 (artículo n.º 17)
 fecha_actualizacion: 2026-10-20
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Subsidio para mayores de 52 años: requisitos, cuantía y efecto en tu futura pensión
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

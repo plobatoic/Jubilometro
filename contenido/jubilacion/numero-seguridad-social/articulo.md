@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12
 publicacion: 2026-10-12
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1996-4447#a21
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Número de la Seguridad Social: qué es, cómo saber el tuyo y cómo pedirlo si no lo tienes
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos de la Seguridad Social y del BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos de la Seguridad Social y del BOE*
 
 > **Respuesta rápida**
 >

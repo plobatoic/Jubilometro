@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo n.º 76)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2026-8872
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Ayudas para adaptar la vivienda de una persona mayor en 2026: subvenciones, obras en la comunidad de vecinos y alquiler
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, el Ministerio de Hacienda y la Generalitat de Catalunya*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE, el Ministerio de Hacienda y la Generalitat de Catalunya*
 
 > **Respuesta rápida**
 >

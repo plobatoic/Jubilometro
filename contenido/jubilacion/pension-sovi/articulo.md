@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-12
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#dtsegunda
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Pensión del SOVI: quién puede cobrarla, qué días cuentan y cuánto se paga en 2026
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE y de la Seguridad Social*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos del BOE y de la Seguridad Social*
 
 > **Respuesta rápida**
 >

@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo n.º 36)
 fecha_actualizacion: 2026-09-29
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # El MEI y la cuota de solidaridad en 2026: qué son, cuánto te descuentan en la nómina y si dan más pensión
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

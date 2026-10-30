@@ -9,7 +9,7 @@ palabra_clave_principal: despido a los 60 años paro y jubilación
 intencion: informativa
 fase_plan: F2 (artículo n.º 16)
 fecha_actualizacion: 2026-10-20
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Despido a los 60: paro, subsidio y jubilación, en qué orden y cuánto cobrarás
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

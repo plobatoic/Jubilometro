@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F1 (artículo n.º 72)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://imserso.es/el-imserso/documentacion/estadisticas/servicios-sociales-dirigidos-a-personas-mayores-en-espana-diciembre-2024
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Precio de las residencias de mayores: cuánto cuesta una plaza pública o concertada en cada comunidad y cuánto pagas tú
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del Imserso y del BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos oficiales del Imserso y del BOE*
 
 > **Respuesta rápida**
 >

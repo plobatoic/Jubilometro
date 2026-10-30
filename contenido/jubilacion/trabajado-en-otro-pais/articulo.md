@@ -9,7 +9,7 @@ palabra_clave_principal: jubilación trabajado en otro país
 intencion: informativa
 fase_plan: F3 (artículo n.º 21)
 fecha_actualizacion: 2026-10-12
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/doc.php?id=DOUE-L-2004-81111
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Jubilarse habiendo trabajado en otro país de la UE o de Latinoamérica: cómo se suman los años
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

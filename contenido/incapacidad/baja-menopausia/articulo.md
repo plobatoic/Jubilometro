@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-22
 publicacion: 2026-10-22
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Baja por menopausia: quién la puede tener, cuánto se cobra y desde cuándo se aplica
 
-*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

@@ -10,7 +10,7 @@ intencion: informativa (estacional)
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-22
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://bienestarsocial.castillalamancha.es/actuaciones/termalismo-2026
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Viajes y balnearios para mayores de las comunidades autónomas: alternativas al Imserso en 2026
 
-*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en las webs oficiales de cada comunidad*
+*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en las webs oficiales de cada comunidad*
 
 > **Respuesta rápida**
 >

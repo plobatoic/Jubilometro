@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F2 (artículo n.º 66)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://serviciossociales.gva.es/es/web/dependencia/reconeixement-inicial-de-la-dependencia
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Dependencia en la Comunitat Valenciana: cómo se pide, plazos, silencio positivo y qué ayudas se dan en 2026
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Generalitat Valenciana, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Generalitat Valenciana, Imserso y BOE*
 
 > **Respuesta rápida**
 >

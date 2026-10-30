@@ -9,7 +9,7 @@ palabra_clave_principal: jubilación anticipada involuntaria
 intencion: informativa
 fase_plan: F2 (artículo n.º 3)
 fecha_actualizacion: 2026-10-12
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación anticipada involuntaria por despido o ERE: requisitos y cuánto se pierde
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

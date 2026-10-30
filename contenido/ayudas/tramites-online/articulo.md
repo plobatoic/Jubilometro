@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://clave.gob.es/registro/como-puedo-registrarme
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Trámites online para mayores: cómo hacer por internet las gestiones de la pensión, paso a paso
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en Cl@ve, la Seguridad Social, la Agencia Tributaria e INCIBE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en Cl@ve, la Seguridad Social, la Agencia Tributaria e INCIBE*
 
 > **Respuesta rápida**
 >

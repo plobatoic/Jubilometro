@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra de incapacidad)
 fecha_actualizacion: 2026-09-29
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Gran incapacidad en 2026: qué es, cuánto se cobra con el complemento para el cuidador y cómo encaja con la dependencia
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12865
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo reservar un viaje del Imserso paso a paso: por internet o en agencia, cómo pagarlo y cómo cancelarlo
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en las condiciones de las empresas comercializadoras*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y en las condiciones de las empresas comercializadoras*
 
 > **Respuesta rápida**
 >

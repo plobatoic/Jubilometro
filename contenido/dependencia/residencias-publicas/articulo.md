@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 71)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Residencia de mayores pública, concertada o privada: diferencias, cuánto pagas en cada una y cómo conseguir plaza
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
 
 > **Respuesta rápida**
 >

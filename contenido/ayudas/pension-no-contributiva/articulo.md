@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F1 (artículo n.º 55)
 fecha_actualizacion: 2026-10-12
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Pensión no contributiva de jubilación en 2026: requisitos, cuánto se cobra y cómo pedirla
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
 
 > **Respuesta rápida**
 >

@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 83)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Vender tu vivienda habitual con más de 65 años: por qué no pagas IRPF, qué impuestos sí pagas y qué hacer con el dinero
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >

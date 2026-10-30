@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 25)
 fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Lagunas de cotización: cómo se rellenan los meses sin cotizar al calcular la pensión de jubilación
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

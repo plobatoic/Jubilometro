@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 34)
 fecha_actualizacion: 2026-10-02
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Pagas extra de los pensionistas: cuándo se cobran en junio y noviembre, cuánto son y cómo se calculan
 
-*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 2 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >

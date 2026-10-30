@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 77)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2022-17105
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Grado de discapacidad del 33 % y del 65 %: qué ventajas da cada uno, cómo se pide y cómo se valora
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

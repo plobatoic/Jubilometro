@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-14
 publicacion: 2026-10-12
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#da-33
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Emigrantes retornados: el subsidio de hasta 18 meses, la pensión para mayores de 65 y la sanidad al volver a España
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos del BOE, del SEPE y de la Delegación del Gobierno*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos del BOE, del SEPE y de la Delegación del Gobierno*
 
 > **Respuesta rápida**
 >

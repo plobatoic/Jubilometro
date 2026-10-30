@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo n.º 59)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.xunta.gal/dog/Publicados/2026/20260310/AnuncioG0762-030326-0004_es.html
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Ayudas para mayores y pensionistas por comunidad autónoma en 2026: complementos a la pensión y servicios
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en los boletines oficiales y las webs de cada comunidad*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en los boletines oficiales y las webs de cada comunidad*
 
 > **Respuesta rápida**
 >

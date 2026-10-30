@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://sede.xunta.gal/detalle-procedemento?langId=es_ES&codtram=BS210A
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Dependencia en Galicia: cómo se pide, cuánto tarda y qué ayudas da la Xunta en 2026
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Xunta de Galicia, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Xunta de Galicia, Imserso y BOE*
 
 > **Respuesta rápida**
 >

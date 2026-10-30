@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
 fecha_actualizacion: 2026-10-24
 publicacion: 2026-10-10
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20742
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027
 
-*Actualizado el 24 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 24 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

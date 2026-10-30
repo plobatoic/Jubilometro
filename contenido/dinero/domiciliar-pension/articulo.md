@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo n.º 89)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Domiciliar la pensión o cambiarla de banco: cómo se hace, cuándo llega y qué tener en cuenta con los regalos
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y la Agencia Tributaria*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >

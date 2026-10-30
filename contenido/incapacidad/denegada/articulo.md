@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F2 (artículo n.º 50)
 fecha_actualizacion: 2026-09-28
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Incapacidad permanente denegada: reclamación previa, demanda en el Juzgado de lo Social y otras opciones
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

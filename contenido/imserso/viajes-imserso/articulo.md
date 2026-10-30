@@ -10,7 +10,7 @@ intencion: informativa (estacional)
 fase_plan: F1 (artículo n.º 90)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12865
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

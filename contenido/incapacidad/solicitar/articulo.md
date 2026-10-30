@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F2 (artículo n.º 49)
 fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1995-19848
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Cómo solicitar la incapacidad permanente: quién la inicia, documentos, tribunal médico y cuánto tarda
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

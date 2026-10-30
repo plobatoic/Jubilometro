@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 87)
 fecha_actualizacion: 2026-10-14
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.ine.es/jaxiT3/Tabla.htm?t=73787
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Cuánto dinero necesitas ahorrado para jubilarte: cómo calcularlo con tu gasto, tu pensión y los años que vivirás
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del INE y del BOE*
+*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos oficiales del INE y del BOE*
 
 > **Respuesta rápida**
 >

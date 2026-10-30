@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo n.º 60)
 fecha_actualizacion: 2026-09-29
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26459
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Descuentos en transporte para pensionistas y mayores en 2026: tren, autobús y metro más baratos o gratis
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y en los organismos de transporte*
+*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y en los organismos de transporte*
 
 > **Respuesta rápida**
 >

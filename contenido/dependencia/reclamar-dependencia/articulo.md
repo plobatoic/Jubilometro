@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo n.º 70)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cómo reclamar la dependencia: qué hacer si pasan seis meses sin respuesta o no estás de acuerdo con el grado
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

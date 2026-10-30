@@ -9,7 +9,7 @@ palabra_clave_principal: jubilación flexible activa o parcial
 intencion: comparativa
 fase_plan: F2 (artículo n.º 9)
 fecha_actualizacion: 2026-09-27
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2026-11474
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación flexible, activa o parcial: cuál te conviene según tu situación
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

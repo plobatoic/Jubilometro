@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F1 (artículo n.º 35)
 fecha_actualizacion: 2026-09-28
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2018-9030
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Calendario de pago de las pensiones: qué día se cobra cada mes, las pagas extra y el primer pago
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >

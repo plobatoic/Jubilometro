@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 69)
 fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Cuánto tarda la dependencia: días de espera en cada comunidad autónoma y qué puedes hacer mientras
 
-*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Datos oficiales del Imserso y del BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos oficiales del Imserso y del BOE*
 
 > **Respuesta rápida**
 >

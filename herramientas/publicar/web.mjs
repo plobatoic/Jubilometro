@@ -362,7 +362,7 @@ function firma(articulo) {
   const d = articulo.datos;
   const [a, m, dia] = d.fecha_actualizacion.split('-');
   return bloqueHtml(`<div class="jm-reviewed"><div class="jm-reviewed__avatar">${icono('user')}</div><p class="jm-reviewed__text">` +
-    `Por <strong>Pau Lobato</strong>, equipo editorial de Jubilómetro. Fuentes verificadas en el BOE. ` +
+    `Por <strong>Pau Lobato</strong>, editor de Jubilómetro. Fuentes verificadas en el BOE. ` +
     `Actualizado el <time datetime="${d.fecha_actualizacion}">${dia}/${m}/${a}</time>. <a href="/metodologia/">Cómo trabajamos</a></p></div>`);
 }
 

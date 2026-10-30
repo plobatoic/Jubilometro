@@ -9,13 +9,13 @@ palabra_clave_principal: documentos para pedir la jubilación
 intencion: transaccional
 fase_plan: F2 (artículo n.º 14)
 fecha_actualizacion: 2026-10-20
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 ---
 
 # Documentos para pedir la jubilación: checklist descargable
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F1 (artículo n.º 80)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Rescatar el plan de pensiones al jubilarte: cuándo puedes, cómo tributa y cómo pagar menos IRPF
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >

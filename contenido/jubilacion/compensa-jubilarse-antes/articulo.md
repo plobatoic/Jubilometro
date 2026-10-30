@@ -9,7 +9,7 @@ palabra_clave_principal: compensa jubilarse antes
 intencion: comparativa
 fase_plan: F2 (artículo n.º 4)
 fecha_actualizacion: 2026-10-20
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # ¿Compensa jubilarse antes? Comparativa real a los 63, 64 y 65 años
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

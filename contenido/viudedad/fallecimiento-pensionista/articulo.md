@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F2 (artículo n.º 43)
 fecha_actualizacion: 2026-09-28
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Qué hacer cuando fallece un pensionista: la pensión del último mes, la viudedad, el banco y la herencia, paso a paso
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y el Ministerio de Justicia*
+*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y el Ministerio de Justicia*
 
 > **Respuesta rápida**
 >

@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F2 (artículo n.º 65)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://tramits.gencat.cat/ca/tramits/tramits-temes/Reconeixement-de-la-situacio-de-dependencia
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Dependencia en Cataluña: cómo se pide el grado, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Generalitat de Catalunya, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Generalitat de Catalunya, Imserso y BOE*
 
 > **Respuesta rápida**
 >

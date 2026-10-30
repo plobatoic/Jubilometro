@@ -9,7 +9,7 @@ palabra_clave_principal: jubilación anticipada por discapacidad
 intencion: informativa
 fase_plan: F3 (artículo n.º 11)
 fecha_actualizacion: 2026-09-27
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23401
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Jubilación anticipada por discapacidad: grados y edades mínimas
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

@@ -9,7 +9,7 @@ palabra_clave_principal: solicitar jubilación por internet
 intencion: transaccional
 fase_plan: F2 (artículo n.º 13)
 fecha_actualizacion: 2026-10-12
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2022-9850
@@ -17,7 +17,7 @@ fuentes_legales:
 
 # Cómo solicitar la jubilación por internet paso a paso (Tu Seguridad Social)
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

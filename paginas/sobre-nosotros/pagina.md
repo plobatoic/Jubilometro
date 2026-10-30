@@ -12,7 +12,7 @@ Jubilómetro es una web independiente sobre jubilación y pensiones en España. 
 
 ## Quién hace Jubilómetro
 
-Jubilómetro lo edita **Pau Lobato** desde Palafolls (Barcelona). Pau Lobato firma los artículos como equipo editorial de Jubilómetro y responde de su contenido.
+Jubilómetro lo edita **Pau Lobato** desde Palafolls (Barcelona). Pau Lobato escribe y firma los artículos y responde de su contenido.
 
 No somos graduados sociales ni abogados, y no lo aparentamos. Por eso ningún artículo dice «revisado por un profesional colegiado». Lo que sí hacemos es comprobar cada dato en la norma publicada en el Boletín Oficial del Estado (BOE) y citarla, para que puedas leerla tú también. Si algún día un profesional colegiado revisa nuestros artículos, su nombre y su número de colegiado aparecerán en cada uno.
 

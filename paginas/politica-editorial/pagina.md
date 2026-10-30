@@ -29,7 +29,7 @@ Los ejemplos con cifras y las calculadoras aplican las reglas de la ley paso a p
 
 ## 4. Quién escribe y quién revisa
 
-Los artículos los escribe y los firma Pau Lobato, del equipo editorial de Jubilómetro. Usamos herramientas informáticas, incluida la inteligencia artificial, como apoyo para redactar y para programar las calculadoras. Ningún dato se publica sin haberlo comprobado en su fuente.
+Los artículos los escribe y los firma Pau Lobato, editor de Jubilómetro. Usamos herramientas informáticas, incluida la inteligencia artificial, como apoyo para redactar y para programar las calculadoras. Ningún dato se publica sin haberlo comprobado en su fuente.
 
 Hoy nuestros artículos no los revisa un graduado social ni un abogado colegiado, y por eso no lo decimos. Si en el futuro contamos con esa revisión, lo indicaremos en cada artículo con el nombre y el número de colegiado de quien la haga.
 

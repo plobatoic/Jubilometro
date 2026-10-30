@@ -9,7 +9,7 @@ palabra_clave_principal: jubilación con 15 años cotizados
 intencion: informativa
 fase_plan: F2 (artículo n.º 19)
 fecha_actualizacion: 2026-10-20
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Jubilación con 15 años cotizados: cuánto se cobra y ejemplos
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

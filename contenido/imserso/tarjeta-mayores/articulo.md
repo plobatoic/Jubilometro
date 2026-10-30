@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo n.º 92)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.renfe.com/es/es/viajar/prepara-tu-viaje/descuentos/mayores-de-60
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Tarjeta Dorada de Renfe y tarjetas de mayores de las comunidades: descuentos y cómo conseguirlas
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en Renfe y en las webs de las comunidades autónomas*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en Renfe y en las webs de las comunidades autónomas*
 
 > **Respuesta rápida**
 >

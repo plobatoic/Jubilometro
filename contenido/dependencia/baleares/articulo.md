@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-05
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.caib.es/sites/dgdependencia/es/solicitud_de_reconocimiento_de_la_situacion_de_dependencia-16349/
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Dependencia en las Illes Balears: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Govern de les Illes Balears, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Govern de les Illes Balears, Imserso y BOE*
 
 > **Respuesta rápida**
 >

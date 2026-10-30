@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-21
 publicacion: 2026-10-20
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.navarra.es/es/tramites/on/-/line/Valoracion-de-la-situacion-de-dependencia
@@ -22,7 +22,7 @@ fuentes_legales:
 
 # Dependencia en Navarra: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Gobierno de Navarra, Imserso y BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Gobierno de Navarra, Imserso y BOE*
 
 > **Respuesta rápida**
 >

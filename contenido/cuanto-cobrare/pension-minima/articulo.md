@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F1 (artículo n.º 27)
 fecha_actualizacion: 2026-09-28
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Pensión mínima de jubilación en 2026: cuantías con y sin cónyuge a cargo y requisitos para cobrarla
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >

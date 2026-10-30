@@ -8,8 +8,8 @@ miga: Cuánto tarda la jubilación
 palabra_clave_principal: cuánto tarda en resolverse la jubilación
 intencion: informativa
 fase_plan: F3 (artículo n.º 15)
-fecha_actualizacion: 2026-09-27
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+fecha_actualizacion: 2026-10-30
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2022-9850
@@ -17,18 +17,19 @@ fuentes_legales:
 
 # Cuánto tarda en resolverse la jubilación y qué hacer si se retrasa
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 30 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> La Seguridad Social tiene un **plazo máximo de 90 días** para resolver tu pensión de jubilación, pero en la práctica tarda mucho menos: en **julio de 2026 la media fue de 7,46 días**, según los datos de la Seguridad Social publicados por la prensa.
+> La Seguridad Social tiene un **plazo máximo de 90 días** para resolver tu pensión de jubilación, pero en la práctica tarda mucho menos: en **septiembre de 2026 la media fue de 9,63 días**, según la [Seguridad Social](https://revista.seg-social.es/-/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano).
 >
 > Si pasan 90 días sin respuesta, la solicitud se entiende **denegada por silencio administrativo** y puedes reclamar. Y aunque la resolución se retrase, **cobras los atrasos** desde la fecha de efectos de tu pensión.
 
 ## Cuánto tarda de verdad
 
 - **Plazo legal:** 90 días para resolver y notificar.
-- **Tiempo real:** la Seguridad Social resolvió las jubilaciones en **7,46 días de media en julio de 2026** y en 7,2 días en junio ([65 y más](https://www.65ymas.com/economia/pensiones/cuanto-tiempo-tarda-seguridad-social-conceder-pension_85589_102.html)).
+- **Tiempo real:** la Seguridad Social resolvió las jubilaciones en **9,63 días de media en septiembre de 2026**, y las de viudedad en 9,78 días ([nota de la Seguridad Social del 27 de octubre de 2026](https://revista.seg-social.es/-/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano)). En verano fue algo más rápido: 7,46 días en julio y 7,2 en junio ([65 y más](https://www.65ymas.com/economia/pensiones/cuanto-tiempo-tarda-seguridad-social-conceder-pension_85589_102.html)).
+- **Qué normas fijan el plazo:** el plazo de 90 días lo fijan el Real Decreto 286/2003 y, para las prestaciones que reconoce el INSS, el Real Decreto 1192/2021, según recuerda la propia Seguridad Social.
 
 Los casos sencillos, como una jubilación ordinaria con la vida laboral en orden, suelen ser los más rápidos. Tardan más:
 
@@ -86,6 +87,7 @@ No. La pensión se paga cuando se reconoce, con los atrasos desde la fecha de ef
 
 ## Fuentes
 
+- [Seguridad Social: nota de pensiones de octubre de 2026, con el tiempo medio de resolución de septiembre](https://revista.seg-social.es/-/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano).
 - [Real Decreto 453/2022, sobre el hecho causante y los efectos económicos de la jubilación](https://www.boe.es/buscar/act.php?id=BOE-A-2022-9850) (BOE).
 - [65 y más: cuánto tarda la Seguridad Social en conceder una pensión (2026)](https://www.65ymas.com/economia/pensiones/cuanto-tiempo-tarda-seguridad-social-conceder-pension_85589_102.html).
 - [Revista de la Seguridad Social: cómo solicitar tu jubilación](https://revista.seg-social.es/-/c%C3%B3mo-solicitar-tu-jubilaci%C3%B3n).
@@ -100,4 +102,4 @@ No. La pensión se paga cuando se reconoce, con los atrasos desde la fecha de ef
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 30 de octubre de 2026, tiempo medio de resolución de septiembre (9,63 días) con la nota oficial de la Seguridad Social; 27 de septiembre de 2026, primera versión.*

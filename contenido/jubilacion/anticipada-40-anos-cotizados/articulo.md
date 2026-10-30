@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-10-02
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-117-1.PDF
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Jubilación anticipada con 40 años cotizados sin penalización: qué proponía la ley y qué pasa ahora
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el Boletín de las Cortes y el BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el Boletín de las Cortes y el BOE*
 
 > **Respuesta rápida**
 >

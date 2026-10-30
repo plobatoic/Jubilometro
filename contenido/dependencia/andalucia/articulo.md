@@ -10,7 +10,7 @@ intencion: transaccional
 fase_plan: F2 (artículo n.º 63)
 fecha_actualizacion: 2026-10-20
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.juntadeandalucia.es/temas/familias-igualdad/dependencia/solicitud.html
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Dependencia en Andalucía: cómo se pide, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes: Junta de Andalucía, Imserso y BOE*
+*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Junta de Andalucía, Imserso y BOE*
 
 > **Respuesta rápida**
 >

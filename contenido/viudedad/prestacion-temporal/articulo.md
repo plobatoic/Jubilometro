@@ -10,7 +10,7 @@ intencion: informativa
 fase_plan: F3 (artículo extra de viudedad)
 fecha_actualizacion: 2026-10-21
 publicacion: 2026-09-29
-autor: "Pau Lobato (equipo editorial de Jubilómetro)"
+autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Prestación temporal de viudedad: qué pasa si llevabais menos de un año casados o de dos inscritos como pareja de hecho
 
-*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, equipo editorial de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
