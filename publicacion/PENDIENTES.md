@@ -4,19 +4,19 @@ Guardado el 12 de octubre de 2026. Cuando retomemos las redes, seguimos por el *
 
 ## Ruta para abrir las redes, paso a paso
 
+Revisada el 30/10/2026 con el informe de nichos: los mayores de 55 usan sobre todo **Facebook, WhatsApp y YouTube**, y YouTube es una de las fuentes que más cita Google en sus resúmenes con IA en España. Por eso van primero. Instagram, X, TikTok y LinkedIn quedan para cuando las tres primeras funcionen: mejor pocas redes bien llevadas que ocho a medias.
+
 | Paso | Qué | Estado |
 |---|---|---|
-| 1 | Correo solo para Jubilómetro (Gmail) con verificación en dos pasos | Pendiente |
-| 2 | Página de Facebook (foto, portada, textos y botón a la web) | Pendiente |
-| 3 | Grupo de Facebook «Jubilación y pensiones: dudas resueltas» | Pendiente |
-| 4 | Instagram profesional, enlazado a la página de Facebook | Pendiente |
-| 5 | Canal de WhatsApp | Pendiente |
-| 6 | X (Twitter) | Pendiente |
-| 7 | YouTube | Pendiente |
-| 8 | TikTok | Pendiente |
-| 9 | LinkedIn (perfil de Pau y página de Jubilómetro) | Pendiente |
-| 10 | Pasarme las direcciones de los perfiles para ponerlas en la web (pie, bloque de compartir y datos para Google) | Pendiente |
-| 11 | Metricool: conectar las redes e importar el calendario | Pendiente |
+| 1 | Correo solo para Jubilómetro (Gmail) con verificación en dos pasos | Empezado el 30/10 |
+| 2 | Página de Facebook (desde tu perfil personal de Facebook, que queda como administrador oculto) | Pendiente |
+| 3 | Canal de WhatsApp | Pendiente |
+| 4 | Canal de YouTube (con el Gmail del paso 1) | Pendiente |
+| 5 | Grupo de Facebook «Jubilación y pensiones: dudas resueltas», vinculado a la página | Pendiente |
+| 6 | Pasarme las direcciones de los perfiles para ponerlas en la web (pie, bloque de compartir y datos para Google) | Pendiente |
+| 7 | Programar: Meta Business Suite (Facebook, gratis) y YouTube Studio; o Metricool para todo junto | Pendiente |
+| 8 | Rutina semanal: 3 publicaciones en Facebook, 2-3 avisos en WhatsApp, 1-2 vídeos cortos en YouTube, contestar en el grupo | Pendiente |
+| 9 | Más adelante: Instagram (enlazado a la página de Facebook), X, TikTok y LinkedIn | Cuando 2-5 funcionen |
 
 ### Paso 1 · Crear un correo solo para Jubilómetro (unos 10 minutos)
 

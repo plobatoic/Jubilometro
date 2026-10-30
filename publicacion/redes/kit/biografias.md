@@ -39,10 +39,10 @@ Jubilómetro es una web independiente de guías y calculadoras gratuitas sobre j
 - Nombre: **Jubilación y pensiones: dudas resueltas**
 - Privacidad: **Público** (cualquiera ve las publicaciones y lo encuentra en el buscador) y **Visible**.
 - Portada: `portadas/facebook-grupo-1640x856.png`
-- Descripción [438]:
+- Descripción [440]:
 
 ```
-Grupo para resolver dudas sobre jubilación y pensiones en España: edad de jubilación, cuánto se cobra, anticipada, viudedad, incapacidad, Imserso, dependencia y trámites. Lo lleva el equipo de Jubilómetro y contestamos con la norma que se aplica en cada caso. Es información general, no asesoramiento personal, y no somos un organismo oficial. Nunca publiques datos personales: ni DNI, ni número de la Seguridad Social, ni datos de salud.
+Grupo para resolver dudas sobre jubilación y pensiones en España: edad de jubilación, cuánto se cobra, anticipada, viudedad, incapacidad, Imserso, dependencia y trámites. Lo lleva Pau Lobato, de Jubilómetro, y contestamos con la norma que se aplica en cada caso. Es información general, no asesoramiento personal, y no somos un organismo oficial. Nunca publiques datos personales: ni DNI, ni número de la Seguridad Social, ni datos de salud.
 ```
 
 - Normas del grupo (cada una en su casilla):
