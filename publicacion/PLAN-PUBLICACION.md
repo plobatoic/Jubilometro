@@ -228,6 +228,14 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Autor real: foto, biografía y firma (30/10/2026, temas 2.11.18 y 2.11.19)
+
+- Tras el rechazo de AdSense por «contenido de poco valor» y el informe `reports/Comparativa de nichos para AdSense.md` (se sigue con las pensiones), primer paso del plan: que se vea quién está detrás.
+- **Firma**: las 145 guías decían «equipo editorial de Jubilómetro» (no hay equipo); ahora «editor de Jubilómetro».
+- **Foto** de Pau Lobato (recortada, sin datos EXIF ni ubicación) en `tema/jubilometro/assets/img/pau-lobato-{160,320,800}.webp`: firma y caja de autor de cada guía (`jm_author_avatar`), «Quién está detrás» de la portada y de Quiénes somos, e `image` del autor en los datos estructurados.
+- **Biografía** aprobada por el titular: 21 años, Barcelona; no es asesor ni trabaja en una gestoría; usa IA para documentarse y redactar y comprueba cada cifra con la fuente oficial. Se quita de Quiénes somos «llevo años viendo cómo familiares y amigos llegaban a los 60», que no era cierto.
+- Guía de cuánto tarda la jubilación: 9,63 días de media en septiembre (nota oficial de la Seguridad Social).
+
 ### Pensión media por provincia con la nómina de octubre (29/10/2026)
 
 - **Fuente**: nota de la Seguridad Social del 27/10/2026 («La pensión media del sistema de la Seguridad Social alcanza los 1.376,1 euros en octubre») y su Excel adjunto `Pensiones OCTUBRE_2026.xlsx`, hoja «Número pensiones (IP-J-V)». Las 52 provincias suman 6.777.927 pensiones de jubilación, el total del Excel, y la media ponderada da 1.577,61 € (la nota redondea a 1.577,6 €).

@@ -33,7 +33,7 @@ while ( have_posts() ) :
 				<?php if ( has_excerpt() ) : ?><p class="jm-post__dek"><?php echo esc_html( get_the_excerpt() ); ?></p><?php endif; ?>
 				<div class="jm-byline">
 					<div class="jm-byline__who">
-						<span class="jm-avatar" aria-hidden="true"><?php echo esc_html( $author['initials'] ); ?></span>
+						<?php echo jm_author_avatar(); // phpcs:ignore ?>
 						<div class="jm-byline__text">
 							<span class="jm-byline__name">Por <a href="<?php echo esc_url( home_url( $author['url'] ) ); ?>"><?php echo esc_html( $author['name'] ); ?></a><span class="jm-byline__role"> · Revisado con la normativa vigente · <a href="<?php echo esc_url( home_url( '/metodologia/' ) ); ?>">Cómo revisamos</a></span></span>
 							<p class="jm-byline__meta">
@@ -103,7 +103,7 @@ while ( have_posts() ) :
 
 	<footer class="jm-wrap jm-post__foot">
 		<section class="jm-authorbox" aria-labelledby="autor-title">
-			<span class="jm-avatar" aria-hidden="true"><?php echo esc_html( $author['initials'] ); ?></span>
+			<?php echo jm_author_avatar(); // phpcs:ignore ?>
 			<div>
 				<p class="jm-authorbox__k">Escrito y revisado por</p>
 				<h2 id="autor-title"><?php echo esc_html( $author['name'] ); ?></h2>

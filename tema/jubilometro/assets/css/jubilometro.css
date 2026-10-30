@@ -2594,3 +2594,6 @@ body.is-filtering .jm-topic__more { display: none; }
   .jm-timeline__more { display: inline-flex; justify-self: start; margin-top: -1.5rem; }
   .jm-update { padding: 1.1rem 1.15rem; }
 }
+
+/* Foto real del autor (2.11.18): en «Quién está detrás» de la portada y de Quiénes somos */
+.jm-person img.jm-person__photo { position: static; inset: auto; width: 10rem; height: 10rem; max-width: none; border-radius: 50%; object-fit: cover; background: var(--jm-sage); outline: 1px solid var(--jm-sage-2); outline-offset: 8px; }

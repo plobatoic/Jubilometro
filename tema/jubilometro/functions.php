@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.17' );
+define( 'JM_THEME_VER', '2.11.19' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -759,10 +759,18 @@ add_filter( 'rank_math/opengraph/slack_enhanced_data', function ( $data ) {
 	return $out;
 } );
 
+// Foto del autor (assets/img/<photo>-160.webp y -320.webp); si no hay foto, sus iniciales
+function jm_author_avatar() {
+	$a = jm_data( 'author' );
+	if ( empty( $a['photo'] ) ) { return '<span class="jm-avatar" aria-hidden="true">' . esc_html( $a['initials'] ) . '</span>'; }
+	$src = JM_THEME_URI . '/assets/img/' . $a['photo'];
+	return '<span class="jm-avatar" aria-hidden="true"><img src="' . esc_url( $src . '-160.webp' ) . '" srcset="' . esc_url( $src . '-320.webp' ) . ' 2x" width="160" height="160" alt="" decoding="async"></span>';
+}
+
 // Datos estructurados: una sola persona (Pau Lobato) como autor y revisor, y la organización con web y logo
 add_filter( 'rank_math/json_ld', function ( $data ) {
 	$pid    = home_url( '/sobre-nosotros/#pau-lobato' );
-	$person = array( '@type' => 'Person', '@id' => $pid, 'name' => 'Pau Lobato', 'jobTitle' => 'Fundador y editor de Jubilómetro', 'url' => home_url( '/sobre-nosotros/' ), 'worksFor' => array( '@id' => home_url( '/#organization' ) ) );
+	$person = array( '@type' => 'Person', '@id' => $pid, 'name' => 'Pau Lobato', 'jobTitle' => 'Fundador y editor de Jubilómetro', 'description' => (string) jm_data( 'author' )['bio'], 'image' => JM_THEME_URI . '/assets/img/pau-lobato-800.webp', 'url' => home_url( '/sobre-nosotros/' ), 'worksFor' => array( '@id' => home_url( '/#organization' ) ) );
 	$org    = array(
 		'@type' => 'Organization',
 		'@id'   => home_url( '/#organization' ),
