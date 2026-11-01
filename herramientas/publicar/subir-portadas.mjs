@@ -8,6 +8,7 @@
 //   WP_USER=usuario WP_APP_PASSWORD='xxxx xxxx xxxx xxxx xxxx xxxx' node herramientas/publicar/subir-portadas.mjs
 //   … -- --prueba            solo dice qué haría, sin cambiar nada en la web
 //   … -- --solo=ayudas,imserso
+//   … -- --carpeta=calculadoras   textos de paginas/calculadoras/ (los genera herramientas/calculadoras/ejemplos.mjs)
 import { readFileSync, readdirSync } from 'node:fs';
 import { join } from 'node:path';
 import { marked } from 'marked';
@@ -22,7 +23,8 @@ if (!WP_USER || !WP_APP_PASSWORD) {
 const AUTORIZACION = `Basic ${Buffer.from(`${WP_USER}:${WP_APP_PASSWORD}`).toString('base64')}`;
 const PRUEBA = process.argv.includes('--prueba');
 const SOLO = process.argv.find((a) => a.startsWith('--solo='))?.slice('--solo='.length).split(',').filter(Boolean);
-const CARPETA = join(RAIZ, 'paginas', 'portadas');
+// --carpeta=calculadoras sube paginas/calculadoras/<slug>.md (texto de apoyo de cada calculadora)
+const CARPETA = join(RAIZ, 'paginas', process.argv.find((a) => a.startsWith('--carpeta='))?.slice('--carpeta='.length) || 'portadas');
 const INICIO = '<div class="jm-prose jm-pilar">';
 const FIN = '</div><!-- /jm-pilar -->';
 
@@ -63,7 +65,9 @@ function actualizarFechas(raw) {
 const archivos = readdirSync(CARPETA).filter((f) => f.endsWith('.md')).map((f) => f.slice(0, -3))
   .filter((slug) => !SOLO || SOLO.includes(slug)).sort();
 for (const slug of archivos) {
-  const html = marked.parse(readFileSync(join(CARPETA, `${slug}.md`), 'utf8')).trim();
+  // Las tablas van dentro de figure.wp-block-table, como en las guías: en el móvil se desplazan sin romper la página
+  const html = marked.parse(readFileSync(join(CARPETA, `${slug}.md`), 'utf8')).trim()
+    .replace(/<table>/g, '<figure class="wp-block-table"><table>').replace(/<\/table>/g, '</table></figure>');
   const bloque = `${INICIO}\n${html}\n${FIN}`;
   const [pagina] = await api(`/wp/v2/pages?slug=${encodeURIComponent(slug)}&context=edit&_fields=id,slug,content`);
   if (!pagina) throw new Error(`No existe la página ${slug}`);

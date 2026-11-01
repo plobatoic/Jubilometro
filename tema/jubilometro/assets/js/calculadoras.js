@@ -248,7 +248,9 @@
     var activa = anios >= 5 ? 100 : [0, 45, 55, 65, 80][anios];
     var jornada = clamp(Math.round(f(o.jornada, 50)), 33, 80);
     var cot = Math.round(f(o.cotAnios) * 12);
-    return { P: P, anios: anios, meses: meses, extra: extra, nueva: nueva, complementoAnual: ganasAnio, dejas: dejas, recuperaAnios: recupera, activaPct: activa, activaImporte: P * activa / 100, jornada: jornada, flexImporte: P * (1 - jornada / 100), cot: cot, largo: cot >= 534, sobreMax: nueva > CFG.pensionMax };
+    return { P: P, anios: anios, meses: meses, extra: extra, nueva: nueva, complementoAnual: ganasAnio, dejas: dejas, recuperaAnios: recupera, activaPct: activa, activaImporte: P * activa / 100, jornada: jornada, flexImporte: P * (1 - jornada / 100),
+      // RD 416/2026: si el trabajo empieza 6 meses o más después de jubilarse, +15 % (jornada del 33 % al 55 %) o +25 % (del 55 % al 80 %) de la pensión
+      flexIncentivo: jornada < 55 ? 15 : 25, flexConIncentivo: P * (1 - jornada / 100) + P * (jornada < 55 ? 15 : 25) / 100, cot: cot, largo: cot >= 534, sobreMax: nueva > CFG.pensionMax };
   }
 
   // 3.7 Viudedad
@@ -451,7 +453,8 @@
         ['Pensión que dejas de cobrar mientras trabajas', eur(r.dejas, 0)],
         ['Recuperas esa diferencia en', isFinite(r.recuperaAnios) ? num(r.recuperaAnios, 1) + ' años' : '-'],
         ['Jubilación activa: pensión compatible', r.anios >= 1 ? pct(r.activaPct, 0) + ' (' + eur(r.activaImporte) + ')' : 'Requiere 1 año de demora'],
-        ['Jubilación flexible con jornada del ' + r.jornada + ' %', eur(r.flexImporte) + ' / mes']
+        ['Jubilación flexible con jornada del ' + r.jornada + ' %', eur(r.flexImporte) + ' / mes'],
+        ['Flexible si empiezas a trabajar 6 meses o más después de jubilarte (+' + r.flexIncentivo + ' %)', eur(r.flexConIncentivo) + ' / mes']
       ]);
       out += '<div class="jm-explain"><p>Cada año completo trabajado después de tu edad ordinaria suma un 4 %; a partir del segundo año completo, 6 meses más suman un 2 %. En lugar del porcentaje puedes pedir un pago único por año (entre unos 4.800 € y 13.600 €, según tu pensión) o la fórmula mixta.</p>' + (r.sobreMax ? '<p>Si con el incremento superas la pensión máxima, el exceso se cobra como una cantidad anual aparte.</p>' : '') + '</div>';
       return out + notes('art. 210.2 LGSS (jubilación demorada), art. 214 LGSS (jubilación activa) y RD 416/2026 (jubilación flexible y opción mixta, en vigor desde el 28 de agosto de 2026).', 'El pago único se muestra como horquilla orientativa: su importe exacto depende de tu pensión inicial y de tus años cotizados.');

@@ -228,6 +228,24 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Calculadoras con ejemplos resueltos y sin zonas vacías (1/11/2026, tema 2.11.22)
+
+- **Problema**: ocho calculadoras y la portada `/calculadoras/` tenían una «zona de redacción» con instrucciones internas. El tema ya no se la enseña a los lectores ni a Google, así que esas páginas eran solo el formulario y un párrafo: poco contenido propio para AdSense.
+- **Arreglo**: cada una tiene ahora su texto de apoyo en `paginas/calculadoras/<slug>.md`:
+  - de 2 a 3 ejemplos resueltos paso a paso;
+  - errores frecuentes;
+  - preguntas frecuentes;
+  - enlaces a sus guías.
+
+  La portada explica qué calculadora usar para cada pregunta, qué datos tener a mano, por qué el resultado puede no coincidir con el oficial y cada cuánto se actualiza.
+- **Cifras sin teclear**: las genera `herramientas/calculadoras/ejemplos.mjs` con el mismo motor que la web (`calculadoras.js`). Si una regla cambia y un ejemplo deja de decir lo que dice el texto, el script se para. Se suben con `subir-portadas.mjs --carpeta=calculadoras`, que ahora mete las tablas en `figure.wp-block-table` para que se desplacen en el móvil.
+- **Ejemplos distintos de los de las guías**, para no repetir contenido: viudedad con Marisa, Concha y Laura; gran incapacidad con otra base.
+- **Jubilación flexible (tema 2.11.22)**: la calculadora no contaba el incremento del RD 416/2026. Ese incremento es del 15 % o el 25 % de la pensión si se vuelve a trabajar 6 meses o más después de jubilarse. Ahora muestra las dos cifras, y el texto «Cómo calculamos» lo explica. Ejemplo comprobado con la guía: 1.500 € al 60 % de jornada → 975 €.
+- **Comprobado en vivo**:
+  - las 9 páginas sin zona de redacción;
+  - sin errores de JavaScript ni desbordamiento en el móvil;
+  - entre 800 y 1.360 palabras visibles por página (antes, unas 400-700).
+
 ### Más datos propios: complemento a mínimos y brecha de género por provincia (1/11/2026, temas 2.11.20 y 2.11.21)
 
 - **Por qué**: AdSense pide valor propio. Las dos páginas cruzan y ordenan datos oficiales que no están así en ninguna guía: se actualizan cada mes y dan motivo para volver y enlazar.
@@ -496,6 +514,7 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 | 16 de diciembre de 2026 | Termalismo de Castilla-La Mancha y plazos autonómicos (turismo autonómico) |
 | 1 de enero de 2027 | Haberes reguladores de Clases Pasivas de 2027 (anexo del real decreto-ley o la ley de presupuestos) y pensión máxima en la guía de funcionarios |
 | 1 de enero de 2027 | Revalorización: pensiones mínimas, límite de ingresos del complemento a mínimos, base mínima de cotización (convenio especial, subsidio de mayores de 52), pensión no contributiva. Cambiar «2026» por «2027» en los títulos que lo llevan (activa, parcial, autónomos, discapacidad, subsidio, 15 años, solicitud por internet, flexible) y actualizar `fecha_actualizacion` e historial de cambios. Cambiar también `CFG` en `tema/jubilometro/assets/js/calculadoras.js` (máxima, mínimas, límite de ingresos, bases, fecha) y empaquetar el tema; los ejemplos de las calculadoras se actualizan solos. Ayudas al transporte del RDL 17/2025 y abono de Cercanías en 2027 |
+| Enero de 2027, después de actualizar `CFG` | Textos de apoyo de las calculadoras: `node herramientas/calculadoras/ejemplos.mjs` (se para si `CFG.anio` ya no es 2026: revisar antes las reglas que cambian en 2027, como el porcentaje por años cotizados y la edad) y `node herramientas/publicar/subir-portadas.mjs --carpeta=calculadoras`. Cifras legales de `LEY` en `herramientas/datos/complementos-provincia.mjs` |
 | 1 de enero de 2027 | Entra en vigor el último escalón de la reforma (67 años, 38 años y 6 meses, 37 años para el 100 %). Revisar que el texto hable en presente y no en futuro |
 | Octubre-diciembre 2027 | Nuevo concierto sanitario de MUFACE (el actual acaba el 31/12/2027): entidades y plazos de cambio en la guía de funcionarios |
 | Enero 2028 | Retitular las páginas «2027» con el año nuevo solo si el contenido cambia de verdad |
