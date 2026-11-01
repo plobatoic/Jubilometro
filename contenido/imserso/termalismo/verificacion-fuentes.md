@@ -24,3 +24,4 @@
 | 20 | Convocatoria anual en el BOE | Orden SSI/1688/2015, art. 8 | Texto del BOE | Verificado en BOE |
 | 21 | Teléfono del Imserso 912 667 713 | La Moncloa, nota de 8-9-2026 | — | Verificado |
 | 22 | Ejemplos (Luis y Carmen 84 puntos y 789,98 €; Mercedes 86 puntos) | — | Cálculo propio con el anexo III y el anexo IV | Cálculo propio |
+| 23 | Lista de espera de 2026 cerrada el 31-10-2026; convocatoria de 2027 sin publicar a 1-11-2026 | BOE-A-2025-22236, art. 5.3; sumarios del BOE del 26 al 31-10-2026 (API de datos abiertos) | Búsqueda de «termalismo» e «Imserso» en los sumarios | Verificado en BOE |

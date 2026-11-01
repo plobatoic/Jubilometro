@@ -8,7 +8,7 @@ miga: Requisitos de los viajes
 palabra_clave_principal: requisitos viajes Imserso
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-09-29
+fecha_actualizacion: 2026-11-01
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Requisitos para los viajes del Imserso: quién puede ir, con quién y cómo acreditarse
 
-*Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 1 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -102,7 +102,7 @@ Cumplir los requisitos no basta: necesitas la **acreditación**, la resolución 
 Para esta temporada ya no puedes acreditarte: la próxima convocatoria se publica en el BOE en el **primer semestre de 2027**, según la [Orden SCB/926/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-12399). Mientras tanto:
 
 - Puedes viajar como **acompañante** de tu pareja si ella está acreditada.
-- Puedes pedir plaza en el [termalismo del Imserso](/imserso/termalismo/): la lista de espera de los turnos de septiembre a diciembre está abierta hasta el **31 de octubre de 2026**.
+- Puedes pedir plaza en el [termalismo del Imserso](/imserso/termalismo/) cuando salga la convocatoria de 2027: el plazo de 2026, con la lista de espera de septiembre a diciembre, terminó el 31 de octubre de 2026.
 - Consulta los [programas de viajes de tu comunidad autónoma](/imserso/turismo-autonomico/).
 
 ## Preguntas frecuentes
@@ -144,4 +144,4 @@ La convocatoria exige valerse por uno mismo para las actividades básicas de la 
 
 *Este artículo es informativo y no sustituye la información oficial del Imserso, que es quien reconoce la condición de persona beneficiaria. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 1 de noviembre de 2026, el plazo del termalismo de 2026 ya ha terminado. 29 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Dependencia en Cataluña
 palabra_clave_principal: dependencia Cataluña
 intencion: transaccional
 fase_plan: F2 (artículo n.º 65)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-01
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Dependencia en Cataluña: cómo se pide el grado, cuánto tarda y qué ayudas se dan en 2026
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Generalitat de Catalunya, Imserso y BOE*
+*Actualizado el 1 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes: Generalitat de Catalunya, Imserso y BOE*
 
 > **Respuesta rápida**
 >
@@ -76,7 +76,7 @@ El [Decreto-ley 4/2026, de 28 de abril, de medidas urgentes en el ámbito de la 
 - Se cobra desde el **primer día del mes siguiente** al reconocimiento del grado hasta que se resuelve el PIA, y **no hay que pedirlo**: se reconoce de oficio.
 - Si después te reconocen una prestación económica mayor, te pagan **la diferencia**. Si eliges un servicio, **no te reclaman** lo cobrado.
 - Es **compatible** con las pensiones contributivas y no contributivas, la renta garantizada de ciudadanía y el ingreso mínimo vital, pero no con otras prestaciones económicas de la dependencia.
-- La Generalitat tiene **hasta seis meses** desde el 30 de abril para empezar a pagarlo (como tarde, a finales de octubre de 2026), con efectos desde el **1 de mayo de 2026**. Si tienes grado y no lo cobras, pregunta en tus servicios sociales.
+- La Generalitat tenía **hasta seis meses** desde el 30 de abril para empezar a pagarlo: ese plazo **terminó a finales de octubre de 2026**. Como tiene efectos desde el **1 de mayo de 2026**, si te corresponde y aún no lo cobras, pregunta en tus servicios sociales y pide también los meses pendientes. A 1 de noviembre de 2026, la Generalitat no ha publicado cuántas personas lo cobran ya.
 
 El mismo decreto da **prioridad** a los expedientes de **grado III+** (ELA y enfermedades similares) y a las personas con indicios clínicos de grado III, que cobran ya los 200 euros mientras se resuelve su grado. Además, si pides una **prestación económica**, el PIA se hace en la misma visita de valoración, siempre que sea posible.
 
@@ -142,4 +142,4 @@ Seis meses después de la última resolución, o antes si tu situación cambia d
 
 *Este artículo es informativo y no sustituye la información de la Generalitat de Catalunya, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, importe mínimo de 100, 150 o 200 euros mientras se resuelve el PIA (Decreto-ley 4/2026 de Cataluña) y prioridad del grado III+, y datos del Imserso a 30 de septiembre de 2026; plazo aún abierto y comparación precisada. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 1 de noviembre de 2026, el plazo de seis meses para empezar a pagar el importe mínimo mientras se espera el PIA ya ha vencido. 20 de octubre de 2026, importe mínimo de 100, 150 o 200 euros mientras se resuelve el PIA (Decreto-ley 4/2026 de Cataluña) y prioridad del grado III+, y datos del Imserso a 30 de septiembre de 2026; plazo aún abierto y comparación precisada. 29 de septiembre de 2026, primera versión.*

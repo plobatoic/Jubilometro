@@ -19,3 +19,4 @@
 | 15 | Suplemento de habitación individual 22-26 € | BOE-A-2026-12865, anexo I | Texto del BOE | Verificado en BOE |
 | 16 | Lista de espera del termalismo hasta el 31-10-2026 | BOE-A-2025-22236, art. 5.3 | Texto del BOE | Verificado en BOE |
 | 17 | Casos prácticos | — | Aplicación de los requisitos anteriores | Cálculo propio |
+| 18 | Termalismo: plazo de 2026 terminado el 31-10-2026 y convocatoria de 2027 pendiente | BOE-A-2025-22236, art. 5.3; sumarios del BOE hasta el 31-10-2026 | — | Verificado en BOE |

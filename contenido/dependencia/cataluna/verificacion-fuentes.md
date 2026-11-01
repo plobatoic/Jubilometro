@@ -10,3 +10,4 @@
 | 6 | Prestaciones: cuidados familiares 176.523 (53,11 %, el porcentaje más alto; España 31,37 %); teleasistencia 46.537 (14,00 %); residencia 38.490 (11,58 %); SAD 32.348 (9,73 %); vinculada 23.520 (7,08 %); centros 14.832 (4,46 %) | Misma estadística, tabla 4.1 | Documento oficial | Verificado |
 | 7 | Cuantía media de la prestación por cuidados familiares: 176,90 / 295,09 / 406,40 € (España 172,90 / 275,03 / 381,50 €) | Misma estadística, tabla 8.1.a | Documento oficial | Verificado |
 | 8 | Máximos: 180 / 315,90 / 455,40 € | RD 1051/2013, anexo IV | Texto del BOE | Verificado en BOE |
+| 9 | Plazo de seis meses desde el 30-04-2026 vencido a finales de octubre; sin datos públicos de la Generalitat sobre el pago a 1-11-2026 | Decreto-ley 4/2026 de Cataluña; búsqueda en govern.cat y prensa el 1-11-2026 | — | Verificado (sin novedades publicadas) |

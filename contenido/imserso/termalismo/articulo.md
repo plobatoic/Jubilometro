@@ -8,7 +8,7 @@ miga: Termalismo
 palabra_clave_principal: termalismo Imserso
 intencion: informativa (estacional)
 fase_plan: F3 (artículo n.º 91)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-01
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -19,13 +19,13 @@ fuentes_legales:
 
 # Termalismo del Imserso: precios de los balnearios, requisitos, baremo y plazos
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 1 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > El Programa de Termalismo del Imserso ofrece estancias de **10 días (9 noches) en un balneario**, con **pensión completa, reconocimiento médico y el tratamiento termal que te prescriban**, a un precio por persona de entre **302,14 y 452,90 euros**, según el balneario y el mes. La convocatoria de 2026 tiene **197.000 plazas** de febrero a diciembre.
 >
-> Pueden ir los **pensionistas de jubilación o incapacidad permanente**, los de **viudedad desde los 55 años** y otras personas desde los 60 o 65 años, con su pareja. Las plazas se reparten por **puntos**. Para los turnos de 2026 solo queda abierta la **lista de espera de septiembre a diciembre, hasta el 31 de octubre de 2026**; la convocatoria de 2027 se publica en el BOE hacia finales de año.
+> Pueden ir los **pensionistas de jubilación o incapacidad permanente**, los de **viudedad desde los 55 años** y otras personas desde los 60 o 65 años, con su pareja. Las plazas se reparten por **puntos**. Las solicitudes para los turnos de 2026 **se cerraron el 31 de octubre de 2026**. La convocatoria de **2027** aún no se ha publicado en el BOE (lo comprobamos el 1 de noviembre); la de 2026 salió el 3 de noviembre de 2025.
 
 ## Qué es el termalismo del Imserso y qué incluye
 
@@ -167,15 +167,15 @@ Hay dos periodos y, en cada uno, dos plazos: uno con prioridad en la adjudicaci�
 | Turnos | Con prioridad | Lista de espera |
 |---|---|---|
 | De febrero a agosto de 2026 | Hasta el 4 de diciembre de 2025 | Hasta el 14 de mayo de 2026 |
-| De septiembre a diciembre de 2026 | Hasta el 15 de mayo de 2026 | Hasta el **31 de octubre de 2026** |
+| De septiembre a diciembre de 2026 | Hasta el 15 de mayo de 2026 | Hasta el 31 de octubre de 2026 (cerrado) |
 
 Puedes pedir plaza en los dos periodos. Si ya has ido en el primero, en el segundo **se restan 60 puntos** a tu solicitud y deben pasar al menos **seis meses** entre los dos turnos.
 
-> **¿Aún quieres ir en 2026?** Hasta el 31 de octubre puedes entrar en la lista de espera de los turnos que quedan hasta diciembre. Las plazas que se liberan por renuncias se ofrecen por orden de puntos: para los turnos que empiezan en los 60 días siguientes se usa la lista de quienes pidieron ese balneario en primer lugar.
+> **¿Te apuntaste a la lista de espera?** El plazo para entrar terminó el 31 de octubre de 2026. Hasta diciembre, las plazas que se liberan por renuncias se siguen ofreciendo a quienes están en la lista, por orden de puntos: para los turnos que empiezan en los 60 días siguientes se usa la lista de quienes pidieron ese balneario en primer lugar.
 
 ### La convocatoria de 2027
 
-La convocatoria es anual y se publica en el BOE. La de 2026 salió el **3 de noviembre de 2025**, con un mes de plazo prioritario para los turnos de febrero a agosto. Si la de 2027 sigue el mismo calendario, **conviene estar atento en noviembre**: pedirlo en ese primer plazo es la mejor forma de conseguir plaza en primavera. Actualizaremos esta guía cuando se publique.
+La convocatoria es anual y se publica en el BOE. La de 2026 salió el **3 de noviembre de 2025**, con un mes de plazo prioritario para los turnos de febrero a agosto. A 1 de noviembre de 2026 todavía no se ha publicado. Si la de 2027 sigue el mismo calendario, **conviene estar atento en noviembre**: pedirlo en ese primer plazo es la mejor forma de conseguir plaza en primavera. Actualizaremos esta guía cuando se publique.
 
 ## Si tienes que renunciar
 
@@ -224,4 +224,4 @@ El Imserso te notifica la adjudicación en papel o, si lo elegiste en la solicit
 
 *Este artículo es informativo y no sustituye la información oficial del Imserso ni de los balnearios. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, dos frases corregidas. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 1 de noviembre de 2026, plazo de la lista de espera de 2026 cerrado y convocatoria de 2027 aún sin publicar. 20 de octubre de 2026, dos frases corregidas. 29 de septiembre de 2026, primera versión.*
