@@ -90,7 +90,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 |---|---|
 | 23 de octubre | Entra en vigor la reforma de la dependencia: repaso de las guías |
 | Cada día hasta el 29 de noviembre | Programas electorales: revisión de las webs oficiales de los partidos. Cuando estén todos (o como tarde el 13 de noviembre, con «pendiente» para los que falten), se crea la sección «Elecciones 2026» con la comparativa de pensiones y una guía por partido (decisión del 22 de octubre). **Estado a 1/11**: ningún programa del 29N publicado (PSOE, PP, Vox, Sumar/Frente Amplio, ERC, Junts, EH Bildu y EAJ-PNV). PP: solo el «Contrato con España» (19/10), que no es el programa. PP, EH Bildu y EAJ-PNV comprobados en su web; PSOE, Vox, ERC, Junts y Sumar con búsquedas en prensa y agregadores (Apify sin cupo mensual desde el 30/10). |
-| 28 de noviembre | Pensión media por provincia con la nómina de noviembre (la de octubre se hizo el 29/10) |
+| 28 de noviembre | Las cuatro páginas de datos con la nómina de noviembre: pensión media por provincia, evolución, complemento a mínimos y brecha de género por provincia (las de octubre se hicieron el 29/10 y el 1/11) |
 | 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
 | 1 de noviembre | Plazos de los balnearios del Imserso y, en Cataluña, la ayuda mientras esperas la dependencia |
 | Hacia el 19 de noviembre | Convalidación del decreto-ley de viudedad y bajas (Real Decreto-ley 31/2026) |

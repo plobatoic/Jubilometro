@@ -107,12 +107,19 @@
     });
     var dl = $('[data-jm-csv]', root);
     if (dl) dl.addEventListener('click', function () {
-      var lines = [['provincia', 'comunidad', 'pensiones_jubilacion', 'pension_media_jubilacion_eur', 'diferencia_media_nacional_eur']];
-      rows.forEach(function (r) { lines.push([r.getAttribute('data-label'), r.getAttribute('data-ccaa-label'), r.getAttribute('data-num') || '', r.getAttribute('data-valor'), r.getAttribute('data-dif')]); });
+      // Columnas propias de cada página: data-jm-csv-head en la raíz y data-csv en cada fila, separados por «|»
+      var head = root.getAttribute('data-jm-csv-head'), lines;
+      if (head) {
+        lines = [head.split('|')];
+        rows.forEach(function (r) { lines.push([r.getAttribute('data-label'), r.getAttribute('data-ccaa-label')].concat((r.getAttribute('data-csv') || '').split('|'))); });
+      } else {
+        lines = [['provincia', 'comunidad', 'pensiones_jubilacion', 'pension_media_jubilacion_eur', 'diferencia_media_nacional_eur']];
+        rows.forEach(function (r) { lines.push([r.getAttribute('data-label'), r.getAttribute('data-ccaa-label'), r.getAttribute('data-num') || '', r.getAttribute('data-valor'), r.getAttribute('data-dif')]); });
+      }
       var csv = lines.map(function (l) { return l.map(function (v) { return '"' + String(v).replace(/"/g, '""') + '"'; }).join(';'); }).join('\n');
       var a = document.createElement('a');
       a.href = URL.createObjectURL(new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8' }));
-      a.download = 'pension-media-provincia.csv'; document.body.appendChild(a); a.click(); a.remove();
+      a.download = (root.getAttribute('data-jm-datos') || 'pension-media-provincia') + '.csv'; document.body.appendChild(a); a.click(); a.remove();
     });
   }
 

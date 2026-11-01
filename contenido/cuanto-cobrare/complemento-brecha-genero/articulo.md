@@ -8,7 +8,7 @@ miga: Complemento de brecha de género
 palabra_clave_principal: complemento brecha de género
 intencion: informativa
 fase_plan: F2 (artículo n.º 29)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-01
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Complemento de brecha de género en 2026: 36,90 euros por hijo, quién lo cobra y cómo se pide
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 1 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -44,6 +44,8 @@ Además, el complemento:
 - **No cuenta para la pensión máxima**: se cobra aunque tu pensión ya esté en el tope.
 - **No cuenta como ingreso para el complemento a mínimos**: si te corresponde la pensión mínima, este complemento se suma encima.
 - **Se cobra en 14 pagas**, junto con la pensión.
+
+**Cuántos lo cobran.** En octubre de 2026 lo tenían **1.736.331 pensiones**, con un importe medio de 76,68 euros al mes. Lo más habitual es cobrarlo por dos hijos (el 51 % de los casos), y el 31 % de los complementos son de hombres. Puedes ver tu provincia en [el complemento de brecha de género por provincia](/datos/complemento-brecha-genero-provincia/).
 
 ## Quién tiene derecho
 
@@ -127,4 +129,4 @@ Lo mantienes. Si te reconocen una nueva pensión con derecho al complemento de b
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, requisitos de los padres más precisos. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, requisitos de los padres más precisos. 28 de septiembre de 2026, primera versión.*

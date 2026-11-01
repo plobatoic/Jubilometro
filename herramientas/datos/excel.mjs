@@ -31,7 +31,7 @@ function hojaDe(archivos, nombre) {
   const filas = new Map();
   for (const [, attrs, cuerpo = ''] of leer(destino).matchAll(/<c\b([^>]*?)(?:\/>|>([\s\S]*?)<\/c>)/g)) {
     const [, col, fila] = atributo(attrs, 'r').match(/^([A-Z]+)(\d+)$/);
-    const t = atributo(attrs, 't'), v = cuerpo.match(/<v>([\s\S]*?)<\/v>/)?.[1];
+    const t = atributo(attrs, 't'), v = cuerpo.match(/<v\b[^>]*>([\s\S]*?)<\/v>/)?.[1];
     const valor = t === 's' ? textos[+v] : t === 'inlineStr' ? xml(cuerpo.replace(/<[^>]+>/g, '')) : t === 'str' ? xml(v ?? '') : v == null ? null : Number(v);
     if (!filas.has(+fila)) filas.set(+fila, {});
     filas.get(+fila)[col] = typeof valor === 'string' ? valor.trim() : valor;

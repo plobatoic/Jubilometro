@@ -90,7 +90,9 @@ const barra = (p, clase) => `<li class="${clase}"><span class="jm-bars__name">${
 const lista = (ps) => ps.slice(0, -1).map((p) => p.label).join(', ') + ' y ' + ps.at(-1).label;
 const tiran = ['madrid', 'barcelona'].every((s) => provincias.find((p) => p.slug === s).dif > 0) ? ', porque las provincias más pobladas (Madrid, Barcelona) tiran de la media hacia arriba' : '';
 const resumen = `${alta.label} (${eur(alta.valor)}), ${lista(provincias.slice(1, 3))} encabezan la tabla, seguidas de ${lista(provincias.slice(3, 5))}. En el extremo opuesto están ${baja.label} (${eur(baja.valor)}) y ${provincias[50].label} (${eur(provincias[50].valor)}). Solo ${encima.length} de las 52 provincias superan la media nacional de ${eur(media)}${tiran}.`
-  + (dPrev != null && anterior.mes ? ` La media nacional ${dPrev >= 0 ? 'sube' : 'baja'} ${eur(Math.abs(dPrev))} respecto a ${anterior.mes.replace(/ de \d{4}$/, '')} (${eur(anterior.media)}).` : '');
+  // Si se vuelve a pasar el mismo mes, la copia ya es de este mes: se conserva la comparación que tenía
+  + (anterior.mes === mes ? (plantilla.match(/ La media nacional (?:sube|baja) [^<]*?\)\./)?.[0] ?? '')
+    : dPrev != null && anterior.mes ? ` La media nacional ${dPrev >= 0 ? 'sube' : 'baja'} ${eur(Math.abs(dPrev))} respecto a ${anterior.mes.replace(/ de \d{4}$/, '')} (${eur(anterior.media)}).` : '');
 let html = plantilla;
 const cambiar = (re, nuevo) => {
   const n = (html.match(new RegExp(re.source, re.flags.includes('g') ? re.flags : re.flags + 'g')) || []).length;

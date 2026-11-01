@@ -1,0 +1,53 @@
+provincia,comunidad,pensiones_con_complemento,importe_medio_eur,por_1_hijo,por_2_hijos,por_3_hijos,por_4_o_mas_hijos
+"Madrid","Comunidad de Madrid",208246,75,50850,107983,34577,14836
+"Barcelona","Cataluña",188545,74,48334,100813,28482,10916
+"Valencia","Comunitat Valenciana",96815,74,23277,52625,15023,5890
+"Sevilla","Andalucía",72813,83,12558,36079,16125,8050
+"Alicante","Comunitat Valenciana",63475,77,13258,33294,11793,5130
+"Málaga","Andalucía",53633,82,9769,26676,11710,5478
+"A Coruña","Galicia",50625,70,16110,24330,7123,3062
+"Murcia","Región de Murcia",49838,85,7820,24002,11633,6383
+"Bizkaia","País Vasco",49204,70,15681,24899,6049,2575
+"Asturias","Principado de Asturias",44696,68,16929,20086,5437,2244
+"Pontevedra","Galicia",42022,75,10768,20711,7257,3286
+"Cádiz","Andalucía",40247,84,7224,19110,8732,5181
+"Zaragoza","Aragón",38393,71,10816,20640,5024,1913
+"Córdoba","Andalucía",37173,84,5293,19455,8452,3973
+"Granada","Andalucía",36368,85,5790,17735,8464,4379
+"Las Palmas","Canarias",33683,80,8656,14591,6418,4018
+"Illes Balears","Illes Balears",33571,76,9250,16202,5777,2342
+"Santa Cruz de Tenerife","Canarias",32570,78,8343,14773,6197,3257
+"Tarragona","Cataluña",31648,75,7609,17009,5118,1912
+"Jaén","Andalucía",30637,86,4101,15661,7305,3570
+"Gipuzkoa","País Vasco",29702,74,7186,16587,4292,1637
+"Girona","Cataluña",28598,73,7603,15046,4178,1771
+"Badajoz","Extremadura",27728,83,4940,13578,6181,3029
+"Cantabria","Cantabria",24805,73,7075,12231,3777,1722
+"Toledo","Castilla-La Mancha",24524,81,4299,12796,5139,2290
+"Castellón","Comunitat Valenciana",24490,73,5997,13548,3563,1382
+"Navarra","Navarra",24472,76,5588,13171,3892,1821
+"Almería","Andalucía",23187,83,4033,11101,5339,2713
+"Valladolid","Castilla y León",22000,74,5894,11305,3248,1553
+"León","Castilla y León",21104,73,5991,10556,3069,1488
+"Ciudad Real","Castilla-La Mancha",20652,83,3351,10734,4523,2044
+"Huelva","Andalucía",20496,83,3462,10315,4541,2178
+"Cáceres","Extremadura",19048,81,3395,10042,3744,1867
+"Lugo","Galicia",17178,68,6450,7657,2156,915
+"Lleida","Cataluña",16183,72,4501,8348,2414,920
+"Burgos","Castilla y León",16135,76,3669,8653,2553,1260
+"Ourense","Galicia",15846,67,5427,7480,2121,818
+"Albacete","Castilla-La Mancha",15239,83,2427,7854,3329,1629
+"Salamanca","Castilla y León",14412,76,3537,7434,2240,1201
+"Álava","País Vasco",13752,72,3820,7414,1757,761
+"La Rioja","La Rioja",13130,73,3524,6957,1874,775
+"Huesca","Aragón",9209,72,2442,4969,1308,490
+"Guadalajara","Castilla-La Mancha",8589,77,1871,4606,1494,618
+"Cuenca","Castilla-La Mancha",8409,82,1333,4574,1758,744
+"Zamora","Castilla y León",7874,76,1942,3906,1361,665
+"Palencia","Castilla y León",7552,76,1955,3782,1183,632
+"Ávila","Castilla y León",7109,79,1488,3653,1308,660
+"Segovia","Castilla y León",6651,80,1179,3564,1324,584
+"Teruel","Aragón",6169,76,1306,3573,938,352
+"Soria","Castilla y León",3833,79,766,2078,642,347
+"Ceuta","Ceuta",2101,89,344,910,472,375
+"Melilla","Melilla",1952,95,303,691,481,477

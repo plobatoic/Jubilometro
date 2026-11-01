@@ -18,6 +18,13 @@ Puedes buscar tu provincia, filtrar por comunidad autónoma y descargar la tabla
 
 La segunda tabla muestra la [evolución de la pensión media](/datos/evolucion-pension-media/) año a año desde 2010: jubilación, viudedad, incapacidad permanente y todo el sistema, con el número de pensiones. También compara lo que cobran las nuevas jubilaciones con la media de todas, para ver el efecto de las carreras más largas y los sueldos más altos.
 
+## Complemento a mínimos y brecha de género por provincia
+
+Dos tablas más, con la nómina de **octubre de 2026**, muestran los dos complementos que más pensiones cambian:
+
+- [Pensiones con complemento a mínimos por provincia](/datos/complemento-minimos-provincia/): **2.118.230 pensiones**, una de cada cinco, necesitan el complemento para llegar a la mínima. Va del **38,9 % en Badajoz** al **8,8 % en Gipuzkoa**, y entre las pensiones de mujeres es casi el doble que entre las de hombres.
+- [Complemento de brecha de género por provincia](/datos/complemento-brecha-genero-provincia/): **1.736.331 pensiones** lo cobran, con **76,68 euros al mes** de media. Lo más habitual es cobrarlo por dos hijos, y el importe medio más alto está en Melilla y Ceuta.
+
 ## Cómo leer una pensión media
 
 La pensión media es la de **todas las pensiones de jubilación que se cobran hoy**, también las de quienes se jubilaron hace veinte años con carreras más cortas y salarios más bajos. Por eso es menor que la de quienes se jubilan ahora: las nuevas altas de jubilación rondan ya los **1.758 euros al mes**.

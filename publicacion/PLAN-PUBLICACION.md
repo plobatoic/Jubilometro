@@ -228,6 +228,27 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Más datos propios: complemento a mínimos y brecha de género por provincia (1/11/2026, temas 2.11.20 y 2.11.21)
+
+- **Por qué**: AdSense pide valor propio. Las dos páginas cruzan y ordenan datos oficiales que no están así en ninguna guía: se actualizan cada mes y dan motivo para volver y enlazar.
+- **Páginas nuevas**, hijas de `/datos/`:
+  - `/datos/complemento-minimos-provincia/` (id 1190). 2.118.230 pensiones con complemento a mínimos a 1/10/2026, una de cada cinco (20,0 %): el 25,7 % de las de mujeres y el 13,8 % de las de hombres. Va del 38,9 % de Badajoz al 8,8 % de Gipuzkoa. Incluye el desglose por clase de pensión (orfandad 42,0 %, favor de familiares 48,1 %).
+  - `/datos/complemento-brecha-genero-provincia/` (id 1191). 1.736.331 pensiones, 76,68 € de media, el 51 % por dos hijos y el 30,9 % de hombres. El importe medio va de 95 € en Melilla a 67 € en Ourense.
+- **Herramienta** `herramientas/datos/complementos-provincia.mjs --excel= --fuente= [--subir]`:
+  - Lee las hojas «Minimos prov», «Pensiones - mínimos» y «Brecha de Género».
+  - Reconoce las provincias por el nombre, porque los códigos del Excel tienen erratas: Teruel con el 40 y País Vasco con el 16.
+  - Comprueba las 52 provincias, que sumen el total, que el reparto por hijos cuadre y que las dos hojas sean del mismo mes.
+  - Las cifras legales del año (9.442 €, 11.013 €, 628,80 €, 36,90 € por hijo) están en `LEY`. Si los datos son de otro año, se para para que se actualicen en enero.
+  - Las frases de «Qué dicen los datos» salen de los datos. Si una afirmación deja de cumplirse, no se escribe.
+- **Arreglos de paso**:
+  - `excel.mjs` no leía los valores `<v xml:space="preserve">` de las celdas con fórmula.
+  - `pension-provincia.mjs`, al repetir el mismo mes, comparaba el mes consigo mismo («sube 0,00 €»). Ahora conserva la comparación.
+  - El CSV de las tablas de datos admite columnas propias por página (`data-jm-csv-head` y `data-csv`, tema 2.11.20).
+- **`/datos/`**: la «Respuesta rápida» seguía con las cifras de septiembre. Ahora no lleva cifras que caduquen y enlaza las cuatro tablas. El texto pilar gana la sección de los complementos.
+- **Guías** de complemento a mínimos y de brecha de género: párrafo «cuántos lo cobran» con el enlace a su tabla, y fila nueva en su verificación de fuentes.
+- **Tema 2.11.21**: el recuadro «Revisado por Pau Lobato» de las portadas muestra su foto en lugar del icono.
+- **Comprobado en vivo**: 52 filas en cada tabla, buscador, filtro por comunidad, orden y CSV correctos; sin errores de JavaScript ni desbordamiento en el móvil. El recordatorio del 28/11 incluye ya los tres comandos.
+
 ### Autor real: foto, biografía y firma (30/10/2026, temas 2.11.18 y 2.11.19)
 
 - Tras el rechazo de AdSense por «contenido de poco valor» y el informe `reports/Comparativa de nichos para AdSense.md` (se sigue con las pensiones), primer paso del plan: que se vea quién está detrás.
@@ -470,7 +491,7 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 | 1 de diciembre de 2026 | Efectos de las bajas especiales por menopausia y violencia de género, de la nueva base reguladora de la baja y de la reducción de cuotas de los mayores de 62: pasar a presente la guía de cuánto se cobra de baja |
 | 23 de octubre de 2026 | Entra en vigor la Ley 4/2026 de dependencia: repasar que las guías hablen en presente, y seguir el real decreto nuevo de la prestación por cuidados familiares (mientras, rige el RD 1051/2013) |
 | 1 de noviembre de 2026 | Cataluña: vence el plazo de la Generalitat para empezar a pagar la ayuda mientras esperas (Decreto-ley 4/2026); pasar el texto a pasado y añadir lo que se sepa del pago |
-| 28 de noviembre de 2026 (y cada mes, tras la nota de la Seguridad Social) | Tabla de pensión media por provincia y texto de la portada `/datos/` con la nómina del mes: `node herramientas/datos/pension-provincia.mjs --excel=… --mes=AAAA-MM --fuente=… --altas=…` (primero sin `--subir`) y `subir-portadas.mjs --solo=datos`. Octubre hecho el 29/10 |
+| 28 de noviembre de 2026 (y cada mes, tras la nota de la Seguridad Social) | Las cuatro páginas de datos con la nómina del mes (primero sin `--subir`): `node herramientas/datos/pension-provincia.mjs --excel=… --mes=AAAA-MM --fuente=… --altas=…` y `subir-portadas.mjs --solo=datos`; `evolucion-pension-media.mjs --excel=… --fuente=…`; `complementos-provincia.mjs --excel=… --fuente=…`. Octubre hecho el 29/10 y el 1/11 |
 | 1 de noviembre de 2026 | Plazos de termalismo del IMSERSO (requisitos de los viajes y termalismo) |
 | 16 de diciembre de 2026 | Termalismo de Castilla-La Mancha y plazos autonómicos (turismo autonómico) |
 | 1 de enero de 2027 | Haberes reguladores de Clases Pasivas de 2027 (anexo del real decreto-ley o la ley de presupuestos) y pensión máxima en la guía de funcionarios |

@@ -2597,3 +2597,7 @@ body.is-filtering .jm-topic__more { display: none; }
 
 /* Foto real del autor (2.11.18): en «Quién está detrás» de la portada y de Quiénes somos */
 .jm-person img.jm-person__photo { position: static; inset: auto; width: 10rem; height: 10rem; max-width: none; border-radius: 50%; object-fit: cover; background: var(--jm-sage); outline: 1px solid var(--jm-sage-2); outline-offset: 8px; }
+
+/* 2.11.21 · «Revisado por Pau Lobato» de las portadas con su foto en lugar del icono */
+.jm-reviewed__avatar { background: var(--jm-pine) url("../img/pau-lobato-160.webp") center / cover no-repeat; background-image: image-set(url("../img/pau-lobato-160.webp") 1x, url("../img/pau-lobato-320.webp") 2x); }
+.jm-reviewed__avatar > svg { display: none; }

@@ -11,3 +11,4 @@
 | 7 | Complemento por maternidad (pensiones desde 2016) mantenido; incompatible con el nuevo con opción | LGSS, DT 33.ª; DF única del RDLeg 8/2015 | Texto del BOE | Verificado en BOE |
 | 8 | Vigencia mientras la brecha de las jubilaciones causadas el año anterior sea > 5 % | LGSS, DA 37.ª (redacción del RDL 2/2023) | Texto del BOE | Verificado en BOE |
 | 9 | Ejemplos y tabla (36,90 × n y × 14) | — | Cálculo propio | Cálculo propio |
+| 10 | 1.736.331 pensiones con complemento de brecha de género a 1/10/2026; importe medio 76,68 €/mes; 885.787 por dos hijos (51,0 %); 535.674 de hombres (30,9 %) | Seguridad Social, nota de pensiones de octubre de 2026 y archivo adjunto (hoja «Brecha de Género») | Lectura del Excel oficial con herramientas/datos/complementos-provincia.mjs; la suma de las 52 provincias da el total | Verificado en la estadística oficial (01/11/2026) |

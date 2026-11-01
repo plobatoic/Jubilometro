@@ -8,7 +8,7 @@ miga: Complemento a mínimos
 palabra_clave_principal: complemento a mínimos
 intencion: informativa
 fase_plan: F2 (artículo n.º 28)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-01
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Complemento a mínimos en 2026: quién lo cobra, límite de ingresos, tope y cómo se pide
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 1 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -30,6 +30,8 @@ fuentes_legales:
 ## Cómo funciona
 
 No es una pensión distinta: es un **complemento de tu propia pensión** contributiva (jubilación, incapacidad permanente, viudedad, orfandad o [a favor de familiares](/viudedad/favor-de-familiares/)). Si tu pensión es menor que la mínima que te corresponde, se te paga la diferencia en las mismas 14 pagas ([artículo 59 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a59)).
+
+**Lo cobra una de cada cinco pensiones.** En octubre de 2026 tenían complemento a mínimos **2.118.230 pensiones**: el 25,7 % de las de mujeres y el 13,8 % de las de hombres. Por provincias va del 38,9 % en Badajoz al 8,8 % en Gipuzkoa; busca la tuya en [pensiones con complemento a mínimos por provincia](/datos/complemento-minimos-provincia/).
 
 Las cuantías mínimas de cada pensión las fija cada año la revalorización. Todas las de 2026 están en [pensión mínima de jubilación](/cuanto-cobrare/pension-minima/), incluidas las de viudedad e incapacidad.
 
@@ -133,4 +135,4 @@ No, en las pensiones causadas desde 2013: exige residir en España. Las anterior
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, quitado un enlace repetido. 14 de octubre de 2026, enlaces a la pensión a favor de familiares y a lo que pagan los mayores en la farmacia. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*
+*Historial de cambios: 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, quitado un enlace repetido. 14 de octubre de 2026, enlaces a la pensión a favor de familiares y a lo que pagan los mayores en la farmacia. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*
