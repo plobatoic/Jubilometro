@@ -11,7 +11,7 @@ historial en el repositorio.
 | politica-cookies | 29 | 24/10/2026 |
 | descargo-responsabilidad | 30 | 24/10/2026 |
 | accesibilidad | 31 | 24/10/2026 |
-| metodologia | 25 | 24/10/2026 |
+| metodologia | 25 | 01/11/2026 |
 | sobre-nosotros | 24 | 24/10/2026 |
 | guias | 23 | 24/10/2026 |
 | contacto | 26 | 24/10/2026 |

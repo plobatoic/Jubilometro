@@ -48,7 +48,7 @@ El tribunal médico junta dos informes y los compara:
 
 Con los dos, el equipo propone si queda **capacidad para tu trabajo** o para otro, y en qué grado. Por ejemplo, una limitación para cargar peso y agacharse puede impedir el trabajo de un albañil o de una auxiliar de enfermería y no el de un administrativo.
 
-**Qué informes ayudan**: los que describen no solo el diagnóstico, sino las **limitaciones concretas** (cuánto peso puedes cargar, cuánto tiempo puedes estar de pie o sentado, cuánto caminas, si puedes conducir o concentrarte), el **tratamiento** que has seguido y su resultado, y el **pronóstico**. Las pruebas objetivas (resonancias, electromiogramas, pruebas de esfuerzo, informes de salud mental con su evolución) pesan más que las quejas sin respaldo.
+**Qué informes ayudan**: los que describen, además del diagnóstico, las **limitaciones concretas** (cuánto peso puedes cargar, cuánto tiempo puedes estar de pie o sentado, cuánto caminas, si puedes conducir o concentrarte), el **tratamiento** que has seguido y su resultado, y el **pronóstico**. Las pruebas objetivas (resonancias, electromiogramas, pruebas de esfuerzo, informes de salud mental con su evolución) pesan más que las quejas sin respaldo.
 
 <!-- tabla: Qué se valora en la incapacidad permanente -->
 | Se valora | No basta por sí solo |
