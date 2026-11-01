@@ -266,6 +266,7 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Guías** de complemento a mínimos y de brecha de género: párrafo «cuántos lo cobran» con el enlace a su tabla, y fila nueva en su verificación de fuentes.
 - **Tema 2.11.21**: el recuadro «Revisado por Pau Lobato» de las portadas muestra su foto en lugar del icono.
 - **Comprobado en vivo**: 52 filas en cada tabla, buscador, filtro por comunidad, orden y CSV correctos; sin errores de JavaScript ni desbordamiento en el móvil. El recordatorio del 28/11 incluye ya los tres comandos.
+- **Tema 2.11.23**: `/llms.txt` lista también las cuatro tablas de datos (páginas hijas de `/datos/`). Las cuatro están en el mapa del sitio de Rank Math. `comprobar-web`: 145 guías y 319 enlaces internos correctos.
 
 ### Autor real: foto, biografía y firma (30/10/2026, temas 2.11.18 y 2.11.19)
 

@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.22' );
+define( 'JM_THEME_VER', '2.11.23' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -993,6 +993,13 @@ function jm_llms_txt() {
 		$o .= '- [' . $c['name'] . '](' . $base . '/calculadoras/' . $c['slug'] . '/): ' . $c['desc'] . "\n";
 	}
 	$o .= '- [Calculadoras gratis para tu web](' . $base . "/calculadoras/para-tu-web/): código para insertar cualquiera de las calculadoras en otra web.\n";
+	// Tablas de datos propios: las páginas hijas de /datos/
+	$datos = get_page_by_path( 'datos' );
+	$hijas = $datos ? get_pages( array( 'child_of' => $datos->ID, 'post_status' => 'publish', 'sort_column' => 'post_title' ) ) : array();
+	if ( $hijas ) {
+		$o .= "\n## Datos oficiales, actualizados cada mes\n\n";
+		foreach ( $hijas as $h ) { $o .= $fmt( $h->ID ) . "\n"; }
+	}
 	$cats = (array) jm_data( 'cats' );
 	foreach ( (array) jm_data( 'temas' ) as $slug ) {
 		$lineas = array();
