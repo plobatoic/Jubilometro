@@ -377,7 +377,7 @@ export const PUBLICACIONES = [
   "red": "facebook",
   "pilar": "La cifra que te toca",
   "fuente": "/jubilacion/autonomos/",
-  "texto": "Los autónomos se jubilan a la misma edad que los asalariados: en 2027, a los 67 años, o a los 65 con 38 años y 6 meses cotizados. También necesitan 15 años cotizados y, además, estar al corriente en el pago de las cuotas.\n\nLa diferencia está en la cuantía. En agosto de 2026, la pensión media de jubilación de un autónomo era de 1.062 euros al mes, frente a 1.734 en el Régimen General, porque la mayoría ha cotizado por la base mínima.\n\nSi eres autónomo y te quedan años por delante, lo que más mejora tu pensión es subir la base en los últimos 25 años antes de jubilarte. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
+  "texto": "Los autónomos se jubilan a la misma edad que los asalariados: en 2027, a los 67 años, o a los 65 con 38 años y 6 meses cotizados. También necesitan 15 años cotizados y, además, estar al corriente en el pago de las cuotas.\n\nLa diferencia está en la cuantía. En octubre de 2026, la pensión media de jubilación de un autónomo era de 1.063,53 euros al mes, frente a 1.735,91 en el Régimen General, porque la mayoría ha cotizado por la base mínima.\n\nSi eres autónomo y te quedan años por delante, lo que más mejora tu pensión es subir la base en los últimos 25 años antes de jubilarte. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "fecha": "2026-11-06",
   "hora": "11:00"
  },
@@ -1246,7 +1246,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "La cifra que te toca",
   "fuente": "/jubilacion/autonomos/",
-  "texto": "Pensión media de jubilación de un autónomo en agosto de 2026: 1.062 € al mes. En el Régimen General: 1.734 €. La razón principal es que la mayoría ha cotizado por la base mínima, y lo que más cuenta son los últimos años antes de jubilarse.\n\njubilometro.com/autonomos/x",
+  "texto": "Pensión media de jubilación de un autónomo en octubre de 2026: 1.063,53 € al mes. En el Régimen General: 1.735,91 €. La razón principal es que la mayoría ha cotizado por la base mínima, y lo que más cuenta son los últimos años antes de jubilarse.\n\njubilometro.com/autonomos/x",
   "fecha": "2026-11-20",
   "hora": "13:30"
  },

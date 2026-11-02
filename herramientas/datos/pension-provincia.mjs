@@ -85,7 +85,7 @@ const encima = provincias.filter((p) => p.dif > 0);
 const dPrev = anterior.media ? Math.round((media - anterior.media) * 100) / 100 : null;
 
 // --- Página nueva ---
-const fila = (p) => `<tr data-name="${p.name}" data-ccaa="${p.ccaa}" data-ccaa-label="${p.ccaaLabel}" data-label="${p.label}" data-rank="${p.rank}" data-provincia="${p.slug}" data-num="${p.num}" data-valor="${p.valor.toFixed(2)}" data-dif="${p.dif.toFixed(2)}"><td class="n">${p.rank}</td><th scope="row" style="font-weight:700;color:var(--jm-ink)">${p.label}</th><td>${p.ccaaLabel}</td><td class="n">${num(p.num)}</td><td class="n">${eur(p.valor)}</td><td class="n" style="color:var(--jm-${p.dif >= 0 ? 'accent-strong' : 'muted'})">${p.dif >= 0 ? '+' : ''}${eur(p.dif)}</td></tr>`;
+const fila = (p) => `<tr data-name="${p.name}" data-ccaa="${p.ccaa}" data-ccaa-label="${p.ccaaLabel}" data-label="${p.label}" data-rank="${p.rank}" data-provincia="${p.slug}" data-num="${p.num}" data-valor="${p.valor.toFixed(2)}" data-dif="${p.dif.toFixed(2)}" data-csv="${p.num}|${p.valor.toFixed(2)}|${p.dif.toFixed(2)}"><td class="n">${p.rank}</td><th scope="row" style="font-weight:700;color:var(--jm-ink)">${p.label}</th><td>${p.ccaaLabel}</td><td class="n">${num(p.num)}</td><td class="n">${eur(p.valor)}</td><td class="n" style="color:var(--jm-${p.dif >= 0 ? 'accent-strong' : 'muted'})">${p.dif >= 0 ? '+' : ''}${eur(p.dif)}</td></tr>`;
 const barra = (p, clase) => `<li class="${clase}"><span class="jm-bars__name">${p.label}</span><span class="jm-bars__bar" style="width:${(p.valor / alta.valor * 100).toFixed(1)}%"></span><span class="jm-bars__val">${eur(Math.round(p.valor), 0)}</span></li>`;
 const lista = (ps) => ps.slice(0, -1).map((p) => p.label).join(', ') + ' y ' + ps.at(-1).label;
 const tiran = ['madrid', 'barcelona'].every((s) => provincias.find((p) => p.slug === s).dif > 0) ? ', porque las provincias más pobladas (Madrid, Barcelona) tiran de la media hacia arriba' : '';
@@ -108,6 +108,9 @@ cambiar(/<div class="jm-keydata__grid">[\s\S]*?<\/div><\/div><\/section>/, `<div
 cambiar(/(pensión más alta<\/h2><ol class="jm-bars">)[\s\S]*?(<\/ol>)/, `$1${provincias.slice(0, 10).map((p) => barra(p, '')).join('')}$2`);
 cambiar(/(pensión más baja<\/h2><ol class="jm-bars">)[\s\S]*?(<\/ol>)/, `$1${provincias.slice(-10).reverse().map((p) => barra(p, 'is-low')).join('')}$2`);
 cambiar(/(<caption class="jm-sr">Pensión media de jubilación por provincia, )[^<]+/, `$1${mes}`);
+// Columnas del CSV (botón de descarga y /datos/pension-media-provincia.csv, que sirve el tema)
+cambiar(/<div data-jm-datos(?:="[^"]*")?(?: data-jm-csv-head="[^"]*")? class="jm-stack"/, '<div data-jm-datos="pension-media-provincia" data-jm-csv-head="provincia|comunidad|pensiones_jubilacion|pension_media_jubilacion_eur|diferencia_media_nacional_eur" class="jm-stack"');
+cambiar(/(<div class="jm-promo"><h3>Reutiliza estos datos<\/h3><p>)[\s\S]*?(<\/p><\/div>)/, '$1Puedes descargarlos en <a href="/datos/pension-media-provincia.csv">CSV</a> y reutilizarlos citando a Jubilómetro y a la Seguridad Social como fuente original. La dirección del CSV no cambia y siempre lleva los datos del último mes.$2');
 cambiar(/(<table class="jm-table">[\s\S]*?<tbody>)[\s\S]*?(<\/tbody>)/, `$1${provincias.map(fila).join('')}$2`);
 cambiar(/(con las pensiones en vigor a 1 de )[^,]+(, del archivo)/, `$1${mes}$2`);
 cambiar(/(las nuevas altas de jubilación rondan ya los )[\d.]+\s€/, `$1${eur(ALTAS, 0)}`);

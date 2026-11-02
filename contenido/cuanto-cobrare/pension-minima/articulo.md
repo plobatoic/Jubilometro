@@ -8,7 +8,7 @@ miga: Pensión mínima
 palabra_clave_principal: pensión mínima de jubilación 2026
 intencion: informativa
 fase_plan: F1 (artículo n.º 27)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-11-02
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Pensión mínima de jubilación en 2026: cuantías con y sin cónyuge a cargo y requisitos para cobrarla
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 2 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -59,6 +59,8 @@ La pensión mínima se consigue con el **complemento a mínimos**, que cubre la 
 ### Si tus ingresos superan un poco el límite
 
 No lo pierdes todo de golpe. Si tus otros ingresos más tu pensión, en cómputo anual, quedan por debajo de la suma de 9.442 euros y la pensión mínima anual que te corresponde, cobras un **complemento parcial** igual a esa diferencia.
+
+**Cuántos la cobran.** En octubre de 2026, 997.826 pensiones de jubilación llegaban a la mínima gracias al complemento: el 17,3 % de todas las de jubilación. Contando todas las clases de pensión, es una de cada cinco. Puedes ver el porcentaje de tu provincia en [pensiones con complemento a mínimos por provincia](/datos/complemento-minimos-provincia/).
 
 ## Ejemplos
 
@@ -132,4 +134,4 @@ Tienes que comunicarlo a la Seguridad Social en el plazo de un mes. Si al final 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien reconoce tu pensión y sus complementos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión, con el tope del complemento para quien tiene cónyuge a cargo.*
+*Historial de cambios: 2 de noviembre de 2026, cuántas pensiones de jubilación cobran la mínima y enlace a los datos por provincia. 28 de septiembre de 2026, primera versión, con el tope del complemento para quien tiene cónyuge a cargo.*

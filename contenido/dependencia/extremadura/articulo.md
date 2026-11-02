@@ -124,7 +124,6 @@ Antes del 30 de septiembre, actualizar tu declaración de la renta, la del patri
 ## Fuentes oficiales
 
 - [Junta de Extremadura: reconocimiento de la situación de dependencia (SIA 213459)](https://www.juntaex.es/w/3977).
-- [SEPAD: información y modelos](https://saludextremadura.ses.es/sepad).
 - [Imserso: estadísticas mensuales del SAAD, situación a 30 de septiembre de 2026 (tablas 4.1, 8.1.a, 9, 10.3 y 12)](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual).
 - [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) y [Real Decreto 675/2023](https://www.boe.es/buscar/act.php?id=BOE-A-2023-16651) (BOE).
 - [Decreto-ley 2/2026, de 19 de mayo, de Extremadura: grado III+ y ayudas para personas con ELA](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-14565) (BOE).
@@ -139,4 +138,4 @@ Antes del 30 de septiembre, actualizar tu declaración de la renta, la del patri
 
 *Este artículo es informativo y no sustituye la información de la Junta de Extremadura, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, grado III+ y ayudas a personas con ELA (Decreto-ley 2/2026 de Extremadura) y cuantía máxima con capacidad económica baja y datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 2 de noviembre de 2026, quitado el enlace a la web del SEPAD, que ya no existe (la ficha oficial del trámite sigue enlazada). 20 de octubre de 2026, grado III+ y ayudas a personas con ELA (Decreto-ley 2/2026 de Extremadura) y cuantía máxima con capacidad económica baja y datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Grados de incapacidad
 palabra_clave_principal: grados de incapacidad permanente
 intencion: informativa
 fase_plan: F1 (artículo n.º 45)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-02
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Grados de incapacidad permanente: parcial, total, absoluta y gran incapacidad, qué significa cada uno y cuánto se cobra
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 2 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -89,6 +89,8 @@ Si tu pensión queda por debajo y cumples los requisitos de ingresos, se complet
 | Total, entre 60 y 64 años | 1.256,60 € | 875,90 € | 827,90 € |
 | Total por enfermedad común, menos de 60 años | 690,20 € | 690,20 € | 684,30 € |
 
+**La media real.** En octubre de 2026 había 1.062.509 pensiones de incapacidad permanente, con una media de 1.255,34 euros al mes: 1.275,49 en el Régimen General y 976,30 en el de autónomos. Las cifras de cada régimen están en [la pensión media por régimen](/datos/pension-media-regimen/).
+
 ## Ejemplos con una base reguladora de 1.600 euros
 
 - **Parcial (Luis)**: una indemnización única de 24 × 1.600 = **38.400 euros**, y sigue en su trabajo.
@@ -151,4 +153,4 @@ No hay una lista oficial de enfermedades: el INSS valora cómo tus limitaciones 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad permanente y su grado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, dos frases más claras. 14 de octubre de 2026, enlace a la guía de la incapacidad parcial. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión absoluta o de gran incapacidad si se trabaja con alta (artículo 198.2).*
+*Historial de cambios: 2 de noviembre de 2026, número y pensión media de incapacidad permanente en octubre (Seguridad Social) y enlace a la tabla por régimen. 20 de octubre de 2026, dos frases más claras. 14 de octubre de 2026, enlace a la guía de la incapacidad parcial. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión absoluta o de gran incapacidad si se trabaja con alta (artículo 198.2).*

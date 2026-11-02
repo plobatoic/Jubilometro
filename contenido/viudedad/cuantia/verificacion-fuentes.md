@@ -11,3 +11,4 @@
 | 7 | Complemento a mínimos: residencia, rentas ≤ 9.442 €; las viudedades de divorciados limitadas a la compensatoria (desde 2013) no se complementan | RD 241/2026, art. 9.2, 9.3, 9.5 y 9.9 | Texto del BOE | Verificado en BOE |
 | 8 | Compatibilidad con rentas de trabajo | LGSS, art. 223.1 | Texto del BOE | Verificado en BOE |
 | 9 | Ejemplos (Elena 1.800 € y 936 €; Rosa 900 € frente a 780 €, más 36,20 € de complemento hasta la mínima de 936,20 €; Ana 676 € y 910 €, 12.740 €/año y 4.246,67 € por miembro; FAQ 780 / 900 / 1.050 €) | — | Cálculo propio | Cálculo propio |
+| 10 | Pensión media de viudedad a 1/10/2026: 976,67 €/mes (Régimen General 1.035,26 €; autónomos 718,35 €) | Seguridad Social, nota de pensiones de octubre de 2026 y archivo adjunto (hojas «P. Media €» y «Distrib - regím. Altas nuevas») | Lectura del Excel oficial | Verificado en la estadística oficial (02/11/2026) |

@@ -132,7 +132,7 @@ const fuentes = (extra) => `<div class="jm-table-wrap"><table class="jm-sources"
 const lgss = (art) => `<tr><td>BOE</td><td>Ley General de la Seguridad Social, artículo ${art}</td><td><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a${art}" rel="noopener" target="_blank">BOE-A-2015-11724${icon('external')}</a></td></tr>`;
 const siguiente = (href, titulo) => `<a class="jm-next" href="${href}"><span><span class="jm-next__label">${icon('arrow')}Más datos</span><span class="jm-next__title">${titulo}</span></span><span class="jm-next__arrow">${icon('arrow')}</span></a>`;
 const cta = (titulo, texto, href, boton) => `<aside class="jm-calc-cta"><span class="jm-tile__icon">${icon('book')}</span><div><h3>${titulo}</h3><p>${texto}</p></div><a class="jm-btn jm-btn--ink" href="${href}">${boton}${icon('arrow')}</a></aside>`;
-const reutiliza = '<div class="jm-promo"><h3>Reutiliza estos datos</h3><p>Puedes descargarlos en CSV y reutilizarlos citando a Jubilómetro y a la Seguridad Social como fuente original.</p></div>';
+const reutiliza = (slug) => `<div class="jm-promo"><h3>Reutiliza estos datos</h3><p>Puedes descargarlos en <a href="/datos/${slug}.csv">CSV</a> y reutilizarlos citando a Jubilómetro y a la Seguridad Social como fuente original. La dirección del CSV no cambia y siempre lleva los datos del último mes.</p></div>`;
 
 const filaMin = (p) => `<tr data-name="${p.name}" data-ccaa="${p.ccaa}" data-ccaa-label="${p.ccaaLabel}" data-label="${p.label}" data-rank="${p.rank}" data-provincia="${p.slug}" data-num="${p.num}" data-muj="${p.muj}" data-hom="${p.hom}" data-valor="${p.valor}" data-csv="${p.num}|${(p.muj * 100).toFixed(1)}|${(p.hom * 100).toFixed(1)}|${(p.valor * 100).toFixed(1)}"><td class="n">${p.rank}</td><th scope="row" style="font-weight:700;color:var(--jm-ink)">${p.label}</th><td>${p.ccaaLabel}</td><td class="n">${num(p.num)}</td><td class="n">${pct(p.muj)}</td><td class="n">${pct(p.hom)}</td><td class="n" style="font-weight:700;color:var(--jm-ink)">${pct(p.valor)}</td></tr>`;
 const filaClase = ([n, c]) => `<tr><th scope="row">${n}</th><td class="n">${num(c.num)}</td><td class="n">${pct(c.muj)}</td><td class="n">${pct(c.hom)}</td><td class="n">${pct(c.valor)}</td></tr>`;
@@ -173,7 +173,7 @@ ${cabeza('Complemento a mínimos por provincia', `Pensiones con complemento a m�
       ${fuentes(lgss(59))}
     </div>
     <aside class="jm-stack" style="gap:1rem">
-      ${reutiliza}
+      ${reutiliza('complemento-minimos-provincia')}
       ${cta('Complemento a mínimos', '¿Te corresponde? Requisitos, límite de ingresos y ejemplos.', '/cuanto-cobrare/complemento-a-minimos/', 'Leer la guía')}
     </aside>
   </div>
@@ -239,7 +239,7 @@ ${cabeza('Complemento de brecha de género por provincia', `Complemento de brech
       ${fuentes(lgss(60))}
     </div>
     <aside class="jm-stack" style="gap:1rem">
-      ${reutiliza}
+      ${reutiliza('complemento-brecha-genero-provincia')}
       ${cta('Complemento de brecha de género', 'Quién lo cobra, también los padres, y cómo se pide.', '/cuanto-cobrare/complemento-brecha-genero/', 'Leer la guía')}
     </aside>
   </div>

@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.23' );
+define( 'JM_THEME_VER', '2.11.27' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -859,6 +859,95 @@ add_filter( 'rank_math/json_ld', function ( $data ) {
 	);
 	return $data;
 }, 125 );
+
+/*
+ * Tablas de datos (páginas hijas de /datos/):
+ *   - /datos/<tabla>.csv sirve la tabla en CSV. Se lee de la propia página publicada (atributos data-jm-csv-head
+ *     y data-csv que escriben las herramientas de herramientas/datos/), así que nunca se desfasa de lo que se ve.
+ *   - Ficha Dataset en los datos estructurados de cada tabla, con ese CSV como descarga (Google Dataset Search).
+ */
+function jm_tabla_datos( $slug ) {
+	if ( ! preg_match( '/^[a-z0-9-]+$/', (string) $slug ) ) { return null; }
+	$page = get_page_by_path( 'datos/' . $slug );
+	if ( ! $page || 'publish' !== $page->post_status ) { return null; }
+	$html = (string) $page->post_content;
+	if ( ! preg_match( '#data-jm-csv-head="([^"]+)"#', $html, $h ) || ! preg_match_all( '#<tr\b([^>]*\sdata-csv="[^"]*"[^>]*)>#', $html, $m ) ) { return null; }
+	$attr  = function ( $tag, $n ) { return preg_match( '#\sdata-' . $n . '="([^"]*)"#', $tag, $x ) ? html_entity_decode( $x[1], ENT_QUOTES, 'UTF-8' ) : null; };
+	$filas = array( explode( '|', html_entity_decode( $h[1], ENT_QUOTES, 'UTF-8' ) ) );
+	foreach ( $m[1] as $tag ) {
+		$fila = array();
+		foreach ( array( 'label', 'ccaa-label' ) as $n ) {
+			if ( null !== $attr( $tag, $n ) ) { $fila[] = $attr( $tag, $n ); }
+		}
+		$filas[] = array_merge( $fila, explode( '|', (string) $attr( $tag, 'csv' ) ) );
+	}
+	return $filas;
+}
+add_action( 'init', function () {
+	$uri = isset( $_SERVER['REQUEST_URI'] ) ? strtok( sanitize_text_field( wp_unslash( $_SERVER['REQUEST_URI'] ) ), '?' ) : '';
+	if ( ! preg_match( '#^/datos/([a-z0-9-]+)\.csv$#', (string) $uri, $m ) ) { return; }
+	$filas = jm_tabla_datos( $m[1] );
+	if ( ! $filas ) { return; } // sin tabla: sigue su curso y da 404
+	nocache_headers();
+	header( 'Content-Type: text/csv; charset=utf-8' );
+	header( 'Content-Disposition: inline; filename="' . $m[1] . '.csv"' );
+	header( 'X-Robots-Tag: noindex' );
+	header( 'Access-Control-Allow-Origin: *' );
+	$out = fopen( 'php://output', 'w' );
+	foreach ( $filas as $f ) { fputcsv( $out, $f, ',', '"', '' ); }
+	fclose( $out );
+	exit;
+}, 1 );
+add_filter( 'rank_math/json_ld', function ( $data ) {
+	if ( ! is_page() ) { return $data; }
+	$id  = get_queried_object_id();
+	$par = wp_get_post_parent_id( $id );
+	if ( ! $par || 'datos' !== get_post_field( 'post_name', $par ) ) { return $data; }
+	// La ficha antigua de Rank Math (con un CSV que no existía) se sustituye por esta
+	foreach ( $data as $k => $node ) {
+		if ( is_array( $node ) && ! empty( $node['@type'] ) && in_array( 'Dataset', (array) $node['@type'], true ) ) { unset( $data[ $k ] ); }
+	}
+	$fichas = array(
+		'pension-media-provincia'             => array( 'Pensión media de jubilación por provincia en España', array( 'Número de pensiones de jubilación', 'Pensión media de jubilación (euros al mes)', 'Diferencia con la media nacional (euros al mes)' ) ),
+		'evolucion-pension-media'             => array( 'Evolución de la pensión media en España desde 2010', array( 'Pensión media de jubilación, viudedad, incapacidad permanente y de todo el sistema (euros al mes)', 'Número de pensiones de jubilación' ) ),
+		'complemento-minimos-provincia'       => array( 'Pensiones con complemento a mínimos por provincia en España', array( 'Número de pensiones con complemento a mínimos', 'Porcentaje sobre el total de pensiones de mujeres, de hombres y total' ) ),
+		'complemento-brecha-genero-provincia' => array( 'Pensiones con complemento de brecha de género por provincia en España', array( 'Número de pensiones con el complemento', 'Importe medio del complemento (euros al mes)', 'Pensiones por número de hijos' ) ),
+		'pension-media-regimen'               => array( 'Pensión media por régimen de la Seguridad Social en España', array( 'Número de pensiones por régimen y clase', 'Pensión media por régimen y clase (euros al mes)' ) ),
+	);
+	$slug = get_post_field( 'post_name', $id );
+	// Una tabla nueva sin ficha propia: el título de la página y las columnas de su CSV
+	if ( empty( $fichas[ $slug ] ) ) {
+		$cols = jm_tabla_datos( $slug );
+		if ( ! $cols ) { return $data; }
+		$fichas[ $slug ] = array( wp_strip_all_tags( get_the_title( $id ) ) . ' en España', array_values( array_diff( $cols[0], array( 'provincia', 'comunidad', 'regimen', 'anio', 'mes' ) ) ) );
+	}
+	$html  = (string) get_post_field( 'post_content', $id );
+	$url   = get_permalink( $id );
+	$meses = array_flip( array( 'enero', 'febrero', 'marzo', 'abril', 'mayo', 'junio', 'julio', 'agosto', 'septiembre', 'octubre', 'noviembre', 'diciembre' ) );
+	$fin   = preg_match( '#<h1>[^<]*\((\p{L}+) de (\d{4})\)</h1>#u', $html, $x ) && isset( $meses[ $x[1] ] ) ? sprintf( '%d-%02d', $x[2], $meses[ $x[1] ] + 1 ) : '';
+	$desc  = trim( (string) get_post_meta( $id, 'rank_math_description', true ) );
+	$ds    = array(
+		'@type'               => 'Dataset',
+		'@id'                 => $url . '#dataset',
+		'name'                => $fichas[ $slug ][0],
+		'description'         => strlen( $desc ) >= 50 ? $desc : wp_strip_all_tags( get_the_excerpt( $id ) ),
+		'url'                 => $url,
+		'inLanguage'          => 'es-ES',
+		'creator'             => array( '@id' => home_url( '/#organization' ) ),
+		'isBasedOn'           => preg_match( '#href="(https://revista\.seg-social\.es/[^"]+)"#', $html, $f ) ? html_entity_decode( $f[1], ENT_QUOTES, 'UTF-8' ) : 'https://www.seg-social.es',
+		'license'             => 'https://creativecommons.org/licenses/by/4.0/',
+		'isAccessibleForFree' => true,
+		'spatialCoverage'     => array( '@type' => 'Place', 'name' => 'España' ),
+		'dateModified'        => get_the_modified_date( 'c', $id ),
+		'variableMeasured'    => $fichas[ $slug ][1],
+	);
+	if ( $fin ) { $ds['temporalCoverage'] = 'evolucion-pension-media' === $slug ? '2010-12/' . $fin : $fin; }
+	if ( jm_tabla_datos( $slug ) ) {
+		$ds['distribution'] = array( array( '@type' => 'DataDownload', 'encodingFormat' => 'text/csv', 'contentUrl' => home_url( '/datos/' . $slug . '.csv' ) ) );
+	}
+	$data['Dataset'] = $ds;
+	return $data;
+}, 126 );
 
 /* ------------------------------------------------------------------
  * 8c. CALCULADORAS PARA OTRAS WEBS

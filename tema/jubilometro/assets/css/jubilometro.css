@@ -2601,3 +2601,6 @@ body.is-filtering .jm-topic__more { display: none; }
 /* 2.11.21 · «Revisado por Pau Lobato» de las portadas con su foto en lugar del icono */
 .jm-reviewed__avatar { background: var(--jm-pine) url("../img/pau-lobato-160.webp") center / cover no-repeat; background-image: image-set(url("../img/pau-lobato-160.webp") 1x, url("../img/pau-lobato-320.webp") 2x); }
 .jm-reviewed__avatar > svg { display: none; }
+
+/* 2.11.27 · Barras con nombres largos (pensión media por régimen): el nombre pasa a dos líneas en lugar de cortarse */
+.jm-bars--wrap .jm-bars__name { white-space: normal; overflow: visible; text-overflow: clip; line-height: 1.25; }

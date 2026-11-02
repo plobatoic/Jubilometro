@@ -228,6 +228,42 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Segunda revisión de calidad (2/11/2026, temas 2.11.24 a 2.11.27)
+
+- **Enlaces a fuentes**: comprobados los 522 enlaces externos de guías y páginas.
+  - Rotos de verdad, dos:
+    - la web del SEPAD de Extremadura ya no existe (se quita; la ficha oficial del trámite sigue enlazada);
+    - la sede de Madrid cambió la dirección del complemento de alquiler (enlace nuevo).
+  - El resto que falló desde aquí son bloqueos a robots o a conexiones de fuera de España: revista.seg-social.es, inclusion.gob.es, Navarra, La Rioja, Asturias y la sede de la AEAT. Comprobados con otra red, existen.
+- **Tablas de datos con CSV permanente**:
+  - `/datos/<tabla>.csv` lo sirve el tema (`jm_tabla_datos`) leyendo la propia página. Nunca se desfasa.
+  - Las herramientas escriben `data-jm-csv-head` y `data-csv` en las filas.
+  - Cada tabla enlaza su CSV en «Reutiliza estos datos».
+- **Ficha Dataset para las cinco tablas**, generada por el tema:
+  - nombre, descripción, cobertura temporal, fuente y CSV como descarga;
+  - sustituye la antigua de Rank Math, cuyo CSV daba 404.
+- **Tabla nueva: pensión media por régimen** (`/datos/pension-media-regimen/`, id 1222; herramienta `herramientas/datos/pension-regimen.mjs`):
+  - Régimen General: 1.735,91 €.
+  - Autónomos: 1.063,53 €, es decir, 672,38 € menos.
+  - Minería: 3.006,13 €.
+  - SOVI: 538,96 €.
+  - También viudedad e incapacidad por régimen.
+  - Comprueba que los regímenes suman el total en cada clase.
+- **Guía de autónomos**: deja el dato de agosto de la prensa y usa la estadística oficial de octubre. Las publicaciones de redes sobre autónomos también se actualizan.
+- **Enlaces a las tablas** con la cifra oficial de octubre:
+  - pensión mínima: 997.826 jubilaciones con mínimos, el 17,3 %;
+  - cuantía de viudedad: media de 976,67 €;
+  - grados de incapacidad: 1.062.509 pensiones y 1.255,34 € de media.
+
+  Cada guía con su historial y fila de verificación.
+- **Calculadoras**: las preguntas frecuentes pasan a desplegables (`subir-portadas.mjs` las convierte), como en las guías, con FAQPage.
+- **Portada**:
+  - El ejemplo de la libreta lleva el mes actual en «Cotizado hasta hoy». Antes decía septiembre y el script lo rehacía al cargar.
+  - La tarjeta de datos lleva a `/datos/` y nombra las cinco tablas.
+  - Barras con nombres largos en dos líneas (`jm-bars--wrap`).
+- **IndexNow**: el tema ya avisa a Bing de cada página publicada o cambiada; no hace falta nada a mano.
+- El recordatorio del 28/11 incluye ya los cuatro comandos de datos.
+
 ### Calculadoras con ejemplos resueltos y sin zonas vacías (1/11/2026, tema 2.11.22)
 
 - **Problema**: ocho calculadoras y la portada `/calculadoras/` tenían una «zona de redacción» con instrucciones internas. El tema ya no se la enseña a los lectores ni a Google, así que esas páginas eran solo el formulario y un párrafo: poco contenido propio para AdSense.
@@ -510,7 +546,7 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 | 1 de diciembre de 2026 | Efectos de las bajas especiales por menopausia y violencia de género, de la nueva base reguladora de la baja y de la reducción de cuotas de los mayores de 62: pasar a presente la guía de cuánto se cobra de baja |
 | 23 de octubre de 2026 | Entra en vigor la Ley 4/2026 de dependencia: repasar que las guías hablen en presente, y seguir el real decreto nuevo de la prestación por cuidados familiares (mientras, rige el RD 1051/2013) |
 | 1 de noviembre de 2026 | Cataluña: vence el plazo de la Generalitat para empezar a pagar la ayuda mientras esperas (Decreto-ley 4/2026); pasar el texto a pasado y añadir lo que se sepa del pago |
-| 28 de noviembre de 2026 (y cada mes, tras la nota de la Seguridad Social) | Las cuatro páginas de datos con la nómina del mes (primero sin `--subir`): `node herramientas/datos/pension-provincia.mjs --excel=… --mes=AAAA-MM --fuente=… --altas=…` y `subir-portadas.mjs --solo=datos`; `evolucion-pension-media.mjs --excel=… --fuente=…`; `complementos-provincia.mjs --excel=… --fuente=…`. Octubre hecho el 29/10 y el 1/11 |
+| 28 de noviembre de 2026 (y cada mes, tras la nota de la Seguridad Social) | Las cinco páginas de datos con la nómina del mes (primero sin `--subir`): `node herramientas/datos/pension-provincia.mjs --excel=… --mes=AAAA-MM --fuente=… --altas=…` y `subir-portadas.mjs --solo=datos`; `evolucion-pension-media.mjs`, `complementos-provincia.mjs` y `pension-regimen.mjs`, con `--excel=… --fuente=…`. Después, las cifras citadas en las guías (autónomos, pensión mínima, viudedad, incapacidad, complementos). Octubre hecho el 29/10, el 1/11 y el 2/11 |
 | 1 de noviembre de 2026 | Plazos de termalismo del IMSERSO (requisitos de los viajes y termalismo) |
 | 16 de diciembre de 2026 | Termalismo de Castilla-La Mancha y plazos autonómicos (turismo autonómico) |
 | 1 de enero de 2027 | Haberes reguladores de Clases Pasivas de 2027 (anexo del real decreto-ley o la ley de presupuestos) y pensión máxima en la guía de funcionarios |

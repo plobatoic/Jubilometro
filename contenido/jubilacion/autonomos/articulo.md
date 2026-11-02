@@ -1,14 +1,14 @@
 ---
 titulo_seo: "Jubilación de autónomos 2026: requisitos y cuánto cobran"
 h1: "Jubilación de autónomos: requisitos, cuánto cobran y cómo mejorar su pensión"
-meta_descripcion: "Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 670 € menos de media. Cómo mejorar su pensión."
+meta_descripcion: "Los autónomos se jubilan a la misma edad que los asalariados, pero deben estar al corriente de cuotas y cobran 672 € menos de media. Cómo mejorar su pensión."
 url: /jubilacion/autonomos/
 categoria: Jubilación
 miga: Jubilación de autónomos
 palabra_clave_principal: jubilación autónomos
 intencion: informativa
 fase_plan: F2 (artículo n.º 10)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-02
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -17,13 +17,13 @@ fuentes_legales:
 
 # Jubilación de autónomos: requisitos, cuánto cobran y cómo mejorar su pensión
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 2 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
 > Los autónomos se jubilan **a la misma edad que los asalariados**: en 2027, a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Necesitan también 15 años cotizados y, además, **estar al corriente en el pago de las cuotas**.
 >
-> Su pensión media es bastante más baja: **1.062 euros al mes** en agosto de 2026, frente a 1.734 en el Régimen General, porque la mayoría ha cotizado por la base mínima. Para mejorarla, cuenta sobre todo lo que cotices en los **últimos 25 años** (o algo más, con el nuevo cálculo) antes de jubilarte.
+> Su pensión media es bastante más baja: **1.063,53 euros al mes** en octubre de 2026, frente a 1.735,91 en el Régimen General, porque la mayoría ha cotizado por la base mínima. Para mejorarla, cuenta sobre todo lo que cotices en los **últimos 25 años** (o algo más, con el nuevo cálculo) antes de jubilarte.
 
 ## Requisitos para jubilarse como autónomo
 
@@ -56,7 +56,9 @@ Además, las cuotas impagadas que ya han prescrito pueden no contar como tiempo 
 
 ## Cuánto cobra de media un autónomo jubilado
 
-Según los datos de la Seguridad Social recogidos por la prensa especializada, en agosto de 2026 la pensión media de jubilación del **RETA era de 1.062,09 euros al mes**, frente a **1.733,73 euros en el Régimen General**: unos 670 euros menos al mes y más de 9.400 al año ([Autónomos y Emprendedor](https://www.autonomosyemprendedor.es/articulo/seguridad-social/seguridad-social-confirma-cuanto-cobran-media-autonomos-que-estan-jubilando-otono/20260923163543055972.html)). Los nuevos jubilados del RETA cobran algo más, unos 1.179 euros de media.
+Según la estadística de la Seguridad Social, a 1 de octubre de 2026 la pensión media de jubilación del **RETA era de 1.063,53 euros al mes**, frente a **1.735,91 euros en el Régimen General**: 672,38 euros menos al mes y 9.413 menos al año ([nota de pensiones de octubre de 2026 y su archivo adjunto](https://revista.seg-social.es/-/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano)). Son 1.369.127 pensiones de jubilación, una de cada cinco. Tienes las cifras de todos los regímenes, también de viudedad e incapacidad, en [la pensión media por régimen](/datos/pension-media-regimen/).
+
+Quienes se jubilan ahora cobran algo más: según la prensa especializada, los nuevos jubilados del RETA empezaron en agosto con unos 1.179 euros de media ([Autónomos y Emprendedor](https://www.autonomosyemprendedor.es/articulo/seguridad-social/seguridad-social-confirma-cuanto-cobran-media-autonomos-que-estan-jubilando-otono/20260923163543055972.html)).
 
 La razón principal es que durante décadas casi todos los autónomos eligieron cotizar por la base mínima. La pensión se calcula con las bases de cotización, así que una base baja se traduce en una pensión baja.
 
@@ -125,6 +127,7 @@ Depende de las bases de cada año, pero con 30 años cotizados el porcentaje ser
 
 - [Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE): artículos 205 a 215 y 318.
 - [Ley 2/2026, de 29 de julio, sobre las mutualidades alternativas y la pasarela al RETA](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16653) (BOE).
+- [Seguridad Social: pensiones contributivas de octubre de 2026, nota y archivo adjunto con la pensión media por régimen](https://revista.seg-social.es/-/la-pension-media-del-sistema-de-la-seguridad-social-alcanza-los-1.376-1-euros-en-octubre-un-4-6-mas-alta-que-hace-un-ano).
 - [Autónomos y Emprendedor: pensión media de los autónomos que se jubilan (23 de septiembre de 2026)](https://www.autonomosyemprendedor.es/articulo/seguridad-social/seguridad-social-confirma-cuanto-cobran-media-autonomos-que-estan-jubilando-otono/20260923163543055972.html).
 - [Agencia Tributaria: límites de aportación a sistemas de previsión social](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c13-determinacion-renta-contribuyente-sujeta-gravamen/reducciones-base-imponible-general/reducciones-aportaciones-contribuciones-sistemas-prevision-social/normas-comunes-aplicables-aportaciones-sistemas-social/limites-exceso-aportaciones.html).
 
@@ -139,4 +142,4 @@ Depende de las bases de cada año, pero con 30 años cotizados el porcentaje ser
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, pasarela al RETA para profesionales con mutualidad alternativa (Ley 2/2026); tres frases más claras. 6 de octubre de 2026, enlace a la guía de los trabajadores agrarios. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 2 de noviembre de 2026, pensión media de octubre con la estadística oficial de la Seguridad Social y enlace a la tabla por régimen. 20 de octubre de 2026, pasarela al RETA para profesionales con mutualidad alternativa (Ley 2/2026); tres frases más claras. 6 de octubre de 2026, enlace a la guía de los trabajadores agrarios. 27 de septiembre de 2026, primera versión.*

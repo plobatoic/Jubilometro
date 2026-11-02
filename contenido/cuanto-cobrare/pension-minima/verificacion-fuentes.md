@@ -12,3 +12,4 @@
 | 8 | Efectos a 3 meses si se pide después; obligación de comunicar en un mes; indebido todo el año si se supera el límite; no consolidable | RD 241/2026, art. 9.1, 9.3 y 9.8; art. 10.5 | Texto del BOE | Verificado en BOE |
 | 9 | Otras mínimas (viudedad, IP absoluta, orfandad) | RD 241/2026, anexo I | Texto del BOE | Verificado en BOE |
 | 10 | Ejemplos (Rosa 236,20 €; Pedro 96,34 €; Antonio 306,60 €) | — | Cálculo propio con las reglas anteriores | Cálculo propio |
+| 11 | 997.826 pensiones de jubilación con complemento a mínimos a 1/10/2026, el 17,3 % de las de jubilación; 20,0 % de todas las pensiones | Seguridad Social, nota de pensiones de octubre de 2026 y archivo adjunto (hoja «Pensiones - mínimos») | Lectura del Excel oficial | Verificado en la estadística oficial (02/11/2026) |

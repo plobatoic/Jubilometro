@@ -62,12 +62,27 @@ function actualizarFechas(raw) {
     .replace(/(<p class="jm-reviewed__text">[\s\S]*?<time datetime=")[^"]*(">)[^<]*(<\/time>)/, `$1${fechaIso}$2${fechaCorta}$3`);
 }
 
+// «Preguntas frecuentes»: cada H3 y su respuesta pasan a un desplegable (jm-faq), igual que en las guías.
+// El tema convierte esos desplegables en datos estructurados FAQPage.
+function desplegables(html) {
+  return html.replace(/(<h2>Preguntas frecuentes<\/h2>\n)([\s\S]*?)(?=<h2|$)/, (_, titulo, cuerpo) => {
+    const grupos = cuerpo.split(/(?=<h3>)/).map((g) => g.trim()).filter(Boolean);
+    if (!grupos.every((g) => g.startsWith('<h3>'))) throw new Error('Preguntas frecuentes: hay texto antes de la primera pregunta');
+    const detalles = grupos.map((g) => {
+      const [, pregunta, respuesta] = g.match(/^<h3>([\s\S]*?)<\/h3>([\s\S]*)$/);
+      return `<details><summary>${pregunta}<svg class="jm-i" aria-hidden="true"><use href="#i-plus"/></svg></summary><div>${respuesta.trim()}</div></details>`;
+    });
+    return `${titulo}<div class="jm-faq">${detalles.join('')}</div>\n`;
+  });
+}
+
 const archivos = readdirSync(CARPETA).filter((f) => f.endsWith('.md')).map((f) => f.slice(0, -3))
   .filter((slug) => !SOLO || SOLO.includes(slug)).sort();
 for (const slug of archivos) {
   // Las tablas van dentro de figure.wp-block-table, como en las guías: en el móvil se desplazan sin romper la página
-  const html = marked.parse(readFileSync(join(CARPETA, `${slug}.md`), 'utf8')).trim()
+  let html = marked.parse(readFileSync(join(CARPETA, `${slug}.md`), 'utf8')).trim()
     .replace(/<table>/g, '<figure class="wp-block-table"><table>').replace(/<\/table>/g, '</table></figure>');
+  html = desplegables(html);
   const bloque = `${INICIO}\n${html}\n${FIN}`;
   const [pagina] = await api(`/wp/v2/pages?slug=${encodeURIComponent(slug)}&context=edit&_fields=id,slug,content`);
   if (!pagina) throw new Error(`No existe la página ${slug}`);

@@ -8,7 +8,7 @@ miga: Cuantía
 palabra_clave_principal: cuantía pensión de viudedad
 intencion: informativa
 fase_plan: F1 (artículo n.º 37b)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-02
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Cuánto se cobra de pensión de viudedad en 2026: el 52, el 60 o el 70 % de la base reguladora, con ejemplos
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 2 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -86,6 +86,8 @@ Si tu pensión queda por debajo de la mínima, la Seguridad Social la completa c
 
 Si trabajas y ganas más de 9.442 euros al año, no tienes complemento a mínimos, aunque sí cobras tu pensión de viudedad entera: **[la viudedad es compatible con cualquier sueldo](/viudedad/compatibilidad-trabajo/)**. Tampoco se complementan las pensiones de [viudedad de divorciados](/viudedad/divorcio-separacion/) limitadas a la pensión compensatoria.
 
+**La media real.** En octubre de 2026, la pensión media de viudedad era de 976,67 euros al mes: 1.035,26 en el Régimen General y 718,35 en el de autónomos. Cómo ha cambiado desde 2010, en [la evolución de la pensión media](/datos/evolucion-pension-media/), y por régimen, en [la pensión media por régimen](/datos/pension-media-regimen/).
+
 ## Ejemplos
 
 **Elena, 55 años.** Su marido murió trabajando. Sus mejores 24 meses seguidos de los últimos 15 años suman 50.400 euros de bases de cotización:
@@ -145,4 +147,4 @@ Con la misma base reguladora de su pensión de jubilación, actualizada con las 
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula la pensión de viudedad. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, aclarado un ejemplo. 30 de septiembre de 2026, el ejemplo de Rosa incluye el complemento a mínimos que le corresponde. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 2 de noviembre de 2026, pensión media de viudedad de octubre (Seguridad Social) y enlaces a las tablas de datos. 20 de octubre de 2026, aclarado un ejemplo. 30 de septiembre de 2026, el ejemplo de Rosa incluye el complemento a mínimos que le corresponde. 28 de septiembre de 2026, primera versión.*

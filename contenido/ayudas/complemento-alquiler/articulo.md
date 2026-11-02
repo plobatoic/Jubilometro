@@ -88,7 +88,7 @@ No. El complemento no cuenta como ingreso para mantener la pensión ni para calc
 
 - [Real Decreto 241/2026, revalorización de pensiones: artículo 21.2 (complemento de 525 euros)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977) (BOE).
 - [Real Decreto 1191/2012, normas para el reconocimiento del complemento de alquiler](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-10476) (BOE).
-- [Comunidad de Madrid: complemento de alquiler de vivienda para titulares de pensión no contributiva](https://sede.comunidad.madrid/ayudas-becas-subvenciones/complemento-alquiler-vivienda) (sede electrónica).
+- [Comunidad de Madrid: complemento de alquiler de vivienda para titulares de pensión no contributiva](https://sede.comunidad.madrid/ayudas-becas-subvenciones/complemento-alquiler-pnc) (sede electrónica).
 
 ## Siguiente paso
 
@@ -100,4 +100,4 @@ No. El complemento no cuenta como ingreso para mantener la pensión ni para calc
 
 *Este artículo es informativo y no sustituye la resolución de tu comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, frase más clara. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 2 de noviembre de 2026, enlace nuevo de la sede de la Comunidad de Madrid. 20 de octubre de 2026, frase más clara. 29 de septiembre de 2026, primera versión.*

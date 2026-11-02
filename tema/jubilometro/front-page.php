@@ -36,7 +36,9 @@ echo str_replace( '<!--jm-browse-->', jm_browse(), jm_part( 'home-mast' ) ); // 
 <?php
 echo jm_part( 'home-topics' ); // phpcs:ignore
 echo jm_part( 'home-figures' ); // phpcs:ignore
-echo jm_part( 'home-toolband' ); // phpcs:ignore
+// El ejemplo de la libreta lleva el mes de hoy en «Cotizado hasta hoy» (el resto no depende de la fecha):
+// así el HTML ya coincide con lo que pinta el script y no hay que rehacerlo al cargar
+echo str_replace( '<span>09·2026</span><span>Cotizado hasta hoy</span>', '<span>' . esc_html( wp_date( 'm·Y' ) ) . '</span><span>Cotizado hasta hoy</span>', jm_part( 'home-toolband' ) ); // phpcs:ignore
 echo jm_temas_grid( $used ); // phpcs:ignore
 echo jm_part( 'home-life' ); // phpcs:ignore
 echo jm_part( 'home-bento' ); // phpcs:ignore

@@ -15,7 +15,7 @@ export const PAGINAS_WEB = [
   '/calculadoras/pension-jubilacion/', '/calculadoras/jubilacion-anticipada/', '/calculadoras/pension-neta-irpf/',
   '/calculadoras/jubilacion-demorada-flexible/', '/calculadoras/pension-viudedad/',
   '/calculadoras/incapacidad-permanente/', '/calculadoras/cuanto-ahorrar-jubilacion/',
-  '/calculadoras/comparador-ingresos-jubilacion/', '/calculadoras/subida-pensiones/', '/calculadoras/simulador-jubilacion/', '/calculadoras/para-tu-web/', '/datos/pension-media-provincia/', '/datos/evolucion-pension-media/', '/datos/complemento-minimos-provincia/', '/datos/complemento-brecha-genero-provincia/', '/sobre-nosotros/',
+  '/calculadoras/comparador-ingresos-jubilacion/', '/calculadoras/subida-pensiones/', '/calculadoras/simulador-jubilacion/', '/calculadoras/para-tu-web/', '/datos/pension-media-provincia/', '/datos/evolucion-pension-media/', '/datos/complemento-minimos-provincia/', '/datos/complemento-brecha-genero-provincia/', '/datos/pension-media-regimen/', '/sobre-nosotros/',
   '/metodologia/', '/contacto/', '/aviso-legal/', '/politica-privacidad/', '/politica-cookies/',
   '/descargo-responsabilidad/', '/accesibilidad/',
 ];
