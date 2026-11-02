@@ -39,7 +39,8 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 ### Ya, sin esperar a nada
 
-1. **Pedir a Google que lea las guías nuevas.** En Search Console (search.google.com/search-console), pega cada dirección en la barra de arriba y pulsa «Solicitar indexación». Una a una (Google deja unas 10 al día):
+1. **Search Console, cada día (desde el 2/11/2026):** la tarea «Tanda diaria de Search Console» (8:57, hora de Madrid) manda 10 direcciones al día de `publicacion/search-console/tandas.md` (18 tandas). Tanda 1 enviada el 2/11.
+   **Antes:** pedir a Google que lea las guías nuevas. En Search Console (search.google.com/search-console), pega cada dirección en la barra de arriba y pulsa «Solicitar indexación». Una a una (Google deja unas 10 al día):
    - jubilometro.com/jubilacion/prejubilacion/
    - jubilometro.com/jubilacion/numero-seguridad-social/
    - jubilometro.com/ayudas/emigrantes-retornados/
