@@ -81,18 +81,18 @@ Solo necesitas la pensión que tendrías a tu edad ordinaria y tus años cotizad
   /* ---------- Pensión media por provincia ---------- */
   {
     id: 'provincia-x', red: 'x', pilar: 'La cifra que te toca', fuente: '/datos/pension-media-provincia/',
-    texto: `Pensión media de jubilación en septiembre de 2026: 1.941 € en Bizkaia y 1.142 € en Ourense, casi 800 € de diferencia. La de España, 1.576 €, y solo 17 de las 52 provincias la superan. ¿Cómo está la tuya?
+    texto: `Pensión media de jubilación en octubre de 2026: 1.943 € en Bizkaia y 1.144 € en Ourense, casi 800 € de diferencia. La de España, 1.578 €, y solo 17 de las 52 provincias la superan. ¿Cómo está la tuya?
 
 ${L('provincia', 'x')}`,
   },
   {
     id: 'provincia-fb', red: 'facebook', pilar: 'La cifra que te toca', fuente: '/datos/pension-media-provincia/',
-    cifra: { ante: 'La cifra', antes: 'Pensión media de jubilación en España, septiembre de 2026', grande: '1.576,10 €', despues: 'Bizkaia, la más alta: 1.941,48 €. Ourense, la más baja: 1.142,35 €.', fuente: 'Seguridad Social, nómina de septiembre de 2026.', corto: 'provincia' },
-    texto: `La pensión media de jubilación en España era de 1.576,10 euros al mes en septiembre de 2026. Pero cambia mucho según dónde vivas.
+    cifra: { ante: 'La cifra', antes: 'Pensión media de jubilación en España, octubre de 2026', grande: '1.577,61 €', despues: 'Bizkaia, la más alta: 1.943,10 €. Ourense, la más baja: 1.144,37 €.', fuente: 'Seguridad Social, nómina de octubre de 2026.', corto: 'provincia' },
+    texto: `La pensión media de jubilación en España era de 1.577,61 euros al mes en octubre de 2026. Pero cambia mucho según dónde vivas.
 
-Las más altas: Bizkaia (1.941 euros), Álava (1.925), Gipuzkoa (1.858), Asturias (1.839) y Madrid (1.799). Las más bajas: Ourense (1.142), Lugo (1.242), Almería (1.299), Jaén (1.319) y Cáceres (1.321).
+Las más altas: Bizkaia (1.943 euros), Álava (1.927), Gipuzkoa (1.860), Asturias (1.840) y Madrid (1.800). Las más bajas: Ourense (1.144), Lugo (1.244), Almería (1.300), Jaén (1.320) y Cáceres (1.322).
 
-Las diferencias vienen sobre todo de carreras de cotización más largas y sueldos más altos en las zonas industriales, frente a provincias con más peso del campo y de los autónomos. Y es la media de todas las pensiones que se cobran hoy: quien se jubila ahora cobra de media unos 1.711 euros.
+Las diferencias vienen sobre todo de carreras de cotización más largas y sueldos más altos en las zonas industriales, frente a provincias con más peso del campo y de los autónomos. Y es la media de todas las pensiones que se cobran hoy: quien se jubiló en septiembre empezó cobrando de media unos 1.758 euros.
 
 ¿Cómo está tu provincia? La tabla completa, con las 52, está en la web. El enlace, en la información de esta página.`,
   },
@@ -100,21 +100,21 @@ Las diferencias vienen sobre todo de carreras de cotización más largas y sueld
     id: 'provincia-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'La cifra que te toca', fuente: '/datos/pension-media-provincia/',
     diapositivas: [
       'Pensión media de jubilación por provincia: dónde se cobra más y dónde menos.',
-      'España: 1.576,10 € al mes de media en septiembre de 2026.',
-      'Bizkaia: 1.941,48 € al mes, la más alta.',
-      'Le siguen Álava, 1.925 €; Gipuzkoa, 1.858 €; Asturias, 1.839 €, y Madrid, 1.799 €.',
-      'Ourense: 1.142,35 € al mes, la más baja.',
-      'Por la cola, Lugo, 1.242 €; Almería, 1.299 €; Jaén, 1.319 €, y Cáceres, 1.321 €.',
+      'España: 1.577,61 € al mes de media en octubre de 2026.',
+      'Bizkaia: 1.943,10 € al mes, la más alta.',
+      'Le siguen Álava, 1.927 €; Gipuzkoa, 1.860 €; Asturias, 1.840 €, y Madrid, 1.800 €.',
+      'Ourense: 1.144,37 € al mes, la más baja.',
+      'Por la cola, Lugo, 1.244 €; Almería, 1.300 €; Jaén, 1.320 €, y Cáceres, 1.322 €.',
       'Solo 17 de las 52 provincias superan la media de España.',
       'Busca la tuya en la tabla de Jubilómetro (enlace en la biografía).',
     ],
-    texto: `De 1.941 € en Bizkaia a 1.142 € en Ourense: la pensión media de jubilación en las 52 provincias. Tabla completa en la biografía.
+    texto: `De 1.943 € en Bizkaia a 1.144 € en Ourense: la pensión media de jubilación en las 52 provincias. Tabla completa en la biografía.
 
 #pensiones #jubilacion #espana #datos`,
   },
   {
     id: 'provincia-wa', red: 'whatsapp', pilar: 'La cifra que te toca', fuente: '/datos/pension-media-provincia/',
-    texto: `Un dato para comparar: la pensión media de jubilación era de 1.576,10 € en septiembre de 2026, de 1.941 € en Bizkaia a 1.142 € en Ourense. La tabla de las 52 provincias, actualizada cada mes:
+    texto: `Un dato para comparar: la pensión media de jubilación era de 1.577,61 € en octubre de 2026, de 1.943 € en Bizkaia a 1.144 € en Ourense. La tabla de las 52 provincias, actualizada cada mes:
 
 ${L('provincia', 'wa')}`,
   },

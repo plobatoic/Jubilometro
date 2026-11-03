@@ -57,7 +57,13 @@ La pidió el titular el 3/11/2026: cada día, a la misma hora, revisar la web de
   - las guías, con `npm run subir -- --solo=…`;
   - el tema, con `npm run subir-tema` (con la versión nueva en `style.css` y `functions.php`).
 - **Después**: comprobar en vivo, apuntar en `publicacion/PLAN-PUBLICACION.md` y hacer commit y push.
-- **Contárselo al titular**, en español sencillo:
-  - si todo está bien, una línea;
-  - si se ha arreglado algo, qué y por qué;
-  - si algo necesita su decisión, preguntarlo.
+- **Informe del día** (lo pidió el titular el 3/11/2026). Se hace siempre, también si todo está bien:
+  - se copia `publicacion/revision/PLANTILLA.md` a `publicacion/revision/AAAA-MM-DD.md` y se rellena con números reales;
+  - va en el mismo commit que los arreglos;
+  - se le entrega en el chat en español sencillo: estado (verde, ámbar o rojo), qué se ha revisado, qué se ha arreglado y por qué, novedades oficiales, redes, lo que necesita su decisión y lo que viene.
+
+## 7. Redes sociales
+
+- Instagram (@jubilometro) y X (@Jubilometro) están abiertos. Facebook falta: el enlace que dio el titular es su perfil personal, y hace falta una página de Jubilómetro.
+- Los perfiles se enlazan en la web (opción `jm_redes`: pie, «Síguenos» y `sameAs`) cuando tengan foto, biografía y alguna publicación. Nunca se enlaza un perfil personal.
+- Si hay un conector de programación (Metricool u otro), se comprueba que haya publicaciones programadas para los próximos días según `publicacion/redes/programado/`. Antes de programar una, se comprueba que sus cifras coinciden con la guía de la que sale.

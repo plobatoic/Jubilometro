@@ -1,7 +1,10 @@
 // Reparte el banco de publicaciones (herramientas/redes/banco) y las del primer mes que sirven cualquier día
 // en un calendario que empieza el día que le digas: el de la aprobación de la web.
 //
-// Uso: node herramientas/redes/programar.mjs --inicio=AAAA-MM-DD [--semanas=12] [--carpeta=programado]
+// Uso: node herramientas/redes/programar.mjs --inicio=AAAA-MM-DD [--semanas=12] [--carpeta=programado] [--redes=x,facebook,instagram]
+//
+// Con --redes solo reparte las redes que ya están abiertas (por defecto, todas: x, facebook, grupo, instagram,
+// linkedin, whatsapp y video).
 //
 // Deja en publicacion/redes/<carpeta>/: programa.mjs (cada publicación con su día y su hora), calendario.html
 // (para trabajar día a día, con botones de copiar) y metricool.csv (X, Facebook y LinkedIn, como borrador).
@@ -52,10 +55,16 @@ const RITMO = {
   whatsapp: (d) => ([2, 5].includes(d) ? ['10:00'] : []),
   video: (d) => ([1, 3, 5].includes(d) ? ['13:00'] : []),
 };
+const ACTIVAS = arg('redes', Object.keys(RITMO).join(',')).split(',').filter(Boolean);
+if (!ACTIVAS.length || ACTIVAS.some((r) => !RITMO[r])) {
+  console.error(`--redes: elige entre ${Object.keys(RITMO).join(', ')}`);
+  process.exit(1);
+}
+const abierta = (p) => ACTIVAS.includes(p.red);
 const HORA = { x: '09:00', facebook: '11:00', grupo: '10:00', instagram: '19:00', linkedin: '08:30', whatsapp: '10:00', video: '13:00' };
 const huecos = [];
 for (let f = INICIO; f <= FIN; f = mas(f, 1)) {
-  for (const red of Object.keys(RITMO)) for (const hora of RITMO[red](dia(f).getUTCDay())) huecos.push({ fecha: f, hora, red });
+  for (const red of ACTIVAS) for (const hora of RITMO[red](dia(f).getUTCDay())) huecos.push({ fecha: f, hora, red });
 }
 
 /* ---------- Imágenes y carpetas ya hechas ---------- */
@@ -88,14 +97,14 @@ const mes1 = MES1.map((p, i) => ({ ...p, id: `mes1-${String(i + 1).padStart(2, '
 const lanzamiento = [
   ...BANCO.filter((p) => p.lanzamiento).map((p) => conImagenes(p)),
   ...mes1.filter((p) => p.lanzamiento).map(({ fecha, hora, banco, ...p }) => conImagenes(p, fecha)),
-];
+].filter(abierta);
 const traeBienvenida = lanzamiento.some((p) => p.red === 'whatsapp');
-const fijas = mes1.filter((p) => p.banco === 'fijo' && p.fecha >= INICIO && p.fecha <= FIN && !(p.bienvenida && traeBienvenida))
+const fijas = mes1.filter((p) => abierta(p) && p.banco === 'fijo' && p.fecha >= INICIO && p.fecha <= FIN && !(p.bienvenida && traeBienvenida))
   .map(({ banco, ...p }) => conImagenes(p, p.fecha));
 const bolsa = [
   ...BANCO.filter((p) => !p.lanzamiento).map((p) => conImagenes(p)),
   ...mes1.filter((p) => p.banco === 'perenne' && !p.lanzamiento).map(({ fecha, hora, banco, ...p }) => conImagenes(p, fecha)),
-].filter(hayVideo);
+].filter((p) => abierta(p) && hayVideo(p));
 
 /* ---------- Reparto ---------- */
 const programa = [];
@@ -169,7 +178,7 @@ const MES = {
 };
 const salida = join(RAIZ, 'publicacion', 'redes', CARPETA);
 mkdirSync(salida, { recursive: true });
-writeFileSync(join(salida, 'programa.mjs'), `// Generado con: node herramientas/redes/programar.mjs --inicio=${INICIO} --semanas=${SEMANAS}${CARPETA !== 'programado' ? ` --carpeta=${CARPETA}` : ''}
+writeFileSync(join(salida, 'programa.mjs'), `// Generado con: node herramientas/redes/programar.mjs --inicio=${INICIO} --semanas=${SEMANAS}${CARPETA !== 'programado' ? ` --carpeta=${CARPETA}` : ''}${arg('redes') ? ` --redes=${ACTIVAS.join(',')}` : ''}
 // No lo edites a mano: cambia el banco (herramientas/redes/banco) y vuelve a generarlo.
 export const MES = ${JSON.stringify(MES, null, 1)};
 

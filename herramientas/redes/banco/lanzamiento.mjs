@@ -15,11 +15,11 @@ Empieza por tu edad de jubilación: ${L('edad', 'x')}`,
     id: 'bienvenida-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Presentación', lanzamiento: 1, fuente: '/',
     diapositivas: [
       'Esto es Jubilómetro: las cifras de tu pensión, con su norma y su fecha.',
-      'Guías: 139 sobre jubilación, viudedad, incapacidad, dependencia, ayudas e Imserso.',
+      'Guías: 146 sobre jubilación, viudedad, incapacidad, dependencia, ayudas e Imserso.',
       'Calculadoras: 11 gratuitas, sin registro, para tu edad, tu pensión, la viudedad o la incapacidad.',
       'Cada cifra lleva la norma de la que sale y la fecha en que la comprobamos.',
       'Aquí publicaremos carruseles como este con lo que cambia: la subida, la paga extra, el Imserso o la dependencia.',
-      'Las dudas sobre tu caso, en nuestro grupo de Facebook, sin datos personales.',
+      '¿Una duda general? Déjala en los comentarios, sin datos personales, y la contestamos con la norma.',
       'Para empezar, la calculadora de edad te dice el mes exacto en que te puedes jubilar.',
       'Síguenos y compártelo con quien esté cerca de jubilarse. Todo, en Jubilómetro (enlace en la biografía).',
     ],
@@ -49,7 +49,7 @@ Las respuestas son orientativas: la cifra exacta de tu pensión solo te la da el
     id: 'presentacion-li', red: 'linkedin', pilar: 'Presentación', lanzamiento: 1, fuente: '/',
     texto: `Presentamos Jubilómetro, una web de guías y calculadoras sobre jubilación y pensiones en España.
 
-139 guías y 11 calculadoras gratuitas sobre jubilación, viudedad, incapacidad permanente, dependencia, ayudas e Imserso. Cada cifra lleva la norma de la que sale (BOE, Seguridad Social, INE, Imserso) y la fecha en que se comprobó, y cada guía tiene su historial de cambios.
+146 guías y 11 calculadoras gratuitas sobre jubilación, viudedad, incapacidad permanente, dependencia, ayudas e Imserso. Cada cifra lleva la norma de la que sale (BOE, Seguridad Social, INE, Imserso) y la fecha en que se comprobó, y cada guía tiene su historial de cambios.
 
 En esta página compartiremos novedades normativas y datos útiles para asesorías laborales, despachos, trabajadoras sociales y equipos de recursos humanos. Las calculadoras se pueden insertar gratis en cualquier web.
 

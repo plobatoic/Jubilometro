@@ -362,7 +362,7 @@ ${L('pedir-jubilacion', 'x')}`,
       'Cuándo: en los 3 meses anteriores o posteriores a la fecha en que dejes de trabajar.',
       'Así cobras desde el día siguiente al cese, sin perder ningún mes.',
       'Papeles: casi siempre basta con el DNI, la cuenta del banco y la solicitud.',
-      'La Seguridad Social tiene 90 días para resolver. En julio de 2026 tardó de media 7,46 días.',
+      'La Seguridad Social tiene 90 días para resolver. En septiembre de 2026 tardó de media 9,63 días.',
       'Guárdalo para el día que te toque. Paso a paso en Jubilómetro (enlace en la biografía).',
     ],
     texto: `Pedir la jubilación por internet es más sencillo de lo que parece, incluso sin certificado digital. Paso a paso en la guía de la biografía.
@@ -393,7 +393,7 @@ En la web tienes la lista para imprimir e ir marcando lo que ya tienes. El enlac
   },
   {
     id: 'cuanto-tarda-x', red: 'x', pilar: 'Trámites sin líos', fuente: '/jubilacion/cuanto-tarda-jubilacion/',
-    texto: `¿Cuánto tarda la Seguridad Social en reconocer la jubilación? Tiene 90 días, pero en julio de 2026 la media fue de 7,46 días. Y si se retrasa, cobras los atrasos desde la fecha de efectos de tu pensión.
+    texto: `¿Cuánto tarda la Seguridad Social en reconocer la jubilación? Tiene 90 días, pero en septiembre de 2026 la media fue de 9,63 días. Y si se retrasa, cobras los atrasos desde la fecha de efectos de tu pensión.
 
 ${L('cuanto-tarda', 'x')}`,
   },

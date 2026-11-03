@@ -24,7 +24,7 @@ const DEL_BANCO = args.includes('--banco');
 // Del banco solo salen carruseles e imágenes con la cifra: el perfil y las portadas son del kit
 const quiero = (k) => (!DEL_BANCO || ['carruseles', 'cifras'].includes(k)) && (!SOLO.length || SOLO.includes(k));
 const SALIDA = join(RAIZ, 'publicacion', 'redes', DEL_BANCO ? 'banco' : 'kit');
-const NAVEGADOR = process.env.CHROMIUM || '/opt/pw-browsers/chromium-1194/chrome-linux/chrome';
+const NAVEGADOR = process.env.CHROMIUM || '/opt/pw-browsers/chromium';
 const { PUBLICACIONES } = DEL_BANCO ? { PUBLICACIONES: (await import('../banco/index.mjs')).BANCO } : await import(pathToFileURL(MES).href);
 const LISTA_CIFRAS = DEL_BANCO
   ? PUBLICACIONES.filter((p) => p.cifra).map((p) => ({ archivo: p.id, nombre: `${p.id} (${p.red})`, ante: 'La cifra', ...p.cifra }))

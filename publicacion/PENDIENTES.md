@@ -1,6 +1,6 @@
 # Pendientes de Jubilómetro
 
-Guardado el 12 de octubre de 2026. Cuando retomemos las redes, seguimos por el **paso 1**: un paso cada vez, sin pasar al siguiente hasta terminar el anterior.
+Guardado el 12 de octubre de 2026 y puesto al día el 3 de noviembre. El 3/11 el titular abrió Instagram y X y pidió que las redes las gestione Claude: el calendario ya no espera a la aprobación de la web y empieza el **5 de noviembre** (`publicacion/redes/programado/`).
 
 ## Ruta para abrir las redes, paso a paso
 
@@ -9,15 +9,16 @@ Revisada el 30/10/2026 con el informe de nichos: los mayores de 55 usan sobre to
 | Paso | Qué | Estado |
 |---|---|---|
 | 1 | Correo de Jubilómetro: **hola@jubilometro.com** (Hostinger, prueba gratuita hasta el 30/10/2027), con alias contacto@ y pau@ y reenvío confirmado al Gmail personal | Hecho el 30/10 |
-| 2 | Página de Facebook (desde tu perfil personal de Facebook, que queda como administrador oculto) | Empezado el 30/10 |
+| 2 | Página de Facebook «Jubilómetro» (desde tu perfil personal de Facebook, que queda como administrador oculto) | Falta: el enlace que llegó el 3/11 (`profile.php?id=61596279657717`) es el perfil personal «Pau Lobato Capdevila», no una página. No se enlaza en la web |
 | 3 | Canal de WhatsApp | Pendiente |
 | 4 | Canal de YouTube (con el Gmail del paso 1) | Pendiente |
-| 5 | X (Twitter): avisos rápidos de novedades (BOE, IPC, subida) y para que te encuentren periodistas | Pendiente |
+| 5 | X (Twitter): avisos rápidos de novedades (BOE, IPC, subida) y para que te encuentren periodistas | Abierto: **x.com/Jubilometro** (3/11). Falta la foto (tiene la «P» por defecto), la biografía, la ubicación, la cabecera y el enlace `jubilometro.com/web/x` (`kit/biografias.md`, apartado 5) |
 | 6 | Grupo de Facebook «Jubilación y pensiones: dudas resueltas», vinculado a la página | Pendiente |
-| 7 | Pasarme las direcciones de los perfiles para ponerlas en la web (pie, bloque de compartir y datos para Google) | Pendiente |
-| 8 | Programar: Meta Business Suite (Facebook, gratis), YouTube Studio y X; o Metricool para todo junto | Pendiente |
+| 7 | Pasarme las direcciones de los perfiles para ponerlas en la web (pie, bloque de compartir y datos para Google) | Recibidas el 3/11. Instagram y X se enlazan en la web en cuanto tengan foto y biografía (lo comprueba la revisión diaria) |
+| 8 | Programar: **Metricool** conectado en claude.ai (Ajustes → Conectores), con Instagram, X y la página de Facebook enlazados dentro de Metricool. Con eso Claude programa y mira las estadísticas | Pendiente: lo hace el titular |
 | 9 | Rutina semanal: 3 publicaciones en Facebook, 2-3 avisos en WhatsApp, 1-2 vídeos cortos en YouTube, 1 aviso al día en X, contestar en el grupo | Pendiente |
-| 10 | Más adelante: Instagram (enlazado a la página de Facebook), TikTok y LinkedIn | Cuando 2-6 funcionen |
+| 10 | Instagram (cuenta profesional, enlazada a la página de Facebook cuando exista) | Abierto: **instagram.com/jubilometro** (3/11), sin foto, sin biografía y sin publicaciones. Textos en `kit/biografias.md`, apartado 3 |
+| 11 | Más adelante: TikTok y LinkedIn | Cuando las demás funcionen |
 
 ### Paso 1 · Crear un correo solo para Jubilómetro (unos 10 minutos)
 
@@ -61,9 +62,9 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 ### En fechas concretas
 
 7. **30 de octubre, 13 y 27 de noviembre** (días del IPC): escribirme «IPC» (el del 14 de octubre ya está hecho: el definitivo de septiembre confirmó el 4,9 %). Actualizo la subida de 2027, la calculadora, las imágenes y lo que va entre corchetes en las publicaciones. Si lo prefieres, lo dejo programado para que se haga solo esos días.
-8. **El día que aprueben la web:** decirme la fecha. Con ella hago el calendario de 12 semanas del banco (`publicacion/redes/banco/LEEME.md`).
-9. **El primer día de redes:** publicar la presentación en todas y fijar arriba la de X y las normas del grupo.
-10. **Metricool:** importar el CSV del calendario. Antes, probar con dos filas.
+8. **Calendario de redes (hecho el 3/11):** 12 semanas desde el 5/11/2026 para X e Instagram (`node herramientas/redes/programar.mjs --inicio=2026-11-05 --redes=x,instagram`): 144 en X y 37 carruseles. Cuando exista la página de Facebook, se rehace desde ese día con `--redes=x,instagram,facebook`.
+9. **El primer día de redes:** la presentación de X se fija arriba del perfil.
+10. **Metricool:** con el conector, Claude programa las publicaciones; sin él, se importa `publicacion/redes/programado/metricool.csv` (antes, probar con dos filas).
 11. **Instagram:** subir cada carrusel, con sus imágenes en orden y el texto de su tarjeta.
 12. **Vídeos:** subirlos a TikTok, Reels y Shorts con su texto, y añadirles música de la biblioteca de la app.
 13. **Desde enero de 2027:** si una publicación sale con aviso amarillo (importes de 2026), comprobar la cifra en la guía o pedirme que la actualice.
