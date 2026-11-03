@@ -15,7 +15,7 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/sobre-nosotros/
 - jubilometro.com/metodologia/
 
-## Tanda 2 (pendiente)
+## Tanda 2 (enviada el 3/11/2026)
 
 - jubilometro.com/
 - jubilometro.com/jubilacion/
