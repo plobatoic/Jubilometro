@@ -126,4 +126,4 @@ Falta, lo hace el titular:
 - Grupo: las preguntas de entrada dependen de activar «Aprobación de participantes». Recomendación: dejarlo abierto mientras no haya spam.
 - YouTube ya está conectado en Metricool (canal @jubilometro).
 
-- **Vídeos de YouTube:** 6 Shorts preparados en Metricool como borrador (`publicacion/redes/programado/metricool-programadas.md`). No se publican hasta que Pau diga que sí. La revisión diaria no programa vídeos mientras tanto.
+- **Vídeos de YouTube:** activados por Pau el 4/11. Shorts lunes, miércoles y viernes a las 13:00 desde el 6/11 (`publicacion/redes/programado/metricool-programadas.md`).

@@ -42,17 +42,17 @@ Cuenta de Typefully: social set **357816** (@Jubilometro). Plan gratis: pocas pu
 | 2026-11-10 | 09:00 | mes1-75 (hilo de la paga extra) | 11682028 |
 | 2026-11-12 | 09:00 | provincia-x | 11682031 |
 
-## YouTube (Metricool) · en BORRADOR desde el 4/11/2026, sin publicar
+## YouTube (Metricool) · programados el 4/11/2026 (Pau dio el sí)
 
-Metricool tiene enlazado el canal correcto (@jubilometro, UCn_8vJ7sx_TQRKI0biI-8Dw). Se prepararon 6 Shorts con las cifras repasadas contra sus guías, pero Pau pidió no programar vídeos todavía: están como **borrador** y no se publican. Para soltarlos hace falta que Pau lo confirme; entonces se pasan a programados (`draft: false`), moviendo las fechas si ya han pasado.
+Metricool tiene enlazado el canal correcto (@jubilometro, UCn_8vJ7sx_TQRKI0biI-8Dw). Se prepararon 6 Shorts con las cifras repasadas contra sus guías, estuvieron en borrador hasta que Pau confirmó el 4/11; ya están programados. Lunes, miércoles y viernes a las 13:00.
 
 | Fecha prevista | Hora | Vídeo | Id en Metricool |
 |---|---|---|---|
-| 2026-11-06 | 13:00 | video-05-naciste-1960 | 415899384 |
-| 2026-11-09 | 13:00 | video-13-sovi | 415899472 |
-| 2026-11-11 | 13:00 | video-14-auxilio-defuncion | 415899547 |
-| 2026-11-13 | 13:00 | video-15-baja | 415899660 |
-| 2026-11-16 | 13:00 | video-31-teleasistencia | 415899711 |
-| 2026-11-18 | 13:00 | video-11-tarjeta-dorada | 415899744 |
+| 2026-11-06 | 13:00 | video-05-naciste-1960 | 415903476 |
+| 2026-11-09 | 13:00 | video-13-sovi | 415903521 |
+| 2026-11-11 | 13:00 | video-14-auxilio-defuncion | 415903566 |
+| 2026-11-13 | 13:00 | video-15-baja | 415903599 |
+| 2026-11-16 | 13:00 | video-31-teleasistencia | 415903635 |
+| 2026-11-18 | 13:00 | video-11-tarjeta-dorada | 415903667 |
 
 Repaso de cifras (4/11): los 36 vídeos coinciden con sus guías. El 01 (subida de 2027 con el IPC hasta septiembre) se deja fuera de YouTube porque la cifra cambia el 13 y el 27 de noviembre.
