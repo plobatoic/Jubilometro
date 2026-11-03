@@ -113,3 +113,15 @@ Sin fecha fija: cifras del Imserso y teléfonos cada trimestre, y más guías co
 
 - **3/11/2026:** el correo de contacto de la web se queda como está (no se cambia a hola@jubilometro.com).
 - **3/11/2026:** pide que Claude gestione todas las redes, perfiles incluidos. Los perfiles (foto, portada, biografía, enlace y crear la página de Facebook) no se pueden tocar con los conectores actuales: Metricool y vidIQ solo publican y miden. Opciones: que el titular lo haga con `publicacion/redes/kit/biografias.md`, o que Claude lo haga desde la app de escritorio con Claude in Chrome o con el uso del ordenador, con las sesiones ya abiertas en su navegador y sin pedir contraseñas.
+
+## Perfiles de redes (3/11/2026, hechos con Claude in Chrome)
+
+Enlazados en la web (pie, «Síguenos» y sameAs) desde el 3/11: facebook.com/jubilometro, instagram.com/jubilometro, x.com/Jubilometro y youtube.com/@jubilometro. Grupo: facebook.com/groups/2316247379220338.
+
+Falta, lo hace el titular:
+- **Instagram muestra una dirección postal en el perfil.** Si es su domicilio, quitarla en Editar perfil (app).
+- Enlace de Instagram desde la app: `https://jubilometro.com/web/ig`, título «Calculadoras y guías».
+- Nombre de la página de Facebook con tilde («Jubilómetro»): Configuración de la página → Nombre (pide contraseña; revisión de hasta 3 días y luego 60 días sin poder cambiarlo).
+- Canal de WhatsApp, TikTok y LinkedIn: iniciar sesión en WhatsApp Web y LinkedIn y registrar TikTok; después se completan con el encargo (`publicacion/redes/kit/ENCARGO-PERFILES.md`, apartados 5, 7 y 8).
+- Grupo: las preguntas de entrada dependen de activar «Aprobación de participantes». Recomendación: dejarlo abierto mientras no haya spam.
+- YouTube en Metricool: conectarlo dentro de Metricool si el plan lo permite, para programar vídeos cortos.
