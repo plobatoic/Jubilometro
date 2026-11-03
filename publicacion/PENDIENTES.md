@@ -39,7 +39,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 
 ### Ya, sin esperar a nada
 
-1. **Search Console, cada día (desde el 2/11/2026):** la tarea «Tanda diaria de Search Console» (8:57, hora de Madrid) manda 10 direcciones al día de `publicacion/search-console/tandas.md` (18 tandas). Tanda 1 enviada el 2/11.
+1. **Revisión diaria completa (desde el 4/11/2026, 8:57 hora de Madrid):** la tarea «Revisión diaria completa de Jubilómetro» revisa toda la web cada mañana con la lista de `herramientas/revision/LEEME.md`, arregla lo que encuentre y lo cuenta. Sustituye a las tandas de Search Console: el 3/11 el titular confirmó que todas las páginas están indexadas (`publicacion/search-console/tandas.md` queda como historial).
    **Antes:** pedir a Google que lea las guías nuevas. En Search Console (search.google.com/search-console), pega cada dirección en la barra de arriba y pulsa «Solicitar indexación». Una a una (Google deja unas 10 al día):
    - jubilometro.com/jubilacion/prejubilacion/
    - jubilometro.com/jubilacion/numero-seguridad-social/

@@ -1,5 +1,7 @@
 # Tandas para Google Search Console
 
+**Terminado el 3/11/2026:** el titular confirma que todas las páginas están indexadas. La tarea diaria pasa a ser la revisión completa de la web (`herramientas/revision/LEEME.md`).
+
 Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccionar cualquier URL» → «Solicitar indexación»). La tarea diaria «Tanda diaria de Search Console» manda la siguiente tanda pendiente y la marca como enviada. Sin páginas legales ni de contacto.
 
 ## Tanda 1 (enviada el 2/11/2026)
