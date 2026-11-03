@@ -108,3 +108,8 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | 1 de enero de 2027 | Gran actualización: mínimas, no contributiva, bases, títulos 2026 → 2027 y 67 años; en la portada, quitar «Novedad» de la calculadora de la subida y renovar «Ahora mismo» |
 
 Sin fecha fija: cifras del Imserso y teléfonos cada trimestre, y más guías con demanda. Las del número de la Seguridad Social, prejubilación y emigrantes retornados ya están publicadas (12 de octubre), con sus publicaciones en el banco de redes.
+
+## Decisiones del titular
+
+- **3/11/2026:** el correo de contacto de la web se queda como está (no se cambia a hola@jubilometro.com).
+- **3/11/2026:** pide que Claude gestione todas las redes, perfiles incluidos. Los perfiles (foto, portada, biografía, enlace y crear la página de Facebook) no se pueden tocar con los conectores actuales: Metricool y vidIQ solo publican y miden. Opciones: que el titular lo haga con `publicacion/redes/kit/biografias.md`, o que Claude lo haga desde la app de escritorio con Claude in Chrome o con el uso del ordenador, con las sesiones ya abiertas en su navegador y sin pedir contraseñas.
