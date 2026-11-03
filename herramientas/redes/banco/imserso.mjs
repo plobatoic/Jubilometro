@@ -107,7 +107,7 @@ Un grado oficial sin bachillerato: con la prueba de acceso para mayores de 25 o 
 
 Y la educación de personas adultas: cursos públicos en los centros de tu comunidad.
 
-¿Alguien del grupo está estudiando ahora? ${FB_WEB}`,
+¿Alguno de vosotros está estudiando ahora? ${FB_WEB}`,
   },
   {
     id: 'viajes-imserso-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'La cifra que te toca', fuente: '/imserso/viajes-imserso/', hasta: '2027-05-31',

@@ -75,7 +75,7 @@ Todas aquí: ${L('calcular', 'x')}`,
 ¿Y si no puedo trabajar? La de incapacidad permanente.
 ¿Me llegará con la pensión? La de cuánto ahorrar.
 
-Las tienes todas en la web. El enlace está en la información de esta página.`,
+Las tienes todas en la web. El enlace, en el primer comentario.`,
   },
   {
     id: 'metodo-x', red: 'x', pilar: 'Presentación', lanzamiento: 3, fuente: '/metodologia/',

@@ -94,7 +94,7 @@ Las más altas: Bizkaia (1.943 euros), Álava (1.927), Gipuzkoa (1.860), Asturia
 
 Las diferencias vienen sobre todo de carreras de cotización más largas y sueldos más altos en las zonas industriales, frente a provincias con más peso del campo y de los autónomos. Y es la media de todas las pensiones que se cobran hoy: quien se jubiló en septiembre empezó cobrando de media unos 1.758 euros.
 
-¿Cómo está tu provincia? La tabla completa, con las 52, está en la web. El enlace, en la información de esta página.`,
+¿Cómo está tu provincia? La tabla completa, con las 52, está en la web. El enlace, en el primer comentario.`,
   },
   {
     id: 'provincia-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'La cifra que te toca', fuente: '/datos/pension-media-provincia/',

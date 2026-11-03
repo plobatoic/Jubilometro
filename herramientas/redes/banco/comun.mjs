@@ -3,5 +3,5 @@
 // de la web saben de qué publicación llega cada visita. En Facebook no van enlaces.
 
 export const L = (codigo, red) => `jubilometro.com/${codigo}${red ? `/${red}` : ''}`;
-export const FB_WEB = 'Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.';
+export const FB_WEB = 'Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.';
 export const IG_BIO = 'Enlace en la biografía.';

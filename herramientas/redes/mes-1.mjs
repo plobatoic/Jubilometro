@@ -11,7 +11,7 @@
 // «bienvenida: true» = es el saludo del canal: no sale si el lanzamiento ya trae el suyo.
 
 const L = (codigo, red) => `jubilometro.com/${codigo}${red ? `/${red}` : ''}`;
-const FB_WEB = 'Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.';
+const FB_WEB = 'Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.';
 
 export const MES = {
   titulo: 'Primer mes de redes',
@@ -36,7 +36,7 @@ Pon tu fecha y te da el mes exacto: ${L('edad', 'x')}`,
 
 Cada semana publicaremos aquí las cifras que te afectan: la subida de las pensiones, la paga extra, los plazos del Imserso, la dependencia o la viudedad. Cada dato lleva la norma o el organismo del que sale, y la fecha.
 
-No vendemos nada ni damos consejos personales en público. Si tienes una duda sobre tu caso, pregúntala en nuestro grupo «Jubilación y pensiones: dudas resueltas» (sin datos personales) y te contestamos con la ley en la mano.`,
+No vendemos nada ni damos asesoramiento personal. Si tienes una duda general, déjala en los comentarios, sin datos personales, y te contestamos con la norma en la mano.`,
     imagen: 'Logo de Jubilómetro sobre fondo azul con el texto «Las cifras de tu pensión, con su norma y su fecha».',
   },
   {

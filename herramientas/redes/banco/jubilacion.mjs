@@ -389,7 +389,7 @@ Para una jubilación ordinaria, en la mayoría de los casos basta con el documen
 
 Según tu caso, te pedirán además el libro de familia (si tienes cónyuge o hijos), certificados de empresa (si tu profesión tiene coeficientes reductores), los papeles del despido (en la anticipada involuntaria), el certificado de discapacidad o los periodos trabajados en el extranjero.
 
-En la web tienes la lista para imprimir e ir marcando lo que ya tienes. El enlace está en la información de esta página.`,
+En la web tienes la lista para imprimir e ir marcando lo que ya tienes. El enlace, en el primer comentario.`,
   },
   {
     id: 'cuanto-tarda-x', red: 'x', pilar: 'Trámites sin líos', fuente: '/jubilacion/cuanto-tarda-jubilacion/',
