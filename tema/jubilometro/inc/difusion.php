@@ -31,7 +31,10 @@ function jm_corto_destino( $codigo, $red = '' ) {
 	$cortos = jm_data( 'cortos' );
 	$redes  = jm_cortos_redes();
 	if ( ! isset( $cortos[ $codigo ] ) || ( '' !== $red && ! isset( $redes[ $red ] ) ) ) { return ''; }
-	list( $ruta, $ancla ) = array_pad( explode( '#', $cortos[ $codigo ], 2 ), 2, '' );
+	// Destino propio de una red (inc/data.json → "cortos_red"): jubilometro.com/web/ig lleva a /enlaces/
+	$por_red = (array) jm_data( 'cortos_red' );
+	$destino = ( '' !== $red && isset( $por_red[ $codigo . '/' . $red ] ) ) ? $por_red[ $codigo . '/' . $red ] : $cortos[ $codigo ];
+	list( $ruta, $ancla ) = array_pad( explode( '#', $destino, 2 ), 2, '' );
 	$utm = $red ? array( 'utm_source' => $redes[ $red ][0], 'utm_medium' => $redes[ $red ][1] ) : array( 'utm_medium' => 'enlace-corto' );
 	$utm['utm_campaign'] = $codigo;
 	return add_query_arg( $utm, home_url( $ruta ) ) . ( '' !== $ancla ? '#' . $ancla : '' );
