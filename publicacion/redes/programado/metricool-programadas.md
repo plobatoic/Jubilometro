@@ -29,3 +29,15 @@ Las programa Claude con `node herramientas/redes/metricool.mjs --commit=<SHA> --
 | 2026-11-17 | 11:00 | facebook | subida-fb | 415628494 |
 | 2026-11-18 | 11:00 | facebook | auxilio-fb | 415628554 |
 | 2026-11-18 | 19:00 | instagram | renta-ig | 415628625 |
+
+## X (Typefully) · programado el 3/11/2026
+
+Cuenta de Typefully: social set **357816** (@Jubilometro). Plan gratis: pocas publicaciones al mes, así que solo van las más útiles.
+
+| Fecha | Hora | Publicación | Id en Typefully |
+|---|---|---|---|
+| 2026-11-05 | 09:00 | presentacion-x | 11679925 |
+| 2026-11-06 | 09:00 | sovi-x | 11682025 |
+| 2026-11-08 | 10:00 | mes1-04 (elecciones) | 11682027 |
+| 2026-11-10 | 09:00 | mes1-75 (hilo de la paga extra) | 11682028 |
+| 2026-11-12 | 09:00 | provincia-x | 11682031 |

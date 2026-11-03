@@ -8,7 +8,7 @@ Puesto al día el 3/11/2026. El titular quiere que Claude cree y publique todo, 
 |---|---|---|
 | Facebook (página) | Metricool, marca 7853768: una publicación al día a las 11:00, con el enlace en el primer comentario | Funcionando: programado del 5 al 18/11 |
 | Instagram | Metricool: carrusel de 8 imágenes lunes, miércoles y viernes a las 19:00 | Funcionando: programado del 5 al 18/11 |
-| X | Typefully (plan gratis, pocas publicaciones al mes): solo lo más útil (IPC, subida, BOE, elecciones) | Falta terminar de conectar Typefully en claude.ai |
+| X | Typefully, social set 357816 (plan gratis, pocas publicaciones al mes): solo lo más útil (IPC, subida, BOE, elecciones) | Funcionando: 5 programadas del 5 al 12/11 |
 
 Cada mañana Claude: comprueba las cifras de lo que va a salir contra su guía (`herramientas/redes/comprobar-cifras.mjs`), repone lo programado para tener unos 14 días por delante, mira las estadísticas en Metricool y lo cuenta en el informe diario, con la lista de lo que sale en los próximos 3 días.
 
