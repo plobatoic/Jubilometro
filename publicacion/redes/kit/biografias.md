@@ -141,7 +141,7 @@ Guías y calculadoras gratuitas de jubilación y pensiones en España, también 
 - Acerca de [519]:
 
 ```
-Jubilómetro explica la jubilación y las pensiones en España con las cuentas claras. Tenemos más de 130 guías y 11 calculadoras gratuitas (edad de jubilación, pensión, anticipada, viudedad, pensión neta tras el IRPF y otras), con la norma de la que sale cada dato y la fecha en que lo comprobamos.
+Jubilómetro explica la jubilación y las pensiones en España con las cuentas claras. Tenemos más de 140 guías y 11 calculadoras gratuitas (edad de jubilación, pensión, anticipada, viudedad, pensión neta tras el IRPF y otras), con la norma de la que sale cada dato y la fecha en que lo comprobamos.
 
 Las calculadoras se pueden insertar gratis en cualquier web, sin anuncios ni cookies: útiles para gestorías, asesorías laborales, sindicatos y asociaciones de mayores. Somos una web independiente, no un organismo oficial.
 ```
