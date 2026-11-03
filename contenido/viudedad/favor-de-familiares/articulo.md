@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Pensión en favor de familiares 2026: requisitos y cuantía"
 h1: "Pensión en favor de familiares en 2026: qué hijos, hermanos, nietos, padres o abuelos la cobran y cuánto es"
-meta_descripcion: "Hijos, hermanos, nietos, padres o abuelos que vivían a cargo del fallecido pueden cobrar el 20 % de su base reguladora. Requisitos y mínimas de 2026."
+meta_descripcion: "Pensión en favor de familiares: hijos, hermanos, nietos, padres o abuelos a cargo del fallecido cobran el 20 % de su base reguladora. Requisitos 2026."
 url: /viudedad/favor-de-familiares/
 categoria: Viudedad
 miga: Pensión en favor de familiares
 palabra_clave_principal: pensión en favor de familiares
+palabras_clave_secundarias:
+  - "pension en favor de familiares 2026"
+  - "pension en favor de familiares 2026 requisitos"
+  - "pensión en favor de familiares requisitos"
+  - "pensión en favor de familiares hijos"
 intencion: informativa
 fase_plan: F3 (artículo n.º 44)
 fecha_actualizacion: 2026-10-20

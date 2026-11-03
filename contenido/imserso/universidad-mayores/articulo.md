@@ -1,11 +1,14 @@
 ---
 titulo_seo: "Universidad para mayores: programas, requisitos y cómo entrar"
 h1: "Universidad para mayores: programas sénior, acceso a un grado con 25, 40 o 45 años y cursos gratuitos"
-meta_descripcion: "Desde los 50 o 55 años puedes estudiar en la universidad sin título previo. Y con 25, 40 o 45 años, entrar en un grado oficial. Te explicamos cada opción."
+meta_descripcion: "Universidad para mayores: desde los 50 o 55 años estudias sin título previo, y con 25, 40 o 45 años puedes entrar en un grado oficial. Cada opción explicada."
 url: /imserso/universidad-mayores/
 categoria: IMSERSO
 miga: Universidad para mayores
 palabra_clave_principal: universidad para mayores
+palabras_clave_secundarias:
+  - "universidad para mayores de 60 años"
+  - "universidad para mayores de 50 años"
 intencion: informativa
 fase_plan: F3 (artículo n.º 93)
 fecha_actualizacion: 2026-09-29

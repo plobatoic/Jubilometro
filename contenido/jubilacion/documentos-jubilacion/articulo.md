@@ -6,6 +6,11 @@ url: /jubilacion/documentos-jubilacion/
 categoria: Jubilación
 miga: Documentos para pedir la jubilación
 palabra_clave_principal: documentos para pedir la jubilación
+palabras_clave_secundarias:
+  - "que documentos necesito para pedir la jubilacion"
+  - "documentación para solicitar la jubilación"
+  - "documentos para solicitar pensión jubilación"
+  - "que documentos necesito para jubilarme"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 14)
 fecha_actualizacion: 2026-10-20

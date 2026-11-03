@@ -1,11 +1,16 @@
 ---
-titulo_seo: "MEI y cuota de solidaridad 2026: qué son y cuánto pagas"
+titulo_seo: "Cotización MEI y cuota de solidaridad 2026: cuánto pagas"
 h1: "El MEI y la cuota de solidaridad en 2026: qué son, cuánto te descuentan en la nómina y si dan más pensión"
 meta_descripcion: "El MEI es una cotización del 0,90 % en 2026 (0,15 % a tu cargo) que no da más pensión. La de solidaridad grava el sueldo que pasa de 5.101,20 € al mes."
 url: /cuanto-cobrare/mei-cuota-solidaridad/
 categoria: Cuánto cobraré
 miga: MEI y cuota de solidaridad
 palabra_clave_principal: MEI cotización
+palabras_clave_secundarias:
+  - "mei cotizacion 2026"
+  - "mei cotizacion seguridad social"
+  - "cotizacion mei en nomina"
+  - "cotizacion mei desde cuando se aplica"
 intencion: informativa
 fase_plan: F3 (artículo n.º 36)
 fecha_actualizacion: 2026-09-29

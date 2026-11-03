@@ -6,6 +6,11 @@ url: /incapacidad/grados-incapacidad/
 categoria: Incapacidad
 miga: Grados de incapacidad
 palabra_clave_principal: grados de incapacidad permanente
+palabras_clave_secundarias:
+  - "grados de incapacidad permanente total"
+  - "grados de incapacidad permanente seguridad social"
+  - "grados de incapacidad permanente absoluta"
+  - "grados de incapacidad permanente y cuantías"
 intencion: informativa
 fase_plan: F1 (artículo n.º 45)
 fecha_actualizacion: 2026-11-02

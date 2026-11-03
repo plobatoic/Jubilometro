@@ -6,6 +6,11 @@ url: /incapacidad/incapacidad-y-jubilacion/
 categoria: Incapacidad
 miga: Incapacidad permanente y jubilación
 palabra_clave_principal: incapacidad permanente y jubilación
+palabras_clave_secundarias:
+  - "incapacidad permanente y jubilacion anticipada"
+  - "incapacidad permanente absoluta y jubilacion"
+  - "incapacidad permanente total y jubilacion"
+  - "pension incapacidad permanente y jubilacion"
 intencion: informativa
 fase_plan: F3 (artículo n.º 53)
 fecha_actualizacion: 2026-10-14

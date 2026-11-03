@@ -6,6 +6,8 @@ url: /dependencia/comunitat-valenciana/
 categoria: Dependencia
 miga: Dependencia en la Comunitat Valenciana
 palabra_clave_principal: dependencia Comunitat Valenciana
+palabras_clave_secundarias:
+  - "dependencia comunidad valenciana"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 66)
 fecha_actualizacion: 2026-10-20

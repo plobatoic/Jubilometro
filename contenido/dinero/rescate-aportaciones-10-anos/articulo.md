@@ -6,6 +6,11 @@ url: /dinero/rescate-aportaciones-10-anos/
 categoria: Dinero
 miga: Rescate de aportaciones de más de 10 años
 palabra_clave_principal: rescatar plan de pensiones 10 años
+palabras_clave_secundarias:
+  - "rescatar plan de pensiones 10 años antigüedad"
+  - "rescatar plan de pensiones antes de 10 años"
+  - "puedo rescatar mi plan de pensiones a los 10 años"
+  - "se puede rescatar un plan de pensiones a los 10 años"
 intencion: informativa
 fase_plan: F2 (artículo n.º 81)
 fecha_actualizacion: 2026-09-29

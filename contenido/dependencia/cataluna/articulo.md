@@ -6,6 +6,11 @@ url: /dependencia/cataluna/
 categoria: Dependencia
 miga: Dependencia en Cataluña
 palabra_clave_principal: dependencia Cataluña
+palabras_clave_secundarias:
+  - "dependencia cataluña 2026"
+  - "dependencia cataluña cuando se cobra"
+  - "ley dependencia cataluña"
+  - "ayuda dependencia cataluña"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 65)
 fecha_actualizacion: 2026-11-01

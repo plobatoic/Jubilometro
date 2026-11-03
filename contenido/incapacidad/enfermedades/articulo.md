@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Enfermedades que dan incapacidad permanente y tribunal médico"
 h1: "Enfermedades que dan la incapacidad permanente: por qué no hay una lista, cómo te valora el tribunal médico y qué enfermedades son profesionales"
-meta_descripcion: "No hay lista de enfermedades que den la incapacidad: se valoran tus limitaciones para trabajar. El tribunal médico y las enfermedades profesionales."
+meta_descripcion: "Enfermedades que dan incapacidad permanente: no hay una lista cerrada, se valoran tus limitaciones para trabajar. Cómo decide el tribunal médico."
 url: /incapacidad/enfermedades/
 categoria: Incapacidad
 miga: Enfermedades y tribunal médico
 palabra_clave_principal: enfermedades que dan incapacidad permanente
+palabras_clave_secundarias:
+  - "enfermedades que dan incapacidad permanente absoluta"
+  - "enfermedades por las que dan incapacidad permanente"
+  - "lista de enfermedades que dan incapacidad permanente"
+  - "enfermedades que dan derecho a una incapacidad permanente total"
 intencion: informativa
 fase_plan: F2 (artículo n.º 48)
 fecha_actualizacion: 2026-10-20

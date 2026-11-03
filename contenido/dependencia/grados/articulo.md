@@ -6,6 +6,11 @@ url: /dependencia/grados/
 categoria: Dependencia
 miga: Grados y baremo
 palabra_clave_principal: grados de dependencia
+palabras_clave_secundarias:
+  - "como se valoran los grados de dependencia"
+  - "cuanto grados de dependencia hay"
+  - "que grados de dependencia hay"
+  - "grados de dependencia puntuación"
 intencion: informativa
 fase_plan: F1 (artículo n.º 67)
 fecha_actualizacion: 2026-10-20

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Plazas libres del Imserso: cómo encontrar viaje si se agotan"
 h1: "Plazas libres del Imserso: cómo encontrar viaje cuando tus destinos se han agotado"
-meta_descripcion: "Cada semana vuelven a la venta plazas por cancelaciones e impagos. Cuándo aparecen, cómo reservar desde otra provincia y cómo usar la lista de espera."
+meta_descripcion: "Plazas libres del Imserso: cada semana vuelven a la venta plazas por cancelaciones e impagos. Cuándo salen, cómo reservar en otra provincia y la espera."
 url: /imserso/plazas-libres/
 categoria: IMSERSO
 miga: Plazas libres
 palabra_clave_principal: plazas libres Imserso
+palabras_clave_secundarias:
+  - "plazas libres imserso 2026"
+  - "plazas libres imserso mundicolor"
+  - "plazas libres imserso turismo social"
+  - "plazas libres imserso mundicolor 2026"
 intencion: informativa (estacional)
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
@@ -23,7 +28,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> Que no quedaran plazas el día que te tocaba reservar no significa que te quedes sin viaje. Durante toda la temporada (de octubre de 2026 a junio de 2027) **vuelven a la venta** las plazas que otras personas **cancelan** o **no pagan a tiempo**, sobre todo en torno a **45 días antes** de cada salida.
+> Que no quedaran plazas el día que te tocaba reservar no significa que te quedes sin viaje del Imserso: siempre salen **plazas libres**. Durante toda la temporada (de octubre de 2026 a junio de 2027) **vuelven a la venta** las plazas que otras personas **cancelan** o **no pagan a tiempo**, sobre todo en torno a **45 días antes** de cada salida.
 >
 > Para encontrarlas: mira a menudo el buscador de **turismosocial.es** o **mundicolor.es** con tu DNI y tu clave, busca también **desde otras provincias** (se puede desde que acabó la primera fase de ventas), sé flexible con el **destino y las fechas**, y apúntate a la **lista de espera** si la web te la ofrece. Solo necesitas estar **acreditado**.
 

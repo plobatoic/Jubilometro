@@ -6,6 +6,11 @@ url: /incapacidad/total-cualificada/
 categoria: Incapacidad
 miga: Incapacidad total cualificada
 palabra_clave_principal: incapacidad total cualificada
+palabras_clave_secundarias:
+  - "incapacidad total cualificada requisitos"
+  - "incapacidad permanente total cualificada"
+  - "incapacidad permanente total cualificada 61 años"
+  - "incapacidad permanente total cualificada y jubilación"
 intencion: informativa
 fase_plan: F3 (artículo n.º 51)
 fecha_actualizacion: 2026-10-20

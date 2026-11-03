@@ -6,6 +6,11 @@ url: /viudedad/pareja-de-hecho/
 categoria: Viudedad
 miga: Parejas de hecho
 palabra_clave_principal: pensión de viudedad pareja de hecho
+palabras_clave_secundarias:
+  - "pension de viudedad pareja de hecho requisitos"
+  - "pensión de viudedad pareja de hecho no inscrita"
+  - "pension de viudedad como pareja de hecho"
+  - "pensión de viudedad pareja de hecho con hijos"
 intencion: informativa
 fase_plan: F2 (artículo n.º 38)
 fecha_actualizacion: 2026-10-21

@@ -6,6 +6,11 @@ url: /jubilacion/activa/
 categoria: Jubilación
 miga: Jubilación activa
 palabra_clave_principal: jubilación activa
+palabras_clave_secundarias:
+  - "jubilacion activa 2026"
+  - "jubilacion activa requisitos"
+  - "jubilación activa autónomos"
+  - "jubilación activa autónomos 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 7)
 fecha_actualizacion: 2026-09-27
@@ -107,6 +112,10 @@ No. Ese requisito desapareció el 1 de abril de 2025.
 
 Sí. Los autónomos pueden acogerse con las mismas reglas generales y algunas mejoras si tienen o contratan trabajadores.
 
+### ¿Cómo funciona la jubilación activa?
+
+Te jubilas al menos un año después de tu edad ordinaria y sigues trabajando, por cuenta ajena o como autónomo, a jornada completa o parcial. Mientras trabajas cobras una parte de la pensión, del 45 % con un año de demora al 100 % con cinco o más, y el porcentaje sube 5 puntos por cada 12 meses seguidos en jubilación activa.
+
 ## Fuentes oficiales
 
 - [Real Decreto-ley 11/2024, de mejora de la compatibilidad de la pensión con el trabajo](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917) (BOE).
@@ -123,4 +132,4 @@ Sí. Los autónomos pueden acogerse con las mismas reglas generales y algunas me
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 27 de septiembre de 2026, primera versión.*

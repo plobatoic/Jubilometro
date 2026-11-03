@@ -1,11 +1,14 @@
 ---
 titulo_seo: "Viajes del Imserso 2026-2027: precios, requisitos y plazas"
 h1: "Viajes del Imserso 2026-2027: requisitos, precios y cómo conseguir plaza"
-meta_descripcion: "879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje, cómo se reserva y cómo se reparten las plazas por puntos."
+meta_descripcion: "Viajes del Imserso 2026-2027: 879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje y cómo conseguir plaza."
 url: /imserso/viajes-imserso/
 categoria: IMSERSO
 miga: Viajes del Imserso
 palabra_clave_principal: viajes del Imserso
+palabras_clave_secundarias:
+  - "viajes del imserso 2026"
+  - "viajes del imserso requisitos"
 intencion: informativa (estacional)
 fase_plan: F1 (artículo n.º 90)
 fecha_actualizacion: 2026-10-20
@@ -185,6 +188,10 @@ Sí, si quedan plazas, pero cada viaje a partir del segundo cuesta 100 euros má
 
 El plazo de nuevas solicitudes de la temporada 2026-2027 terminó el 10 de julio de 2026. La próxima convocatoria se publica en el BOE en el primer semestre de 2027, según la [Orden SCB/926/2018](https://www.boe.es/buscar/act.php?id=BOE-A-2018-12399), que regula el programa. Mientras tanto, muchas comunidades autónomas tienen sus propios programas de viajes para mayores.
 
+### ¿Qué incluyen los viajes del Imserso?
+
+Alojamiento en habitación doble, pensión completa (media pensión en los viajes a capitales de provincia), el transporte de ida y vuelta desde la capital de tu provincia (salvo en los viajes sin transporte y en los de capitales), un seguro colectivo, médico en el hotel en los destinos de costa y actividades de animación.
+
 ## Fuentes oficiales
 
 - [Resolución de 4 de junio de 2026 del Imserso, que convoca las plazas de la temporada 2026-2027](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12865) (BOE).
@@ -202,4 +209,4 @@ El plazo de nuevas solicitudes de la temporada 2026-2027 terminó el 10 de julio
 
 *Este artículo es informativo y no sustituye la información oficial del Imserso ni de las empresas que comercializan los viajes, que son las que confirman plazas y precios. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, título de la tabla precisado. 28 de septiembre de 2026, primera versión; 2 de octubre de 2026, temporada en marcha, plazas con animales de compañía y duplicado de la acreditación.*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, título de la tabla precisado. 28 de septiembre de 2026, primera versión; 2 de octubre de 2026, temporada en marcha, plazas con animales de compañía y duplicado de la acreditación.*

@@ -6,6 +6,11 @@ url: /dependencia/aragon/
 categoria: Dependencia
 miga: Dependencia en Aragón
 palabra_clave_principal: dependencia Aragón
+palabras_clave_secundarias:
+  - "dependencia aragon solicitud"
+  - "dependencia aragon telefono"
+  - "dependencia aragon documentos"
+  - "dependencia aragon prestaciones"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

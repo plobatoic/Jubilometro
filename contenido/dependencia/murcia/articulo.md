@@ -6,6 +6,11 @@ url: /dependencia/murcia/
 categoria: Dependencia
 miga: Dependencia en la Región de Murcia
 palabra_clave_principal: dependencia Murcia
+palabras_clave_secundarias:
+  - "dependencia murcia sede electronica"
+  - "dependencia murcia solicitud"
+  - "imas dependencia murcia"
+  - "ley dependencia murcia"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

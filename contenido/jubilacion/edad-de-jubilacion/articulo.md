@@ -2,10 +2,15 @@
 # Ficha de publicación (ver ficha-seo.md para el detalle)
 titulo_seo: "Edad de jubilación en 2027: tabla por año de nacimiento"
 h1: "Edad de jubilación en 2027: tabla por año de nacimiento y años cotizados"
-meta_descripcion: "En 2027 te jubilas a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes."
+meta_descripcion: "Edad de jubilación 2027: a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes."
 url: /jubilacion/edad-de-jubilacion/
 categoria: Jubilación
 palabra_clave_principal: edad de jubilación 2027
+palabras_clave_secundarias:
+  - "edad de jubilacion 2027 españa"
+  - "edad ordinaria de jubilación 2027"
+  - "nueva edad de jubilación 2027"
+  - "edad de jubilacion para 2027"
 intencion: informativa
 fase_plan: F1 (artículo n.º 1 del plan de contenidos)
 fecha_actualizacion: 2026-10-20

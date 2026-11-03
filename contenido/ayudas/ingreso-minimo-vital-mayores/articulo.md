@@ -6,6 +6,9 @@ url: /ayudas/ingreso-minimo-vital-mayores/
 categoria: Ayudas
 miga: Ingreso mínimo vital para mayores
 palabra_clave_principal: ingreso mínimo vital mayores de 65
+palabras_clave_secundarias:
+  - "requisitos ingreso minimo vital mayores de 65 años"
+  - "ingreso mínimo vital mayores de 65 años"
 intencion: informativa
 fase_plan: F3 (artículo n.º 57)
 fecha_actualizacion: 2026-10-20

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Requisitos de los viajes del Imserso: quién puede ir (2026)"
 h1: "Requisitos para los viajes del Imserso: quién puede ir, con quién y cómo acreditarse"
-meta_descripcion: "Jubilados a cualquier edad, viudos desde los 55 y otros pensionistas o parados desde los 60. Resolvemos caso a caso quién puede ir al Imserso y con quién."
+meta_descripcion: "Requisitos de los viajes del Imserso 2026: jubilados a cualquier edad, viudos desde los 55 y otros pensionistas o parados desde los 60. Con quién ir."
 url: /imserso/requisitos-viajes/
 categoria: IMSERSO
 miga: Requisitos de los viajes
 palabra_clave_principal: requisitos viajes Imserso
+palabras_clave_secundarias:
+  - "requisitos viajes imserso 2026"
+  - "requisitos viajes imserso 50 euros"
+  - "requisitos acompañante viajes imserso"
+  - "requisitos edad viajes imserso"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-11-01

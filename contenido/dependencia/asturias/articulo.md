@@ -6,6 +6,11 @@ url: /dependencia/asturias/
 categoria: Dependencia
 miga: Dependencia en Asturias
 palabra_clave_principal: dependencia Asturias
+palabras_clave_secundarias:
+  - "dependencia asturias solicitud"
+  - "dependencia asturias revision"
+  - "dependencia asturias requisitos"
+  - "dependencia asturias grados"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Prestación por cuidados familiares 2026: cuantía y cuidador"
 h1: "Prestación por cuidados en el entorno familiar en 2026: cuánto se cobra, requisitos del cuidador y cotización gratis"
-meta_descripcion: "Si te cuida un familiar, la dependencia te da hasta 455,40 € al mes (grado III), 315,90 € (II) o 180 € (I). Requisitos del cuidador y su cotización pagada."
+meta_descripcion: "Prestación por cuidados en el entorno familiar 2026: hasta 455,40 € al mes en grado III, 315,90 € en el II y 180 € en el I. Requisitos del cuidador."
 url: /dependencia/prestacion-cuidados-familiares/
 categoria: Dependencia
 miga: Cuidados en el entorno familiar
 palabra_clave_principal: prestación cuidados entorno familiar
+palabras_clave_secundarias:
+  - "prestacion economica cuidados entorno familiar"
+  - "cuantia prestacion cuidados entorno familiar"
+  - "prestacion por cuidados entorno familiar"
+  - "qué es prestación económica para cuidados en el entorno familiar"
 intencion: informativa
 fase_plan: F2 (artículo n.º 68)
 fecha_actualizacion: 2026-10-20

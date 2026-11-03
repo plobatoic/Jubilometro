@@ -6,6 +6,11 @@ url: /dependencia/canarias/
 categoria: Dependencia
 miga: Dependencia en Canarias
 palabra_clave_principal: dependencia Canarias
+palabras_clave_secundarias:
+  - "dependencia canarias solicitud"
+  - "ley dependencia canarias"
+  - "pia dependencia canarias"
+  - "ayuda dependencia canarias"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

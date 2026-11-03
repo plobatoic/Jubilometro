@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cuánto dinero necesitas ahorrado para jubilarte en 2026"
 h1: "Cuánto dinero necesitas ahorrado para jubilarte: cómo calcularlo con tu gasto, tu pensión y los años que vivirás"
-meta_descripcion: "Lo que necesitas ahorrar es lo que tu pensión no cubre por los años de jubilación. Datos del INE sobre el gasto de los mayores, fórmula y ejemplos."
+meta_descripcion: "¿Cuánto dinero necesito para jubilarme? Lo que tu pensión no cubre por los años que estarás jubilado. Datos del INE sobre el gasto de los mayores y ejemplos."
 url: /dinero/ahorro-jubilacion/
 categoria: Dinero
 miga: Cuánto ahorrar para jubilarte
 palabra_clave_principal: cuánto dinero necesito para jubilarme
+palabras_clave_secundarias:
+  - "cuanto dinero necesito para jubilarme a los 60"
+  - "cuanto dinero necesito para jubilarme a los 50"
+  - "cuanto dinero necesito para jubilarme a los 40"
+  - "cuanto dinero necesito para jubilarme a los 65 años"
 intencion: informativa
 fase_plan: F2 (artículo n.º 87)
 fecha_actualizacion: 2026-10-14
@@ -24,7 +29,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> Necesitas ahorrado **lo que tu pensión no cubre de tus gastos**, multiplicado por los **años que vas a estar jubilado**. Por ejemplo, si tu pensión se queda **250 euros al mes** por debajo de lo que gastas, en 25 años de jubilación te hacen falta **75.000 euros**, o unos **59.000** si consigues que tus ahorros rindan un 2 % por encima de la inflación.
+> El dinero que necesitas ahorrado para jubilarte es **lo que tu pensión no cubre de tus gastos**, multiplicado por los **años que vas a estar jubilado**. Por ejemplo, si tu pensión se queda **250 euros al mes** por debajo de lo que gastas, en 25 años de jubilación te hacen falta **75.000 euros**, o unos **59.000** si consigues que tus ahorros rindan un 2 % por encima de la inflación.
 >
 > Como referencia, según el INE, los hogares cuyo sustentador tiene 65 años o más gastaron **31.575,53 euros en 2025** (unos 2.631 euros al mes), y una persona de 65 años o más que vive sola, **23.023,82 euros** (unos 1.919 al mes). A los 65 años quedan de media **21,87 años** de vida: 19,87 los hombres y 23,64 las mujeres.
 

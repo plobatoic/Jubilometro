@@ -6,6 +6,8 @@ url: /dependencia/residencias-publicas/
 categoria: Dependencia
 miga: Residencia pública o privada
 palabra_clave_principal: residencia pública o privada
+palabras_clave_secundarias:
+  - "residencias de mayores privadas"
 intencion: informativa
 fase_plan: F2 (artículo n.º 71)
 fecha_actualizacion: 2026-10-20

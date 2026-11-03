@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Declaración de la renta de los jubilados: quién debe hacerla"
 h1: "Declaración de la renta de los jubilados: cuándo estás obligado, qué pensiones tributan y cómo pagar menos"
-meta_descripcion: "Un jubilado con un solo pagador no declara si cobra menos de 22.000 € al año; con dos pagadores, el límite baja a 15.876 €. Qué tributa, mínimos y ejemplos."
+meta_descripcion: "Declaración de la renta de los jubilados: con un solo pagador no declaras si cobras menos de 22.000 € al año; con dos, el límite baja a 15.876 €. Ejemplos."
 url: /dinero/declaracion-renta-jubilados/
 categoria: Dinero
 miga: Renta de los jubilados
 palabra_clave_principal: declaración de la renta jubilados
+palabras_clave_secundarias:
+  - "declaración de la renta 2026 jubilados"
+  - "declaración de la renta 2026 jubilados y pensionistas"
+  - "minimo para hacer la declaracion de la renta jubilados"
+  - "los jubilados presentan declaración anual"
 intencion: informativa
 fase_plan: F1 (artículo n.º 78)
 fecha_actualizacion: 2026-10-20
@@ -23,7 +28,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> Si solo cobras tu pensión y te la paga **un único pagador** (por ejemplo, la Seguridad Social, aunque sean jubilación y viudedad), **no estás obligado a declarar** si cobras **menos de 22.000 euros brutos al año**.
+> **Declaración de la renta de los jubilados:** si solo cobras tu pensión y te la paga **un único pagador** (por ejemplo, la Seguridad Social, aunque sean jubilación y viudedad), **no estás obligado a declarar** si cobras **menos de 22.000 euros brutos al año**.
 >
 > Si tienes **dos o más pagadores** y lo que te paga el segundo (y los demás) **pasa de 1.500 euros**, el límite baja a **15.876 euros**. También baja si cobras una **pensión extranjera** o una pensión compensatoria. La incapacidad permanente absoluta y las ayudas de dependencia no tributan, y a partir de los 65 años tu mínimo exento sube.
 

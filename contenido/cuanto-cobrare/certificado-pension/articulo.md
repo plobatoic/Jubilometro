@@ -6,6 +6,11 @@ url: /cuanto-cobrare/certificado-pension/
 categoria: Cuánto cobraré
 miga: Certificado de pensión
 palabra_clave_principal: certificado de pensión
+palabras_clave_secundarias:
+  - "certificado de pensiones"
+  - "certificado de pensiones seguridad social"
+  - "certificado de pensiones inss"
+  - "certificado de pensiones 2026"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-02

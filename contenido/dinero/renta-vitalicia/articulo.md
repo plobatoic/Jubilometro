@@ -6,6 +6,11 @@ url: /dinero/renta-vitalicia/
 categoria: Dinero
 miga: Renta vitalicia
 palabra_clave_principal: renta vitalicia mayores de 65
+palabras_clave_secundarias:
+  - "renta vitalicia mayores de 65 años venta vivienda"
+  - "renta vitalicia mayores de 65 años"
+  - "renta vitalicia asegurada mayores de 65 años"
+  - "reinversión renta vitalicia mayores de 65 años"
 intencion: informativa
 fase_plan: F3 (artículo n.º 84)
 fecha_actualizacion: 2026-10-20

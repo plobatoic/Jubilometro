@@ -6,6 +6,11 @@ url: /jubilacion/numero-seguridad-social/
 categoria: Jubilación
 miga: Número de la Seguridad Social
 palabra_clave_principal: número de la Seguridad Social
+palabras_clave_secundarias:
+  - "numero de la seguridad social consultar"
+  - "numero de la seguridad social cual es"
+  - "numero de la seguridad social como saberlo"
+  - "numero de la seguridad social con certificado digital"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12

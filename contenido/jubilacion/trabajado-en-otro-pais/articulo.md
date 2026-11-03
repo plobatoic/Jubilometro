@@ -1,11 +1,14 @@
 ---
 titulo_seo: "Jubilación con años trabajados en otro país: cómo se suman"
 h1: "Jubilarse habiendo trabajado en otro país de la UE o de Latinoamérica: cómo se suman los años"
-meta_descripcion: "Si has cotizado en la UE o en países con convenio, esos años se suman a los de España para jubilarte y cada país paga su parte. Cómo funciona y dónde pedirla."
+meta_descripcion: "Jubilación con años trabajados en otro país: lo cotizado en la UE o en países con convenio se suma para jubilarte y cada país paga su parte. Dónde pedirla."
 url: /jubilacion/trabajado-en-otro-pais/
 categoria: Jubilación
 miga: Jubilación con años en otro país
 palabra_clave_principal: jubilación trabajado en otro país
+palabras_clave_secundarias:
+  - "años trabajados para jubilacion españa"
+  - "años trabajados para la jubilación"
 intencion: informativa
 fase_plan: F3 (artículo n.º 21)
 fecha_actualizacion: 2026-10-12

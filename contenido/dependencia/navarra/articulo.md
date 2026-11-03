@@ -6,6 +6,11 @@ url: /dependencia/navarra/
 categoria: Dependencia
 miga: Dependencia en Navarra
 palabra_clave_principal: dependencia Navarra
+palabras_clave_secundarias:
+  - "dependencia navarra telefono"
+  - "dependencia navarra 2026"
+  - "valoración dependencia navarra"
+  - "ayudas dependencia navarra 2026"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-21

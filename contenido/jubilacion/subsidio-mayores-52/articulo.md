@@ -6,6 +6,11 @@ url: /jubilacion/subsidio-mayores-52/
 categoria: Jubilación
 miga: Subsidio para mayores de 52 años
 palabra_clave_principal: subsidio mayores de 52 años
+palabras_clave_secundarias:
+  - "subsidio mayores de 52 años requisitos"
+  - "subsidio mayores de 52 años 2026"
+  - "subsidio mayores de 52 años importe"
+  - "como solicitar subsidio mayores de 52 años por internet"
 intencion: informativa
 fase_plan: F1 (artículo n.º 17)
 fecha_actualizacion: 2026-10-20

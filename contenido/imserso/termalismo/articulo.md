@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Balnearios del Imserso (termalismo): precios y cómo pedirlos"
 h1: "Termalismo del Imserso: precios de los balnearios, requisitos, baremo y plazos"
-meta_descripcion: "10 días en un balneario con tratamiento y pensión completa desde 302,14 €. Quién puede ir, cómo se pide plaza, cómo puntúa el baremo y qué plazos quedan."
+meta_descripcion: "Termalismo del Imserso: 10 días en un balneario con tratamiento y pensión completa desde 302,14 €. Quién puede ir, cómo pedir plaza y cómo puntúa el baremo."
 url: /imserso/termalismo/
 categoria: IMSERSO
 miga: Termalismo
 palabra_clave_principal: termalismo Imserso
+palabras_clave_secundarias:
+  - "termalismo imserso 2027"
+  - "termalismo imserso 2026"
+  - "termalismo imserso 2026 solicitud"
+  - "termalismo imserso consulta"
 intencion: informativa (estacional)
 fase_plan: F3 (artículo n.º 91)
 fecha_actualizacion: 2026-11-01
@@ -207,6 +212,10 @@ Sí. Son programas distintos, con solicitudes y baremos distintos, y puedes part
 
 El Imserso te notifica la adjudicación en papel o, si lo elegiste en la solicitud, de forma electrónica, con el plazo para pagar la reserva. Si tienes dudas sobre tu solicitud, puedes llamar al Imserso al 912 667 713.
 
+### ¿Cómo se solicita el termalismo del Imserso?
+
+Con la solicitud de la convocatoria (anexo I), por internet en la sede electrónica del Imserso o en papel en cualquier registro público o por correo. Eliges hasta cuatro balnearios y hasta cuatro meses, el Imserso adjudica las plazas en un máximo de tres meses y, si te dan plaza, pagas 40 euros de reserva y el resto en el balneario.
+
 ## Fuentes oficiales
 
 - [Resolución de 29 de octubre de 2025 del Imserso, que convoca las plazas del Programa de Termalismo de 2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-22236) (BOE).
@@ -224,4 +233,4 @@ El Imserso te notifica la adjudicación en papel o, si lo elegiste en la solicit
 
 *Este artículo es informativo y no sustituye la información oficial del Imserso ni de los balnearios. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 1 de noviembre de 2026, plazo de la lista de espera de 2026 cerrado y convocatoria de 2027 aún sin publicar. 20 de octubre de 2026, dos frases corregidas. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 1 de noviembre de 2026, plazo de la lista de espera de 2026 cerrado y convocatoria de 2027 aún sin publicar. 20 de octubre de 2026, dos frases corregidas. 29 de septiembre de 2026, primera versión.*

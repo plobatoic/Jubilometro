@@ -21,6 +21,8 @@
 import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
 import { listarArticulos, leerArticulo, RAIZ, CATEGORIAS } from './articulos.mjs';
+// Rank Math admite varias palabras clave separadas por comas: la principal y las secundarias del front matter
+const clavesRankMath = (d) => [d.palabra_clave_principal, ...(d.palabras_clave_secundarias || [])].join(', ');
 import { cuerpoWeb, urlsDeLaWeb, NO_SE_SUBEN, PLANTILLAS, IMAGENES_DESTACADAS, ARCHIVOS } from './web.mjs';
 
 const WEB = process.env.WP_URL ?? 'https://jubilometro.com';
@@ -172,7 +174,7 @@ for (const a of articulos) {
       method: 'POST',
       json: {
         objectType: 'post', objectID: entrada.id,
-        meta: { rank_math_title: d.titulo_seo, rank_math_description: d.meta_descripcion, rank_math_focus_keyword: d.palabra_clave_principal },
+        meta: { rank_math_title: d.titulo_seo, rank_math_description: d.meta_descripcion, rank_math_focus_keyword: clavesRankMath(d) },
       },
     });
     resumen[d.url] = { id: entrada.id, estado: entrada.status };
@@ -193,7 +195,7 @@ for (const a of articulos) {
     method: 'POST',
     json: {
       objectType: 'post', objectID: post.id,
-      meta: { rank_math_title: d.titulo_seo, rank_math_description: d.meta_descripcion, rank_math_focus_keyword: d.palabra_clave_principal },
+      meta: { rank_math_title: d.titulo_seo, rank_math_description: d.meta_descripcion, rank_math_focus_keyword: clavesRankMath(d) },
     },
   });
   resumen[d.url] = { id: post.id, estado: post.status };

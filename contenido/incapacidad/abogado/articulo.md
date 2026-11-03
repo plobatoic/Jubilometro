@@ -1,11 +1,13 @@
 ---
 titulo_seo: "Abogado de incapacidad permanente: cuándo hace falta y cuánto"
 h1: "Abogado para la incapacidad permanente: cuándo hace falta, cuánto cuesta y cómo conseguirlo gratis"
-meta_descripcion: "Para pedirla no necesitas abogado; para el juicio no es obligatorio, pero ayuda. Y por ser beneficiario de la Seguridad Social tienes derecho a uno de oficio."
+meta_descripcion: "Abogado de incapacidad permanente: para pedirla no hace falta y en el juicio no es obligatorio, pero ayuda. Cuánto cuesta y tu derecho a uno de oficio."
 url: /incapacidad/abogado/
 categoria: Incapacidad
 miga: Abogado de incapacidad
 palabra_clave_principal: abogado incapacidad permanente
+palabras_clave_secundarias:
+  - "cuanto cuesta abogado para incapacidad permanente"
 intencion: comercial
 fase_plan: F3 (artículo n.º 54)
 fecha_actualizacion: 2026-09-29

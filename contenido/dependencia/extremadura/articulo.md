@@ -6,6 +6,10 @@ url: /dependencia/extremadura/
 categoria: Dependencia
 miga: Dependencia en Extremadura
 palabra_clave_principal: dependencia Extremadura
+palabras_clave_secundarias:
+  - "solicitud dependencia extremadura"
+  - "ley dependencia extremadura"
+  - "ayuda dependencia extremadura"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

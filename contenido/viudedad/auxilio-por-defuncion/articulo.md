@@ -6,6 +6,11 @@ url: /viudedad/auxilio-por-defuncion/
 categoria: Viudedad
 miga: Auxilio por defunción
 palabra_clave_principal: auxilio por defunción
+palabras_clave_secundarias:
+  - "auxilio por defuncion 2026"
+  - "auxilio por defuncion solicitud"
+  - "auxilio por defuncion seguridad social"
+  - "auxilio por defuncion prescribe"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12

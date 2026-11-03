@@ -6,6 +6,11 @@ url: /viudedad/pension-orfandad/
 categoria: Viudedad
 miga: Pensión de orfandad
 palabra_clave_principal: pensión de orfandad
+palabras_clave_secundarias:
+  - "pension de orfandad requisitos"
+  - "pension de orfandad cuantia"
+  - "pension de orfandad edad"
+  - "pension de orfandad hasta que edad se cobra"
 intencion: informativa
 fase_plan: F3 (artículo n.º 42)
 fecha_actualizacion: 2026-10-21

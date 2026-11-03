@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Cuánto cobraré de pensión si gano 1.500, 2.000 o 3.000 €"
 h1: "Cuánto cobraré de pensión si gano 1.500, 2.000 o 3.000 euros: tabla por sueldo y años cotizados"
-meta_descripcion: "Con carrera completa y un sueldo estable, tu pensión bruta anual es tu sueldo bruto anual. Tablas de 2026 por sueldo y años cotizados, en bruto y en neto."
+meta_descripcion: "¿Cuánto cobraré de pensión según mi sueldo? Con carrera completa y sueldo estable, la pensión se acerca a tu sueldo bruto. Tablas 2026 en bruto y neto."
 url: /cuanto-cobrare/pension-segun-sueldo/
 categoria: Cuánto cobraré
 miga: Pensión según el sueldo

@@ -1,11 +1,15 @@
 ---
 titulo_seo: "Cobrar la pensión viviendo en el extranjero: guía 2026"
 h1: "Cobrar la pensión española viviendo en el extranjero: qué conservas, qué pierdes y qué trámites hay que hacer"
-meta_descripcion: "Tu pensión contributiva se cobra aunque vivas fuera, pero pierdes el complemento a mínimos. Fe de vida (VIVESS), sanidad, impuestos y cuenta bancaria."
+meta_descripcion: "Cobrar la pensión viviendo en el extranjero: la contributiva se cobra aunque vivas fuera, pero pierdes el complemento a mínimos. Fe de vida, sanidad e IRPF."
 url: /dinero/pension-extranjero/
 categoria: Dinero
 miga: Pensión en el extranjero
 palabra_clave_principal: cobrar pensión viviendo en el extranjero
+palabras_clave_secundarias:
+  - "puedo cobrar mi pension viviendo en el extranjero"
+  - "se puede cobrar la pension de jubilacion viviendo en el extranjero"
+  - "pensión para españoles en el extranjero"
 intencion: informativa
 fase_plan: F3 (artículo n.º 88)
 fecha_actualizacion: 2026-10-12

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Emigrantes retornados: subsidio, pensión y sanidad en 2026"
 h1: "Emigrantes retornados: el subsidio de hasta 18 meses, la pensión para mayores de 65 y la sanidad al volver a España"
-meta_descripcion: "Si vuelves a España tras trabajar fuera, puedes cobrar un subsidio de hasta 18 meses: 570 € al mes al principio. Requisitos, certificado y pensión a los 65."
+meta_descripcion: "Emigrantes retornados: si vuelves a España tras trabajar fuera, cobras un subsidio de hasta 18 meses (570 € al mes al principio). Requisitos y pensión."
 url: /ayudas/emigrantes-retornados/
 categoria: Ayudas
 miga: Emigrantes retornados
 palabra_clave_principal: emigrantes retornados
+palabras_clave_secundarias:
+  - "emigrantes retornados mayores de 65 años"
+  - "emigrantes retornados a españa"
+  - "que es emigrantes retornados"
+  - "emigrantes retornados sepe"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-14

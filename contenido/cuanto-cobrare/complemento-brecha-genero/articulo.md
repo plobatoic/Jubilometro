@@ -6,6 +6,11 @@ url: /cuanto-cobrare/complemento-brecha-genero/
 categoria: Cuánto cobraré
 miga: Complemento de brecha de género
 palabra_clave_principal: complemento brecha de género
+palabras_clave_secundarias:
+  - "complemento brecha de genero 2026"
+  - "complemento brecha de género hombres"
+  - "complemento brecha de genero en jubilacion anticipada"
+  - "complemento brecha de genero requisitos"
 intencion: informativa
 fase_plan: F2 (artículo n.º 29)
 fecha_actualizacion: 2026-11-01
@@ -113,6 +118,10 @@ No. Se cobra aunque la pensión esté en la máxima, y tampoco cuenta como ingre
 
 Lo mantienes. Si te reconocen una nueva pensión con derecho al complemento de brecha de género, tienes que elegir entre uno y otro.
 
+### ¿Cómo se solicita el complemento de brecha de género si ya estoy jubilada?
+
+Si ya cobras una pensión de jubilación, incapacidad permanente o viudedad causada desde febrero de 2021 y no tienes el complemento, puedes solicitarlo al INSS indicando tus hijos. Los hombres siempre tienen que pedirlo y acreditar que cumplen los requisitos.
+
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social: artículo 60, disposición adicional 37.ª y disposición transitoria 33.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
@@ -129,4 +138,4 @@ Lo mantienes. Si te reconocen una nueva pensión con derecho al complemento de b
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, requisitos de los padres más precisos. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, requisitos de los padres más precisos. 28 de septiembre de 2026, primera versión.*

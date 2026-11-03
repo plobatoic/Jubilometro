@@ -177,7 +177,9 @@
     // Lagunas: al final de la carrera si los últimos años fueron peores; si no, a mitad del periodo
     var start = perfil === 'peores' ? 0 : 120;
     for (var j = 0; j < lagunas; j++) {
-      var fill = j < 48 ? CFG.baseMinima : j < 60 ? CFG.baseMinima * 0.8 : CFG.baseMinima * 0.5;
+      // Regla general (art. 209.1.b LGSS): 48 meses con la base mínima y el resto con la mitad. Las trabajadoras por
+      // cuenta ajena rellenan además los meses 49 a 60 al 100 % y 61 a 84 al 80 % (DT 41.ª): se avisa en la nota.
+      var fill = j < 48 ? CFG.baseMinima : CFG.baseMinima * 0.5;
       if (start + j < 348) serie[start + j] = fill;
     }
     var sumT = 0; for (var t = 0; t < 300; t++) sumT += serie[t];
@@ -426,7 +428,7 @@
         ['Pensión máxima ' + CFG.anio, eur(CFG.pensionMax)]
       ]);
       out += '<div class="jm-explain"><p>Durante la transición, la Seguridad Social calcula tu base reguladora de las dos formas y aplica la que más te conviene. Con tus datos gana el <strong>método ' + (r.gana === 'nuevo' ? 'nuevo, porque descarta tus peores meses' : 'tradicional') + '</strong>.</p><p>Tu pensión es la base reguladora por el ' + pct(r.porcentaje) + ' que corresponde a tus años cotizados' + (r.tope ? ', limitada a la pensión máxima' : '') + '.</p></div>';
-      return out + notes('arts. 209 y 210 LGSS; disposición transitoria 40ª LGSS (RDL 2/2023); RD 241/2026 (pensión máxima).', 'Simulamos tu historial a partir de una base media: el cálculo real usa tus bases mes a mes, actualizadas con el IPC. No incluye complementos (brecha de género, mínimos).');
+      return out + notes('arts. 209 y 210 LGSS; disposiciones transitorias 40.ª y 41.ª LGSS (RDL 2/2023); RD 241/2026 (pensión máxima).', 'Simulamos tu historial a partir de una base media: el cálculo real usa tus bases mes a mes, actualizadas con el IPC. Los meses sin cotizar se rellenan con la regla general (48 con la base mínima y el resto con la mitad); si eres trabajadora por cuenta ajena, los meses 49 a 60 cuentan al 100 % y del 61 al 84 al 80 %, así que tu pensión puede ser algo mayor. No incluye complementos (brecha de género, mínimos).');
     },
     anticipada: function (i, ej) {
       var r = anticipada(i);

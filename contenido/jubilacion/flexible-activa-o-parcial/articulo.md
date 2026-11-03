@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación flexible, activa o parcial: cuál te conviene"
 h1: "Jubilación flexible, activa o parcial: cuál te conviene según tu situación"
-meta_descripcion: "Tres formas de cobrar pensión y trabajar a la vez. Comparamos requisitos, jornada y cuánta pensión cobras con cada una, con casos prácticos para 2026."
+meta_descripcion: "Jubilación flexible, activa o parcial: tres formas de cobrar pensión y trabajar. Requisitos, jornada y cuánta pensión cobras con cada una en 2026."
 url: /jubilacion/flexible-activa-o-parcial/
 categoria: Jubilación
 miga: Flexible, activa o parcial
 palabra_clave_principal: jubilación flexible activa o parcial
+palabras_clave_secundarias:
+  - "jubilacion activa flexible y parcial"
+  - "diferencia jubilación activa y flexible"
+  - "diferencia entre jubilación flexible y activa"
+  - "jubilación activa y jubilación parcial"
 intencion: comparativa
 fase_plan: F2 (artículo n.º 9)
 fecha_actualizacion: 2026-09-27

@@ -6,6 +6,11 @@ url: /dependencia/ley-dependencia/
 categoria: Dependencia
 miga: Ley de dependencia
 palabra_clave_principal: ley de dependencia
+palabras_clave_secundarias:
+  - "ley de dependencia prestaciones"
+  - "ley de dependencia 2026"
+  - "como va mi ley de dependencia"
+  - "cuanto tarda ley de dependencia"
 intencion: informativa
 fase_plan: F1 (artículo n.º 62)
 fecha_actualizacion: 2026-10-20

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación flexible 2026: qué cambia con el RD 416/2026"
 h1: "Jubilación flexible 2026: qué cambia con el Real Decreto 416/2026 y a quién le interesa"
-meta_descripcion: "Desde el 28 de agosto de 2026 puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más de pensión. Requisitos y ejemplos."
+meta_descripcion: "Jubilación flexible 2026: desde el 28 de agosto puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más. Requisitos."
 url: /jubilacion/flexible/
 categoria: Jubilación
 miga: Jubilación flexible
 palabra_clave_principal: jubilación flexible 2026
+palabras_clave_secundarias:
+  - "jubilacion flexible 2026 requisitos"
+  - "jubilacion flexible 2026 seguridad social"
+  - "jubilacion flexible autonomos 2026"
+  - "jubilacion flexible agosto 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 6)
 fecha_actualizacion: 2026-10-20

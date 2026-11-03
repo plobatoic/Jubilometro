@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Bono social eléctrico para pensionistas 2026: requisitos"
 h1: "Bono social eléctrico para pensionistas en 2026: descuento del 35 o el 50 %, requisitos y cómo pedirlo"
-meta_descripcion: "Los pensionistas con pensión mínima o renta baja tienen un 35 % de descuento en la luz (50 % si son vulnerables severos). Requisitos de 2026 y cómo pedirlo."
+meta_descripcion: "Bono social eléctrico para pensionistas 2026: 35 % de descuento en la luz con pensión mínima o renta baja (50 % si eres vulnerable severo). Cómo pedirlo."
 url: /ayudas/bono-social-electrico/
 categoria: Ayudas
 miga: Bono social eléctrico
 palabra_clave_principal: bono social eléctrico pensionistas
+palabras_clave_secundarias:
+  - "bono social luz para pensionistas"
+  - "quién paga el bono social eléctrico"
+  - "requisitos para el bono social eléctrico"
+  - "condiciones bono social eléctrico"
 intencion: informativa
 fase_plan: F2 (artículo n.º 58)
 fecha_actualizacion: 2026-10-20

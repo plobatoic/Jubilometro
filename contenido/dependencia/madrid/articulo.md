@@ -6,6 +6,11 @@ url: /dependencia/madrid/
 categoria: Dependencia
 miga: Dependencia en Madrid
 palabra_clave_principal: dependencia Comunidad de Madrid
+palabras_clave_secundarias:
+  - "dependencia comunidad de madrid solicitud"
+  - "dependencia comunidad de madrid telefono"
+  - "dependencia comunidad de madrid sede electronica"
+  - "dependencia comunidad de madrid grados"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 64)
 fecha_actualizacion: 2026-10-20

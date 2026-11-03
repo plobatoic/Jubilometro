@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Ayudas para mayores por comunidad autónoma en 2026"
 h1: "Ayudas para mayores y pensionistas por comunidad autónoma en 2026: complementos a la pensión y servicios"
-meta_descripcion: "Complementos 2026 a la pensión no contributiva en Baleares, Cataluña, Aragón, Canarias, Galicia y Andalucía, y ayudas a pensiones bajas en Navarra y Euskadi."
+meta_descripcion: "Ayudas para mayores por comunidad autónoma en 2026: complementos a la pensión no contributiva y a las pensiones bajas, de Andalucía a Navarra y Euskadi."
 url: /ayudas/ayudas-autonomicas/
 categoria: Ayudas
 miga: Ayudas por comunidad

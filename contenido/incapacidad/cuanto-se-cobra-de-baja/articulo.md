@@ -6,6 +6,11 @@ url: /incapacidad/cuanto-se-cobra-de-baja/
 categoria: Incapacidad
 miga: Cuánto se cobra de baja
 palabra_clave_principal: cuánto se cobra de baja
+palabras_clave_secundarias:
+  - "cuanto se cobra de baja por enfermedad comun"
+  - "cuanto se cobra de baja por enfermedad"
+  - "cuanto se cobra de baja por la seguridad social"
+  - "cuanto se cobra de baja por accidente laboral"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-21

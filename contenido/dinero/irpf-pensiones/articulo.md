@@ -6,6 +6,11 @@ url: /dinero/irpf-pensiones/
 categoria: Dinero
 miga: Retención de IRPF en la pensión
 palabra_clave_principal: retención IRPF pensión
+palabras_clave_secundarias:
+  - "retencion irpf pensiones 2026"
+  - "retencion irpf pension jubilacion 2026"
+  - "retención irpf pensión jubilación"
+  - "retencion irpf pension de viudedad"
 intencion: transaccional
 fase_plan: F3 (artículo n.º 79)
 fecha_actualizacion: 2026-10-20

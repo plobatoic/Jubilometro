@@ -6,6 +6,11 @@ url: /jubilacion/faltan-anos-cotizados/
 categoria: Jubilación
 miga: Me faltan años cotizados
 palabra_clave_principal: me faltan años cotizados para jubilarme
+palabras_clave_secundarias:
+  - "me puedo jubilar con 27 años cotizados"
+  - "me puedo jubilar con 33 años cotizados"
+  - "me puedo jubilar con 20 años cotizados"
+  - "me puedo jubilar con 39 años cotizados"
 intencion: informativa
 fase_plan: F3 (artículo n.º 20)
 fecha_actualizacion: 2026-10-14

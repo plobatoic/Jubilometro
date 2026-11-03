@@ -6,6 +6,11 @@ url: /dependencia/andalucia/
 categoria: Dependencia
 miga: Dependencia en Andalucía
 palabra_clave_principal: dependencia Andalucía
+palabras_clave_secundarias:
+  - "dependencia andalucia solicitud"
+  - "dependencia andalucia telefono"
+  - "dependencia andalucia prestaciones"
+  - "dependencia andalucia grados"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 63)
 fecha_actualizacion: 2026-10-20

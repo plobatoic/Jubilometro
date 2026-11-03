@@ -42,7 +42,7 @@ ${meta('_yoast_wpseo_metadesc', d.meta_descripcion)}
 ${meta('_yoast_wpseo_focuskw', d.palabra_clave_principal)}
 ${meta('rank_math_title', d.titulo_seo)}
 ${meta('rank_math_description', d.meta_descripcion)}
-${meta('rank_math_focus_keyword', d.palabra_clave_principal)}
+${meta('rank_math_focus_keyword', [d.palabra_clave_principal, ...(d.palabras_clave_secundarias || [])].join(', '))}
 ${meta('jubilometro_estado', d.estado)}
   </item>`;
   }).join('\n');

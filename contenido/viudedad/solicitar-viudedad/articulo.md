@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cómo solicitar la pensión de viudedad: pasos y documentos"
 h1: "Cómo solicitar la pensión de viudedad: dónde se pide, documentos, plazos y cuánto tarda"
-meta_descripcion: "La viudedad se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (solo se cobran 3 meses hacia atrás) y 90 días para resolver."
+meta_descripcion: "Solicitar la pensión de viudedad: se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (3 meses de atrasos) y 90 días para resolver."
 url: /viudedad/solicitar-viudedad/
 categoria: Viudedad
 miga: Solicitar la viudedad
 palabra_clave_principal: solicitar pensión de viudedad
+palabras_clave_secundarias:
+  - "solicitar pension de viudedad seguridad social"
+  - "solicitar pension de viudedad sin certificado digital"
+  - "solicitar pension de viudedad con certificado digital"
+  - "solicitar pension de viudedad inss"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 37c)
 fecha_actualizacion: 2026-10-21

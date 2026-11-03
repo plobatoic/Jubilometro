@@ -6,6 +6,8 @@ url: /viudedad/compatibilidad-trabajo/
 categoria: Viudedad
 miga: Viudedad y trabajo
 palabra_clave_principal: viudedad compatible con trabajo
+palabras_clave_secundarias:
+  - "pensión viudedad compatible con trabajo"
 intencion: informativa
 fase_plan: F3 (artículo extra de viudedad)
 fecha_actualizacion: 2026-09-29

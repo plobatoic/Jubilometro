@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación anticipada involuntaria por despido o ERE (2027)"
 h1: "Jubilación anticipada involuntaria por despido o ERE: requisitos y cuánto se pierde"
-meta_descripcion: "Si te despiden, puedes jubilarte hasta 4 años antes con 33 años cotizados y 6 meses en el paro. Causas válidas, recortes de hasta el 30 % y ejemplos."
+meta_descripcion: "Jubilación anticipada involuntaria por despido o ERE: hasta 4 años antes con 33 años cotizados y 6 meses en el paro, con un recorte de hasta el 30 %."
 url: /jubilacion/anticipada-involuntaria/
 categoria: Jubilación
 miga: Jubilación anticipada involuntaria
 palabra_clave_principal: jubilación anticipada involuntaria
+palabras_clave_secundarias:
+  - "jubilacion anticipada involuntaria por despido objetivo"
+  - "jubilacion anticipada involuntaria en 2027"
+  - "jubilacion anticipada involuntaria 61 años"
+  - "jubilación anticipada involuntaria requisitos"
 intencion: informativa
 fase_plan: F2 (artículo n.º 3)
 fecha_actualizacion: 2026-10-12
@@ -22,7 +27,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> Si pierdes el empleo por una causa que no depende de ti (un ERE, un despido objetivo, el cierre de la empresa…), puedes jubilarte **hasta 4 años antes** de tu edad ordinaria. Necesitas **33 años cotizados** y haber estado **inscrito como demandante de empleo al menos 6 meses**.
+> Si pierdes el empleo por una causa que no depende de ti (un ERE, un despido objetivo, el cierre de la empresa…), la **jubilación anticipada involuntaria** te permite jubilarte **hasta 4 años antes** de tu edad ordinaria. Necesitas **33 años cotizados** y haber estado **inscrito como demandante de empleo al menos 6 meses**.
 >
 > En 2027 la edad mínima es **63 años**, o **61** si has cotizado 38 años y 6 meses. La pensión se reduce según los meses que adelantes y tus años cotizados, **hasta un 30 %** si adelantas los 4 años, y el recorte es para siempre.
 

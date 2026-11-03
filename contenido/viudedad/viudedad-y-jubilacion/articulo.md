@@ -6,6 +6,11 @@ url: /viudedad/viudedad-y-jubilacion/
 categoria: Viudedad
 miga: Viudedad y jubilación
 palabra_clave_principal: viudedad y jubilación compatible
+palabras_clave_secundarias:
+  - "viudedad y jubilacion son compatibles"
+  - "pension viudedad y jubilacion compatibles"
+  - "compatible viudedad y jubilacion"
+  - "es compatible pensión viudedad y jubilación"
 intencion: informativa
 fase_plan: F2 (artículo n.º 39)
 fecha_actualizacion: 2026-09-28

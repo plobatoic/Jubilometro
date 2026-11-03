@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Centro de día para mayores: qué ofrece, precio y cómo entrar"
 h1: "Centro de día para personas mayores: qué ofrece, cuánto cuesta y cómo conseguir plaza pública"
-meta_descripcion: "Atención de día, comida, rehabilitación y transporte, volviendo a dormir a casa. Cómo conseguir plaza con la dependencia, cuánto se paga y qué ayudas hay."
+meta_descripcion: "Centro de día para mayores: atención de día, comida, rehabilitación y transporte, y a dormir a casa. Cómo conseguir plaza, cuánto se paga y qué ayudas hay."
 url: /dependencia/centro-de-dia/
 categoria: Dependencia
 miga: Centro de día
 palabra_clave_principal: centro de día
+palabras_clave_secundarias:
+  - "centro de dia para mayores"
+  - "centro de dia que es"
+  - "cuanto cuesta centro de dia para mayores"
+  - "cuanto cuesta centro de dia"
 intencion: informativa
 fase_plan: F3 (artículo n.º 75)
 fecha_actualizacion: 2026-10-20

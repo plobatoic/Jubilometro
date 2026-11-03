@@ -6,6 +6,11 @@ url: /incapacidad/gran-incapacidad/
 categoria: Incapacidad
 miga: Gran incapacidad
 palabra_clave_principal: gran incapacidad
+palabras_clave_secundarias:
+  - "gran incapacidad o gran invalidez"
+  - "gran incapacidad de incapacidad permanente absoluta"
+  - "gran incapacidad seguridad social"
+  - "gran incapacidad y gran invalidez es lo mismo"
 intencion: informativa
 fase_plan: F3 (artículo extra de incapacidad)
 fecha_actualizacion: 2026-09-29

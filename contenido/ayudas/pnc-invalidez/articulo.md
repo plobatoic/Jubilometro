@@ -1,11 +1,16 @@
 ---
-titulo_seo: "PNC de invalidez 2026: cuantía, requisitos y trabajo"
+titulo_seo: "Pensión no contributiva de invalidez 2026: cuánto se cobra"
 h1: "Pensión no contributiva de invalidez en 2026: requisitos, cuánto se cobra y cómo compatibilizarla con un trabajo"
 meta_descripcion: "La pensión no contributiva de invalidez es de 628,80 € al mes en 2026, de 18 a 64 años con discapacidad del 65 % y pocos ingresos. Requisitos y trabajo."
 url: /ayudas/pnc-invalidez/
 categoria: Ayudas
 miga: PNC de invalidez
 palabra_clave_principal: pensión no contributiva de invalidez
+palabras_clave_secundarias:
+  - "pensión no contributiva de invalidez 2026"
+  - "pensión no contributiva de invalidez requisitos"
+  - "pension no contributiva de invalidez cuantia"
+  - "pensión no contributiva de invalidez pnc"
 intencion: informativa
 fase_plan: F2 (artículo n.º 56)
 fecha_actualizacion: 2026-10-20

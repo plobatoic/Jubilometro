@@ -6,6 +6,11 @@ url: /jubilacion/regimen-del-mar/
 categoria: Jubilación
 miga: Jubilación en el Régimen del Mar
 palabra_clave_principal: jubilación régimen del mar
+palabras_clave_secundarias:
+  - "edad jubilacion regimen del mar"
+  - "jubilacion anticipada regimen del mar"
+  - "jubilación régimen especial del mar"
+  - "jubilacion activa regimen del mar"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-06

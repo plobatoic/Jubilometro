@@ -6,6 +6,11 @@ url: /jubilacion/empleadas-de-hogar/
 categoria: Jubilación
 miga: Jubilación de las empleadas de hogar
 palabra_clave_principal: jubilación empleadas de hogar
+palabras_clave_secundarias:
+  - "jubilación empleadas de hogar con 15 años cotizados"
+  - "jubilación empleadas de hogar seguridad social"
+  - "cálculo jubilación empleadas de hogar"
+  - "jubilación anticipada empleadas de hogar"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

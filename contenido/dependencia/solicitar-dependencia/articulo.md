@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cómo solicitar la dependencia paso a paso: documentos y visita"
 h1: "Cómo solicitar la dependencia paso a paso: documentos, dónde se pide y cómo preparar la visita de valoración"
-meta_descripcion: "Solicitud, informe de salud, visita a casa, grado y PIA. Qué documentos llevar, dónde se pide en tu comunidad y cómo preparar bien la valoración."
+meta_descripcion: "Cómo solicitar la dependencia paso a paso: solicitud, informe de salud, visita a casa, grado y PIA. Qué documentos llevar y cómo preparar la valoración."
 url: /dependencia/solicitar-dependencia/
 categoria: Dependencia
 miga: Solicitar la dependencia
 palabra_clave_principal: solicitar la dependencia
+palabras_clave_secundarias:
+  - "como solicitar la dependencia"
+  - "como solicitar la dependencia de una persona mayor"
+  - "como solicitar la dependencia de un familiar"
+  - "que es solicitar la dependencia"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-21

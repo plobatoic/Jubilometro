@@ -6,6 +6,11 @@ url: /jubilacion/guardia-civil/
 categoria: Jubilación
 miga: Jubilación de la Guardia Civil
 palabra_clave_principal: jubilación guardia civil
+palabras_clave_secundarias:
+  - "jubilacion guardia civil cuanto cobra"
+  - "jubilacion guardia civil edad"
+  - "jubilacion guardia civil clases pasivas"
+  - "jubilación guardia civil 60 años"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-15

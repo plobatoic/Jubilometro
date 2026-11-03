@@ -6,6 +6,11 @@ url: /cuanto-cobrare/pagas-extra/
 categoria: Cuánto cobraré
 miga: Pagas extra
 palabra_clave_principal: paga extra pensionistas
+palabras_clave_secundarias:
+  - "paga extra pensionistas 2026"
+  - "paga extra pensionistas noviembre"
+  - "paga extra pensionistas cuando se cobra"
+  - "paga extra pensionistas como se calcula"
 intencion: informativa
 fase_plan: F2 (artículo n.º 34)
 fecha_actualizacion: 2026-10-02

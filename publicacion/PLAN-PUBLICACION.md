@@ -228,6 +228,25 @@ El Real Decreto 806/2026 (BOE del 6/10/2026) disolvió las Cortes y convocó ele
 - **Revalorización**: párrafo y pregunta frecuente sobre las elecciones, con enlace a la guía nueva.
 - Enlaces cortos `elecciones` y `40-anos-cotizados` (tema 2.10.4) y 5 publicaciones nuevas en el calendario del primer mes (12 a 15 de octubre).
 
+### Revisión técnica y de SEO (3/11/2026, tema 2.11.28)
+
+- **Rastreo completo**:
+  - Las 177 direcciones de los mapas del sitio y sus 492 enlaces internos e imágenes responden bien.
+  - Un solo H1 por página, canonical propia y ninguna página con noindex por error.
+  - Sin títulos ni descripciones repetidos y sin imágenes sin texto alternativo.
+  - El único aviso fue un 403 pasajero de la protección de Hostinger: el CSV responde 200.
+- **Velocidad en el móvil**: LCP de 0,3 a 1,8 s y CLS 0 en la portada, una guía, una calculadora y una tabla de datos.
+- **Palabras clave reales**: 2.952 sugerencias de búsqueda de Google y Bing para las 146 guías (`publicacion/seo/`).
+  - Palabras clave secundarias en 138 guías (front matter y Rank Math).
+  - Descripción nueva en 61 guías, con la búsqueda principal al principio.
+  - Título nuevo en 5 guías.
+  - Primera frase con la búsqueda en 9 guías.
+  - 8 preguntas frecuentes nuevas escritas como las busca la gente, respondidas con datos ya verificados en cada guía.
+  - Sin relleno de palabras clave: lo explica `publicacion/seo/LEEME.md`.
+- **Errores encontrados y corregidos**:
+  - La guía de cuánto tarda la jubilación decía «unos 7 días» en la descripción y en una pregunta. El dato oficial actualizado es 9,63 días.
+  - La calculadora de pensión rellenaba los meses sin cotizar 49 a 60 al 80 % para todos. La regla general es 48 meses con la base mínima y el resto al 50 %, como dice la guía de lagunas, verificada en el BOE. Ahora usa esa regla y avisa de la regla mejor para las trabajadoras por cuenta ajena (DT 41.ª).
+
 ### Segunda revisión de calidad (2/11/2026, temas 2.11.24 a 2.11.27)
 
 - **Enlaces a fuentes**: comprobados los 522 enlaces externos de guías y páginas.

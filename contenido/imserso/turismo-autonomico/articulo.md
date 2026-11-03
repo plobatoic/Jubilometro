@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Viajes y balnearios para mayores de las comunidades (2026)"
 h1: "Viajes y balnearios para mayores de las comunidades autónomas: alternativas al Imserso en 2026"
-meta_descripcion: "Castilla-La Mancha, Madrid, Castilla y León, Comunitat Valenciana y Galicia tienen viajes o balnearios propios para mayores. Requisitos, precios y plazos."
+meta_descripcion: "Viajes para mayores de las comunidades autónomas: Castilla-La Mancha, Madrid, Castilla y León, Valencia y Galicia tienen viajes o balnearios propios."
 url: /imserso/turismo-autonomico/
 categoria: IMSERSO
 miga: Viajes de las comunidades

@@ -6,6 +6,11 @@ url: /dependencia/baleares/
 categoria: Dependencia
 miga: Dependencia en las Illes Balears
 palabra_clave_principal: dependencia Baleares
+palabras_clave_secundarias:
+  - "ayudas dependencia baleares"
+  - "solicitud dependencia baleares"
+  - "ley dependencia baleares"
+  - "grados dependencia baleares"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

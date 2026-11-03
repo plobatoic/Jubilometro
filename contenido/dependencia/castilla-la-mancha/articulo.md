@@ -6,6 +6,11 @@ url: /dependencia/castilla-la-mancha/
 categoria: Dependencia
 miga: Dependencia en Castilla-La Mancha
 palabra_clave_principal: dependencia Castilla-La Mancha
+palabras_clave_secundarias:
+  - "dependencia castilla la mancha teléfono"
+  - "dependencia castilla la mancha solicitud"
+  - "ley dependencia castilla la mancha"
+  - "ayudas dependencia castilla la mancha"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

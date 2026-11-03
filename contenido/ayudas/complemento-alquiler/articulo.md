@@ -6,6 +6,10 @@ url: /ayudas/complemento-alquiler/
 categoria: Ayudas
 miga: Complemento de alquiler
 palabra_clave_principal: complemento de alquiler pensión no contributiva
+palabras_clave_secundarias:
+  - "complemento ayuda alquiler pension no contributiva"
+  - "solicitud complemento alquiler pensión no contributiva"
+  - "complemento de alquiler de vivienda para titulares de pensión no contributiva"
 intencion: transaccional
 fase_plan: F3 (artículo n.º 61)
 fecha_actualizacion: 2026-10-20

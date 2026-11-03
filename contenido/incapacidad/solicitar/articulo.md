@@ -6,6 +6,11 @@ url: /incapacidad/solicitar/
 categoria: Incapacidad
 miga: Solicitar la incapacidad permanente
 palabra_clave_principal: solicitar incapacidad permanente
+palabras_clave_secundarias:
+  - "solicitar incapacidad permanente total"
+  - "solicitar incapacidad permanente absoluta"
+  - "solicitar incapacidad permanente seguridad social"
+  - "solicitar incapacidad permanente inss"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 49)
 fecha_actualizacion: 2026-10-14

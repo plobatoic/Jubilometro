@@ -1,11 +1,16 @@
 ---
 titulo_seo: "¿Se puede trabajar con una incapacidad permanente? (2026)"
 h1: "Trabajar con una incapacidad permanente en 2026: qué se puede hacer en cada grado y qué pasa con la pensión"
-meta_descripcion: "Con la total puedes trabajar en otra cosa; con la absoluta, desde 2024, si te das de alta se suspende la pensión. Grado a grado, con tu contrato y el paro."
+meta_descripcion: "Trabajar con incapacidad permanente: con la total puedes trabajar en otra profesión; con la absoluta, desde 2024, se suspende la pensión si te das de alta."
 url: /incapacidad/incapacidad-y-trabajo/
 categoria: Incapacidad
 miga: Incapacidad y trabajo
 palabra_clave_principal: trabajar con incapacidad permanente
+palabras_clave_secundarias:
+  - "trabajar con incapacidad permanente absoluta"
+  - "trabajar con incapacidad permanente total"
+  - "puedo trabajar con incapacidad permanente total"
+  - "puedo trabajar con incapacidad permanente"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

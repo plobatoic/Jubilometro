@@ -6,6 +6,8 @@ url: /cuanto-cobrare/calendario-pago-pensiones/
 categoria: Cuánto cobraré
 miga: Calendario de pago
 palabra_clave_principal: calendario pago pensiones
+palabras_clave_secundarias:
+  - "calendario pago pensiones 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 35)
 fecha_actualizacion: 2026-09-28

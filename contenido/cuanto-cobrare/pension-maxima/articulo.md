@@ -6,6 +6,11 @@ url: /cuanto-cobrare/pension-maxima/
 categoria: Cuánto cobraré
 miga: Pensión máxima
 palabra_clave_principal: pensión máxima de jubilación 2026
+palabras_clave_secundarias:
+  - "pension maxima de jubilacion 2026 neta"
+  - "pension maxima jubilacion 2026 seguridad social"
+  - "pension maxima jubilacion 2026 clases pasivas"
+  - "pension maxima jubilacion 2026 retencion irpf"
 intencion: informativa
 fase_plan: F1 (artículo n.º 26)
 fecha_actualizacion: 2026-10-20

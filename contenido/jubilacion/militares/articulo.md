@@ -1,11 +1,13 @@
 ---
 titulo_seo: "Jubilación de militares: reserva, retiro a los 65 y pensión"
 h1: "Jubilación de los militares: pase a la reserva, retiro a los 65 y cuánto se cobra de pensión"
-meta_descripcion: "Los militares pasan a la reserva a los 61 (tropa permanente, 58) y se retiran a los 65. Qué pasa con la tropa a los 45 y cuánto se cobra de pensión."
+meta_descripcion: "Jubilación de militares: reserva a los 61 (tropa permanente, 58) y retiro a los 65. Qué pasa con la tropa a los 45 años y cuánto se cobra de pensión."
 url: /jubilacion/militares/
 categoria: Jubilación
 miga: Jubilación de los militares
 palabra_clave_principal: jubilación militares
+palabras_clave_secundarias:
+  - "jubilación militares 45 años"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-06

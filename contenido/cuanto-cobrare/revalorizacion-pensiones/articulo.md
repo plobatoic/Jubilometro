@@ -6,6 +6,11 @@ url: /cuanto-cobrare/revalorizacion-pensiones/
 categoria: Cuánto cobraré
 miga: Revalorización 2027
 palabra_clave_principal: subida pensiones 2027
+palabras_clave_secundarias:
+  - "subida pensiones 2027 mínimas"
+  - "subida pensiones 2027 ipc"
+  - "subida pensiones 2027 incapacidad permanente"
+  - "subida pensiones 2027 clases pasivas"
 intencion: informativa
 fase_plan: F1 (artículo n.º 33)
 fecha_actualizacion: 2026-10-30

@@ -6,6 +6,9 @@ url: /dependencia/cuidadora-interna-externa/
 categoria: Dependencia
 miga: Cuidadora interna o externa
 palabra_clave_principal: cuidadora interna o externa
+palabras_clave_secundarias:
+  - "cuidadora interna 24 horas"
+  - "seguridad social cuidadora interna"
 intencion: informativa
 fase_plan: F2 (artículo n.º 73)
 fecha_actualizacion: 2026-10-14

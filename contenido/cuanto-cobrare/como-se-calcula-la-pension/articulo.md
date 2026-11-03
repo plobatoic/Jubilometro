@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cómo se calcula la pensión de jubilación 2026: sistema dual"
 h1: "Cómo se calcula la pensión de jubilación en 2026: el nuevo sistema dual de base reguladora"
-meta_descripcion: "Desde 2026 la base reguladora se calcula de dos formas y se aplica la que más te favorece. Los tres pasos del cálculo, con tablas y ejemplos con cifras."
+meta_descripcion: "Cómo se calcula la pensión de jubilación en 2026: base reguladora con el sistema dual, porcentaje por años cotizados y tope. Tres pasos con ejemplos."
 url: /cuanto-cobrare/como-se-calcula-la-pension/
 categoria: Cuánto cobraré
 miga: Cómo se calcula la pensión
 palabra_clave_principal: cómo se calcula la pensión de jubilación
+palabras_clave_secundarias:
+  - "como se calcula la pension de jubilacion de un autonomo"
+  - "como se calcula la pension de jubilacion con 15 años cotizados"
+  - "como se calcula la pensión de jubilación en 2027"
+  - "como se calcula la pension de jubilacion anticipada voluntaria"
 intencion: informativa
 fase_plan: F1 (artículo n.º 22, pilar de Cuánto cobraré)
 fecha_actualizacion: 2026-09-28

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Lagunas de cotización: cómo se rellenan para la pensión"
 h1: "Lagunas de cotización: cómo se rellenan los meses sin cotizar al calcular la pensión de jubilación"
-meta_descripcion: "Los meses sin cotizar se rellenan: los 48 primeros con la base mínima y el resto al 50 %. Las mujeres tienen 12 meses más al 100 % y 24 al 80 %. Ejemplos."
+meta_descripcion: "Lagunas de cotización: cómo se rellenan los meses sin cotizar al calcular la pensión, con la base mínima o la mitad, y las reglas de las mujeres desde 2026."
 url: /cuanto-cobrare/lagunas-de-cotizacion/
 categoria: Cuánto cobraré
 miga: Lagunas de cotización
 palabra_clave_principal: lagunas de cotización
+palabras_clave_secundarias:
+  - "lagunas de cotizacion jubilacion"
+  - "lagunas de cotizacion en autonomos"
+  - "lagunas de cotizacion 2026"
+  - "lagunas de cotizacion regimen general"
 intencion: informativa
 fase_plan: F2 (artículo n.º 25)
 fecha_actualizacion: 2026-10-14

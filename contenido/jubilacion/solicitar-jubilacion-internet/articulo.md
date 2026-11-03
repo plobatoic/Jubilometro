@@ -6,6 +6,11 @@ url: /jubilacion/solicitar-jubilacion-internet/
 categoria: Jubilación
 miga: Solicitar la jubilación por internet
 palabra_clave_principal: solicitar jubilación por internet
+palabras_clave_secundarias:
+  - "solicitar jubilación por internet con certificado digital"
+  - "solicitar jubilación anticipada por internet"
+  - "solicitar pension jubilacion por internet"
+  - "se puede solicitar jubilacion por internet"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 13)
 fecha_actualizacion: 2026-10-12

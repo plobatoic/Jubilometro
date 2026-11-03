@@ -6,6 +6,11 @@ url: /viudedad/fallecimiento-pensionista/
 categoria: Viudedad
 miga: Fallecimiento de un pensionista
 palabra_clave_principal: qué hacer cuando fallece un pensionista
+palabras_clave_secundarias:
+  - "que hay que hacer cuando fallece un pensionista"
+  - "hasta cuando cobra la pensión un fallecido"
+  - "fallecimiento pensionista seguridad social"
+  - "cómo solicitar pensión por fallecimiento"
 intencion: informativa
 fase_plan: F2 (artículo n.º 43)
 fecha_actualizacion: 2026-09-28
@@ -25,7 +30,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> La pensión del **mes del fallecimiento se cobra entera**, sea cual sea el día de la muerte, junto con la **parte proporcional de la paga extra**. Lo que el banco ingrese de los **meses siguientes** hay que **devolverlo** a la Seguridad Social.
+> Cuando fallece un pensionista, la pensión del **mes del fallecimiento se cobra entera**, sea cual sea el día de la muerte, junto con la **parte proporcional de la paga extra**. Lo que el banco ingrese de los **meses siguientes** hay que **devolverlo** a la Seguridad Social.
 >
 > La familia tiene que pedir al INSS la **pensión de viudedad**, la de **orfandad** y el **auxilio por defunción**, mejor en los **tres primeros meses**. Para la herencia: el **certificado de últimas voluntades** a partir de 15 días hábiles, el **Impuesto sobre Sucesiones** en **seis meses** y la **declaración de la renta** del fallecido en la campaña del año siguiente.
 

@@ -1,11 +1,15 @@
 ---
-titulo_seo: "Vender la vivienda con más de 65 años: impuestos en 2026"
+titulo_seo: "Vender la vivienda habitual con más de 65 años: impuestos 2026"
 h1: "Vender tu vivienda habitual con más de 65 años: por qué no pagas IRPF, qué impuestos sí pagas y qué hacer con el dinero"
 meta_descripcion: "Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal."
 url: /dinero/vender-vivienda-65/
 categoria: Dinero
 miga: Vender la vivienda con más de 65 años
 palabra_clave_principal: vender vivienda habitual mayores de 65 años
+palabras_clave_secundarias:
+  - "venta vivienda habitual mayores 65 años 2026"
+  - "exención venta vivienda habitual mayores 65"
+  - "venta vivienda habitual mayores 65 años irpf"
 intencion: informativa
 fase_plan: F2 (artículo n.º 83)
 fecha_actualizacion: 2026-10-20

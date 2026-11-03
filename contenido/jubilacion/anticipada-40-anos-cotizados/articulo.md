@@ -1,11 +1,13 @@
 ---
 titulo_seo: "Jubilación anticipada con 40 años cotizados sin penalización"
 h1: "Jubilación anticipada con 40 años cotizados sin penalización: qué proponía la ley y qué pasa ahora"
-meta_descripcion: "La ley para quitar el recorte con 40 años cotizados decayó al disolverse las Cortes el 6 de octubre. Qué proponía, qué pasa ahora y cuánto pierdes hoy."
+meta_descripcion: "Jubilación anticipada con 40 años cotizados sin penalización: la ley decayó al disolverse las Cortes el 6 de octubre. Qué proponía y cuánto pierdes hoy."
 url: /jubilacion/anticipada-40-anos-cotizados/
 categoria: Jubilación
 miga: Anticipada con 40 años cotizados
 palabra_clave_principal: jubilación anticipada 40 años cotizados sin penalización
+palabras_clave_secundarias:
+  - "jubilacion anticipada con mas de 40 años cotizados sin penalizacion"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20
@@ -24,7 +26,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> **No es ley y su tramitación se ha cortado.** El 22 de septiembre de 2026 el Congreso aceptó tramitar una proposición de ley para que quien se jubile anticipadamente con **40 años cotizados** no sufra **ningún recorte** en su pensión, tanto si se jubila por decisión propia como si lo hace tras un despido. Pero el **6 de octubre** se disolvieron las Cortes para las [elecciones del 29 de noviembre](/cuanto-cobrare/elecciones-y-pensiones/), y con la disolución **decaen** todas las leyes que estaban a medio tramitar. Para salir adelante, tendrá que volver a presentarse en la próxima legislatura y **empezar de cero**.
+> **La jubilación anticipada con 40 años cotizados sin penalización no es ley, y su tramitación se ha cortado.** El 22 de septiembre de 2026 el Congreso aceptó tramitar una proposición de ley para que quien se jubile anticipadamente con **40 años cotizados** no sufra **ningún recorte** en su pensión, tanto si se jubila por decisión propia como si lo hace tras un despido. Pero el **6 de octubre** se disolvieron las Cortes para las [elecciones del 29 de noviembre](/cuanto-cobrare/elecciones-y-pensiones/), y con la disolución **decaen** todas las leyes que estaban a medio tramitar. Para salir adelante, tendrá que volver a presentarse en la próxima legislatura y **empezar de cero**.
 >
 > Mientras tanto, rige la ley actual: con 40 años cotizados, jubilarte **2 años antes** por voluntad propia te cuesta un **19 %** de pensión para siempre, y si te despidieron y adelantas **4 años**, un **28 %**.
 

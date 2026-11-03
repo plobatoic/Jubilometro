@@ -6,6 +6,8 @@ url: /dependencia/tiempos-dependencia/
 categoria: Dependencia
 miga: Cuánto tarda la dependencia
 palabra_clave_principal: cuánto tarda la dependencia
+palabras_clave_secundarias:
+  - "cuanto tarda la ley de dependencia"
 intencion: informativa
 fase_plan: F2 (artículo n.º 69)
 fecha_actualizacion: 2026-10-21

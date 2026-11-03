@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación parcial y contrato de relevo en 2026: requisitos"
 h1: "Jubilación parcial con contrato de relevo: requisitos y quién puede pedirla"
-meta_descripcion: "Desde 2025 puedes jubilarte parcialmente hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, jornada y ejemplos."
+meta_descripcion: "Jubilación parcial 2026: hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, reducción de jornada y ejemplos."
 url: /jubilacion/parcial/
 categoria: Jubilación
 miga: Jubilación parcial
 palabra_clave_principal: jubilación parcial
+palabras_clave_secundarias:
+  - "jubilacion parcial 2026"
+  - "jubilacion parcial con contrato relevo 2026"
+  - "jubilacion parcial contrato relevo"
+  - "jubilacion parcial a los 62 años"
 intencion: informativa
 fase_plan: F2 (artículo n.º 8)
 fecha_actualizacion: 2026-10-20

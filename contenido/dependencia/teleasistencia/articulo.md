@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Teleasistencia para mayores: cómo pedirla, precio y requisitos"
 h1: "Teleasistencia para personas mayores: qué es, cuánto cuesta y cómo pedirla con o sin dependencia"
-meta_descripcion: "Un botón conectado 24 horas con una central. Se pide con la dependencia o en tu ayuntamiento y suele ser gratis o de pocos euros al mes. Te explicamos cómo."
+meta_descripcion: "Teleasistencia para mayores: un botón conectado 24 horas con una central. Se pide con la dependencia o en el ayuntamiento y suele ser gratis o casi gratis."
 url: /dependencia/teleasistencia/
 categoria: Dependencia
 miga: Teleasistencia
 palabra_clave_principal: teleasistencia
+palabras_clave_secundarias:
+  - "teleasistencia como funciona"
+  - "teleasistencia como se conecta"
+  - "como es la teleasistencia"
+  - "teleasistencia como se solicita"
 intencion: informativa
 fase_plan: F3 (artículo n.º 74)
 fecha_actualizacion: 2026-10-20

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación anticipada voluntaria 2027: requisitos y recortes"
 h1: "Jubilación anticipada voluntaria: requisitos, coeficientes reductores y ejemplos con cifras"
-meta_descripcion: "Puedes jubilarte hasta 2 años antes con 35 años cotizados, pero pierdes entre un 2,81 % y un 21 % de pensión para siempre. Requisitos y ejemplos."
+meta_descripcion: "Jubilación anticipada voluntaria: hasta 2 años antes con 35 años cotizados, perdiendo entre un 2,81 % y un 21 % de pensión para siempre. Ejemplos."
 url: /jubilacion/anticipada-voluntaria/
 categoria: Jubilación
 miga: Jubilación anticipada voluntaria
 palabra_clave_principal: jubilación anticipada voluntaria
+palabras_clave_secundarias:
+  - "jubilacion anticipada voluntaria en 2026"
+  - "jubilacion anticipada voluntaria en 2027"
+  - "jubilacion anticipada voluntaria coeficientes reductores"
+  - "jubilacion anticipada voluntaria requisitos 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 2)
 fecha_actualizacion: 2026-10-20
@@ -22,7 +27,7 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> Puedes jubilarte por decisión propia **hasta 2 años antes** de tu edad ordinaria si tienes **35 años cotizados**, 2 de ellos dentro de los últimos 15. A cambio, tu pensión se reduce **entre un 2,81 % y un 21 %** según los meses que adelantes y los años que hayas cotizado, y ese recorte es **para siempre**.
+> Con la **jubilación anticipada voluntaria** puedes jubilarte por decisión propia **hasta 2 años antes** de tu edad ordinaria si tienes **35 años cotizados**, 2 de ellos dentro de los últimos 15. A cambio, tu pensión se reduce **entre un 2,81 % y un 21 %** según los meses que adelantes y los años que hayas cotizado, y ese recorte es **para siempre**.
 >
 > En 2027 la edad mínima es **65 años** si has cotizado menos de 38 años y 6 meses, o **63 años** si llegas a esa cotización. Además, la pensión que te quede debe superar la pensión mínima que te correspondería a los 65 años.
 

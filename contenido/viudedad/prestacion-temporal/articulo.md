@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Prestación temporal de viudedad 2026: requisitos y duración"
 h1: "Prestación temporal de viudedad: qué pasa si llevabais menos de un año casados o de dos inscritos como pareja de hecho"
-meta_descripcion: "Si no llegabais a un año de matrimonio o a dos de pareja de hecho inscrita, cobras lo mismo que la viudedad durante dos años. Cuándo se aplica y ejemplos."
+meta_descripcion: "Prestación temporal de viudedad: si no llegabais a un año de matrimonio o a dos de pareja de hecho, cobras lo mismo que la viudedad durante dos años."
 url: /viudedad/prestacion-temporal/
 categoria: Viudedad
 miga: Prestación temporal de viudedad
 palabra_clave_principal: prestación temporal de viudedad
+palabras_clave_secundarias:
+  - "prestación temporal de viudedad requisitos"
+  - "prestacion temporal de viudedad duracion"
+  - "prestacion temporal viudedad pareja de hecho"
+  - "cuanto dura la prestacion temporal de viudedad"
 intencion: informativa
 fase_plan: F3 (artículo extra de viudedad)
 fecha_actualizacion: 2026-10-21

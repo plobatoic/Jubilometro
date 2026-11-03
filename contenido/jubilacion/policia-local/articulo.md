@@ -6,6 +6,11 @@ url: /jubilacion/policia-local/
 categoria: Jubilación
 miga: Jubilación de la policía local
 palabra_clave_principal: jubilación policía local
+palabras_clave_secundarias:
+  - "jubilacion policia local 2026"
+  - "jubilacion policia local anticipada"
+  - "jubilación policía local 59 años"
+  - "jubilación policía local 60 años"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-27

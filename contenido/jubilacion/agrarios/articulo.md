@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Jubilación de trabajadores agrarios: reglas y cotización 2026"
 h1: "Jubilación de los trabajadores agrarios: qué cambia para jornaleros y agricultores autónomos"
-meta_descripcion: "Los jornaleros se jubilan como en el Régimen General, con reglas propias: cuotas de inactividad, lagunas sin cubrir y 6 años en el campo para la anticipada."
+meta_descripcion: "Jubilación de los trabajadores agrarios: igual que en el Régimen General, con reglas propias de cotización y lagunas y 6 años en el campo para la anticipada."
 url: /jubilacion/agrarios/
 categoria: Jubilación
 miga: Jubilación de los trabajadores agrarios

@@ -6,6 +6,11 @@ url: /incapacidad/denegada/
 categoria: Incapacidad
 miga: Incapacidad denegada
 palabra_clave_principal: incapacidad permanente denegada
+palabras_clave_secundarias:
+  - "incapacidad permanente denegada que hacer"
+  - "incapacidad permanente denegada quién me paga"
+  - "reclamacion incapacidad permanente denegada"
+  - "resolución incapacidad permanente denegada"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 50)
 fecha_actualizacion: 2026-09-28

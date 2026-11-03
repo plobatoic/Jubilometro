@@ -6,6 +6,11 @@ url: /viudedad/requisitos/
 categoria: Viudedad
 miga: Requisitos
 palabra_clave_principal: requisitos pensión de viudedad
+palabras_clave_secundarias:
+  - "requisitos pension de viudedad pareja de hecho"
+  - "requisitos pension viudedad divorciados"
+  - "requisitos para cobrar pensión de viudedad divorciada víctimas"
+  - "requisitos para solicitar pensión de viudedad"
 intencion: informativa
 fase_plan: F1 (artículo n.º 37a)
 fecha_actualizacion: 2026-10-21

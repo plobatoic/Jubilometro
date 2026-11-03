@@ -6,6 +6,11 @@ url: /jubilacion/bomberos/
 categoria: Jubilación
 miga: Jubilación de los bomberos
 palabra_clave_principal: jubilación bomberos
+palabras_clave_secundarias:
+  - "jubilacion bomberos 59 años"
+  - "jubilación bomberos forestales"
+  - "jubilación bomberos seguridad social"
+  - "calculadora jubilacion bomberos"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

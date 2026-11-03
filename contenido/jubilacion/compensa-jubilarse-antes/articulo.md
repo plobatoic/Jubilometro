@@ -1,7 +1,7 @@
 ---
 titulo_seo: "¿Compensa jubilarse antes? Cálculo a los 63, 64 y 65 años"
 h1: "¿Compensa jubilarse antes? Comparativa real a los 63, 64 y 65 años"
-meta_descripcion: "Si te jubilas 2 años antes, la ventaja se agota entre los 73 y los 78 años. Calcula tu punto de equilibrio con tu recorte real y ejemplos."
+meta_descripcion: "¿Compensa jubilarse antes? Si adelantas 2 años, la ventaja se agota entre los 73 y los 78 años. Calcula tu punto de equilibrio con tu recorte real."
 url: /jubilacion/compensa-jubilarse-antes/
 categoria: Jubilación
 miga: ¿Compensa jubilarse antes?

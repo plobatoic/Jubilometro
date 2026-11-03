@@ -6,6 +6,11 @@ url: /dinero/herencias-donaciones/
 categoria: Dinero
 miga: Herencias y donaciones
 palabra_clave_principal: herencia o donación en vida
+palabras_clave_secundarias:
+  - "mejor herencia o donacion en vida"
+  - "herencia o donación en vida como se ahorra más dinero en impuestos"
+  - "que es mejor herencia o donacion en vida"
+  - "qué es mejor donación o herencia"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-09-29

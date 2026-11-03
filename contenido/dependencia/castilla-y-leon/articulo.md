@@ -6,6 +6,11 @@ url: /dependencia/castilla-y-leon/
 categoria: Dependencia
 miga: Dependencia en Castilla y León
 palabra_clave_principal: dependencia Castilla y León
+palabras_clave_secundarias:
+  - "dependencia castilla y leon solicitud"
+  - "dependencia castilla y leon telefono"
+  - "dependencia castilla y leon 2026"
+  - "dependencia castilla y leon sede electronica"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

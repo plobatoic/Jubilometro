@@ -6,6 +6,11 @@ url: /dependencia/galicia/
 categoria: Dependencia
 miga: Dependencia en Galicia
 palabra_clave_principal: dependencia Galicia
+palabras_clave_secundarias:
+  - "dependencia galicia 2026"
+  - "dependencia galicia telefono"
+  - "dependencia galicia ayudas"
+  - "ley dependencia galicia"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

@@ -6,6 +6,11 @@ url: /dependencia/reclamar-dependencia/
 categoria: Dependencia
 miga: Reclamar la dependencia
 palabra_clave_principal: reclamar dependencia
+palabras_clave_secundarias:
+  - "reclamar ayuda dependencia"
+  - "reclamar resolucion dependencia"
+  - "reclamar valoracion dependencia"
+  - "reclamar grado dependencia"
 intencion: transaccional
 fase_plan: F3 (artículo n.º 70)
 fecha_actualizacion: 2026-10-20

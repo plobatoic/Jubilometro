@@ -6,6 +6,11 @@ url: /dinero/rescate-plan-pensiones/
 categoria: Dinero
 miga: Rescate del plan de pensiones
 palabra_clave_principal: rescate plan de pensiones
+palabras_clave_secundarias:
+  - "rescate plan de pensiones 10 años"
+  - "rescate plan de pensiones 2026"
+  - "rescate plan de pensiones aportaciones anteriores a 2006"
+  - "rescate plan de pensiones aportaciones anteriores a 2007"
 intencion: informativa
 fase_plan: F1 (artículo n.º 80)
 fecha_actualizacion: 2026-10-20
@@ -121,6 +126,10 @@ No. Puedes dejarlo invertido todo el tiempo que quieras y cobrarlo más tarde. L
 
 Sí. La gestora aplica una retención en cada pago, que luego se ajusta en tu declaración de la renta.
 
+### ¿Cómo se declara el rescate del plan de pensiones en la renta?
+
+Como rendimiento del trabajo: se suma a tu pensión y a tus otros ingresos y tributa a tu tipo marginal. La gestora te retiene IRPF en cada pago, y esa retención se descuenta en la declaración. La parte que corresponde a aportaciones hechas hasta 2006, cobrada en forma de capital, puede tener la reducción del 40 % con los plazos que explicamos arriba.
+
 ## Fuentes oficiales
 
 - [Reglamento de planes y fondos de pensiones (Real Decreto 304/2004), artículos 7 a 10](https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453) (BOE).
@@ -140,4 +149,4 @@ Sí. La gestora aplica una retención en cada pago, que luego se ajusta en tu de
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de tu gestora. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, corrección ortográfica. 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, corrección ortográfica. 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 28 de septiembre de 2026, primera versión.*

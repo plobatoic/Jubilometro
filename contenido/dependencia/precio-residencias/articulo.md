@@ -6,6 +6,11 @@ url: /dependencia/precio-residencias/
 categoria: Dependencia
 miga: Precio de las residencias
 palabra_clave_principal: precio residencia de mayores
+palabras_clave_secundarias:
+  - "precio residencia mayores privada"
+  - "que precio tiene una residencia de mayores"
+  - "cuanto cuesta una residencia de mayores"
+  - "residencia de personas mayores"
 intencion: informativa
 fase_plan: F1 (artículo n.º 72)
 fecha_actualizacion: 2026-10-20

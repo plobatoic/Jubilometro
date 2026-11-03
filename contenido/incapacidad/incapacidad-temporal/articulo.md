@@ -6,6 +6,11 @@ url: /incapacidad/incapacidad-temporal/
 categoria: Incapacidad
 miga: Incapacidad temporal
 palabra_clave_principal: incapacidad temporal 545 días
+palabras_clave_secundarias:
+  - "incapacidad temporal tras 545 dias"
+  - "incapacidad temporal mas de 545 dias"
+  - "incapacidad temporal a incapacidad permanente"
+  - "duración de la incapacidad temporal"
 intencion: informativa
 fase_plan: F2 (artículo n.º 52)
 fecha_actualizacion: 2026-10-27

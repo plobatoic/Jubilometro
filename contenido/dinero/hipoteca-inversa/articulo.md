@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Hipoteca inversa, nuda propiedad o renta vitalicia en 2026"
 h1: "Hipoteca inversa, venta de la nuda propiedad o renta vitalicia: cómo sacar dinero de tu casa sin dejar de vivir en ella"
-meta_descripcion: "Tres formas de obtener dinero de tu vivienda después de los 65 y seguir viviendo en ella. Cómo funcionan, qué pasa con los herederos y cómo tributa cada una."
+meta_descripcion: "Hipoteca inversa, nuda propiedad o renta vitalicia: tres formas de sacar dinero de tu vivienda después de los 65 sin dejar de vivir en ella. Cómo tributan."
 url: /dinero/hipoteca-inversa/
 categoria: Dinero
 miga: Hipoteca inversa y nuda propiedad
 palabra_clave_principal: hipoteca inversa
+palabras_clave_secundarias:
+  - "hipoteca inversa como funciona"
+  - "hipoteca inversa o nuda propiedad"
+  - "hipoteca inversa que es"
+  - "como es hipoteca inversa"
 intencion: informativa
 fase_plan: F2 (artículo n.º 82)
 fecha_actualizacion: 2026-10-20
@@ -103,6 +108,10 @@ Si es tu vivienda habitual y tienes más de 65 años, la ganancia está exenta, 
 
 Tú, como usufructuario: el IBI lo paga el titular del usufructo antes que el propietario.
 
+### ¿Qué es mejor, la hipoteca inversa o la nuda propiedad?
+
+Depende de lo que quieras para tu casa y tus herederos. Con la hipoteca inversa sigues siendo el dueño, tus hijos heredan la casa con la deuda (pueden pagarla o vender) y lo que cobras no es renta en el IRPF. Con la venta de la nuda propiedad cobras el precio y vives en la casa de por vida, pero tus hijos no heredan nada de ella; la ganancia está exenta si es tu vivienda habitual y tienes más de 65 años.
+
 ## Fuentes oficiales
 
 - [Ley 41/2007, disposición adicional primera (hipoteca inversa)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21086) (BOE).
@@ -121,4 +130,4 @@ Tú, como usufructuario: el IBI lo paga el titular del usufructo antes que el pr
 
 *Este artículo es informativo y no sustituye el asesoramiento financiero, fiscal o legal independiente, obligatorio en la hipoteca inversa. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, precisada la edad del 8 % de la renta vitalicia. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, precisada la edad del 8 % de la renta vitalicia. 28 de septiembre de 2026, primera versión.*

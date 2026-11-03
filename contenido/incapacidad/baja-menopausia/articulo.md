@@ -6,6 +6,9 @@ url: /incapacidad/baja-menopausia/
 categoria: Incapacidad
 miga: Baja por menopausia
 palabra_clave_principal: baja por menopausia
+palabras_clave_secundarias:
+  - "baja laboral por menopausia"
+  - "baja medica por menopausia"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-22

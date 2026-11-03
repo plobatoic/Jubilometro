@@ -6,6 +6,8 @@ url: /dependencia/grado-discapacidad/
 categoria: Dependencia
 miga: Grado de discapacidad
 palabra_clave_principal: grado de discapacidad 33 y 65
+palabras_clave_secundarias:
+  - "grado de discapacidad y grado de dependencia"
 intencion: informativa
 fase_plan: F2 (artículo n.º 77)
 fecha_actualizacion: 2026-10-20

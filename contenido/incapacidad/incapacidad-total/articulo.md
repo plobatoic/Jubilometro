@@ -6,6 +6,11 @@ url: /incapacidad/incapacidad-total/
 categoria: Incapacidad
 miga: Incapacidad total
 palabra_clave_principal: incapacidad permanente total
+palabras_clave_secundarias:
+  - "incapacidad permanente total a partir de 60 años"
+  - "incapacidad permanente total cualificada"
+  - "incapacidad permanente total a partir de 60 años 2026"
+  - "incapacidad permanente total a partir de 65 años"
 intencion: informativa
 fase_plan: F1 (artículo n.º 46)
 fecha_actualizacion: 2026-10-20

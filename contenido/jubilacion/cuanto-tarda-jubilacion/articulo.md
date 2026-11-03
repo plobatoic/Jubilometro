@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cuánto tarda la jubilación y qué hacer si se retrasa"
 h1: "Cuánto tarda en resolverse la jubilación y qué hacer si se retrasa"
-meta_descripcion: "La Seguridad Social resuelve la jubilación en unos 7 días de media, pero tiene hasta 90. Qué hacer si se retrasa, cómo reclamar y cuándo cobras los atrasos."
+meta_descripcion: "¿Cuánto tarda en resolverse la jubilación? Unos 10 días de media (9,63 en septiembre de 2026), con un máximo de 90. Qué hacer si se retrasa y cómo reclamar."
 url: /jubilacion/cuanto-tarda-jubilacion/
 categoria: Jubilación
 miga: Cuánto tarda la jubilación
 palabra_clave_principal: cuánto tarda en resolverse la jubilación
+palabras_clave_secundarias:
+  - "cuanto tarda en resolverse la solicitud de jubilacion"
+  - "cuanto tarda en resolverse un expediente de jubilacion"
+  - "cuanto se tarda en cobrar la jubilación"
+  - "con cuanto tiempo se solicita la jubilación"
 intencion: informativa
 fase_plan: F3 (artículo n.º 15)
 fecha_actualizacion: 2026-10-30
@@ -71,7 +76,7 @@ Revisa los años cotizados, la base reguladora, el porcentaje y la fecha de efec
 
 ### ¿Cuánto tarda la Seguridad Social en contestar la jubilación?
 
-Tiene hasta 90 días, pero en 2026 la media ha sido de unos 7 días.
+Tiene hasta 90 días, pero en la práctica tarda mucho menos: en septiembre de 2026 la media fue de 9,63 días.
 
 ### ¿Pierdo dinero si la resolución se retrasa?
 

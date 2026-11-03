@@ -6,6 +6,11 @@ url: /incapacidad/incapacidad-parcial/
 categoria: Incapacidad
 miga: Incapacidad permanente parcial
 palabra_clave_principal: incapacidad permanente parcial
+palabras_clave_secundarias:
+  - "incapacidad permanente parcial ejemplos"
+  - "incapacidad permanente parcial requisitos"
+  - "incapacidad permanente parcial que se cobra"
+  - "incapacidad permanente parcial para la profesión habitual"
 intencion: informativa
 fase_plan: F3 (artículo extra de incapacidad)
 fecha_actualizacion: 2026-09-29

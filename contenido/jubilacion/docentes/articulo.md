@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación de docentes: a qué edad y cuánto cobra un profesor"
 h1: "Jubilación de los docentes: a qué edad se jubila un maestro o un profesor y cuánto cobra"
-meta_descripcion: "Los docentes funcionarios se jubilan a los 65 o al acabar ese curso, y en la universidad, a los 70. Clases Pasivas o Seguridad Social y cuánto se cobra."
+meta_descripcion: "Jubilación de docentes: los funcionarios se jubilan a los 65 o al acabar el curso, y en la universidad a los 70. Clases Pasivas o Seguridad Social y pensión."
 url: /jubilacion/docentes/
 categoria: Jubilación
 miga: Jubilación de los docentes
 palabra_clave_principal: jubilación docentes
+palabras_clave_secundarias:
+  - "jubilacion docentes muface"
+  - "jubilacion docentes 60 años"
+  - "jubilacion docentes universitarios"
+  - "jubilación docente"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-06

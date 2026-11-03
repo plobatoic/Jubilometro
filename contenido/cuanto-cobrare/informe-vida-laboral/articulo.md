@@ -6,6 +6,11 @@ url: /cuanto-cobrare/informe-vida-laboral/
 categoria: Cuánto cobraré
 miga: Informe de vida laboral
 palabra_clave_principal: informe de vida laboral
+palabras_clave_secundarias:
+  - "informe de vida laboral seguridad social"
+  - "informe de vida laboral sms"
+  - "informe de vida laboral online"
+  - "informe de vida laboral con certificado digital"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 32)
 fecha_actualizacion: 2026-10-20

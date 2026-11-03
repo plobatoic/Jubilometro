@@ -6,6 +6,11 @@ url: /cuanto-cobrare/base-reguladora/
 categoria: Cuánto cobraré
 miga: Base reguladora
 palabra_clave_principal: base reguladora jubilación
+palabras_clave_secundarias:
+  - "base reguladora jubilación 2027"
+  - "base reguladora jubilacion 2026"
+  - "base reguladora jubilacion autonomos"
+  - "base reguladora jubilacion seguridad social"
 intencion: informativa
 fase_plan: F2 (artículo n.º 23)
 fecha_actualizacion: 2026-09-28

@@ -1,11 +1,14 @@
 ---
 titulo_seo: "Seguro de decesos a partir de los 60: qué cubre y tus derechos"
 h1: "Seguro de decesos a partir de los 60: qué cubre, qué pasa con las primas y los derechos que te da la ley"
-meta_descripcion: "El seguro de decesos paga el servicio funerario pactado. No pueden darte de baja por la edad y el dinero sobrante es de tus herederos. Qué mirar."
+meta_descripcion: "Seguro de decesos para mayores de 60: paga el funeral pactado, no pueden darte de baja por la edad y el dinero sobrante es de tus herederos. Qué mirar."
 url: /dinero/seguro-decesos/
 categoria: Dinero
 miga: Seguro de decesos
 palabra_clave_principal: seguro de decesos mayores de 60
+palabras_clave_secundarias:
+  - "seguro de decesos mayores de 60 años"
+  - "cuanto cuesta un seguro de decesos para mayores de 60 años"
 intencion: informativa
 fase_plan: F2 (artículo n.º 85)
 fecha_actualizacion: 2026-10-20

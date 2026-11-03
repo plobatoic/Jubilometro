@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Prejubilación: el convenio especial con 55 años en un ERE"
 h1: "Prejubilación: qué es, quién paga tu cotización si te despiden con 55 años y cómo llegar a la jubilación"
-meta_descripcion: "Despido colectivo con 55 años o más: la empresa paga tu convenio especial con la Seguridad Social hasta los 63 (61 por causas económicas). Cómo funciona."
+meta_descripcion: "Prejubilación: en un despido colectivo con 55 años o más, la empresa paga tu convenio especial hasta los 63 (61 por causas económicas). Cómo funciona."
 url: /jubilacion/prejubilacion/
 categoria: Jubilación
 miga: Prejubilación
 palabra_clave_principal: prejubilación
+palabras_clave_secundarias:
+  - "prejubilacion 63 años"
+  - "prejubilacion a los 63 años requisitos"
+  - "prejubilacion como funciona"
+  - "como hacer prejubilacion"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12

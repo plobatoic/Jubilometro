@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Ayuda a domicilio para mayores: horas, precio y cómo pedirla"
 h1: "Servicio de ayuda a domicilio para mayores: cuántas horas dan, cuánto cuesta y cómo pedirlo"
-meta_descripcion: "Con la dependencia, de 20 a 94 horas al mes de ayuda en casa según el grado, pagando según tus ingresos. También lo dan los ayuntamientos. Cómo pedirlo."
+meta_descripcion: "Ayuda a domicilio para mayores con la dependencia: de 20 a 94 horas al mes según el grado, pagando según tus ingresos. También la dan los ayuntamientos."
 url: /dependencia/ayuda-a-domicilio/
 categoria: Dependencia
 miga: Ayuda a domicilio
 palabra_clave_principal: ayuda a domicilio
+palabras_clave_secundarias:
+  - "ayuda a domicilio para personas mayores"
+  - "como solicitar ayuda a domicilio para personas mayores"
+  - "como solicitar ayuda a domicilio"
+  - "como se solicita ayuda a domicilio"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

@@ -6,6 +6,11 @@ url: /viudedad/divorcio-separacion/
 categoria: Viudedad
 miga: Viudedad tras divorcio o separación
 palabra_clave_principal: pensión de viudedad divorciados
+palabras_clave_secundarias:
+  - "pensión de viudedad divorciados seguridad social"
+  - "pension de viudedad requisitos divorciados"
+  - "pension de viudedad separados y divorciados"
+  - "pensión de viudedad divorciados sin pensión compensatoria"
 intencion: informativa
 fase_plan: F3 (artículo n.º 41)
 fecha_actualizacion: 2026-10-21

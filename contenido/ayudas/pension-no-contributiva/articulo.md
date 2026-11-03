@@ -6,6 +6,11 @@ url: /ayudas/pension-no-contributiva/
 categoria: Ayudas
 miga: Pensión no contributiva
 palabra_clave_principal: pensión no contributiva jubilación
+palabras_clave_secundarias:
+  - "pension no contributiva jubilacion cuantia"
+  - "pension no contributiva jubilacion 2026"
+  - "pensión no contributiva jubilación requisitos"
+  - "como solicitar pension no contributiva por jubilacion"
 intencion: informativa
 fase_plan: F1 (artículo n.º 55)
 fecha_actualizacion: 2026-10-12

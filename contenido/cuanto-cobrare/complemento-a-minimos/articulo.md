@@ -6,6 +6,11 @@ url: /cuanto-cobrare/complemento-a-minimos/
 categoria: Cuánto cobraré
 miga: Complemento a mínimos
 palabra_clave_principal: complemento a mínimos
+palabras_clave_secundarias:
+  - "complemento a minimos 2026"
+  - "complemento a minimos pension"
+  - "complemento a minimos pension jubilacion 2026"
+  - "complemento a minimos pension viudedad"
 intencion: informativa
 fase_plan: F2 (artículo n.º 28)
 fecha_actualizacion: 2026-11-01
@@ -119,6 +124,10 @@ Solo si lo que ganas (más tus otros ingresos) no supera 9.442 euros al año, o 
 
 No, en las pensiones causadas desde 2013: exige residir en España. Las anteriores lo mantienen.
 
+### ¿Cómo se solicita el complemento a mínimos?
+
+Se pide junto con la pensión: en la solicitud declaras los ingresos que prevés tener en el año (y los de tu cónyuge, si está a cargo) y, si cumples los requisitos, te lo reconocen con ella. Si lo pides más tarde, tiene efectos desde los tres meses anteriores a la solicitud, siempre que ya cumplieras los requisitos.
+
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social, artículo 59 y disposición transitoria 27.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
@@ -135,4 +144,4 @@ No, en las pensiones causadas desde 2013: exige residir en España. Las anterior
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, quitado un enlace repetido. 14 de octubre de 2026, enlaces a la pensión a favor de familiares y a lo que pagan los mayores en la farmacia. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, quitado un enlace repetido. 14 de octubre de 2026, enlaces a la pensión a favor de familiares y a lo que pagan los mayores en la farmacia. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*

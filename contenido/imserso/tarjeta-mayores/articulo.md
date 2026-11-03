@@ -6,6 +6,11 @@ url: /imserso/tarjeta-mayores/
 categoria: IMSERSO
 miga: Tarjeta dorada y carné de mayores
 palabra_clave_principal: tarjeta dorada
+palabras_clave_secundarias:
+  - "tarjeta dorada renfe"
+  - "tarjeta dorada renfe gratuita"
+  - "tarjeta dorada renfe renovar"
+  - "tarjeta dorada renfe discapacidad"
 intencion: informativa
 fase_plan: F3 (artículo n.º 92)
 fecha_actualizacion: 2026-10-20

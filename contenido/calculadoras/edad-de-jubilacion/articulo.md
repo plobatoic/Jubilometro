@@ -1,11 +1,15 @@
 ---
 titulo_seo: "Calculadora de edad de jubilación 2027: tu fecha exacta"
 h1: "Calculadora de edad de jubilación: tu fecha exacta según lo que llevas cotizado"
-meta_descripcion: "Calcula gratis el día en que podrás jubilarte con tu fecha de nacimiento y tus años cotizados, con las reglas de 2026, 2027 y siguientes. Sin guardar datos."
+meta_descripcion: "Calculadora de edad de jubilación gratis: el día exacto en que te jubilas según tu fecha de nacimiento y tus años cotizados, con las reglas de 2026 y 2027."
 url: /calculadoras/edad-de-jubilacion/
 categoria: Calculadoras
 miga: Calculadora de edad de jubilación
 palabra_clave_principal: calculadora edad de jubilación
+palabras_clave_secundarias:
+  - "calculadora edad jubilacion seguridad social"
+  - "calculadora fecha de jubilación"
+  - "años para el cálculo de la jubilación"
 intencion: transaccional (herramienta)
 fase_plan: F1 (herramienta n.º 94)
 fecha_actualizacion: 2026-10-20

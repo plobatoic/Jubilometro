@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cómo reservar un viaje del Imserso paso a paso (2026-2027)"
 h1: "Cómo reservar un viaje del Imserso paso a paso: por internet o en agencia, cómo pagarlo y cómo cancelarlo"
-meta_descripcion: "Con tu DNI y la clave de 4 dígitos reservas en turismosocial.es, mundicolor.es o una agencia. Plazos de pago, gastos de agencia y lo que cuesta cancelar."
+meta_descripcion: "Reservar un viaje del Imserso: con tu DNI y la clave de 4 dígitos, en turismosocial.es, mundicolor.es o una agencia. Plazos de pago y cancelación."
 url: /imserso/solicitar-viajes/
 categoria: IMSERSO
 miga: Cómo reservar los viajes
 palabra_clave_principal: reservar viaje Imserso
+palabras_clave_secundarias:
+  - "reservar viaje imserso 2026"
+  - "reservar viaje imserso mundicolor"
+  - "reservar viaje imserso 2027"
+  - "como reservar viaje imserso por internet"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

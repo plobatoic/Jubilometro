@@ -6,6 +6,11 @@ url: /incapacidad/incapacidad-absoluta/
 categoria: Incapacidad
 miga: Incapacidad absoluta
 palabra_clave_principal: incapacidad permanente absoluta
+palabras_clave_secundarias:
+  - "incapacidad permanente absoluta cuánto se cobra"
+  - "incapacidad permanente absoluta que grado de discapacidad tiene"
+  - "incapacidad permanente absoluta ejemplos"
+  - "incapacidad permanente absoluta se puede trabajar"
 intencion: informativa
 fase_plan: F2 (artículo n.º 47)
 fecha_actualizacion: 2026-09-29
@@ -113,6 +118,10 @@ Puedes hacer actividades compatibles con tu estado, pero si el trabajo requiere 
 
 Sí: si no estás de alta ni en situación asimilada, hacen falta 15 años cotizados, al menos 3 de ellos en los últimos 10.
 
+### ¿Cómo se solicita la incapacidad permanente absoluta?
+
+Como cualquier incapacidad permanente: se abre un expediente y el tribunal médico valora qué grado te corresponde. Lo inicia el INSS (por ejemplo, al agotarse la baja de 545 días), tu mutua o tú mismo, con una solicitud en la sede electrónica de la Seguridad Social o en un CAISS con cita previa. Lo explicamos paso a paso en [cómo solicitar la incapacidad permanente](/incapacidad/solicitar/).
+
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social: artículos 195 a 198, 200 y disposición transitoria 26.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
@@ -130,4 +139,4 @@ Sí: si no estás de alta ni en situación asimilada, hacen falta 15 años cotiz
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y su grado. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión si se trabaja con alta (artículo 198.2 en la redacción de la Ley 7/2024).*
+*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, suspensión de la pensión si se trabaja con alta (artículo 198.2 en la redacción de la Ley 7/2024).*

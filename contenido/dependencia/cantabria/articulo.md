@@ -6,6 +6,11 @@ url: /dependencia/cantabria/
 categoria: Dependencia
 miga: Dependencia en Cantabria
 palabra_clave_principal: dependencia Cantabria
+palabras_clave_secundarias:
+  - "ley dependencia cantabria"
+  - "solicitud dependencia cantabria"
+  - "ayudas dependencia cantabria"
+  - "icass dependencia cantabria"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

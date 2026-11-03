@@ -6,6 +6,11 @@ url: /dependencia/la-rioja/
 categoria: Dependencia
 miga: Dependencia en La Rioja
 palabra_clave_principal: dependencia La Rioja
+palabras_clave_secundarias:
+  - "dependencia la rioja solicitud"
+  - "prestaciones dependencia la rioja"
+  - "ley dependencia la rioja"
+  - "ayudas dependencia la rioja"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

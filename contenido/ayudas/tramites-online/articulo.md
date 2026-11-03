@@ -1,11 +1,13 @@
 ---
 titulo_seo: "Trámites online para mayores: Cl@ve, SMS y la pensión"
 h1: "Trámites online para mayores: cómo hacer por internet las gestiones de la pensión, paso a paso"
-meta_descripcion: "Cómo registrarte en Cl@ve, sacar la vida laboral o el certificado de tu pensión con un SMS, pedir prestaciones sin certificado y autorizar a un familiar."
+meta_descripcion: "Trámites online para mayores: cómo registrarte en Cl@ve, sacar la vida laboral o el certificado de tu pensión con un SMS y autorizar a un familiar."
 url: /ayudas/tramites-online/
 categoria: Ayudas
 miga: Trámites online
 palabra_clave_principal: trámites online para mayores
+palabras_clave_secundarias:
+  - "solicitud prestaciones de mayores"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12
@@ -22,6 +24,8 @@ fuentes_legales:
 *Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en Cl@ve, la Seguridad Social, la Agencia Tributaria e INCIBE*
 
 > **Respuesta rápida**
+>
+> Para hacer **trámites online** con la Administración siendo mayor, esto es lo esencial:
 >
 > - La llave para casi todo es **Cl@ve**: con la **app Cl@ve** en el móvil entras en la Seguridad Social, Hacienda y el resto de la Administración sin recordar contraseñas. Te registras **por videollamada** desde el móvil, con una **carta de invitación** que te llega a casa o **en una oficina** (Seguridad Social, Hacienda, SEPE…) con tu DNI.
 > - **Sin Cl@ve**, la Seguridad Social te deja sacar la **vida laboral** y los **certificados de tu pensión** con un **código por SMS**, si le has dado tu número de móvil, y pedir prestaciones como la jubilación con tu correo, una **foto del DNI** y un **selfi**.

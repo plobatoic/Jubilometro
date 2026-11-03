@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cita previa Seguridad Social: teléfono, web y sin certificado"
 h1: "Cita previa en la Seguridad Social: cómo pedirla por teléfono o por internet, incluso sin certificado digital"
-meta_descripcion: "Teléfonos de cita previa del INSS (24 horas), cómo pedirla por internet con o sin certificado, cómo cambiarla y qué trámites puedes hacer sin ir a la oficina."
+meta_descripcion: "Cita previa en la Seguridad Social: teléfonos del INSS (24 horas), cómo pedirla por internet con o sin certificado y qué trámites haces sin ir a la oficina."
 url: /jubilacion/cita-previa-seguridad-social/
 categoria: Jubilación
 miga: Cita previa Seguridad Social
 palabra_clave_principal: cita previa seguridad social
+palabras_clave_secundarias:
+  - "cita previa seguridad social sin certificado"
+  - "cita previa seguridad social jubilación"
+  - "cita previa seguridad social certificado digital"
+  - "cita previa seguridad social sms"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-12

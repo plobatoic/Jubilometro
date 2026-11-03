@@ -1,11 +1,13 @@
 ---
 titulo_seo: "Ayudas para adaptar la casa de una persona mayor (2026)"
 h1: "Ayudas para adaptar la vivienda de una persona mayor en 2026: subvenciones, obras en la comunidad de vecinos y alquiler"
-meta_descripcion: "El plan de vivienda 2026-2030 paga hasta el 80 % de las obras de accesibilidad si vive un mayor de 65 años. Qué debe hacer tu comunidad, tu casero y Hacienda."
+meta_descripcion: "Ayudas para adaptar la vivienda de personas mayores: el plan 2026-2030 paga hasta el 80 % de las obras de accesibilidad si vive un mayor de 65 años."
 url: /ayudas/ayudas-vivienda/
 categoria: Ayudas
 miga: Adaptar la vivienda
 palabra_clave_principal: ayudas adaptar vivienda personas mayores
+palabras_clave_secundarias:
+  - "ayudas a domicilio para personas mayores"
 intencion: informativa
 fase_plan: F3 (artículo n.º 76)
 fecha_actualizacion: 2026-10-20

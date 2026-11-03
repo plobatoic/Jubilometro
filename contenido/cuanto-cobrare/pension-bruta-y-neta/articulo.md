@@ -6,6 +6,8 @@ url: /cuanto-cobrare/pension-bruta-y-neta/
 categoria: Cuánto cobraré
 miga: Pensión bruta y neta
 palabra_clave_principal: pensión neta IRPF
+palabras_clave_secundarias:
+  - "calculadora pensión neta irpf"
 intencion: informativa
 fase_plan: F2 (artículo n.º 31)
 fecha_actualizacion: 2026-10-20

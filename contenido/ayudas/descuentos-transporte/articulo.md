@@ -1,11 +1,14 @@
 ---
 titulo_seo: "Descuentos en transporte para pensionistas y mayores (2026)"
 h1: "Descuentos en transporte para pensionistas y mayores en 2026: tren, autobús y metro más baratos o gratis"
-meta_descripcion: "Abono +65 gratis en Madrid, Targeta Rosa en Barcelona, bus gratis en Galicia, Tarjeta Dorada de Renfe y abono de Cercanías a 20 €. Requisitos y cómo pedirlos."
+meta_descripcion: "Descuentos en transporte para pensionistas: Abono +65 gratis en Madrid, Targeta Rosa en Barcelona, bus gratis en Galicia y Tarjeta Dorada de Renfe."
 url: /ayudas/descuentos-transporte/
 categoria: Ayudas
 miga: Descuentos en transporte
 palabra_clave_principal: descuentos transporte pensionistas
+palabras_clave_secundarias:
+  - "descuentos transporte publico pensionistas"
+  - "pensionistas descuentos en transporte"
 intencion: informativa
 fase_plan: F3 (artículo n.º 60)
 fecha_actualizacion: 2026-09-29
@@ -22,6 +25,8 @@ fuentes_legales:
 *Actualizado el 29 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y en los organismos de transporte*
 
 > **Respuesta rápida**
+>
+> Los **descuentos en transporte para pensionistas** dependen de dónde vivas y de tu edad:
 >
 > - **En toda España (Renfe)**: la **Tarjeta Dorada** cuesta **6 euros al año** desde los 60 y rebaja un **40 %** Cercanías y Media Distancia y un **25 %** el AVE. Y hasta el 31 de diciembre de 2026 hay un **abono mensual de Cercanías de 20 euros** para todas las zonas de tu núcleo y un **Abono Único de 60 euros** para Cercanías, Media Distancia y autobuses estatales.
 > - **Madrid**: el **Abono +65** es **gratis** para todo el transporte público de la región.

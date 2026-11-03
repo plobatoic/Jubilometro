@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación anticipada por discapacidad 2026: edades y grados"
 h1: "Jubilación anticipada por discapacidad: grados y edades mínimas"
-meta_descripcion: "Con un 65 % de discapacidad puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte. Novedades de 2026 y requisitos."
+meta_descripcion: "Jubilación anticipada por discapacidad: con un 65 % puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte."
 url: /jubilacion/anticipada-discapacidad/
 categoria: Jubilación
 miga: Jubilación anticipada por discapacidad
 palabra_clave_principal: jubilación anticipada por discapacidad
+palabras_clave_secundarias:
+  - "jubilacion anticipada por discapacidad del 45"
+  - "jubilacion anticipada por discapacidad del 65"
+  - "jubilacion anticipada por discapacidad del 33"
+  - "jubilacion anticipada por discapacidad superior al 65"
 intencion: informativa
 fase_plan: F3 (artículo n.º 11)
 fecha_actualizacion: 2026-09-27

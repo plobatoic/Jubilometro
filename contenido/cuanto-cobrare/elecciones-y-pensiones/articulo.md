@@ -1,5 +1,5 @@
 ---
-titulo_seo: "Elecciones del 29 de noviembre: qué pasa con tu pensión"
+titulo_seo: "Elecciones del 29N y pensiones: qué pasa con la subida de 2027"
 h1: "Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027"
 meta_descripcion: "Las elecciones no paran la subida de 2027, que fija la ley con el IPC. Qué falta por aprobar, qué decae, la paga extra y cómo votar por correo."
 url: /cuanto-cobrare/elecciones-y-pensiones/

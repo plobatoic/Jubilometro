@@ -1,11 +1,14 @@
 ---
 titulo_seo: "¿Se pierde la viudedad si te vuelves a casar? Requisitos 2026"
 h1: "¿Se pierde la pensión de viudedad si te vuelves a casar o tienes nueva pareja? Cuándo la conservas en 2026"
-meta_descripcion: "La viudedad se pierde al casarte o formar pareja de hecho, salvo con más de 61 años y si es tu principal ingreso. Si el matrimonio supera 34.188 €, baja."
+meta_descripcion: "Pensión de viudedad y nuevo matrimonio: se pierde al casarte o formar pareja de hecho, salvo con más de 61 años y si es tu principal ingreso. Requisitos."
 url: /viudedad/nuevo-matrimonio/
 categoria: Viudedad
 miga: Viudedad y nuevo matrimonio
 palabra_clave_principal: pensión de viudedad nuevo matrimonio
+palabras_clave_secundarias:
+  - "pension de viudedad compatible con nuevo matrimonio"
+  - "pension de viudedad matrimonio requisitos"
 intencion: informativa
 fase_plan: F3 (artículo n.º 40)
 fecha_actualizacion: 2026-10-20

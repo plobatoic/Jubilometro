@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Jubilación demorada: cuánto sube tu pensión por año extra"
 h1: "Jubilación demorada: cuánto sube tu pensión por cada año extra (porcentaje, cheque o mixto)"
-meta_descripcion: "Si retrasas la jubilación, ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos, novedades de 2026 y ejemplos."
+meta_descripcion: "Jubilación demorada: si retrasas la jubilación ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos y ejemplos de 2026."
 url: /jubilacion/demorada/
 categoria: Jubilación
 miga: Jubilación demorada
 palabra_clave_principal: jubilación demorada
+palabras_clave_secundarias:
+  - "jubilacion demorada 2026"
+  - "jubilacion demorada beneficios"
+  - "jubilacion demorada y jubilacion activa"
+  - "jubilacion demorada y pension maxima"
 intencion: informativa
 fase_plan: F2 (artículo n.º 5)
 fecha_actualizacion: 2026-09-27

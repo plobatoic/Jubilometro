@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Porcentaje de pensión según años cotizados: tabla 2026-2027"
 h1: "Porcentaje de la pensión según los años cotizados: tabla año a año para 2026 y 2027"
-meta_descripcion: "Con 15 años cotizados cobras el 50 % de tu base reguladora y con 37 años, el 100 %. Tabla completa para 2026 y 2027, cómo se calcula y ejemplos."
+meta_descripcion: "Porcentaje de la pensión según los años cotizados: con 15 años cobras el 50 % de la base reguladora y con 37, el 100 %. Tabla 2026-2027 y ejemplos."
 url: /cuanto-cobrare/porcentaje-anos-cotizados/
 categoria: Cuánto cobraré
 miga: Porcentaje por años cotizados
 palabra_clave_principal: porcentaje pensión años cotizados
+palabras_clave_secundarias:
+  - "porcentaje pension 30 años cotizados"
+  - "porcentaje pension 29 años cotizados"
+  - "porcentaje pension jubilacion segun años cotizados"
+  - "porcentaje pension con 35 años cotizados"
 intencion: informativa
 fase_plan: F1 (artículo n.º 24)
 fecha_actualizacion: 2026-10-20

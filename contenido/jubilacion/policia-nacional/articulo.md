@@ -6,6 +6,11 @@ url: /jubilacion/policia-nacional/
 categoria: Jubilación
 miga: Jubilación de la Policía Nacional
 palabra_clave_principal: jubilación policía nacional
+palabras_clave_secundarias:
+  - "jubilacion policia nacional 67 años"
+  - "jubilación policía nacional 60 años"
+  - "jubilación policía nacional clases pasivas"
+  - "jubilacion policia nacional y guardia civil"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-06

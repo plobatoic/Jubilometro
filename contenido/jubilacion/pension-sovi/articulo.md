@@ -6,6 +6,11 @@ url: /jubilacion/pension-sovi/
 categoria: Jubilación
 miga: Pensión del SOVI
 palabra_clave_principal: pensión SOVI
+palabras_clave_secundarias:
+  - "pensión sovi 2026"
+  - "pension sovi da derecho a viudedad"
+  - "pensión sovi y viudedad"
+  - "pensión sovi es contributiva"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

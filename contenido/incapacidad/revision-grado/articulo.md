@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Revisión del grado de incapacidad permanente: plazos y riesgos"
 h1: "Revisión del grado de incapacidad permanente: cuándo se puede pedir, cómo se hace y qué riesgos tiene"
-meta_descripcion: "Si empeoras, puedes pedir un grado mayor; si mejoras o trabajas, el INSS puede bajarlo. Plazos, quién la pide, cómo prepararla y qué riesgos tiene."
+meta_descripcion: "Revisión del grado de incapacidad permanente: si empeoras puedes pedir un grado mayor y si mejoras el INSS puede bajarlo. Plazos, cómo prepararla y riesgos."
 url: /incapacidad/revision-grado/
 categoria: Incapacidad
 miga: Revisión del grado
 palabra_clave_principal: revisión grado incapacidad permanente
+palabras_clave_secundarias:
+  - "revision grado incapacidad permanente total"
+  - "solicitud revision grado incapacidad permanente"
+  - "solicitar revision grado incapacidad permanente"
+  - "formulario revision grado incapacidad permanente"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

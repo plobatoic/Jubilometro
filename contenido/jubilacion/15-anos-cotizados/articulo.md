@@ -6,6 +6,11 @@ url: /jubilacion/15-anos-cotizados/
 categoria: Jubilación
 miga: Jubilación con 15 años cotizados
 palabra_clave_principal: jubilación con 15 años cotizados
+palabras_clave_secundarias:
+  - "pension jubilacion con 15 años cotizados"
+  - "jubilacion minima con 15 años cotizados"
+  - "jubilacion anticipada con 15 años cotizados"
+  - "edad jubilacion con 15 años cotizados"
 intencion: informativa
 fase_plan: F2 (artículo n.º 19)
 fecha_actualizacion: 2026-10-20

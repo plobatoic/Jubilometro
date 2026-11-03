@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Domiciliar la pensión: cómo cambiar de banco y qué exigir"
 h1: "Domiciliar la pensión o cambiarla de banco: cómo se hace, cuándo llega y qué tener en cuenta con los regalos"
-meta_descripcion: "Cobra la pensión en el banco que quieras y cámbialo cuando quieras: cómo se hace, cuándo llega a la cuenta nueva, los regalos y la cuenta gratuita."
+meta_descripcion: "Domiciliar la pensión en otro banco: cómo cambiarla, cuándo llega a la cuenta nueva, qué pasa con los regalos y tu derecho a una cuenta gratuita."
 url: /dinero/domiciliar-pension/
 categoria: Dinero
 miga: Domiciliar la pensión
 palabra_clave_principal: domiciliar la pensión
+palabras_clave_secundarias:
+  - "domiciliar la pension en otro banco"
+  - "donde domiciliar la pension"
+  - "como domiciliar la pension en otro banco"
+  - "como domiciliar la pension"
 intencion: transaccional
 fase_plan: F3 (artículo n.º 89)
 fecha_actualizacion: 2026-10-20

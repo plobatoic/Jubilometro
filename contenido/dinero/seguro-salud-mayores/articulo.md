@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Seguro de salud para mayores de 65: qué mirar antes de firmar"
 h1: "Seguros de salud para mayores de 65: lo que ya cubre la sanidad pública, lo que pagas en la farmacia y qué mirar en una póliza privada"
-meta_descripcion: "Como pensionista tienes sanidad pública y pagas el 10 % de los medicamentos con un tope al mes. En un seguro privado, mira la renovación y las subidas."
+meta_descripcion: "Seguro de salud para mayores de 65: qué cubre la sanidad pública (pagas el 10 % de los medicamentos, con tope) y qué mirar en un seguro privado."
 url: /dinero/seguro-salud-mayores/
 categoria: Dinero
 miga: Seguro de salud para mayores
 palabra_clave_principal: seguro de salud mayores de 65
+palabras_clave_secundarias:
+  - "seguro de salud mayores de 65 años"
+  - "seguro privado de salud para mayores de 65 años"
+  - "seguros de salud mayores de 65"
+  - "seguros salud mayores de 60 años"
 intencion: informativa
 fase_plan: F2 (artículo n.º 86)
 fecha_actualizacion: 2026-10-20

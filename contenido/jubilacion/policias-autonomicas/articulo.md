@@ -6,6 +6,9 @@ url: /jubilacion/policias-autonomicas/
 categoria: Jubilación
 miga: Jubilación de las policías autonómicas
 palabra_clave_principal: jubilación mossos d'esquadra
+palabras_clave_secundarias:
+  - "edad jubilación mossos d esquadra"
+  - "jubilación anticipada mossos d esquadra"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-27

@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Cuantía de la pensión de viudedad 2026: 52, 60 o 70 %"
 h1: "Cuánto se cobra de pensión de viudedad en 2026: el 52, el 60 o el 70 % de la base reguladora, con ejemplos"
-meta_descripcion: "La viudedad es el 52 % de la base reguladora del fallecido, el 60 % desde los 65 años sin otros ingresos y el 70 % con cargas familiares. Cálculo y mínimas."
+meta_descripcion: "Cuantía de la pensión de viudedad 2026: el 52 % de la base reguladora, el 60 % desde los 65 sin otros ingresos o el 70 % con cargas. Cálculo y mínimas."
 url: /viudedad/cuantia/
 categoria: Viudedad
 miga: Cuantía
 palabra_clave_principal: cuantía pensión de viudedad
+palabras_clave_secundarias:
+  - "cuantía pensión de viudedad 2026"
+  - "cuantia minima pension de viudedad 2026"
+  - "cuantía mínima pensión de viudedad"
+  - "cuantia pension viudedad seguridad social"
 intencion: informativa
 fase_plan: F1 (artículo n.º 37b)
 fecha_actualizacion: 2026-11-02

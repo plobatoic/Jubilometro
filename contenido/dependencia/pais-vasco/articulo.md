@@ -1,11 +1,16 @@
 ---
 titulo_seo: "Dependencia en el País Vasco 2026: cómo se pide y plazos"
 h1: "Dependencia en el País Vasco: cómo se pide en Álava, Bizkaia y Gipuzkoa, cuánto tarda y qué ayudas hay"
-meta_descripcion: "En Euskadi la dependencia la valora la diputación foral de cada territorio y se pide en los servicios sociales del ayuntamiento. Pasos, plazos y ayudas."
+meta_descripcion: "Dependencia en el País Vasco: la valora la diputación foral de cada territorio y se pide en los servicios sociales del ayuntamiento. Pasos, plazos y ayudas."
 url: /dependencia/pais-vasco/
 categoria: Dependencia
 miga: Dependencia en el País Vasco
 palabra_clave_principal: dependencia País Vasco
+palabras_clave_secundarias:
+  - "ley dependencia país vasco requisitos"
+  - "ley dependencia pais vasco"
+  - "ayudas dependencia pais vasco"
+  - "grados dependencia pais vasco"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

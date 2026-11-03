@@ -6,6 +6,11 @@ url: /cuanto-cobrare/pension-minima/
 categoria: Cuánto cobraré
 miga: Pensión mínima
 palabra_clave_principal: pensión mínima de jubilación 2026
+palabras_clave_secundarias:
+  - "pensión mínima de jubilación 2026 con cónyuge no a cargo"
+  - "pensión mínima de jubilación 2026 en españa"
+  - "pension minima contributiva de jubilacion 2026"
+  - "cuantia pension minima de jubilacion 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 27)
 fecha_actualizacion: 2026-11-02

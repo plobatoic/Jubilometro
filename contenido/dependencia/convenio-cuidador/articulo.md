@@ -1,11 +1,16 @@
 ---
-titulo_seo: "Convenio especial del cuidador: cotizar gratis por cuidar"
+titulo_seo: "Convenio especial del cuidador no profesional: cotizar gratis"
 h1: "Convenio especial del cuidador no profesional: cómo seguir cotizando gratis mientras cuidas a un familiar"
-meta_descripcion: "Si cuidas a un familiar con la ayuda por cuidados familiares, el Imserso paga tu cotización para la jubilación. Requisitos, base, plazo y cómo pedirlo."
+meta_descripcion: "Convenio especial del cuidador no profesional: si cuidas a un familiar con la ayuda por cuidados familiares, el Imserso paga tu cotización de jubilación."
 url: /dependencia/convenio-cuidador/
 categoria: Dependencia
 miga: Convenio del cuidador
 palabra_clave_principal: convenio especial cuidador no profesional
+palabras_clave_secundarias:
+  - "convenio especial cuidador no profesional seguridad social"
+  - "convenio especial cuidador no profesional requisitos"
+  - "alta convenio especial cuidador no profesional"
+  - "solicitud convenio especial cuidador no profesional"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-20

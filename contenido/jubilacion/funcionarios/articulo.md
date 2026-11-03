@@ -6,6 +6,11 @@ url: /jubilacion/funcionarios/
 categoria: Jubilación
 miga: Jubilación de funcionarios
 palabra_clave_principal: jubilación funcionarios clases pasivas
+palabras_clave_secundarias:
+  - "jubilacion funcionarios clases pasivas 2026"
+  - "jubilación funcionarios clases pasivas 72 años"
+  - "jubilación funcionarios justicia clases pasivas"
+  - "jubilacion voluntaria funcionarios clases pasivas"
 intencion: informativa
 fase_plan: F3 (artículo extra)
 fecha_actualizacion: 2026-10-15
