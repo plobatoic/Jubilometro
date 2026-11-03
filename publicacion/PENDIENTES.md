@@ -18,7 +18,7 @@ Revisada el 30/10/2026 con el informe de nichos: los mayores de 55 usan sobre to
 | 8 | Programar: **Metricool** conectado en claude.ai (Ajustes → Conectores), con Instagram, X y la página de Facebook enlazados dentro de Metricool. Con eso Claude programa y mira las estadísticas | Hecho el 3/11: Metricool conectado con Instagram y una página de Facebook. Programadas 21 publicaciones del 5 al 18/11 (`publicacion/redes/programado/metricool-programadas.md`). **Falta enlazar X dentro de Metricool** |
 | 9 | Rutina semanal: 3 publicaciones en Facebook, 2-3 avisos en WhatsApp, 1-2 vídeos cortos en YouTube, 1 aviso al día en X, contestar en el grupo | Pendiente |
 | 10 | Instagram (cuenta profesional, enlazada a la página de Facebook cuando exista) | Abierto: **instagram.com/jubilometro** (3/11), sin foto, sin biografía y sin publicaciones. Textos en `kit/biografias.md`, apartado 3 |
-| 11 | Más adelante: TikTok y LinkedIn | Cuando las demás funcionen |
+| 11 | TikTok y LinkedIn | Aparcados por decisión del titular (4/11/2026): no se abren por ahora |
 
 ### Paso 1 · Crear un correo solo para Jubilómetro (unos 10 minutos)
 
@@ -66,7 +66,7 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 9. **El primer día de redes:** la presentación de X se fija arriba del perfil.
 10. **Metricool:** con el conector, Claude programa las publicaciones; sin él, se importa `publicacion/redes/programado/metricool.csv` (antes, probar con dos filas).
 11. **Instagram:** subir cada carrusel, con sus imágenes en orden y el texto de su tarjeta.
-12. **Vídeos:** subirlos a TikTok, Reels y Shorts con su texto, y añadirles música de la biblioteca de la app.
+12. **Vídeos:** Shorts de YouTube (y más adelante Reels), con su texto.
 13. **Desde enero de 2027:** si una publicación sale con aviso amarillo (importes de 2026), comprobar la cifra en la guía o pedirme que la actualice.
 
 ### Cada día y cada semana, con las redes abiertas
@@ -122,8 +122,8 @@ Falta, lo hace el titular:
 - **Instagram muestra una dirección postal en el perfil.** Si es su domicilio, quitarla en Editar perfil (app).
 - Enlace de Instagram desde la app: `https://jubilometro.com/web/ig`, título «Calculadoras y guías».
 - Nombre de la página de Facebook con tilde («Jubilómetro»): Configuración de la página → Nombre (pide contraseña; revisión de hasta 3 días y luego 60 días sin poder cambiarlo).
-- Canal de WhatsApp, TikTok y LinkedIn: iniciar sesión en WhatsApp Web y LinkedIn y registrar TikTok; después se completan con el encargo (`publicacion/redes/kit/ENCARGO-PERFILES.md`, apartados 5, 7 y 8).
+- Canal de WhatsApp: iniciar sesión en WhatsApp Web; después se completa con el encargo (`publicacion/redes/kit/ENCARGO-PERFILES.md`, apartado 5). TikTok y LinkedIn quedan aparcados (decisión del titular, 4/11/2026).
 - Grupo: las preguntas de entrada dependen de activar «Aprobación de participantes». Recomendación: dejarlo abierto mientras no haya spam.
-- YouTube en Metricool: conectarlo dentro de Metricool si el plan lo permite, para programar vídeos cortos.
+- YouTube ya está conectado en Metricool (canal @jubilometro).
 
 - **Vídeos de YouTube:** 6 Shorts preparados en Metricool como borrador (`publicacion/redes/programado/metricool-programadas.md`). No se publican hasta que Pau diga que sí. La revisión diaria no programa vídeos mientras tanto.
