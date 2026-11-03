@@ -122,7 +122,7 @@ Falta, lo hace el titular:
 - **Instagram muestra una dirección postal en el perfil.** Si es su domicilio, quitarla en Editar perfil (app).
 - Enlace de Instagram desde la app: `https://jubilometro.com/web/ig`, título «Calculadoras y guías».
 - Nombre de la página de Facebook con tilde («Jubilómetro»): Configuración de la página → Nombre (pide contraseña; revisión de hasta 3 días y luego 60 días sin poder cambiarlo).
-- Canal de WhatsApp: iniciar sesión en WhatsApp Web; después se completa con el encargo (`publicacion/redes/kit/ENCARGO-PERFILES.md`, apartado 5). TikTok y LinkedIn quedan aparcados (decisión del titular, 4/11/2026).
+- Canal de WhatsApp: creado el 4/11 (whatsapp.com/channel/0029VbDXSVAFsn0dNOjhpd1q) y enlazado en la web. Los avisos se publican a mano desde el móvil (ningún conector publica en canales de WhatsApp). TikTok y LinkedIn quedan aparcados (decisión del titular, 4/11/2026).
 - Grupo: las preguntas de entrada dependen de activar «Aprobación de participantes». Recomendación: dejarlo abierto mientras no haya spam.
 - YouTube ya está conectado en Metricool (canal @jubilometro).
 
