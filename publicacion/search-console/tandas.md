@@ -28,7 +28,7 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/imserso/
 - jubilometro.com/guias/
 
-## Tanda 3 (pendiente)
+## Tanda 3 (enviada el 3/11/2026, 9 a petición del usuario)
 
 - jubilometro.com/datos/pension-media-provincia/
 - jubilometro.com/jubilacion/edad-de-jubilacion/
@@ -39,10 +39,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/viudedad/cuantia/
 - jubilometro.com/viudedad/requisitos/
 - jubilometro.com/imserso/viajes-imserso/
-- jubilometro.com/dependencia/ley-dependencia/
 
 ## Tanda 4 (pendiente)
 
+- jubilometro.com/dependencia/ley-dependencia/
 - jubilometro.com/ayudas/pension-no-contributiva/
 - jubilometro.com/jubilacion/anticipada-voluntaria/
 - jubilometro.com/jubilacion/anticipada-involuntaria/
@@ -52,10 +52,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/cuanto-cobrare/complemento-brecha-genero/
 - jubilometro.com/dinero/declaracion-renta-jubilados/
 - jubilometro.com/cuanto-cobrare/elecciones-y-pensiones/
-- jubilometro.com/calculadoras/pension-viudedad/
 
 ## Tanda 5 (pendiente)
 
+- jubilometro.com/calculadoras/pension-viudedad/
 - jubilometro.com/calculadoras/pension-neta-irpf/
 - jubilometro.com/calculadoras/pension-jubilacion/
 - jubilometro.com/calculadoras/jubilacion-anticipada/
@@ -65,10 +65,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/calculadoras/subida-pensiones/
 - jubilometro.com/calculadoras/simulador-jubilacion/
 - jubilometro.com/calculadoras/edad-jubilacion/
-- jubilometro.com/dependencia/extremadura/
 
 ## Tanda 6 (pendiente)
 
+- jubilometro.com/dependencia/extremadura/
 - jubilometro.com/ayudas/complemento-alquiler/
 - jubilometro.com/incapacidad/enfermedades/
 - jubilometro.com/imserso/termalismo/
@@ -78,10 +78,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/viudedad/solicitar-viudedad/
 - jubilometro.com/viudedad/prestacion-temporal/
 - jubilometro.com/viudedad/pension-orfandad/
-- jubilometro.com/viudedad/pareja-de-hecho/
 
 ## Tanda 7 (pendiente)
 
+- jubilometro.com/viudedad/pareja-de-hecho/
 - jubilometro.com/viudedad/nuevo-matrimonio/
 - jubilometro.com/viudedad/favor-de-familiares/
 - jubilometro.com/viudedad/fallecimiento-pensionista/
@@ -91,10 +91,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/jubilacion/trabajado-en-otro-pais/
 - jubilometro.com/jubilacion/subsidio-mayores-52/
 - jubilometro.com/jubilacion/solicitar-jubilacion-internet/
-- jubilometro.com/jubilacion/regimen-del-mar/
 
 ## Tanda 8 (pendiente)
 
+- jubilometro.com/jubilacion/regimen-del-mar/
 - jubilometro.com/jubilacion/prejubilacion/
 - jubilometro.com/jubilacion/policias-autonomicas/
 - jubilometro.com/jubilacion/policia-nacional/
@@ -104,10 +104,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/jubilacion/numero-seguridad-social/
 - jubilometro.com/jubilacion/militares/
 - jubilometro.com/jubilacion/guardia-civil/
-- jubilometro.com/jubilacion/funcionarios/
 
 ## Tanda 9 (pendiente)
 
+- jubilometro.com/jubilacion/funcionarios/
 - jubilometro.com/jubilacion/flexible/
 - jubilometro.com/jubilacion/flexible-activa-o-parcial/
 - jubilometro.com/jubilacion/faltan-anos-cotizados/
@@ -117,10 +117,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/jubilacion/despido-a-los-60/
 - jubilometro.com/jubilacion/demorada/
 - jubilometro.com/jubilacion/cuanto-tarda-jubilacion/
-- jubilometro.com/jubilacion/convenio-especial/
 
 ## Tanda 10 (pendiente)
 
+- jubilometro.com/jubilacion/convenio-especial/
 - jubilometro.com/jubilacion/compensa-jubilarse-antes/
 - jubilometro.com/jubilacion/cita-previa-seguridad-social/
 - jubilometro.com/jubilacion/bomberos/
@@ -130,10 +130,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/jubilacion/agrarios/
 - jubilometro.com/jubilacion/activa/
 - jubilometro.com/jubilacion/15-anos-cotizados/
-- jubilometro.com/incapacidad/total-cualificada/
 
 ## Tanda 11 (pendiente)
 
+- jubilometro.com/incapacidad/total-cualificada/
 - jubilometro.com/incapacidad/solicitar/
 - jubilometro.com/incapacidad/revision-grado/
 - jubilometro.com/incapacidad/incapacidad-y-trabajo/
@@ -143,10 +143,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/incapacidad/incapacidad-parcial/
 - jubilometro.com/incapacidad/incapacidad-absoluta/
 - jubilometro.com/incapacidad/gran-incapacidad/
-- jubilometro.com/incapacidad/denegada/
 
 ## Tanda 12 (pendiente)
 
+- jubilometro.com/incapacidad/denegada/
 - jubilometro.com/incapacidad/cuanto-se-cobra-de-baja/
 - jubilometro.com/incapacidad/baja-menopausia/
 - jubilometro.com/incapacidad/abogado/
@@ -156,10 +156,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/imserso/solicitar-viajes/
 - jubilometro.com/imserso/plazas-libres/
 - jubilometro.com/dinero/vender-vivienda-65/
-- jubilometro.com/dinero/seguro-salud-mayores/
 
 ## Tanda 13 (pendiente)
 
+- jubilometro.com/dinero/seguro-salud-mayores/
 - jubilometro.com/dinero/seguro-decesos/
 - jubilometro.com/dinero/rescate-plan-pensiones/
 - jubilometro.com/dinero/rescate-aportaciones-10-anos/
@@ -169,10 +169,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/dinero/hipoteca-inversa/
 - jubilometro.com/dinero/herencias-donaciones/
 - jubilometro.com/dinero/domiciliar-pension/
-- jubilometro.com/dinero/ahorro-jubilacion/
 
 ## Tanda 14 (pendiente)
 
+- jubilometro.com/dinero/ahorro-jubilacion/
 - jubilometro.com/dependencia/tiempos-dependencia/
 - jubilometro.com/dependencia/teleasistencia/
 - jubilometro.com/dependencia/solicitar-dependencia/
@@ -182,10 +182,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/dependencia/precio-residencias/
 - jubilometro.com/dependencia/pais-vasco/
 - jubilometro.com/dependencia/navarra/
-- jubilometro.com/dependencia/murcia/
 
 ## Tanda 15 (pendiente)
 
+- jubilometro.com/dependencia/murcia/
 - jubilometro.com/dependencia/madrid/
 - jubilometro.com/dependencia/la-rioja/
 - jubilometro.com/dependencia/grados/
@@ -195,10 +195,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/dependencia/convenio-cuidador/
 - jubilometro.com/dependencia/comunitat-valenciana/
 - jubilometro.com/dependencia/centro-de-dia/
-- jubilometro.com/dependencia/castilla-y-leon/
 
 ## Tanda 16 (pendiente)
 
+- jubilometro.com/dependencia/castilla-y-leon/
 - jubilometro.com/dependencia/castilla-la-mancha/
 - jubilometro.com/dependencia/cantabria/
 - jubilometro.com/dependencia/canarias/
@@ -208,10 +208,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/dependencia/aragon/
 - jubilometro.com/dependencia/andalucia/
 - jubilometro.com/cuanto-cobrare/porcentaje-anos-cotizados/
-- jubilometro.com/cuanto-cobrare/pension-segun-sueldo/
 
 ## Tanda 17 (pendiente)
 
+- jubilometro.com/cuanto-cobrare/pension-segun-sueldo/
 - jubilometro.com/cuanto-cobrare/pagas-extra/
 - jubilometro.com/cuanto-cobrare/mei-cuota-solidaridad/
 - jubilometro.com/cuanto-cobrare/lagunas-de-cotizacion/
@@ -221,10 +221,10 @@ Cada día se piden 10 direcciones en Search Console (barra de arriba «Inspeccio
 - jubilometro.com/cuanto-cobrare/base-reguladora/
 - jubilometro.com/ayudas/tramites-online/
 - jubilometro.com/ayudas/pnc-invalidez/
-- jubilometro.com/ayudas/ingreso-minimo-vital-mayores/
 
 ## Tanda 18 (pendiente)
 
+- jubilometro.com/ayudas/ingreso-minimo-vital-mayores/
 - jubilometro.com/ayudas/emigrantes-retornados/
 - jubilometro.com/ayudas/descuentos-transporte/
 - jubilometro.com/ayudas/bono-social-electrico/
