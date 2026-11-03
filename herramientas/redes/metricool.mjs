@@ -12,6 +12,7 @@ import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { RAIZ } from '../publicar/articulos.mjs';
 import { PUBLICACIONES } from '../../publicacion/redes/programado/programa.mjs';
+import { BANCO } from './banco/index.mjs';
 
 const arg = (k, def) => process.argv.find((a) => a.startsWith(`--${k}=`))?.slice(k.length + 3) ?? def;
 const COMMIT = arg('commit');
@@ -58,7 +59,8 @@ for (const p of PUBLICACIONES) {
   } else if (p.imagenLista) {
     if (!existsSync(join(RAIZ, p.imagenLista))) throw new Error(`${p.id}: no existe ${p.imagenLista}`);
     media = [publica(p.imagenLista)];
-    alt = [p.imagen ?? [p.cifra?.antes, p.cifra?.grande, p.cifra?.despues].filter(Boolean).join(' ')];
+    const c = p.cifra ?? BANCO.find((b) => b.id === p.id)?.cifra;
+    alt = [p.imagen ?? [[c?.antes, c?.grande].filter(Boolean).join(': '), c?.despues].filter(Boolean).join(' ')];
   }
   if (p.red === 'instagram' && !media.length) throw new Error(`${p.id}: Instagram sin imágenes`);
   const partes = p.partes ?? [p.texto];
@@ -67,9 +69,9 @@ for (const p of PUBLICACIONES) {
     draft: false,
     text: partes[0],
     descendants: partes.slice(1).map((t) => ({ text: t })),
-    firstCommentText: p.red === 'facebook' && p.fuente
-      ? `${p.fuente === '/calculadoras/' ? 'Todas las calculadoras' : 'La guía completa'}: ${enlace(p.fuente, 'fb', 'facebook')}`
-      : '',
+    firstCommentText: p.red !== 'facebook' ? ''
+      : p.fuente ? `${p.fuente === '/calculadoras/' ? 'Todas las calculadoras' : 'La guía completa'}: ${enlace(p.fuente, 'fb', 'facebook')}`
+        : 'Guías y calculadoras gratuitas: https://jubilometro.com/web/fb',
     hasNotReadNotes: false,
     media,
     mediaAltText: alt,

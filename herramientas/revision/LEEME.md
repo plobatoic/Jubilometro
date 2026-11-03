@@ -66,4 +66,5 @@ La pidió el titular el 3/11/2026: cada día, a la misma hora, revisar la web de
 
 - Instagram (@jubilometro) y X (@Jubilometro) están abiertos. Facebook falta: el enlace que dio el titular es su perfil personal, y hace falta una página de Jubilómetro.
 - Los perfiles se enlazan en la web (opción `jm_redes`: pie, «Síguenos» y `sameAs`) cuando tengan foto, biografía y alguna publicación. Nunca se enlaza un perfil personal.
+- **Metricool** (conectado el 3/11; marca 7853768, con Instagram y la página de Facebook; X sin enlazar): cada día se mira con `getScheduledPosts` que haya unos 14 días programados por delante. Si faltan, se preparan con `node herramientas/redes/metricool.mjs --commit=<SHA ya subido> --desde=… --hasta=… --redes=instagram,facebook`, se programan con `createScheduledPost` y se apuntan en `publicacion/redes/programado/metricool-programadas.md`. Cuando X esté enlazado, se añade `x` a `--redes`.
 - Si hay un conector de programación (Metricool u otro), se comprueba que haya publicaciones programadas para los próximos días según `publicacion/redes/programado/`. Antes de programar una, se comprueba que sus cifras coinciden con la guía de la que sale.

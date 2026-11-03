@@ -9,13 +9,13 @@ Revisada el 30/10/2026 con el informe de nichos: los mayores de 55 usan sobre to
 | Paso | Qué | Estado |
 |---|---|---|
 | 1 | Correo de Jubilómetro: **hola@jubilometro.com** (Hostinger, prueba gratuita hasta el 30/10/2027), con alias contacto@ y pau@ y reenvío confirmado al Gmail personal | Hecho el 30/10 |
-| 2 | Página de Facebook «Jubilómetro» (desde tu perfil personal de Facebook, que queda como administrador oculto) | Falta: el enlace que llegó el 3/11 (`profile.php?id=61596279657717`) es el perfil personal «Pau Lobato Capdevila», no una página. No se enlaza en la web |
+| 2 | Página de Facebook «Jubilómetro» (desde tu perfil personal de Facebook, que queda como administrador oculto) | Metricool tiene enlazada una página (id 1417586111442600) desde el 3/11: comprobar que se llama «Jubilómetro» y ponerle foto, portada, biografía y el sitio web `jubilometro.com/web/fb` (`kit/biografias.md`, apartado 1). El enlace que llegó antes (`profile.php?id=61596279657717`) es el perfil personal y no se enlaza en la web |
 | 3 | Canal de WhatsApp | Pendiente |
 | 4 | Canal de YouTube (con el Gmail del paso 1) | Pendiente |
 | 5 | X (Twitter): avisos rápidos de novedades (BOE, IPC, subida) y para que te encuentren periodistas | Abierto: **x.com/Jubilometro** (3/11). Falta la foto (tiene la «P» por defecto), la biografía, la ubicación, la cabecera y el enlace `jubilometro.com/web/x` (`kit/biografias.md`, apartado 5) |
 | 6 | Grupo de Facebook «Jubilación y pensiones: dudas resueltas», vinculado a la página | Pendiente |
 | 7 | Pasarme las direcciones de los perfiles para ponerlas en la web (pie, bloque de compartir y datos para Google) | Recibidas el 3/11. Instagram y X se enlazan en la web en cuanto tengan foto y biografía (lo comprueba la revisión diaria) |
-| 8 | Programar: **Metricool** conectado en claude.ai (Ajustes → Conectores), con Instagram, X y la página de Facebook enlazados dentro de Metricool. Con eso Claude programa y mira las estadísticas | Pendiente: lo hace el titular |
+| 8 | Programar: **Metricool** conectado en claude.ai (Ajustes → Conectores), con Instagram, X y la página de Facebook enlazados dentro de Metricool. Con eso Claude programa y mira las estadísticas | Hecho el 3/11: Metricool conectado con Instagram y una página de Facebook. Programadas 21 publicaciones del 5 al 18/11 (`publicacion/redes/programado/metricool-programadas.md`). **Falta enlazar X dentro de Metricool** |
 | 9 | Rutina semanal: 3 publicaciones en Facebook, 2-3 avisos en WhatsApp, 1-2 vídeos cortos en YouTube, 1 aviso al día en X, contestar en el grupo | Pendiente |
 | 10 | Instagram (cuenta profesional, enlazada a la página de Facebook cuando exista) | Abierto: **instagram.com/jubilometro** (3/11), sin foto, sin biografía y sin publicaciones. Textos en `kit/biografias.md`, apartado 3 |
 | 11 | Más adelante: TikTok y LinkedIn | Cuando las demás funcionen |
