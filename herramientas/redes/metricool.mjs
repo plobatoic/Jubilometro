@@ -3,15 +3,16 @@
 // createScheduledPost. Las imágenes van por su dirección pública en GitHub, fijada a un commit (--commit=SHA),
 // para que no cambien aunque se regeneren después.
 //
-// Uso: node herramientas/redes/metricool.mjs --commit=SHA --desde=AAAA-MM-DD --hasta=AAAA-MM-DD [--redes=instagram,facebook] [salida.json]
+// Uso: node herramientas/redes/metricool.mjs --commit=SHA --desde=AAAA-MM-DD --hasta=AAAA-MM-DD [--redes=instagram,facebook] [--programa=programado-video] [--quitar=id,id] [salida.json]
 //
 // - Instagram: el carrusel entero (sus imágenes en orden) con el texto de su diapositiva como texto alternativo.
 // - Facebook: el texto, la imagen si la tiene y el enlace a la guía en el primer comentario.
 // - X: una publicación suelta; los hilos van con sus partes en «descendants».
+// - Vídeos (--programa=programado-video --redes=video): Shorts de YouTube, con su título, el texto como descripción y
+//   el archivo de publicacion/redes/videos. --quitar deja fuera los que caducan pronto (p. ej., la subida con el IPC provisional).
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { RAIZ } from '../publicar/articulos.mjs';
-import { PUBLICACIONES } from '../../publicacion/redes/programado/programa.mjs';
 import { BANCO } from './banco/index.mjs';
 
 const arg = (k, def) => process.argv.find((a) => a.startsWith(`--${k}=`))?.slice(k.length + 3) ?? def;
@@ -20,12 +21,14 @@ const DESDE = arg('desde');
 const HASTA = arg('hasta');
 const REDES = arg('redes', 'instagram,facebook,x').split(',');
 const SALIDA = process.argv.slice(2).find((a) => !a.startsWith('--'));
+const QUITAR = arg('quitar', '').split(',').filter(Boolean);
+const { PUBLICACIONES } = await import(`../../publicacion/redes/${arg('programa', 'programado')}/programa.mjs`);
 if (!/^[0-9a-f]{40}$/.test(COMMIT ?? '') || !/^\d{4}-\d{2}-\d{2}$/.test(DESDE ?? '') || !/^\d{4}-\d{2}-\d{2}$/.test(HASTA ?? '')) {
   console.error('Uso: node herramientas/redes/metricool.mjs --commit=SHA --desde=AAAA-MM-DD --hasta=AAAA-MM-DD [--redes=…] [salida.json]');
   process.exit(1);
 }
 const ZONA = 'Europe/Madrid';
-const RED_METRICOOL = { instagram: 'instagram', facebook: 'facebook', x: 'twitter' };
+const RED_METRICOOL = { instagram: 'instagram', facebook: 'facebook', x: 'twitter', video: 'youtube' };
 const publica = (ruta) => `https://raw.githubusercontent.com/plobatoic/Jubilometro/${COMMIT}/${ruta.split('/').map(encodeURIComponent).join('/')}`;
 
 // Enlace corto de la guía (jubilometro.com/<código>/fb) o, si no tiene, la dirección con las etiquetas de la red
@@ -47,7 +50,7 @@ function desfase(fecha, hora) {
 
 const salida = [];
 for (const p of PUBLICACIONES) {
-  if (p.fecha < DESDE || p.fecha > HASTA || !REDES.includes(p.red) || !RED_METRICOOL[p.red]) continue;
+  if (p.fecha < DESDE || p.fecha > HASTA || !REDES.includes(p.red) || !RED_METRICOOL[p.red] || QUITAR.includes(p.id)) continue;
   const red = RED_METRICOOL[p.red];
   let media = [];
   let alt = [];
@@ -61,6 +64,11 @@ for (const p of PUBLICACIONES) {
     media = [publica(p.imagenLista)];
     const c = p.cifra ?? BANCO.find((b) => b.id === p.id)?.cifra;
     alt = [p.imagen ?? [[c?.antes, c?.grande].filter(Boolean).join(': '), c?.despues].filter(Boolean).join(' ')];
+  }
+  if (p.red === 'video') {
+    if (!p.archivo || !existsSync(join(RAIZ, 'publicacion', 'redes', 'videos', p.archivo))) throw new Error(`${p.id}: no existe el vídeo ${p.archivo}`);
+    media = [publica(`publicacion/redes/videos/${p.archivo}`)];
+    alt = [];
   }
   if (p.red === 'instagram' && !media.length) throw new Error(`${p.id}: Instagram sin imágenes`);
   const partes = p.partes ?? [p.texto];
@@ -83,6 +91,10 @@ for (const p of PUBLICACIONES) {
   if (red === 'instagram') info.instagramData = { type: 'POST', showReelOnFeed: true, isAiGenerated: false };
   if (red === 'facebook') info.facebookData = { type: 'POST' };
   if (red === 'twitter') info.twitterData = { tags: [] };
+  if (red === 'youtube') {
+    if (!p.titulo || p.titulo.length > 100) throw new Error(`${p.id}: el título de YouTube falta o pasa de 100 caracteres`);
+    info.youtubeData = { title: p.titulo, type: 'short', privacy: 'public', madeForKids: false, category: 'EDUCATION', isAiGeneratedContent: false, tags: ['pensiones', 'jubilación', 'Seguridad Social', 'España'] };
+  }
   salida.push({ id: p.id, red: p.red, fecha: p.fecha, hora: p.hora, date: `${p.fecha}T${p.hora}:00${desfase(p.fecha, p.hora)}`, info });
 }
 const json = JSON.stringify(salida, null, 1);

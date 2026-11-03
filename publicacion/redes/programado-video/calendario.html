@@ -1,0 +1,467 @@
+<title>Redes de Jubilómetro: calendario desde la aprobación de Jubilómetro</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600&family=Public+Sans:wght@400;600;700&display=swap">
+<style>
+/* Libreta de trabajo: una columna de lectura con los días en orden y la barra de redes fija arriba */
+:root {
+  --bg: #F6F8FB; --sheet: #FFFFFF; --ink: #0F1B2D; --text: #1F2B3D; --muted: #4A5568; --line: #D5DDE8;
+  --accent: #1D4ED8; --accent-soft: #EAF1FF; --warn-bg: #FFF6E0; --warn: #8A5A00; --mark: #FFE7A3;
+  --x: #0F1419; --facebook: #1760D8; --grupo: #3B5BA9; --instagram: #C13584; --linkedin: #0A66C2; --whatsapp: #1A8F48; --video: #B42318;
+  --display: "Newsreader", Georgia, serif; --body: "Public Sans", "Helvetica Neue", Arial, sans-serif;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #0C1422; --sheet: #121D2F; --ink: #F1F5FB; --text: #D9E2EE; --muted: #A3B1C4; --line: #263650;
+  --accent: #8FB0FF; --accent-soft: #1A2A47; --warn-bg: #33270C; --warn: #F5CF7A; --mark: #6B5414;
+  --x: #E7E9EA; --facebook: #6EA0FF; --grupo: #93A9E0; --instagram: #F07AC0; --linkedin: #6CB4FF; --whatsapp: #4CC27C; --video: #FF8A7A; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #0C1422; --sheet: #121D2F; --ink: #F1F5FB; --text: #D9E2EE; --muted: #A3B1C4; --line: #263650;
+  --accent: #8FB0FF; --accent-soft: #1A2A47; --warn-bg: #33270C; --warn: #F5CF7A; --mark: #6B5414;
+  --x: #E7E9EA; --facebook: #6EA0FF; --grupo: #93A9E0; --instagram: #F07AC0; --linkedin: #6CB4FF; --whatsapp: #4CC27C; --video: #FF8A7A; color-scheme: dark }
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--text); font: 400 1rem/1.6 var(--body); padding: 0 16px; }
+.wrap { max-width: 52rem; margin: 0 auto; padding-block: 2.5rem 4rem; }
+h1, h2, h3, h4 { font-family: var(--display); color: var(--ink); text-wrap: balance; margin: 0; }
+h1 { font-size: clamp(2rem, 1.5rem + 2vw, 2.75rem); font-weight: 600; line-height: 1.1; }
+.lead { font-size: 1.125rem; color: var(--muted); max-width: 40rem; margin: .75rem 0 0; }
+.how { display: grid; gap: .6rem; margin: 1.75rem 0 0; padding: 1.25rem 1.4rem; background: var(--sheet); border: 1px solid var(--line); border-radius: 10px; }
+.how p { margin: 0; }
+.how code, .file code { font-size: .9em; background: var(--accent-soft); padding: .05rem .35rem; border-radius: 4px; overflow-wrap: anywhere; }
+.counts { display: flex; flex-wrap: wrap; gap: .4rem .9rem; margin: 1.25rem 0 0; padding: 0; list-style: none; color: var(--muted); font-size: .95rem; font-variant-numeric: tabular-nums; }
+.counts b { color: var(--ink); }
+.bar { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 2; display: flex; flex-wrap: wrap; gap: .4rem; align-items: center; margin: 2rem -16px 0; padding: .7rem 16px; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+.bar button, .bar label { font: 600 .9rem/1 var(--body); }
+.bar button { min-height: 36px; padding: 0 .8rem; border-radius: 999px; border: 1.5px solid var(--line); background: var(--sheet); color: var(--text); cursor: pointer; }
+.bar button[aria-pressed="true"] { background: var(--ink); border-color: var(--ink); color: var(--bg); }
+.bar label { display: inline-flex; align-items: center; gap: .4rem; margin-left: auto; color: var(--muted); }
+.week { margin-top: 2.75rem; }
+.week h2 { font-size: 1.6rem; font-weight: 600; padding-bottom: .5rem; border-bottom: 2px solid var(--ink); }
+.week h2 span { font: 400 1rem var(--body); color: var(--muted); margin-left: .4rem; }
+.day { margin-top: 1.5rem; }
+.day h3 { font: 700 .8rem/1.3 var(--body); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin-bottom: .6rem; }
+.posts { display: grid; gap: .9rem; }
+.post { min-width: 0; background: var(--sheet); border: 1px solid var(--line); border-radius: 10px; padding: 1rem 1.1rem; display: grid; gap: .65rem; }
+.post > header { display: flex; flex-wrap: wrap; align-items: center; gap: .35rem .6rem; font-size: .875rem; color: var(--muted); }
+.chip { font-weight: 700; color: var(--chip); border: 1.5px solid currentColor; border-radius: 999px; padding: .05rem .55rem; }
+.chip--x { --chip: var(--x); } .chip--facebook { --chip: var(--facebook); } .chip--grupo { --chip: var(--grupo); } .chip--instagram { --chip: var(--instagram); } .chip--linkedin { --chip: var(--linkedin); } .chip--whatsapp { --chip: var(--whatsapp); } .chip--video { --chip: var(--video); }
+.when { font-variant-numeric: tabular-nums; font-weight: 600; color: var(--ink); }
+.kind { font-weight: 600; }
+.pilar::before { content: "· "; }
+.done { margin-left: auto; display: inline-flex; gap: .35rem; align-items: center; cursor: pointer; }
+.post h4 { font-size: 1.2rem; font-weight: 600; }
+.nota { margin: 0; padding: .55rem .8rem; background: var(--warn-bg); color: var(--warn); border-radius: 6px; font-size: .95rem; }
+.txt { display: grid; gap: .45rem; }
+pre { margin: 0; white-space: pre-wrap; overflow-wrap: anywhere; font: 400 1rem/1.55 var(--body); color: var(--text); background: var(--bg); border-radius: 6px; padding: .75rem .85rem; }
+mark { background: var(--mark); color: inherit; border-radius: 3px; }
+.copy { justify-self: start; min-height: 36px; padding: 0 .9rem; border-radius: 999px; border: 0; background: var(--accent); color: var(--sheet); font: 600 .9rem var(--body); cursor: pointer; }
+.copy.is-ok { background: var(--whatsapp); }
+.copy:focus-visible, .bar button:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.lbl { margin: .2rem 0 0; font-weight: 700; font-size: .875rem; color: var(--muted); }
+.slides { margin: 0; padding-left: 1.4rem; display: grid; gap: .3rem; }
+.guion { overflow-x: auto; }
+table { border-collapse: collapse; width: 100%; font-size: .925rem; }
+th, td { text-align: left; vertical-align: top; padding: .4rem .5rem; border-bottom: 1px solid var(--line); }
+th { font-size: .8rem; letter-spacing: .04em; text-transform: uppercase; color: var(--muted); }
+td:first-child { white-space: nowrap; font-variant-numeric: tabular-nums; color: var(--muted); }
+.file, .src { margin: 0; font-size: .9rem; color: var(--muted); }
+.src a { color: var(--accent); }
+.post.is-done { opacity: .55; }
+.hide-done .post.is-done, .post.is-off { display: none; }
+.day:not(:has(.post:not(.is-off))) { display: none; }
+@media (max-width: 520px) {
+  .done { margin-left: 0; }
+  .bar { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; }
+  .bar button, .bar label { flex: none; white-space: nowrap; }
+  .bar label { margin-left: 0; }
+  .week h2 span { display: block; margin: .2rem 0 0; }
+}
+@media (prefers-reduced-motion: no-preference) { .post { transition: opacity .2s ease; } }
+</style>
+<div class="wrap">
+  <h1>Redes de Jubilómetro: calendario desde la aprobación</h1>
+  <p class="lead">Del jueves 5 de noviembre al miércoles 27 de enero: 36 publicaciones listas, con las cifras de las guías de Jubilómetro y un enlace corto que dice de qué red llega cada visita.</p>
+  <ul class="counts"><li><b>0</b> X</li><li><b>0</b> Facebook</li><li><b>0</b> Grupo de Facebook</li><li><b>0</b> Instagram</li><li><b>0</b> LinkedIn</li><li><b>0</b> Canal de WhatsApp</li><li><b>36</b> Vídeo corto</li></ul>
+  <div class="how">
+    <p><b>Cifras:</b> las de las guías a 12 de octubre de 2026 (las del primer mes, a 9 de octubre). Las que salen desde enero de 2027 con importes de 2026 llevan un aviso amarillo: compruébalas en la guía antes de publicar. Lo que va entre <mark>[corchetes]</mark> se rellena el día del dato.</p>
+    <p><b>Primer día:</b> presentación en todas las redes. Fija arriba la de X y las normas del grupo.</p>
+    <p><b>Enlaces:</b> cada red lleva su final: <code>jubilometro.com/edad/x</code> en X, <code>/wa</code> en WhatsApp, <code>/in</code> en LinkedIn y <code>/yt</code> en los vídeos. En <i>Escritorio › Estadísticas</i> de WordPress verás qué publicación trae visitas.</p>
+    <p><b>Facebook:</b> sin enlaces en las publicaciones, porque Meta limita a dos al mes las de las páginas sin verificar. El enlace a la web va en la información de la página.</p>
+    <p><b>Imágenes y vídeos:</b> cada carrusel de Instagram dice en qué carpeta están sus diapositivas, y las publicaciones con imagen, dónde está. Los vídeos están en <code>publicacion/redes/videos</code>.</p>
+    <p><b>Metricool:</b> las publicaciones de X, Facebook y LinkedIn están en <code>publicacion/redes/programado-video/metricool.csv</code> como borrador. Prueba antes con dos filas.</p>
+  </div>
+  <div class="bar" role="toolbar" aria-label="Filtrar por red">
+    <button type="button" data-f="" aria-pressed="true">Todas</button>
+    <button type="button" data-f="x" aria-pressed="false">X</button>
+    <button type="button" data-f="facebook" aria-pressed="false">Facebook</button>
+    <button type="button" data-f="grupo" aria-pressed="false">Grupo de Facebook</button>
+    <button type="button" data-f="instagram" aria-pressed="false">Instagram</button>
+    <button type="button" data-f="linkedin" aria-pressed="false">LinkedIn</button>
+    <button type="button" data-f="whatsapp" aria-pressed="false">Canal de WhatsApp</button>
+    <button type="button" data-f="video" aria-pressed="false">Vídeo corto</button>
+    <label for="ocultar"><input type="checkbox" id="ocultar"> Ocultar lo hecho</label>
+  </div>
+  <section class="week" aria-labelledby="s0"><h2 id="s0">Semana 1 <span>del 2 de noviembre al 8 de noviembre</span></h2>
+<div class="day"><h3>viernes 6 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-06-mes1-19">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">La cifra que te toca</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-06-mes1-19"> Hecho</label></header>
+  <h4>Subida de las pensiones en 2027: cuánto cobrarás con 1.000 €</h4>
+  <p class="nota">Publícalo después de comprobar el IPC del 14 de octubre. Si la horquilla cambia, te rehago el vídeo.</p>
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>¿Cuánto subirá tu pensión en 2027?</td><td>¿Cuánto subirá tu pensión en enero?</td></tr><tr><td>3-10 s</td><td>Entre un 3,3 % y un 3,7 %</td><td>Con el IPC hasta septiembre, la subida va por entre un 3,3 y un 3,7 %.</td></tr><tr><td>10-20 s</td><td>1.000 € → 1.033 a 1.037 €</td><td>Si cobras 1.000 euros, pasarás a cobrar entre 1.033 y 1.037 al mes.</td></tr><tr><td>20-26 s</td><td>La cifra exacta: a finales de noviembre</td><td>La cifra exacta se sabrá a finales de noviembre, con el IPC de noviembre.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/subida</td><td>Calcula la tuya en jubilometro.com/subida.</td></tr></tbody></table></div><div class="txt"><pre id="t1">Con los datos del IPC hasta septiembre, las pensiones subirán en enero de 2027 entre un 3,3 % y un 3,7 %. Con 1.000 € de pensión, entre 33 y 37 € más al mes. Calcula la tuya: jubilometro.com/subida/yt
+
+#pensiones #subidapensiones #jubilacion</pre><button class="copy" type="button" data-copy="t1">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-01-subida-2027.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/cuanto-cobrare/revalorizacion-pensiones/" target="_blank" rel="noopener">jubilometro.com/cuanto-cobrare/revalorizacion-pensiones/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s1"><h2 id="s1">Semana 2 <span>del 9 de noviembre al 15 de noviembre</span></h2>
+<div class="day"><h3>lunes 9 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-09-video-sovi">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-09-video-sovi"> Hecho</label></header>
+  <h4>¿Tu madre trabajó antes de 1967? Puede tener pensión</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pensión del SOVI · ¿Tu madre trabajó antes de 1967?</td><td>¿Tu madre trabajó antes de 1967? Puede tener pensión.</td></tr><tr><td>3-11 s</td><td>Con 1.800 días cotizados antes de 1967 · 599,60 € al mes</td><td>Con 1.800 días cotizados antes de 1967, la pensión del SOVI es de 599,60 euros al mes.</td></tr><tr><td>11-19 s</td><td>Cada hijo nacido antes de 1967 · Suma 112 días</td><td>Cada hijo nacido antes de 1967 suma 112 días para llegar a los 1.800, según el Tribunal Supremo.</td></tr><tr><td>19-26 s</td><td>Requisitos · Tener 65 años · Sin otra pensión, salvo la de viudedad · Se pide al INSS</td><td>Hace falta tener 65 años y no tener otra pensión, salvo la de viudedad. Se pide al INSS.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/sovi</td><td>Requisitos en jubilometro.com/sovi.</td></tr></tbody></table></div><div class="txt"><pre id="t2">Con 1.800 días cotizados antes de 1967, la pensión del SOVI paga 599,60 € al mes en 2026. Cada hijo nacido antes de 1967 suma 112 días. Requisitos: jubilometro.com/sovi/yt
+
+#pensiones #jubilacion #sovi</pre><button class="copy" type="button" data-copy="t2">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-13-sovi.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/pension-sovi/" target="_blank" rel="noopener">jubilometro.com/jubilacion/pension-sovi/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 11 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-11-video-auxilio">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Trámites sin líos</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-11-video-auxilio"> Hecho</label></header>
+  <h4>Auxilio por defunción: 46,50 € que se suelen olvidar</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Tras un fallecimiento · Una ayuda que se suele olvidar</td><td>Tras un fallecimiento, hay una ayuda que se suele olvidar.</td></tr><tr><td>3-10 s</td><td>Auxilio por defunción · 46,50 €</td><td>El auxilio por defunción: 46,50 euros para quien pagó el entierro.</td></tr><tr><td>10-18 s</td><td>Se da si la persona fallecida · Trabajaba, o cobraba el paro o una baja · Era pensionista de jubilación o de incapacidad</td><td>Se da si la persona trabajaba, cobraba el paro o una baja, o era pensionista de jubilación o de incapacidad.</td></tr><tr><td>18-25 s</td><td>Plazo · 5 años para pedirlo</td><td>Hay cinco años para pedirlo, y se puede hacer por internet.</td></tr><tr><td>25-30 s</td><td>jubilometro.com/auxilio-defuncion</td><td>Cómo pedirlo, en jubilometro.com/auxilio-defuncion.</td></tr></tbody></table></div><div class="txt"><pre id="t3">El auxilio por defunción son 46,50 € para quien pagó el entierro, y hay cinco años para pedirlo. Quién lo cobra y cómo: jubilometro.com/auxilio-defuncion/yt
+
+#pensiones #viudedad #tramites</pre><button class="copy" type="button" data-copy="t3">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-14-auxilio-defuncion.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/viudedad/auxilio-por-defuncion/" target="_blank" rel="noopener">jubilometro.com/viudedad/auxilio-por-defuncion/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 13 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-13-video-baja">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">La cifra que te toca</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-13-video-baja"> Hecho</label></header>
+  <h4>¿Cuánto se cobra de baja? Día a día</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Baja por enfermedad · ¿Cuánto se cobra de baja?</td><td>¿Cuánto se cobra de baja por enfermedad?</td></tr><tr><td>3-9 s</td><td>Días 1 a 3 · Nada</td><td>Los tres primeros días, nada, salvo que tu convenio lo mejore.</td></tr><tr><td>9-17 s</td><td>Del día 4 al 20 · El 60 % de tu base</td><td>Del día 4 al 20, el 60 % de tu base reguladora.</td></tr><tr><td>17-26 s</td><td>Desde el día 21 · 60 %: Del día 4 al 20 · 75 %: Desde el día 21</td><td>Desde el día 21, el 75 %. Y por accidente de trabajo, el 75 % desde el día siguiente.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/baja</td><td>Con un ejemplo en euros, en jubilometro.com/baja.</td></tr></tbody></table></div><div class="txt"><pre id="t4">De baja por enfermedad: nada los 3 primeros días, el 60 % del día 4 al 20 y el 75 % desde el 21. Con un ejemplo en euros: jubilometro.com/baja/yt
+
+#baja #trabajo #seguridadsocial</pre><button class="copy" type="button" data-copy="t4">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-15-baja.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/incapacidad/cuanto-se-cobra-de-baja/" target="_blank" rel="noopener">jubilometro.com/incapacidad/cuanto-se-cobra-de-baja/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s2"><h2 id="s2">Semana 3 <span>del 16 de noviembre al 22 de noviembre</span></h2>
+<div class="day"><h3>lunes 16 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-16-video-teleasistencia">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-16-video-teleasistencia"> Hecho</label></header>
+  <h4>Teleasistencia: un pulsador para mayores que viven solos</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Mayores que viven solos · ¿Y si se cae y no puede llamar?</td><td>Si tu madre o tu padre vive solo, ¿qué pasa si se cae?</td></tr><tr><td>3-11 s</td><td>Teleasistencia · Un pulsador, 24 horas</td><td>La teleasistencia es un pulsador en colgante, pulsera o reloj, conectado a una central las 24 horas.</td></tr><tr><td>11-19 s</td><td>Si lo pulsa · Le hablan y avisan a quien haga falta</td><td>Si lo pulsa, le hablan por un altavoz y avisan a la familia, a una ambulancia o a quien tenga una llave.</td></tr><tr><td>19-26 s</td><td>Cómo conseguirla · En los servicios sociales</td><td>Se pide en los servicios sociales del ayuntamiento, sin necesidad de tener la dependencia, y suele ser gratis o de pocos euros.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/teleasistencia</td><td>Más en jubilometro.com/teleasistencia.</td></tr></tbody></table></div><div class="txt"><pre id="t5">La teleasistencia es un pulsador conectado a una central las 24 horas. Se pide en los servicios sociales, sin necesidad de tener la dependencia: jubilometro.com/teleasistencia/yt
+
+#mayores #dependencia #cuidados</pre><button class="copy" type="button" data-copy="t5">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-31-teleasistencia.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/dependencia/teleasistencia/" target="_blank" rel="noopener">jubilometro.com/dependencia/teleasistencia/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 18 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-18-mes1-86">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calendario y avisos</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-18-mes1-86"> Hecho</label></header>
+  <h4>Tarjeta Dorada de Renfe: 6 € al año</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Desde los 60 años · ¿Viajas en tren?</td><td>¿Tienes 60 años o más y viajas en tren?</td></tr><tr><td>3-11 s</td><td>Tarjeta Dorada de Renfe · 6 € al año</td><td>La Tarjeta Dorada de Renfe cuesta 6 euros al año.</td></tr><tr><td>11-19 s</td><td>Cercanías y Media Distancia · 40 % de descuento</td><td>Te da un 40 % de descuento en Cercanías y Media Distancia.</td></tr><tr><td>19-26 s</td><td>AVE y Larga Distancia · 25 % de descuento</td><td>Y un 25 % en AVE y Larga Distancia.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/tarjeta-dorada</td><td>Cómo sacarla, en jubilometro.com/tarjeta-dorada.</td></tr></tbody></table></div><div class="txt"><pre id="t6">Desde los 60 años, la Tarjeta Dorada de Renfe cuesta 6 € al año y da hasta un 40 % de descuento. jubilometro.com/tarjeta-dorada/yt</pre><button class="copy" type="button" data-copy="t6">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-11-tarjeta-dorada.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/imserso/tarjeta-mayores/" target="_blank" rel="noopener">jubilometro.com/imserso/tarjeta-mayores/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 20 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-20-video-sms-017">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Trámites sin líos</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-20-video-sms-017"> Hecho</label></header>
+  <h4>¿Un SMS raro de la Seguridad Social? Llama al 017</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Ojo con los engaños · ¿Un SMS raro de la Seguridad Social?</td><td>¿Te ha llegado un SMS raro de la Seguridad Social o de Hacienda?</td></tr><tr><td>3-10 s</td><td>Lo primero · No pinches el enlace</td><td>Lo primero, no pinches el enlace.</td></tr><tr><td>10-18 s</td><td>Llama gratis al · 017</td><td>Llama gratis al 017, de 8 de la mañana a 11 de la noche.</td></tr><tr><td>18-26 s</td><td>Para tus trámites · La app Cl@ve · Un código por SMS que pides tú · Un familiar con tu permiso</td><td>Para tus trámites, usa la app Cl@ve, un código por SMS que pides tú o un familiar con tu permiso.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/tramites</td><td>Más trucos en jubilometro.com/tramites.</td></tr></tbody></table></div><div class="txt"><pre id="t7">Si te llega un SMS o un correo raro «de la Seguridad Social» o «de Hacienda», no pinches el enlace y llama gratis al 017. Más trucos para hacer trámites: jubilometro.com/tramites/yt
+
+#mayores #estafas #tramites</pre><button class="copy" type="button" data-copy="t7">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-28-sms-017.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/ayudas/tramites-online/" target="_blank" rel="noopener">jubilometro.com/ayudas/tramites-online/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s3"><h2 id="s3">Semana 4 <span>del 23 de noviembre al 29 de noviembre</span></h2>
+<div class="day"><h3>lunes 23 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-23-video-vender-casa">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-23-video-vender-casa"> Hecho</label></header>
+  <h4>Mayores de 65: vender tu casa no paga IRPF</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Mayores de 65 · ¿Vendes tu casa?</td><td>Si tienes más de 65 años y vendes tu casa, mira esto.</td></tr><tr><td>3-11 s</td><td>Si es tu vivienda habitual · La ganancia no paga IRPF</td><td>Si es tu vivienda habitual, la ganancia no paga IRPF, ganes lo que ganes.</td></tr><tr><td>11-19 s</td><td>Lo que sí pagas · La plusvalía municipal</td><td>Lo que sí pagas es la plusvalía municipal, que no tiene exención por edad.</td></tr><tr><td>19-26 s</td><td>Si la casa es de los dos · La exención es personal</td><td>La exención es personal: si tu pareja tiene menos de 65 años, su parte tributa, salvo que reinvierta en otra vivienda.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/vender-casa</td><td>Más en jubilometro.com/vender-casa.</td></tr></tbody></table></div><div class="txt"><pre id="t8">Con más de 65 años, la ganancia por vender tu vivienda habitual no paga IRPF, ganes lo que ganes. La plusvalía municipal, sí: jubilometro.com/vender-casa/yt
+
+#vivienda #impuestos #jubilacion</pre><button class="copy" type="button" data-copy="t8">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-29-vender-casa.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/dinero/vender-vivienda-65/" target="_blank" rel="noopener">jubilometro.com/dinero/vender-vivienda-65/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 25 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-25-video-complemento-minimos">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-25-video-complemento-minimos"> Hecho</label></header>
+  <h4>¿Tu pensión no llega a la mínima? La Seguridad Social pone la diferencia</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pensiones bajas · ¿No llegas a la pensión mínima?</td><td>¿Tu pensión no llega a la mínima?</td></tr><tr><td>3-11 s</td><td>Mínima con 65 años, viviendo solo · 936,20 € al mes</td><td>En 2026, la mínima con 65 años y viviendo solo es de 936,20 euros al mes.</td></tr><tr><td>11-19 s</td><td>Si cobras 750 € al mes · 750 € → 936,20 €</td><td>Si cobras 750, la Seguridad Social te paga los 186,20 euros que faltan.</td></tr><tr><td>19-26 s</td><td>Si tus otros ingresos · No pasan de 9.442 € al año</td><td>Siempre que tus otros ingresos no pasen de 9.442 euros al año y vivas en España.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/complemento-minimos</td><td>Requisitos en jubilometro.com/complemento-minimos.</td></tr></tbody></table></div><div class="txt"><pre id="t9">Si tu pensión no llega a la mínima (936,20 € al mes con 65 años y viviendo solo en 2026) y tus ingresos son bajos, la Seguridad Social te paga la diferencia: jubilometro.com/complemento-minimos/yt
+
+#pensiones #pensionminima #jubilacion</pre><button class="copy" type="button" data-copy="t9">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-17-complemento-minimos.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/cuanto-cobrare/complemento-a-minimos/" target="_blank" rel="noopener">jubilometro.com/cuanto-cobrare/complemento-a-minimos/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 27 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-27-mes1-57">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-27-mes1-57"> Hecho</label></header>
+  <h4>Jubilarte más tarde: un 4 % más de pensión por año</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Jubilación demorada · ¿Y si te jubilas más tarde?</td><td>¿Qué ganas si te jubilas más tarde?</td></tr><tr><td>3-11 s</td><td>Por cada año completo de retraso · +4 % de pensión</td><td>Por cada año completo de retraso, un 4 % más de pensión, para siempre.</td></tr><tr><td>11-19 s</td><td>O un pago único por año · De 4.800 a 13.500 €</td><td>O un pago único de entre unos 4.800 y 13.500 euros por año de retraso.</td></tr><tr><td>19-26 s</td><td>O una mezcla de los dos · Desde 2 años de retraso</td><td>O una mezcla de los dos, si retrasas al menos dos años.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/demorada</td><td>Tu caso, en jubilometro.com/demorada.</td></tr></tbody></table></div><div class="txt"><pre id="t10">Por cada año que retrasas la jubilación, un 4 % más de pensión para siempre, o un pago único. jubilometro.com/demorada/yt</pre><button class="copy" type="button" data-copy="t10">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-07-demorada.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/demorada/" target="_blank" rel="noopener">jubilometro.com/jubilacion/demorada/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s4"><h2 id="s4">Semana 5 <span>del 30 de noviembre al 6 de diciembre</span></h2>
+<div class="day"><h3>lunes 30 de noviembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-11-30-video-volver-a-casarse">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2026-11-30-video-volver-a-casarse"> Hecho</label></header>
+  <h4>¿Pierdes la viudedad si te vuelves a casar?</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pensión de viudedad · ¿La pierdes si te vuelves a casar?</td><td>¿Pierdes la viudedad si te vuelves a casar?</td></tr><tr><td>3-9 s</td><td>Regla general · Sí, se pierde</td><td>Como regla general, sí. También si formalizas una pareja de hecho.</td></tr><tr><td>9-19 s</td><td>Salvo que cumplas las tres · Más de 61 años · La viudedad es al menos el 75 % de tus ingresos · Entre los dos, hasta 34.188 € al año</td><td>Salvo que tengas más de 61 años, la viudedad sea tu principal ingreso y entre los dos no paséis de 34.188 euros al año.</td></tr><tr><td>19-26 s</td><td>Y no olvides · Comunicarlo al INSS</td><td>Y comunícalo al INSS: si no, tendrás que devolver lo cobrado de más.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/volver-a-casarse</td><td>Más en jubilometro.com/volver-a-casarse.</td></tr></tbody></table></div><div class="txt"><pre id="t11">La viudedad se pierde al volver a casarte, salvo con más de 61 años, si es tu principal ingreso y entre los dos no pasáis de 34.188 € al año. Requisitos: jubilometro.com/volver-a-casarse/yt
+
+#viudedad #pensiones #seguridadsocial</pre><button class="copy" type="button" data-copy="t11">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-19-volver-a-casarse.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/viudedad/nuevo-matrimonio/" target="_blank" rel="noopener">jubilometro.com/viudedad/nuevo-matrimonio/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 2 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-02-video-total-cualificada">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">La cifra que te toca</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-02-video-total-cualificada"> Hecho</label></header>
+  <h4>Incapacidad total: del 55 % al 75 % desde los 55 años</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Incapacidad total · ¿Tienes 55 años o más?</td><td>Si cobras una incapacidad permanente total y tienes 55 años o más, mira esto.</td></tr><tr><td>3-11 s</td><td>La incapacidad total · El 55 % de tu base</td><td>La incapacidad permanente total es el 55 % de tu base reguladora.</td></tr><tr><td>11-19 s</td><td>Desde los 55, si no trabajas · Sube al 75 %</td><td>Desde los 55 años, si no trabajas, sube al 75 %: es la total cualificada.</td></tr><tr><td>19-26 s</td><td>Al mes, con una base de 1.500 € · 825 € → 1125 €</td><td>Con una base de 1.500 euros, pasas de 825 a 1.125 euros al mes. Si trabajas, el 20 % extra se suspende.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/incapacidad-total</td><td>Más en jubilometro.com/incapacidad-total.</td></tr></tbody></table></div><div class="txt"><pre id="t12">La incapacidad permanente total sube del 55 % al 75 % de la base reguladora desde los 55 años, mientras no trabajes. Requisitos: jubilometro.com/incapacidad-total/yt
+
+#incapacidadpermanente #pensiones #inss</pre><button class="copy" type="button" data-copy="t12">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-24-total-cualificada.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/incapacidad/total-cualificada/" target="_blank" rel="noopener">jubilometro.com/incapacidad/total-cualificada/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 4 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-04-video-grado-discapacidad">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-04-video-grado-discapacidad"> Hecho</label></header>
+  <h4>Grado de discapacidad: menos IRPF desde el 33 %</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Grado de discapacidad · ¿Lo tienes reconocido?</td><td>Muchas personas mayores tendrían un grado de discapacidad y nunca lo han pedido.</td></tr><tr><td>3-11 s</td><td>Con un 33 % · +3000 € de mínimo en el IRPF</td><td>Con un 33 %, tu mínimo en el IRPF sube 3.000 euros al año, y pagas menos impuestos.</td></tr><tr><td>11-19 s</td><td>Con un 65 % · +9000 €, y otros 3.000</td><td>Con un 65 %, el mínimo sube 9.000 euros, más otros 3.000 por gastos de asistencia.</td></tr><tr><td>19-26 s</td><td>Se pide en tu comunidad · Vale desde el día que lo pides</td><td>Se pide en tu comunidad autónoma, que tiene seis meses para resolver, y vale desde el día de la solicitud.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/grado-discapacidad</td><td>Más en jubilometro.com/grado-discapacidad.</td></tr></tbody></table></div><div class="txt"><pre id="t13">Con un grado de discapacidad del 33 %, tu mínimo en el IRPF sube 3.000 € al año; con un 65 %, 9.000 € más otros 3.000. Cómo pedirlo: jubilometro.com/grado-discapacidad/yt
+
+#discapacidad #irpf #mayores</pre><button class="copy" type="button" data-copy="t13">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-34-grado-discapacidad.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/dependencia/grado-discapacidad/" target="_blank" rel="noopener">jubilometro.com/dependencia/grado-discapacidad/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s5"><h2 id="s5">Semana 6 <span>del 7 de diciembre al 13 de diciembre</span></h2>
+<div class="day"><h3>lunes 7 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-07-mes1-35">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calendario y avisos</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-07-mes1-35"> Hecho</label></header>
+  <h4>Viajes del Imserso: cómo encontrar plazas libres</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>¿Sin plaza del Imserso?</td><td>¿Te quedaste sin viaje del Imserso?</td></tr><tr><td>3-10 s</td><td>Las plazas canceladas vuelven a la venta</td><td>Las plazas que otros cancelan o no pagan vuelven a la venta toda la temporada.</td></tr><tr><td>10-17 s</td><td>Sobre todo, 45 días antes de cada salida</td><td>Sobre todo, unos 45 días antes de cada salida.</td></tr><tr><td>17-25 s</td><td>Busca en otras provincias y fechas</td><td>Busca también desde otras provincias y sé flexible con el destino y las fechas.</td></tr><tr><td>25-30 s</td><td>jubilometro.com/plazas-imserso</td><td>Los trucos, en jubilometro.com/plazas-imserso.</td></tr></tbody></table></div><div class="txt"><pre id="t14">Las plazas del Imserso que otros cancelan vuelven a la venta toda la temporada, sobre todo unos 45 días antes de cada salida. Cómo encontrarlas: jubilometro.com/plazas-imserso/yt
+
+#imserso #viajesimserso #jubilados</pre><button class="copy" type="button" data-copy="t14">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-04-imserso-plazas.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/imserso/plazas-libres/" target="_blank" rel="noopener">jubilometro.com/imserso/plazas-libres/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 9 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-09-video-donar-o-heredar">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-09-video-donar-o-heredar"> Hecho</label></header>
+  <h4>¿Donar el piso en vida o dejarlo en herencia?</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Herencias · ¿Donar el piso en vida?</td><td>¿Les das ya el piso a tus hijos para ahorrar impuestos?</td></tr><tr><td>3-11 s</td><td>Donación y herencia · El mismo impuesto</td><td>Donar y heredar pagan el mismo impuesto, que paga quien recibe.</td></tr><tr><td>11-19 s</td><td>Si donas un piso que ha ganado valor · Tú pagas IRPF</td><td>Pero si donas en vida un piso que ha ganado valor, tú pagas IRPF por esa ganancia.</td></tr><tr><td>19-26 s</td><td>Si lo dejas en herencia · Esa ganancia no tributa</td><td>Si lo dejas en herencia, esa ganancia no tributa. En los dos casos se paga la plusvalía municipal.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/herencias</td><td>Haz números en jubilometro.com/herencias.</td></tr></tbody></table></div><div class="txt"><pre id="t15">Si donas en vida un piso que ha ganado valor, pagas IRPF por esa ganancia; si lo dejas en herencia, no. Haz números antes de decidir: jubilometro.com/herencias/yt
+
+#herencia #impuestos #familia</pre><button class="copy" type="button" data-copy="t15">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-30-donar-o-heredar.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/dinero/herencias-donaciones/" target="_blank" rel="noopener">jubilometro.com/dinero/herencias-donaciones/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 11 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-11-mes1-64">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">La cifra que te toca</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-11-mes1-64"> Hecho</label></header>
+  <h4>¿Cuánto IRPF te quitan de la pensión?</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pensión e IRPF · ¿Cuánto te retienen?</td><td>¿Cuánto IRPF te quitan de la pensión?</td></tr><tr><td>3-11 s</td><td>Sin hijos, hasta 16.476 € al año · Nada</td><td>Sin hijos a cargo y con hasta 16.476 euros al año, no te retienen nada.</td></tr><tr><td>11-19 s</td><td>Con 1.500 € al mes · En torno al 9 %</td><td>Con 1.500 euros al mes, en torno al 9 %.</td></tr><tr><td>19-26 s</td><td>Con 2.000 € al mes · Cerca del 17 %</td><td>Con 2.000, cerca del 17 %, y con 3.000, alrededor del 22 %.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/neta</td><td>Tu pensión neta, en jubilometro.com/neta.</td></tr></tbody></table></div><div class="txt"><pre id="t16">Sin hijos a cargo y con hasta 16.476 € brutos al año de pensión, no hay retención. Con 1.500 € al mes, en torno al 9 %. jubilometro.com/neta/yt</pre><button class="copy" type="button" data-copy="t16">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-08-retencion.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/cuanto-cobrare/pension-bruta-y-neta/" target="_blank" rel="noopener">jubilometro.com/cuanto-cobrare/pension-bruta-y-neta/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s6"><h2 id="s6">Semana 7 <span>del 14 de diciembre al 20 de diciembre</span></h2>
+<div class="day"><h3>lunes 14 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-14-video-compensa">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-14-video-compensa"> Hecho</label></header>
+  <h4>¿Compensa jubilarse 2 años antes?</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Jubilarse antes · ¿Compensa adelantarla 2 años?</td><td>¿Compensa jubilarse dos años antes?</td></tr><tr><td>3-11 s</td><td>El recorte, para toda la vida · Del 2,81 % al 21 %</td><td>Te recortan la pensión entre un 2,81 y un 21 %, para toda la vida.</td></tr><tr><td>11-19 s</td><td>Lo cobrado de más se agota · Entre los 73 y los 79 años</td><td>Lo que cobras de más se agota entre los 73 y los 79 años. Desde ahí, pierdes dinero cada año.</td></tr><tr><td>19-26 s</td><td>Esperanza de vida a los 65 · Más de 19 años</td><td>Y a los 65 quedan de media más de 19 años de vida en los hombres y más de 23 en las mujeres.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/compensa</td><td>Haz tus cuentas en jubilometro.com/compensa.</td></tr></tbody></table></div><div class="txt"><pre id="t17">Si adelantas la jubilación 2 años, lo cobrado de más se agota entre los 73 y los 79 años. Haz tus cuentas: jubilometro.com/compensa/yt
+
+#jubilacion #jubilacionanticipada #pensiones</pre><button class="copy" type="button" data-copy="t17">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-16-compensa.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/compensa-jubilarse-antes/" target="_blank" rel="noopener">jubilometro.com/jubilacion/compensa-jubilarse-antes/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 16 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-16-video-pedir-viudedad">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Trámites sin líos</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-16-video-pedir-viudedad"> Hecho</label></header>
+  <h4>Pensión de viudedad: pídela en los 3 primeros meses</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pensión de viudedad · ¿Cuándo hay que pedirla?</td><td>¿Cuándo hay que pedir la pensión de viudedad?</td></tr><tr><td>3-11 s</td><td>El derecho no caduca · Pero los atrasos, solo 3 meses</td><td>El derecho no caduca, pero solo se cobran los tres meses anteriores a la solicitud.</td></tr><tr><td>11-19 s</td><td>Si la pides al año · Pierdes 9 meses</td><td>Si la pides al año del fallecimiento, pierdes nueve meses de pensión.</td></tr><tr><td>19-26 s</td><td>Cómo se pide · Por internet, en la sede de la Seguridad Social · O en una oficina, con cita previa · Con la orfandad y el auxilio, a la vez</td><td>Se pide por internet o con cita previa, y a la vez la orfandad y el auxilio por defunción.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/pedir-viudedad</td><td>Paso a paso, en jubilometro.com/pedir-viudedad.</td></tr></tbody></table></div><div class="txt"><pre id="t18">La pensión de viudedad no caduca, pero solo se cobran con atrasos los tres meses anteriores a la solicitud. Pídela en los tres meses siguientes al fallecimiento: jubilometro.com/pedir-viudedad/yt
+
+#viudedad #pensiones #tramites</pre><button class="copy" type="button" data-copy="t18">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-21-pedir-viudedad.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/viudedad/solicitar-viudedad/" target="_blank" rel="noopener">jubilometro.com/viudedad/solicitar-viudedad/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 18 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-18-video-grados-incapacidad">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-18-video-grados-incapacidad"> Hecho</label></header>
+  <h4>Incapacidad permanente: 4 grados, 4 formas de cobrar</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Incapacidad permanente · 4 grados, 4 formas de cobrar</td><td>La incapacidad permanente tiene cuatro grados, y cada uno se cobra distinto.</td></tr><tr><td>3-9 s</td><td>Parcial · 24 mensualidades</td><td>Parcial: 24 mensualidades de una vez, y sigues en tu trabajo.</td></tr><tr><td>9-15 s</td><td>Total · El 55 % de tu base</td><td>Total: el 55 % de tu base reguladora, o el 75 % desde los 55 años si no trabajas.</td></tr><tr><td>15-21 s</td><td>Absoluta · El 100 %, sin IRPF</td><td>Absoluta: el 100 %, sin IRPF.</td></tr><tr><td>21-26 s</td><td>Gran incapacidad · 100 % y un complemento</td><td>Gran incapacidad: el 100 % más un complemento para pagar a quien te cuida.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/calcula-incapacidad</td><td>Calcula la tuya en jubilometro.com/calcula-incapacidad.</td></tr></tbody></table></div><div class="txt"><pre id="t19">Parcial, 24 mensualidades; total, el 55 % (75 % desde los 55); absoluta, el 100 % sin IRPF, y gran incapacidad, el 100 % más un complemento. Calcula la tuya: jubilometro.com/calcula-incapacidad/yt
+
+#incapacidadpermanente #pensiones #inss</pre><button class="copy" type="button" data-copy="t19">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-20-grados-incapacidad.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/incapacidad/grados-incapacidad/" target="_blank" rel="noopener">jubilometro.com/incapacidad/grados-incapacidad/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s7"><h2 id="s7">Semana 8 <span>del 21 de diciembre al 27 de diciembre</span></h2>
+<div class="day"><h3>lunes 21 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-21-mes1-49">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Familias y cuidados</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-21-mes1-49"> Hecho</label></header>
+  <h4>Si cuidas de tu madre, puedes cotizar gratis para tu jubilación</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Si cuidas de un familiar · ¿Dejaste de trabajar para cuidar?</td><td>¿Has dejado de trabajar para cuidar de tu madre o de tu padre?</td></tr><tr><td>3-11 s</td><td>Convenio especial del cuidador · Cotiza para tu jubilación gratis</td><td>Si cobra la prestación por cuidados familiares, puedes cotizar para tu jubilación sin pagar: la cuota la paga el Imserso.</td></tr><tr><td>11-19 s</td><td>Con grado III · Base de 1424,40 €</td><td>Con grado III cotizas por la base mínima, 1.424,40 euros al mes, y con grado I, por la mitad.</td></tr><tr><td>19-26 s</td><td>Plazo · Pídelo en 90 días</td><td>Pídelo en la Tesorería en los 90 días siguientes a que reconozcan la ayuda, y cuenta desde ese día.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/cuidador</td><td>Cómo pedirlo, en jubilometro.com/cuidador.</td></tr></tbody></table></div><div class="txt"><pre id="t20">Si cuidas de un familiar con la prestación por cuidados familiares, puedes cotizar para tu jubilación sin pagar: la cuota la paga el Imserso. jubilometro.com/cuidador/yt</pre><button class="copy" type="button" data-copy="t20">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-06-cuidador.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/dependencia/convenio-cuidador/" target="_blank" rel="noopener">jubilometro.com/dependencia/convenio-cuidador/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 23 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-23-mes1-79">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">La cifra que te toca</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-23-mes1-79"> Hecho</label></header>
+  <h4>Madres pensionistas: 36,90 € al mes por cada hijo</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Madres pensionistas · ¿Tienes hijos y cobras pensión?</td><td>Si tienes hijos y cobras una pensión, mira esto.</td></tr><tr><td>3-11 s</td><td>Complemento de brecha de género · 36,90 € al mes por hijo</td><td>El complemento de brecha de género son 36,90 euros al mes por cada hijo.</td></tr><tr><td>11-19 s</td><td>Hasta cuatro hijos · 4 hijos → 147,60 € al mes</td><td>Hasta cuatro hijos: 147,60 euros al mes, en 14 pagas.</td></tr><tr><td>19-26 s</td><td>Se suma a tu pensión de · Jubilación · Incapacidad permanente · Viudedad</td><td>Se suma a la pensión de jubilación, de incapacidad permanente o de viudedad.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/brecha</td><td>Requisitos en jubilometro.com/brecha.</td></tr></tbody></table></div><div class="txt"><pre id="t21">El complemento de brecha de género: 36,90 € al mes por hijo en 2026, hasta cuatro hijos. jubilometro.com/brecha/yt</pre><button class="copy" type="button" data-copy="t21">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-10-brecha.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/cuanto-cobrare/complemento-brecha-genero/" target="_blank" rel="noopener">jubilometro.com/cuanto-cobrare/complemento-brecha-genero/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 25 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-25-video-jubilacion-activa">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-25-video-jubilacion-activa"> Hecho</label></header>
+  <h4>Cobrar la pensión y trabajar: la jubilación activa</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Jubilación activa · ¿Cobrar la pensión y trabajar?</td><td>¿Se puede cobrar la pensión y seguir trabajando?</td></tr><tr><td>3-10 s</td><td>Si retrasas la jubilación un año o más · Sí, con la activa</td><td>Sí, con la jubilación activa, si retrasas la jubilación al menos un año.</td></tr><tr><td>10-19 s</td><td>Lo que cobras de la pensión · 45 %: Con 1 año de retraso · 65 %: Con 3 años · 100 %: Con 5 años o más</td><td>Cobras desde el 45 % de la pensión con un año de retraso hasta el 100 % con cinco.</td></tr><tr><td>19-26 s</td><td>Y cada año en activa · +5 puntos</td><td>Y el porcentaje sube 5 puntos por cada 12 meses seguidos en activa.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/activa</td><td>Más en jubilometro.com/activa.</td></tr></tbody></table></div><div class="txt"><pre id="t22">Si retrasas tu jubilación al menos un año, puedes trabajar y cobrar del 45 % al 100 % de la pensión, según los años de retraso. Cómo funciona: jubilometro.com/activa/yt
+
+#jubilacion #jubilacionactiva #pensiones</pre><button class="copy" type="button" data-copy="t22">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-25-jubilacion-activa.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/activa/" target="_blank" rel="noopener">jubilometro.com/jubilacion/activa/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s8"><h2 id="s8">Semana 9 <span>del 28 de diciembre al 3 de enero</span></h2>
+<div class="day"><h3>lunes 28 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-28-video-pareja-de-hecho">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-28-video-pareja-de-hecho"> Hecho</label></header>
+  <h4>¿Viudedad sin estar casados? Sí, con dos requisitos</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pensión de viudedad · ¿Y si no estabais casados?</td><td>¿Hay viudedad si no estabais casados?</td></tr><tr><td>3-11 s</td><td>Pareja de hecho · Sí, igual que un matrimonio</td><td>Sí: la pareja de hecho cobra la viudedad igual que un matrimonio, si cumple dos requisitos.</td></tr><tr><td>11-19 s</td><td>Requisito 1 · Inscritos 2 años antes</td><td>Estar inscritos al menos dos años antes del fallecimiento.</td></tr><tr><td>19-26 s</td><td>Requisito 2 · 5 años de convivencia</td><td>Y haber convivido cinco años seguidos justo antes. Con hijos en común, bastan dos años, sin inscripción.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/pareja-de-hecho</td><td>Más en jubilometro.com/pareja-de-hecho.</td></tr></tbody></table></div><div class="txt"><pre id="t23">Las parejas de hecho cobran la viudedad igual que un matrimonio si están inscritas al menos 2 años antes y convivían 5 años seguidos. Con hijos en común, bastan 2 años de convivencia. Requisitos: jubilometro.com/pareja-de-hecho/yt
+
+#viudedad #parejadehecho #pensiones</pre><button class="copy" type="button" data-copy="t23">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-22-pareja-de-hecho.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/viudedad/pareja-de-hecho/" target="_blank" rel="noopener">jubilometro.com/viudedad/pareja-de-hecho/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 30 de diciembre</h3><div class="posts"><article class="post" data-red="video" data-id="2026-12-30-video-incapacidad-denegada">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2026-12-30-video-incapacidad-denegada"> Hecho</label></header>
+  <h4>¿Te han denegado la incapacidad? Tienes 30 días</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Incapacidad permanente · ¿Te la han denegado?</td><td>¿Te han denegado la incapacidad permanente?</td></tr><tr><td>3-11 s</td><td>Primer paso · 30 días para reclamar</td><td>Tienes 30 días desde la notificación para presentar la reclamación previa ante el INSS.</td></tr><tr><td>11-19 s</td><td>Si la rechaza o no contesta en 45 días · Otros 30 días</td><td>Si la rechaza o no contesta en 45 días, tienes otros 30 días para ir al Juzgado de lo Social.</td></tr><tr><td>19-26 s</td><td>Consejo · Aporta todos tus informes</td><td>Aporta todos tus informes en la reclamación previa: en el juicio solo cuenta lo que está en el expediente, salvo los hechos nuevos.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/incapacidad-denegada</td><td>Paso a paso, en jubilometro.com/incapacidad-denegada.</td></tr></tbody></table></div><div class="txt"><pre id="t24">Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa ante el INSS y otros 30 para la demanda. Paso a paso: jubilometro.com/incapacidad-denegada/yt
+
+#incapacidadpermanente #inss #pensiones</pre><button class="copy" type="button" data-copy="t24">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-23-incapacidad-denegada.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/incapacidad/denegada/" target="_blank" rel="noopener">jubilometro.com/incapacidad/denegada/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 1 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-01-video-dependencia-espera">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-01-video-dependencia-espera"> Hecho</label></header>
+  <h4>¿Cuánto tarda de verdad la dependencia?</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Dependencia · ¿Cuánto tarda de verdad?</td><td>¿Cuánto tarda de verdad la dependencia?</td></tr><tr><td>3-9 s</td><td>Lo que dice la ley · 6 meses</td><td>La ley da seis meses para resolverla.</td></tr><tr><td>9-17 s</td><td>La media real en España · 293 días</td><td>La media real en España son 293 días, según el Imserso.</td></tr><tr><td>17-26 s</td><td>Depende de tu comunidad · Aragón: 109 días · País Vasco: 130 días · Región de Murcia: 529 días</td><td>Desde 109 días en Aragón hasta 529 en la Región de Murcia.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/espera-dependencia</td><td>Tu comunidad, en jubilometro.com/espera-dependencia.</td></tr></tbody></table></div><div class="txt"><pre id="t25">La ley da seis meses, pero la media real en España es de 293 días: de 109 en Aragón a 529 en la Región de Murcia. Tu comunidad: jubilometro.com/espera-dependencia/yt
+
+#dependencia #mayores #cuidados</pre><button class="copy" type="button" data-copy="t25">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-18-dependencia-espera.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/dependencia/tiempos-dependencia/" target="_blank" rel="noopener">jubilometro.com/dependencia/tiempos-dependencia/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s9"><h2 id="s9">Semana 10 <span>del 4 de enero al 10 de enero</span></h2>
+<div class="day"><h3>lunes 4 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-04-video-vida-laboral">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-04-video-vida-laboral"> Hecho</label></header>
+  <h4>Revisa tu vida laboral antes de jubilarte</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Antes de jubilarte · Revisa tu vida laboral</td><td>Antes de jubilarte, revisa tu vida laboral.</td></tr><tr><td>3-11 s</td><td>Si falta un periodo trabajado · Pierdes años y pensión</td><td>Si falta un periodo trabajado, pierdes años cotizados y puede bajar tu pensión.</td></tr><tr><td>11-19 s</td><td>Se pide gratis · En Import@ss · Con Cl@ve o un SMS al móvil · O que te la manden a casa</td><td>Se pide gratis en Import@ss, con Cl@ve o con un SMS al móvil, o que te la manden a casa.</td></tr><tr><td>19-26 s</td><td>Si hay un error · Pide la rectificación</td><td>Si hay un error, pide la rectificación con nóminas o contratos. Cuanto antes, mejor.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/vida-laboral</td><td>Cómo pedirla, en jubilometro.com/vida-laboral.</td></tr></tbody></table></div><div class="txt"><pre id="t26">Un periodo trabajado que no aparece en tu vida laboral te quita años cotizados y pensión. Cómo pedirla gratis y corregirla: jubilometro.com/vida-laboral/yt
+
+#jubilacion #vidalaboral #pensiones</pre><button class="copy" type="button" data-copy="t26">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-27-vida-laboral.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/cuanto-cobrare/informe-vida-laboral/" target="_blank" rel="noopener">jubilometro.com/cuanto-cobrare/informe-vida-laboral/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 6 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-06-video-jubilacion-flexible">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-06-video-jubilacion-flexible"> Hecho</label></header>
+  <h4>Jubilado y con ganas de trabajar unas horas: la flexible</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Ya jubilado · ¿Volver a trabajar unas horas?</td><td>¿Estás jubilado y quieres volver a trabajar unas horas?</td></tr><tr><td>3-11 s</td><td>Jubilación flexible · Del 33 % al 80 % de jornada</td><td>Con la jubilación flexible trabajas entre el 33 y el 80 % de una jornada, y la pensión se reduce en proporción.</td></tr><tr><td>11-19 s</td><td>Si empiezas 6 meses después · Un 15 % o un 25 % más</td><td>Si empiezas a trabajar al menos seis meses después de jubilarte, recibes un 15 o un 25 % más.</td></tr><tr><td>19-26 s</td><td>Desde agosto de 2026 · También autónomos</td><td>Y desde agosto de 2026 también pueden los autónomos, que cobran el 25 % de su pensión.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/flexible</td><td>Más en jubilometro.com/flexible.</td></tr></tbody></table></div><div class="txt"><pre id="t27">Con la jubilación flexible trabajas del 33 % al 80 % de una jornada y cobras la pensión reducida en proporción. Desde agosto de 2026, también los autónomos: jubilometro.com/flexible/yt
+
+#jubilacion #jubilacionflexible #pensiones</pre><button class="copy" type="button" data-copy="t27">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-26-jubilacion-flexible.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/flexible/" target="_blank" rel="noopener">jubilometro.com/jubilacion/flexible/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 8 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-08-video-requisitos-viudedad">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-08-video-requisitos-viudedad"> Hecho</label></header>
+  <h4>¿Te corresponde la pensión de viudedad?</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pensión de viudedad · ¿Te corresponde?</td><td>¿Te corresponde la pensión de viudedad?</td></tr><tr><td>3-11 s</td><td>Si la persona fallecida trabajaba · 500 días en 5 años</td><td>Si la persona fallecida trabajaba, hacen falta 500 días cotizados en los últimos cinco años, o 15 años en total.</td></tr><tr><td>11-19 s</td><td>Si ya era pensionista · Basta con eso</td><td>Si ya cobraba una jubilación o una incapacidad permanente, basta con eso.</td></tr><tr><td>19-26 s</td><td>Si fue un accidente · Sin cotización mínima</td><td>Si murió por un accidente, no se pide cotización mínima. Y para ti no hay límite de edad ni de ingresos.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/requisitos-viudedad</td><td>Requisitos en jubilometro.com/requisitos-viudedad.</td></tr></tbody></table></div><div class="txt"><pre id="t28">Para la viudedad, la persona fallecida tenía que tener 500 días cotizados en los últimos 5 años, 15 años en total o ser pensionista. Si fue un accidente, no se pide cotización: jubilometro.com/requisitos-viudedad/yt
+
+#viudedad #pensiones #seguridadsocial</pre><button class="copy" type="button" data-copy="t28">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-36-requisitos-viudedad.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/viudedad/requisitos/" target="_blank" rel="noopener">jubilometro.com/viudedad/requisitos/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s10"><h2 id="s10">Semana 11 <span>del 11 de enero al 17 de enero</span></h2>
+<div class="day"><h3>lunes 11 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-11-video-ayuda-domicilio">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-11-video-ayuda-domicilio"> Hecho</label></header>
+  <h4>Ayuda a domicilio: cuántas horas según el grado</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Dependencia · ¿Ayuda en casa para tu madre?</td><td>¿Tu madre o tu padre necesita ayuda en casa?</td></tr><tr><td>3-11 s</td><td>Ayuda a domicilio · Aseo, comida, vestirse</td><td>La ayuda a domicilio envía auxiliares a casa para el aseo, la comida o vestirse.</td></tr><tr><td>11-19 s</td><td>Horas al mes, según el grado · Grado I: de 20 a 37 horas · Grado II: de 38 a 64 horas · Grado III: de 65 a 94 horas</td><td>Con la dependencia, de 20 a 37 horas al mes en el grado I, de 38 a 64 en el II y de 65 a 94 en el III.</td></tr><tr><td>19-26 s</td><td>Cuánto cuesta · Según tus ingresos</td><td>Pagas una parte según tus ingresos, y nadie se queda sin ella por no tener dinero.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/ayuda-domicilio</td><td>Cómo pedirla, en jubilometro.com/ayuda-domicilio.</td></tr></tbody></table></div><div class="txt"><pre id="t29">Con la dependencia reconocida, la ayuda a domicilio va de 20 a 94 horas al mes según el grado, y pagas una parte según tus ingresos: jubilometro.com/ayuda-domicilio/yt
+
+#dependencia #cuidados #mayores</pre><button class="copy" type="button" data-copy="t29">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-35-ayuda-domicilio.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/dependencia/ayuda-a-domicilio/" target="_blank" rel="noopener">jubilometro.com/dependencia/ayuda-a-domicilio/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 13 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-13-mes1-71">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-13-mes1-71"> Hecho</label></header>
+  <h4>Los meses sin cotizar no cuentan como cero</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Años sin cotizar · No cuentan como cero</td><td>¿Tienes años sin cotizar? No cuentan como cero.</td></tr><tr><td>3-11 s</td><td>Los 48 primeros meses · Con la base mínima</td><td>Los 48 primeros meses se rellenan con la base mínima.</td></tr><tr><td>11-19 s</td><td>El resto · Con el 50 %</td><td>El resto, con el 50 % de la base mínima. Las asalariadas tienen reglas mejores desde 2026.</td></tr><tr><td>19-26 s</td><td>Ojo · Mejoran la base, pero no suman años</td><td>Mejoran tu base reguladora, pero no suman años cotizados.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/lagunas</td><td>Más en jubilometro.com/lagunas.</td></tr></tbody></table></div><div class="txt"><pre id="t30">Los meses sin cotizar dentro del periodo de cálculo se rellenan: los 48 primeros con la base mínima y el resto con el 50 %. jubilometro.com/lagunas/yt</pre><button class="copy" type="button" data-copy="t30">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-09-lagunas.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/cuanto-cobrare/lagunas-de-cotizacion/" target="_blank" rel="noopener">jubilometro.com/cuanto-cobrare/lagunas-de-cotizacion/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 15 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-15-video-anticipada-involuntaria">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-15-video-anticipada-involuntaria"> Hecho</label></header>
+  <h4>Despedido cerca de jubilarte: hasta 4 años antes</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Despedido cerca de jubilarte · ¿Puedes jubilarte antes?</td><td>Si te despiden cerca de la jubilación, ¿puedes jubilarte antes?</td></tr><tr><td>3-11 s</td><td>Jubilación anticipada involuntaria · Hasta 4 años antes</td><td>Sí: tras un despido colectivo u objetivo, hasta cuatro años antes.</td></tr><tr><td>11-19 s</td><td>Requisitos · 33 años cotizados · 6 meses inscrito en el paro · En 2027, desde los 63 (o los 61)</td><td>Necesitas 33 años cotizados y seis meses inscrito como demandante de empleo. En 2027, desde los 63, o desde los 61 con 38 años y 6 meses cotizados.</td></tr><tr><td>19-26 s</td><td>El precio · Hasta un 30 % menos</td><td>El recorte puede llegar al 30 %, para toda la vida.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/involuntaria</td><td>Calcula tu caso en jubilometro.com/involuntaria.</td></tr></tbody></table></div><div class="txt"><pre id="t31">Tras un despido colectivo u objetivo puedes jubilarte hasta 4 años antes, con 33 años cotizados y 6 meses en el paro. El recorte puede llegar al 30 %: jubilometro.com/involuntaria/yt
+
+#jubilacion #jubilacionanticipada #despido</pre><button class="copy" type="button" data-copy="t31">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-32-anticipada-involuntaria.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/anticipada-involuntaria/" target="_blank" rel="noopener">jubilometro.com/jubilacion/anticipada-involuntaria/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s11"><h2 id="s11">Semana 12 <span>del 18 de enero al 24 de enero</span></h2>
+<div class="day"><h3>lunes 18 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-18-mes1-27">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Errores que cuestan dinero</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-18-mes1-27"> Hecho</label></header>
+  <h4>Pensión de viudedad: 52 %, 60 % o 70 %</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>La viudedad no siempre es el 52 %</td><td>Mucha gente cree que la viudedad es siempre el 52 %.</td></tr><tr><td>3-10 s</td><td>52 % · caso general</td><td>El 52 % es el caso general, sobre la base reguladora de quien falleció.</td></tr><tr><td>10-19 s</td><td>60 % · desde los 65, sin otra pensión ni trabajo</td><td>Con 65 años o más, sin otra pensión ni trabajo y pocas rentas, es el 60 %. Y hay que pedirlo.</td></tr><tr><td>19-26 s</td><td>70 % · con cargas familiares</td><td>Con cargas familiares e ingresos bajos, el 70 %.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/calcula-viudedad</td><td>Calcula la tuya en Jubilómetro.</td></tr></tbody></table></div><div class="txt"><pre id="t32">La viudedad no siempre es el 52 %: puede ser el 60 % o el 70 %, y el 60 % hay que pedirlo. Calcula la tuya: jubilometro.com/calcula-viudedad/yt
+
+#viudedad #pensiones #seguridadsocial</pre><button class="copy" type="button" data-copy="t32">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-03-viudedad.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/viudedad/cuantia/" target="_blank" rel="noopener">jubilometro.com/viudedad/cuantia/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 20 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-20-video-trabajaste-fuera">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-20-video-trabajaste-fuera"> Hecho</label></header>
+  <h4>¿Trabajaste en otro país? Esos años suman</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Años trabajados fuera · ¿Trabajaste en Alemania o en Suiza?</td><td>¿Trabajaste unos años en Alemania, Francia o Suiza?</td></tr><tr><td>3-11 s</td><td>Si el país tiene convenio · Esos años suman</td><td>Si el país es de la Unión Europea o tiene convenio con España, esos años suman para llegar a los 15 mínimos.</td></tr><tr><td>11-19 s</td><td>Después · Cada país paga su parte</td><td>Después, cada país paga su parte, en proporción a lo que cotizaste en él.</td></tr><tr><td>19-26 s</td><td>Ojo · Cada país, su edad</td><td>Cada país aplica su propia edad de jubilación. Y sin convenio, esos años no cuentan en España.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/otro-pais</td><td>Más en jubilometro.com/otro-pais.</td></tr></tbody></table></div><div class="txt"><pre id="t33">Si trabajaste en un país de la Unión Europea o con convenio con España, esos años suman para llegar a los 15 mínimos, y cada país paga su parte: jubilometro.com/otro-pais/yt
+
+#jubilacion #emigrantes #pensiones</pre><button class="copy" type="button" data-copy="t33">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-33-trabajaste-fuera.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/trabajado-en-otro-pais/" target="_blank" rel="noopener">jubilometro.com/jubilacion/trabajado-en-otro-pais/</a></p>
+</article></div></div>
+<div class="day"><h3>viernes 22 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-22-mes1-11">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-22-mes1-11"> Hecho</label></header>
+  <h4>¿Naciste en 1962? Esta es tu edad de jubilación</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>¿Naciste en 1962?</td><td>Si naciste en 1962, esta es tu edad de jubilación.</td></tr><tr><td>3-12 s</td><td>65 años en 2027… si llevas 38 años y 6 meses cotizados</td><td>Cumples 65 en 2027. Si para entonces llevas 38 años y 6 meses cotizados, te jubilas a los 65 sin recorte.</td></tr><tr><td>12-20 s</td><td>Si no llegas: 67 años, en 2029</td><td>Si no llegas, te toca a los 67, en 2029.</td></tr><tr><td>20-26 s</td><td>Cuentan los años cotizados el día que te jubilas</td><td>Cuentan los años que tengas cotizados el día que te jubilas, no los de hoy.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/edad</td><td>Pon tu fecha en jubilometro.com/edad y te dice el mes exacto.</td></tr></tbody></table></div><div class="txt"><pre id="t34">Si naciste en 1962, cumples 65 en 2027. Te jubilas entonces si llevas 38 años y 6 meses cotizados; si no, a los 67, en 2029. Tu mes exacto: jubilometro.com/edad/yt
+
+#jubilacion #pensiones #edaddejubilacion</pre><button class="copy" type="button" data-copy="t34">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-02-naciste-1962.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/edad-de-jubilacion/" target="_blank" rel="noopener">jubilometro.com/jubilacion/edad-de-jubilacion/</a></p>
+</article></div></div>
+</section>
+<section class="week" aria-labelledby="s12"><h2 id="s12">Semana 13 <span>del 25 de enero al 31 de enero</span></h2>
+<div class="day"><h3>lunes 25 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-25-mes1-42">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-25-mes1-42"> Hecho</label></header>
+  <h4>¿Naciste entre marzo y diciembre de 1960? Ojo con tu edad de jubilación</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Edad de jubilación · ¿Naciste en 1960?</td><td>Si naciste entre marzo y diciembre de 1960, ojo con tu edad de jubilación.</td></tr><tr><td>3-11 s</td><td>Muchas tablas dicen · 66 años y 8 meses</td><td>Muchas tablas dicen que te jubilas a los 66 años y 8 meses.</td></tr><tr><td>11-19 s</td><td>Si naciste de marzo a diciembre · Te jubilas a los 67, en 2027</td><td>Pero si no llegas a 38 años y 6 meses cotizados, te jubilas a los 67, en 2027.</td></tr><tr><td>19-26 s</td><td>Por qué · Cuenta el año en que te jubilas</td><td>Porque cuenta la edad que se pide el año en que te jubilas, no el año en que naciste.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/edad</td><td>Calcula tu mes exacto en jubilometro.com/edad.</td></tr></tbody></table></div><div class="txt"><pre id="t35">Si naciste entre marzo y diciembre de 1960 y no llegas a 38 años y 6 meses cotizados, te jubilas a los 67, en 2027, y no a los 66 años y 8 meses. jubilometro.com/edad-2027/yt</pre><button class="copy" type="button" data-copy="t35">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-05-naciste-1960.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/edad-de-jubilacion/" target="_blank" rel="noopener">jubilometro.com/jubilacion/edad-de-jubilacion/</a></p>
+</article></div></div>
+<div class="day"><h3>miércoles 27 de enero</h3><div class="posts"><article class="post" data-red="video" data-id="2027-01-27-mes1-93">
+  <header><span class="chip chip--video">Vídeo corto</span><span class="when">13:00</span><span class="kind">Vídeo (listo)</span><span class="pilar">Calcula tu caso</span>
+  <label class="done"><input type="checkbox" id="h-2027-01-27-mes1-93"> Hecho</label></header>
+  <h4>¿Cuánto se cobra con 15 años cotizados?</h4>
+  
+  <div class="guion"><table><thead><tr><th>Tiempo</th><th>En pantalla</th><th>Voz</th></tr></thead><tbody><tr><td>0-3 s</td><td>Pocos años cotizados · ¿Solo 15 años cotizados?</td><td>¿Tienes solo 15 años cotizados?</td></tr><tr><td>3-11 s</td><td>Tienes pensión · El 50 % de tu base</td><td>Tienes pensión: el 50 % de tu base reguladora.</td></tr><tr><td>11-19 s</td><td>Edad · A los 67 años</td><td>A los 67 años.</td></tr><tr><td>19-26 s</td><td>Requisito · 2 años dentro de los últimos 15</td><td>Y dos de esos años tienen que estar dentro de los últimos 15.</td></tr><tr><td>26-30 s</td><td>jubilometro.com/15-anos</td><td>Tu caso, en jubilometro.com/15-anos.</td></tr></tbody></table></div><div class="txt"><pre id="t36">Con 15 años cotizados hay pensión: el 50 % de tu base reguladora, a los 67. jubilometro.com/15-anos/yt</pre><button class="copy" type="button" data-copy="t36">Copiar el texto de la publicación</button></div><p class="file"><b>Vídeo listo:</b> <code>publicacion/redes/videos/video-12-15-anos.mp4</code></p><p class="src">Cifras de <a href="https://jubilometro.com/jubilacion/15-anos-cotizados/" target="_blank" rel="noopener">jubilometro.com/jubilacion/15-anos-cotizados/</a></p>
+</article></div></div>
+</section>
+</div>
+<script>
+(function () {
+  var KEY = 'jm-redes-programado-video', hechos = {};
+  try { hechos = JSON.parse(localStorage.getItem(KEY) || '{}') || {}; } catch (e) {}
+  function guardar() { try { localStorage.setItem(KEY, JSON.stringify(hechos)); } catch (e) {} }
+  document.querySelectorAll('.post').forEach(function (p) {
+    var c = p.querySelector('.done input'), id = p.getAttribute('data-id');
+    c.checked = !!hechos[id]; p.classList.toggle('is-done', c.checked);
+    c.addEventListener('change', function () { hechos[id] = c.checked; if (!c.checked) delete hechos[id]; p.classList.toggle('is-done', c.checked); guardar(); });
+  });
+  document.querySelectorAll('[data-copy]').forEach(function (b) {
+    var txt = b.textContent;
+    b.addEventListener('click', function () {
+      var pre = document.getElementById(b.getAttribute('data-copy'));
+      function ok() { b.classList.add('is-ok'); b.textContent = 'Copiado'; setTimeout(function () { b.classList.remove('is-ok'); b.textContent = txt; }, 1800); }
+      function manual() { var r = document.createRange(); r.selectNodeContents(pre); var s = getSelection(); s.removeAllRanges(); s.addRange(r); b.textContent = 'Seleccionado: pulsa copiar'; setTimeout(function () { b.textContent = txt; }, 2500); }
+      try { navigator.clipboard.writeText(pre.textContent).then(ok, manual); } catch (e) { manual(); }
+    });
+  });
+  var botones = document.querySelectorAll('.bar [data-f]');
+  botones.forEach(function (b) {
+    b.addEventListener('click', function () {
+      var f = b.getAttribute('data-f');
+      botones.forEach(function (o) { o.setAttribute('aria-pressed', o === b ? 'true' : 'false'); });
+      document.querySelectorAll('.post').forEach(function (p) { p.classList.toggle('is-off', !!f && p.getAttribute('data-red') !== f); });
+    });
+  });
+  var oc = document.getElementById('ocultar');
+  oc.addEventListener('change', function () { document.body.classList.toggle('hide-done', oc.checked); });
+})();
+</script>

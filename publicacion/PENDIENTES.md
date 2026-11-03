@@ -125,3 +125,5 @@ Falta, lo hace el titular:
 - Canal de WhatsApp, TikTok y LinkedIn: iniciar sesión en WhatsApp Web y LinkedIn y registrar TikTok; después se completan con el encargo (`publicacion/redes/kit/ENCARGO-PERFILES.md`, apartados 5, 7 y 8).
 - Grupo: las preguntas de entrada dependen de activar «Aprobación de participantes». Recomendación: dejarlo abierto mientras no haya spam.
 - YouTube en Metricool: conectarlo dentro de Metricool si el plan lo permite, para programar vídeos cortos.
+
+- **Vídeos de YouTube:** 6 Shorts preparados en Metricool como borrador (`publicacion/redes/programado/metricool-programadas.md`). No se publican hasta que Pau diga que sí. La revisión diaria no programa vídeos mientras tanto.
