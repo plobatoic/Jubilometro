@@ -34,9 +34,21 @@ Uno por línea: qué pasaba, qué he hecho y por qué. Si no hubo ninguno: «Nin
 
 Lo que ha salido en el BOE o en la Seguridad Social que afecta a la web, y qué guías o calculadoras he cambiado por ello.
 
-## 5. Redes
+## 5. Redes (todo, red por red)
 
-Lo publicado ayer y lo programado para los próximos días. Seguidores y visitas que llegan desde cada red, si hay datos.
+| Red | Ayer se publicó | Próximos 3 días | Seguidores y alcance |
+|---|---|---|---|
+| Facebook (página y grupo) | | | |
+| Instagram | | | |
+| X | | | |
+| YouTube | | | |
+| Canal de WhatsApp | (lo manda el titular) | | |
+
+- **Fallos:** publicaciones que Metricool o Typefully no pudieron publicar, y qué se ha hecho.
+- **Programado por delante:** días cubiertos en cada red (objetivo: 14 en Metricool, 7 en X).
+- **Visitas desde las redes:** las de los enlaces cortos (`/…/fb`, `/ig`, `/x`, `/yt`, `/wa`) en las estadísticas de la web.
+- **Aviso de WhatsApp de hoy:** el texto listo para copiar y pegar en el canal.
+- **Pendientes de perfiles:** lo que queda por hacer en publicacion/PENDIENTES.md.
 
 ## 6. Necesito tu decisión
 
