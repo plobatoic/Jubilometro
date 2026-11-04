@@ -80,7 +80,7 @@ Información general (art. 205 de la Ley General de la Seguridad Social).
 ```
 Para cobrar la pensión contributiva de jubilación no basta con 15 años cotizados: al menos 2 tienen que estar dentro de los 15 años anteriores a la jubilación. Te explicamos qué opciones hay si no lo cumples.
 
-Requisitos y ejemplos: jubilometro.com/jubilacion/15-anos-cotizados/
+Requisitos y ejemplos en jubilometro.com
 
 Información general basada en el artículo 205 de la Ley General de la Seguridad Social. No sustituye el asesoramiento profesional.
 

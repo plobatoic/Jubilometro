@@ -92,7 +92,7 @@ Luis se jubila a los 63 con un 19 % de recorte. A los 73 y medio ya ha perdido l
 ```
 Si adelantas la jubilación 2 años con un recorte del 19 %, lo que cobras de más se agota a los 73 años y medio. A partir de ahí pierdes dinero cada año. Ejemplo con una base reguladora de 2.000 € y 39 años cotizados.
 
-Calcula tu punto de equilibrio: jubilometro.com/jubilacion/compensa-jubilarse-antes/
+Calcula tu caso en jubilometro.com
 
 Cifras brutas, sin revalorizaciones ni impuestos. Esperanza de vida a los 65: INE, 2024. Información general, no sustituye el asesoramiento profesional.
 
