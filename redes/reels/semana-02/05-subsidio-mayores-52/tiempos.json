@@ -1,0 +1,799 @@
+{
+ "duracion": 46.009,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 7.572
+  },
+  {
+   "ini": 7.572,
+   "fin": 13.578
+  },
+  {
+   "ini": 13.578,
+   "fin": 21.691
+  },
+  {
+   "ini": 21.691,
+   "fin": 37.181
+  },
+  {
+   "ini": 37.181,
+   "fin": 42.03
+  },
+  {
+   "ini": 42.03,
+   "fin": 47.009
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "Si",
+   "ini": 0.1,
+   "fin": 0.269,
+   "tramo": 0
+  },
+  {
+   "texto": "tienes",
+   "ini": 0.269,
+   "fin": 0.663,
+   "tramo": 0
+  },
+  {
+   "texto": "52",
+   "ini": 0.663,
+   "fin": 1.45,
+   "tramo": 0
+  },
+  {
+   "texto": "años",
+   "ini": 1.45,
+   "fin": 1.732,
+   "tramo": 0
+  },
+  {
+   "texto": "o",
+   "ini": 1.732,
+   "fin": 1.844,
+   "tramo": 0
+  },
+  {
+   "texto": "más",
+   "ini": 1.844,
+   "fin": 2.069,
+   "tramo": 0
+  },
+  {
+   "texto": "y",
+   "ini": 2.069,
+   "fin": 2.182,
+   "tramo": 0
+  },
+  {
+   "texto": "estás",
+   "ini": 2.182,
+   "fin": 2.519,
+   "tramo": 0
+  },
+  {
+   "texto": "en",
+   "ini": 2.519,
+   "fin": 2.688,
+   "tramo": 0
+  },
+  {
+   "texto": "paro,",
+   "ini": 2.688,
+   "fin": 2.969,
+   "tramo": 0
+  },
+  {
+   "texto": "hay",
+   "ini": 3.266,
+   "fin": 3.457,
+   "tramo": 1
+  },
+  {
+   "texto": "un",
+   "ini": 3.457,
+   "fin": 3.6,
+   "tramo": 1
+  },
+  {
+   "texto": "subsidio",
+   "ini": 3.6,
+   "fin": 4.029,
+   "tramo": 1
+  },
+  {
+   "texto": "que",
+   "ini": 4.029,
+   "fin": 4.22,
+   "tramo": 1
+  },
+  {
+   "texto": "te",
+   "ini": 4.22,
+   "fin": 4.363,
+   "tramo": 1
+  },
+  {
+   "texto": "paga",
+   "ini": 4.363,
+   "fin": 4.601,
+   "tramo": 1
+  },
+  {
+   "texto": "hasta",
+   "ini": 4.601,
+   "fin": 4.887,
+   "tramo": 1
+  },
+  {
+   "texto": "que",
+   "ini": 4.887,
+   "fin": 5.078,
+   "tramo": 1
+  },
+  {
+   "texto": "te",
+   "ini": 5.078,
+   "fin": 5.221,
+   "tramo": 1
+  },
+  {
+   "texto": "jubilas...",
+   "ini": 5.221,
+   "fin": 5.602,
+   "tramo": 1
+  },
+  {
+   "texto": "y",
+   "ini": 5.812,
+   "fin": 5.942,
+   "tramo": 2
+  },
+  {
+   "texto": "encima",
+   "ini": 5.942,
+   "fin": 6.396,
+   "tramo": 2
+  },
+  {
+   "texto": "cotiza",
+   "ini": 6.396,
+   "fin": 6.851,
+   "tramo": 2
+  },
+  {
+   "texto": "por",
+   "ini": 6.851,
+   "fin": 7.111,
+   "tramo": 2
+  },
+  {
+   "texto": "ti.",
+   "ini": 7.111,
+   "fin": 7.305,
+   "tramo": 2
+  },
+  {
+   "texto": "Son",
+   "ini": 7.692,
+   "fin": 7.909,
+   "tramo": 3
+  },
+  {
+   "texto": "480",
+   "ini": 7.909,
+   "fin": 9.045,
+   "tramo": 3
+  },
+  {
+   "texto": "euros",
+   "ini": 9.045,
+   "fin": 9.37,
+   "tramo": 3
+  },
+  {
+   "texto": "al",
+   "ini": 9.37,
+   "fin": 9.533,
+   "tramo": 3
+  },
+  {
+   "texto": "mes",
+   "ini": 9.533,
+   "fin": 9.749,
+   "tramo": 3
+  },
+  {
+   "texto": "en",
+   "ini": 9.749,
+   "fin": 9.912,
+   "tramo": 3
+  },
+  {
+   "texto": "2026,",
+   "ini": 9.912,
+   "fin": 10.832,
+   "tramo": 3
+  },
+  {
+   "texto": "y",
+   "ini": 11.105,
+   "fin": 11.202,
+   "tramo": 4
+  },
+  {
+   "texto": "dura",
+   "ini": 11.202,
+   "fin": 11.442,
+   "tramo": 4
+  },
+  {
+   "texto": "hasta",
+   "ini": 11.442,
+   "fin": 11.731,
+   "tramo": 4
+  },
+  {
+   "texto": "tu",
+   "ini": 11.731,
+   "fin": 11.875,
+   "tramo": 4
+  },
+  {
+   "texto": "edad",
+   "ini": 11.875,
+   "fin": 12.116,
+   "tramo": 4
+  },
+  {
+   "texto": "ordinaria",
+   "ini": 12.116,
+   "fin": 12.597,
+   "tramo": 4
+  },
+  {
+   "texto": "de",
+   "ini": 12.597,
+   "fin": 12.741,
+   "tramo": 4
+  },
+  {
+   "texto": "jubilación.",
+   "ini": 12.741,
+   "fin": 13.271,
+   "tramo": 4
+  },
+  {
+   "texto": "Mientras",
+   "ini": 13.698,
+   "fin": 14.203,
+   "tramo": 5
+  },
+  {
+   "texto": "lo",
+   "ini": 14.203,
+   "fin": 14.371,
+   "tramo": 5
+  },
+  {
+   "texto": "cobras,",
+   "ini": 14.371,
+   "fin": 14.764,
+   "tramo": 5
+  },
+  {
+   "texto": "el",
+   "ini": 14.764,
+   "fin": 14.933,
+   "tramo": 5
+  },
+  {
+   "texto": "SEPE",
+   "ini": 14.933,
+   "fin": 15.214,
+   "tramo": 5
+  },
+  {
+   "texto": "cotiza",
+   "ini": 15.214,
+   "fin": 15.607,
+   "tramo": 5
+  },
+  {
+   "texto": "por",
+   "ini": 15.607,
+   "fin": 15.831,
+   "tramo": 5
+  },
+  {
+   "texto": "ti",
+   "ini": 15.831,
+   "fin": 16,
+   "tramo": 5
+  },
+  {
+   "texto": "sobre",
+   "ini": 16,
+   "fin": 16.337,
+   "tramo": 5
+  },
+  {
+   "texto": "1.780",
+   "ini": 16.337,
+   "fin": 17.572,
+   "tramo": 5
+  },
+  {
+   "texto": "euros",
+   "ini": 17.572,
+   "fin": 17.909,
+   "tramo": 5
+  },
+  {
+   "texto": "con",
+   "ini": 17.909,
+   "fin": 18.133,
+   "tramo": 5
+  },
+  {
+   "texto": "50",
+   "ini": 18.133,
+   "fin": 18.695,
+   "tramo": 5
+  },
+  {
+   "texto": "al",
+   "ini": 18.695,
+   "fin": 18.863,
+   "tramo": 5
+  },
+  {
+   "texto": "mes.",
+   "ini": 18.863,
+   "fin": 19.088,
+   "tramo": 5
+  },
+  {
+   "texto": "Y",
+   "ini": 19.445,
+   "fin": 19.543,
+   "tramo": 6
+  },
+  {
+   "texto": "eso",
+   "ini": 19.543,
+   "fin": 19.739,
+   "tramo": 6
+  },
+  {
+   "texto": "cuenta",
+   "ini": 19.739,
+   "fin": 20.084,
+   "tramo": 6
+  },
+  {
+   "texto": "para",
+   "ini": 20.084,
+   "fin": 20.329,
+   "tramo": 6
+  },
+  {
+   "texto": "calcular",
+   "ini": 20.329,
+   "fin": 20.772,
+   "tramo": 6
+  },
+  {
+   "texto": "tu",
+   "ini": 20.772,
+   "fin": 20.919,
+   "tramo": 6
+  },
+  {
+   "texto": "pensión.",
+   "ini": 20.919,
+   "fin": 21.313,
+   "tramo": 6
+  },
+  {
+   "texto": "¿Qué",
+   "ini": 21.811,
+   "fin": 21.984,
+   "tramo": 7
+  },
+  {
+   "texto": "te",
+   "ini": 21.984,
+   "fin": 22.113,
+   "tramo": 7
+  },
+  {
+   "texto": "piden?",
+   "ini": 22.113,
+   "fin": 22.373,
+   "tramo": 7
+  },
+  {
+   "texto": "Tener",
+   "ini": 22.741,
+   "fin": 23.088,
+   "tramo": 8
+  },
+  {
+   "texto": "52",
+   "ini": 23.088,
+   "fin": 23.897,
+   "tramo": 8
+  },
+  {
+   "texto": "años",
+   "ini": 23.897,
+   "fin": 24.186,
+   "tramo": 8
+  },
+  {
+   "texto": "o",
+   "ini": 24.186,
+   "fin": 24.302,
+   "tramo": 8
+  },
+  {
+   "texto": "más,",
+   "ini": 24.302,
+   "fin": 24.533,
+   "tramo": 8
+  },
+  {
+   "texto": "estar",
+   "ini": 24.777,
+   "fin": 25.092,
+   "tramo": 9
+  },
+  {
+   "texto": "en",
+   "ini": 25.092,
+   "fin": 25.249,
+   "tramo": 9
+  },
+  {
+   "texto": "paro",
+   "ini": 25.249,
+   "fin": 25.512,
+   "tramo": 9
+  },
+  {
+   "texto": "y",
+   "ini": 25.78,
+   "fin": 25.883,
+   "tramo": 10
+  },
+  {
+   "texto": "tener",
+   "ini": 25.883,
+   "fin": 26.194,
+   "tramo": 10
+  },
+  {
+   "texto": "ya",
+   "ini": 26.194,
+   "fin": 26.349,
+   "tramo": 10
+  },
+  {
+   "texto": "cotizado",
+   "ini": 26.349,
+   "fin": 26.815,
+   "tramo": 10
+  },
+  {
+   "texto": "lo",
+   "ini": 26.815,
+   "fin": 26.97,
+   "tramo": 10
+  },
+  {
+   "texto": "necesario",
+   "ini": 26.97,
+   "fin": 27.488,
+   "tramo": 10
+  },
+  {
+   "texto": "para",
+   "ini": 27.488,
+   "fin": 27.747,
+   "tramo": 10
+  },
+  {
+   "texto": "jubilarte,",
+   "ini": 27.747,
+   "fin": 28.265,
+   "tramo": 10
+  },
+  {
+   "texto": "salvo",
+   "ini": 28.265,
+   "fin": 28.575,
+   "tramo": 10
+  },
+  {
+   "texto": "la",
+   "ini": 28.575,
+   "fin": 28.73,
+   "tramo": 10
+  },
+  {
+   "texto": "edad.",
+   "ini": 28.73,
+   "fin": 28.989,
+   "tramo": 10
+  },
+  {
+   "texto": "Además,",
+   "ini": 29.45,
+   "fin": 29.887,
+   "tramo": 11
+  },
+  {
+   "texto": "6",
+   "ini": 29.887,
+   "fin": 30.199,
+   "tramo": 11
+  },
+  {
+   "texto": "años",
+   "ini": 30.199,
+   "fin": 30.511,
+   "tramo": 11
+  },
+  {
+   "texto": "cotizados",
+   "ini": 30.511,
+   "fin": 31.135,
+   "tramo": 11
+  },
+  {
+   "texto": "por",
+   "ini": 31.135,
+   "fin": 31.385,
+   "tramo": 11
+  },
+  {
+   "texto": "desempleo.",
+   "ini": 31.385,
+   "fin": 32.008,
+   "tramo": 11
+  },
+  {
+   "texto": "Y",
+   "ini": 32.398,
+   "fin": 32.504,
+   "tramo": 12
+  },
+  {
+   "texto": "que",
+   "ini": 32.504,
+   "fin": 32.716,
+   "tramo": 12
+  },
+  {
+   "texto": "tus",
+   "ini": 32.716,
+   "fin": 32.927,
+   "tramo": 12
+  },
+  {
+   "texto": "rentas",
+   "ini": 32.927,
+   "fin": 33.297,
+   "tramo": 12
+  },
+  {
+   "texto": "propias",
+   "ini": 33.297,
+   "fin": 33.72,
+   "tramo": 12
+  },
+  {
+   "texto": "no",
+   "ini": 33.72,
+   "fin": 33.879,
+   "tramo": 12
+  },
+  {
+   "texto": "pasen",
+   "ini": 33.879,
+   "fin": 34.196,
+   "tramo": 12
+  },
+  {
+   "texto": "de",
+   "ini": 34.196,
+   "fin": 34.355,
+   "tramo": 12
+  },
+  {
+   "texto": "915",
+   "ini": 34.355,
+   "fin": 35.307,
+   "tramo": 12
+  },
+  {
+   "texto": "euros",
+   "ini": 35.307,
+   "fin": 35.624,
+   "tramo": 12
+  },
+  {
+   "texto": "con",
+   "ini": 35.624,
+   "fin": 35.836,
+   "tramo": 12
+  },
+  {
+   "texto": "75",
+   "ini": 35.836,
+   "fin": 36.576,
+   "tramo": 12
+  },
+  {
+   "texto": "al",
+   "ini": 36.576,
+   "fin": 36.735,
+   "tramo": 12
+  },
+  {
+   "texto": "mes.",
+   "ini": 36.735,
+   "fin": 36.946,
+   "tramo": 12
+  },
+  {
+   "texto": "Ojo:",
+   "ini": 37.301,
+   "fin": 37.577,
+   "tramo": 13
+  },
+  {
+   "texto": "si",
+   "ini": 37.923,
+   "fin": 38.089,
+   "tramo": 14
+  },
+  {
+   "texto": "cotizabas",
+   "ini": 38.089,
+   "fin": 38.641,
+   "tramo": 14
+  },
+  {
+   "texto": "por",
+   "ini": 38.641,
+   "fin": 38.861,
+   "tramo": 14
+  },
+  {
+   "texto": "bases",
+   "ini": 38.861,
+   "fin": 39.192,
+   "tramo": 14
+  },
+  {
+   "texto": "altas,",
+   "ini": 39.192,
+   "fin": 39.523,
+   "tramo": 14
+  },
+  {
+   "texto": "estos",
+   "ini": 39.523,
+   "fin": 39.855,
+   "tramo": 14
+  },
+  {
+   "texto": "años",
+   "ini": 39.855,
+   "fin": 40.131,
+   "tramo": 14
+  },
+  {
+   "texto": "pueden",
+   "ini": 40.131,
+   "fin": 40.517,
+   "tramo": 14
+  },
+  {
+   "texto": "bajar",
+   "ini": 40.517,
+   "fin": 40.848,
+   "tramo": 14
+  },
+  {
+   "texto": "algo",
+   "ini": 40.848,
+   "fin": 41.124,
+   "tramo": 14
+  },
+  {
+   "texto": "tu",
+   "ini": 41.124,
+   "fin": 41.289,
+   "tramo": 14
+  },
+  {
+   "texto": "pensión.",
+   "ini": 41.289,
+   "fin": 41.731,
+   "tramo": 14
+  },
+  {
+   "texto": "Pásaselo",
+   "ini": 42.15,
+   "fin": 42.618,
+   "tramo": 15
+  },
+  {
+   "texto": "a",
+   "ini": 42.618,
+   "fin": 42.721,
+   "tramo": 15
+  },
+  {
+   "texto": "alguien",
+   "ini": 42.721,
+   "fin": 43.137,
+   "tramo": 15
+  },
+  {
+   "texto": "que",
+   "ini": 43.137,
+   "fin": 43.344,
+   "tramo": 15
+  },
+  {
+   "texto": "esté",
+   "ini": 43.344,
+   "fin": 43.604,
+   "tramo": 15
+  },
+  {
+   "texto": "en",
+   "ini": 43.604,
+   "fin": 43.759,
+   "tramo": 15
+  },
+  {
+   "texto": "paro",
+   "ini": 43.759,
+   "fin": 44.019,
+   "tramo": 15
+  },
+  {
+   "texto": "y",
+   "ini": 44.019,
+   "fin": 44.123,
+   "tramo": 15
+  },
+  {
+   "texto": "cerca",
+   "ini": 44.123,
+   "fin": 44.434,
+   "tramo": 15
+  },
+  {
+   "texto": "de",
+   "ini": 44.434,
+   "fin": 44.59,
+   "tramo": 15
+  },
+  {
+   "texto": "jubilarse.",
+   "ini": 44.59,
+   "fin": 45.109,
+   "tramo": 15
+  }
+ ]
+}

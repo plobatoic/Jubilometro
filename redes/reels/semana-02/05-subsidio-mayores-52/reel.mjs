@@ -40,7 +40,7 @@ Pásaselo a alguien que esté en paro y cerca de jubilarse.`,
       html: `
         <div class="kicker">Y además cotiza por ti</div>
         <div class="cifra m azul" data-en="sobre 1.780" data-a="cuenta" data-valor="1780.5" data-dec="2" data-suf=" €">0,00 €</div>
-        <div class="titular s" data-a="sube">al mes de base de cotización (125 % de la mínima)</div>
+        <div class="titular s" data-a="sube">al mes de base de cotización (125&nbsp;% de la mínima)</div>
         <div class="fila" data-en="Y eso cuenta" data-a="sube"><div class="ico si">✓</div><div>Cuenta para calcular tu pensión<small>no para completar los 15 años mínimos</small></div></div>`,
     },
     { en: "¿Qué te piden?",

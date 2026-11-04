@@ -1,755 +1,761 @@
 {
- "duracion": 52.276,
+ "duracion": 48.804,
  "escenas": [
   {
    "ini": -1,
-   "fin": 5.547
+   "fin": 5.447
   },
   {
-   "ini": 5.547,
-   "fin": 12.164
+   "ini": 5.447,
+   "fin": 11.68
   },
   {
-   "ini": 12.164,
-   "fin": 19.061
+   "ini": 11.68,
+   "fin": 18.158
   },
   {
-   "ini": 19.061,
-   "fin": 31.221
+   "ini": 18.158,
+   "fin": 29.483
   },
   {
-   "ini": 31.221,
-   "fin": 42.019
+   "ini": 29.483,
+   "fin": 39.322
   },
   {
-   "ini": 42.019,
-   "fin": 49.218
+   "ini": 39.322,
+   "fin": 45.508
   },
   {
-   "ini": 49.218,
-   "fin": 53.276
+   "ini": 45.508,
+   "fin": 49.804
   }
  ],
  "palabras": [
   {
    "texto": "Jubilarte",
    "ini": 0.1,
-   "fin": 0.641,
+   "fin": 0.768,
    "tramo": 0
   },
   {
    "texto": "dos",
-   "ini": 0.641,
-   "fin": 0.858,
+   "ini": 0.768,
+   "fin": 1.035,
    "tramo": 0
   },
   {
    "texto": "años",
-   "ini": 0.858,
-   "fin": 1.129,
+   "ini": 1.035,
+   "fin": 1.369,
    "tramo": 0
   },
   {
    "texto": "antes",
-   "ini": 1.129,
-   "fin": 1.453,
+   "ini": 1.369,
+   "fin": 1.769,
    "tramo": 0
   },
   {
    "texto": "te",
-   "ini": 1.453,
-   "fin": 1.616,
+   "ini": 1.769,
+   "fin": 1.969,
    "tramo": 0
   },
   {
    "texto": "puede",
-   "ini": 1.616,
-   "fin": 1.941,
+   "ini": 1.969,
+   "fin": 2.37,
    "tramo": 0
   },
   {
    "texto": "costar",
-   "ini": 1.941,
-   "fin": 2.32,
+   "ini": 2.37,
+   "fin": 2.837,
    "tramo": 0
   },
   {
    "texto": "60.000",
-   "ini": 2.594,
-   "fin": 3.368,
-   "tramo": 1
+   "ini": 2.837,
+   "fin": 3.572,
+   "tramo": 0
   },
   {
    "texto": "euros.",
-   "ini": 3.368,
-   "fin": 3.79,
-   "tramo": 1
+   "ini": 3.572,
+   "fin": 3.973,
+   "tramo": 0
   },
   {
    "texto": "Te",
-   "ini": 4.39,
-   "fin": 4.503,
-   "tramo": 2
+   "ini": 4.329,
+   "fin": 4.461,
+   "tramo": 1
   },
   {
    "texto": "hago",
-   "ini": 4.503,
-   "fin": 4.691,
-   "tramo": 2
+   "ini": 4.461,
+   "fin": 4.681,
+   "tramo": 1
   },
   {
    "texto": "la",
-   "ini": 4.691,
-   "fin": 4.803,
-   "tramo": 2
+   "ini": 4.681,
+   "fin": 4.813,
+   "tramo": 1
   },
   {
    "texto": "cuenta.",
-   "ini": 4.803,
-   "fin": 5.067,
-   "tramo": 2
+   "ini": 4.813,
+   "fin": 5.121,
+   "tramo": 1
   },
   {
    "texto": "Pongamos",
-   "ini": 5.667,
-   "fin": 6.099,
-   "tramo": 3
+   "ini": 5.567,
+   "fin": 6.051,
+   "tramo": 2
   },
   {
    "texto": "que",
-   "ini": 6.099,
-   "fin": 6.291,
-   "tramo": 3
+   "ini": 6.051,
+   "fin": 6.267,
+   "tramo": 2
   },
   {
    "texto": "Luis",
-   "ini": 6.291,
-   "fin": 6.531,
-   "tramo": 3
+   "ini": 6.267,
+   "fin": 6.536,
+   "tramo": 2
   },
   {
    "texto": "tiene",
-   "ini": 6.531,
-   "fin": 6.819,
-   "tramo": 3
+   "ini": 6.536,
+   "fin": 6.859,
+   "tramo": 2
   },
   {
    "texto": "63",
-   "ini": 6.819,
-   "fin": 7.443,
-   "tramo": 3
+   "ini": 6.859,
+   "fin": 7.559,
+   "tramo": 2
   },
   {
    "texto": "años,",
-   "ini": 7.443,
-   "fin": 7.683,
-   "tramo": 3
+   "ini": 7.559,
+   "fin": 7.829,
+   "tramo": 2
   },
   {
    "texto": "39",
-   "ini": 7.994,
-   "fin": 8.675,
-   "tramo": 4
+   "ini": 8.038,
+   "fin": 8.802,
+   "tramo": 3
   },
   {
    "texto": "cotizados",
-   "ini": 8.675,
-   "fin": 9.162,
-   "tramo": 4
+   "ini": 8.802,
+   "fin": 9.348,
+   "tramo": 3
   },
   {
    "texto": "y",
-   "ini": 9.586,
-   "fin": 9.696,
-   "tramo": 5
+   "ini": 9.348,
+   "fin": 9.457,
+   "tramo": 3
   },
   {
    "texto": "una",
-   "ini": 9.696,
-   "fin": 9.917,
-   "tramo": 5
+   "ini": 9.457,
+   "fin": 9.675,
+   "tramo": 3
   },
   {
    "texto": "base",
-   "ini": 9.917,
-   "fin": 10.193,
-   "tramo": 5
+   "ini": 9.675,
+   "fin": 9.948,
+   "tramo": 3
   },
   {
    "texto": "reguladora",
-   "ini": 10.193,
-   "fin": 10.801,
-   "tramo": 5
+   "ini": 9.948,
+   "fin": 10.549,
+   "tramo": 3
   },
   {
    "texto": "de",
-   "ini": 10.801,
-   "fin": 10.966,
-   "tramo": 5
+   "ini": 10.549,
+   "fin": 10.712,
+   "tramo": 3
   },
   {
    "texto": "2.000",
-   "ini": 10.966,
-   "fin": 11.353,
-   "tramo": 5
+   "ini": 10.712,
+   "fin": 11.095,
+   "tramo": 3
   },
   {
    "texto": "euros.",
-   "ini": 11.353,
-   "fin": 11.684,
-   "tramo": 5
+   "ini": 11.095,
+   "fin": 11.422,
+   "tramo": 3
   },
   {
    "texto": "Si",
-   "ini": 12.284,
-   "fin": 12.44,
-   "tramo": 6
+   "ini": 11.8,
+   "fin": 11.967,
+   "tramo": 4
   },
   {
    "texto": "se",
-   "ini": 12.44,
-   "fin": 12.595,
-   "tramo": 6
+   "ini": 11.967,
+   "fin": 12.133,
+   "tramo": 4
   },
   {
    "texto": "jubila",
-   "ini": 12.595,
-   "fin": 12.959,
-   "tramo": 6
+   "ini": 12.133,
+   "fin": 12.523,
+   "tramo": 4
   },
   {
    "texto": "ya,",
-   "ini": 12.959,
-   "fin": 13.114,
-   "tramo": 6
+   "ini": 12.523,
+   "fin": 12.69,
+   "tramo": 4
   },
   {
    "texto": "le",
-   "ini": 13.473,
-   "fin": 13.617,
-   "tramo": 7
+   "ini": 12.69,
+   "fin": 12.857,
+   "tramo": 4
   },
   {
    "texto": "recortan",
-   "ini": 13.617,
-   "fin": 14.046,
-   "tramo": 7
+   "ini": 12.857,
+   "fin": 13.357,
+   "tramo": 4
   },
   {
    "texto": "un",
-   "ini": 14.046,
-   "fin": 14.19,
-   "tramo": 7
+   "ini": 13.357,
+   "fin": 13.524,
+   "tramo": 4
   },
   {
-   "texto": "19%:",
-   "ini": 14.19,
-   "fin": 15.145,
-   "tramo": 7
+   "texto": "19",
+   "ini": 13.524,
+   "fin": 14.136,
+   "tramo": 4
+  },
+  {
+   "texto": "%:",
+   "ini": 14.136,
+   "fin": 14.692,
+   "tramo": 4
   },
   {
    "texto": "cobra",
-   "ini": 15.58,
-   "fin": 15.94,
-   "tramo": 8
+   "ini": 15.058,
+   "fin": 15.392,
+   "tramo": 5
   },
   {
    "texto": "1.620",
-   "ini": 15.94,
-   "fin": 17.2,
-   "tramo": 8
+   "ini": 15.392,
+   "fin": 16.56,
+   "tramo": 5
   },
   {
    "texto": "euros",
-   "ini": 17.2,
-   "fin": 17.56,
-   "tramo": 8
+   "ini": 16.56,
+   "fin": 16.894,
+   "tramo": 5
   },
   {
    "texto": "en",
-   "ini": 17.56,
-   "fin": 17.74,
-   "tramo": 8
+   "ini": 16.894,
+   "fin": 17.061,
+   "tramo": 5
   },
   {
    "texto": "vez",
-   "ini": 17.74,
-   "fin": 17.98,
-   "tramo": 8
+   "ini": 17.061,
+   "fin": 17.283,
+   "tramo": 5
   },
   {
    "texto": "de",
-   "ini": 17.98,
-   "fin": 18.161,
-   "tramo": 8
+   "ini": 17.283,
+   "fin": 17.45,
+   "tramo": 5
   },
   {
    "texto": "2.000.",
-   "ini": 18.161,
-   "fin": 18.581,
-   "tramo": 8
+   "ini": 17.45,
+   "fin": 17.84,
+   "tramo": 5
   },
   {
    "texto": "En",
-   "ini": 19.181,
-   "fin": 19.332,
-   "tramo": 9
+   "ini": 18.278,
+   "fin": 18.458,
+   "tramo": 6
   },
   {
    "texto": "esos",
-   "ini": 19.332,
-   "fin": 19.584,
-   "tramo": 9
+   "ini": 18.458,
+   "fin": 18.756,
+   "tramo": 6
   },
   {
    "texto": "dos",
-   "ini": 19.584,
-   "fin": 19.785,
-   "tramo": 9
+   "ini": 18.756,
+   "fin": 18.995,
+   "tramo": 6
   },
   {
    "texto": "años",
-   "ini": 19.785,
-   "fin": 20.037,
-   "tramo": 9
+   "ini": 18.995,
+   "fin": 19.294,
+   "tramo": 6
   },
   {
    "texto": "de",
-   "ini": 20.037,
-   "fin": 20.189,
-   "tramo": 9
+   "ini": 19.294,
+   "fin": 19.473,
+   "tramo": 6
   },
   {
    "texto": "adelanto",
-   "ini": 20.189,
-   "fin": 20.642,
-   "tramo": 9
+   "ini": 19.473,
+   "fin": 20.011,
+   "tramo": 6
   },
   {
    "texto": "ingresa",
-   "ini": 20.952,
-   "fin": 21.447,
-   "tramo": 10
+   "ini": 20.011,
+   "fin": 20.489,
+   "tramo": 6
   },
   {
    "texto": "45.360",
-   "ini": 21.447,
-   "fin": 23.676,
-   "tramo": 10
+   "ini": 20.489,
+   "fin": 22.641,
+   "tramo": 6
   },
   {
    "texto": "euros.",
-   "ini": 23.676,
-   "fin": 24.048,
-   "tramo": 10
+   "ini": 22.641,
+   "fin": 22.999,
+   "tramo": 6
   },
   {
    "texto": "Vale.",
-   "ini": 24.62,
-   "fin": 24.906,
-   "tramo": 11
+   "ini": 23.303,
+   "fin": 23.578,
+   "tramo": 7
   },
   {
    "texto": "Pero",
-   "ini": 25.463,
-   "fin": 25.743,
-   "tramo": 12
+   "ini": 23.947,
+   "fin": 24.227,
+   "tramo": 8
   },
   {
    "texto": "desde",
-   "ini": 25.743,
-   "fin": 26.078,
-   "tramo": 12
+   "ini": 24.227,
+   "fin": 24.563,
+   "tramo": 8
   },
   {
    "texto": "los",
-   "ini": 26.078,
-   "fin": 26.302,
-   "tramo": 12
+   "ini": 24.563,
+   "fin": 24.786,
+   "tramo": 8
   },
   {
    "texto": "65",
-   "ini": 26.302,
-   "fin": 27.085,
-   "tramo": 12
+   "ini": 24.786,
+   "fin": 25.57,
+   "tramo": 8
   },
   {
    "texto": "pierde",
-   "ini": 27.085,
-   "fin": 27.476,
-   "tramo": 12
+   "ini": 25.57,
+   "fin": 25.961,
+   "tramo": 8
   },
   {
    "texto": "380",
-   "ini": 27.476,
-   "fin": 28.538,
-   "tramo": 12
+   "ini": 25.961,
+   "fin": 27.024,
+   "tramo": 8
   },
   {
    "texto": "euros",
-   "ini": 28.538,
-   "fin": 28.873,
-   "tramo": 12
+   "ini": 27.024,
+   "fin": 27.36,
+   "tramo": 8
   },
   {
    "texto": "en",
-   "ini": 28.873,
-   "fin": 29.041,
-   "tramo": 12
+   "ini": 27.36,
+   "fin": 27.528,
+   "tramo": 8
   },
   {
    "texto": "cada",
-   "ini": 29.041,
-   "fin": 29.321,
-   "tramo": 12
+   "ini": 27.528,
+   "fin": 27.807,
+   "tramo": 8
   },
   {
    "texto": "paga...",
-   "ini": 29.321,
-   "fin": 29.6,
-   "tramo": 12
+   "ini": 27.807,
+   "fin": 28.087,
+   "tramo": 8
   },
   {
    "texto": "para",
-   "ini": 30.2,
-   "fin": 30.408,
-   "tramo": 13
+   "ini": 28.436,
+   "fin": 28.72,
+   "tramo": 9
   },
   {
    "texto": "siempre.",
-   "ini": 30.408,
-   "fin": 30.741,
-   "tramo": 13
+   "ini": 28.72,
+   "fin": 29.176,
+   "tramo": 9
   },
   {
    "texto": "A",
-   "ini": 31.341,
-   "fin": 31.441,
-   "tramo": 14
+   "ini": 29.603,
+   "fin": 29.674,
+   "tramo": 10
   },
   {
    "texto": "los",
-   "ini": 31.441,
-   "fin": 31.639,
-   "tramo": 14
+   "ini": 29.674,
+   "fin": 29.817,
+   "tramo": 10
   },
   {
    "texto": "73",
-   "ini": 31.639,
-   "fin": 32.284,
-   "tramo": 14
+   "ini": 29.817,
+   "fin": 30.28,
+   "tramo": 10
   },
   {
    "texto": "y",
-   "ini": 32.284,
-   "fin": 32.383,
-   "tramo": 14
+   "ini": 30.28,
+   "fin": 30.352,
+   "tramo": 10
   },
   {
    "texto": "medio",
-   "ini": 32.383,
-   "fin": 32.68,
-   "tramo": 14
+   "ini": 30.352,
+   "fin": 30.566,
+   "tramo": 10
   },
   {
    "texto": "ya",
-   "ini": 32.948,
-   "fin": 33.102,
-   "tramo": 15
+   "ini": 30.566,
+   "fin": 30.673,
+   "tramo": 10
   },
   {
    "texto": "ha",
-   "ini": 33.102,
-   "fin": 33.256,
-   "tramo": 15
+   "ini": 30.673,
+   "fin": 30.779,
+   "tramo": 10
   },
   {
    "texto": "perdido",
-   "ini": 33.256,
-   "fin": 33.667,
-   "tramo": 15
+   "ini": 30.779,
+   "fin": 31.065,
+   "tramo": 10
   },
   {
    "texto": "todo",
-   "ini": 33.667,
-   "fin": 33.923,
-   "tramo": 15
+   "ini": 31.065,
+   "fin": 31.243,
+   "tramo": 10
   },
   {
    "texto": "lo",
-   "ini": 33.923,
-   "fin": 34.077,
-   "tramo": 15
+   "ini": 31.243,
+   "fin": 31.35,
+   "tramo": 10
   },
   {
    "texto": "que",
-   "ini": 34.077,
-   "fin": 34.283,
-   "tramo": 15
+   "ini": 31.35,
+   "fin": 31.492,
+   "tramo": 10
   },
   {
    "texto": "ganó.",
-   "ini": 34.283,
-   "fin": 34.539,
-   "tramo": 15
+   "ini": 31.492,
+   "fin": 31.671,
+   "tramo": 10
   },
   {
    "texto": "Y",
-   "ini": 35.1,
-   "fin": 35.194,
-   "tramo": 16
+   "ini": 31.881,
+   "fin": 31.925,
+   "tramo": 11
   },
   {
    "texto": "si",
-   "ini": 35.194,
-   "fin": 35.335,
-   "tramo": 16
+   "ini": 31.925,
+   "fin": 31.992,
+   "tramo": 11
   },
   {
    "texto": "vive",
-   "ini": 35.335,
-   "fin": 35.57,
-   "tramo": 16
+   "ini": 31.992,
+   "fin": 32.102,
+   "tramo": 11
   },
   {
    "texto": "hasta",
-   "ini": 35.57,
-   "fin": 35.853,
-   "tramo": 16
+   "ini": 32.102,
+   "fin": 32.235,
+   "tramo": 11
   },
   {
    "texto": "los",
-   "ini": 35.853,
-   "fin": 36.041,
-   "tramo": 16
+   "ini": 32.235,
+   "fin": 32.323,
+   "tramo": 11
   },
   {
    "texto": "85,",
-   "ini": 36.041,
-   "fin": 36.7,
-   "tramo": 16
+   "ini": 32.323,
+   "fin": 32.632,
+   "tramo": 11
   },
   {
    "texto": "que",
-   "ini": 37.031,
-   "fin": 37.216,
-   "tramo": 17
+   "ini": 33.025,
+   "fin": 33.352,
+   "tramo": 12
   },
   {
    "texto": "es",
-   "ini": 37.216,
-   "fin": 37.356,
-   "tramo": 17
+   "ini": 33.352,
+   "fin": 33.598,
+   "tramo": 12
   },
   {
    "texto": "lo",
-   "ini": 37.356,
-   "fin": 37.495,
-   "tramo": 17
+   "ini": 33.598,
+   "fin": 33.844,
+   "tramo": 12
   },
   {
    "texto": "normal",
-   "ini": 37.495,
-   "fin": 37.821,
-   "tramo": 17
+   "ini": 33.844,
+   "fin": 34.418,
+   "tramo": 12
   },
   {
    "texto": "en",
-   "ini": 37.821,
-   "fin": 37.96,
-   "tramo": 17
+   "ini": 34.418,
+   "fin": 34.664,
+   "tramo": 12
   },
   {
    "texto": "un",
-   "ini": 37.96,
-   "fin": 38.1,
-   "tramo": 17
+   "ini": 34.664,
+   "fin": 34.91,
+   "tramo": 12
   },
   {
    "texto": "hombre",
-   "ini": 38.1,
-   "fin": 38.425,
-   "tramo": 17
+   "ini": 34.91,
+   "fin": 35.484,
+   "tramo": 12
   },
   {
    "texto": "de",
-   "ini": 38.425,
-   "fin": 38.565,
-   "tramo": 17
+   "ini": 35.484,
+   "fin": 35.73,
+   "tramo": 12
   },
   {
    "texto": "65,",
-   "ini": 38.565,
-   "fin": 39.216,
-   "tramo": 17
+   "ini": 35.73,
+   "fin": 36.878,
+   "tramo": 12
   },
   {
    "texto": "pierde",
-   "ini": 39.623,
-   "fin": 40.085,
-   "tramo": 18
+   "ini": 37.205,
+   "fin": 37.654,
+   "tramo": 13
   },
   {
    "texto": "unos",
-   "ini": 40.085,
-   "fin": 40.416,
-   "tramo": 18
+   "ini": 37.654,
+   "fin": 37.975,
+   "tramo": 13
   },
   {
    "texto": "60.000",
-   "ini": 40.416,
-   "fin": 41.142,
-   "tramo": 18
+   "ini": 37.975,
+   "fin": 38.68,
+   "tramo": 13
   },
   {
    "texto": "euros.",
-   "ini": 41.142,
-   "fin": 41.539,
-   "tramo": 18
+   "ini": 38.68,
+   "fin": 39.064,
+   "tramo": 13
   },
   {
    "texto": "¿Puede",
-   "ini": 42.139,
-   "fin": 42.429,
-   "tramo": 19
+   "ini": 39.442,
+   "fin": 39.737,
+   "tramo": 14
   },
   {
    "texto": "compensar?",
-   "ini": 42.429,
-   "fin": 42.914,
-   "tramo": 19
+   "ini": 39.737,
+   "fin": 40.228,
+   "tramo": 14
   },
   {
    "texto": "Sí:",
-   "ini": 43.514,
-   "fin": 43.777,
-   "tramo": 20
+   "ini": 40.567,
+   "fin": 40.852,
+   "tramo": 15
   },
   {
    "texto": "si",
-   "ini": 44.377,
-   "fin": 44.524,
-   "tramo": 21
+   "ini": 41.12,
+   "fin": 41.288,
+   "tramo": 16
   },
   {
    "texto": "no",
-   "ini": 44.524,
-   "fin": 44.671,
-   "tramo": 21
+   "ini": 41.288,
+   "fin": 41.456,
+   "tramo": 16
   },
   {
    "texto": "tienes",
-   "ini": 44.671,
-   "fin": 45.013,
-   "tramo": 21
+   "ini": 41.456,
+   "fin": 41.848,
+   "tramo": 16
   },
   {
    "texto": "otros",
-   "ini": 45.013,
-   "fin": 45.307,
-   "tramo": 21
+   "ini": 41.848,
+   "fin": 42.183,
+   "tramo": 16
   },
   {
    "texto": "ingresos,",
-   "ini": 45.307,
-   "fin": 45.748,
-   "tramo": 21
+   "ini": 42.183,
+   "fin": 42.687,
+   "tramo": 16
   },
   {
    "texto": "si",
-   "ini": 46.069,
-   "fin": 46.243,
-   "tramo": 22
+   "ini": 42.687,
+   "fin": 42.855,
+   "tramo": 16
   },
   {
    "texto": "tu",
-   "ini": 46.243,
-   "fin": 46.417,
-   "tramo": 22
+   "ini": 42.855,
+   "fin": 43.023,
+   "tramo": 16
   },
   {
    "texto": "salud",
-   "ini": 46.417,
-   "fin": 46.765,
-   "tramo": 22
+   "ini": 43.023,
+   "fin": 43.359,
+   "tramo": 16
   },
   {
    "texto": "no",
-   "ini": 46.765,
-   "fin": 46.939,
-   "tramo": 22
+   "ini": 43.359,
+   "fin": 43.527,
+   "tramo": 16
   },
   {
    "texto": "acompaña",
-   "ini": 46.939,
-   "fin": 47.461,
-   "tramo": 22
+   "ini": 43.527,
+   "fin": 44.031,
+   "tramo": 16
   },
   {
    "texto": "o",
-   "ini": 47.461,
-   "fin": 47.577,
-   "tramo": 22
+   "ini": 44.031,
+   "fin": 44.143,
+   "tramo": 16
   },
   {
    "texto": "si",
-   "ini": 47.577,
-   "fin": 47.751,
-   "tramo": 22
+   "ini": 44.143,
+   "fin": 44.311,
+   "tramo": 16
   },
   {
    "texto": "te",
-   "ini": 47.751,
-   "fin": 47.926,
-   "tramo": 22
+   "ini": 44.311,
+   "fin": 44.479,
+   "tramo": 16
   },
   {
    "texto": "han",
-   "ini": 47.926,
-   "fin": 48.158,
-   "tramo": 22
+   "ini": 44.479,
+   "fin": 44.703,
+   "tramo": 16
   },
   {
    "texto": "despedido.",
-   "ini": 48.158,
-   "fin": 48.738,
-   "tramo": 22
+   "ini": 44.703,
+   "fin": 45.263,
+   "tramo": 16
   },
   {
    "texto": "Guárdatelo",
-   "ini": 49.338,
-   "fin": 49.898,
-   "tramo": 23
+   "ini": 45.628,
+   "fin": 46.254,
+   "tramo": 17
   },
   {
    "texto": "antes",
-   "ini": 49.898,
-   "fin": 50.204,
-   "tramo": 23
+   "ini": 46.254,
+   "fin": 46.596,
+   "tramo": 17
   },
   {
    "texto": "de",
-   "ini": 50.204,
-   "fin": 50.357,
-   "tramo": 23
+   "ini": 46.596,
+   "fin": 46.766,
+   "tramo": 17
   },
   {
    "texto": "pedir",
-   "ini": 50.357,
-   "fin": 50.663,
-   "tramo": 23
+   "ini": 46.766,
+   "fin": 47.108,
+   "tramo": 17
   },
   {
    "texto": "la",
-   "ini": 50.663,
-   "fin": 50.816,
-   "tramo": 23
+   "ini": 47.108,
+   "fin": 47.278,
+   "tramo": 17
   },
   {
    "texto": "jubilación.",
-   "ini": 50.816,
-   "fin": 51.376,
-   "tramo": 23
+   "ini": 47.278,
+   "fin": 47.904,
+   "tramo": 17
   }
  ]
 }
