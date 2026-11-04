@@ -2,7 +2,7 @@
 
 Tres reels, los mismos en Instagram, TikTok, YouTube Shorts y Facebook. Horas en Europe/Madrid.
 
-**Programado en Metricool el 4/11/2026** (publicación automática):
+**Programado en Metricool el 4/11/2026** (publicación automática). Vídeos con la voz «Martín» (ElevenLabs v4, español peninsular), sustituidos el mismo día:
 
 | Día | Hora | Reel | Objetivo | Instagram | Facebook | YouTube Shorts | TikTok |
 |---|---|---|---|---|---|---|---|
