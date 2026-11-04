@@ -16,6 +16,8 @@ herramientas/
   graficos/                      Generación y rasterizado de gráficos
   checklist/                     Lista de documentos en PDF para descargar
   publicar/                      Generador de HTML, archivo de importación de WordPress y comprobaciones
+  reels/                         Plantilla, alineación de la locución y render de los reels a MP4
+redes/reels/                     Reels semanales (vídeo, portada, subtítulos y copy por red): ver redes/reels/README.md
 publicacion/
   wordpress-borradores.xml       Las 22 páginas como borradores para Herramientas > Importar > WordPress
   PLAN-PUBLICACION.md            Lista previa, orden de revisión, importación, lanzamiento y mantenimiento
@@ -76,6 +78,7 @@ npm run publicar     # Regenera el widget, todos los articulo.html y publicacion
 npm run comprobar    # En navegador: móvil sin desbordes, un H1, title y description, JSON-LD, errores de consola
 npm run e2e          # Calculadoras de edad de jubilación y de «¿compensa?» en móvil y escritorio
 npm run pdf          # Regenera el PDF de la lista de documentos
+npm run reel -- redes/reels/semana-01/01-nacidos-1960            # Renderiza un reel (añade --previa para ver un fotograma por escena)
 
 # Tabla por año y mes de nacimiento
 node herramientas/edad-jubilacion/tabla-por-nacimiento.mjs 1958 1972
