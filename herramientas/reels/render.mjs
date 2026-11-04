@@ -115,7 +115,8 @@ if (soloPrevia) {
 }
 
 const salidaMp4 = join(carpeta, "reel.mp4");
-const musica = reel.musica ? resolve(carpeta, reel.musica) : null;
+const musica = reel.musica && existsSync(resolve(carpeta, reel.musica)) ? resolve(carpeta, reel.musica) : null;
+if (reel.musica && !musica) console.warn(`Aviso: no encuentro la música ${reel.musica}; el reel sale solo con voz.`);
 const ff = spawn("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error",
   "-f", "image2pipe", "-framerate", String(FPS), "-c:v", "mjpeg", "-i", "-",
   "-i", vozWav,

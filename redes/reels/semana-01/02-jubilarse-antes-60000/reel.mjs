@@ -4,15 +4,17 @@ const GUARDAR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width
 
 export default {
   tema: "Jubilación anticipada",
-  // Locución: voz «Chris» de vidIQ (ElevenLabs). Los [[cifra|en letra]] son lo que lee la voz.
+  // Locución: voz «Martín» (ElevenLabs v4, español peninsular). El guion es el texto exacto que lee la voz;
+  // las indicaciones entre corchetes ([warmly]…) no salen en los subtítulos.
+  musica: "../../musica-fondo.mp3",
   marcaAgua: "−60.000",
-  guion: `Jubilarte dos años antes te puede costar [[60.000|sesenta mil]] euros. Te hago la cuenta.
+  guion: `Jubilarte dos años antes te puede costar 60.000 euros. [warmly] Te hago la cuenta.
 
-Pongamos que Luis tiene [[63|sesenta y tres]] años, [[39|treinta y nueve]] cotizados y una base reguladora de [[2.000|dos mil]] euros. Si se jubila ya, le recortan un [[19%|diecinueve por ciento]]: cobra [[1.620|mil seiscientos veinte]] euros en vez de [[2.000|dos mil]].
+Pongamos que Luis tiene 63 años, 39 cotizados y una base reguladora de 2.000 euros. Si se jubila ya, le recortan un 19 %: cobra 1.620 euros en vez de 2.000.
 
-En esos dos años de adelanto ingresa [[45.360|cuarenta y cinco mil trescientos sesenta]] euros. Vale. Pero desde los [[65|sesenta y cinco]] pierde [[380|trescientos ochenta]] euros en cada paga... para siempre.
+En esos dos años de adelanto ingresa 45.360 euros. Vale. Pero desde los 65 pierde 380 euros en cada paga... para siempre.
 
-A los [[73|setenta y tres]] y medio ya ha perdido todo lo que ganó. Y si vive hasta los [[85|ochenta y cinco]], que es lo normal en un hombre de [[65|sesenta y cinco]], pierde unos [[60.000|sesenta mil]] euros.
+A los 73 y medio ya ha perdido todo lo que ganó. Y si vive hasta los 85, que es lo normal en un hombre de 65, pierde unos 60.000 euros.
 
 ¿Puede compensar? Sí: si no tienes otros ingresos, si tu salud no acompaña o si te han despedido.
 

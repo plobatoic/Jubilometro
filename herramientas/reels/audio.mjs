@@ -46,6 +46,8 @@ export function locucion(guion) {
 /** Devuelve las palabras del guion (como se ven en los subtítulos) con la «fuerza» de la pausa que las sigue. */
 export function tokenizar(guion) {
   const palabras = [];
+  // Las indicaciones de entonación de ElevenLabs v4 ([warmly], [curious]…) no se dicen: fuera de los subtítulos.
+  guion = guion.replace(/(^|[^\[])\[[^\[\]|]+\](?!\])\s*/g, "$1");
   const protegido = guion.replace(MARCA, (_, cifra, dicho) => `[[${cifra}|${dicho.replace(/\s+/g, "_")}]]`);
   const parrafos = protegido.trim().split(/\n\s*\n/);
   parrafos.forEach((par) => {

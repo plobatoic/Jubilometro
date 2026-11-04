@@ -4,17 +4,19 @@ const ENVIAR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width=
 
 export default {
   tema: "Edad de jubilación",
-  // Locución: voz «Chris» de vidIQ (ElevenLabs). Los [[cifra|en letra]] son lo que lee la voz.
+  // Locución: voz «Martín» (ElevenLabs v4, español peninsular). El guion es el texto exacto que lee la voz;
+  // las indicaciones entre corchetes ([warmly]…) no salen en los subtítulos.
+  musica: "../../musica-fondo.mp3",
   marcaAgua: "1960",
-  guion: `¿Naciste en [[1960|mil novecientos sesenta]]? Ojo, porque es muy probable que te hayan dicho mal tu edad de jubilación.
+  guion: `[curious] ¿Naciste en 1960? Ojo, porque es muy probable que te hayan dicho mal tu edad de jubilación.
 
-Muchas tablas ponen [[66|sesenta y seis]] años y [[8|ocho]] meses. Pero la ley no mira cuándo naciste... mira cuándo te jubilas.
+Muchas tablas ponen 66 años y 8 meses. Pero la ley no mira cuándo naciste... mira cuándo te jubilas.
 
-Un ejemplo. Naciste el [[20|veinte]] de abril del [[60|sesenta]]. Cumples [[66|sesenta y seis]] y [[8|ocho]] meses en diciembre de [[2026|dos mil veintiséis]], pero ese año ya piden [[66|sesenta y seis]] y [[10|diez]]. Llegas a esa edad en febrero del [[27|veintisiete]]... y en el [[27|veintisiete]] ya piden [[67|sesenta y siete]].
+[warmly] Un ejemplo. Naciste el 20 de abril del 60. Cumples 66 y 8 meses en diciembre de 2026, pero ese año ya piden 66 y 10. Llegas a esa edad en febrero del 27... y en el 27 ya piden 67.
 
-O sea, te jubilas en abril de [[2027|dos mil veintisiete]], con [[67|sesenta y siete]] años.
+O sea, te jubilas en abril de 2027, con 67 años.
 
-Si naciste entre marzo y diciembre del [[60|sesenta]] y no tienes una carrera de cotización larga, tu edad es [[67|sesenta y siete]].
+Si naciste entre marzo y diciembre del 60 y no tienes una carrera de cotización larga, tu edad es 67.
 
 Pásaselo a alguien de tu quinta.`,
 

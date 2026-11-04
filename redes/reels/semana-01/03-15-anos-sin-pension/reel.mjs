@@ -5,17 +5,19 @@ const ENVIAR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width=
 
 export default {
   tema: "Años cotizados",
-  // Locución: voz «Chris» de vidIQ (ElevenLabs). Los [[cifra|en letra]] son lo que lee la voz.
+  // Locución: voz «Martín» (ElevenLabs v4, español peninsular). El guion es el texto exacto que lee la voz;
+  // las indicaciones entre corchetes ([warmly]…) no salen en los subtítulos.
+  musica: "../../musica-fondo.mp3",
   marcaAgua: "15",
-  guion: `Puedes tener [[15|quince]] años cotizados... y quedarte sin pensión de jubilación.
+  guion: `Puedes tener 15 años cotizados... y quedarte sin pensión de jubilación.
 
-Los [[15|quince]] años son el mínimo, sí. Pero hay una segunda regla: al menos [[2|dos]] de esos años tienen que estar dentro de los últimos [[15|quince]] antes de jubilarte.
+Los 15 años son el mínimo, sí. Pero hay una segunda regla: al menos 2 de esos años tienen que estar dentro de los últimos 15 antes de jubilarte.
 
-Pongamos el caso de Carmen. Cotizó [[15|quince]] años de joven y lleva [[20|veinte]] sin cotizar. No cumple la regla, así que se queda sin pensión contributiva.
+[warmly] Pongamos el caso de Carmen. Cotizó 15 años de joven y lleva 20 sin cotizar. No cumple la regla, así que se queda sin pensión contributiva.
 
-Si es tu caso, hay salidas. Volver a trabajar y cotizar [[2|dos]] años antes de jubilarte. O, si tienes pocos ingresos, pedir la pensión no contributiva. Y si acabas de dejar de trabajar, todavía estás a tiempo de firmar un convenio especial.
+Si es tu caso, hay salidas. Volver a trabajar y cotizar 2 años antes de jubilarte. O, si tienes pocos ingresos, pedir la pensión no contributiva. Y si acabas de dejar de trabajar, todavía estás a tiempo de firmar un convenio especial.
 
-Lo primero: pide tu vida laboral y mira tus últimos [[15|quince]] años.
+Lo primero: pide tu vida laboral y mira tus últimos 15 años.
 
 Pásaselo a quien dejó de trabajar hace tiempo.`,
 
