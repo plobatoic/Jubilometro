@@ -6,7 +6,7 @@ Tres reels, los mismos en Instagram, TikTok, YouTube Shorts y Facebook. Horas en
 
 | Día | Hora | Reel | Objetivo | Instagram | Facebook | YouTube Shorts | TikTok |
 |---|---|---|---|---|---|---|---|
-| Martes 10/11 | 13:12 | Nacidos en 1960: no te jubilas a los 66 y 8 meses | Envíos | ✓ | ✓ | — (ya sale un Short del mismo tema el 6/11) | A mano |
+| Martes 10/11 | 13:12 | Nacidos en 1960: no te jubilas a los 66 y 8 meses | Envíos | ✓ | ✓ | ✓ | A mano |
 | Jueves 12/11 | 20:43 | Jubilarse 2 años antes: −60.000 € | Guardados | ✓ | ✓ | ✓ | A mano |
 | Domingo 15/11 | 12:24 | 15 años cotizados y sin pensión | Envíos | ✓ | ✓ | ✓ | A mano |
 
