@@ -26,7 +26,7 @@ Guárdatelo, que con la ley actual estas cifras ya no cambian.`,
         <div class="kicker" data-a="fijo">Jubilación desde 2027</div>
         <div class="cifra m" data-a="fijo"><span class="ambar">67</span> · <span class="azul">37</span> · <span class="verde">38½</span></div>
         <div class="titular s" data-a="fijo">¿Sabes qué significa cada una?</div>
-        <div class="sub" data-en="no puedes confundir" data-a="sube">Casi todo el mundo mezcla dos de ellas</div>`,
+        <div class="sub" data-en="no puedes confundir" data-a="sube">Y no significan lo mismo</div>`,
     },
     { en: "67 es la",
       html: `
