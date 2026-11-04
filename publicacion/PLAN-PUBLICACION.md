@@ -549,6 +549,11 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Revisión diaria del 4/11/2026
+
+- BOE del día: convocatoria del Programa de Termalismo del Imserso de 2027 (BOE-A-2026-23163). Actualizadas la guía de termalismo (199.000 plazas, precios de 322,45 a 477,48 €, aportación del Imserso, baremo de ingresos nuevo y plazos: hasta el 4/12/2026 para febrero-agosto), la de viajes y balnearios de las comunidades, la portada del Imserso y la publicación de X del banco. Publicada la noticia en X y Facebook el 5/11.
+- Rastreo, enlaces, guías, calculadoras y tablas de datos: sin problemas.
+
 ## 7. Calendario de mantenimiento
 
 | Fecha | Qué revisar |

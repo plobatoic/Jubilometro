@@ -56,3 +56,10 @@ Metricool tiene enlazado el canal correcto (@jubilometro, UCn_8vJ7sx_TQRKI0biI-8
 | 2026-11-18 | 13:00 | video-11-tarjeta-dorada | 415903667 |
 
 Repaso de cifras (4/11): los 36 vídeos coinciden con sus guías. El 01 (subida de 2027 con el IPC hasta septiembre) se deja fuera de YouTube porque la cifra cambia el 13 y el 27 de noviembre.
+
+## Publicaciones de actualidad (fuera del calendario)
+
+| Fecha | Hora | Red | Publicación | Id |
+|---|---|---|---|---|
+| 2026-11-05 | 13:30 | X (Typefully) | Termalismo del Imserso 2027 (BOE del 4/11) | 11692765 |
+| 2026-11-05 | 18:30 | Facebook (Metricool) | Termalismo del Imserso 2027 (BOE del 4/11) | 416271626 |

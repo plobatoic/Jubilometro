@@ -73,7 +73,7 @@ Requisitos: ${L('requisitos-imserso', 'wa')}`,
   },
   {
     id: 'termalismo-x', red: 'x', pilar: 'La cifra que te toca', fuente: '/imserso/termalismo/',
-    texto: `Los balnearios del Imserso: 10 días con pensión completa, reconocimiento médico y tratamiento termal, de 302,14 a 452,90 € por persona en 2026 según el balneario y el mes. Las plazas se reparten por puntos, y la convocatoria sale en el BOE cada año.
+    texto: `Balnearios del Imserso 2027: 10 días con pensión completa y tratamiento, de 322,45 a 477,48 € por persona. Hay 199.000 plazas, repartidas por puntos. Para los turnos de febrero a agosto, se pide hasta el 4 de diciembre.
 
 ${L('balnearios', 'x')}`,
   },

@@ -8,7 +8,7 @@ miga: Viajes de las comunidades
 palabra_clave_principal: viajes para mayores comunidades autónomas
 intencion: informativa (estacional)
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-22
+fecha_actualizacion: 2026-11-04
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -19,7 +19,7 @@ fuentes_legales:
 
 # Viajes y balnearios para mayores de las comunidades autónomas: alternativas al Imserso en 2026
 
-*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en las webs oficiales de cada comunidad*
+*Actualizado el 4 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en las webs oficiales de cada comunidad*
 
 > **Respuesta rápida**
 >
@@ -109,7 +109,7 @@ No son excluyentes: **puedes participar en los dos**. Estas son las diferencias 
 
 - **Quién accede:** el Imserso pide ser pensionista, cobrar el paro con 60 años o ser asegurado o beneficiario de la Seguridad Social con 65; los programas autonómicos se basan sobre todo en la **edad y el empadronamiento**.
 - **Cómo se reparten las plazas:** el Imserso usa un **baremo** de puntos; Castilla-La Mancha y Madrid, el **orden de llegada**; Castilla y León, un **sorteo**.
-- **Precio:** el termalismo de Castilla-La Mancha (5 días desde 208,64 euros) es más barato que el del Imserso (10 días desde 302,14 euros), pero la estancia es más corta.
+- **Precio:** el termalismo de Castilla-La Mancha (5 días desde 208,64 euros) es más barato que el del Imserso (10 días desde 322,45 euros en 2027), pero la estancia es más corta.
 
 ## Preguntas frecuentes
 
@@ -119,7 +119,7 @@ En general, no: estos programas exigen estar empadronado o residir en la comunid
 
 ### ¿Qué programa para mayores sigue abierto ahora?
 
-A 22 de octubre de 2026, el termalismo de Castilla-La Mancha (hasta el 15 de diciembre o hasta agotar plazas) y las Rutas Culturales de Madrid (en persona en las agencias autorizadas, hasta agotar plazas). En el Imserso, la lista de espera del termalismo está abierta hasta el 31 de octubre.
+A 4 de noviembre de 2026, el termalismo de Castilla-La Mancha (hasta el 15 de diciembre o hasta agotar plazas) y las Rutas Culturales de Madrid (en persona en las agencias autorizadas, hasta agotar plazas). En el Imserso, la convocatoria de [termalismo de 2027](/imserso/termalismo/) está abierta: para los turnos de febrero a agosto, hasta el 4 de diciembre de 2026.
 
 ### ¿Hay que estar jubilado para las Rutas Culturales de Madrid?
 
@@ -147,4 +147,4 @@ Sí. Son programas distintos, de administraciones distintas, y ninguno excluye a
 
 *Este artículo es informativo. Cada comunidad fija y puede cambiar sus requisitos, plazas y precios: confírmalos en su web oficial antes de solicitar. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 22 de octubre de 2026, situación de los programas a 22 de octubre y plazas gratuitas para cuidadores en Madrid. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 4 de noviembre de 2026, precio del termalismo del Imserso de 2027 y convocatoria abierta. 22 de octubre de 2026, situación de los programas a 22 de octubre y plazas gratuitas para cuidadores en Madrid. 29 de septiembre de 2026, primera versión.*

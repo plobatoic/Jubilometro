@@ -25,3 +25,18 @@
 | 21 | Teléfono del Imserso 912 667 713 | La Moncloa, nota de 8-9-2026 | — | Verificado |
 | 22 | Ejemplos (Luis y Carmen 84 puntos y 789,98 €; Mercedes 86 puntos) | — | Cálculo propio con el anexo III y el anexo IV | Cálculo propio |
 | 23 | Lista de espera de 2026 cerrada el 31-10-2026; convocatoria de 2027 sin publicar a 1-11-2026 | BOE-A-2025-22236, art. 5.3; sumarios del BOE del 26 al 31-10-2026 (API de datos abiertos) | Búsqueda de «termalismo» e «Imserso» en los sumarios | Verificado en BOE |
+
+## Convocatoria de 2027 (actualización del 4/11/2026)
+
+| # | Dato | Fuente | Comprobación | Estado |
+|---|---|---|---|---|
+| 24 | 199.000 plazas; turnos de 10 días (9 pernoctaciones), pensión completa, febrero-diciembre de 2027; servicios incluidos iguales | Resolución de 30-10-2026 del Imserso (BOE-A-2026-23163, BOE 4-11-2026), arts. 1 y 2 | Texto del BOE | Verificado en BOE (4/11/2026) |
+| 25 | Precios 2027 por nivel: 322,45/345,65; 420,31/443,51; 454,28/477,48 € (feb, mar, nov, dic / abr-oct); diferencia 23,20 € | BOE-A-2026-23163, anexo III | Recuento de los 957 importes de la tabla: solo aparecen esos seis | Verificado en BOE |
+| 26 | Ejemplos por nivel en 2027 (Caldas de Besaya, Fuencaliente, Montemayor 1, Molinar: 322,45; Panticosa, Archena, Mondariz, La Toja: 454,28) | BOE-A-2026-23163, anexo III | Fila a fila | Verificado en BOE |
+| 27 | Aportación del Imserso 178,43 o 201,63 € por plaza; reserva de 40 € | BOE-A-2026-23163, arts. 2.4 y 4.1 | Texto del BOE | Verificado en BOE |
+| 28 | Requisitos, acompañantes (cónyuge o pareja; hijos con discapacidad ≥ 45 %), declaración responsable: sin cambios | BOE-A-2026-23163, art. 3 | Texto del BOE | Verificado en BOE |
+| 29 | Plazos 2027: prioridad feb-ago un mes desde el día siguiente a la publicación (4-11-2026), es decir, hasta el 4-12-2026 (art. 30.4 de la Ley 39/2015); sep-dic hasta 12-5-2027; lista de espera hasta 11-5-2027 y 31-10-2027; cartas a solicitantes del año anterior | BOE-A-2026-23163, art. 5.3 y 5.4 | Texto del BOE; fecha final = cálculo del plazo en meses | Verificado en BOE |
+| 30 | Baremo 2027: tramos de ingresos de 1.256,60 € (50 puntos) a más de 3.359 € (0); necesidad, edad, años anteriores y familia numerosa sin cambios; −60 puntos y 6 meses en la segunda fase | BOE-A-2026-23163, anexo IV | Texto del BOE | Verificado en BOE |
+| 31 | Devolución de la reserva (fallecimiento hasta 2.º grado, hospitalización 1.er grado, certificado médico; aviso 15 días antes) y datos falsos (pérdida de plaza o precio real) | BOE-A-2026-23163, arts. 9 y 10 | Texto del BOE | Verificado en BOE |
+| 32 | Ejemplos: Luis y Carmen 99 puntos y 840,62 €; Mercedes 86 puntos | — | Cálculo propio con los anexos III y IV de 2027 | Cálculo propio |
+| 33 | «Hasta cuatro balnearios y cuatro meses» se presenta como dato de la convocatoria de 2026: el anexo I de 2027 es una imagen y no se ha podido leer | BOE-A-2025-22236, anexo I | — | Pendiente de confirmar con el formulario de 2027 |
