@@ -36,8 +36,12 @@ Envíaselo a alguien nacido en 1960.`,
     },
     { en: "Un ejemplo",
       html: `
-        <div class="kicker">Ejemplo · nacido el 20/04/1960</div>
+        <div class="kicker">Un ejemplo</div>
         <div class="linea">
+          <div class="hito ok" data-en="Naciste el 20" data-a="sube">
+            <div class="f">20 de abril de 1960</div>
+            <div class="t">Naces</div>
+          </div>
           <div class="hito mal" data-en="Cumples 66" data-a="sube">
             <div class="f">Diciembre 2026</div>
             <div class="t">Cumples 66 años y 8 meses</div>

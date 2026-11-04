@@ -30,7 +30,7 @@ Guárdalo antes de pedir tu jubilación.`,
       html: `
         <div class="kicker">Caso de ejemplo · Luis</div>
         <div class="tarjeta">
-          <div class="par" data-en="tiene 63" data-a="sube"><span>Edad</span><b>63 años</b></div>
+          <div class="par" data-a="sube"><span>Edad</span><b>63 años</b></div>
           <div class="par" data-en="39 cotizados" data-a="sube"><span>Cotizados</span><b>39 años</b></div>
           <div class="par" data-en="una base reguladora" data-a="sube"><span>Base reguladora</span><b>2.000 €</b></div>
         </div>`,
