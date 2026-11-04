@@ -5,19 +5,19 @@ const ENVIAR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width=
 
 export default {
   tema: "Años cotizados",
+  // Locución: voz «Chris» de vidIQ (ElevenLabs). Los [[cifra|en letra]] son lo que lee la voz.
   marcaAgua: "15",
-  tempo: 1.12,
-  guion: `Puedes tener 15 años cotizados y quedarte sin pensión de jubilación.
+  guion: `Puedes tener [[15|quince]] años cotizados... y quedarte sin pensión de jubilación.
 
-Los 15 años son el mínimo, sí. Pero hay una segunda regla: al menos 2 de esos años tienen que estar dentro de los 15 años anteriores a tu jubilación.
+Los [[15|quince]] años son el mínimo, sí. Pero hay una segunda regla: al menos [[2|dos]] de esos años tienen que estar dentro de los últimos [[15|quince]] antes de jubilarte.
 
-Pongamos a Carmen. Cotizó 15 años de joven y dejó de cotizar hace 20. No cumple la regla. Se queda sin pensión contributiva.
+Pongamos el caso de Carmen. Cotizó [[15|quince]] años de joven y lleva [[20|veinte]] sin cotizar. No cumple la regla, así que se queda sin pensión contributiva.
 
-Si es tu caso, hay salidas: volver a trabajar y cotizar 2 años antes de jubilarte o, si tus ingresos son bajos, pedir la pensión no contributiva. Y si acabas de dejar de trabajar, aún estás a tiempo de firmar un convenio especial.
+Si es tu caso, hay salidas. Volver a trabajar y cotizar [[2|dos]] años antes de jubilarte. O, si tienes pocos ingresos, pedir la pensión no contributiva. Y si acabas de dejar de trabajar, todavía estás a tiempo de firmar un convenio especial.
 
-Lo primero: pide tu vida laboral y mira tus últimos 15 años.
+Lo primero: pide tu vida laboral y mira tus últimos [[15|quince]] años.
 
-Envíaselo a quien dejó de trabajar hace tiempo.`,
+Pásaselo a quien dejó de trabajar hace tiempo.`,
 
   escenas: [
     { // 0 · Gancho
@@ -39,7 +39,7 @@ Envíaselo a quien dejó de trabajar hace tiempo.`,
           <div class="regla-pie"><span>hace 15 años</span><span>jubilación</span></div>
         </div>`,
     },
-    { en: "Pongamos a Carmen",
+    { en: "Pongamos el caso",
       html: `
         <div class="kicker">Caso de ejemplo · Carmen</div>
         <div style="display:flex;flex-direction:column;gap:30px">
@@ -47,7 +47,7 @@ Envíaselo a quien dejó de trabajar hace tiempo.`,
             <div class="seg" data-en="Cotizó 15 años" data-a="ancho" data-ancho="43" data-dur="0.7" style="left:0;width:0;background:rgba(127,177,234,0.35);color:var(--tinta);overflow:hidden">15 años</div>
             <div class="seg" data-en="No cumple" data-a="aparece" style="right:0;width:43%;border-left:4px dashed var(--rojo);background:rgba(255,122,112,0.12);color:var(--rojo)">últimos 15: 0</div>
           </div>
-          <div class="regla-pie"><span>de joven</span><span data-en="dejó de cotizar" data-a="aparece">20 años sin cotizar</span><span>jubilación</span></div>
+          <div class="regla-pie"><span>de joven</span><span data-en="lleva 20 sin" data-a="aparece">20 años sin cotizar</span><span>jubilación</span></div>
         </div>
         <div class="sello" data-en="Se queda sin" data-a="sello">Sin pensión</div>
         <div class="nota centro" data-en="pensión contributiva" data-a="aparece" style="align-self:center">contributiva de jubilación</div>`,
@@ -56,7 +56,7 @@ Envíaselo a quien dejó de trabajar hace tiempo.`,
       html: `
         <div class="kicker">Si es tu caso, hay salidas</div>
         <div class="paso" data-en="volver a trabajar" data-a="sube"><div class="num">1</div><div class="tx">Volver a cotizar 2 años<small>trabajando, antes de jubilarte</small></div></div>
-        <div class="paso" data-en="si tus ingresos" data-a="sube"><div class="num">2</div><div class="tx">Pensión no contributiva<small>desde los 65, con ingresos bajos y residencia en España</small></div></div>
+        <div class="paso" data-en="si tienes pocos" data-a="sube"><div class="num">2</div><div class="tx">Pensión no contributiva<small>desde los 65, con ingresos bajos y residencia en España</small></div></div>
         <div class="paso" data-en="Y si acabas" data-a="sube"><div class="num">3</div><div class="tx">¿Acabas de dejar de trabajar? Convenio especial<small>si cotizaste 1.080 días en los 12 años previos y lo pides en el año siguiente</small></div></div>`,
     },
     { en: "Lo primero",
@@ -66,7 +66,7 @@ Envíaselo a quien dejó de trabajar hace tiempo.`,
         <div class="fila" data-en="y mira tus" data-a="sube"><div class="ico si">✓</div><div>Cuenta lo cotizado en tus últimos 15 años</div></div>
         <div class="nota" data-en="y mira tus" data-a="aparece">Se descarga al momento en Import@ss, con SMS, Cl@ve o certificado digital.</div>`,
     },
-    { en: "Envíaselo",
+    { en: "Pásaselo",
       html: `
         <div class="cta">
           <div class="icono" data-a="pop">${ENVIAR}</div>

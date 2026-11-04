@@ -4,35 +4,35 @@ const ENVIAR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width=
 
 export default {
   tema: "Edad de jubilación",
+  // Locución: voz «Chris» de vidIQ (ElevenLabs). Los [[cifra|en letra]] son lo que lee la voz.
   marcaAgua: "1960",
-  tempo: 1.12,
-  guion: `Si naciste en 1960, es muy probable que te hayan dicho mal tu edad de jubilación.
+  guion: `¿Naciste en [[1960|mil novecientos sesenta]]? Ojo, porque es muy probable que te hayan dicho mal tu edad de jubilación.
 
-Muchas tablas dicen: 66 años y 8 meses. Pero la ley no mira el año en que naciste. Mira el año en que te jubilas.
+Muchas tablas ponen [[66|sesenta y seis]] años y [[8|ocho]] meses. Pero la ley no mira cuándo naciste... mira cuándo te jubilas.
 
-Un ejemplo. Naciste el 20 de abril de 1960. Cumples 66 años y 8 meses en diciembre de 2026, pero ese año ya se exigen 66 y 10. Llegas a esa edad en febrero de 2027... y en 2027 se exigen 67.
+Un ejemplo. Naciste el [[20|veinte]] de abril del [[60|sesenta]]. Cumples [[66|sesenta y seis]] y [[8|ocho]] meses en diciembre de [[2026|dos mil veintiséis]], pero ese año ya piden [[66|sesenta y seis]] y [[10|diez]]. Llegas a esa edad en febrero del [[27|veintisiete]]... y en el [[27|veintisiete]] ya piden [[67|sesenta y siete]].
 
-Resultado: te jubilas en abril de 2027, con 67 años.
+O sea, te jubilas en abril de [[2027|dos mil veintisiete]], con [[67|sesenta y siete]] años.
 
-Si naciste entre marzo y diciembre de 1960 y no tienes una carrera de cotización larga, tu edad es 67.
+Si naciste entre marzo y diciembre del [[60|sesenta]] y no tienes una carrera de cotización larga, tu edad es [[67|sesenta y siete]].
 
-Envíaselo a alguien nacido en 1960.`,
+Pásaselo a alguien de tu quinta.`,
 
   escenas: [
     { // 0 · Gancho: visible desde el primer fotograma
       html: `
-        <div class="kicker" data-a="fijo">¿Naciste en 1960?</div>
+        <div class="kicker" data-a="fijo">Nacidos en 1960</div>
         <div class="titular" data-a="fijo">Tu edad de jubilación puede estar <mark>mal calculada</mark></div>
         <div class="sub" data-en="es muy probable" data-a="sube">Y no es culpa tuya.</div>`,
     },
-    { en: "Muchas tablas dicen",
+    { en: "Muchas tablas ponen",
       html: `
         <div class="tarjeta mala">
           <div class="etq">Lo que dicen muchas tablas</div>
           <div class="cifra xs" data-en="66 años y 8" data-a="pop"><span class="tachable" data-en="Pero la ley" data-a="tacha">66 años y 8 meses</span></div>
         </div>
         <div class="fila" data-en="Pero la ley" data-a="sube"><div class="ico no">✕</div><div>No cuenta el año en que naciste</div></div>
-        <div class="fila" data-en="Mira el año" data-a="sube"><div class="ico si">✓</div><div>Cuenta el año en que <mark>te jubilas</mark></div></div>`,
+        <div class="fila" data-en="mira cuándo te" data-a="sube"><div class="ico si">✓</div><div>Cuenta el año en que <mark>te jubilas</mark></div></div>`,
     },
     { en: "Un ejemplo",
       html: `
@@ -50,11 +50,11 @@ Envíaselo a alguien nacido en 1960.`,
           <div class="hito mal" data-en="Llegas a esa" data-a="sube">
             <div class="f">Febrero 2027</div>
             <div class="t">Cumples 66 años y 10 meses</div>
-            <div class="x" data-en="y en 2027 se" data-a="sube">✕ En 2027 se exigen 67</div>
+            <div class="x" data-en="y en el 27" data-a="sube">✕ En 2027 se exigen 67</div>
           </div>
         </div>`,
     },
-    { en: "Resultado",
+    { en: "O sea",
       html: `
         <div class="kicker centro" style="align-self:center">Resultado</div>
         <div class="cifra fecha centro" style="align-self:center" data-en="te jubilas en abril" data-a="pop">20/04/2027</div>
@@ -69,7 +69,7 @@ Envíaselo a alguien nacido en 1960.`,
         </div>
         <div class="nota" data-en="no tienes una carrera" data-a="sube">Salvo carrera larga: con 38 años y 3 meses cotizados si te jubilas en 2026 (38 años y 6 meses en 2027) tu edad ordinaria es 65 y no esperas a los 67.</div>`,
     },
-    { en: "Envíaselo",
+    { en: "Pásaselo",
       html: `
         <div class="cta">
           <div class="icono" data-a="pop">${ENVIAR}</div>

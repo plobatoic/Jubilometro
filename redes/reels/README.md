@@ -9,7 +9,7 @@ redes/reels/semana-NN/
   CALENDARIO.md                 Días, horas, orden y lista previa a publicar
   NN-slug/
     reel.mjs                    Guion de la locución + escenas (HTML con anclas al guion) + portada
-    voz-original.mp3            Locución generada (vidIQ, voz «Brian»)
+    voz-original.mp3            Locución generada (vidIQ/ElevenLabs, voz «Chris») o grabada con el móvil
     reel.mp4                    Vídeo final 1080×1920, 30 fps, −14 LUFS, subtítulos quemados
     portada.jpg                 Portada con el texto dentro del recorte 3:4 de la cuadrícula
     subtitulos.srt              Para YouTube y Facebook
@@ -24,8 +24,8 @@ herramientas/reels/
 ## Cómo se hace un reel (unos 20 minutos)
 
 1. **Tema y gancho.** Elegir un artículo y una cifra o un error concreto. Buscar en vidIQ reels de pensiones en español que hayan funcionado (`vidiq_instagram_tiktok_outlier_search`, público «Spain/Spanish, 50-66»). Escribir el gancho con las fórmulas de las skills `tt-hook-scripter` (T1-T10) e `ig-repurposer`: texto en pantalla y voz distintos, la cifra en el primer fotograma, sin saludo.
-2. **Guion.** 90-120 palabras. Personas de ejemplo presentadas como ejemplo («Pongamos que Luis…»). Un único cierre: enviar o guardar.
-3. **Locución.** `vidiq_voiceover_generate` con la voz `nPczCjzI2devNBz1zQrb` (Brian) para que todos los reels suenen igual. Unos 14 créditos por reel. Guardar el MP3 como `voz-original.mp3`.
+2. **Guion.** 100-120 palabras, escrito como se habla («Ojo», «O sea», «Vale», «Pásaselo»), con frases cortas y puntos suspensivos donde quieras una pausa. Las cifras van como `[[1960|mil novecientos sesenta]]`: el subtítulo muestra la cifra y la voz lee el texto en letra, así no hay números mal pronunciados. Personas de ejemplo presentadas como ejemplo («Pongamos que Luis…»). Un único cierre: enviar o guardar.
+3. **Locución.** `vidiq_voiceover_generate` (usa ElevenLabs por dentro) con la voz `iP95p4xoKVk53GoZ742B` (Chris, conversacional) y el texto que devuelve `locucion(guion)` de `audio.mjs`. Unos 14 créditos por reel. Guardar el MP3 como `voz-original.mp3`. La voz más real es la tuya: graba el guion con el móvil, guárdalo como `voz-original.mp3` y el render sincroniza solo los subtítulos y las escenas (también vale una voz clonada en vidIQ o ElevenLabs). Si quieres música, pon `musica: "ruta.mp3"` en el `reel.mjs`: baja sola cuando habla la voz.
 4. **Escenas.** Copiar un `reel.mjs` de la semana anterior y cambiar guion, escenas y portada. Cada elemento entra cuando la voz dice la frase de su `data-en`; `data-a` elige la animación (`sube`, `pop`, `sello`, `tacha`, `cuenta`, `ancho`, `eje`, `aparece`, `fijo`).
 5. **Previa y render.**
 

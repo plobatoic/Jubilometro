@@ -1,6 +1,7 @@
 // Renderiza un reel vertical (1080×1920, 30 fps) a partir de la carpeta del reel:
 //   reel.mjs            guion de la locución, escenas (HTML con anclas al guion) y portada
-//   voz-original.mp3    locución tal cual sale del generador de voz
+//   voz-original.mp3    locución tal cual sale del generador de voz (o grabada con el móvil)
+//   (opcional) reel.musica  ruta a una música de fondo, relativa a la carpeta del reel; baja sola cuando habla la voz
 // Genera: reel.mp4, portada.jpg, subtitulos.srt y tiempos.json.
 //
 // Uso: NODE_PATH=$(npm root -g) node herramientas/reels/render.mjs <carpeta> [--previa]
@@ -27,7 +28,7 @@ mkdirSync(tmp, { recursive: true });
 
 // ---------- 1. Voz y tiempos ----------
 const vozWav = join(tmp, "voz.wav");
-const { tramos, duracion: durVoz } = procesarVoz(join(carpeta, "voz-original.mp3"), vozWav, { tempo: reel.tempo ?? 1.12 });
+const { tramos, duracion: durVoz } = procesarVoz(join(carpeta, "voz-original.mp3"), vozWav, { tempo: reel.tempo ?? 1, ...(reel.voz || {}) });
 const palabras = tokenizar(reel.guion);
 const { tiempos } = alinear(palabras, tramos);
 const duracion = +(tiempos.at(-1).fin + COLA).toFixed(3);
@@ -114,10 +115,16 @@ if (soloPrevia) {
 }
 
 const salidaMp4 = join(carpeta, "reel.mp4");
+const musica = reel.musica ? resolve(carpeta, reel.musica) : null;
 const ff = spawn("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error",
   "-f", "image2pipe", "-framerate", String(FPS), "-c:v", "mjpeg", "-i", "-",
   "-i", vozWav,
-  "-filter_complex", `[1:a]highpass=f=70,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120,apad=whole_dur=${duracion},loudnorm=I=-14:TP=-1.5:LRA=9[a]`,
+  ...(musica ? ["-stream_loop", "-1", "-i", musica] : []),
+  "-filter_complex", musica
+    ? `[1:a]highpass=f=70,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120,apad=whole_dur=${duracion},aformat=sample_rates=48000:channel_layouts=stereo,asplit=2[voz][guia];` +
+      `[2:a]aformat=sample_rates=48000:channel_layouts=stereo,atrim=0:${duracion},volume=0.14,afade=t=in:d=0.4,afade=t=out:st=${(duracion - 1.4).toFixed(2)}:d=1.4[m];` +
+      `[m][guia]sidechaincompress=threshold=0.02:ratio=5:attack=30:release=450[mb];[voz][mb]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=9[a]`
+    : `[1:a]highpass=f=70,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120,apad=whole_dur=${duracion},loudnorm=I=-14:TP=-1.5:LRA=9[a]`,
   "-map", "0:v", "-map", "[a]",
   "-c:v", "libx264", "-preset", "slow", "-crf", "18", "-pix_fmt", "yuv420p", "-profile:v", "high", "-level", "4.1", "-r", String(FPS),
   "-c:a", "aac", "-b:a", "192k", "-ar", "48000", "-t", String(duracion), "-movflags", "+faststart", salidaMp4], { stdio: ["pipe", "inherit", "inherit"] });

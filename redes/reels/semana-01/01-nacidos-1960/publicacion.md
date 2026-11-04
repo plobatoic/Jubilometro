@@ -5,7 +5,7 @@
 | Archivo | `reel.mp4` (1080×1920, 30 fps, H.264 + AAC, −14 LUFS) |
 | Portada | `portada.jpg` (texto dentro del recorte 3:4 de la cuadrícula) |
 | Subtítulos | Quemados en el vídeo + `subtitulos.srt` para YouTube y Facebook |
-| Duración | ver `tiempos.json` (≈47 s) |
+| Duración | ver `tiempos.json` (≈44 s) |
 | Objetivo principal | **Envíos** (y guardados) |
 | Fórmula | IG9 Pattern-Interrupt + T6 afirmación sin rodeos |
 | Fuente | `contenido/jubilacion/edad-de-jubilacion/articulo.md` y su `verificacion-fuentes.md` |
@@ -13,21 +13,21 @@
 
 ## Gancho (primeros 3 segundos)
 
-- **Texto en pantalla (fotograma 1):** «¿Naciste en 1960? Tu edad de jubilación puede estar mal calculada»
-- **Voz:** «Si naciste en 1960, es muy probable que te hayan dicho mal tu edad de jubilación.»
+- **Texto en pantalla (fotograma 1):** «Nacidos en 1960 · Tu edad de jubilación puede estar mal calculada»
+- **Voz:** «¿Naciste en 1960? Ojo, porque es muy probable que te hayan dicho mal tu edad de jubilación.»
 - **Imagen:** titular grande con «mal calculada» en ámbar y «1960» de marca de agua. Sin logo animado ni introducción.
-- **Cierre en bucle:** el último plano vuelve a «1960» («Envíaselo a alguien nacido en 1960»), que enlaza con el primer fotograma al repetirse.
+- **Cierre en bucle:** el último plano vuelve a «1960» («Envíaselo a alguien nacido en 1960» en pantalla), que enlaza con el primer fotograma al repetirse.
 
 ## Guion por escenas
 
 | Escena | Voz | En pantalla |
 |---|---|---|
-| 1 · Gancho | Si naciste en 1960, es muy probable que te hayan dicho mal tu edad de jubilación. | ¿Naciste en 1960? / Tu edad de jubilación puede estar mal calculada / Y no es culpa tuya |
-| 2 · El error | Muchas tablas dicen: 66 años y 8 meses. Pero la ley no mira el año en que naciste. Mira el año en que te jubilas. | «66 años y 8 meses» tachado · ✕ No cuenta el año en que naciste · ✓ Cuenta el año en que te jubilas |
-| 3 · Ejemplo | Naciste el 20 de abril de 1960. Cumples 66 años y 8 meses en diciembre de 2026, pero ese año ya se exigen 66 y 10. Llegas a esa edad en febrero de 2027… y en 2027 se exigen 67. | Línea de tiempo: dic. 2026 (se exigen 66 y 10) → feb. 2027 (se exigen 67) |
-| 4 · Resultado | Resultado: te jubilas en abril de 2027, con 67 años. | 20/04/2027 · sello «A los 67 años» |
+| 1 · Gancho | ¿Naciste en 1960? Ojo, porque es muy probable que te hayan dicho mal tu edad de jubilación. | Nacidos en 1960 / Tu edad de jubilación puede estar mal calculada / Y no es culpa tuya |
+| 2 · El error | Muchas tablas ponen 66 años y 8 meses. Pero la ley no mira cuándo naciste… mira cuándo te jubilas. | «66 años y 8 meses» tachado · ✕ No cuenta el año en que naciste · ✓ Cuenta el año en que te jubilas |
+| 3 · Ejemplo | Un ejemplo. Naciste el 20 de abril del 60. Cumples 66 y 8 meses en diciembre de 2026, pero ese año ya piden 66 y 10. Llegas a esa edad en febrero del 27… y en el 27 ya piden 67. | Línea de tiempo: nacimiento → dic. 2026 (se exigen 66 y 10) → feb. 2027 (se exigen 67) |
+| 4 · Resultado | O sea, te jubilas en abril de 2027, con 67 años. | 20/04/2027 · sello «A los 67 años» |
 | 5 · Regla general | Si naciste entre marzo y diciembre de 1960 y no tienes una carrera de cotización larga, tu edad es 67. | Enero o febrero → 66 a. y 10 m. · Marzo a diciembre → 67 años · nota de carrera larga |
-| 6 · CTA | Envíaselo a alguien nacido en 1960. | Icono de enviar · jubilometro.com · aviso legal |
+| 6 · CTA | Pásaselo a alguien de tu quinta. | Icono de enviar · jubilometro.com · aviso legal |
 
 ## Instagram (Reel)
 

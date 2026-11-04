@@ -5,7 +5,7 @@
 | Archivo | `reel.mp4` (1080×1920, 30 fps, H.264 + AAC, −14 LUFS) |
 | Portada | `portada.jpg` |
 | Subtítulos | Quemados en el vídeo + `subtitulos.srt` |
-| Duración | ver `tiempos.json` (≈48 s) |
+| Duración | ver `tiempos.json` (≈52 s) |
 | Objetivo principal | **Guardados** (y comentarios) |
 | Fórmula | T3 cifra concreta + IG10 desglose paso a paso |
 | Fuente | `contenido/jubilacion/compensa-jubilarse-antes/articulo.md` (ejemplo de Luis) y su `verificacion-fuentes.md` |
@@ -14,7 +14,7 @@
 ## Gancho (primeros 3 segundos)
 
 - **Texto en pantalla (fotograma 1):** «¿Jubilarte a los 63? −60.000 € · Lo que puede costarte adelantarlo 2 años»
-- **Voz:** «Jubilarte dos años antes puede costarte sesenta mil euros. Te enseño la cuenta.»
+- **Voz:** «Jubilarte dos años antes te puede costar sesenta mil euros. Te hago la cuenta.»
 - **Imagen:** la cifra en rojo, enorme, desde el primer fotograma.
 - **Cierre en bucle:** la escena final deja «−60.000» de marca de agua, el mismo número del gancho.
 
@@ -34,13 +34,13 @@ Recorte del 19 %: jubilación anticipada voluntaria con 24 meses de adelanto y e
 
 | Escena | Voz | En pantalla |
 |---|---|---|
-| 1 · Gancho | Jubilarte dos años antes puede costarte sesenta mil euros. Te enseño la cuenta. | ¿Jubilarte a los 63? / −60.000 € |
+| 1 · Gancho | Jubilarte dos años antes te puede costar sesenta mil euros. Te hago la cuenta. | ¿Jubilarte a los 63? / −60.000 € |
 | 2 · Caso | Pongamos que Luis tiene 63 años, 39 cotizados y una base reguladora de 2.000 euros. | Ficha: 63 años · 39 cotizados · 2.000 € |
-| 3 · Recorte | Si se jubila ahora, el recorte es del 19 por ciento: cobra 1.620 euros en lugar de 2.000. | −19 % · ~~2.000 €~~ → 1.620 € |
-| 4 · Gana / pierde | En esos dos años de adelanto ingresa 45.360 euros. Pero desde los 65 pierde 380 euros en cada paga. Para siempre. | Gana +45.360 € · Pierde −380 € por paga · sello «Para siempre» |
+| 3 · Recorte | Si se jubila ya, le recortan un 19 %: cobra 1.620 euros en vez de 2.000. | −19 % · ~~2.000 €~~ → 1.620 € |
+| 4 · Gana / pierde | En esos dos años de adelanto ingresa 45.360 euros. Vale. Pero desde los 65 pierde 380 euros en cada paga… para siempre. | Gana +45.360 € · Pierde −380 € por paga · sello «Para siempre» |
 | 5 · Equilibrio | A los 73 años y medio ya ha perdido todo lo que ganó. Y si vive hasta los 85, que es lo normal en un hombre de 65, pierde unos 60.000 euros. | Eje 63 → 73,5 → 85 · Balance −60.000 € |
 | 6 · Matiz | ¿Puede compensar? Sí: si no tienes otros ingresos, si tu salud no acompaña o si te han despedido. | Lista con ✓ |
-| 7 · CTA | Guárdalo antes de pedir tu jubilación. | Icono de guardar · jubilometro.com · supuestos del cálculo |
+| 7 · CTA | Guárdatelo antes de pedir la jubilación. | Icono de guardar · jubilometro.com · supuestos del cálculo |
 
 ## Instagram (Reel)
 

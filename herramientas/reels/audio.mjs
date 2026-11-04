@@ -34,20 +34,32 @@ export function hablado(palabra) {
 }
 
 // ---------- Tokenizar el guion ----------
-/** Devuelve las palabras del guion con la «fuerza» de la pausa que las sigue. */
+// En el guion, [[cifra|como se dice]] muestra la cifra en los subtítulos y manda a la voz el texto en letra:
+// «[[1960|mil novecientos sesenta]]» → subtítulo «1960», locución «mil novecientos sesenta».
+const MARCA = /\[\[([^|\]]+)\|([^\]]+)\]\]/g;
+
+/** Texto que se manda al generador de voz. */
+export function locucion(guion) {
+  return guion.replace(MARCA, (_, cifra, dicho) => dicho).trim();
+}
+
+/** Devuelve las palabras del guion (como se ven en los subtítulos) con la «fuerza» de la pausa que las sigue. */
 export function tokenizar(guion) {
   const palabras = [];
-  const parrafos = guion.trim().split(/\n\s*\n/);
-  parrafos.forEach((par, ip) => {
+  const protegido = guion.replace(MARCA, (_, cifra, dicho) => `[[${cifra}|${dicho.replace(/\s+/g, "_")}]]`);
+  const parrafos = protegido.trim().split(/\n\s*\n/);
+  parrafos.forEach((par) => {
     const trozos = par.trim().split(/\s+/);
     trozos.forEach((t, i) => {
+      const texto = t.replace(MARCA, (_, cifra) => cifra);
+      const dicho = t.replace(MARCA, (_, cifra, d) => d.replace(/_/g, " "));
       let pausa = 0;
-      if (/(\.\.\.|…)$/.test(t)) pausa = 2;
-      else if (/[.?!]["»]?$/.test(t)) pausa = 2;
-      else if (/[:;]$/.test(t)) pausa = 1.5;
-      else if (/,$/.test(t)) pausa = 1;
-      if (i === trozos.length - 1) pausa = ip === parrafos.length - 1 ? 3 : 3;
-      palabras.push({ texto: t, largo: hablado(t).replace(/\s/g, "").length + 1, pausa });
+      if (/(\.\.\.|…)$/.test(texto)) pausa = 2;
+      else if (/[.?!]["»]?$/.test(texto)) pausa = 2;
+      else if (/[:;]$/.test(texto)) pausa = 1.5;
+      else if (/,$/.test(texto)) pausa = 1;
+      if (i === trozos.length - 1) pausa = 3;
+      palabras.push({ texto, largo: hablado(dicho).replace(/\s/g, "").length + 1, pausa });
     });
   });
   return palabras;
@@ -91,44 +103,35 @@ export function habla(archivo, opciones) {
 
 // ---------- Procesar la locución ----------
 /**
- * Quita el silencio inicial y final, acorta las pausas largas y acelera la voz.
+ * Quita el silencio del principio y del final y acorta solo las pausas muy largas, conservando
+ * el audio original de cada pausa (respiraciones incluidas) para que la voz suene natural.
  * Devuelve los tramos de habla ya en la línea de tiempo del audio procesado.
  */
-export function procesarVoz(entrada, salida, { tempo = 1.1, pausaMax = 0.34, pausaMin = 0.14, margen = 0.05, inicio = 0.12 } = {}) {
+export function procesarVoz(entrada, salida, { tempo = 1, pausaMax = 0.6, inicio = 0.1, cola = 0.2 } = {}) {
   const tramos = habla(entrada);
   const total = duracion(entrada);
-  const piezas = [];
-  tramos.forEach(([a, b], i) => {
-    const ia = Math.max(0, a - margen), ib = Math.min(total, b + margen);
-    piezas.push(`[0:a]atrim=${ia.toFixed(3)}:${ib.toFixed(3)},asetpts=PTS-STARTPTS[p${i}]`);
-    if (i < tramos.length - 1) {
-      const original = tramos[i + 1][0] - b - 2 * margen;
-      const pausa = Math.min(pausaMax, Math.max(pausaMin, original * 0.55));
-      piezas.push(`anullsrc=r=44100:cl=mono,atrim=0:${pausa.toFixed(3)}[s${i}]`);
-    }
-  });
-  const orden = tramos.map((_, i) => (i < tramos.length - 1 ? `[p${i}][s${i}]` : `[p${i}]`)).join("");
-  const n = tramos.length * 2 - 1;
+  const conservar = [];
+  let desde = Math.max(0, tramos[0][0] - 0.08);
+  for (let i = 0; i < tramos.length - 1; i++) {
+    const fin = tramos[i][1], sig = tramos[i + 1][0];
+    if (sig - fin > pausaMax) { conservar.push([desde, fin + pausaMax / 2]); desde = sig - pausaMax / 2; }
+  }
+  conservar.push([desde, Math.min(total, tramos.at(-1)[1] + cola)]);
+
+  const mapa = (t) => {
+    let off = 0;
+    for (const [x, y] of conservar) { if (t <= y) return off + Math.max(0, t - x); off += y - x; }
+    return off;
+  };
+  const reales = tramos.map(([a, b]) => [inicio + mapa(a) / tempo, inicio + mapa(b) / tempo]);
+
+  const piezas = conservar.map(([x, y], i) =>
+    `[0:a]atrim=${x.toFixed(3)}:${y.toFixed(3)},asetpts=PTS-STARTPTS,afade=t=in:d=0.012,afade=t=out:st=${(y - x - 0.012).toFixed(3)}:d=0.012[p${i}]`);
   const filtro = [
-    `anullsrc=r=44100:cl=mono,atrim=0:${inicio}[ini]`,
     ...piezas,
-    `[ini]${orden}concat=n=${n + 1}:v=0:a=1[c]`,
-    `[c]atempo=${tempo}[t]`,
-    `[t]apad=pad_dur=0.6[out]`,
+    `${conservar.map((_, i) => `[p${i}]`).join("")}concat=n=${conservar.length}:v=0:a=1[c]`,
+    `[c]${tempo !== 1 ? `atempo=${tempo},` : ""}adelay=delays=${Math.round(inicio * 1000)}:all=1,apad=pad_dur=0.6[out]`,
   ];
-  // atempo se aplica tras concatenar: las pausas también se acortan en la misma proporción.
-  // Recalculamos los tramos teniendo en cuenta que las pausas sintéticas también pasan por atempo.
-  const reales = [];
-  let u = inicio / tempo;
-  tramos.forEach(([a, b], i) => {
-    const ia = Math.max(0, a - margen), ib = Math.min(total, b + margen);
-    reales.push([u + (a - ia) / tempo, u + (b - ia) / tempo]);
-    u += (ib - ia) / tempo;
-    if (i < tramos.length - 1) {
-      const original = tramos[i + 1][0] - b - 2 * margen;
-      u += Math.min(pausaMax, Math.max(pausaMin, original * 0.55)) / tempo;
-    }
-  });
   execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-i", entrada, "-filter_complex", filtro.join(";"),
     "-map", "[out]", "-ar", "48000", "-ac", "1", salida]);
   return { tramos: reales, duracion: duracion(salida) };

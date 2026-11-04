@@ -4,19 +4,19 @@ const GUARDAR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width
 
 export default {
   tema: "Jubilación anticipada",
+  // Locución: voz «Chris» de vidIQ (ElevenLabs). Los [[cifra|en letra]] son lo que lee la voz.
   marcaAgua: "−60.000",
-  tempo: 1.12,
-  guion: `Jubilarte dos años antes puede costarte sesenta mil euros. Te enseño la cuenta.
+  guion: `Jubilarte dos años antes te puede costar [[60.000|sesenta mil]] euros. Te hago la cuenta.
 
-Pongamos que Luis tiene 63 años, 39 cotizados y una base reguladora de 2.000 euros. Si se jubila ahora, el recorte es del 19 por ciento: cobra 1.620 euros en lugar de 2.000.
+Pongamos que Luis tiene [[63|sesenta y tres]] años, [[39|treinta y nueve]] cotizados y una base reguladora de [[2.000|dos mil]] euros. Si se jubila ya, le recortan un [[19%|diecinueve por ciento]]: cobra [[1.620|mil seiscientos veinte]] euros en vez de [[2.000|dos mil]].
 
-En esos dos años de adelanto ingresa 45.360 euros. Pero desde los 65 pierde 380 euros en cada paga. Para siempre.
+En esos dos años de adelanto ingresa [[45.360|cuarenta y cinco mil trescientos sesenta]] euros. Vale. Pero desde los [[65|sesenta y cinco]] pierde [[380|trescientos ochenta]] euros en cada paga... para siempre.
 
-A los 73 años y medio ya ha perdido todo lo que ganó. Y si vive hasta los 85, que es lo normal en un hombre de 65, pierde unos 60.000 euros.
+A los [[73|setenta y tres]] y medio ya ha perdido todo lo que ganó. Y si vive hasta los [[85|ochenta y cinco]], que es lo normal en un hombre de [[65|sesenta y cinco]], pierde unos [[60.000|sesenta mil]] euros.
 
 ¿Puede compensar? Sí: si no tienes otros ingresos, si tu salud no acompaña o si te han despedido.
 
-Guárdalo antes de pedir tu jubilación.`,
+Guárdatelo antes de pedir la jubilación.`,
 
   escenas: [
     { // 0 · Gancho
@@ -24,7 +24,7 @@ Guárdalo antes de pedir tu jubilación.`,
         <div class="kicker" data-a="fijo">¿Jubilarte a los 63?</div>
         <div class="cifra m rojo" data-a="fijo">−60.000 €</div>
         <div class="titular s" data-a="fijo">Lo que puede costarte adelantarlo 2 años</div>
-        <div class="sub" data-en="Te enseño" data-a="sube">La cuenta, paso a paso 👇</div>`,
+        <div class="sub" data-en="Te hago" data-a="sube">La cuenta, paso a paso 👇</div>`,
     },
     { en: "Pongamos que Luis",
       html: `
@@ -35,11 +35,11 @@ Guárdalo antes de pedir tu jubilación.`,
           <div class="par" data-en="una base reguladora" data-a="sube"><span>Base reguladora</span><b>2.000 €</b></div>
         </div>`,
     },
-    { en: "Si se jubila ahora",
+    { en: "Si se jubila ya",
       html: `
         <div class="kicker">Si se jubila a los 63</div>
-        <div class="cifra rojo" data-en="el recorte" data-a="pop">−19 %</div>
-        <div class="titular m" data-en="cobra 1.620" data-a="sube"><span class="tachable tenue" data-en="en lugar de" data-a="tacha">2.000 €</span> → <span class="ambar">1.620 €</span></div>
+        <div class="cifra rojo" data-en="le recortan" data-a="pop">−19 %</div>
+        <div class="titular m" data-en="cobra 1.620" data-a="sube"><span class="tachable tenue" data-en="en vez de" data-a="tacha">2.000 €</span> → <span class="ambar">1.620 €</span></div>
         <div class="sub" data-en="cobra 1.620" data-a="sube">al mes, de por vida</div>`,
     },
     { en: "En esos dos años",
@@ -58,7 +58,7 @@ Guárdalo antes de pedir tu jubilación.`,
         </div>
         <div class="sello" data-en="Para siempre" data-a="sello">Para siempre</div>`,
     },
-    { en: "A los 73 años",
+    { en: "A los 73 y",
       html: `
         <div class="kicker">Lo ganado se agota a los…</div>
         <div class="cifra m ambar" data-a="pop">73,5 años</div>
@@ -79,7 +79,7 @@ Guárdalo antes de pedir tu jubilación.`,
         <div class="fila" data-en="si tu salud" data-a="sube"><div class="ico si">✓</div><div>Tu salud no acompaña</div></div>
         <div class="fila" data-en="si te han despedido" data-a="sube"><div class="ico si">✓</div><div>Te han despedido<small>la anticipada involuntaria recorta menos</small></div></div>`,
     },
-    { en: "Guárdalo",
+    { en: "Guárdatelo",
       html: `
         <div class="cta">
           <div class="icono" data-a="pop">${GUARDAR}</div>

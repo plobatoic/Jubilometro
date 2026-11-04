@@ -5,7 +5,7 @@
 | Archivo | `reel.mp4` (1080×1920, 30 fps, H.264 + AAC, −14 LUFS) |
 | Portada | `portada.jpg` |
 | Subtítulos | Quemados en el vídeo + `subtitulos.srt` |
-| Duración | ver `tiempos.json` (≈43 s) |
+| Duración | ver `tiempos.json` (≈46 s) |
 | Objetivo principal | **Envíos** |
 | Fórmula | T6 afirmación sin rodeos + caso de pensión denegada (el formato «DENEGADA» supera los 800.000 visionados en cuentas españolas de pensiones en septiembre de 2026, según vidIQ) |
 | Fuentes | `contenido/jubilacion/15-anos-cotizados/articulo.md` (requisitos y caso de Carmen) y `contenido/jubilacion/convenio-especial/articulo.md` (requisitos del convenio) |
@@ -14,7 +14,7 @@
 ## Gancho (primeros 3 segundos)
 
 - **Texto en pantalla (fotograma 1):** «Ojo con esta regla · 15 años cotizados ≠ pensión asegurada»
-- **Voz:** «Puedes tener 15 años cotizados y quedarte sin pensión de jubilación.»
+- **Voz:** «Puedes tener 15 años cotizados… y quedarte sin pensión de jubilación.»
 - **Imagen:** titular con el «≠» en rojo y el «15» de marca de agua.
 - **Cierre en bucle:** «Envíaselo a quien dejó de trabajar hace tiempo» sobre el «15», que vuelve al gancho.
 
@@ -22,12 +22,12 @@
 
 | Escena | Voz | En pantalla |
 |---|---|---|
-| 1 · Gancho | Puedes tener 15 años cotizados y quedarte sin pensión de jubilación. | 15 años cotizados ≠ pensión asegurada |
-| 2 · Las dos reglas | Los 15 años son el mínimo, sí. Pero hay una segunda regla: al menos 2 de esos años tienen que estar dentro de los 15 años anteriores a tu jubilación. | 1 · 15 años · 2 · 2 de ellos en los últimos 15 · barra de los últimos 15 años con 2 en verde |
-| 3 · Caso | Pongamos a Carmen. Cotizó 15 años de joven y dejó de cotizar hace 20. No cumple la regla. Se queda sin pensión contributiva. | Barra de vida laboral · «últimos 15: 0» · sello «Sin pensión» |
-| 4 · Salidas | Si es tu caso, hay salidas: volver a trabajar y cotizar 2 años antes de jubilarte o, si tus ingresos son bajos, pedir la pensión no contributiva. Y si acabas de dejar de trabajar, aún estás a tiempo de firmar un convenio especial. | 3 pasos con sus requisitos |
+| 1 · Gancho | Puedes tener 15 años cotizados… y quedarte sin pensión de jubilación. | 15 años cotizados ≠ pensión asegurada |
+| 2 · Las dos reglas | Los 15 años son el mínimo, sí. Pero hay una segunda regla: al menos 2 de esos años tienen que estar dentro de los últimos 15 antes de jubilarte. | 1 · 15 años · 2 · 2 de ellos en los últimos 15 · barra de los últimos 15 años con 2 en verde |
+| 3 · Caso | Pongamos el caso de Carmen. Cotizó 15 años de joven y lleva 20 sin cotizar. No cumple la regla, así que se queda sin pensión contributiva. | Barra de vida laboral · «últimos 15: 0» · sello «Sin pensión» |
+| 4 · Salidas | Si es tu caso, hay salidas. Volver a trabajar y cotizar 2 años antes de jubilarte. O, si tienes pocos ingresos, pedir la pensión no contributiva. Y si acabas de dejar de trabajar, todavía estás a tiempo de firmar un convenio especial. | 3 pasos con sus requisitos |
 | 5 · Primer paso | Lo primero: pide tu vida laboral y mira tus últimos 15 años. | Pide tu informe de vida laboral · Import@ss con SMS, Cl@ve o certificado |
-| 6 · CTA | Envíaselo a quien dejó de trabajar hace tiempo. | Icono de enviar · jubilometro.com · aviso legal |
+| 6 · CTA | Pásaselo a quien dejó de trabajar hace tiempo. | Icono de enviar · jubilometro.com · aviso legal |
 
 Ojo al revisar: el convenio especial **no** le sirve a Carmen (exige 1.080 días cotizados en los 12 años anteriores a la baja y pedirlo en el año siguiente). Por eso el vídeo lo presenta como opción solo para quien acaba de dejar de trabajar.
 
