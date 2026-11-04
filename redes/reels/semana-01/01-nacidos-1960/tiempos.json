@@ -1,715 +1,715 @@
 {
- "duracion": 43.669,
+ "duracion": 44.389,
  "escenas": [
   {
    "ini": -1,
-   "fin": 5.874
+   "fin": 6.885
   },
   {
-   "ini": 5.874,
-   "fin": 12.804
+   "ini": 6.885,
+   "fin": 14.366
   },
   {
-   "ini": 12.804,
-   "fin": 28.649
+   "ini": 14.366,
+   "fin": 30.111
   },
   {
-   "ini": 28.649,
-   "fin": 33.876
+   "ini": 30.111,
+   "fin": 34.801
   },
   {
-   "ini": 33.876,
-   "fin": 41.328
+   "ini": 34.801,
+   "fin": 41.737
   },
   {
-   "ini": 41.328,
-   "fin": 44.669
+   "ini": 41.737,
+   "fin": 45.389
   }
  ],
  "palabras": [
   {
    "texto": "¿Naciste",
    "ini": 0.1,
-   "fin": 0.48,
+   "fin": 0.607,
    "tramo": 0
   },
   {
    "texto": "en",
-   "ini": 0.48,
-   "fin": 0.623,
+   "ini": 0.607,
+   "fin": 0.797,
    "tramo": 0
   },
   {
    "texto": "1960?",
-   "ini": 0.623,
-   "fin": 1.668,
+   "ini": 0.797,
+   "fin": 2.191,
    "tramo": 0
   },
   {
    "texto": "Ojo,",
-   "ini": 2.268,
-   "fin": 2.442,
+   "ini": 2.765,
+   "fin": 3.067,
    "tramo": 1
   },
   {
    "texto": "porque",
-   "ini": 2.442,
-   "fin": 2.745,
-   "tramo": 1
+   "ini": 3.346,
+   "fin": 3.677,
+   "tramo": 2
   },
   {
    "texto": "es",
-   "ini": 2.745,
-   "fin": 2.876,
-   "tramo": 1
+   "ini": 3.677,
+   "fin": 3.819,
+   "tramo": 2
   },
   {
    "texto": "muy",
-   "ini": 2.876,
-   "fin": 3.049,
-   "tramo": 1
+   "ini": 3.819,
+   "fin": 4.008,
+   "tramo": 2
   },
   {
    "texto": "probable",
-   "ini": 3.049,
-   "fin": 3.44,
-   "tramo": 1
+   "ini": 4.008,
+   "fin": 4.433,
+   "tramo": 2
   },
   {
    "texto": "que",
-   "ini": 3.44,
-   "fin": 3.614,
-   "tramo": 1
+   "ini": 4.433,
+   "fin": 4.622,
+   "tramo": 2
   },
   {
    "texto": "te",
-   "ini": 3.614,
-   "fin": 3.744,
-   "tramo": 1
+   "ini": 4.622,
+   "fin": 4.764,
+   "tramo": 2
   },
   {
    "texto": "hayan",
-   "ini": 3.744,
-   "fin": 4.004,
-   "tramo": 1
+   "ini": 4.764,
+   "fin": 5.048,
+   "tramo": 2
   },
   {
    "texto": "dicho",
-   "ini": 4.004,
-   "fin": 4.265,
-   "tramo": 1
+   "ini": 5.048,
+   "fin": 5.331,
+   "tramo": 2
   },
   {
    "texto": "mal",
-   "ini": 4.265,
-   "fin": 4.438,
-   "tramo": 1
+   "ini": 5.331,
+   "fin": 5.52,
+   "tramo": 2
   },
   {
    "texto": "tu",
-   "ini": 4.438,
-   "fin": 4.569,
-   "tramo": 1
+   "ini": 5.52,
+   "fin": 5.662,
+   "tramo": 2
   },
   {
    "texto": "edad",
-   "ini": 4.569,
-   "fin": 4.786,
-   "tramo": 1
+   "ini": 5.662,
+   "fin": 5.899,
+   "tramo": 2
   },
   {
    "texto": "de",
-   "ini": 4.786,
-   "fin": 4.916,
-   "tramo": 1
+   "ini": 5.899,
+   "fin": 6.04,
+   "tramo": 2
   },
   {
    "texto": "jubilación.",
-   "ini": 4.916,
-   "fin": 5.394,
-   "tramo": 1
+   "ini": 6.04,
+   "fin": 6.56,
+   "tramo": 2
   },
   {
    "texto": "Muchas",
-   "ini": 5.994,
-   "fin": 6.371,
-   "tramo": 2
+   "ini": 7.005,
+   "fin": 7.422,
+   "tramo": 3
   },
   {
    "texto": "tablas",
-   "ini": 6.371,
-   "fin": 6.749,
-   "tramo": 2
+   "ini": 7.422,
+   "fin": 7.839,
+   "tramo": 3
   },
   {
    "texto": "ponen",
-   "ini": 6.749,
-   "fin": 7.073,
-   "tramo": 2
+   "ini": 7.839,
+   "fin": 8.197,
+   "tramo": 3
   },
   {
    "texto": "66",
-   "ini": 7.073,
-   "fin": 7.774,
-   "tramo": 2
+   "ini": 8.197,
+   "fin": 8.971,
+   "tramo": 3
   },
   {
    "texto": "años",
-   "ini": 7.774,
-   "fin": 8.044,
-   "tramo": 2
+   "ini": 8.971,
+   "fin": 9.269,
+   "tramo": 3
   },
   {
    "texto": "y",
-   "ini": 8.044,
-   "fin": 8.151,
-   "tramo": 2
+   "ini": 9.269,
+   "fin": 9.389,
+   "tramo": 3
   },
   {
    "texto": "8",
-   "ini": 8.151,
-   "fin": 8.421,
-   "tramo": 2
+   "ini": 9.389,
+   "fin": 9.687,
+   "tramo": 3
   },
   {
    "texto": "meses.",
-   "ini": 8.421,
-   "fin": 8.745,
-   "tramo": 2
+   "ini": 9.687,
+   "fin": 10.044,
+   "tramo": 3
   },
   {
    "texto": "Pero",
-   "ini": 9.34,
-   "fin": 9.56,
-   "tramo": 3
+   "ini": 10.449,
+   "fin": 10.703,
+   "tramo": 4
   },
   {
    "texto": "la",
-   "ini": 9.56,
-   "fin": 9.692,
-   "tramo": 3
+   "ini": 10.703,
+   "fin": 10.856,
+   "tramo": 4
   },
   {
    "texto": "ley",
-   "ini": 9.692,
-   "fin": 9.868,
-   "tramo": 3
+   "ini": 10.856,
+   "fin": 11.059,
+   "tramo": 4
   },
   {
    "texto": "no",
-   "ini": 9.868,
-   "fin": 9.999,
-   "tramo": 3
+   "ini": 11.059,
+   "fin": 11.212,
+   "tramo": 4
   },
   {
    "texto": "mira",
-   "ini": 9.999,
-   "fin": 10.219,
-   "tramo": 3
+   "ini": 11.212,
+   "fin": 11.466,
+   "tramo": 4
   },
   {
    "texto": "cuándo",
-   "ini": 10.219,
-   "fin": 10.526,
-   "tramo": 3
+   "ini": 11.466,
+   "fin": 11.823,
+   "tramo": 4
   },
   {
    "texto": "naciste...",
-   "ini": 10.526,
-   "fin": 10.878,
-   "tramo": 3
+   "ini": 11.823,
+   "fin": 12.229,
+   "tramo": 4
   },
   {
    "texto": "mira",
-   "ini": 11.283,
-   "fin": 11.51,
-   "tramo": 4
+   "ini": 12.58,
+   "fin": 12.909,
+   "tramo": 5
   },
   {
    "texto": "cuándo",
-   "ini": 11.51,
-   "fin": 11.826,
-   "tramo": 4
+   "ini": 12.909,
+   "fin": 13.37,
+   "tramo": 5
   },
   {
    "texto": "te",
-   "ini": 11.826,
-   "fin": 11.962,
-   "tramo": 4
+   "ini": 13.37,
+   "fin": 13.567,
+   "tramo": 5
   },
   {
    "texto": "jubilas.",
-   "ini": 11.962,
-   "fin": 12.324,
-   "tramo": 4
+   "ini": 13.567,
+   "fin": 14.094,
+   "tramo": 5
   },
   {
    "texto": "Un",
-   "ini": 12.924,
-   "fin": 13.045,
-   "tramo": 5
+   "ini": 14.486,
+   "fin": 14.635,
+   "tramo": 6
   },
   {
    "texto": "ejemplo.",
-   "ini": 13.045,
-   "fin": 13.366,
-   "tramo": 5
+   "ini": 14.635,
+   "fin": 15.032,
+   "tramo": 6
   },
   {
    "texto": "Naciste",
-   "ini": 13.945,
-   "fin": 14.293,
-   "tramo": 6
+   "ini": 15.457,
+   "fin": 15.857,
+   "tramo": 7
   },
   {
    "texto": "el",
-   "ini": 14.293,
-   "fin": 14.423,
-   "tramo": 6
+   "ini": 15.857,
+   "fin": 16.007,
+   "tramo": 7
   },
   {
    "texto": "20",
-   "ini": 14.423,
-   "fin": 14.726,
-   "tramo": 6
+   "ini": 16.007,
+   "fin": 16.357,
+   "tramo": 7
   },
   {
    "texto": "de",
-   "ini": 14.726,
-   "fin": 14.857,
-   "tramo": 6
+   "ini": 16.357,
+   "fin": 16.508,
+   "tramo": 7
   },
   {
    "texto": "abril",
-   "ini": 14.857,
-   "fin": 15.117,
-   "tramo": 6
+   "ini": 16.508,
+   "fin": 16.808,
+   "tramo": 7
   },
   {
    "texto": "del",
-   "ini": 15.117,
-   "fin": 15.29,
-   "tramo": 6
+   "ini": 16.808,
+   "fin": 17.008,
+   "tramo": 7
   },
   {
    "texto": "60.",
-   "ini": 15.29,
-   "fin": 15.637,
-   "tramo": 6
+   "ini": 17.008,
+   "fin": 17.408,
+   "tramo": 7
   },
   {
    "texto": "Cumples",
-   "ini": 16.211,
-   "fin": 16.644,
-   "tramo": 7
+   "ini": 17.833,
+   "fin": 18.265,
+   "tramo": 8
   },
   {
    "texto": "66",
-   "ini": 16.644,
-   "fin": 17.349,
-   "tramo": 7
+   "ini": 18.265,
+   "fin": 18.967,
+   "tramo": 8
   },
   {
    "texto": "y",
-   "ini": 17.349,
-   "fin": 17.457,
-   "tramo": 7
+   "ini": 18.967,
+   "fin": 19.074,
+   "tramo": 8
   },
   {
    "texto": "8",
-   "ini": 17.457,
-   "fin": 17.728,
-   "tramo": 7
+   "ini": 19.074,
+   "fin": 19.344,
+   "tramo": 8
   },
   {
    "texto": "meses",
-   "ini": 17.728,
-   "fin": 18.053,
-   "tramo": 7
+   "ini": 19.344,
+   "fin": 19.668,
+   "tramo": 8
   },
   {
    "texto": "en",
-   "ini": 18.053,
-   "fin": 18.215,
-   "tramo": 7
+   "ini": 19.668,
+   "fin": 19.83,
+   "tramo": 8
   },
   {
    "texto": "diciembre",
-   "ini": 18.215,
-   "fin": 18.757,
-   "tramo": 7
+   "ini": 19.83,
+   "fin": 20.37,
+   "tramo": 8
   },
   {
    "texto": "de",
-   "ini": 18.757,
-   "fin": 18.92,
-   "tramo": 7
+   "ini": 20.37,
+   "fin": 20.532,
+   "tramo": 8
   },
   {
    "texto": "2026,",
-   "ini": 18.92,
-   "fin": 19.841,
-   "tramo": 7
+   "ini": 20.532,
+   "fin": 21.45,
+   "tramo": 8
   },
   {
    "texto": "pero",
-   "ini": 20.441,
-   "fin": 20.722,
-   "tramo": 8
+   "ini": 21.781,
+   "fin": 22.11,
+   "tramo": 9
   },
   {
    "texto": "ese",
-   "ini": 20.722,
-   "fin": 20.946,
-   "tramo": 8
+   "ini": 22.11,
+   "fin": 22.373,
+   "tramo": 9
   },
   {
    "texto": "año",
-   "ini": 20.946,
-   "fin": 21.171,
-   "tramo": 8
+   "ini": 22.373,
+   "fin": 22.637,
+   "tramo": 9
   },
   {
    "texto": "ya",
-   "ini": 21.171,
-   "fin": 21.339,
-   "tramo": 8
+   "ini": 22.637,
+   "fin": 22.834,
+   "tramo": 9
   },
   {
    "texto": "piden",
-   "ini": 21.339,
-   "fin": 21.676,
-   "tramo": 8
+   "ini": 22.834,
+   "fin": 23.229,
+   "tramo": 9
   },
   {
    "texto": "66",
-   "ini": 21.676,
-   "fin": 22.405,
-   "tramo": 8
+   "ini": 23.229,
+   "fin": 24.085,
+   "tramo": 9
   },
   {
    "texto": "y",
-   "ini": 22.405,
-   "fin": 22.518,
-   "tramo": 8
+   "ini": 24.085,
+   "fin": 24.217,
+   "tramo": 9
   },
   {
    "texto": "10.",
-   "ini": 22.518,
-   "fin": 22.798,
-   "tramo": 8
+   "ini": 24.217,
+   "fin": 24.546,
+   "tramo": 9
   },
   {
    "texto": "Llegas",
-   "ini": 23.398,
-   "fin": 23.707,
-   "tramo": 9
+   "ini": 24.905,
+   "fin": 25.269,
+   "tramo": 10
   },
   {
    "texto": "a",
-   "ini": 23.707,
-   "fin": 23.795,
-   "tramo": 9
+   "ini": 25.269,
+   "fin": 25.373,
+   "tramo": 10
   },
   {
    "texto": "esa",
-   "ini": 23.795,
-   "fin": 23.972,
-   "tramo": 9
+   "ini": 25.373,
+   "fin": 25.581,
+   "tramo": 10
   },
   {
    "texto": "edad",
-   "ini": 23.972,
-   "fin": 24.192,
-   "tramo": 9
+   "ini": 25.581,
+   "fin": 25.841,
+   "tramo": 10
   },
   {
    "texto": "en",
-   "ini": 24.192,
-   "fin": 24.325,
-   "tramo": 9
+   "ini": 25.841,
+   "fin": 25.997,
+   "tramo": 10
   },
   {
    "texto": "febrero",
-   "ini": 24.325,
-   "fin": 24.678,
-   "tramo": 9
+   "ini": 25.997,
+   "fin": 26.413,
+   "tramo": 10
   },
   {
    "texto": "del",
-   "ini": 24.678,
-   "fin": 24.854,
-   "tramo": 9
+   "ini": 26.413,
+   "fin": 26.621,
+   "tramo": 10
   },
   {
    "texto": "27...",
-   "ini": 24.854,
-   "fin": 25.383,
-   "tramo": 9
+   "ini": 26.621,
+   "fin": 27.245,
+   "tramo": 10
   },
   {
    "texto": "y",
-   "ini": 25.874,
-   "fin": 25.989,
-   "tramo": 10
+   "ini": 27.478,
+   "fin": 27.59,
+   "tramo": 11
   },
   {
    "texto": "en",
-   "ini": 25.989,
-   "fin": 26.162,
-   "tramo": 10
+   "ini": 27.59,
+   "fin": 27.757,
+   "tramo": 11
   },
   {
    "texto": "el",
-   "ini": 26.162,
-   "fin": 26.334,
-   "tramo": 10
+   "ini": 27.757,
+   "fin": 27.924,
+   "tramo": 11
   },
   {
    "texto": "27",
-   "ini": 26.334,
-   "fin": 27.025,
-   "tramo": 10
+   "ini": 27.924,
+   "fin": 28.592,
+   "tramo": 11
   },
   {
    "texto": "ya",
-   "ini": 27.025,
-   "fin": 27.197,
-   "tramo": 10
+   "ini": 28.592,
+   "fin": 28.758,
+   "tramo": 11
   },
   {
    "texto": "piden",
-   "ini": 27.197,
-   "fin": 27.542,
-   "tramo": 10
+   "ini": 28.758,
+   "fin": 29.092,
+   "tramo": 11
   },
   {
    "texto": "67.",
-   "ini": 27.542,
-   "fin": 28.347,
-   "tramo": 10
+   "ini": 29.092,
+   "fin": 29.872,
+   "tramo": 11
   },
   {
    "texto": "O",
-   "ini": 28.769,
-   "fin": 28.867,
-   "tramo": 11
+   "ini": 30.231,
+   "fin": 30.333,
+   "tramo": 12
   },
   {
    "texto": "sea,",
-   "ini": 28.867,
-   "fin": 29.061,
-   "tramo": 11
+   "ini": 30.333,
+   "fin": 30.538,
+   "tramo": 12
   },
   {
    "texto": "te",
-   "ini": 29.501,
-   "fin": 29.652,
-   "tramo": 12
+   "ini": 30.8,
+   "fin": 30.974,
+   "tramo": 13
   },
   {
    "texto": "jubilas",
-   "ini": 29.652,
-   "fin": 30.054,
-   "tramo": 12
+   "ini": 30.974,
+   "fin": 31.44,
+   "tramo": 13
   },
   {
    "texto": "en",
-   "ini": 30.054,
-   "fin": 30.204,
-   "tramo": 12
+   "ini": 31.44,
+   "fin": 31.615,
+   "tramo": 13
   },
   {
    "texto": "abril",
-   "ini": 30.204,
-   "fin": 30.506,
-   "tramo": 12
+   "ini": 31.615,
+   "fin": 31.965,
+   "tramo": 13
   },
   {
    "texto": "de",
-   "ini": 30.506,
-   "fin": 30.657,
-   "tramo": 12
+   "ini": 31.965,
+   "fin": 32.14,
+   "tramo": 13
   },
   {
    "texto": "2027,",
-   "ini": 30.657,
-   "fin": 31.561,
-   "tramo": 12
+   "ini": 32.14,
+   "fin": 33.188,
+   "tramo": 13
   },
   {
    "texto": "con",
-   "ini": 32.066,
-   "fin": 32.298,
+   "ini": 33.188,
+   "fin": 33.421,
    "tramo": 13
   },
   {
    "texto": "67",
-   "ini": 32.298,
-   "fin": 33.107,
+   "ini": 33.421,
+   "fin": 34.237,
    "tramo": 13
   },
   {
    "texto": "años.",
-   "ini": 33.107,
-   "fin": 33.396,
+   "ini": 34.237,
+   "fin": 34.528,
    "tramo": 13
   },
   {
    "texto": "Si",
-   "ini": 33.996,
-   "fin": 34.136,
+   "ini": 34.921,
+   "fin": 35.077,
    "tramo": 14
   },
   {
    "texto": "naciste",
-   "ini": 34.136,
-   "fin": 34.511,
+   "ini": 35.077,
+   "fin": 35.491,
    "tramo": 14
   },
   {
    "texto": "entre",
-   "ini": 34.511,
-   "fin": 34.791,
+   "ini": 35.491,
+   "fin": 35.801,
    "tramo": 14
   },
   {
    "texto": "marzo",
-   "ini": 34.791,
-   "fin": 35.072,
+   "ini": 35.801,
+   "fin": 36.112,
    "tramo": 14
   },
   {
    "texto": "y",
-   "ini": 35.072,
-   "fin": 35.165,
+   "ini": 36.112,
+   "fin": 36.215,
    "tramo": 14
   },
   {
    "texto": "diciembre",
-   "ini": 35.165,
-   "fin": 35.633,
+   "ini": 36.215,
+   "fin": 36.733,
    "tramo": 14
   },
   {
    "texto": "del",
-   "ini": 35.633,
-   "fin": 35.82,
+   "ini": 36.733,
+   "fin": 36.94,
    "tramo": 14
   },
   {
    "texto": "60",
-   "ini": 35.82,
-   "fin": 36.194,
+   "ini": 36.94,
+   "fin": 37.354,
    "tramo": 14
   },
   {
    "texto": "y",
-   "ini": 36.582,
-   "fin": 36.673,
-   "tramo": 15
+   "ini": 37.354,
+   "fin": 37.457,
+   "tramo": 14
   },
   {
    "texto": "no",
-   "ini": 36.673,
-   "fin": 36.809,
-   "tramo": 15
+   "ini": 37.457,
+   "fin": 37.613,
+   "tramo": 14
   },
   {
    "texto": "tienes",
-   "ini": 36.809,
-   "fin": 37.126,
-   "tramo": 15
+   "ini": 37.613,
+   "fin": 37.975,
+   "tramo": 14
   },
   {
    "texto": "una",
-   "ini": 37.126,
-   "fin": 37.307,
-   "tramo": 15
+   "ini": 37.975,
+   "fin": 38.182,
+   "tramo": 14
   },
   {
    "texto": "carrera",
-   "ini": 37.307,
-   "fin": 37.669,
-   "tramo": 15
+   "ini": 38.182,
+   "fin": 38.596,
+   "tramo": 14
   },
   {
    "texto": "de",
-   "ini": 37.669,
-   "fin": 37.804,
-   "tramo": 15
+   "ini": 38.596,
+   "fin": 38.751,
+   "tramo": 14
   },
   {
    "texto": "cotización",
-   "ini": 37.804,
-   "fin": 38.302,
-   "tramo": 15
+   "ini": 38.751,
+   "fin": 39.32,
+   "tramo": 14
   },
   {
    "texto": "larga,",
-   "ini": 38.302,
-   "fin": 38.574,
+   "ini": 39.32,
+   "fin": 39.631,
+   "tramo": 14
+  },
+  {
+   "texto": "tu",
+   "ini": 39.917,
+   "fin": 40.1,
    "tramo": 15
   },
   {
-   "texto": "tu",
-   "ini": 39.096,
-   "fin": 39.306,
-   "tramo": 16
-  },
-  {
    "texto": "edad",
-   "ini": 39.306,
-   "fin": 39.657,
-   "tramo": 16
+   "ini": 40.1,
+   "fin": 40.405,
+   "tramo": 15
   },
   {
    "texto": "es",
-   "ini": 39.657,
-   "fin": 39.867,
-   "tramo": 16
+   "ini": 40.405,
+   "fin": 40.588,
+   "tramo": 15
   },
   {
    "texto": "67.",
-   "ini": 39.867,
-   "fin": 40.848,
-   "tramo": 16
+   "ini": 40.588,
+   "fin": 41.443,
+   "tramo": 15
   },
   {
    "texto": "Pásaselo",
-   "ini": 41.448,
-   "fin": 41.82,
-   "tramo": 17
+   "ini": 41.857,
+   "fin": 42.316,
+   "tramo": 16
   },
   {
    "texto": "a",
-   "ini": 41.82,
-   "fin": 41.902,
-   "tramo": 17
+   "ini": 42.316,
+   "fin": 42.418,
+   "tramo": 16
   },
   {
    "texto": "alguien",
-   "ini": 41.902,
-   "fin": 42.232,
-   "tramo": 17
+   "ini": 42.418,
+   "fin": 42.826,
+   "tramo": 16
   },
   {
    "texto": "de",
-   "ini": 42.232,
-   "fin": 42.356,
-   "tramo": 17
+   "ini": 42.826,
+   "fin": 42.979,
+   "tramo": 16
   },
   {
    "texto": "tu",
-   "ini": 42.356,
-   "fin": 42.48,
-   "tramo": 17
+   "ini": 42.979,
+   "fin": 43.132,
+   "tramo": 16
   },
   {
    "texto": "quinta.",
-   "ini": 42.48,
-   "fin": 42.769,
-   "tramo": 17
+   "ini": 43.132,
+   "fin": 43.489,
+   "tramo": 16
   }
  ]
 }
