@@ -57,6 +57,19 @@ Metricool tiene enlazado el canal correcto (@jubilometro, UCn_8vJ7sx_TQRKI0biI-8
 
 Repaso de cifras (4/11): los 36 vídeos coinciden con sus guías. El 01 (subida de 2027 con el IPC hasta septiembre) se deja fuera de YouTube porque la cifra cambia el 13 y el 27 de noviembre.
 
+## Reels de Instagram y Facebook (Metricool) · programados el 5/11/2026 (Pau dio el sí)
+
+Los mismos 6 vídeos de YouTube, un día después: martes, jueves y sábados a las 13:00 (los lunes, miércoles y viernes son de los carruseles). La lista está en `publicacion/redes/programado-video/reels.mjs` y se preparan con `node herramientas/redes/metricool.mjs --commit=<SHA> --desde=… --hasta=… --redes=reel --programa=programado-video`. En Instagram el texto manda al enlace de la biografía (la página /enlaces/ ya los incluye); en Facebook el enlace va en el primer comentario.
+
+| Fecha prevista | Hora | Vídeo | Instagram | Facebook |
+|---|---|---|---|---|
+| 2026-11-07 | 13:00 | video-05-naciste-1960 | 417453685 | 417454176 |
+| 2026-11-10 | 13:00 | video-13-sovi | 417454305 | 417454383 |
+| 2026-11-12 | 13:00 | video-14-auxilio-defuncion | 417454422 | 417454503 |
+| 2026-11-14 | 13:00 | video-15-baja | 417454639 | 417454696 |
+| 2026-11-17 | 13:00 | video-31-teleasistencia | 417454758 | 417454926 |
+| 2026-11-19 | 13:00 | video-11-tarjeta-dorada | 417455059 | 417455139 |
+
 ## Publicaciones de actualidad (fuera del calendario)
 
 | Fecha | Hora | Red | Publicación | Id |

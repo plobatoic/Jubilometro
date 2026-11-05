@@ -10,6 +10,9 @@
 // - X: una publicación suelta; los hilos van con sus partes en «descendants».
 // - Vídeos (--programa=programado-video --redes=video): Shorts de YouTube, con su título, el texto como descripción y
 //   el archivo de publicacion/redes/videos. --quitar deja fuera los que caducan pronto (p. ej., la subida con el IPC provisional).
+// - Reels (--redes=reel): los vídeos de publicacion/redes/programado-video/reels.mjs, en Instagram y en Facebook a la vez.
+//   El enlace sale del texto: en Instagram se manda a la biografía (jubilometro.com/web/ig → /enlaces/) y en Facebook va
+//   en el primer comentario.
 import { existsSync, readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { RAIZ } from '../publicar/articulos.mjs';
@@ -48,7 +51,40 @@ function desfase(fecha, hora) {
   return `${h >= 0 ? '+' : '-'}${String(Math.abs(h)).padStart(2, '0')}:00`;
 }
 
+// Texto del vídeo sin el enlace de YouTube («Requisitos: jubilometro.com/sovi/yt» → fuera; si delante va una frase
+// con contenido, se queda y el «:» pasa a «.»)
+function sinEnlace(texto) {
+  return texto.replace(/(\s*)([^.:\n]*):?\s*jubilometro\.com\/[\w-]+\/yt\.?/, (_, esp, antes) => {
+    const a = antes.trim();
+    return a.length > 40 ? `${esp}${a}.` : '';
+  }).trim();
+}
+function conEtiquetas(texto) {
+  return /#\w/.test(texto) ? texto : `${texto}\n\n#pensiones #jubilacion #seguridadsocial`;
+}
+
 const salida = [];
+if (REDES.includes('reel')) {
+  const { PUBLICACIONES: VIDEOS } = await import('../../publicacion/redes/programado-video/programa.mjs');
+  const { REELS } = await import('../../publicacion/redes/programado-video/reels.mjs');
+  for (const r of REELS) {
+    if (r.fecha < DESDE || r.fecha > HASTA) continue;
+    const v = VIDEOS.find((x) => x.red === 'video' && x.archivo === r.archivo);
+    if (!v || !existsSync(join(RAIZ, 'publicacion', 'redes', 'videos', r.archivo))) throw new Error(`Reel: no encuentro el vídeo ${r.archivo}`);
+    if (QUITAR.includes(v.id)) continue;
+    const [cuerpo, etiquetas = ''] = sinEnlace(v.texto).split(/\n\n(?=#)/);
+    const base = { autoPublish: true, draft: false, descendants: [], hasNotReadNotes: false, media: [publica(`publicacion/redes/videos/${r.archivo}`)], mediaAltText: [], publicationDate: { dateTime: `${r.fecha}T${r.hora}:00`, timezone: ZONA }, shortener: false, smartLinkData: { ids: [] } };
+    const id = `reel-${r.archivo.replace(/\.mp4$/, '')}`;
+    const date = `${r.fecha}T${r.hora}:00${desfase(r.fecha, r.hora)}`;
+    salida.push({ id, red: 'instagram', fecha: r.fecha, hora: r.hora, date, info: { ...base,
+      text: conEtiquetas(`${cuerpo}\n\nLa guía completa, en el enlace de nuestra biografía.${etiquetas ? `\n\n${etiquetas}` : ''}`),
+      firstCommentText: '', providers: [{ network: 'instagram' }], instagramData: { type: 'REEL', showReelOnFeed: true, isAiGenerated: false } } });
+    salida.push({ id, red: 'facebook', fecha: r.fecha, hora: r.hora, date, info: { ...base,
+      text: `${cuerpo}\n\nEl enlace a la guía, en el primer comentario.`,
+      firstCommentText: `La guía completa: ${enlace(v.fuente, 'fb', 'facebook')}`,
+      providers: [{ network: 'facebook' }], facebookData: { type: 'REEL', title: v.titulo } } });
+  }
+}
 for (const p of PUBLICACIONES) {
   if (p.fecha < DESDE || p.fecha > HASTA || !REDES.includes(p.red) || !RED_METRICOOL[p.red] || QUITAR.includes(p.id)) continue;
   const red = RED_METRICOOL[p.red];

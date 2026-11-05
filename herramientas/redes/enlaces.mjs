@@ -12,6 +12,8 @@ import { existsSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
 import { RAIZ } from '../publicar/articulos.mjs';
 import { PUBLICACIONES } from '../../publicacion/redes/programado/programa.mjs';
+import { PUBLICACIONES as VIDEOS } from '../../publicacion/redes/programado-video/programa.mjs';
+import { REELS } from '../../publicacion/redes/programado-video/reels.mjs';
 
 const arg = (k) => process.argv.find((a) => a.startsWith(`--${k}=`))?.slice(k.length + 3);
 const PRUEBA = process.argv.includes('--prueba');
@@ -40,9 +42,14 @@ function fila(ruta, fuerte, pequeno, ic = ICONO[ruta.split('/')[1]] ?? 'book') {
   return `<a href="${esc(ruta)}"><span class="jm-tile__icon">${icon(ic)}</span><span><strong>${esc(fuerte)}</strong><small>${esc(pequeno)}</small></span>${icon('arrow')}</a>`;
 }
 
-// Carruseles ya publicados (hoy incluido), del más reciente al más antiguo, sin repetir guía
+// Carruseles y reels ya publicados (hoy incluido), del más reciente al más antiguo, sin repetir guía
+const reels = REELS.map((r) => {
+  const v = VIDEOS.find((x) => x.red === 'video' && x.archivo === r.archivo);
+  if (!v) throw new Error(`Reel sin vídeo en el calendario: ${r.archivo}`);
+  return { id: `reel-${r.archivo}`, red: 'instagram', fecha: r.fecha, hora: r.hora, fuente: v.fuente, diapositivas: [v.titulo] };
+});
 const vistos = new Set();
-const recientes = PUBLICACIONES
+const recientes = [...PUBLICACIONES, ...reels]
   .filter((p) => p.red === 'instagram' && p.fecha <= HOY && p.fuente && p.fuente !== '/')
   .sort((a, b) => `${b.fecha} ${b.hora}`.localeCompare(`${a.fecha} ${a.hora}`))
   .filter((p) => !vistos.has(p.fuente) && vistos.add(p.fuente))
