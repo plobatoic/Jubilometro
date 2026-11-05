@@ -52,6 +52,7 @@ La pidió el titular el 3/11/2026: cada día, a la misma hora, revisar la web de
   - No se inventan datos ni credenciales del autor.
   - No se toca el código de AdSense ni cuándo se carga mientras no esté aprobado.
   - No se borra nada sin preguntar.
+  - **Pausa de guías nuevas** (decisión del titular del 5/11/2026): hasta que salgan todos los programas de las elecciones del 29/11 no se publican guías, páginas ni secciones nuevas. Sí se corrigen las guías existentes cuando cambia un dato oficial, se actualizan las tablas de datos y se siguen las redes.
 - **Antes de subir**: `npm run publicar`, `npm test` y `npm run comprobar`.
 - **Para subir**:
   - las guías, con `npm run subir -- --solo=…`;

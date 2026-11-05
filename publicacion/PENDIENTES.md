@@ -91,14 +91,14 @@ Al terminar: escribir «Paso 1 hecho» y la dirección de correo (nunca la contr
 | Fecha | Qué |
 |---|---|
 | 23 de octubre | Entra en vigor la reforma de la dependencia: repaso de las guías |
-| Cada día hasta el 29 de noviembre | Programas electorales: revisión de las webs oficiales de los partidos. Cuando estén todos (o como tarde el 13 de noviembre, con «pendiente» para los que falten), se crea la sección «Elecciones 2026» con la comparativa de pensiones y una guía por partido (decisión del 22 de octubre). **Estado a 1/11**: ningún programa del 29N publicado (PSOE, PP, Vox, Sumar/Frente Amplio, ERC, Junts, EH Bildu y EAJ-PNV). PP: solo el «Contrato con España» (19/10), que no es el programa. PP, EH Bildu y EAJ-PNV comprobados en su web; PSOE, Vox, ERC, Junts y Sumar con búsquedas en prensa y agregadores (Apify sin cupo mensual desde el 30/10). |
+| Cada día hasta el 29 de noviembre | Programas electorales: revisión de las webs oficiales de los partidos. Cuando estén todos se crea la sección «Elecciones 2026» con la comparativa de pensiones y una guía por partido (decisión del 22 de octubre). Desde el 5/11 no se sube ninguna guía nueva hasta entonces; si el 13/11 aún falta alguno, se pregunta al titular si se crea con «pendiente» o se espera. **Estado a 1/11**: ningún programa del 29N publicado (PSOE, PP, Vox, Sumar/Frente Amplio, ERC, Junts, EH Bildu y EAJ-PNV). PP: solo el «Contrato con España» (19/10), que no es el programa. PP, EH Bildu y EAJ-PNV comprobados en su web; PSOE, Vox, ERC, Junts y Sumar con búsquedas en prensa y agregadores (Apify sin cupo mensual desde el 30/10). |
 | 28 de noviembre | Las cinco páginas de datos con la nómina de noviembre: pensión media por provincia, evolución, complemento a mínimos, brecha de género y pensión media por régimen, y las cifras de octubre citadas en las guías (las de octubre se hicieron el 29/10, el 1/11 y el 2/11) |
 | 30 de octubre | IPC adelantado de octubre (y las diapositivas del carrusel de ese día) |
 | 1 de noviembre | Plazos de los balnearios del Imserso y, en Cataluña, la ayuda mientras esperas la dependencia |
 | Hacia el 19 de noviembre | Convalidación del decreto-ley de viudedad y bajas (Real Decreto-ley 31/2026) |
 | 1 de diciembre | Entran en vigor las bajas especiales por menopausia y violencia de género: repaso de la guía de la baja |
 | El día de la aprobación | Calendario de 12 semanas con el banco (308 publicaciones, 33 carruseles, 36 vídeos), con `programar.mjs` |
-| Antes del 13 de noviembre | Propuestas de cada partido sobre pensiones en la guía de elecciones |
+| Cuando estén todos los programas | Propuestas de cada partido sobre pensiones en la guía de elecciones (pausa de guías nuevas hasta entonces, decisión del 5/11) |
 | 13 de noviembre | IPC definitivo de octubre |
 | 27 de noviembre | IPC adelantado de noviembre: cifra de la subida de 2027 |
 | Después del 29 de noviembre | Si el Gobierno en funciones aprueba la subida o pasa a enero; cambiar «Elecciones y pensiones» en los accesos «Ahora mismo» de la portada |
@@ -111,6 +111,7 @@ Sin fecha fija: cifras del Imserso y teléfonos cada trimestre, y más guías co
 
 ## Decisiones del titular
 
+- **5/11/2026: pausa de guías nuevas hasta que salgan todos los programas electorales** (para que Google asiente lo que ya hay y mejore en Search Console). Mientras dure: no se publican guías, páginas ni secciones nuevas. Sí se sigue haciendo: corregir cifras de las guías que ya existen cuando cambie un dato oficial (IPC, BOE), las tablas de datos de cada mes, la revisión diaria y sus arreglos, y las redes. La sección «Elecciones 2026» se crea cuando estén todos los programas; si el 13/11 aún falta alguno, se pregunta al titular en el informe si se crea con «pendiente de publicar» o se espera.
 - **3/11/2026:** el correo de contacto de la web se queda como está (no se cambia a hola@jubilometro.com).
 - **3/11/2026:** pide que Claude gestione todas las redes, perfiles incluidos. Los perfiles (foto, portada, biografía, enlace y crear la página de Facebook) no se pueden tocar con los conectores actuales: Metricool y vidIQ solo publican y miden. Opciones: que el titular lo haga con `publicacion/redes/kit/biografias.md`, o que Claude lo haga desde la app de escritorio con Claude in Chrome o con el uso del ordenador, con las sesiones ya abiertas en su navegador y sin pedir contraseñas.
 
