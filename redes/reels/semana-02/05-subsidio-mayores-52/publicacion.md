@@ -80,3 +80,14 @@ Compártelo con quien le pueda servir.
 
 #subsidio52 #jubilacion
 ```
+
+## X
+
+- **Cuándo:** Jueves 19/11, 20:43 · sin programar: no queda cupo de Typefully en noviembre.
+- **Vídeo:** versión de 720×1280 (menos de 10 MB, el límite del plan gratuito de Typefully), con la etiqueta «Hecho con IA».
+
+```
+Si tienes 52 años o más y estás en paro, hay un subsidio de 480 € al mes que te dura hasta la jubilación. Y el SEPE sigue cotizando por ti.
+
+Los requisitos, en el vídeo 👇
+```

@@ -77,3 +77,14 @@ Importes brutos, sin revalorizaciones. Información general, no sustituye el ase
 
 #jubilacion #pensiones
 ```
+
+## X
+
+- **Cuándo:** Domingo 22/11, 12:24 · sin programar: no queda cupo de Typefully en noviembre.
+- **Vídeo:** versión de 720×1280 (menos de 10 MB, el límite del plan gratuito de Typefully), con la etiqueta «Hecho con IA».
+
+```
+Por cada año que retrasas la jubilación, la pensión sube un 4 % de por vida. O eliges un pago único de unos 4.800 a 13.500 € por año, o una mezcla de las dos.
+
+Con un ejemplo en euros 👇
+```

@@ -97,3 +97,14 @@ Compártelo con alguien de tu quinta 👇
 
 #jubilacion #nacidosen1960
 ```
+
+## X
+
+- **Cuándo:** Martes 10/11, 20:43 · programado en Typefully.
+- **Vídeo:** versión de 720×1280 (menos de 10 MB, el límite del plan gratuito de Typefully), con la etiqueta «Hecho con IA».
+
+```
+Si naciste entre marzo y diciembre de 1960, no te jubilas a los 66 y 8 meses: te jubilas a los 67.
+
+La ley no mira el año en que naciste, sino el año en que te jubilas. En el vídeo, con un ejemplo de fecha a fecha 👇
+```

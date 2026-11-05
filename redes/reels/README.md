@@ -63,3 +63,11 @@ Sacadas de los artículos ya escritos. Los ganchos siguen los formatos que mejor
 | 4 | «Convenio especial: unos 392 € al mes para no perder años cotizados» | jubilacion/convenio-especial | Guardados |
 | 4 | «Si te faltan pocos meses para los 38 años y 6 meses, no te jubiles antes» | jubilacion/compensa-jubilarse-antes | Envíos |
 | 4 | «Para pedir la jubilación, en la mayoría de los casos bastan 3 papeles» (DNI, cuenta bancaria y solicitud, con la lista en PDF) | jubilacion/documentos-jubilacion | Guardados |
+
+## Versión para X
+
+El plan gratuito de Typefully no admite vídeos de más de 10 MB. Para X se usa una copia a 720×1280 (unos 4,5 MB), que es la resolución a la que X los reproduce:
+
+```bash
+ffmpeg -i reel.mp4 -vf scale=720:1280:flags=lanczos -c:v libx264 -preset slow -crf 21 -maxrate 1600k -bufsize 3200k -pix_fmt yuv420p -c:a aac -b:a 128k -movflags +faststart reel-x.mp4
+```

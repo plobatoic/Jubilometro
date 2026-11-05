@@ -111,3 +111,14 @@ En el vídeo, paso a paso. Y también cuándo sí compensa.
 
 #jubilacion #jubilacionanticipada
 ```
+
+## X
+
+- **Cuándo:** Jueves 12/11, 20:43 · programado en Typefully.
+- **Vídeo:** versión de 720×1280 (menos de 10 MB, el límite del plan gratuito de Typefully), con la etiqueta «Hecho con IA».
+
+```
+Jubilarte 2 años antes te puede costar 60.000 €. Te hago la cuenta.
+
+Base reguladora de 2.000 € y recorte del 19 %: cobras 1.620 € en vez de 2.000. A los 73 años y medio ya has perdido todo lo que ganaste por adelantarte 👇
+```

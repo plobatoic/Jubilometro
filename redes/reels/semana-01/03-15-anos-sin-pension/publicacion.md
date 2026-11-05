@@ -99,3 +99,16 @@ Comparte el vídeo con quien dejó de trabajar hace tiempo.
 
 #jubilacion #pensiones
 ```
+
+## X
+
+- **Cuándo:** Domingo 15/11, 12:24 · programado en Typefully.
+- **Vídeo:** versión de 720×1280 (menos de 10 MB, el límite del plan gratuito de Typefully), con la etiqueta «Hecho con IA».
+
+```
+Puedes tener 15 años cotizados y quedarte sin pensión de jubilación.
+
+Hay una segunda regla: al menos 2 de esos años tienen que estar dentro de los últimos 15 antes de jubilarte.
+
+Qué hacer si es tu caso 👇
+```

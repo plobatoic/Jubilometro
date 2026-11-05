@@ -1,16 +1,18 @@
 # Semana 1 · 9-15 de noviembre de 2026
 
-Tres reels, los mismos en Instagram, TikTok, YouTube Shorts y Facebook. Horas en Europe/Madrid.
+Tres reels, los mismos en Instagram, Facebook, YouTube Shorts, X y TikTok. Horas en Europe/Madrid.
 
 **Programado en Metricool el 4/11/2026** (publicación automática). Vídeos con la voz «Martín» (ElevenLabs v4, español peninsular), sustituidos el mismo día:
 
-| Día | Hora | Reel | Objetivo | Instagram | Facebook | YouTube Shorts | TikTok |
-|---|---|---|---|---|---|---|---|
-| Martes 10/11 | 13:12 | Nacidos en 1960: no te jubilas a los 66 y 8 meses | Envíos | ✓ | ✓ | ✓ | A mano |
-| Jueves 12/11 | 20:43 | Jubilarse 2 años antes: −60.000 € | Guardados | ✓ | ✓ | ✓ | A mano |
-| Domingo 15/11 | 12:24 | 15 años cotizados y sin pensión | Envíos | ✓ | ✓ | ✓ | A mano |
+| Día | Hora | Reel | Objetivo | Instagram | Facebook | YouTube Shorts | X | TikTok |
+|---|---|---|---|---|---|---|---|---|
+| Martes 10/11 | 20:43 | Nacidos en 1960: no te jubilas a los 66 y 8 meses | Envíos | ✓ | ✓ | ✓ | ✓ | A mano |
+| Jueves 12/11 | 20:43 | Jubilarse 2 años antes: −60.000 € | Guardados | ✓ | ✓ | ✓ | ✓ | A mano |
+| Domingo 15/11 | 12:24 | 15 años cotizados y sin pensión | Envíos | ✓ | ✓ | ✓ | ✓ | A mano |
 
-Los reels van los martes, jueves y domingos porque los lunes, miércoles y viernes ya hay carruseles de Instagram (19:00) y Shorts (13:00), y Facebook publica cada día a las 11:00. TikTok no está conectado en Metricool: súbelo desde la app con el copy de `publicacion.md`, o conecta la cuenta y se programa igual.
+Los reels van los martes, jueves y domingos porque los lunes, miércoles y viernes ya hay carruseles de Instagram (19:00) y Shorts (13:00), y Facebook publica cada día a las 11:00. El martes 10/11 pasó de las 13:12 a las 20:43 el 5/11: a las 13:00 ya sale el reel del SOVI en Instagram y Facebook.
+
+**X** se programa en Typefully (Metricool no tiene X conectado), con una versión del vídeo a 720×1280 porque el plan gratuito no admite vídeos de más de 10 MB. El copy está en la sección «X» de cada `publicacion.md`. TikTok no está conectado en Metricool: súbelo desde la app con el copy de `publicacion.md`, o conecta la cuenta y se programa igual.
 
 **Por qué estas horas.** Metricool todavía no tiene datos de la cuenta (la marca se conectó el 3/11/2026 y devuelve 0 en todas las franjas). Mientras tanto, usamos las franjas habituales del público de 50 a 66 años en España: sobremesa (13-14 h), después de cenar (20:30-22 h) y domingo por la mañana. A partir de la semana 3, se cambian por las que dé `getBestTimeToPostByNetwork` en Metricool.
 

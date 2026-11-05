@@ -78,3 +78,18 @@ Guárdalo o compártelo con quien esté cerca de jubilarse.
 
 #jubilacion #pensiones
 ```
+
+## X
+
+- **Cuándo:** Martes 17/11, 20:43 · programado en Typefully.
+- **Vídeo:** versión de 720×1280 (menos de 10 MB, el límite del plan gratuito de Typefully), con la etiqueta «Hecho con IA».
+
+```
+67, 37 y 38 y medio: las tres cifras de la jubilación desde 2027.
+
+67 años → edad ordinaria.
+38 años y 6 meses cotizados → te jubilas a los 65 sin recorte.
+37 años cotizados → 100 % de la base reguladora, pero a los 67.
+
+Guárdatelo 🔖
+```
