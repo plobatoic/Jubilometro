@@ -63,3 +63,4 @@ Repaso de cifras (4/11): los 36 vídeos coinciden con sus guías. El 01 (subida 
 |---|---|---|---|---|
 | 2026-11-05 | 13:30 | X (Typefully) | Termalismo del Imserso 2027 (BOE del 4/11) | 11692765 |
 | 2026-11-05 | 18:30 | Facebook (Metricool) | Termalismo del Imserso 2027 (BOE del 4/11) | 416271626 |
+| 2026-11-19 | 11:00 | Facebook (Metricool) | como-se-calcula-fb (repuesto el 5/11) | 417449341 |
