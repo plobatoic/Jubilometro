@@ -63,7 +63,7 @@ Los mismos 6 vídeos de YouTube, un día después: martes, jueves y sábados a l
 
 | Fecha prevista | Hora | Vídeo | Instagram | Facebook |
 |---|---|---|---|---|
-| 2026-11-07 | 13:00 | video-05-naciste-1960 (**quitado el 6/11**, pasado a borrador: el 10/11 sale el reel con voz del mismo tema) | 418706930 | 418706976 |
+| 2026-11-07 | 13:00 | video-05-naciste-1960 (en borrador y reactivado el 6/11 por decisión de Pau) | 418710671 | 418710680 |
 | 2026-11-10 | 13:00 | video-13-sovi | 417454305 | 417454383 |
 | 2026-11-12 | 13:00 | video-14-auxilio-defuncion | 417454422 | 417454503 |
 | 2026-11-14 | 13:00 | video-15-baja | 417454639 | 417454696 |
