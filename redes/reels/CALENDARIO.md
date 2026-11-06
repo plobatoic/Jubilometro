@@ -61,9 +61,6 @@ El reel 1 (nacidos en 1960) se ha llevado a finales de mes porque el 6/11 y el 7
 
 ## X: falta cupo
 
-Typefully gratis permite 10 publicaciones al mes, y en noviembre ya están todas usadas: 2 publicadas el 5/11, la del SOVI del 6/11, las elecciones del 8/11 y las 6 de la semana del 9 al 15. Para publicar a diario hasta final de mes hacen falta unas 17 más. Hay dos opciones:
+Typefully gratis permite 10 publicaciones al mes, y en noviembre ya están todas usadas: 2 publicadas el 5/11, la del SOVI del 6/11, las elecciones del 8/11 y las 6 de la semana del 9 al 15. Metricool y Orshot solo conectan X en sus planes de pago.
 
-1. Pasar a un plan de pago de Typefully.
-2. Conectar X en Metricool y programarlo allí junto con el resto.
-
-El post del sábado 14/11 ya está escrito y planificado en Typefully: solo hay que confirmarlo cuando haya cupo. El 1/12 el cupo vuelve a 10.
+Los posts del 16 al 30/11 están escritos y listos para copiar en [`../x/noviembre.md`](../x/noviembre.md): uno al día, con los vídeos ligeros de los reels 5 y 6. El post del sábado 14/11 está planificado en Typefully y solo hay que confirmarlo cuando haya cupo. El 1/12 el cupo vuelve a 10.
