@@ -4,7 +4,7 @@
 // Lo lee herramientas/redes/metricool.mjs (--redes=reel) y la página /enlaces/ (herramientas/redes/enlaces.mjs).
 // Para añadir más: una línea por vídeo, con sus cifras repasadas antes contra la guía.
 export const REELS = [
-  { archivo: 'video-05-naciste-1960.mp4', fecha: '2026-11-07', hora: '13:00' },
+  // video-05-naciste-1960 (7/11) quitado el 6/11 por decisión de Pau: el 10/11 sale el reel con voz del mismo tema.
   { archivo: 'video-13-sovi.mp4', fecha: '2026-11-10', hora: '13:00' },
   { archivo: 'video-14-auxilio-defuncion.mp4', fecha: '2026-11-12', hora: '13:00' },
   { archivo: 'video-15-baja.mp4', fecha: '2026-11-14', hora: '13:00' },
