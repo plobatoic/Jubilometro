@@ -1,14 +1,16 @@
 # Semana 1 · 9-15 de noviembre de 2026
 
+> **Actualizado el 6/11/2026:** cada reel sale ahora en un día distinto según la red (tabla de abajo). El calendario completo, con el ritmo nuevo (Instagram y YouTube cada dos días, Facebook y X a diario), está en [`../CALENDARIO.md`](../CALENDARIO.md).
+
 Tres reels, los mismos en Instagram, Facebook, YouTube Shorts, X y TikTok. Horas en Europe/Madrid.
 
 **Programado en Metricool el 4/11/2026** (publicación automática). Vídeos con la voz «Martín» (ElevenLabs v4, español peninsular), sustituidos el mismo día:
 
 | Día | Hora | Reel | Objetivo | Instagram | Facebook | YouTube Shorts | X | TikTok |
 |---|---|---|---|---|---|---|---|---|
-| Martes 10/11 | 20:43 | Nacidos en 1960: no te jubilas a los 66 y 8 meses | Envíos | ✓ | ✓ | ✓ | ✓ | A mano |
-| Jueves 12/11 | 20:43 | Jubilarse 2 años antes: −60.000 € | Guardados | ✓ | ✓ | ✓ | ✓ | A mano |
-| Domingo 15/11 | 12:24 | 15 años cotizados y sin pensión | Envíos | ✓ | ✓ | ✓ | ✓ | A mano |
+| IG dom 29/11 12:24 · YT lun 23/11 20:43 · FB jue 26/11 20:43 · X mié 11/11 20:43 | | Nacidos en 1960: no te jubilas a los 66 y 8 meses | Envíos | ✓ | ✓ | ✓ | ✓ | A mano |
+| IG y YT mié 11/11 20:43 · FB y X jue 12/11 20:43 | | Jubilarse 2 años antes: −60.000 € | Guardados | ✓ | ✓ | ✓ | ✓ | A mano |
+| Domingo 15/11 (todas las redes) | 12:24 | 15 años cotizados y sin pensión | Envíos | ✓ | ✓ | ✓ | ✓ | A mano |
 
 Los reels van los martes, jueves y domingos porque los lunes, miércoles y viernes ya hay carruseles de Instagram (19:00) y Shorts (13:00), y Facebook publica cada día a las 11:00. El martes 10/11 pasó de las 13:12 a las 20:43 el 5/11: a las 13:00 ya sale el reel del SOVI en Instagram y Facebook.
 
