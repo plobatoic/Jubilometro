@@ -1,6 +1,6 @@
 # X · posts diarios del 16 al 30 de noviembre de 2026
 
-El plan gratuito de Typefully ya no tiene cupo en noviembre (vuelve a 10 el 1/12), y ni Metricool ni Orshot conectan X sin pagar. Estos 15 posts están listos para copiar y pegar en X. Cada uno cabe en un post normal (menos de 280 caracteres) y sale de los datos de las guías y publicaciones ya revisadas.
+Estos posts se programan en Buffer (plan gratuito, canal @Jubilometro) por su API: los del 16 al 22/11 ya están en cola, y los del 23 al 30/11 se cargan el 22/11. Cada uno cabe en un post normal (menos de 280 caracteres) y sale de los datos de las guías y publicaciones ya revisadas.
 
 Los dos con vídeo usan la versión ligera para X (720×1280, menos de 10 MB), que está en la carpeta de cada reel. Al subirlos, marca la etiqueta de contenido hecho con IA.
 

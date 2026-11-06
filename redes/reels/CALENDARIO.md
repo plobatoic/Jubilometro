@@ -22,7 +22,7 @@ Las horas de cada publicación son las que ya tenía. Carruseles de Instagram a 
 | Mié 11 | 20:43 Reel 2 · −60.000 € | 20:43 Reel 2 · −60.000 € | 11:00 Autónomos | 20:43 Reel 1 · Nacidos en 1960 |
 | Jue 12 | — | — | 20:43 Reel 2 · −60.000 € | 20:43 Reel 2 · −60.000 € |
 | Vie 13 | 19:00 Carrusel viudedad (ver nota) | 13:00 Auxilio por defunción | 11:00 PNC de invalidez | 20:43 Reel 4 · Tres cifras 2027 |
-| Sáb 14 | — | — | 13:00 Reel auxilio por defunción | 11:00 Autónomos (planificado, sin cupo) |
+| Sáb 14 | — | — | 13:00 Reel auxilio por defunción | 11:00 Autónomos (Buffer) |
 | Dom 15 | 12:24 Reel 3 · 15 años sin pensión | 12:24 Reel 3 · 15 años sin pensión | 12:24 Reel 3 · 15 años sin pensión | 12:24 Reel 3 · 15 años sin pensión |
 
 **Nota del 13/11:** el carrusel de la pensión no contributiva de jubilación también sigue el 13/11 a las 19:00. Tenía que pasar al 19/11, pero ese cambio no se pudo aplicar desde aquí. Muévelo a mano en Metricool al jueves 19/11 a las 19:00.
@@ -59,8 +59,19 @@ Las horas de cada publicación son las que ya tenía. Carruseles de Instagram a 
 
 El reel 1 (nacidos en 1960) se ha llevado a finales de mes porque el 6/11 y el 7/11 ya salen un Short y un reel sobre el mismo tema.
 
-## X: falta cupo
+## X: Typefully + Buffer
 
-Typefully gratis permite 10 publicaciones al mes, y en noviembre ya están todas usadas: 2 publicadas el 5/11, la del SOVI del 6/11, las elecciones del 8/11 y las 6 de la semana del 9 al 15. Metricool y Orshot solo conectan X en sus planes de pago.
+- **Typefully** (gratis, 10 al mes): los 10 de noviembre ya están gastados, hasta el 13/11.
+- **Buffer** (gratis, 10 en cola a la vez, canal @Jubilometro): desde el 14/11. Ya están en cola los posts del 14 al 22/11, los del 18 y el 22 con vídeo. Los del 23 al 30/11 se cargan el 22/11 por la noche, cuando la cola se haya vaciado (hay un aviso programado). Los textos están en [`../x/noviembre.md`](../x/noviembre.md).
 
-Los posts del 16 al 30/11 están escritos y listos para copiar en [`../x/noviembre.md`](../x/noviembre.md): uno al día, con los vídeos ligeros de los reels 5 y 6. El post del sábado 14/11 está planificado en Typefully y solo hay que confirmarlo cuando haya cupo. El 1/12 el cupo vuelve a 10.
+| Día | Hora | Post de X | Dónde |
+|---|---|---|---|
+| Lun 9 | 09:00 | Hilo de la paga extra | Typefully |
+| Mar 10 | 09:00 | Pensión media por provincia | Typefully |
+| Mié 11 | 20:43 | Reel 1 · Nacidos en 1960 | Typefully |
+| Jue 12 | 20:43 | Reel 2 · −60.000 € | Typefully |
+| Vie 13 | 20:43 | Reel 4 · Tres cifras 2027 | Typefully |
+| Sáb 14 | 11:00 | Autónomos | Buffer |
+| Dom 15 | 12:24 | Reel 3 · 15 años sin pensión | Typefully |
+| 16 a 22/11 | según `noviembre.md` | Un post al día | Buffer (en cola) |
+| 23 a 30/11 | según `noviembre.md` | Un post al día | Buffer (se cargan el 22/11) |
