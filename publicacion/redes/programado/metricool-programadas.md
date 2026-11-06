@@ -76,4 +76,4 @@ Los mismos 6 vídeos de YouTube, un día después: martes, jueves y sábados a l
 |---|---|---|---|---|
 | 2026-11-05 | 13:30 | X (Typefully) | Termalismo del Imserso 2027 (BOE del 4/11) | 11692765 |
 | 2026-11-05 | 18:30 | Facebook (Metricool) | Termalismo del Imserso 2027 (BOE del 4/11) | 416271626 |
-| 2026-11-19 | 11:00 | Facebook (Metricool) | como-se-calcula-fb (repuesto el 5/11) | 417449341 |
+| 2026-11-19 | 11:00 | Facebook (Metricool) | como-se-calcula-fb (repuesto el 5/11; ejemplo cambiado por el de la guía el 6/11) | 418653544 |
