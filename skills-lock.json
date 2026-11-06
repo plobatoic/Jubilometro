@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "skills": {
+    "twitter-automation": {
+      "source": "halt-catch-fire/skills",
+      "sourceType": "github",
+      "skillPath": "tools/social/twitter-automation/SKILL.md",
+      "computedHash": "e2c3c2813042a2571d4c7e95ba345b1b9438f34e31367ca0c8ecb6ef2287640d"
+    }
+  }
+}
