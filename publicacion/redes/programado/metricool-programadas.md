@@ -77,3 +77,20 @@ Los mismos 6 vídeos de YouTube, un día después: martes, jueves y sábados a l
 | 2026-11-05 | 13:30 | X (Typefully) | Termalismo del Imserso 2027 (BOE del 4/11) | 11692765 |
 | 2026-11-05 | 18:30 | Facebook (Metricool) | Termalismo del Imserso 2027 (BOE del 4/11) | 416271626 |
 | 2026-11-19 | 11:00 | Facebook (Metricool) | como-se-calcula-fb (repuesto el 5/11; ejemplo cambiado por el de la guía el 6/11) | 418653544 |
+
+## Ampliación del 9/11/2026 (revisión diaria): del 20 al 23/11
+
+Cifras comprobadas con `comprobar-cifras.mjs` (todas en su guía); vídeos repasados el 4/11. Medios fijados al commit 9aa144da.
+
+| Fecha | Hora | Red | Publicación | Id |
+|---|---|---|---|---|
+| 2026-11-20 | 11:00 | Facebook | sovi-fb | 421476761 |
+| 2026-11-20 | 13:00 | YouTube | video-28-sms-017 | 421477510 |
+| 2026-11-20 | 19:00 | Instagram | grados-dependencia-ig | 421477149 |
+| 2026-11-21 | 11:00 | Facebook | mes1-63 (incapacidad total cualificada) | 421477184 |
+| 2026-11-21 | 13:00 | Instagram (Reel) | video-28-sms-017 | 421477590 |
+| 2026-11-21 | 13:00 | Facebook (Reel) | video-28-sms-017 | 421477606 |
+| 2026-11-22 | 11:00 | Facebook | imv-fb | 421477217 |
+| 2026-11-23 | 11:00 | Facebook | plan-pensiones-fb | 421477231 |
+| 2026-11-23 | 13:00 | YouTube | video-29-vender-casa | 421477573 |
+| 2026-11-23 | 19:00 | Instagram | viajes-imserso-ig | 421477477 |

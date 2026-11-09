@@ -10,4 +10,5 @@ export const REELS = [
   { archivo: 'video-15-baja.mp4', fecha: '2026-11-14', hora: '13:00' },
   { archivo: 'video-31-teleasistencia.mp4', fecha: '2026-11-17', hora: '13:00' },
   { archivo: 'video-11-tarjeta-dorada.mp4', fecha: '2026-11-19', hora: '13:00' },
+  { archivo: 'video-28-sms-017.mp4', fecha: '2026-11-21', hora: '13:00' },
 ];
