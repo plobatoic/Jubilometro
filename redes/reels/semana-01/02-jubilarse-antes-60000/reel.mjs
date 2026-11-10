@@ -6,7 +6,10 @@ export default {
   tema: "Jubilación anticipada",
   // Locución: voz «Martín» (ElevenLabs v4, español peninsular). El guion es el texto exacto que lee la voz;
   // las indicaciones entre corchetes ([warmly]…) no salen en los subtítulos.
-  musica: "../../musica-fondo.mp3",
+  // Música: «Customer story» (piano cálido, 84 bpm) de la biblioteca de Orshot, uso comercial libre; se repite el tramo 2,857-14,286 s.
+  musica: "https://cdn.orshot.com/library/music/ce81eb17-6e42-4d4e-8786-5e48aaf992e6.m4a",
+  musicaBucle: { ini: 2.857, fin: 14.286 },
+  volumenMusica: 0.16,
   marcaAgua: "−60.000",
   guion: `Jubilarte dos años antes te puede costar 60.000 euros. [warmly] Te hago la cuenta.
 
@@ -22,6 +25,7 @@ Guárdatelo antes de pedir la jubilación.`,
 
   escenas: [
     { // 0 · Gancho
+      fondo: { clip: "pixabay:138315", desde: 2 },
       html: `
         <div class="kicker" data-a="fijo">¿Jubilarte a los 63?</div>
         <div class="cifra m rojo" data-a="fijo">−60.000 €</div>
@@ -29,6 +33,8 @@ Guárdatelo antes de pedir la jubilación.`,
         <div class="sub" data-en="Te hago" data-a="sube">La cuenta, paso a paso 👇</div>`,
     },
     { en: "Pongamos que Luis",
+      fondo: { clip: "pixabay:6096", desde: 11, x: 0.95 },
+      clase: "abajo", // la tarjeta por debajo de la pareja del banco
       html: `
         <div class="kicker">Caso de ejemplo · Luis</div>
         <div class="tarjeta">
@@ -38,6 +44,7 @@ Guárdatelo antes de pedir la jubilación.`,
         </div>`,
     },
     { en: "Si se jubila ya",
+      fondo: { clip: "pixabay:133501", desde: 0 },
       html: `
         <div class="kicker">Si se jubila a los 63</div>
         <div class="cifra rojo" data-en="le recortan" data-a="pop">−19 %</div>
@@ -45,6 +52,7 @@ Guárdatelo antes de pedir la jubilación.`,
         <div class="sub" data-en="cobra 1.620" data-a="sube">al mes, de por vida</div>`,
     },
     { en: "En esos dos años",
+      fondo: { clip: "pixabay:91679", desde: 3 },
       html: `
         <div class="dos">
           <div class="caja gana" data-a="sube">
@@ -61,6 +69,7 @@ Guárdatelo antes de pedir la jubilación.`,
         <div class="sello" data-en="Para siempre" data-a="sello">Para siempre</div>`,
     },
     { en: "A los 73 y",
+      fondo: { clip: "pixabay:6019", desde: 2, x: 0.36 },
       html: `
         <div class="kicker">Lo ganado se agota a los…</div>
         <div class="cifra m ambar" data-a="pop">73,5 años</div>
@@ -75,6 +84,7 @@ Guárdatelo antes de pedir la jubilación.`,
         <div class="titular s" data-en="pierde unos" data-a="sube">Balance: <span class="rojo" data-en="pierde unos" data-a="cuenta" data-dur="1.1" data-valor="60000" data-pre="−" data-suf=" €">−0 €</span></div>`,
     },
     { en: "¿Puede compensar?",
+      fondo: { clip: "pixabay:127943", desde: 1, x: 0.5 },
       html: `
         <div class="kicker">¿Puede compensar? Sí, si…</div>
         <div class="fila" data-en="si no tienes" data-a="sube"><div class="ico si">✓</div><div>No tienes otros ingresos<small>ni paro ni subsidio hasta tu edad ordinaria</small></div></div>
@@ -82,6 +92,7 @@ Guárdatelo antes de pedir la jubilación.`,
         <div class="fila" data-en="si te han despedido" data-a="sube"><div class="ico si">✓</div><div>Te han despedido<small>la anticipada involuntaria recorta menos</small></div></div>`,
     },
     { en: "Guárdatelo",
+      fondo: { clip: "pixabay:159169", desde: 0, x: 0.78 },
       html: `
         <div class="cta">
           <div class="icono" data-a="pop">${GUARDAR}</div>

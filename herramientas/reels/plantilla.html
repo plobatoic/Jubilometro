@@ -131,6 +131,29 @@
   #subtitulos span.dicha { color: #fff; }
   #subtitulos span.ahora { color: #14130f; background: var(--ambar); text-shadow: none; }
 
+
+  /* ---------- Modo realista: vídeo real de fondo (lo pone ffmpeg) ---------- */
+  #velo { position: absolute; inset: 0; display: none; }
+  html.realista, html.realista body { background: transparent; }
+  html.realista #fondo { display: none; }
+  html.realista #velo { display: block;
+    background:
+      linear-gradient(180deg, rgba(3,8,18,0.84) 0%, rgba(3,8,18,0.34) 15%, rgba(3,8,18,0.22) 34%, rgba(3,8,18,0.36) 56%, rgba(3,8,18,0.78) 74%, rgba(3,8,18,0.92) 100%); }
+  html.realista .escena > * { text-shadow: 0 4px 28px rgba(0,0,0,0.75), 0 2px 6px rgba(0,0,0,0.5); }
+  html.realista .kicker { color: #a9cdf5; }
+  .escena.abajo { justify-content: flex-end; padding-bottom: 10px; }
+  .escena.arriba { justify-content: flex-start; padding-top: 40px; }
+  html.realista .sub, html.realista .tarjeta .etq, html.realista .par, html.realista .caja .d, html.realista .fila small { color: #d3dbe6; }
+  html.realista .tarjeta, html.realista .caja { background: rgba(6,12,24,0.74); border-color: rgba(255,255,255,0.18); box-shadow: 0 24px 60px rgba(0,0,0,0.35); }
+  html.realista .tarjeta.mala { background: rgba(40,10,10,0.72); }
+  html.realista .tarjeta.buena { background: rgba(8,34,24,0.72); }
+  html.realista .fila { background: rgba(6,12,24,0.66); border: 2px solid rgba(255,255,255,0.12); border-radius: 30px; padding: 18px 26px; }
+  html.realista .eje { background: rgba(6,12,24,0.62); border-radius: 30px; padding: 0 30px; height: 250px; }
+  html.realista .eje .punto .pin { border-color: #0b1220; }
+  html.realista .url { background: rgba(6,12,24,0.7); }
+  html.realista .aviso { color: #c3ccd8; }
+  html.realista #subtitulos .bloque { text-shadow: 0 4px 0 rgba(0,0,0,0.45), 0 0 34px rgba(0,0,0,0.9); }
+
   /* Portada */
   body.portada #subtitulos, body.portada #progreso { display: none; }
   body.portada #escenario { top: 300px; height: 1320px; }
@@ -140,6 +163,7 @@
 </head>
 <body>
 <div id="fondo"><div id="rejilla"></div><div id="marca-agua"></div></div>
+<div id="velo"></div>
 <div id="cabecera">
   <div class="logo">
     <svg viewBox="0 0 64 64" aria-hidden="true">
@@ -182,6 +206,7 @@
     });
     subt = document.getElementById("subtitulos");
     if (datos.portada) document.body.classList.add("portada");
+    document.documentElement.classList.toggle("realista", !!datos.realista);
   };
 
   function animar(o, t) {

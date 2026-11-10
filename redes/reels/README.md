@@ -71,3 +71,18 @@ El plan gratuito de Typefully no admite vídeos de más de 10 MB. Para X se usa 
 ```bash
 ffmpeg -i reel.mp4 -vf scale=720:1280:flags=lanczos -c:v libx264 -preset slow -crf 21 -maxrate 1600k -bufsize 3200k -pix_fmt yuv420p -c:a aac -b:a 128k -movflags +faststart reel-x.mp4
 ```
+
+## Modo realista: vídeo real de fondo
+
+Si alguna escena de `reel.mjs` lleva `fondo`, el reel se monta sobre vídeo real en vez del fondo de gráficos:
+
+```js
+{ en: "Pongamos que Luis", fondo: { clip: "pixabay:6096", desde: 11, x: 0.95 }, clase: "abajo", html: `…` }
+```
+
+- `clip`: un vídeo de Pixabay (`pixabay:<id>`), una URL o un archivo local. Los de Pixabay se buscan y se resuelven con Orshot (`orshot_search_stock_media` y `orshot_use_stock_media`); licencia de Pixabay, uso comercial sin atribución obligatoria. Se descargan a `herramientas/reels/.cache/`.
+- `desde`: segundo del clip en el que empieza. `x`: encuadre horizontal al recortar a 9:16 (0 izquierda, 1 derecha).
+- `clase: "abajo"` o `"arriba"` mueve el contenido de la escena para no tapar caras.
+- Entre clips hay un fundido de 0,45 s. Si un clip se queda corto, se ralentiza un poco.
+- Música: `musica` acepta una URL (por ejemplo, de la biblioteca de Orshot) y `musicaBucle: { ini, fin }` repite ese tramo sin cortes; `volumenMusica` ajusta el nivel (por defecto 0,14). La música baja sola cuando habla la voz.
+- El render deja `creditos.txt` con los clips y la música usados.

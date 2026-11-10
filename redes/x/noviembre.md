@@ -1,5 +1,7 @@
 # X · posts diarios del 16 al 30 de noviembre de 2026
 
+Sin enlaces en el texto: X recorta mucho el alcance de los posts con enlace en cuentas sin Premium. El enlace va en la biografía del perfil y, si hace falta, en una respuesta al propio post.
+
 Estos posts se programan en Buffer (plan gratuito, canal @Jubilometro) por su API: los del 16 al 22/11 ya están en cola, y los del 23 al 30/11 se cargan el 22/11. Cada uno cabe en un post normal (menos de 280 caracteres) y sale de los datos de las guías y publicaciones ya revisadas.
 
 Los dos con vídeo usan la versión ligera para X (720×1280, menos de 10 MB), que está en la carpeta de cada reel. Al subirlos, marca la etiqueta de contenido hecho con IA.
@@ -11,9 +13,9 @@ La temporada de viajes del Imserso dura hasta junio de 2027: 879.213 plazas, de 
 
 Y 7.447 plazas a 50 € para quien tiene ingresos de pensión no contributiva o menos.
 
-jubilometro.com/viajes-imserso/x
+La guía completa, en el enlace del perfil.
 ```
-265 caracteres.
+275 caracteres.
 
 ## Mar 17/11 · 09:00 · Baja por enfermedad
 
@@ -55,9 +57,9 @@ La teleasistencia es un pulsador conectado a una central las 24 horas, pensado p
 
 Se pide en los servicios sociales y no hace falta tener reconocida la dependencia.
 
-jubilometro.com/teleasistencia/x
+La guía completa, en el enlace del perfil.
 ```
-226 caracteres.
+236 caracteres.
 
 ## Sáb 21/11 · 11:00 · Ley de dependencia
 
@@ -84,9 +86,9 @@ Con un ejemplo en euros 👇
 ```
 En enero las pensiones contributivas suben lo que subió de media el IPC de diciembre de 2025 a noviembre de 2026. No hay que pedirlo: llega sola con la pensión de enero.
 
-Calcula cuánto cobrarás en 2027: jubilometro.com/subida/x
+Calcula cuánto cobrarás en 2027 con la calculadora de la web (enlace en el perfil).
 ```
-228 caracteres.
+254 caracteres.
 
 ## Mar 24/11 · 09:00 · Viudedad: tres dudas
 
@@ -117,18 +119,18 @@ Cuando muere un familiar se suele olvidar el auxilio por defunción: 46,50 € e
 
 No se da si el fallecido solo cobraba viudedad, una no contributiva o el SOVI. Hay cinco años para pedirlo.
 
-jubilometro.com/auxilio-defuncion/x
+La guía completa, en el enlace del perfil.
 ```
-262 caracteres.
+269 caracteres.
 
 ## Vie 27/11 · 09:00 · Tarjeta Dorada
 
 ```
 Desde los 60 años, la Tarjeta Dorada de Renfe cuesta 6 € al año y da hasta un 40 % de descuento en los billetes.
 
-Cómo sacarla: jubilometro.com/tarjeta-dorada/x
+Cómo sacarla, en la guía de la web (enlace en el perfil).
 ```
-160 caracteres.
+171 caracteres.
 
 ## Sáb 28/11 · 11:00 · Cómo se calcula la pensión
 
@@ -159,6 +161,6 @@ Con una discapacidad del 65 % o más, entre 18 y 64 años y pocos ingresos, pued
 
 En 2026, hasta 628,80 € al mes en 14 pagas.
 
-jubilometro.com/pnc-invalidez/x
+La guía completa, en el enlace del perfil.
 ```
-242 caracteres.
+253 caracteres.

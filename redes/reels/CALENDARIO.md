@@ -1,5 +1,30 @@
 # Calendario de publicaciones · desde el 9 de noviembre de 2026
 
+> **Reajuste del 10/11:** Instagram y YouTube publican **un reel día sí y día no** (días impares: 11, 13, 15… hasta el 3/12), y los carruseles de Instagram pasan a los días pares. Motivo y datos en [`../ESTRATEGIA.md`](../ESTRATEGIA.md).
+>
+> | Día | Instagram (reel) | YouTube (Short) | Instagram (carrusel) |
+> |---|---|---|---|
+> | Mié 11 | 20:43 −60.000 € | 20:43 −60.000 € | |
+> | Vie 13 | 13:00 Auxilio por defunción | 13:00 Auxilio por defunción | |
+> | Sáb 14 | | | 19:00 Viudedad |
+> | Dom 15 | 12:24 15 años sin pensión | 12:24 15 años sin pensión | |
+> | Mar 17 | 13:00 Baja por enfermedad | 13:00 Baja por enfermedad | |
+> | Mié 18 | | | 19:00 Pensión no contributiva |
+> | Jue 19 | 13:00 SMS falsos (017) | 13:00 SMS falsos (017) | |
+> | Vie 20 | | | 19:00 Grados de dependencia |
+> | Sáb 21 | 13:00 Teleasistencia | 13:00 Teleasistencia | |
+> | Lun 23 | 20:43 Tres cifras 2027 | 20:43 Tres cifras 2027 | |
+> | Mar 24 | | | 19:00 Viajes del Imserso |
+> | Mié 25 | 13:00 Tarjeta Dorada | 13:00 Tarjeta Dorada | |
+> | Jue 26 | | | 19:00 Baja (carrusel) |
+> | Vie 27 | 13:00 SOVI | 13:00 Vender la casa sin IRPF | |
+> | Dom 29 | 12:24 Subsidio mayores de 52 | 12:24 Subsidio mayores de 52 | |
+> | Lun 30 | | | 19:00 Renta de los jubilados |
+> | Mar 1/12 | 20:43 Nacidos en 1960 | 20:43 Nacidos en 1960 | |
+> | Jue 3/12 | 20:43 Jubilación demorada | 20:43 Jubilación demorada | |
+>
+> Las tablas de abajo son del reparto anterior (6/11) y siguen valiendo para Facebook y X.
+
 Reorganizado el 6/11/2026 con un ritmo fijo por red. Horas en Europe/Madrid.
 
 | Red | Ritmo | Dónde se programa |
