@@ -17,7 +17,7 @@ La condición es una: retrasar tu jubilación al menos un año desde tu edad ord
 
 Y cuanto más retrasas, más cobras. Con un año, el 45 % de tu pensión. Con dos, el 55. Con tres, el 65. Con cuatro, el 80... y con cinco, la pensión entera.
 
-Un ejemplo. Carmen tiene una pensión de 1.800 euros. Retrasó un año, así que cobra 810 euros al mes... y además, su sueldo.
+Un ejemplo. Rosa tiene una pensión de 1.800 euros. Retrasó un año, así que cobra 810 euros al mes... y además, su sueldo.
 
 Y el día que deja de trabajar, vuelve a cobrar los 1.800 completos.
 
@@ -28,7 +28,7 @@ Y el día que deja de trabajar, vuelve a cobrar los 1.800 completos.
 |---|---|
 | 45 / 55 / 65 / 80 / 100 % según 1-5 años de demora | Tabla del artículo |
 | +5 puntos por cada 12 meses seguidos en activa | Artículo (no sale en la voz; va en el primer comentario) |
-| Carmen: 1.800 € × 45 % = 810 € | Ejemplo del artículo |
+| Rosa: 1.800 € × 45 % = 810 € | Ejemplo del artículo |
 
 Planos (a elegir al montar): una persona mayor trabajando en un taller o un comercio, un calendario, una mujer mayor trabajando, la misma mujer ya sin trabajar al aire libre, café con amigos.
 
