@@ -124,3 +124,14 @@ Con esto, las 10 publicaciones gratuitas de noviembre en Typefully están usadas
 | 22/11 12:24 | Reel 6, jubilación demorada (con vídeo) | 6aedb0e5bd8bdbf0d0d98a6f |
 
 Los posts del 23 al 30/11 se cargan el 22/11 por la noche (aviso programado en esta conversación).
+
+### 10/11, 22:42 · reel 7 (jubilación activa)
+
+| Red | Fecha | Herramienta | Id | uuid |
+|---|---|---|---|---|
+| Instagram (reel) | 5/12 20:43 | Metricool | 423722955 | 7824907230400892462 |
+| YouTube (Short) | 5/12 20:43 | Metricool | 423723010 | -7822029441800581192 |
+| Facebook (reel) | 1/12 13:00 | Metricool | 423723057 | 4447948056661214581 |
+| X | 1/12 13:00 | Buffer | 6af38fce3cfe2a84dbfb940e | |
+
+Buffer queue after this post: 9 of 10.

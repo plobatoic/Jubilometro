@@ -100,3 +100,15 @@ El reel 1 (nacidos en 1960) se ha llevado a finales de mes porque el 6/11 y el 7
 | Dom 15 | 12:24 | Reel 3 · 15 años sin pensión | Typefully |
 | 16 a 22/11 | según `noviembre.md` | Un post al día | Buffer (en cola) |
 | 23 a 30/11 | según `noviembre.md` | Un post al día | Buffer (se cargan el 22/11) |
+
+## Reels nuevos (formato realista)
+
+Programado el 10/11 por la noche. Voz de vidIQ («Eric»), vídeo real de Pixabay y etiqueta de IA activada.
+
+| Reel | Instagram | YouTube | Facebook | X |
+|---|---|---|---|---|
+| 7 · Jubilación activa | Sáb 5/12, 20:43 | Sáb 5/12, 20:43 | Mar 1/12, 13:00 | Mar 1/12, 13:00 (Buffer) |
+| 8 · Despido a los 60 | Lun 7/12 (pendiente de voz) | Lun 7/12 | Mié 2/12 | Mié 2/12 |
+| 9 · Trabajado en otro país | Mié 9/12 (pendiente de voz) | Mié 9/12 | Jue 3/12 | Jue 3/12 |
+
+Los reels 8 y 9 necesitan 28 créditos de vidIQ cada uno; se recargan el 24/11.
