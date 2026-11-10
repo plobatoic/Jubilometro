@@ -8,7 +8,7 @@
 //     x      encuadre horizontal al recortar a 9:16: 0 = izquierda, 0.5 = centro, 1 = derecha (por defecto 0.5)
 // Los clips se descargan una vez a herramientas/reels/.cache/ (ignorada por git).
 import { execFileSync } from "node:child_process";
-import { existsSync, mkdirSync } from "node:fs";
+import { existsSync, mkdirSync, readdirSync, readFileSync, statSync } from "node:fs";
 import { join, resolve, dirname, basename } from "node:path";
 import { fileURLToPath } from "node:url";
 
@@ -80,4 +80,30 @@ export function construirFondo(escenas, duracion, carpeta, salida, fps = 30) {
     "-filter_complex", filtros.join(";"), "-map", `[${previo}]`, "-t", duracion.toFixed(3), "-an",
     "-c:v", "libx264", "-preset", "medium", "-crf", "16", "-pix_fmt", "yuv420p", "-r", String(fps), salida], { stdio: "inherit" });
   return { salida, clips: unidos.map((t) => t.spec.clip) };
+}
+
+// Ninguna imagen se repite: un clip de stock solo puede salir en un reel y una sola vez.
+// Busca en todas las carpetas de redes/reels/ los clips de cada reel.mjs y para el render si este reel usa uno ya usado.
+export function revisarRepetidos(carpeta) {
+  const raiz = resolve(AQUI, "../../redes/reels");
+  const propios = resolve(carpeta);
+  const usados = new Map(); // clip -> carpeta
+  const recorrer = (dir) => {
+    for (const n of readdirSync(dir)) {
+      const ruta = join(dir, n);
+      if (n.startsWith(".")) continue;
+      if (statSync(ruta).isDirectory()) recorrer(ruta);
+      else if (n === "reel.mjs" && resolve(dir) !== propios) {
+        for (const m of readFileSync(ruta, "utf8").matchAll(/clip:\s*"([^"]+)"/g)) usados.set(m[1], dir.replace(raiz + "/", ""));
+      }
+    }
+  };
+  recorrer(raiz);
+  const mios = [...readFileSync(join(propios, "reel.mjs"), "utf8").matchAll(/clip:\s*"([^"]+)"/g)].map((m) => m[1]);
+  const problemas = [];
+  mios.forEach((c, i) => {
+    if (usados.has(c)) problemas.push(`${c} ya sale en ${usados.get(c)}`);
+    if (mios.indexOf(c) !== i) problemas.push(`${c} se repite dentro de este reel`);
+  });
+  if (problemas.length) throw new Error("Imágenes repetidas:\n  " + problemas.join("\n  "));
 }

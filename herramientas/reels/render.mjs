@@ -12,7 +12,7 @@ import { existsSync, mkdirSync, writeFileSync } from "node:fs";
 import { join, resolve, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { procesarVoz, tokenizar, alinear } from "./audio.mjs";
-import { construirFondo, descargar } from "./fondo.mjs";
+import { construirFondo, descargar, revisarRepetidos } from "./fondo.mjs";
 
 const require = createRequire(import.meta.url);
 const { chromium } = require("playwright");
@@ -92,6 +92,7 @@ const shot = (opts = {}) => pagina.screenshot(realista ? { type: "png", omitBack
 
 // Fondo de vídeo real (modo realista)
 const fondoMp4 = join(tmp, "fondo.mp4");
+if (realista) revisarRepetidos(carpeta);
 if (realista && !soloPrevia) {
   console.log("Montando el fondo de vídeo…");
   const { clips } = construirFondo(escenas, duracion, carpeta, fondoMp4, FPS);

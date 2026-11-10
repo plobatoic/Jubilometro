@@ -86,3 +86,11 @@ Si alguna escena de `reel.mjs` lleva `fondo`, el reel se monta sobre vídeo real
 - Entre clips hay un fundido de 0,45 s. Si un clip se queda corto, se ralentiza un poco.
 - Música: `musica` acepta una URL (por ejemplo, de la biblioteca de Orshot) y `musicaBucle: { ini, fin }` repite ese tramo sin cortes; `volumenMusica` ajusta el nivel (por defecto 0,14). La música baja sola cuando habla la voz.
 - El render deja `creditos.txt` con los clips y la música usados.
+
+## Reglas para los reels nuevos (10/11/2026)
+
+- **Formato realista** (vídeo real de fondo) para todos los reels nuevos. Los ya programados se quedan como están. El reel 2 tiene su versión realista en `reel-realista.mp4` como muestra.
+- **Ninguna imagen se repite:** el render se para si un clip ya sale en otro reel o dos veces en el mismo.
+- **Nada de clips generados con IA:** al elegir en Pixabay, descartar los que llevan la etiqueta «ai generated».
+- **Ningún tema se repite:** antes de escribir un reel, mirar los temas ya publicados o programados en el calendario. Los temas de `contenido/` sin reel todavía: jubilación activa, parcial, flexible, anticipada involuntaria, anticipada por discapacidad, anticipada por profesión, despido a los 60, convenio especial, años que faltan, cuánto tarda la jubilación, documentos para pedirla, pedirla por internet, haber trabajado en otro país y autónomos.
+- **Voz:** la mejor voz de IA disponible, elegida escuchando `comparativa-voces.mp3`. Mientras la voz sea sintética, la etiqueta de IA se queda activada en Instagram, YouTube y TikTok, como piden sus normas.
