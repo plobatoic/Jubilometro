@@ -71,6 +71,7 @@ Y el día que deja de trabajar, vuelve a cobrar los 1.800 completos.
     },
     { en: "Pásaselo",
       fondo: { clip: "pixabay:172681", desde: 2, x: 0.74 },
+      clase: "abajo", // el mensaje por debajo de la cara de la mujer
       html: `
         <div class="cta">
           <div class="icono" data-a="pop">${COMPARTIR}</div>
