@@ -13,3 +13,4 @@
 | 9 | PIA 37.477; con prestación efectiva 37.331 (99,61 %) | Misma estadística, tabla 12 | Hoja de cálculo oficial | Verificado |
 | 10 | Prestaciones por tipo; ratio 1,20 (España 1,45); vinculada 43,63 %, la más alta de España (España 9,47 %); ayuda a domicilio 2,02 % (16,24 %) | Misma estadística, tabla 4.1 | Hoja de cálculo oficial | Verificado |
 | 11 | Cuantía media de la prestación por cuidados familiares 134,63 / 233,27 / 323,88 € (España 172,90 / 275,03 / 381,50 €) | Misma estadística, tabla 8.1.a | Hoja de cálculo oficial | Verificado |
+| 12 | Plazo máximo de tres meses desde la solicitud hasta la resolución de la prestación, desde el 12/11/2026 (antes, seis) | Real Decreto-ley 36/2026 (BOE-A-2026-23605), disposición final primera, que modifica la disposición final primera.2 y 3 de la Ley 39/2006; entrada en vigor, disposición final sexta | BOE del 11/11/2026 | Verificado en BOE (11/11/2026) |

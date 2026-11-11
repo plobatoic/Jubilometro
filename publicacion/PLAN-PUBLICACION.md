@@ -549,6 +549,12 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Revisión diaria del 11/11/2026: Real Decreto-ley 36/2026 (dependencia)
+
+- **BOE del 11/11**: [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605), en vigor el 12/11. El plazo máximo desde la solicitud hasta la resolución de la prestación de dependencia pasa de **seis a tres meses** (disposición final primera de la Ley 39/2006), y el derecho nace con la resolución o a los tres meses. También fija el nivel mínimo de 2027 (660, 260 y 90 €/mes por grado; 4.930 € el grado III+), el nivel acordado (904.197.420 €) y cambios en el Real Decreto 1051/2013 (teleasistencia, ayuda a domicilio, prestaciones combinadas). Lo tiene que convalidar la Diputación Permanente.
+- **18 guías corregidas y subidas**: solicitar, ley, reclamar (también el H1), tiempos de espera y prestación por cuidados familiares, y las de Andalucía, Aragón, Asturias, Canarias, Cantabria, Castilla-La Mancha, Castilla y León, Comunitat Valenciana, Extremadura, Galicia, Madrid, Murcia y Navarra. Cada una con su historial y su fila en `verificacion-fuentes.md`. Donde la comunidad fija su propio silencio (Canarias, Asturias, Comunitat Valenciana), se explica que su ficha sigue hablando de seis meses.
+- **Redes**: textos del banco y del calendario con «seis meses» de la dependencia, corregidos. La publicación de Facebook de la ley de dependencia del 21/11 se corrigió en Metricool. Quedan con la cifra vieja dentro de la imagen el carrusel `espera-ig` (11/01/2027) y el vídeo `video-dependencia-espera` (1/01/2027): hay que rehacerlos antes de programarlos (PENDIENTES.md).
+
 ### Revisión diaria del 4/11/2026
 
 - BOE del día: convocatoria del Programa de Termalismo del Imserso de 2027 (BOE-A-2026-23163). Actualizadas la guía de termalismo (199.000 plazas, precios de 322,45 a 477,48 €, aportación del Imserso, baremo de ingresos nuevo y plazos: hasta el 4/12/2026 para febrero-agosto), la de viajes y balnearios de las comunidades, la portada del Imserso y la publicación de X del banco. Publicada la noticia en X y Facebook el 5/11.

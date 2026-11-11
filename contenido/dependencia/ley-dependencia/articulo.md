@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "cuanto tarda ley de dependencia"
 intencion: informativa
 fase_plan: F1 (artículo n.º 62)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -31,7 +31,7 @@ fuentes_legales:
 >
 > La ley de dependencia (Ley 39/2006) protege a quien **necesita ayuda de otra persona para las actividades básicas** del día a día: comer, asearse, vestirse, moverse por casa. Tras una **valoración en el domicilio**, la comunidad autónoma reconoce un **grado (I, II o III)** y, con él, un **servicio** (teleasistencia, ayuda a domicilio, centro de día, residencia) o, si no hay plaza pública, una **ayuda económica**.
 >
-> Las ayudas económicas llegan a **747,25 euros al mes** para pagar un servicio privado y a **455,40 euros** si te cuida un familiar (grado III). La Administración tiene **seis meses** para resolver desde la solicitud. Se pide en los **servicios sociales** de tu ayuntamiento o comunidad.
+> Las ayudas económicas llegan a **747,25 euros al mes** para pagar un servicio privado y a **455,40 euros** si te cuida un familiar (grado III). La Administración tiene **tres meses** para resolver desde la solicitud (seis hasta el 11 de noviembre de 2026). Se pide en los **servicios sociales** de tu ayuntamiento o comunidad.
 >
 > **Novedad**: la reforma de la ley ([Ley 4/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528)) se aplica desde el **23 de octubre de 2026**. La teleasistencia pasa a ser un derecho en cualquier grado, se acaba el aplazamiento de hasta dos años de la ayuda por cuidados familiares y el grado de dependencia equivale a una discapacidad del 33 % (grado I) o del 65 % (grados II y III). Lo resumimos en la [tabla de cambios](#que-cambia-con-la-reforma-de-octubre-de-2026).
 
@@ -45,7 +45,7 @@ La [Ley 4/2026, de 1 de octubre](https://www.boe.es/buscar/doc.php?id=BOE-A-2026
 | Teleasistencia | Compatible con casi todo, salvo la residencia | Derecho en **cualquier grado**, además de las demás ayudas |
 | Combinar ayudas | La ley estatal hacía incompatibles las prestaciones entre sí | Desaparecen las incompatibilidades estatales. Tu comunidad mantiene las suyas, pero **antes de 2030** debe permitir combinar todas las ayudas para seguir en casa |
 | Ayuda por cuidados familiares | Prestación «excepcional», con el pago aplazable hasta **dos años** | Deja de ser excepcional, **sin aplazamiento**, y se reactivan las que estaban en suspenso |
-| Plazos | Seis meses desde la solicitud hasta la resolución de la ayuda | Se mantienen los seis meses y la ley añade un máximo de **tres meses** para resolver el procedimiento. Los casos de especial vulnerabilidad se tramitan **de urgencia** |
+| Plazos | Seis meses desde la solicitud hasta la resolución de la ayuda | **Tres meses** para resolver el procedimiento y, desde el 12 de noviembre de 2026, también para la resolución de la ayuda (Real Decreto-ley 36/2026). Los casos de especial vulnerabilidad se tramitan **de urgencia** |
 | Copago | Reglas de cada comunidad | La capacidad económica es **solo tuya**, **no cuenta la vivienda habitual** y hay un mínimo exento |
 | Discapacidad | Hacían falta dos valoraciones | El grado I equivale a un **33 %** de discapacidad y los grados II y III, a un **65 %**, salvo a efectos fiscales |
 | Servicios | Teleasistencia, ayuda a domicilio, centro de día y residencia, entre otros | Se añaden los **cuidados y apoyos en viviendas** y el **préstamo de productos de apoyo** |
@@ -123,7 +123,7 @@ Quien recibe un servicio **participa en su coste** según su **capacidad económ
 4. **Programa Individual de Atención (PIA)**: los servicios sociales proponen, **consultando a la persona y a su familia**, el servicio o la ayuda concreta.
 5. **Resolución de la prestación**: desde ese momento empieza a recibirse.
 
-**Plazo máximo: seis meses** desde la solicitud hasta la resolución de la prestación ([disposición final primera](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990)). Desde el 23 de octubre de 2026, la ley fija además un máximo de **tres meses** para resolver el procedimiento ([artículo 28](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)). Si pasan los seis meses sin respuesta, el derecho se genera igualmente desde el fin de ese plazo. La ley permitía aplazar hasta dos años el pago de la ayuda por cuidados familiares: la reforma **elimina ese aplazamiento**. Muchas comunidades tardan más: si es tu caso, reclama por escrito. Si la persona está en una situación de **especial vulnerabilidad** (por ejemplo, aislada o sin recursos), el expediente debe tramitarse **de urgencia**.
+**Plazo máximo: tres meses** desde la solicitud hasta la resolución de la prestación ([disposición final primera](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990), en la redacción del [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605), en vigor desde el 12 de noviembre de 2026; antes eran seis meses). Es el mismo plazo que la reforma de octubre fijó para resolver el procedimiento ([artículo 28](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)). Si pasan los tres meses sin respuesta, el derecho se genera igualmente desde el fin de ese plazo. La ley permitía aplazar hasta dos años el pago de la ayuda por cuidados familiares: la reforma **elimina ese aplazamiento**. Muchas comunidades tardan más: si es tu caso, reclama por escrito. Si la persona está en una situación de **especial vulnerabilidad** (por ejemplo, aislada o sin recursos), el expediente debe tramitarse **de urgencia**.
 
 Si la situación **empeora o mejora**, se puede pedir la **revisión del grado** en cualquier momento ([artículo 30](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a30)).
 
@@ -147,7 +147,7 @@ Depende del grado, del tipo de ayuda y de tu capacidad económica. En 2026, como
 
 ### ¿Cuánto tarda la dependencia?
 
-La ley fija un máximo de seis meses desde la solicitud hasta la resolución de la prestación y, desde el 23 de octubre de 2026, tres meses para resolver el procedimiento, pero en muchas comunidades se tarda más. Si se superan los seis meses, el derecho se genera igualmente desde el fin de ese plazo.
+La ley fija un máximo de tres meses desde la solicitud hasta la resolución de la prestación (seis hasta el 11 de noviembre de 2026), pero en muchas comunidades se tarda más. Si se superan los tres meses, el derecho se genera igualmente desde el fin de ese plazo.
 
 ### ¿Un familiar puede cobrar por cuidar a una persona dependiente?
 
@@ -184,4 +184,4 @@ Sí. Si la situación empeora o mejora, o si hubo un error en la valoración, se
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): teleasistencia, compatibilidades, cuidados familiares, plazos, copago, equivalencia con la discapacidad y nuevos servicios; preguntas frecuentes al día con la reforma. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): teleasistencia, compatibilidades, cuidados familiares, plazos, copago, equivalencia con la discapacidad y nuevos servicios; preguntas frecuentes al día con la reforma. 28 de septiembre de 2026, primera versión.*

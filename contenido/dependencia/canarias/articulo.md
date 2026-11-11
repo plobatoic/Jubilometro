@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Dependencia en Canarias 2026: solicitud, plazos y ayudas"
 h1: "Dependencia en Canarias: cómo se pide, cuánto tarda y qué ayudas se dan en 2026"
-meta_descripcion: "En Canarias la dependencia se pide con un informe de salud oficial, en la sede del Gobierno o en registros. Si no contestan en 6 meses, se entiende concedida."
+meta_descripcion: "En Canarias la dependencia se pide con un informe de salud oficial, en la sede del Gobierno o en registros. Si no contestan a tiempo, se entiende concedida."
 url: /dependencia/canarias/
 categoria: Dependencia
 miga: Dependencia en Canarias
@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "ayuda dependencia canarias"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -31,7 +31,7 @@ fuentes_legales:
 >
 > En Canarias, la dependencia se pide con la solicitud oficial, un **informe de salud en el modelo del anexo II** firmado por un médico del Servicio Canario de la Salud (o de tu mutualidad), el **certificado de empadronamiento** y los de residencia en España. Se presenta **por internet** en la sede electrónica del Gobierno de Canarias o **en persona** en cualquier registro. La resuelve la **Dirección General de Dependencia**.
 >
-> El Gobierno tiene **seis meses** para resolver y, a diferencia de otras comunidades, si no contesta la solicitud se entiende **concedida** (silencio positivo). Según el Imserso, la media real fue de **214 días** desde la solicitud hasta la prestación, frente a 293 en España.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** (antes, seis) para resolver y, a diferencia de otras comunidades, si no contesta la solicitud se entiende **concedida** (silencio positivo). Según el Imserso, la media real fue de **214 días** desde la solicitud hasta la prestación, frente a 293 en España.
 
 ## Quién puede pedirla
 
@@ -63,7 +63,7 @@ El procedimiento lo regula el **Decreto 46/2025** del Gobierno de Canarias, junt
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3).
 
-**Qué significa el silencio positivo**: si pasan seis meses sin resolución, la ficha oficial del trámite indica que el silencio es **estimatorio**, es decir, a tu favor. Guarda el justificante de tu solicitud con la fecha. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+**Qué significa el silencio positivo**: si pasa el plazo sin resolución (la ficha oficial del trámite todavía habla de seis meses; la ley estatal da tres desde el 12 de noviembre de 2026), la ficha indica que el silencio es **estimatorio**, es decir, a tu favor. Guarda el justificante de tu solicitud con la fecha. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en Canarias
 
@@ -113,9 +113,9 @@ Por internet en la sede electrónica del Gobierno de Canarias, con certificado d
 
 El informe de salud en el modelo del anexo II, firmado por un médico del Sistema Nacional de Salud, de tu mutualidad (MUFACE, MUGEJU, ISFAS o ISM) o de un centro sociosanitario público de Canarias.
 
-### ¿Qué pasa si no me contestan en seis meses?
+### ¿Qué pasa si no me contestan a tiempo?
 
-En Canarias el silencio es estimatorio: según la ficha oficial del trámite, si no hay resolución en seis meses la solicitud se entiende concedida.
+En Canarias el silencio es estimatorio: según la ficha oficial del trámite, si no hay resolución en plazo la solicitud se entiende concedida. La ficha habla de seis meses; la ley estatal da como máximo tres desde el 12 de noviembre de 2026.
 
 ### ¿Cuánto tarda la dependencia en Canarias?
 
@@ -144,4 +144,4 @@ Con el trámite de revisión del grado de dependencia de la misma sede electrón
 
 *Este artículo es informativo y no sustituye la información del Gobierno de Canarias, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026, cuantías máximas propias de Canarias (Decretos-leyes 3/2023 y 2/2026) y compatibilidad de la ayuda a domicilio; la excepción del grado I y medias por fases aclaradas. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026, cuantías máximas propias de Canarias (Decretos-leyes 3/2023 y 2/2026) y compatibilidad de la ayuda a domicilio; la excepción del grado I y medias por fases aclaradas. 5 de octubre de 2026, primera versión.*

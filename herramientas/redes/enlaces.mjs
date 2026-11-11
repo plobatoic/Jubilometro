@@ -48,8 +48,10 @@ const reels = REELS.map((r) => {
   if (!v) throw new Error(`Reel sin vídeo en el calendario: ${r.archivo}`);
   return { id: `reel-${r.archivo}`, red: 'instagram', fecha: r.fecha, hora: r.hora, fuente: v.fuente, diapositivas: [v.titulo] };
 });
+// Fechas reales de Instagram cuando se movieron en Metricool (publicacion/redes/programado/fechas-instagram.json)
+const FECHAS_IG = JSON.parse(readFileSync(join(RAIZ, 'publicacion', 'redes', 'programado', 'fechas-instagram.json'), 'utf8'));
 const vistos = new Set();
-const recientes = [...PUBLICACIONES, ...reels]
+const recientes = [...PUBLICACIONES.map((p) => (p.red === 'instagram' && FECHAS_IG[p.id] ? { ...p, fecha: FECHAS_IG[p.id] } : p)), ...reels]
   .filter((p) => p.red === 'instagram' && p.fecha <= HOY && p.fuente && p.fuente !== '/')
   .sort((a, b) => `${b.fecha} ${b.hora}`.localeCompare(`${a.fecha} ${a.hora}`))
   .filter((p) => !vistos.has(p.fuente) && vistos.add(p.fuente))

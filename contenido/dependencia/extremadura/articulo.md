@@ -12,7 +12,7 @@ palabras_clave_secundarias:
   - "ayuda dependencia extremadura"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -30,7 +30,7 @@ fuentes_legales:
 >
 > En Extremadura, la dependencia la reconoce el **Servicio Extremeño de Promoción de la Autonomía y Atención a la Dependencia (SEPAD)**. Se pide con la **solicitud del anexo I**, por internet o en persona en una oficina de la Junta, y es el único documento obligatorio: si **autorizas la consulta**, la Junta obtiene por su cuenta tu informe de salud, tu padrón y tus datos económicos.
 >
-> El SEPAD tiene **seis meses** para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **277 días** desde la solicitud hasta la prestación, frente a 293 en España.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** (antes, seis) para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **277 días** desde la solicitud hasta la prestación, frente a 293 en España.
 
 ## Quién puede pedirla
 
@@ -67,7 +67,7 @@ Contra la resolución cabe **reclamación previa** a la vía judicial social en 
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). El grado llega antes que en el conjunto de España, pero el paso a la prestación tarda más del doble.
 
-Si pasan seis meses sin respuesta, la solicitud se entiende desestimada, pero puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+Si pasa el plazo sin respuesta, la solicitud se entiende desestimada, pero puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Cuánto se cobra
 
@@ -115,7 +115,7 @@ Solo si no autorizas que la Junta consulte tus datos. Si lo autorizas en la soli
 
 ### ¿Cuánto tarda la dependencia en Extremadura?
 
-El SEPAD tiene seis meses para resolver. Según el Imserso, la media fue de 277 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
+Desde el 12 de noviembre de 2026, la ley estatal da como máximo tres meses para resolver (antes, seis). Según el Imserso, la media fue de 277 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
 
 ### ¿Cuánto se cobra por cuidar a un familiar en Extremadura?
 
@@ -142,4 +142,4 @@ Antes del 30 de septiembre, actualizar tu declaración de la renta, la del patri
 
 *Este artículo es informativo y no sustituye la información de la Junta de Extremadura, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 2 de noviembre de 2026, quitado el enlace a la web del SEPAD, que ya no existe (la ficha oficial del trámite sigue enlazada). 20 de octubre de 2026, grado III+ y ayudas a personas con ELA (Decreto-ley 2/2026 de Extremadura) y cuantía máxima con capacidad económica baja y datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 2 de noviembre de 2026, quitado el enlace a la web del SEPAD, que ya no existe (la ficha oficial del trámite sigue enlazada). 20 de octubre de 2026, grado III+ y ayudas a personas con ELA (Decreto-ley 2/2026 de Extremadura) y cuantía máxima con capacidad económica baja y datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

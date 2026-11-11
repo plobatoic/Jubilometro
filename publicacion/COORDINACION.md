@@ -4,7 +4,7 @@ Lo pidió el titular el 10/11/2026: «estoy gestionando la web con cada una una 
 
 | Conversación | Rama | Se encarga de |
 |---|---|---|
-| Revisión web y actualización blog (session_01MKVEEroLSxN4Zbyrnb7Sh7) | `claude/keen-mccarthy-i7kn75` | Revisión diaria de la web y su informe (8:57), guías y cifras, tema, BOE, programas electorales, página /enlaces/. Redes: Facebook a las 11:00, carruseles de Instagram a las 19:00 (lunes, miércoles y viernes), Shorts sin voz a las 13:00 (lunes, miércoles y viernes), Reels sin voz a las 13:00 (martes, jueves y sábados) y X en Typefully con el calendario del banco |
+| Revisión web y actualización blog (session_01MKVEEroLSxN4Zbyrnb7Sh7) | `claude/keen-mccarthy-i7kn75` | Revisión diaria de la web y su informe (8:57), guías y cifras, tema, BOE, programas electorales, página /enlaces/. Redes: Facebook a diario a las 11:00, carruseles de Instagram a las 19:00, Shorts y Reels sin voz a las 13:00 (desde el 10/11 Instagram y YouTube van en días alternos, a petición de Pau: antes de programar, mirar qué días están libres) y X en Typefully con el calendario del banco |
 | Mejores reels semanales (session_01KzuJZD4D6R2fz968RLVGjb) | `claude/eager-dijkstra-b175sb` | Reels con voz en Instagram, Facebook, YouTube y X (martes y jueves a las 20:43, domingos a las 12:24) y sus versiones para X |
 | Estadísticas de la web (session_01KzuJZDJMemstDB6n9A1a5r) | la suya | Estadísticas, Search Console, Bing y analítica |
 
@@ -20,4 +20,5 @@ Lo pidió el titular el 10/11/2026: «estoy gestionando la web con cada una una 
 
 ## Choques abiertos
 
-- **10/11/2026:** en Metricool ya no aparecen el Reel de Instagram del SOVI del 10/11 a las 13:00 (id 417454305, de la revisión) ni el reel con voz «Naciste en 1960» del 10/11 a las 20:43. Además, el Reel del auxilio de Instagram (antes 417454422, de la revisión) ha pasado del 12/11 al 13/11 y el Short del auxilio, del 11/11 al 13/11. Pendiente: que la conversación de los reels confirme si fue ella y lo apunte en su CALENDARIO.md.
+- **Resuelto el 11/11/2026.** La conversación de los reels lo explicó en su CALENDARIO.md (commit 01bdc9c): lo movió ella a petición de Pau (6/11: «Instagram y YouTube cada dos días, Facebook y X diarios»; 10/11: «reels en Instagram y YouTube día sí, día no»). No se perdió nada, solo cambió de fecha. La revisión adapta su registro, `reels.mjs` y la página /enlaces/ (con `publicacion/redes/programado/fechas-instagram.json`). Además, la revisión movió las dos publicaciones de Facebook que se le habían duplicado a las 11:00 por el reparto: «Incapacidad total cualificada» del 21/11 al 18/11 (id 424115415) y «Plan de pensiones» del 23/11 al 24/11 (id 424115462).
+- *Texto original del choque:* en Metricool ya no aparecen el Reel de Instagram del SOVI del 10/11 a las 13:00 (id 417454305, de la revisión) ni el reel con voz «Naciste en 1960» del 10/11 a las 20:43. Además, el Reel del auxilio de Instagram (antes 417454422, de la revisión) ha pasado del 12/11 al 13/11 y el Short del auxilio, del 11/11 al 13/11. Pendiente: que la conversación de los reels confirme si fue ella y lo apunte en su CALENDARIO.md.

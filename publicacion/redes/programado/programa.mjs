@@ -414,7 +414,7 @@ export const PUBLICACIONES = [
   "red": "facebook",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/ley-dependencia/",
-  "texto": "La ley de dependencia protege a quien necesita ayuda de otra persona para lo básico del día a día: comer, asearse, vestirse o moverse por casa.\n\nDespués de una valoración en el domicilio, la comunidad autónoma reconoce un grado (I, II o III) y, con él, un servicio: teleasistencia, ayuda a domicilio, centro de día o residencia. Si no hay plaza pública, da una ayuda económica para pagarlo.\n\nLas ayudas llegan a 747,25 euros al mes para pagar un servicio privado y a 455,40 euros si te cuida un familiar, en el grado III. La Administración tiene seis meses para resolver, y se pide en los servicios sociales de tu ayuntamiento o de tu comunidad.\n\n¿Lo habéis pedido ya en casa? Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
+  "texto": "La ley de dependencia protege a quien necesita ayuda de otra persona para lo básico del día a día: comer, asearse, vestirse o moverse por casa.\n\nDespués de una valoración en el domicilio, la comunidad autónoma reconoce un grado (I, II o III) y, con él, un servicio: teleasistencia, ayuda a domicilio, centro de día o residencia. Si no hay plaza pública, da una ayuda económica para pagarlo.\n\nLas ayudas llegan a 747,25 euros al mes para pagar un servicio privado y a 455,40 euros si te cuida un familiar, en el grado III. La Administración tiene tres meses para resolver, y se pide en los servicios sociales de tu ayuntamiento o de tu comunidad.\n\n¿Lo habéis pedido ya en casa? Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "imagenLista": "publicacion/redes/banco/cifras/ley-dependencia-fb.png",
   "fecha": "2026-11-14",
   "hora": "11:00"
@@ -1884,7 +1884,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/asturias/",
-  "texto": "Dependencia en Asturias: si el Principado no resuelve en seis meses, la solicitud se entiende concedida. Aun así, la media real fue de 413 días desde la solicitud hasta la prestación, la segunda más larga de España (293 de media).\n\njubilometro.com/dependencia-asturias/x",
+  "texto": "Dependencia en Asturias: si el Principado no resuelve en plazo, la solicitud se entiende concedida. Aun así, la media real fue de 413 días desde la solicitud hasta la prestación, la segunda más larga de España (293 de media).\n\njubilometro.com/dependencia-asturias/x",
   "fecha": "2026-12-28",
   "hora": "13:30"
  },
@@ -2103,7 +2103,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/canarias/",
-  "texto": "Dependencia en Canarias: si el Gobierno no contesta en seis meses, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 214 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-canarias/x",
+  "texto": "Dependencia en Canarias: si el Gobierno no contesta en plazo, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 214 días desde la solicitud hasta la prestación (293 en España).\n\njubilometro.com/dependencia-canarias/x",
   "fecha": "2027-01-04",
   "hora": "09:00"
  },
@@ -2112,7 +2112,7 @@ export const PUBLICACIONES = [
   "red": "facebook",
   "pilar": "Trámites sin líos",
   "fuente": "/dependencia/solicitar-dependencia/",
-  "texto": "Cómo se pide la dependencia para un familiar, paso a paso.\n\n1. La solicitud se presenta en los servicios sociales de tu comunidad autónoma, por internet o en persona. Los servicios sociales del ayuntamiento suelen ayudar a rellenarla.\n2. Hace falta, sobre todo, el DNI y un informe de salud en el modelo oficial, que hace el médico. Según la comunidad, también el empadronamiento, un informe social y datos económicos.\n3. Un profesional visita a la persona en su casa y aplica el baremo oficial.\n4. La comunidad reconoce el grado y, con el plan de atención, el servicio o la ayuda económica que le corresponde.\n\nTodo el proceso debe resolverse en seis meses, y pedirlo es gratis. Cuanto antes se presente, antes empieza a contar el plazo. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
+  "texto": "Cómo se pide la dependencia para un familiar, paso a paso.\n\n1. La solicitud se presenta en los servicios sociales de tu comunidad autónoma, por internet o en persona. Los servicios sociales del ayuntamiento suelen ayudar a rellenarla.\n2. Hace falta, sobre todo, el DNI y un informe de salud en el modelo oficial, que hace el médico. Según la comunidad, también el empadronamiento, un informe social y datos económicos.\n3. Un profesional visita a la persona en su casa y aplica el baremo oficial.\n4. La comunidad reconoce el grado y, con el plan de atención, el servicio o la ayuda económica que le corresponde.\n\nTodo el proceso debe resolverse en tres meses, y pedirlo es gratis. Cuanto antes se presente, antes empieza a contar el plazo. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "fecha": "2027-01-04",
   "hora": "11:00"
  },
@@ -2256,7 +2256,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/castilla-la-mancha/",
-  "texto": "Dependencia en Castilla-La Mancha: la Junta tiene seis meses para resolver, que se quedan en tres si tienes más de 90 años. El informe de salud lo hace tu médico de atención primaria. Media real: 166 días hasta la prestación (293 en España).\n\njubilometro.com/dependencia-castilla-la-mancha/x",
+  "texto": "Dependencia en Castilla-La Mancha: desde el 12 de noviembre de 2026 hay como máximo tres meses para resolver. El informe de salud lo hace tu médico de atención primaria. Media real: 166 días hasta la prestación (293 en España).\n\njubilometro.com/dependencia-castilla-la-mancha/x",
   "fecha": "2027-01-08",
   "hora": "09:00"
  },
@@ -2351,7 +2351,7 @@ export const PUBLICACIONES = [
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
   "fuente": "/dependencia/reclamar-dependencia/",
-  "texto": "Pidieron la dependencia para su madre hace un año y siguen sin respuesta. Es una situación muy frecuente, y hay forma de moverla.\n\nLa Administración tiene seis meses desde la solicitud para reconocer el grado y la ayuda. Si se pasa, el derecho empieza a contar igualmente desde el final de esos seis meses, y se puede reclamar: primero con un escrito pidiendo que resuelvan, después con un recurso y, si hace falta, con una queja al Defensor del Pueblo o ante los tribunales.\n\nSi ya hay resolución pero no estáis de acuerdo con el grado o con la ayuda, se puede recurrir, normalmente en un mes. La propia resolución dice qué recurso cabe y ante quién.\n\nY si la persona empeora, no hace falta recurrir: se pide la revisión del grado. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
+  "texto": "Pidieron la dependencia para su madre hace un año y siguen sin respuesta. Es una situación muy frecuente, y hay forma de moverla.\n\nLa Administración tiene tres meses desde la solicitud para reconocer el grado y la ayuda. Si se pasa, el derecho empieza a contar igualmente desde el final de esos tres meses, y se puede reclamar: primero con un escrito pidiendo que resuelvan, después con un recurso y, si hace falta, con una queja al Defensor del Pueblo o ante los tribunales.\n\nSi ya hay resolución pero no estáis de acuerdo con el grado o con la ayuda, se puede recurrir, normalmente en un mes. La propia resolución dice qué recurso cabe y ante quién.\n\nY si la persona empeora, no hace falta recurrir: se pide la revisión del grado. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "fecha": "2027-01-11",
   "hora": "11:00"
  },
@@ -2372,12 +2372,12 @@ export const PUBLICACIONES = [
   "fuente": "/dependencia/tiempos-dependencia/",
   "diapositivas": [
    "¿Cuánto tarda la dependencia en tu comunidad? Los datos reales del Imserso.",
-   "España: 293 días de media de la solicitud a la prestación, aunque la ley da seis meses.",
+   "España: 293 días de media de la solicitud a la prestación, aunque la ley da tres meses.",
    "Las más rápidas: Aragón, 109 días; Castilla y León, 120; La Rioja y País Vasco, 130.",
    "Por debajo de la media: Castilla-La Mancha, 166; Cantabria, 169; Baleares, 188; Canarias, 214; Navarra, 228.",
    "Cerca de la media: Cataluña, 261; Extremadura, 277; Comunitat Valenciana, 297; Galicia, 307.",
    "Las más lentas: Madrid, 327; Andalucía, 402; Asturias, 413; Región de Murcia, 529.",
-   "Si pasan seis meses sin resolución, tu derecho empieza a contar desde entonces.",
+   "Si pasan tres meses sin resolución, tu derecho empieza a contar desde entonces.",
    "Guárdalo y mira la guía de tu comunidad en Jubilómetro (enlace en la biografía)."
   ],
   "texto": "De 109 días en Aragón a 529 en la Región de Murcia: lo que tarda de verdad la dependencia en cada comunidad. Guías por comunidad en la biografía.\n\n#dependencia #mayores #cuidados #imserso",
@@ -2466,7 +2466,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/comunitat-valenciana/",
-  "texto": "Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.\n\njubilometro.com/dependencia-comunitat-valenciana/x",
+  "texto": "Dependencia en la Comunitat Valenciana: si pasa el plazo sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.\n\njubilometro.com/dependencia-comunitat-valenciana/x",
   "fecha": "2027-01-14",
   "hora": "09:00"
  },
@@ -2626,7 +2626,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Calcula tu caso",
   "fuente": "/dependencia/murcia/",
-  "texto": "Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.\n\njubilometro.com/dependencia-murcia/x",
+  "texto": "Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasa el plazo sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.\n\njubilometro.com/dependencia-murcia/x",
   "fecha": "2027-01-19",
   "hora": "09:00"
  },
@@ -2777,7 +2777,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "pilar": "Errores que cuestan dinero",
   "fuente": "/dependencia/reclamar-dependencia/",
-  "texto": "Si la dependencia no se resuelve en seis meses, tu derecho empieza a contar igualmente desde ese día y puedes reclamar. Y si la persona empeora, no hace falta recurrir: se pide la revisión del grado en cualquier momento.\n\njubilometro.com/reclamar-dependencia/x",
+  "texto": "Si la dependencia no se resuelve en tres meses, tu derecho empieza a contar igualmente desde ese día y puedes reclamar. Y si la persona empeora, no hace falta recurrir: se pide la revisión del grado en cualquier momento.\n\njubilometro.com/reclamar-dependencia/x",
   "fecha": "2027-01-23",
   "hora": "10:00"
  },

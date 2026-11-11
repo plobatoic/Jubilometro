@@ -94,3 +94,15 @@ Cifras comprobadas con `comprobar-cifras.mjs` (todas en su guía); vídeos repas
 | 2026-11-23 | 11:00 | Facebook | plan-pensiones-fb | 421477231 |
 | 2026-11-23 | 13:00 | YouTube | video-29-vender-casa | 421477573 |
 | 2026-11-23 | 19:00 | Instagram | viajes-imserso-ig | 421477477 |
+
+## Cambios de fecha del 6 y el 10/11/2026 (conversación de los reels, a petición de Pau) y del 11/11 (revisión)
+
+La conversación de los reels movió muchas publicaciones de esta lista para dejar Instagram y YouTube en días alternos y Facebook y X diarios. Todos los ids nuevos y las fechas están en `redes/reels/semana-01/CALENDARIO.md` de la rama `claude/eager-dijkstra-b175sb` (commit 01bdc9c). Resumen de lo de la revisión en Instagram: Reel del SOVI 27/11 (423067405), Reel del auxilio 13/11 (423067042), Reel de la baja 17/11 (423067097), Reel del SMS 19/11 (423067170), Reel de teleasistencia 21/11 (423067238), Reel de la Tarjeta Dorada 25/11 (423067325); carruseles de viudedad 14/11, PNC 18/11, viajes del Imserso 24/11, baja 26/11 y renta 30/11.
+
+Cambios de la revisión el 11/11:
+
+| Fecha | Hora | Red | Publicación | Id nuevo | Cambio |
+|---|---|---|---|---|---|
+| 2026-11-21 | 11:00 | Facebook | ley-dependencia-fb | 424115264 | Texto: «tres meses para resolver» (Real Decreto-ley 36/2026) |
+| 2026-11-18 | 11:00 | Facebook | mes1-63 (incapacidad total cualificada) | 424115415 | Del 21/11 al 18/11: el 21 ya había otra a las 11:00 |
+| 2026-11-24 | 11:00 | Facebook | plan-pensiones-fb | 424115462 | Del 23/11 al 24/11: el 23 ya había otra a las 11:00 |

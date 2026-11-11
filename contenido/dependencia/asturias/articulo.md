@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Dependencia en Asturias 2026: solicitud, plazos y ayudas"
 h1: "Dependencia en Asturias: cómo se pide, cuánto tarda y qué ayudas se dan en 2026"
-meta_descripcion: "En Asturias la dependencia se pide con un informe de salud de menos de 6 meses. Si no resuelven en 6 meses, se entiende concedida. Pasos, plazos y ayudas."
+meta_descripcion: "En Asturias la dependencia se pide con un informe de salud de menos de 6 meses. Si no resuelven a tiempo, se entiende concedida. Pasos, plazos y ayudas."
 url: /dependencia/asturias/
 categoria: Dependencia
 miga: Dependencia en Asturias
@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "dependencia asturias grados"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -32,7 +32,7 @@ fuentes_legales:
 >
 > En Asturias, la dependencia se pide a la **Consejería de Derechos Sociales y Bienestar** con el formulario oficial (trámite **PSPM0006T01**) y un **informe de salud de menos de seis meses** firmado por un profesional de la sanidad pública o de tu mutualidad. Se presenta en persona en una oficina de atención a la ciudadanía o un registro, o por la **sede electrónica** del Principado. Los **servicios sociales de tu concejo** te informan y te ayudan a rellenarla.
 >
-> El Principado tiene **seis meses** para resolver y, si no lo hace, la solicitud se entiende **concedida** (silencio positivo). Aun así, según el Imserso, la media real fue de **413 días** desde la solicitud hasta la prestación, la segunda más larga de España.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** (antes, seis) para resolver y, si no lo hace, la solicitud se entiende **concedida** (silencio positivo). Aun así, según el Imserso, la media real fue de **413 días** desde la solicitud hasta la prestación, la segunda más larga de España.
 
 ## Quién puede pedirla
 
@@ -64,7 +64,7 @@ El procedimiento lo regula el **Decreto 4/2023**, publicado en el Boletín Ofici
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Asturias es la segunda comunidad que más tarda, solo por detrás de la Región de Murcia (529 días).
 
-**El silencio es positivo**: el artículo 20.3 del Decreto 4/2023 dice que, si se supera el plazo de seis meses sin resolver y notificar, el silencio se entiende **estimatorio**, es decir, a tu favor. Conserva el justificante de presentación con la fecha. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+**El silencio es positivo**: el artículo 20.3 del Decreto 4/2023 dice que, si se supera el plazo sin resolver y notificar (seis meses en el decreto; la ley estatal da tres desde el 12 de noviembre de 2026), el silencio se entiende **estimatorio**, es decir, a tu favor. Conserva el justificante de presentación con la fecha. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en Asturias
 
@@ -96,9 +96,9 @@ En las oficinas de atención a la ciudadanía del Principado, en cualquier regis
 
 Un informe sobre tus condiciones de salud firmado como mucho seis meses antes por un profesional del sistema público de salud, de tu mutualidad o del sistema público de servicios sociales.
 
-### ¿Qué pasa si no me contestan en seis meses?
+### ¿Qué pasa si no me contestan a tiempo?
 
-En Asturias el silencio es estimatorio: si el Principado no resuelve y notifica en seis meses, la solicitud se entiende concedida (Decreto 4/2023, artículo 20).
+En Asturias el silencio es estimatorio: si el Principado no resuelve y notifica en plazo, la solicitud se entiende concedida (Decreto 4/2023, artículo 20). El decreto habla de seis meses; la ley estatal da como máximo tres desde el 12 de noviembre de 2026.
 
 ### ¿Cuánto tarda la dependencia en Asturias?
 
@@ -126,4 +126,4 @@ Con el mismo formulario oficial y un informe de salud que muestre que has mejora
 
 *Este artículo es informativo y no sustituye la información del Principado de Asturias, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; plazo más claro. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; plazo más claro. 5 de octubre de 2026, primera versión.*

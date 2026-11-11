@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Dependencia en Castilla-La Mancha 2026: solicitud y plazos"
 h1: "Dependencia en Castilla-La Mancha: cómo se pide, cuánto tarda y qué ayudas se dan en 2026"
-meta_descripcion: "En Castilla-La Mancha la dependencia se pide con un informe de tu médico de cabecera. Plazo: 6 meses (3 si tienes más de 90 años). Pasos, teléfonos y ayudas."
+meta_descripcion: "En Castilla-La Mancha la dependencia se pide con un informe de tu médico de cabecera. Plazo legal: 3 meses desde el 12/11/2026. Pasos, teléfonos y ayudas."
 url: /dependencia/castilla-la-mancha/
 categoria: Dependencia
 miga: Dependencia en Castilla-La Mancha
@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "ayudas dependencia castilla la mancha"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -32,7 +32,7 @@ fuentes_legales:
 >
 > En Castilla-La Mancha, la dependencia se pide con la solicitud oficial y un **informe de salud que hace tu médico de atención primaria**. Se presenta en la **Delegación Provincial de Bienestar Social**, en cualquier registro o por la **sede electrónica** de la Junta, y los **servicios sociales de tu localidad** te ayudan a rellenarla. Después, un profesional va a tu casa a valorarte.
 >
-> La Junta tiene **seis meses** para resolver, que se quedan en **tres meses** si tienes **más de 90 años** o si es un menor de 6 años. Si no contesta a tiempo, se entiende **denegada**. Según el Imserso, la media real fue de **166 días** desde la solicitud hasta la prestación, frente a 293 en España.
+> La Junta tenía **seis meses** para resolver (**tres** si tienes **más de 90 años** o si es un menor de 6 años); desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** para todos. Si no contesta a tiempo, se entiende **denegada**. Según el Imserso, la media real fue de **166 días** desde la solicitud hasta la prestación, frente a 293 en España.
 
 ## Quién puede pedirla
 
@@ -105,9 +105,9 @@ La solicitud con sus declaraciones responsables y el informe de salud de tu méd
 
 ### ¿Cuánto tarda la dependencia en Castilla-La Mancha?
 
-La Junta tiene seis meses para resolver, y tres meses si tienes más de 90 años o es un menor de 6 años. Según el Imserso, la media fue de 166 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
+Desde el 12 de noviembre de 2026, la ley estatal da como máximo tres meses para resolver en todos los casos (antes, seis, y tres para mayores de 90 años y menores de 6). Según el Imserso, la media fue de 166 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
 
-### ¿Qué pasa si no me contestan en seis meses?
+### ¿Qué pasa si no me contestan a tiempo?
 
 La solicitud se entiende desestimada por silencio administrativo. Puedes recurrir, y la Junta sigue obligada a resolver.
 
@@ -133,4 +133,4 @@ Dos: la primera reconoce tu grado de dependencia y la segunda, tu Programa Indiv
 
 *Este artículo es informativo y no sustituye la información de la Junta de Comunidades de Castilla-La Mancha, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; comparación precisada. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; comparación precisada. 5 de octubre de 2026, primera versión.*

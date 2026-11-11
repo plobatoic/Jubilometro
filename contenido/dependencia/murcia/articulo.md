@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "ley dependencia murcia"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -32,7 +32,7 @@ fuentes_legales:
 >
 > En la Región de Murcia, la dependencia se pide al **Instituto Murciano de Acción Social (IMAS)** con el **procedimiento 7402**, en persona en un registro o por la **sede electrónica** de la CARM. Necesitas el **certificado histórico de empadronamiento**, el **informe de salud** en el modelo oficial de tu centro de salud y el justificante de pago de la **tasa T-172**, de la que están **exentas** las familias con ingresos bajos.
 >
-> El IMAS tiene **seis meses** para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **529 días** desde la solicitud hasta la prestación, la más larga de España (293 de media).
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** (antes, seis) para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **529 días** desde la solicitud hasta la prestación, la más larga de España (293 de media).
 
 ## Quién puede pedirla
 
@@ -78,7 +78,7 @@ Contra la resolución se puede presentar una **reclamación previa** ante la dir
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Murcia es la comunidad que **más tarda** de toda España, por delante de Asturias (413 días) y Andalucía (402). En su carta de servicios, la consejería se compromete a resolver el 90 % de las **valoraciones** en tres meses y todas en cuatro, sin contar los retrasos ajenos a la Administración, pero la espera hasta la **prestación** es mucho mayor.
 
-Si pasan los seis meses sin respuesta, la solicitud se entiende desestimada, pero puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+Si pasa el plazo sin respuesta, la solicitud se entiende desestimada, pero puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en la Región de Murcia
 
@@ -116,7 +116,7 @@ El informe sobre las condiciones de salud en el modelo oficial, que hace un prof
 
 ### ¿Cuánto tarda la dependencia en Murcia?
 
-El plazo legal es de seis meses, pero según el Imserso la media real fue de 529 días desde la solicitud hasta la prestación (datos a septiembre de 2026), la más larga de España.
+El plazo legal es de tres meses desde el 12 de noviembre de 2026 (antes, seis), pero según el Imserso la media real fue de 529 días desde la solicitud hasta la prestación (datos a septiembre de 2026), la más larga de España.
 
 ### ¿Cómo consigo el certificado de mi grado de dependencia?
 
@@ -140,4 +140,4 @@ Al momento, en persona en una oficina del IMAS o de atención al ciudadano de la
 
 *Este artículo es informativo y no sustituye la información de la Comunidad Autónoma de la Región de Murcia, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

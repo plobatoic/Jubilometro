@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "icass dependencia cantabria"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -32,7 +32,7 @@ fuentes_legales:
 >
 > En Cantabria, la dependencia se pide al **Instituto Cántabro de Servicios Sociales (ICASS)** con la solicitud oficial (anexo I), tu DNI, el **certificado de empadronamiento** y un **informe sobre tus condiciones de salud** en el modelo oficial, firmado por un médico de la sanidad pública. Los impresos se recogen en tu **centro de salud** o en los **servicios sociales de tu ayuntamiento**, donde también te asesoran.
 >
-> El ICASS tiene **seis meses** para resolver el grado y tus ayudas. Según el Imserso, la media real fue de **169 días** desde la solicitud hasta la prestación, frente a 293 en España.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** para resolver el grado y tus ayudas (antes, seis). Según el Imserso, la media real fue de **169 días** desde la solicitud hasta la prestación, frente a 293 en España.
 
 ## Quién puede pedirla
 
@@ -64,7 +64,7 @@ El procedimiento lo regula la **Orden UMA/47/2019** del Gobierno de Cantabria. S
 | De la solicitud a la prestación | 169 días | 293 días |
 | Personas esperando seis meses o más | 311 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Cantabria es de las pocas comunidades que, de media, resuelven dentro de los seis meses que marca la ley.
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Cantabria es de las pocas comunidades que, de media, resuelven dentro de los seis meses que marcaba hasta el 11 de noviembre de 2026 la ley.
 
 Si tu caso se retrasa, mira [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y [cómo reclamar](/dependencia/reclamar-dependencia/).
 
@@ -99,7 +99,7 @@ El informe sobre las condiciones de salud en el modelo oficial (anexo II), firma
 
 ### ¿Cuánto tarda la dependencia en Cantabria?
 
-El ICASS tiene seis meses para resolver. Según el Imserso, la media fue de 169 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
+Desde el 12 de noviembre de 2026, la ley estatal da como máximo tres meses para resolver (antes, seis). Según el Imserso, la media fue de 169 días desde la solicitud hasta la prestación (datos a septiembre de 2026).
 
 ### Tengo la gran invalidez, ¿tengo que pedir la valoración desde cero?
 
@@ -126,4 +126,4 @@ Si no aceptas expresamente el servicio o la prestación que te proponen, el ICAS
 
 *Este artículo es informativo y no sustituye la información del Gobierno de Cantabria, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 5 de octubre de 2026, primera versión.*

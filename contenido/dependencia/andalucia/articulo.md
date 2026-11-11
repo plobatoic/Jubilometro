@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "dependencia andalucia grados"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 63)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -64,7 +64,7 @@ Para dudas: teléfono **012** o **955 012 012**.
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). En Andalucía el grado y el PIA se resuelven casi siempre juntos, por eso el segundo tramo es corto. La Junta indica que el plazo es menor en casos de **urgencia**, en **menores de 6 años** y en personas con **ELA**.
 
-La ley da seis meses como máximo para resolver, y tu derecho nace, como tarde, al cumplirse ese plazo. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
+La ley da tres meses como máximo para resolver (seis hasta el 11 de noviembre de 2026), y tu derecho nace, como tarde, al cumplirse ese plazo. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
 ## Qué ayudas se dan en Andalucía
 
@@ -104,7 +104,7 @@ La ayuda a domicilio (36,80 % de las prestaciones) y la teleasistencia (35,41 %)
 
 ### ¿Qué hago si pasan meses sin respuesta?
 
-Guarda el justificante de la solicitud, pregunta por tu expediente en el 012 y, si pasan seis meses, presenta un escrito pidiendo que resuelvan. Tu derecho cuenta, como tarde, desde los seis meses.
+Guarda el justificante de la solicitud, pregunta por tu expediente en el 012 y, si pasan tres meses, presenta un escrito pidiendo que resuelvan. Tu derecho cuenta, como tarde, desde los tres meses.
 
 ## Fuentes oficiales
 
@@ -123,4 +123,4 @@ Guarda el justificante de la solicitud, pregunta por tu expediente en el 012 y, 
 
 *Este artículo es informativo y no sustituye la información de la Junta de Andalucía, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

@@ -15,19 +15,19 @@ export const DEPENDENCIA = [
   /* ---------- Una por comunidad ---------- */
   comunidad('andalucia', 'Andalucía', `Dependencia en Andalucía: se pide en el portal VED o en una oficina de registro con cita previa, con un informe de salud que suele hacer tu médico de cabecera. La Junta habla de un año; la media real fue de 402 días hasta la prestación.`),
   comunidad('aragon', 'Aragón', `Dependencia en Aragón: todo empieza con una llamada para pedir cita con la trabajadora social. Si autorizas que consulten tu historia clínica, no necesitas informe médico. Media real: 109 días hasta la prestación, la segunda más rápida de España.`),
-  comunidad('asturias', 'Asturias', `Dependencia en Asturias: si el Principado no resuelve en seis meses, la solicitud se entiende concedida. Aun así, la media real fue de 413 días desde la solicitud hasta la prestación, la segunda más larga de España (293 de media).`),
+  comunidad('asturias', 'Asturias', `Dependencia en Asturias: si el Principado no resuelve en plazo, la solicitud se entiende concedida. Aun así, la media real fue de 413 días desde la solicitud hasta la prestación, la segunda más larga de España (293 de media).`),
   comunidad('baleares', 'Baleares', `Dependencia en Baleares: se pide con la misma solicitud que la discapacidad, y si tus datos de salud están al día en el IB-Salut no hace falta informe médico. Media real: 188 días desde la solicitud hasta la prestación, frente a 293 en España.`),
-  comunidad('canarias', 'Canarias', `Dependencia en Canarias: si el Gobierno no contesta en seis meses, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 214 días desde la solicitud hasta la prestación (293 en España).`),
+  comunidad('canarias', 'Canarias', `Dependencia en Canarias: si el Gobierno no contesta en plazo, la solicitud se entiende concedida, algo que no pasa en la mayoría de las comunidades. Media real: 214 días desde la solicitud hasta la prestación (293 en España).`),
   comunidad('cantabria', 'Cantabria', `Dependencia en Cantabria: los impresos se recogen en tu centro de salud o en los servicios sociales de tu ayuntamiento, que te ayudan a rellenarlos. Lo resuelve el ICASS. Media real: 169 días desde la solicitud hasta la prestación, frente a 293 en España.`),
-  comunidad('castilla-la-mancha', 'Castilla-La Mancha', `Dependencia en Castilla-La Mancha: la Junta tiene seis meses para resolver, que se quedan en tres si tienes más de 90 años. El informe de salud lo hace tu médico de atención primaria. Media real: 166 días hasta la prestación (293 en España).`),
+  comunidad('castilla-la-mancha', 'Castilla-La Mancha', `Dependencia en Castilla-La Mancha: desde el 12 de noviembre de 2026 hay como máximo tres meses para resolver. El informe de salud lo hace tu médico de atención primaria. Media real: 166 días hasta la prestación (293 en España).`),
   comunidad('castilla-y-leon', 'Castilla y León', `Dependencia en Castilla y León: se pide en tu CEAS, y el grado y las ayudas se resuelven casi siempre a la vez. Por eso es de las más rápidas: 120 días de media desde la solicitud hasta la prestación, frente a 293 en España.`),
   comunidad('cataluna', 'Cataluña', `Dependencia en Cataluña: la media real fue de 198 días hasta el grado y 261 hasta la prestación, y es la comunidad con más personas esperando seis meses o más: 40.624. Se puede pedir en línea con idCAT Mòbil.`),
-  comunidad('comunitat-valenciana', 'Comunitat Valenciana', `Dependencia en la Comunitat Valenciana: si pasan seis meses sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.`),
+  comunidad('comunitat-valenciana', 'Comunitat Valenciana', `Dependencia en la Comunitat Valenciana: si pasa el plazo sin resolución, la solicitud se entiende estimada y la prestación se paga con atrasos, según la Generalitat. Se pide en los servicios sociales de tu ayuntamiento. Media real: 297 días.`),
   comunidad('extremadura', 'Extremadura', `Dependencia en Extremadura: la solicitud es el único papel obligatorio. Si autorizas la consulta, la Junta obtiene sola tu informe de salud, tu padrón y tus datos económicos. Media real: 277 días desde la solicitud hasta la prestación (293 en España).`),
   comunidad('galicia', 'Galicia', `Dependencia en Galicia: si te cuida un familiar en casa, puedes cobrar el Bono Cuidado en el Hogar, 5.000 € al año, sin importar tu renta ni tu grado. No hace falta informe médico: la Xunta consulta tu historia del Sergas. Media: 307 días.`),
   comunidad('la-rioja', 'La Rioja', `Dependencia en La Rioja: el informe de salud lo rellena tu médico de atención primaria, y la valoración la hace el Centro de Valoración de la Discapacidad y la Dependencia. Media real: 130 días hasta la prestación, de las más rápidas de España.`),
   comunidad('madrid', 'Comunidad de Madrid', `Dependencia en la Comunidad de Madrid: se pide por internet o en los servicios sociales de tu ayuntamiento o junta de distrito, con un informe de salud de menos de tres meses. Media real: 327 días desde la solicitud hasta la prestación (293 en España).`),
-  comunidad('murcia', 'Región de Murcia', `Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasan seis meses sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.`),
+  comunidad('murcia', 'Región de Murcia', `Dependencia en la Región de Murcia: la media real fue de 529 días desde la solicitud hasta la prestación, la más larga de España. Si pasa el plazo sin respuesta, tu derecho cuenta igualmente desde entonces y puedes reclamar.`),
   comunidad('navarra', 'Navarra', `Dependencia en Navarra: se empieza en tu servicio social de base (en Pamplona, la unidad de barrio), y la ley foral da tres meses para el grado. Media real: 146 días hasta el grado y 228 hasta la prestación, frente a 293 en España.`),
   comunidad('pais-vasco', 'País Vasco', `Dependencia en el País Vasco: la valora y la resuelve la diputación foral de tu territorio, y se empieza en los servicios sociales de base de tu ayuntamiento. Media real: 130 días hasta la prestación, de las más rápidas de España.`),
 
@@ -36,12 +36,12 @@ export const DEPENDENCIA = [
     id: 'espera-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/dependencia/tiempos-dependencia/',
     diapositivas: [
       '¿Cuánto tarda la dependencia en tu comunidad? Los datos reales del Imserso.',
-      'España: 293 días de media de la solicitud a la prestación, aunque la ley da seis meses.',
+      'España: 293 días de media de la solicitud a la prestación, aunque la ley da tres meses.',
       'Las más rápidas: Aragón, 109 días; Castilla y León, 120; La Rioja y País Vasco, 130.',
       'Por debajo de la media: Castilla-La Mancha, 166; Cantabria, 169; Baleares, 188; Canarias, 214; Navarra, 228.',
       'Cerca de la media: Cataluña, 261; Extremadura, 277; Comunitat Valenciana, 297; Galicia, 307.',
       'Las más lentas: Madrid, 327; Andalucía, 402; Asturias, 413; Región de Murcia, 529.',
-      'Si pasan seis meses sin resolución, tu derecho empieza a contar desde entonces.',
+      'Si pasan tres meses sin resolución, tu derecho empieza a contar desde entonces.',
       'Guárdalo y mira la guía de tu comunidad en Jubilómetro (enlace en la biografía).',
     ],
     texto: `De 109 días en Aragón a 529 en la Región de Murcia: lo que tarda de verdad la dependencia en cada comunidad. Guías por comunidad en la biografía.
@@ -63,17 +63,17 @@ ${L('pedir-dependencia', 'x')}`,
 3. Un profesional visita a la persona en su casa y aplica el baremo oficial.
 4. La comunidad reconoce el grado y, con el plan de atención, el servicio o la ayuda económica que le corresponde.
 
-Todo el proceso debe resolverse en seis meses, y pedirlo es gratis. Cuanto antes se presente, antes empieza a contar el plazo. ${FB_WEB}`,
+Todo el proceso debe resolverse en tres meses, y pedirlo es gratis. Cuanto antes se presente, antes empieza a contar el plazo. ${FB_WEB}`,
   },
   {
     id: 'pedir-dependencia-wa', red: 'whatsapp', pilar: 'Trámites sin líos', fuente: '/dependencia/solicitar-dependencia/',
-    texto: `Si un familiar empieza a necesitar ayuda para vestirse, asearse o moverse por casa, pedid la dependencia cuanto antes: el plazo de seis meses empieza a contar desde la solicitud, y pedirla es gratis.
+    texto: `Si un familiar empieza a necesitar ayuda para vestirse, asearse o moverse por casa, pedid la dependencia cuanto antes: el plazo de tres meses empieza a contar desde la solicitud, y pedirla es gratis.
 
 Paso a paso y papeles: ${L('pedir-dependencia', 'wa')}`,
   },
   {
     id: 'reclamar-dependencia-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/dependencia/reclamar-dependencia/',
-    texto: `Si la dependencia no se resuelve en seis meses, tu derecho empieza a contar igualmente desde ese día y puedes reclamar. Y si la persona empeora, no hace falta recurrir: se pide la revisión del grado en cualquier momento.
+    texto: `Si la dependencia no se resuelve en tres meses, tu derecho empieza a contar igualmente desde ese día y puedes reclamar. Y si la persona empeora, no hace falta recurrir: se pide la revisión del grado en cualquier momento.
 
 ${L('reclamar-dependencia', 'x')}`,
   },
@@ -81,7 +81,7 @@ ${L('reclamar-dependencia', 'x')}`,
     id: 'reclamar-dependencia-fb', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/dependencia/reclamar-dependencia/',
     texto: `Pidieron la dependencia para su madre hace un año y siguen sin respuesta. Es una situación muy frecuente, y hay forma de moverla.
 
-La Administración tiene seis meses desde la solicitud para reconocer el grado y la ayuda. Si se pasa, el derecho empieza a contar igualmente desde el final de esos seis meses, y se puede reclamar: primero con un escrito pidiendo que resuelvan, después con un recurso y, si hace falta, con una queja al Defensor del Pueblo o ante los tribunales.
+La Administración tiene tres meses desde la solicitud para reconocer el grado y la ayuda. Si se pasa, el derecho empieza a contar igualmente desde el final de esos tres meses, y se puede reclamar: primero con un escrito pidiendo que resuelvan, después con un recurso y, si hace falta, con una queja al Defensor del Pueblo o ante los tribunales.
 
 Si ya hay resolución pero no estáis de acuerdo con el grado o con la ayuda, se puede recurrir, normalmente en un mes. La propia resolución dice qué recurso cabe y ante quién.
 
@@ -118,7 +118,7 @@ ${L('grados-dependencia', 'x')}`,
 
 Después de una valoración en el domicilio, la comunidad autónoma reconoce un grado (I, II o III) y, con él, un servicio: teleasistencia, ayuda a domicilio, centro de día o residencia. Si no hay plaza pública, da una ayuda económica para pagarlo.
 
-Las ayudas llegan a 747,25 euros al mes para pagar un servicio privado y a 455,40 euros si te cuida un familiar, en el grado III. La Administración tiene seis meses para resolver, y se pide en los servicios sociales de tu ayuntamiento o de tu comunidad.
+Las ayudas llegan a 747,25 euros al mes para pagar un servicio privado y a 455,40 euros si te cuida un familiar, en el grado III. La Administración tiene tres meses para resolver, y se pide en los servicios sociales de tu ayuntamiento o de tu comunidad.
 
 ¿Lo habéis pedido ya en casa? ${FB_WEB}`,
   },

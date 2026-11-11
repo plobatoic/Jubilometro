@@ -12,3 +12,4 @@
 | 8 | Plazo de 6 meses y plazo suspensivo de hasta 2 años para esta prestación | Ley 39/2006, DF 1.ª, apartados 2 y 3 | Texto del BOE | Verificado en BOE |
 | 9 | Exención de IRPF | LIRPF, art. 7.x) | Texto del BOE | Verificado en BOE |
 | 10 | Ejemplos (Pedro, Ana) | — | Aplicación de las reglas anteriores | Cálculo propio |
+| 11 | Plazo máximo de tres meses desde la solicitud hasta la resolución de la prestación, desde el 12/11/2026 (antes, seis) | Real Decreto-ley 36/2026 (BOE-A-2026-23605), disposición final primera, que modifica la disposición final primera.2 y 3 de la Ley 39/2006; entrada en vigor, disposición final sexta | BOE del 11/11/2026 | Verificado en BOE (11/11/2026) |

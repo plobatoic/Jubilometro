@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "ayudas dependencia navarra 2026"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-21
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-20
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -73,7 +73,7 @@ El procedimiento lo regula la **Ley Foral 1/2011**, de 15 de febrero, y los paso
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Cada media sale de expedientes distintos, por eso las dos fases no suman el total. Navarra está en mitad de la tabla de las comunidades, pero tiene pocas personas atascadas: el **1,7 %** de las solicitudes lleva seis meses o más esperando, frente al 5,3 % en España.
 
-La [Ley Foral 1/2011](https://www.lexnavarra.navarra.es/detalle.asp?r=9992) fija **tres meses** desde la solicitud hasta la resolución del grado (artículo 14.7) y **seis meses** para la resolución que reconoce la prestación o el servicio (artículo 18.2). Desde el **23 de octubre de 2026**, la [reforma de la ley estatal](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) fija además un plazo máximo de tres meses para resolver el procedimiento. Contra la resolución cabe **recurso de alzada** (artículo 20). Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+La [Ley Foral 1/2011](https://www.lexnavarra.navarra.es/detalle.asp?r=9992) fija **tres meses** desde la solicitud hasta la resolución del grado (artículo 14.7) y **seis meses** para la resolución que reconoce la prestación o el servicio (artículo 18.2). Desde el **23 de octubre de 2026**, la [reforma de la ley estatal](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) fija además un plazo máximo de tres meses para resolver el procedimiento, y desde el **12 de noviembre de 2026** ([Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605)) la ley estatal también da como máximo tres meses desde la solicitud hasta la resolución de la prestación. Contra la resolución cabe **recurso de alzada** (artículo 20). Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en Navarra
 
@@ -149,4 +149,4 @@ La prestación por cuidados familiares, que supone el 40,88 % de las ayudas, seg
 
 *Este artículo es informativo y no sustituye la información del Gobierno de Navarra, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 21 de octubre de 2026, documentos, presentación por internet, dirección y teléfono de la ficha oficial del Gobierno de Navarra. 20 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 21 de octubre de 2026, documentos, presentación por internet, dirección y teléfono de la ficha oficial del Gobierno de Navarra. 20 de octubre de 2026, primera versión.*

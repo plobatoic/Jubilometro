@@ -12,3 +12,4 @@
 | 8 | Cuantía media de la prestación por cuidados familiares 130,19 / 214,92 / 294,57 € (España 172,90 / 275,03 / 381,50 €); máximos 180 / 315,90 / 455,40 € | Misma estadística, tabla 8.1.a; RD 1051/2013, anexo IV | Hoja de cálculo oficial y BOE | Verificado |
 
 **Pendiente para el revisor:** la orden no se pronuncia en el texto revisado sobre el sentido del silencio; no se menciona en el artículo.
+| 9 | Plazo máximo de tres meses desde la solicitud hasta la resolución de la prestación, desde el 12/11/2026 (antes, seis) | Real Decreto-ley 36/2026 (BOE-A-2026-23605), disposición final primera, que modifica la disposición final primera.2 y 3 de la Ley 39/2006; entrada en vigor, disposición final sexta | BOE del 11/11/2026 | Verificado en BOE (11/11/2026) |

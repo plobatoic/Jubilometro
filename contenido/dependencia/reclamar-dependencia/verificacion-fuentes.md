@@ -14,3 +14,4 @@
 | 10 | Efecto del silencio: desestimatorio en Madrid; estimatorio según la Generalitat Valenciana | Fichas de Jubilómetro de Madrid y de la Comunitat Valenciana (fuentes oficiales de cada comunidad) | Coinciden con sus verificaciones | Verificado |
 | 11 | Queja gratuita al Defensor del Pueblo | Web del Defensor del Pueblo | — | Verificado |
 | 12 | Ejemplo de Rosa y Manuel | — | Aplicación de las reglas anteriores | Cálculo propio |
+| 13 | Plazo máximo de tres meses desde la solicitud hasta la resolución de la prestación, desde el 12/11/2026 (antes, seis) | Real Decreto-ley 36/2026 (BOE-A-2026-23605), disposición final primera, que modifica la disposición final primera.2 y 3 de la Ley 39/2006; entrada en vigor, disposición final sexta | BOE del 11/11/2026 | Verificado en BOE (11/11/2026) |

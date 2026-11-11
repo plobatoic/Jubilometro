@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Reclamar la dependencia: silencio, recursos y plazos"
-h1: "Cómo reclamar la dependencia: qué hacer si pasan seis meses sin respuesta o no estás de acuerdo con el grado"
-meta_descripcion: "La ley da seis meses para resolver la dependencia. Si no contestan o te dan menos grado del que crees, así se reclama: escritos, recursos, plazos y modelos."
+h1: "Cómo reclamar la dependencia: qué hacer si pasan tres meses sin respuesta o no estás de acuerdo con el grado"
+meta_descripcion: "La ley da tres meses para resolver la dependencia. Si no contestan o te dan menos grado del que crees, así se reclama: escritos, recursos, plazos y modelos."
 url: /dependencia/reclamar-dependencia/
 categoria: Dependencia
 miga: Reclamar la dependencia
@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "reclamar grado dependencia"
 intencion: transaccional
 fase_plan: F3 (artículo n.º 70)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -22,13 +22,13 @@ fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565
 ---
 
-# Cómo reclamar la dependencia: qué hacer si pasan seis meses sin respuesta o no estás de acuerdo con el grado
+# Cómo reclamar la dependencia: qué hacer si pasan tres meses sin respuesta o no estás de acuerdo con el grado
 
 *Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> La Administración tiene **seis meses** desde que presentas la solicitud para reconocer el grado **y** la ayuda concreta. Si se pasa, tu derecho empieza a contar igualmente **desde el final de esos seis meses**, y puedes reclamar: primero con un **escrito pidiendo que resuelvan**, después con un **recurso** y, si hace falta, con una **queja al Defensor del Pueblo** o ante los **tribunales**.
+> La Administración tiene **tres meses** desde que presentas la solicitud para reconocer el grado **y** la ayuda concreta (seis hasta el 11 de noviembre de 2026). Si se pasa, tu derecho empieza a contar igualmente **desde el final de ese plazo**, y puedes reclamar: primero con un **escrito pidiendo que resuelvan**, después con un **recurso** y, si hace falta, con una **queja al Defensor del Pueblo** o ante los **tribunales**.
 >
 > Si ya tienes resolución pero **no estás de acuerdo** (con el grado o con la ayuda), puedes **recurrirla**, normalmente en **un mes**: la propia resolución dice qué recurso cabe y ante quién. Y si la persona **empeora**, no hace falta recurrir: se pide la **revisión del grado** en cualquier momento.
 
@@ -36,26 +36,26 @@ fuentes_legales:
 
 La [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990) (disposición final primera) fija dos reglas clave:
 
-1. **Plazo máximo de seis meses** entre la fecha de entrada de la solicitud y la resolución que reconoce la **prestación**, aunque tu comunidad tramite por separado el grado y la ayuda.
-2. **El derecho nace**, como tarde, **al acabar esos seis meses**, aunque no te hayan contestado. Si después te reconocen la ayuda, te corresponden los atrasos desde entonces.
+1. **Plazo máximo de tres meses** (seis hasta el 11 de noviembre de 2026) entre la fecha de entrada de la solicitud y la resolución que reconoce la **prestación**, aunque tu comunidad tramite por separado el grado y la ayuda.
+2. **El derecho nace**, como tarde, **al acabar esos tres meses**, aunque no te hayan contestado. Si después te reconocen la ayuda, te corresponden los atrasos desde entonces.
 
 Hasta el 22 de octubre de 2026 había una excepción: en la [prestación por cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/), la ley permitía **aplazar el pago** de esos atrasos **hasta dos años**. La reforma **elimina ese aplazamiento**, y las prestaciones que estaban en suspenso recuperan su vigencia y su cuantía.
 
-La [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el **23 de octubre de 2026**, añade dos cosas: un plazo máximo de **tres meses** para resolver el procedimiento ([artículo 28.1](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)), sin tocar los seis meses de la prestación, y la obligación de tramitar **de urgencia** los expedientes de personas en **especial vulnerabilidad** (por falta de recursos, aislamiento, problemas de vivienda o de salud, violencia de género, entre otras) ([artículo 28.7](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)).
+La [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el **23 de octubre de 2026**, añadió dos cosas: un plazo máximo de **tres meses** para resolver el procedimiento ([artículo 28.1](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)) y la obligación de tramitar **de urgencia** los expedientes de personas en **especial vulnerabilidad** (por falta de recursos, aislamiento, problemas de vivienda o de salud, violencia de género, entre otras) ([artículo 28.7](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)). Como la reforma dejó en seis meses el plazo de la prestación, el [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605) lo bajó también a **tres meses** desde el **12 de noviembre de 2026**. Tiene que convalidarlo la Diputación Permanente del Congreso.
 
 En la práctica, muchas comunidades tardan bastante más: el tiempo medio de espera por comunidad lo recogemos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
-## Si pasan seis meses sin respuesta: paso a paso
+## Si pasan tres meses sin respuesta: paso a paso
 
 ### 1. Comprueba las fechas
 
-Busca el **justificante de registro** de tu solicitud: los seis meses cuentan **desde la fecha de entrada** en el registro ([artículo 21.3 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a21)). Si te pidieron corregir o completar documentos, el plazo pudo quedar en pausa mientras tanto.
+Busca el **justificante de registro** de tu solicitud: los tres meses cuentan **desde la fecha de entrada** en el registro ([artículo 21.3 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a21)). Si te pidieron corregir o completar documentos, el plazo pudo quedar en pausa mientras tanto.
 
 ### 2. Presenta un escrito pidiendo que resuelvan
 
 La Administración está **obligada a resolver** y a notificarte, aunque se le haya pasado el plazo ([artículo 21.1 de la Ley 39/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a21)). Un escrito sencillo, presentado por registro (en la sede electrónica de tu comunidad o en cualquier oficina de registro), deja constancia y suele acelerar el expediente:
 
-> *[Nombre y DNI], con domicilio en [dirección], EXPONE: que el [fecha] presentó solicitud de reconocimiento de la situación de dependencia y del derecho a las prestaciones (expediente n.º [número, si lo tienes]) y que han transcurrido más de seis meses sin resolución, plazo máximo fijado en la disposición final primera de la Ley 39/2006. SOLICITA: que se dicte y notifique resolución expresa sin más demora y que se reconozcan los efectos económicos desde el día siguiente al cumplimiento de dicho plazo. [Lugar, fecha y firma].*
+> *[Nombre y DNI], con domicilio en [dirección], EXPONE: que el [fecha] presentó solicitud de reconocimiento de la situación de dependencia y del derecho a las prestaciones (expediente n.º [número, si lo tienes]) y que han transcurrido más de tres meses sin resolución, plazo máximo fijado en la disposición final primera de la Ley 39/2006 (redacción del Real Decreto-ley 36/2026). SOLICITA: que se dicte y notifique resolución expresa sin más demora y que se reconozcan los efectos económicos desde el día siguiente al cumplimiento de dicho plazo. [Lugar, fecha y firma].*
 
 Si la solicita un familiar en nombre de la persona dependiente, debe indicar que actúa **como su representante** y adjuntar la autorización o el documento que lo acredite.
 
@@ -103,15 +103,15 @@ Si la persona ha **empeorado** desde la valoración, suele ser más rápido pedi
 
 **Rosa pidió la dependencia para su padre, Manuel, de 86 años, el 9 de enero de 2026.** El 10 de julio, sin respuesta, presenta el escrito del paso 2 por la sede electrónica. En septiembre le notifican el **grado II** y, en noviembre, la ayuda por cuidados en el entorno familiar.
 
-Como la solicitud entró el 9 de enero, el derecho de Manuel cuenta desde que se cumplieron los seis meses (**9 de julio de 2026**), aunque la resolución llegara después. Como la ayuda se resuelve después del 23 de octubre de 2026, la comunidad ya **no puede aplazar** el pago de esos atrasos (de julio a noviembre): la reforma de la ley eliminó el aplazamiento de hasta dos años de la ayuda por cuidados familiares.
+Como la solicitud entró el 9 de enero, con el plazo de seis meses que regía entonces, el derecho de Manuel cuenta desde que se cumplieron (**9 de julio de 2026**), aunque la resolución llegara después. Como la ayuda se resuelve después del 23 de octubre de 2026, la comunidad ya **no puede aplazar** el pago de esos atrasos (de julio a noviembre): la reforma de la ley eliminó el aplazamiento de hasta dos años de la ayuda por cuidados familiares.
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto tiempo tiene la Administración para resolver la dependencia?
 
-Seis meses desde que la solicitud entra en el registro, para el grado y la ayuda concreta. Desde el 23 de octubre de 2026, la ley fija además un máximo de tres meses para resolver el procedimiento.
+Tres meses desde que la solicitud entra en el registro, para el grado y la ayuda concreta (seis hasta el 11 de noviembre de 2026, Real Decreto-ley 36/2026).
 
-### ¿Qué pasa si no me contestan en seis meses?
+### ¿Qué pasa si no me contestan en tres meses?
 
 Tu derecho empieza a contar igualmente desde el final de ese plazo. Según tu comunidad, la solicitud se entiende denegada (y puedes recurrir en cualquier momento) o estimada. En los dos casos, la Administración sigue obligada a resolver.
 
@@ -121,7 +121,7 @@ Normalmente un mes desde que recibes la resolución. La propia resolución indic
 
 ### ¿Me pagan con retroactividad la dependencia?
 
-Sí, desde la resolución o, si se retrasó, desde el final de los seis meses. Desde el 23 de octubre de 2026 ya no se puede aplazar el pago de los atrasos de la ayuda por cuidados familiares.
+Sí, desde la resolución o, si se retrasó, desde el final del plazo (tres meses; seis para las solicitudes resueltas antes del 12 de noviembre de 2026). Desde el 23 de octubre de 2026 ya no se puede aplazar el pago de los atrasos de la ayuda por cuidados familiares.
 
 ### ¿Necesito abogado para reclamar la dependencia?
 
@@ -144,4 +144,4 @@ No para el escrito, el recurso administrativo ni la queja al Defensor del Pueblo
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional. Los plazos y el tipo de recurso los indica cada resolución y la normativa de tu comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente; fechas del ejemplo en días hábiles y plazo de tres meses en las preguntas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente; fechas del ejemplo en días hábiles y plazo de tres meses en las preguntas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*

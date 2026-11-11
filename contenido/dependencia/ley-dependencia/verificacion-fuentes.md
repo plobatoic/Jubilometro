@@ -20,3 +20,4 @@
 | 16 | Revisión del grado por mejoría, empeoramiento o error | Ley 39/2006, art. 30 | Texto del BOE | Verificado en BOE |
 | 17 | Exención de IRPF de las prestaciones económicas de dependencia | Ley del IRPF, art. 7.x) | Texto del BOE | Verificado en BOE |
 | 18 | Ejemplos (Carmen, Antonio, Julia) | — | Aplicación de las reglas anteriores | Cálculo propio |
+| 19 | Plazo máximo de tres meses desde la solicitud hasta la resolución de la prestación, desde el 12/11/2026 (antes, seis) | Real Decreto-ley 36/2026 (BOE-A-2026-23605), disposición final primera, que modifica la disposición final primera.2 y 3 de la Ley 39/2006; entrada en vigor, disposición final sexta | BOE del 11/11/2026 | Verificado en BOE (11/11/2026) |

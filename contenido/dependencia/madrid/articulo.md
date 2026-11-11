@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Dependencia en la Comunidad de Madrid 2026: trámite y plazos"
 h1: "Dependencia en la Comunidad de Madrid: cómo se pide, documentos, plazos y qué ayudas se dan en 2026"
-meta_descripcion: "En Madrid la dependencia se pide por internet o en los servicios sociales municipales. Documentos, plazo legal de 6 meses, media real de 327 días y ayudas."
+meta_descripcion: "En Madrid la dependencia se pide por internet o en los servicios sociales municipales. Documentos, plazo legal de 3 meses, media real de 327 días y ayudas."
 url: /dependencia/madrid/
 categoria: Dependencia
 miga: Dependencia en Madrid
@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "dependencia comunidad de madrid grados"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 64)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -31,7 +31,7 @@ fuentes_legales:
 >
 > En la Comunidad de Madrid, la dependencia se pide **por internet** en la sede electrónica, con firma electrónica, o **en persona** a través de los **servicios sociales de tu ayuntamiento o junta de distrito**. Necesitas, entre otros documentos, un **informe de salud de menos de tres meses** y el **informe social** de los servicios sociales municipales. Después, te llaman para hacer la **valoración en tu domicilio**.
 >
-> La Comunidad tiene **seis meses** para resolver (tres para personas con **ELA** u otras enfermedades de alta complejidad); si no contesta, se entiende **denegada**. Según el Imserso, la media real fue de **327 días** desde la solicitud hasta la prestación.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** para resolver (antes, seis, y tres para personas con **ELA** u otras enfermedades de alta complejidad); si no contesta, se entiende **denegada**. Según el Imserso, la media real fue de **327 días** desde la solicitud hasta la prestación.
 
 ## Quién puede pedirla
 
@@ -67,7 +67,7 @@ Una vez reconocida, tienes que **comunicar cualquier cambio** en los datos que d
 | De la solicitud a la prestación | 327 días | 293 días |
 | Personas esperando seis meses o más | 10.725 | 128.336 |
 
-Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Aunque la solicitud se entiende denegada si no hay respuesta en seis meses, tu derecho nace, como tarde, al cumplirse ese plazo si después te lo reconocen. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
+Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Aunque la solicitud se entiende denegada si no hay respuesta en plazo, tu derecho nace, como tarde, al cumplirse ese plazo si después te lo reconocen. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
 ## Qué ayudas se dan en Madrid
 
@@ -97,11 +97,11 @@ DNI o NIE, informe de salud de menos de tres meses, informe social de los servic
 
 ### ¿Cuánto tarda la dependencia en Madrid?
 
-El plazo legal es de seis meses (tres para ELA y enfermedades de alta complejidad). Según el Imserso, la media real fue de 327 días desde la solicitud hasta la prestación entre octubre de 2025 y septiembre de 2026.
+El plazo legal es de tres meses desde el 12 de noviembre de 2026 (antes, seis, y tres para ELA y enfermedades de alta complejidad). Según el Imserso, la media real fue de 327 días desde la solicitud hasta la prestación entre octubre de 2025 y septiembre de 2026.
 
-### ¿Qué pasa si no contestan en seis meses?
+### ¿Qué pasa si no contestan a tiempo?
 
-La solicitud se entiende denegada por silencio, pero la Comunidad sigue obligada a resolver y puedes reclamar. Tu derecho cuenta, como tarde, desde los seis meses de la solicitud.
+La solicitud se entiende denegada por silencio, pero la Comunidad sigue obligada a resolver y puedes reclamar. Tu derecho cuenta, como tarde, desde que acaba el plazo (tres meses desde la solicitud).
 
 ### ¿Qué ayuda es la más habitual en Madrid?
 
@@ -124,4 +124,4 @@ La teleasistencia (33,81 % de las prestaciones), seguida de la ayuda a domicilio
 
 *Este artículo es informativo y no sustituye la información de la Comunidad de Madrid, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

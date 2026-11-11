@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "qué es prestación económica para cuidados en el entorno familiar"
 intencion: informativa
 fase_plan: F2 (artículo n.º 68)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -92,7 +92,7 @@ La [reforma de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) **su
 
 ## Cuándo se empieza a cobrar
 
-La Administración tiene **seis meses** desde la solicitud para resolver la prestación. El derecho nace con la resolución o al acabar ese plazo sin respuesta ([disposición final primera de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990)).
+La Administración tiene **tres meses** desde la solicitud para resolver la prestación (seis hasta el 11 de noviembre de 2026). El derecho nace con la resolución o al acabar ese plazo sin respuesta ([disposición final primera de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990), en la redacción del [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605)).
 
 Hasta el 22 de octubre de 2026, en esta prestación la ley permitía **aplazar el pago hasta dos años** (el llamado «plazo suspensivo»). La [reforma de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) lo **elimina**, y las prestaciones que estaban en suspenso **recuperan su vigencia y su cuantía** (disposición adicional décima). Si te la reconocieron y no la cobras por ese aplazamiento, pregunta en tus servicios sociales desde cuándo te la pagan.
 
@@ -148,4 +148,4 @@ Sí. Desde el 23 de octubre de 2026 la Ley 4/2026 elimina ese plazo suspensivo, 
 
 *Este artículo es informativo y no sustituye la resolución de tu comunidad autónoma, que es quien reconoce la prestación. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del plazo suspensivo de dos años, ya no es excepcional, convivencia, compatibilidades, derechos de la cuidadora principal y pago en caso de fallecimiento; pregunta frecuente al día con la reforma. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del plazo suspensivo de dos años, ya no es excepcional, convivencia, compatibilidades, derechos de la cuidadora principal y pago en caso de fallecimiento; pregunta frecuente al día con la reforma. 28 de septiembre de 2026, primera versión.*

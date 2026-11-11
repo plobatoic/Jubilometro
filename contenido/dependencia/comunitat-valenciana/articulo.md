@@ -10,7 +10,7 @@ palabras_clave_secundarias:
   - "dependencia comunidad valenciana"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 66)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -28,7 +28,7 @@ fuentes_legales:
 >
 > En la Comunitat Valenciana, la dependencia se pide en los **servicios sociales de atención primaria del ayuntamiento** donde estés empadronado (también en otros registros o por internet), con un **informe de salud** en el modelo oficial. La Generalitat tiene **tres meses** para resolver el grado y **otros tres** para el Programa Individual de Atención (PIA).
 >
-> Si pasan **seis meses** sin resolución, la solicitud se entiende **estimada** y la prestación se abona con efectos retroactivos, según la Generalitat. En la práctica, según el Imserso, la media fue de **297 días** desde la solicitud hasta la prestación.
+> Si pasa el plazo sin resolución (**seis meses** según la Generalitat; la ley estatal da como máximo **tres** desde el 12 de noviembre de 2026), la solicitud se entiende **estimada** y la prestación se abona con efectos retroactivos, según la Generalitat. En la práctica, según el Imserso, la media fue de **297 días** desde la solicitud hasta la prestación.
 
 ## Cómo se pide, paso a paso
 
@@ -85,9 +85,9 @@ En los servicios sociales de atención primaria de tu ayuntamiento (registro mun
 
 El plazo legal es de tres meses para el grado y otros tres para el PIA. Según el Imserso, la media real fue de 297 días desde la solicitud hasta la prestación entre octubre de 2025 y septiembre de 2026.
 
-### ¿Qué pasa si no contestan en seis meses?
+### ¿Qué pasa si no contestan a tiempo?
 
-Según la Generalitat, transcurridos seis meses sin resolución, la solicitud se entiende estimada y la prestación se abona con efectos retroactivos.
+Según la Generalitat, transcurridos seis meses sin resolución (la ley estatal da como máximo tres desde el 12 de noviembre de 2026), la solicitud se entiende estimada y la prestación se abona con efectos retroactivos.
 
 ### ¿Hace falta informe de salud?
 
@@ -114,4 +114,4 @@ La prestación por cuidados familiares (48,31 % de las prestaciones), seguida de
 
 *Este artículo es informativo y no sustituye la información de la Generalitat Valenciana, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 29 de septiembre de 2026, primera versión.*

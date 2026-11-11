@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "ley dependencia galicia"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -32,7 +32,7 @@ fuentes_legales:
 >
 > En Galicia, la dependencia se pide con una **solicitud conjunta de dependencia y discapacidad** (procedimiento **BS210A**), por internet en la sede electrónica de la Xunta o en persona en cualquier registro. **No hace falta llevar un informe médico**: la Xunta consulta tu historia clínica del Sergas. Los servicios sociales de tu ayuntamiento o de tu centro de salud te ayudan a presentarla.
 >
-> La Xunta tiene **seis meses** para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **307 días** desde la solicitud hasta la prestación. Si te cuida un familiar en casa, puedes cobrar el **Bono Cuidado en el Hogar: 5.000 euros al año**, sin importar tu renta ni tu grado.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** (antes, seis) para resolver y, si no contesta, la solicitud se entiende **denegada**. Según el Imserso, la media real fue de **307 días** desde la solicitud hasta la prestación. Si te cuida un familiar en casa, puedes cobrar el **Bono Cuidado en el Hogar: 5.000 euros al año**, sin importar tu renta ni tu grado.
 
 ## Quién puede pedirla
 
@@ -69,7 +69,7 @@ Para dudas, llama al **012**, el teléfono de atención a la ciudadanía de la X
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). En Galicia el grado llega antes que en el conjunto de España, pero el paso del grado a la prestación es más lento. Casi no hay personas con más de seis meses de espera: **463**.
 
-Aunque la solicitud se entiende denegada si no hay respuesta en seis meses, puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+Aunque la solicitud se entiende denegada si no hay respuesta en plazo, puedes reclamar. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Los bonos de la Xunta: 5.000 euros por cuidar en casa
 
@@ -114,7 +114,7 @@ No. La Xunta consulta directamente tu historia clínica del Sergas, salvo que te
 
 ### ¿Cuánto tarda la dependencia en Galicia?
 
-La Xunta tiene seis meses para resolver. Según el Imserso, la media fue de 307 días desde la solicitud hasta la prestación (datos a septiembre de 2026). Por fases, la media fue de 179 días hasta el grado y de 140 del grado a la prestación (cada media sale de expedientes distintos, por eso no suman 307).
+Desde el 12 de noviembre de 2026, la ley estatal da como máximo tres meses para resolver (antes, seis). Según el Imserso, la media fue de 307 días desde la solicitud hasta la prestación (datos a septiembre de 2026). Por fases, la media fue de 179 días hasta el grado y de 140 del grado a la prestación (cada media sale de expedientes distintos, por eso no suman 307).
 
 ### ¿Qué es el bono de 5.000 euros de la Xunta?
 
@@ -141,4 +141,4 @@ Sí. En Galicia es la misma solicitud: el procedimiento BS210A sirve para pedir 
 
 *Este artículo es informativo y no sustituye la información de la Xunta de Galicia, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; comparación del grado III y medias por fases aclaradas. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; comparación del grado III y medias por fases aclaradas. 5 de octubre de 2026, primera versión.*

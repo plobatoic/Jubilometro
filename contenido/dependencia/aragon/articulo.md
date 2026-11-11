@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "dependencia aragon prestaciones"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-06
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -31,7 +31,7 @@ fuentes_legales:
 >
 > En Aragón, la dependencia empieza con una **llamada para pedir cita** con la trabajadora social: si vives en **Zaragoza ciudad**, a la Dirección Provincial del **Instituto Aragonés de Servicios Sociales (IASS)**, en el **976 701 705**; en el resto de Aragón, a tu **centro comarcal o municipal de servicios sociales**. En la entrevista te orientan y **preparan la solicitud contigo**. Si autorizas que consulten tu historia clínica del Salud, **no necesitas informe médico**.
 >
-> El IASS tiene **seis meses** para resolver. Según el Imserso, la media real fue de **109 días** desde la solicitud hasta la prestación, la segunda más rápida de España (293 de media). Y recibes en casa, en un solo documento, tu grado y tus ayudas.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** para resolver (antes, seis). Según el Imserso, la media real fue de **109 días** desde la solicitud hasta la prestación, la segunda más rápida de España (293 de media). Y recibes en casa, en un solo documento, tu grado y tus ayudas.
 
 ## Quién puede pedirla
 
@@ -73,7 +73,7 @@ Puedes seguir el expediente en **MiA**, el espacio personal del Gobierno de Arag
 
 Datos de las [estadísticas del Imserso](https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual) (tablas 9 y 10.3). Aragón es, tras la ciudad de Ceuta, el territorio más rápido de España, y en la mayoría de los casos resuelve el grado y la prestación a la vez. Para los menores de tres años el plazo máximo es de **un mes**.
 
-Si pasan los seis meses sin respuesta, puedes esperar a que resuelvan o presentar un recurso. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+Si pasa el plazo sin respuesta, puedes esperar a que resuelvan o presentar un recurso. Lo explicamos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/) y en [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Qué ayudas se dan en Aragón
 
@@ -108,7 +108,7 @@ No, si autorizas que la Administración consulte tu historia clínica del Servic
 
 ### ¿Cuánto tarda la dependencia en Aragón?
 
-Según el Imserso, la media fue de 109 días desde la solicitud hasta la prestación (datos a septiembre de 2026), de las más rápidas de España. El plazo legal es de seis meses.
+Según el Imserso, la media fue de 109 días desde la solicitud hasta la prestación (datos a septiembre de 2026), de las más rápidas de España. El plazo legal es de tres meses desde el 12 de noviembre de 2026 (antes, seis).
 
 ### ¿Qué es el grado III+?
 
@@ -135,4 +135,4 @@ A los dos años de la última resolución, o antes si tu situación de dependenc
 
 *Este artículo es informativo y no sustituye la información del Gobierno de Aragón, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026. 6 de octubre de 2026, primera versión.*

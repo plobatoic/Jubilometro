@@ -12,3 +12,4 @@
 | 8 | Prestaciones por tipo; ratio 1,50 (España 1,45); prevención 15,00 % (3,32 %); residencial 10,53 % (7,50 %) | Misma estadística, tabla 4.1 | Hoja de cálculo oficial | Verificado |
 | 9 | Cuantía media de la prestación por cuidados familiares 156,82 / 266,97 / 364,24 € (España 172,90 / 275,03 / 381,50 €); máximos 180 / 315,90 / 455,40 € | Misma estadística, tabla 8.1.a; RD 1051/2013, anexo IV | Hoja de cálculo oficial y BOE | Verificado |
 | 10 | Ejemplos de servicios de prevención (talleres de memoria, ejercicio, estimulación) | — | Descripción general del servicio | Redacción propia |
+| 11 | Plazo máximo de tres meses desde la solicitud hasta la resolución de la prestación, desde el 12/11/2026 (antes, seis) | Real Decreto-ley 36/2026 (BOE-A-2026-23605), disposición final primera, que modifica la disposición final primera.2 y 3 de la Ley 39/2006; entrada en vigor, disposición final sexta | BOE del 11/11/2026 | Verificado en BOE (11/11/2026) |

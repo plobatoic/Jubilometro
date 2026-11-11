@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "dependencia castilla y leon sede electronica"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-10-05
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -32,7 +32,7 @@ fuentes_legales:
 >
 > En Castilla y León, la dependencia se pide con el **modelo oficial de solicitud** y un **informe sobre condiciones de salud** también en modelo oficial. Puedes presentarla en tu **Centro de Acción Social (CEAS)**, en las gerencias territoriales de Servicios Sociales, en cualquier registro o **por internet**. La gestiona la **Gerencia de Servicios Sociales** de la Junta.
 >
-> La Junta tiene **seis meses** para resolver, y solo **30 días** si se trata de un menor de tres años. Según el Imserso, la media real fue de **120 días** desde la solicitud hasta la prestación, frente a 293 en España: en Castilla y León el grado y las ayudas se resuelven casi siempre a la vez.
+> Desde el 12 de noviembre de 2026, la ley estatal da como máximo **tres meses** (antes, seis) para resolver, y la Junta solo **30 días** si se trata de un menor de tres años. Según el Imserso, la media real fue de **120 días** desde la solicitud hasta la prestación, frente a 293 en España: en Castilla y León el grado y las ayudas se resuelven casi siempre a la vez.
 
 ## Quién puede pedirla
 
@@ -100,7 +100,7 @@ El informe sobre condiciones de salud en el modelo oficial de la Junta, para la 
 
 ### ¿Cuánto tarda la dependencia en Castilla y León?
 
-La Junta tiene seis meses para resolver (30 días para menores de tres años). Según el Imserso, la media fue de 120 días desde la solicitud hasta la prestación (datos a septiembre de 2026), una de las más rápidas de España.
+Desde el 12 de noviembre de 2026, la ley estatal da como máximo tres meses para resolver (antes, seis); 30 días para menores de tres años. Según el Imserso, la media fue de 120 días desde la solicitud hasta la prestación (datos a septiembre de 2026), una de las más rápidas de España.
 
 ### ¿Qué teléfono tiene la dependencia en Castilla y León?
 
@@ -132,4 +132,4 @@ Una ayuda mensual para pagar una residencia, un centro de día o una ayuda a dom
 
 *Este artículo es informativo y no sustituye la información de la Junta de Castilla y León, que es quien reconoce la dependencia. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; corrección gramatical. 5 de octubre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, datos del Imserso a 30 de septiembre de 2026; corrección gramatical. 5 de octubre de 2026, primera versión.*

@@ -1,7 +1,7 @@
 ---
 titulo_seo: "Cuánto tarda la dependencia en 2026: días en cada comunidad"
 h1: "Cuánto tarda la dependencia: días de espera en cada comunidad autónoma y qué puedes hacer mientras"
-meta_descripcion: "La dependencia tarda de media 293 días desde la solicitud hasta la prestación, aunque la ley da 6 meses. Días de espera por comunidad y qué hacer mientras."
+meta_descripcion: "La dependencia tarda de media 293 días desde la solicitud hasta la prestación, aunque la ley da 3 meses. Días de espera por comunidad y qué hacer mientras."
 url: /dependencia/tiempos-dependencia/
 categoria: Dependencia
 miga: Cuánto tarda la dependencia
@@ -10,7 +10,7 @@ palabras_clave_secundarias:
   - "cuanto tarda la ley de dependencia"
 intencion: informativa
 fase_plan: F2 (artículo n.º 69)
-fecha_actualizacion: 2026-10-21
+fecha_actualizacion: 2026-11-11
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -25,9 +25,9 @@ fuentes_legales:
 
 > **Respuesta rápida**
 >
-> La ley da a las comunidades autónomas **seis meses** para resolver la dependencia, desde la solicitud hasta la prestación. En la práctica, según el **Imserso**, se tarda de media **293 días** en España: **220** de media hasta que te reconocen el grado y **50** de media del grado a la prestación (cada media sale de expedientes distintos, por eso no suman 293) (datos de octubre de 2025 a septiembre de 2026).
+> La ley da a las comunidades autónomas **tres meses** para resolver la dependencia, desde la solicitud hasta la prestación (seis hasta el 11 de noviembre de 2026). En la práctica, según el **Imserso**, se tarda de media **293 días** en España: **220** de media hasta que te reconocen el grado y **50** de media del grado a la prestación (cada media sale de expedientes distintos, por eso no suman 293) (datos de octubre de 2025 a septiembre de 2026).
 >
-> Depende mucho de dónde vivas: desde **75 días en Ceuta** y **109 en Aragón** hasta **413 en Asturias** y **529 en la Región de Murcia**. Si pasan seis meses sin resolución, tu derecho empieza a contar igualmente desde ese momento.
+> Depende mucho de dónde vivas: desde **75 días en Ceuta** y **109 en Aragón** hasta **413 en Asturias** y **529 en la Región de Murcia**. Si pasan tres meses sin resolución, tu derecho empieza a contar igualmente desde ese momento.
 
 ## Días de espera en cada comunidad
 
@@ -59,7 +59,7 @@ Tiempos medios calculados por el Imserso sobre las resoluciones dictadas entre e
 
 Cómo leer la tabla:
 
-- **Solo ocho territorios** están, de media, por debajo del plazo legal de seis meses (unos 180 días): Ceuta, Aragón, Castilla y León, La Rioja, País Vasco, Castilla-La Mancha, Cantabria y Melilla.
+- **Solo ocho territorios** estaban, de media, por debajo del plazo legal de seis meses que regía hasta el 11 de noviembre de 2026 (unos 180 días), y **ninguno** por debajo de los tres meses actuales (unos 90 días) salvo Ceuta, con 75. Los ocho eran: Ceuta, Aragón, Castilla y León, La Rioja, País Vasco, Castilla-La Mancha, Cantabria y Melilla.
 - **Las columnas no suman exactamente**, porque cada media se calcula sobre un grupo distinto de expedientes (la primera resolución de grado y la primera de prestación de cada persona).
 - En Andalucía, Aragón, Asturias, Canarias, Castilla y León, Madrid y País Vasco, la mayoría de las veces el grado y la prestación se resuelven **a la vez**.
 
@@ -69,8 +69,8 @@ A 30 de septiembre de 2026, **128.336 personas** llevaban **seis meses o más** 
 
 ## Qué dice la ley sobre los plazos
 
-- **Seis meses como máximo** entre la solicitud y la resolución de la prestación, aunque tu comunidad resuelva el grado y la prestación en dos pasos ([disposición final primera de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990)).
-- **Tu derecho nace** con la resolución de la prestación o, si tardan más, **al cumplirse seis meses** desde la solicitud. Así, los meses de retraso de la Administración no deberían hacerte perder dinero.
+- **Tres meses como máximo** entre la solicitud y la resolución de la prestación (seis hasta el 11 de noviembre de 2026, [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605)), aunque tu comunidad resuelva el grado y la prestación en dos pasos ([disposición final primera de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990)).
+- **Tu derecho nace** con la resolución de la prestación o, si tardan más, **al cumplirse tres meses** desde la solicitud. Así, los meses de retraso de la Administración no deberían hacerte perder dinero.
 - **Fin del aplazamiento**: hasta el 22 de octubre de 2026, la ayuda por [cuidados familiares](/dependencia/prestacion-cuidados-familiares/) podía quedar en suspenso **hasta dos años** desde esa fecha. La [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) elimina ese plazo suspensivo y reactiva las prestaciones que estaban en suspenso.
 - **Desde el 23 de octubre de 2026**, la ley fija además un máximo de **tres meses** para resolver el procedimiento ([artículo 28.1](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)) y obliga a tramitar **de urgencia** los casos de especial vulnerabilidad.
 
@@ -79,14 +79,14 @@ A 30 de septiembre de 2026, **128.336 personas** llevaban **seis meses o más** 
 1. **Pide la dependencia cuanto antes**: el plazo y tus derechos cuentan desde la solicitud. Los pasos están en la [guía de la ley de dependencia](/dependencia/ley-dependencia/).
 2. **Aporta todos los informes** con la solicitud y comunica cualquier empeoramiento: si tu situación cambia, puedes pedir la revisión del grado.
 3. **Pregunta por el estado de tu expediente** en los servicios sociales de tu comunidad y guarda los justificantes con las fechas.
-4. **Si pasan seis meses sin resolución**, presenta un escrito reclamando que resuelvan. Si la situación es urgente (por ejemplo, tras un alta hospitalaria, o si la persona vive aislada o sin recursos), pide la **tramitación de urgencia**: desde el 23 de octubre de 2026 la ley la exige en los casos de especial vulnerabilidad.
+4. **Si pasan tres meses sin resolución**, presenta un escrito reclamando que resuelvan. Si la situación es urgente (por ejemplo, tras un alta hospitalaria, o si la persona vive aislada o sin recursos), pide la **tramitación de urgencia**: desde el 23 de octubre de 2026 la ley la exige en los casos de especial vulnerabilidad.
 5. **Busca apoyos provisionales**: según tu municipio, los servicios sociales del ayuntamiento pueden ofrecer ayuda a domicilio o teleasistencia al margen de la ley de dependencia.
 
 ## Preguntas frecuentes
 
 ### ¿Cuánto tarda en resolverse la dependencia?
 
-Según el Imserso, 293 días de media en España desde la solicitud hasta la resolución de la prestación (datos a septiembre de 2026). La ley fija un máximo de seis meses.
+Según el Imserso, 293 días de media en España desde la solicitud hasta la resolución de la prestación (datos a septiembre de 2026). La ley fija un máximo de tres meses (seis hasta el 11 de noviembre de 2026).
 
 ### ¿Qué comunidad tramita más rápido la dependencia?
 
@@ -96,11 +96,11 @@ De media, Ceuta (75 días), Aragón (109), Castilla y León (120), y La Rioja y 
 
 La Región de Murcia (529 días), Asturias (413) y Andalucía (402), según los datos del Imserso a 30 de septiembre de 2026.
 
-### ¿Pierdo dinero si la Administración tarda más de seis meses?
+### ¿Pierdo dinero si la Administración tarda más de tres meses?
 
-En principio no: el derecho se genera, como tarde, a los seis meses de la solicitud. Y desde el 23 de octubre de 2026 ya no se puede aplazar hasta dos años el pago de la ayuda por cuidados familiares.
+En principio no: el derecho se genera, como tarde, a los tres meses de la solicitud. Y desde el 23 de octubre de 2026 ya no se puede aplazar hasta dos años el pago de la ayuda por cuidados familiares.
 
-### ¿Qué hago si pasan seis meses sin respuesta?
+### ¿Qué hago si pasan tres meses sin respuesta?
 
 Presenta un escrito en los servicios sociales de tu comunidad pidiendo que resuelvan, y guarda el justificante. Si el retraso continúa, puedes reclamar por la vía administrativa y judicial.
 
@@ -120,4 +120,4 @@ Presenta un escrito en los servicios sociales de tu comunidad pidiendo que resue
 
 *Este artículo es informativo y no sustituye la información de los servicios sociales de tu comunidad autónoma. Los tiempos son medias oficiales: tu expediente puede tardar más o menos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 21 de octubre de 2026, enlace a la guía nueva de Navarra. 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente, y datos del Imserso a 30 de septiembre de 2026; medias por fases aclaradas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 21 de octubre de 2026, enlace a la guía nueva de Navarra. 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente, y datos del Imserso a 30 de septiembre de 2026; medias por fases aclaradas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
