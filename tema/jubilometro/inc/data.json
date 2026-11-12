@@ -218,7 +218,7 @@
   "cita-previa": "/jubilacion/cita-previa-seguridad-social/",
   "certificado": "/cuanto-cobrare/certificado-pension/",
   "subsidio-52": "/jubilacion/subsidio-mayores-52/",
-  "incapacidad-total": "/incapacidad/total-cualificada/",
+  "incapacidad-total": "/incapacidad/incapacidad-total/",
   "grados-dependencia": "/dependencia/grados/",
   "ayuda-domicilio": "/dependencia/ayuda-a-domicilio/",
   "teleasistencia": "/dependencia/teleasistencia/",
@@ -257,7 +257,7 @@
   "cuanto-tarda": "/jubilacion/cuanto-tarda-jubilacion/",
   "despido-60": "/jubilacion/despido-a-los-60/",
   "como-se-calcula": "/cuanto-cobrare/como-se-calcula-la-pension/",
-  "base-reguladora": "/cuanto-cobrare/base-reguladora/",
+  "base-reguladora": "/cuanto-cobrare/como-se-calcula-la-pension/",
   "complemento-minimos": "/cuanto-cobrare/complemento-a-minimos/",
   "mei": "/cuanto-cobrare/mei-cuota-solidaridad/",
   "requisitos-viudedad": "/viudedad/requisitos/",
@@ -297,7 +297,7 @@
   "hipoteca-inversa": "/dinero/hipoteca-inversa/",
   "renta-vitalicia": "/dinero/renta-vitalicia/",
   "herencias": "/dinero/herencias-donaciones/",
-  "rescate-10-anos": "/dinero/rescate-aportaciones-10-anos/",
+  "rescate-10-anos": "/dinero/rescate-plan-pensiones/",
   "calcula-ahorro": "/calculadoras/cuanto-ahorrar-jubilacion/",
   "vivir-fuera": "/dinero/pension-extranjero/",
   "dependencia-andalucia": "/dependencia/andalucia/",
@@ -335,5 +335,10 @@
   "numero-ss": "/jubilacion/numero-seguridad-social/",
   "retornados": "/ayudas/emigrantes-retornados/",
   "web": "/"
+ },
+ "fusionadas": {
+  "/dinero/rescate-aportaciones-10-anos/": "/dinero/rescate-plan-pensiones/",
+  "/incapacidad/total-cualificada/": "/incapacidad/incapacidad-total/",
+  "/cuanto-cobrare/base-reguladora/": "/cuanto-cobrare/como-se-calcula-la-pension/"
  }
 }

@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "incapacidad permanente total a partir de 65 años"
 intencion: informativa
 fase_plan: F1 (artículo n.º 46)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-13
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -25,7 +25,7 @@ fuentes_legales:
 
 # Incapacidad permanente total en 2026: cuánto se cobra, requisitos, cómo trabajar con ella y la total cualificada
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 13 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -71,7 +71,18 @@ La pensión es el **55 % de la base reguladora**, en 14 pagas. La base regulador
 A partir de los **55 años**, la pensión sube un **20 % de la base reguladora**, hasta el **75 %**, porque se presume que es difícil encontrar un empleo distinto por la edad, la falta de preparación y las circunstancias del lugar donde vives ([Decreto 1646/1972, artículo 6](https://www.boe.es/buscar/act.php?id=BOE-A-1972-944)).
 
 - **Si la total te la reconocieron antes de los 55**, el aumento corresponde desde que los cumples, si no trabajas. Si no te lo aplican, pídelo al INSS.
-- **Se suspende mientras trabajes**, por cuenta propia o ajena, y se recupera cuando dejas de trabajar.
+- **Se suspende mientras trabajes**, por cuenta propia o ajena, y se recupera cuando dejas de trabajar. La ley permite que el aumento sea incompatible con cualquier trabajo ([artículo 198.1](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198)).
+- **Cómo se pide**: si ya tienes 55 años cuando te reconocen la total, el aumento puede ir en la misma resolución. Si la cobrabas desde antes, pídelo al INSS al cumplirlos.
+- **Avisa al INSS cuando empieces y cuando dejes de trabajar**: si sigues cobrando el 75 % mientras trabajas, te pueden reclamar lo cobrado de más; y si no avisas del cese, no te devuelven el 75 %.
+- **Con pensión mínima**: si el 75 % queda por debajo de la mínima de la tabla de arriba y tus ingresos no pasan del límite (9.442 euros al año en 2026 sin cónyuge a cargo), se completa hasta ella. Por ejemplo, con 61 años y una base de 900 euros, el 75 % son 675 euros, y se completa hasta **875,90 euros al mes**.
+
+<!-- tabla: Incapacidad total y total cualificada según la base reguladora (al mes, 14 pagas) -->
+| Base reguladora | Total (55 %) | Total cualificada (75 %) | Diferencia al mes |
+|---|---|---|---|
+| 1.000 € | 550 € | 750 € | 200 € |
+| 1.500 € | 825 € | 1.125 € | 300 € |
+| 2.000 € | 1.100 € | 1.500 € | 400 € |
+| 2.500 € | 1.375 € | 1.875 € | 500 € |
 
 ## Ejemplos
 
@@ -127,6 +138,10 @@ Sí, en otra profesión o en otro puesto de tu empresa cuyas funciones no sean l
 
 Un aumento del 20 % de la base reguladora para quien tiene 55 años o más y no trabaja: la pensión pasa del 55 % al 75 %. Se suspende mientras trabajes.
 
+### ¿La total cualificada se cobra sola al cumplir 55 años?
+
+La reconoce el INSS, que es quien te paga la pensión. Si te concedieron la total antes de los 55 y al cumplirlos no te aplican el aumento, pídelo.
+
 ### ¿Me pueden despedir por la incapacidad total?
 
 No de forma automática desde mayo de 2025. Si comunicas en 10 días que quieres seguir, la empresa tiene tres meses para adaptar tu puesto o cambiarte a otro compatible. Solo puede extinguir el contrato si no es posible o si rechazas un cambio adecuado.
@@ -158,4 +173,4 @@ A los 67 años la pensión pasa a llamarse de jubilación, con la misma cuantía
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y calcula la pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, corrección de dos frases. 28 de septiembre de 2026, primera versión. 29 de septiembre de 2026: corregido el suelo de la total por enfermedad común, que desde 2019 es la pensión mínima de menores de 60 años con cónyuge no a cargo (684,30 euros al mes), y la cita del artículo 282.1 sobre el paro.*
+*Historial de cambios: 13 de noviembre de 2026, se incorpora la guía de la total cualificada (tabla del 55 % al 75 %, cómo se pide, aviso al INSS y pensión mínima). 20 de octubre de 2026, corrección de dos frases. 28 de septiembre de 2026, primera versión. 29 de septiembre de 2026: corregido el suelo de la total por enfermedad común, que desde 2019 es la pensión mínima de menores de 60 años con cónyuge no a cargo (684,30 euros al mes), y la cita del artículo 282.1 sobre el paro.*

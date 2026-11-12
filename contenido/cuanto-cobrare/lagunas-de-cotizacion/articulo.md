@@ -105,7 +105,7 @@ No, si cobras la prestación contributiva o el subsidio para mayores de 52 años
 
 ## Siguiente paso
 
-- ¿Cómo se calcula tu base? Mira la [base reguladora de la jubilación](/cuanto-cobrare/base-reguladora/).
+- ¿Cómo se calcula tu base? Mira la [base reguladora de la jubilación](/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual).
 - ¿Te faltan años? Consulta las [opciones para completarlos](/jubilacion/faltan-anos-cotizados/).
 - ¿Cuánto te quedará? Calcúlalo con la [calculadora de pensión](/calculadoras/pension-jubilacion/).
 - ¿Trabajaste de jornalero? En el sistema agrario las lagunas no se rellenan: mira [la jubilación de los trabajadores agrarios](/jubilacion/agrarios/).

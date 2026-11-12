@@ -18,3 +18,4 @@
 | 14 | IRPF: la total tributa; pensionistas de total, absoluta o GI se consideran con discapacidad ≥ 33 %; mínimo por discapacidad 3.000 € | Ley del IRPF, arts. 7.f) y 60 | Texto del BOE | Verificado en BOE |
 | 15 | A los 67 años pasa a denominarse jubilación | Art. 200.4 LGSS | Texto del BOE | Verificado en BOE |
 | 16 | Ejemplos (Raúl: 1.542,86 €, 100 %, 848,57 € y 1.157,14 €; Isabel; 1.600 × 55 % = 880 € y × 75 % = 1.200 €) | — | Cálculo propio | Cálculo propio |
+| 17 | Fusión 13/11/2026: tabla 55 % / 75 % por base reguladora (1.000 a 2.500 €), incompatibilidad del 20 % con cualquier trabajo, cómo se pide, ejemplo de mínima (61 años, base 900 €: 675 € → 875,90 €; límite 9.442 €) | Art. 198.1 LGSS; Decreto 1646/1972, art. 6; RD 241/2026, anexo I | Ya verificado en la guía fusionada `publicacion/fusionadas/incapacidad/total-cualificada/`; cálculo propio | Verificado en BOE |

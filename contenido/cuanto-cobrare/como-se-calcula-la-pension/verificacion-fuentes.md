@@ -15,3 +15,4 @@
 | 11 | Coeficientes de anticipada (2,81-21 % voluntaria; hasta 30 % involuntaria) y demora (4 % por año) | Arts. 207, 208 y 210 LGSS | Fichas de los artículos de anticipada y demorada | Verificado en BOE |
 | 12 | Reclamación previa: 30 días | Art. 71 LRJS | Ficha de anticipada voluntaria | Verificado |
 | 13 | Ejemplos (1.714,29; Carlos 1.974,86 y 1.989,45; Elena 2.142,86 y 2.137,20; Juan 1.263 €) y tabla de porcentajes | — | Cálculo propio con las reglas anteriores | Cálculo propio |
+| 14 | Fusión 13/11/2026: bases mínima 1.424,40 € y máxima 5.101,20 € en 2026; subidas anormales de los dos últimos años; pluriempleo con tope de la base máxima; cotización en el paro y en el subsidio de mayores de 52 (125 % de la mínima: 1.780,50 €) | Orden PJC/297/2026; arts. 209.2 a 209.4, 273 y 280 LGSS | Ya verificado en la guía fusionada `publicacion/fusionadas/cuanto-cobrare/base-reguladora/` | Verificado en BOE |

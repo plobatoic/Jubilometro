@@ -33,7 +33,7 @@ fuentes_legales:
 
 ## Cómo se calcula el porcentaje
 
-La pensión de jubilación es tu [base reguladora](/cuanto-cobrare/base-reguladora/) multiplicada por un porcentaje que depende de cuánto has cotizado. Las reglas están en el [artículo 210 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210) y en su disposición transitoria 9.ª, que fija una escala para cada periodo:
+La pensión de jubilación es tu [base reguladora](/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual) multiplicada por un porcentaje que depende de cuánto has cotizado. Las reglas están en el [artículo 210 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210) y en su disposición transitoria 9.ª, que fija una escala para cada periodo:
 
 <!-- tabla: Porcentaje por cada mes cotizado por encima de 15 años -->
 | Año de jubilación | Primeros 15 años | Meses siguientes | Llegas al 100 % con |

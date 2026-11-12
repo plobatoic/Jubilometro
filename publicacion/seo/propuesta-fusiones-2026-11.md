@@ -40,5 +40,16 @@
 
 ## Decisión del titular
 
-- [ ] Aprobar las 13 fusiones (o tachar las que no).
-- [ ] Dependencia por comunidades: dejarlas como están (recomendado) / otra opción.
+- [x] 13/11/2026: aprobadas las 13 fusiones, empezando por las tres con 0 visitas.
+- [ ] Dependencia por comunidades: dejarlas como están (recomendado) / otra opción. Sin respuesta todavía; se dejan.
+
+## Calendario (3 o 4 por semana)
+
+| Tanda | Semana | Fusiones | Estado |
+|---|---|---|---|
+| 1 | 13/11 | 1, 2 y 3 | Hecha el 13/11 (tema 2.11.30) |
+| 2 | 16-20/11 | 4, 5, 6 y 7 | Pendiente |
+| 3 | 23-27/11 | 8, 9 y 10 | Pendiente |
+| 4 | 30/11-4/12 | 11, 12 y 13 | Pendiente |
+
+Ojo con la 5 (pagas extra): `/cuanto-cobrare/como-se-calcula-la-pension/` enlaza a `/cuanto-cobrare/pagas-extra/`; al fusionarla, cambiar ese enlace.

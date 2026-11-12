@@ -7,13 +7,14 @@ categoria: Cuánto cobraré
 miga: Cómo se calcula la pensión
 palabra_clave_principal: cómo se calcula la pensión de jubilación
 palabras_clave_secundarias:
+  - "base reguladora jubilación"
   - "como se calcula la pension de jubilacion de un autonomo"
   - "como se calcula la pension de jubilacion con 15 años cotizados"
   - "como se calcula la pensión de jubilación en 2027"
   - "como se calcula la pension de jubilacion anticipada voluntaria"
 intencion: informativa
 fase_plan: F1 (artículo n.º 22, pilar de Cuánto cobraré)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-11-13
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +25,7 @@ fuentes_legales:
 
 # Cómo se calcula la pensión de jubilación en 2026: el nuevo sistema dual de base reguladora
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 13 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -69,10 +70,26 @@ La reforma del [Real Decreto-ley 2/2023](https://www.boe.es/buscar/doc.php?id=BO
 
 La comparación con el sistema antiguo se mantiene tal cual hasta 2040. En 2041, 2042 y 2043 el cálculo antiguo también se alarga (306, 312 y 318 meses) y **desde 2044 solo existe el sistema nuevo**.
 
+### Qué es una base de cotización
+
+Es la cantidad por la que cotizas cada mes. Si trabajas por cuenta ajena, equivale más o menos a tu **sueldo bruto mensual más la parte proporcional de las pagas extra**, con dos límites en 2026 ([Orden PJC/297/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296)):
+
+- **Base mínima**: 1.424,40 euros al mes en la mayoría de categorías (más alta en los grupos de titulados).
+- **Base máxima**: 5.101,20 euros al mes. Lo que ganes por encima no cotiza ni cuenta para la pensión.
+
+Los autónomos cotizan por la base que eligen dentro de los límites de su tramo de rendimientos.
+
 ### Dos reglas que no cambian
 
 - **Las bases de los dos últimos años cuentan por su importe real; las anteriores se actualizan con el IPC** hasta el mes anterior a esos dos años. Así, lo que cotizaste hace 20 años no pierde valor por la inflación.
 - **Los meses sin cotizar (lagunas) se rellenan**: los primeros 48, con la base mínima del Régimen General de cada mes; el resto, con el 50 % de esa base mínima. Desde 2026, las trabajadoras por cuenta ajena rellenan también los meses 49 a 60 con el 100 % de la base mínima y los meses 61 a 84 con el 80 % (disposición transitoria 41.ª), y lo mismo los hombres que cumplan los requisitos del complemento por hijos. Los autónomos no tienen esta integración, salvo excepciones.
+
+### Lo que no cuenta y lo que cuenta aunque no trabajes
+
+- **Las subidas de sueldo anormales de los dos últimos años**: si tu base sube en los dos años anteriores a jubilarte por encima del aumento medio de tu convenio, ese exceso **no cuenta**, salvo que venga de la antigüedad, un ascenso reglamentario u otro concepto del convenio aplicado a todos ([artículo 209.2 a 209.4](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209)). Tampoco las subidas pactadas por estar cerca de la jubilación.
+- **Varios empleos a la vez (pluriempleo)**: se suman las bases de todas las empresas, pero **sin pasar de la base máxima** de cada mes.
+- **El paro con prestación contributiva sí cuenta**: el SEPE sigue cotizando por ti ([artículo 273](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a273)), así que esos meses no son lagunas.
+- **El subsidio para mayores de 52 años también cuenta**: el SEPE cotiza para la jubilación por el **125 % de la base mínima**, 1.780,50 euros al mes en 2026 ([artículo 280](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a280)). Lo explicamos en el [subsidio para mayores de 52 años](/jubilacion/subsidio-mayores-52/).
 
 ## ¿A quién beneficia el cálculo nuevo?
 
@@ -132,7 +149,7 @@ Resultado: **1.263 euros al mes en 14 pagas**, 17.682 euros al año, antes de la
 
 ## Cómo calcular tu propia pensión
 
-1. **Descarga tu informe de bases de cotización** en Tu Seguridad Social: muestra la base de cada mes, que es el dato que necesitas para la base reguladora.
+1. **Descarga tu informe de bases de cotización** en Tu Seguridad Social o en la aplicación Importass, con [Cl@ve](/ayudas/tramites-online/), certificado o DNI electrónico: muestra la base de cada mes, que es el dato que necesitas para la base reguladora. Revisa que no falten meses trabajados y que las bases cuadren con tus nóminas; si hay un error, pide la corrección a la Tesorería General de la Seguridad Social con tus nóminas o contratos.
 2. **Comprueba tus años cotizados** en el informe de vida laboral: de ellos depende el porcentaje y también tu [edad de jubilación](/jubilacion/edad-de-jubilacion/).
 3. **Haz la simulación** con nuestra calculadora, que aplica los dos sistemas y te dice cuál te favorece, o con el simulador de Tu Seguridad Social, que usa tus datos reales.
 4. **Si quieres verlo todo de una vez** (fecha de jubilación, pensión bruta y neta, y si te compensa adelantarla), usa nuestro [simulador de jubilación](/calculadoras/simulador-jubilacion/).
@@ -140,6 +157,10 @@ Resultado: **1.263 euros al mes en 14 pagas**, 17.682 euros al año, antes de la
 <!-- calculadora-web:pension -->
 
 ## Preguntas frecuentes
+
+### ¿Qué es la base reguladora de la jubilación?
+
+La media de tus bases de cotización de los últimos años, actualizada con el IPC y repartida en 14 pagas. Es la cantidad a la que se aplica el porcentaje por años cotizados para calcular tu pensión.
 
 ### ¿Qué es el sistema dual de cálculo de la pensión?
 
@@ -161,13 +182,22 @@ Sí. La ley dice que el nuevo cálculo se aplica a todos los regímenes de la Se
 
 Porque la pensión se cobra en 14 pagas y las bases de cotización ya incluyen la parte de las pagas extra: dividir entre 350 reparte la media de 12 meses en 14 pagas. En el sistema nuevo pasa lo mismo: 324 meses entre 378.
 
+### ¿Cuenta el paro para la base reguladora?
+
+Sí. Con la prestación contributiva, el SEPE cotiza por ti. Con el subsidio para mayores de 52 años, cotiza por el 125 % de la base mínima, y esas bases cuentan para la base reguladora.
+
+### ¿Qué pasa si me suben mucho el sueldo antes de jubilarme?
+
+Si la subida de los dos últimos años supera la media de tu convenio y no se debe a la antigüedad, un ascenso reglamentario u otro concepto general del convenio, el exceso no cuenta para la base reguladora.
+
 ### ¿Cuál es la pensión máxima en 2026?
 
 3.359,60 euros al mes en 14 pagas, 47.034,40 euros al año. Aunque tu cálculo dé más, no cobrarás más de esa cifra.
 
 ## Fuentes oficiales
 
-- [Ley General de la Seguridad Social: artículo 209 (base reguladora) y disposiciones transitorias 4.ª, 9.ª, 40.ª y 41.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
+- [Ley General de la Seguridad Social: artículos 209 (base reguladora), 273 y 280 (cotización en el paro) y disposiciones transitorias 4.ª, 9.ª, 40.ª y 41.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
+- [Orden PJC/297/2026, bases de cotización de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296) (BOE).
 - [Real Decreto-ley 2/2023, que introdujo el sistema dual](https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967) (BOE).
 - [La Moncloa: revalorización de las pensiones en 2026 (Real Decreto-ley 3/2026)](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx).
 
@@ -181,4 +211,4 @@ Porque la pensión se cobra en 14 pagas y las bases de cotización ya incluyen l
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 13 de noviembre de 2026, se incorpora la guía de la base reguladora (bases de cotización, subidas de los dos últimos años, pluriempleo y paro). 28 de septiembre de 2026, primera versión.*

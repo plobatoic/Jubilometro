@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.29' );
+define( 'JM_THEME_VER', '2.11.30' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -1105,7 +1105,7 @@ function jm_llms_txt() {
 add_action( 'save_post', function () { delete_transient( 'jm_llms_txt' ); } );
 
 // Search Console: archivo de verificación de Google y direcciones antiguas de las páginas legales
-// (otros nombres que Google encontró y daban 404) con redirección permanente a las buenas.
+// (otros nombres que Google encontró y daban 404) y guías fusionadas, con redirección permanente a las buenas.
 add_action( 'init', function () {
 	$uri = isset( $_SERVER['REQUEST_URI'] ) ? strtok( sanitize_text_field( wp_unslash( $_SERVER['REQUEST_URI'] ) ), '?' ) : '';
 	if ( '/google937ba0a9a16a45b8.html' === $uri ) {
@@ -1119,6 +1119,9 @@ add_action( 'init', function () {
 		'/politica-de-cookies/'    => '/politica-cookies/',
 		'/politica-de-cookies'     => '/politica-cookies/',
 	);
+	// Guías fusionadas con otra (inc/data.json → "fusionadas"): la dirección vieja lleva para siempre a la nueva.
+	$viejas = array_merge( $viejas, (array) jm_data( 'fusionadas' ) );
+	if ( '/' !== substr( $uri, -1 ) && isset( $viejas[ $uri . '/' ] ) ) { $uri .= '/'; }
 	if ( isset( $viejas[ $uri ] ) ) {
 		wp_safe_redirect( home_url( $viejas[ $uri ] ), 301 );
 		exit;

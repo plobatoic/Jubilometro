@@ -2240,151 +2240,6 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[borrador pendiente de revisión profesional]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
-    <title><![CDATA[Base reguladora de la pensión de jubilación: qué es, qué bases cuentan y cómo calcular la tuya]]></title>
-    <link>https://jubilometro.com/cuanto-cobrare/base-reguladora/</link>
-    <dc:creator><![CDATA[admin]]></dc:creator>
-    <description></description>
-    <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
-</header>
-<aside class="respuesta-rapida" aria-label="Respuesta rápida">
-<p class="etiqueta">Respuesta rápida</p>
-<p>La base reguladora es la <strong>media de tus bases de cotización</strong> de los últimos años, repartida en 14 pagas. A ella se le aplica el porcentaje por años cotizados para obtener tu pensión.</p>
-<p>En 2026 se calcula de dos formas y se aplica la más favorable: la clásica (<strong>los últimos 300 meses divididos entre 350</strong>) y la nueva (los últimos <strong>304 meses descartando los 2 peores</strong>, que llegará a 348 meses descartando 24 en 2037). Las bases de los dos últimos años cuentan tal cual; las anteriores se <strong>actualizan con el IPC</strong>, y los meses sin cotizar se rellenan con la base mínima.</p>
-</aside>
-<h2 id="que-es-una-base-de-cotizacion">Qué es una base de cotización</h2>
-<p>Es la cantidad por la que cotizas cada mes a la Seguridad Social. En un trabajo por cuenta ajena equivale, más o menos, a tu <strong>sueldo bruto mensual más la parte proporcional de las pagas extra</strong>, con dos límites en 2026 (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026</a>):</p>
-<ul>
-<li><strong>Base mínima</strong>: 1.424,40 euros al mes en la mayoría de categorías (más alta en los grupos de titulados).</li>
-<li><strong>Base máxima</strong>: 5.101,20 euros al mes. Lo que ganes por encima no cotiza ni cuenta para la pensión.</li>
-</ul>
-<p>Los autónomos cotizan por la base que eligen dentro de los límites de su tramo de rendimientos.</p>
-<h2 id="como-se-calcula-la-base-reguladora">Cómo se calcula la base reguladora</h2>
-<p>La fórmula está en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209" rel="noopener">artículo 209 de la Ley General de la Seguridad Social</a>:</p>
-<ol>
-<li><strong>Se toman las bases del periodo de cálculo</strong>, empezando en el mes anterior al de tu jubilación.</li>
-<li><strong>Las de los últimos 24 meses cuentan por su importe nominal.</strong></li>
-<li><strong>Las anteriores se actualizan con el IPC</strong>, desde el mes de cada base hasta el mes anterior a esos 24 últimos. Así, lo que cotizaste hace 20 años no pierde valor por la inflación.</li>
-<li><strong>Los meses sin cotizar se rellenan</strong> (integración de lagunas): los primeros 48 con la base mínima de cada mes y el resto con el 50 %. Las mujeres (y algunos hombres) tienen reglas más favorables; lo explicamos en <a href="/cuanto-cobrare/lagunas-de-cotizacion/">lagunas de cotización</a>.</li>
-<li><strong>Se suman y se dividen</strong> entre el divisor, que reparte la media en 14 pagas.</li>
-</ol>
-<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
-<table><caption id="tabla-1">Periodo y divisor de la base reguladora según el sistema y el año</caption>
-<thead>
-<tr>
-<th scope="col">Sistema</th>
-<th scope="col">Meses que se miran</th>
-<th scope="col">Bases que cuentan</th>
-<th scope="col">Divisor</th>
-</tr>
-</thead>
-<tbody><tr>
-<th scope="row">Clásico (hasta 2040)</th>
-<td>300</td>
-<td>Todas</td>
-<td>350</td>
-</tr>
-<tr>
-<th scope="row">Nuevo en 2026</th>
-<td>304</td>
-<td>Las 302 mejores</td>
-<td>352,33</td>
-</tr>
-<tr>
-<th scope="row">Nuevo en 2027</th>
-<td>308</td>
-<td>Las 304 mejores</td>
-<td>354,67</td>
-</tr>
-<tr>
-<th scope="row">Nuevo desde 2037</th>
-<td>348</td>
-<td>Las 324 mejores</td>
-<td>378</td>
-</tr>
-</tbody></table>
-</div>
-<p>La Seguridad Social calcula las dos y <strong>aplica la más alta de oficio</strong> hasta 2040. El calendario completo y ejemplos de quién gana con cada sistema están en <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</p>
-<h2 id="lo-que-no-cuenta-o-tiene-limite">Lo que no cuenta o tiene límite</h2>
-<ul>
-<li><strong>Las subidas de sueldo anormales de los dos últimos años</strong>: si tu base sube en los dos años anteriores a jubilarte por encima del incremento medio de tu convenio, ese exceso <strong>no se computa</strong>, salvo que venga de la antigüedad, un ascenso reglamentario u otro concepto del convenio aplicado con carácter general (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209" rel="noopener">artículo 209.2 a 209.4</a>). Tampoco las subidas pactadas en función de tener una edad próxima a la jubilación.</li>
-<li><strong>Varios empleos a la vez (pluriempleo)</strong>: se suman las bases de todas las empresas, pero <strong>sin pasar de la base máxima</strong> de cada mes.</li>
-<li><strong>Lo que ganes por encima de la base máxima</strong>, como se ha dicho, no cuenta.</li>
-</ul>
-<h2 id="las-bases-cuando-estas-en-paro">Las bases cuando estás en paro</h2>
-<ul>
-<li><strong>Con la prestación contributiva por desempleo</strong>, el SEPE sigue cotizando por ti a la Seguridad Social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a273" rel="noopener">artículo 273</a>), así que esos meses no son lagunas.</li>
-<li><strong>Con el subsidio para mayores de 52 años</strong>, el SEPE cotiza para la jubilación por el <strong>125 % de la base mínima</strong>: 1.780,50 euros al mes en 2026 (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a280" rel="noopener">artículo 280</a>). Esas bases cuentan para la base reguladora. Lo explicamos en el <a href="/jubilacion/subsidio-mayores-52/">subsidio para mayores de 52 años</a>.</li>
-</ul>
-<h2 id="ejemplo-sencillo">Ejemplo sencillo</h2>
-<p><strong>Rosa se jubila en 2026</strong> y ha cotizado de forma estable. Con sus bases actualizadas, los últimos 300 meses suman 630.000 euros (una media de 2.100 euros al mes):</p>
-<ul>
-<li><strong>Sistema clásico</strong>: 630.000 ÷ 350 = <strong>1.800 euros</strong> de base reguladora.</li>
-<li><strong>Sistema nuevo</strong>: como cotizó siempre parecido, el resultado es prácticamente el mismo. Se le aplica el que dé más.</li>
-<li>Con 38 años cotizados le corresponde el 100 %: su pensión es de <strong>1.800 euros al mes</strong> en 14 pagas.</li>
-</ul>
-<p>Si a Rosa le faltaran años, el porcentaje bajaría: lo ves en la tabla de <a href="/cuanto-cobrare/porcentaje-anos-cotizados/">porcentaje por años cotizados</a>.</p>
-<h2 id="como-consultar-tus-bases-de-cotizacion">Cómo consultar tus bases de cotización</h2>
-<ol>
-<li>Entra en <strong>Tu Seguridad Social</strong> o en la aplicación <strong>Importass</strong> con <a href="/ayudas/tramites-online/">Cl@ve</a>, certificado o DNI electrónico.</li>
-<li>Descarga el <strong>informe de bases de cotización</strong>: muestra la base de cada mes de los últimos años.</li>
-<li>Revisa que <strong>no falten meses</strong> trabajados y que las bases cuadren con tus nóminas: un error ahí reduce la base reguladora. Si encuentras uno, pide la corrección a la Tesorería General de la Seguridad Social con tus nóminas o contratos.</li>
-<li>Calcula tu pensión con esas bases en la calculadora o en el simulador de Tu Seguridad Social.</li>
-</ol>
-<!-- calculadora-web:pension -->
-
-<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
-<h3 id="que-es-la-base-reguladora-de-la-jubilacion">¿Qué es la base reguladora de la jubilación?</h3>
-<p>La media de tus bases de cotización de los últimos años, actualizada con el IPC y repartida en 14 pagas. Es la cantidad a la que se aplica el porcentaje por años cotizados para calcular tu pensión.</p>
-<h3 id="cuantos-anos-cuentan-para-la-base-reguladora-en-2026">¿Cuántos años cuentan para la base reguladora en 2026?</h3>
-<p>Con el sistema clásico, los últimos 25 años (300 meses). Con el nuevo, los últimos 304 meses descartando los 2 peores. Se aplica el más favorable.</p>
-<h3 id="por-que-se-divide-entre-350-y-no-entre-300">¿Por qué se divide entre 350 y no entre 300?</h3>
-<p>Porque la pensión se cobra en 14 pagas y las bases de cotización ya incluyen la parte de las pagas extra. Dividir 300 meses entre 350 reparte la media de 12 meses en 14 pagas.</p>
-<h3 id="cuenta-el-paro-para-la-base-reguladora">¿Cuenta el paro para la base reguladora?</h3>
-<p>Sí. Con la prestación contributiva, el SEPE cotiza por ti. Con el subsidio para mayores de 52 años, cotiza por el 125 % de la base mínima, y esas bases cuentan para la base reguladora.</p>
-<h3 id="que-pasa-si-me-suben-mucho-el-sueldo-antes-de-jubilarme">¿Qué pasa si me suben mucho el sueldo antes de jubilarme?</h3>
-<p>Si la subida de los dos últimos años supera la media de tu convenio y no se debe a la antigüedad, un ascenso reglamentario u otro concepto general del convenio, el exceso no cuenta para la base reguladora.</p>
-<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
-<ul>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 209, 273 y 280 y disposiciones transitorias 4.ª y 40.ª</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, bases de cotización de 2026</a> (BOE).</li>
-</ul>
-<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
-<h2 id="siguiente-paso">Siguiente paso</h2>
-<ul>
-<li>¿Qué sistema te favorece? Mira <a href="/cuanto-cobrare/como-se-calcula-la-pension/">cómo se calcula la pensión de jubilación</a>.</li>
-<li>¿Tienes meses sin cotizar? Lee cómo se rellenan las <a href="/cuanto-cobrare/lagunas-de-cotizacion/">lagunas de cotización</a>.</li>
-<li>¿Cuánto es lo máximo? Consulta la <a href="/cuanto-cobrare/pension-maxima/">pensión máxima de 2026</a>.</li>
-</ul>
-</nav>
-<footer class="descargo">
-<p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
-</footer>
-]]></content:encoded>
-    <excerpt:encoded><![CDATA[La base reguladora es la media de tus bases de cotización de los últimos 25 a 29 años, con IPC y lagunas. Qué cuenta, qué no y cómo consultar tus bases.]]></excerpt:encoded>
-    <wp:post_id>9011</wp:post_id>
-    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[base-reguladora]]></wp:post_name>
-    <wp:status><![CDATA[draft]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[post]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    <category domain="category" nicename="cuanto-cobrare"><![CDATA[Cuánto cobraré]]></category>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Base reguladora de la jubilación: qué es y cómo se calcula]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[La base reguladora es la media de tus bases de cotización de los últimos 25 a 29 años, con IPC y lagunas. Qué cuenta, qué no y cómo consultar tus bases.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[base reguladora jubilación]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Base reguladora de la jubilación: qué es y cómo se calcula]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La base reguladora es la media de tus bases de cotización de los últimos 25 a 29 años, con IPC y lagunas. Qué cuenta, qué no y cómo consultar tus bases.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[base reguladora jubilación, base reguladora jubilación 2027, base reguladora jubilacion 2026, base reguladora jubilacion autonomos, base reguladora jubilacion seguridad social]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
-  </item>
-  <item>
     <title><![CDATA[Calendario de pago de las pensiones: qué día se cobra cada mes, las pagas extra y el primer pago]]></title>
     <link>https://jubilometro.com/cuanto-cobrare/calendario-pago-pensiones/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -2563,7 +2418,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social paga la pensión entre el día 1 y el 4 del mes siguiente, pero los bancos suelen adelantarla al 22-26. Calendario 2026-2027 y pagas extra.]]></excerpt:encoded>
-    <wp:post_id>9012</wp:post_id>
+    <wp:post_id>9011</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2729,7 +2584,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cómo sacar gratis el certificado de tu pensión en la sede de la Seguridad Social con un SMS, Cl@ve o certificado digital, y qué modelo necesitas en cada caso.]]></excerpt:encoded>
-    <wp:post_id>9013</wp:post_id>
+    <wp:post_id>9012</wp:post_id>
     <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -2756,7 +2611,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-09-28">28 de septiembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
+<p class="meta">Actualizado el <time datetime="2026-11-13">13 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -2863,10 +2718,24 @@
 </tbody></table>
 </div>
 <p>La comparación con el sistema antiguo se mantiene tal cual hasta 2040. En 2041, 2042 y 2043 el cálculo antiguo también se alarga (306, 312 y 318 meses) y <strong>desde 2044 solo existe el sistema nuevo</strong>.</p>
+<h3 id="que-es-una-base-de-cotizacion">Qué es una base de cotización</h3>
+<p>Es la cantidad por la que cotizas cada mes. Si trabajas por cuenta ajena, equivale más o menos a tu <strong>sueldo bruto mensual más la parte proporcional de las pagas extra</strong>, con dos límites en 2026 (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026</a>):</p>
+<ul>
+<li><strong>Base mínima</strong>: 1.424,40 euros al mes en la mayoría de categorías (más alta en los grupos de titulados).</li>
+<li><strong>Base máxima</strong>: 5.101,20 euros al mes. Lo que ganes por encima no cotiza ni cuenta para la pensión.</li>
+</ul>
+<p>Los autónomos cotizan por la base que eligen dentro de los límites de su tramo de rendimientos.</p>
 <h3 id="dos-reglas-que-no-cambian">Dos reglas que no cambian</h3>
 <ul>
 <li><strong>Las bases de los dos últimos años cuentan por su importe real; las anteriores se actualizan con el IPC</strong> hasta el mes anterior a esos dos años. Así, lo que cotizaste hace 20 años no pierde valor por la inflación.</li>
 <li><strong>Los meses sin cotizar (lagunas) se rellenan</strong>: los primeros 48, con la base mínima del Régimen General de cada mes; el resto, con el 50 % de esa base mínima. Desde 2026, las trabajadoras por cuenta ajena rellenan también los meses 49 a 60 con el 100 % de la base mínima y los meses 61 a 84 con el 80 % (disposición transitoria 41.ª), y lo mismo los hombres que cumplan los requisitos del complemento por hijos. Los autónomos no tienen esta integración, salvo excepciones.</li>
+</ul>
+<h3 id="lo-que-no-cuenta-y-lo-que-cuenta-aunque-no-trabajes">Lo que no cuenta y lo que cuenta aunque no trabajes</h3>
+<ul>
+<li><strong>Las subidas de sueldo anormales de los dos últimos años</strong>: si tu base sube en los dos años anteriores a jubilarte por encima del aumento medio de tu convenio, ese exceso <strong>no cuenta</strong>, salvo que venga de la antigüedad, un ascenso reglamentario u otro concepto del convenio aplicado a todos (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a209" rel="noopener">artículo 209.2 a 209.4</a>). Tampoco las subidas pactadas por estar cerca de la jubilación.</li>
+<li><strong>Varios empleos a la vez (pluriempleo)</strong>: se suman las bases de todas las empresas, pero <strong>sin pasar de la base máxima</strong> de cada mes.</li>
+<li><strong>El paro con prestación contributiva sí cuenta</strong>: el SEPE sigue cotizando por ti (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a273" rel="noopener">artículo 273</a>), así que esos meses no son lagunas.</li>
+<li><strong>El subsidio para mayores de 52 años también cuenta</strong>: el SEPE cotiza para la jubilación por el <strong>125 % de la base mínima</strong>, 1.780,50 euros al mes en 2026 (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a280" rel="noopener">artículo 280</a>). Lo explicamos en el <a href="/jubilacion/subsidio-mayores-52/">subsidio para mayores de 52 años</a>.</li>
 </ul>
 <h2 id="a-quien-beneficia-el-calculo-nuevo">¿A quién beneficia el cálculo nuevo?</h2>
 <p>Como la media se hace en proporción a 14 pagas en los dos sistemas (300 ÷ 350 = 324 ÷ 378), <strong>si has cotizado siempre lo mismo, el resultado es prácticamente igual</strong>: con 2.000 euros al mes en todo el periodo, la base reguladora sale 1.714,29 euros con los dos cálculos.</p>
@@ -2955,7 +2824,7 @@
 <p>Resultado: <strong>1.263 euros al mes en 14 pagas</strong>, 17.682 euros al año, antes de la retención de IRPF.</p>
 <h2 id="como-calcular-tu-propia-pension">Cómo calcular tu propia pensión</h2>
 <ol>
-<li><strong>Descarga tu informe de bases de cotización</strong> en Tu Seguridad Social: muestra la base de cada mes, que es el dato que necesitas para la base reguladora.</li>
+<li><strong>Descarga tu informe de bases de cotización</strong> en Tu Seguridad Social o en la aplicación Importass, con <a href="/ayudas/tramites-online/">Cl@ve</a>, certificado o DNI electrónico: muestra la base de cada mes, que es el dato que necesitas para la base reguladora. Revisa que no falten meses trabajados y que las bases cuadren con tus nóminas; si hay un error, pide la corrección a la Tesorería General de la Seguridad Social con tus nóminas o contratos.</li>
 <li><strong>Comprueba tus años cotizados</strong> en el informe de vida laboral: de ellos depende el porcentaje y también tu <a href="/jubilacion/edad-de-jubilacion/">edad de jubilación</a>.</li>
 <li><strong>Haz la simulación</strong> con nuestra calculadora, que aplica los dos sistemas y te dice cuál te favorece, o con el simulador de Tu Seguridad Social, que usa tus datos reales.</li>
 <li><strong>Si quieres verlo todo de una vez</strong> (fecha de jubilación, pensión bruta y neta, y si te compensa adelantarla), usa nuestro simulador de jubilación.</li>
@@ -2963,6 +2832,8 @@
 <!-- calculadora-web:pension -->
 
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-es-la-base-reguladora-de-la-jubilacion">¿Qué es la base reguladora de la jubilación?</h3>
+<p>La media de tus bases de cotización de los últimos años, actualizada con el IPC y repartida en 14 pagas. Es la cantidad a la que se aplica el porcentaje por años cotizados para calcular tu pensión.</p>
 <h3 id="que-es-el-sistema-dual-de-calculo-de-la-pension">¿Qué es el sistema dual de cálculo de la pensión?</h3>
 <p>Es la regla que se aplica desde 2026 hasta 2040: la Seguridad Social calcula la base reguladora con el sistema antiguo (los últimos 25 años) y con el nuevo (un periodo más largo en el que se descartan los peores meses) y te reconoce la más alta.</p>
 <h3 id="tengo-que-pedir-que-me-apliquen-el-calculo-mas-favorable">¿Tengo que pedir que me apliquen el cálculo más favorable?</h3>
@@ -2973,11 +2844,16 @@
 <p>Sí. La ley dice que el nuevo cálculo se aplica a todos los regímenes de la Seguridad Social. La diferencia de los autónomos está en las lagunas: en general no se rellenan con la base mínima.</p>
 <h3 id="por-que-se-divide-entre-350-si-se-toman-300-meses">¿Por qué se divide entre 350 si se toman 300 meses?</h3>
 <p>Porque la pensión se cobra en 14 pagas y las bases de cotización ya incluyen la parte de las pagas extra: dividir entre 350 reparte la media de 12 meses en 14 pagas. En el sistema nuevo pasa lo mismo: 324 meses entre 378.</p>
+<h3 id="cuenta-el-paro-para-la-base-reguladora">¿Cuenta el paro para la base reguladora?</h3>
+<p>Sí. Con la prestación contributiva, el SEPE cotiza por ti. Con el subsidio para mayores de 52 años, cotiza por el 125 % de la base mínima, y esas bases cuentan para la base reguladora.</p>
+<h3 id="que-pasa-si-me-suben-mucho-el-sueldo-antes-de-jubilarme">¿Qué pasa si me suben mucho el sueldo antes de jubilarme?</h3>
+<p>Si la subida de los dos últimos años supera la media de tu convenio y no se debe a la antigüedad, un ascenso reglamentario u otro concepto general del convenio, el exceso no cuenta para la base reguladora.</p>
 <h3 id="cual-es-la-pension-maxima-en-2026">¿Cuál es la pensión máxima en 2026?</h3>
 <p>3.359,60 euros al mes en 14 pagas, 47.034,40 euros al año. Aunque tu cálculo dé más, no cobrarás más de esa cifra.</p>
 <h2 id="fuentes-oficiales">Fuentes oficiales</h2>
 <ul>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículo 209 (base reguladora) y disposiciones transitorias 4.ª, 9.ª, 40.ª y 41.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 209 (base reguladora), 273 y 280 (cotización en el paro) y disposiciones transitorias 4.ª, 9.ª, 40.ª y 41.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, bases de cotización de 2026</a> (BOE).</li>
 <li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2023-6967" rel="noopener">Real Decreto-ley 2/2023, que introdujo el sistema dual</a> (BOE).</li>
 <li><a href="https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx" rel="noopener">La Moncloa: revalorización de las pensiones en 2026 (Real Decreto-ley 3/2026)</a>.</li>
 </ul>
@@ -2991,13 +2867,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 28 de septiembre de 2026, primera versión.</p>
+<p>Historial de cambios: 13 de noviembre de 2026, se incorpora la guía de la base reguladora (bases de cotización, subidas de los dos últimos años, pluriempleo y paro). 28 de septiembre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cómo se calcula la pensión de jubilación en 2026: base reguladora con el sistema dual, porcentaje por años cotizados y tope. Tres pasos con ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9014</wp:post_id>
-    <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
+    <wp:post_id>9013</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-13 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-13 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[como-se-calcula-la-pension]]></wp:post_name>
@@ -3013,7 +2889,7 @@
     <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[cómo se calcula la pensión de jubilación]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cómo se calcula la pensión de jubilación 2026: sistema dual]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Cómo se calcula la pensión de jubilación en 2026: base reguladora con el sistema dual, porcentaje por años cotizados y tope. Tres pasos con ejemplos.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cómo se calcula la pensión de jubilación, como se calcula la pension de jubilacion de un autonomo, como se calcula la pension de jubilacion con 15 años cotizados, como se calcula la pensión de jubilación en 2027, como se calcula la pension de jubilacion anticipada voluntaria]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[cómo se calcula la pensión de jubilación, base reguladora jubilación, como se calcula la pension de jubilacion de un autonomo, como se calcula la pension de jubilacion con 15 años cotizados, como se calcula la pensión de jubilación en 2027, como se calcula la pension de jubilacion anticipada voluntaria]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -3125,7 +3001,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El complemento a mínimos sube tu pensión hasta la mínima si vives en España y tus otros ingresos no pasan de 9.442 € al año (11.013 € con cónyuge a cargo).]]></excerpt:encoded>
-    <wp:post_id>9015</wp:post_id>
+    <wp:post_id>9014</wp:post_id>
     <wp:post_date><![CDATA[2026-11-01 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-01 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3265,7 +3141,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El complemento de brecha de género suma 36,90 € al mes por hijo (hasta 4) a la jubilación, incapacidad o viudedad. Quién lo cobra, también padres, y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9016</wp:post_id>
+    <wp:post_id>9015</wp:post_id>
     <wp:post_date><![CDATA[2026-11-01 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-01 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3453,7 +3329,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las elecciones no paran la subida de 2027, que fija la ley con el IPC. Qué falta por aprobar, qué decae, la paga extra y cómo votar por correo.]]></excerpt:encoded>
-    <wp:post_id>9017</wp:post_id>
+    <wp:post_id>9016</wp:post_id>
     <wp:post_date><![CDATA[2026-10-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3500,7 +3376,7 @@
 <li><strong>Que están todos tus trabajos</strong>, con sus fechas de <strong>alta y baja</strong>. Compáralos con tus contratos, nóminas o certificados de empresa.</li>
 <li><strong>Los días totales de alta</strong>: divídelos entre 365 para saber tus años cotizados. De ellos depende el <a href="/cuanto-cobrare/porcentaje-anos-cotizados/">porcentaje de tu pensión</a>.</li>
 <li><strong>El paro</strong>: los periodos en que cobraste la prestación contributiva deben aparecer, porque el SEPE cotiza por ti.</li>
-<li><strong>Las bases</strong> (en el informe de bases de cotización), sobre todo las de los <strong>últimos 25 a 29 años</strong>, que son las que forman tu <a href="/cuanto-cobrare/base-reguladora/">base reguladora</a>. Deben cuadrar con tus nóminas.</li>
+<li><strong>Las bases</strong> (en el informe de bases de cotización), sobre todo las de los <strong>últimos 25 a 29 años</strong>, que son las que forman tu <a href="/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual">base reguladora</a>. Deben cuadrar con tus nóminas.</li>
 <li><strong>Si eres autónomo</strong>, que cada año aparezca tu base de cotización definitiva.</li>
 </ol>
 <h2 id="los-errores-que-mas-rebajan-la-pension">Los errores que más rebajan la pensión</h2>
@@ -3590,7 +3466,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Un periodo que falta en tu vida laboral puede costarte más de 100 € al mes de pensión. Cómo pedir el informe, qué revisar y cómo pedir que lo corrijan.]]></excerpt:encoded>
-    <wp:post_id>9018</wp:post_id>
+    <wp:post_id>9017</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3718,7 +3594,7 @@
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
-<li>¿Cómo se calcula tu base? Mira la <a href="/cuanto-cobrare/base-reguladora/">base reguladora de la jubilación</a>.</li>
+<li>¿Cómo se calcula tu base? Mira la <a href="/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual">base reguladora de la jubilación</a>.</li>
 <li>¿Te faltan años? Consulta las <a href="/jubilacion/faltan-anos-cotizados/">opciones para completarlos</a>.</li>
 <li>¿Cuánto te quedará? Calcúlalo con la calculadora de pensión.</li>
 <li>¿Trabajaste de jornalero? En el sistema agrario las lagunas no se rellenan: mira <a href="/jubilacion/agrarios/">la jubilación de los trabajadores agrarios</a>.</li>
@@ -3730,7 +3606,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lagunas de cotización: cómo se rellenan los meses sin cotizar al calcular la pensión, con la base mínima o la mitad, y las reglas de las mujeres desde 2026.]]></excerpt:encoded>
-    <wp:post_id>9019</wp:post_id>
+    <wp:post_id>9018</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -3988,7 +3864,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El MEI es una cotización del 0,90 % en 2026 (0,15 % a tu cargo) que no da más pensión. La de solidaridad grava el sueldo que pasa de 5.101,20 € al mes.]]></excerpt:encoded>
-    <wp:post_id>9020</wp:post_id>
+    <wp:post_id>9019</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4125,7 +4001,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones se cobran en 14 pagas: la extra llega con la pensión de junio y la de noviembre y es igual a una mensualidad. Cuándo se cobra y cómo se calcula.]]></excerpt:encoded>
-    <wp:post_id>9021</wp:post_id>
+    <wp:post_id>9020</wp:post_id>
     <wp:post_date><![CDATA[2026-10-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4312,7 +4188,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una pensión de menos de 16.476 € al año no tiene retención de IRPF. Tabla de retenciones de 2026 para pensiones de 1.100 a 3.000 € al mes y cómo se calculan.]]></excerpt:encoded>
-    <wp:post_id>9022</wp:post_id>
+    <wp:post_id>9021</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4431,7 +4307,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión máxima de 2026 es de 3.359,60 € al mes en 14 pagas. Qué hay que cotizar para cobrarla y qué pasa si te jubilas antes, después o con dos pensiones.]]></excerpt:encoded>
-    <wp:post_id>9023</wp:post_id>
+    <wp:post_id>9022</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4602,7 +4478,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En 2026 la pensión mínima de jubilación es de 1.256,60 € con cónyuge a cargo y 936,20 € si vives solo, a partir de 65 años. Tablas, requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9024</wp:post_id>
+    <wp:post_id>9023</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4690,7 +4566,7 @@
 </tr>
 </tbody></table>
 </div>
-<p><strong>Por qué 6/7</strong>: la <a href="/cuanto-cobrare/base-reguladora/">base reguladora</a> suma tus bases de los últimos 300 meses y las divide entre 350, porque la pensión se cobra en 14 pagas y no en 12 (300 × 14 ÷ 12 = 350). Con la base de siempre, 300 ÷ 350 = 6/7. Por eso, con carrera completa, <strong>14 pagas de pensión suman lo mismo que 12 meses de base</strong>. El sistema nuevo de cálculo que se aplica desde 2026 da prácticamente el mismo resultado si tu base ha sido estable.</p>
+<p><strong>Por qué 6/7</strong>: la <a href="/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual">base reguladora</a> suma tus bases de los últimos 300 meses y las divide entre 350, porque la pensión se cobra en 14 pagas y no en 12 (300 × 14 ÷ 12 = 350). Con la base de siempre, 300 ÷ 350 = 6/7. Por eso, con carrera completa, <strong>14 pagas de pensión suman lo mismo que 12 meses de base</strong>. El sistema nuevo de cálculo que se aplica desde 2026 da prácticamente el mismo resultado si tu base ha sido estable.</p>
 <p><strong>El neto de la pensión</strong> solo descuenta el IRPF: los pensionistas no pagan cotizaciones a la Seguridad Social, y los trabajadores sí (un 4,70 % solo por contingencias comunes en 2026, más otros conceptos). La retención depende de tu situación familiar; la explicamos en <a href="/cuanto-cobrare/pension-bruta-y-neta/">pensión bruta y neta</a>.</p>
 <h2 id="tabla-pension-segun-tu-base-y-los-anos-cotizados">Tabla: pensión según tu base y los años cotizados</h2>
 <p>Con menos años cotizados cobras solo un porcentaje de la base reguladora: el <strong>50 % con 15 años</strong>, el <strong>73,78 % con 25 años</strong> si te jubilas en 2026 (72,80 % desde 2027) y el <strong>100 % con carrera completa</strong> (<a href="/cuanto-cobrare/porcentaje-anos-cotizados/">porcentaje por años cotizados</a>).</p>
@@ -4779,7 +4655,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Quieres tu cifra exacta? Hazla con la calculadora de pensión.</li>
-<li>¿Cómo se hace la media? Mira la <a href="/cuanto-cobrare/base-reguladora/">base reguladora de la jubilación</a>.</li>
+<li>¿Cómo se hace la media? Mira la <a href="/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual">base reguladora de la jubilación</a>.</li>
 <li>¿Cuánto te quedará en el bolsillo? Consulta la <a href="/cuanto-cobrare/pension-bruta-y-neta/">pensión bruta y neta</a>.</li>
 <li>¿Te llegará para tus gastos? Calcula <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas ahorrado para jubilarte</a>.</li>
 </ul>
@@ -4790,7 +4666,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[¿Cuánto cobraré de pensión según mi sueldo? Con carrera completa y sueldo estable, la pensión se acerca a tu sueldo bruto. Tablas 2026 en bruto y neto.]]></excerpt:encoded>
-    <wp:post_id>9025</wp:post_id>
+    <wp:post_id>9024</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -4825,7 +4701,7 @@
 <p>Por ejemplo, con 30 años cotizados te corresponde el <strong>85,18 %</strong> en 2026 y el <strong>84,20 %</strong> desde 2027. Con menos de 15 años no hay pensión contributiva.</p>
 </aside>
 <h2 id="como-se-calcula-el-porcentaje">Cómo se calcula el porcentaje</h2>
-<p>La pensión de jubilación es tu <a href="/cuanto-cobrare/base-reguladora/">base reguladora</a> multiplicada por un porcentaje que depende de cuánto has cotizado. Las reglas están en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210" rel="noopener">artículo 210 de la Ley General de la Seguridad Social</a> y en su disposición transitoria 9.ª, que fija una escala para cada periodo:</p>
+<p>La pensión de jubilación es tu <a href="/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual">base reguladora</a> multiplicada por un porcentaje que depende de cuánto has cotizado. Las reglas están en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a210" rel="noopener">artículo 210 de la Ley General de la Seguridad Social</a> y en su disposición transitoria 9.ª, que fija una escala para cada periodo:</p>
 <div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
 <table><caption id="tabla-1">Porcentaje por cada mes cotizado por encima de 15 años</caption>
 <thead>
@@ -5041,7 +4917,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Porcentaje de la pensión según los años cotizados: con 15 años cobras el 50 % de la base reguladora y con 37, el 100 %. Tabla 2026-2027 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9026</wp:post_id>
+    <wp:post_id>9025</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5321,7 +5197,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las pensiones subirán en 2027 el IPC medio de diciembre a noviembre: con datos hasta septiembre, entre un 3,3 % y un 3,7 %. Cálculo, fechas y tu subida.]]></excerpt:encoded>
-    <wp:post_id>9027</wp:post_id>
+    <wp:post_id>9026</wp:post_id>
     <wp:post_date><![CDATA[2026-10-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5485,7 +5361,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Andalucía la dependencia se pide por el portal VED o en un registro con cita y tarda de media 402 días. Pasos, documentos, prestaciones y cuantías.]]></excerpt:encoded>
-    <wp:post_id>9028</wp:post_id>
+    <wp:post_id>9027</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5664,7 +5540,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Aragón la dependencia empieza con una cita con la trabajadora social (976 701 705 en Zaragoza). Tarda 109 días de media. Pasos, documentos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9029</wp:post_id>
+    <wp:post_id>9028</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -5837,7 +5713,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Asturias la dependencia se pide con un informe de salud de menos de 6 meses. Si no resuelven a tiempo, se entiende concedida. Pasos, plazos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9030</wp:post_id>
+    <wp:post_id>9029</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6000,7 +5876,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Ayuda a domicilio para mayores con la dependencia: de 20 a 94 horas al mes según el grado, pagando según tus ingresos. También la dan los ayuntamientos.]]></excerpt:encoded>
-    <wp:post_id>9031</wp:post_id>
+    <wp:post_id>9030</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6177,7 +6053,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Baleares la dependencia y la discapacidad se piden en una misma solicitud. El grado tiene un plazo legal de 3 meses. Documentos, pasos y ayudas en 2026.]]></excerpt:encoded>
-    <wp:post_id>9032</wp:post_id>
+    <wp:post_id>9031</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6389,7 +6265,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Canarias la dependencia se pide con un informe de salud oficial, en la sede del Gobierno o en registros. Si no contestan a tiempo, se entiende concedida.]]></excerpt:encoded>
-    <wp:post_id>9033</wp:post_id>
+    <wp:post_id>9032</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6557,7 +6433,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Cantabria la dependencia se pide al ICASS con el anexo I, el padrón y un informe de salud oficial. Tarda 169 días de media. Pasos, documentos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9034</wp:post_id>
+    <wp:post_id>9033</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6762,7 +6638,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Castilla-La Mancha la dependencia se pide con un informe de tu médico de cabecera. Plazo legal: 3 meses desde el 12/11/2026. Pasos, teléfonos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9035</wp:post_id>
+    <wp:post_id>9034</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -6941,7 +6817,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Castilla y León la dependencia se pide en el CEAS, en registros o por internet, con un informe de salud oficial. Tarda 120 días de media. Pasos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9036</wp:post_id>
+    <wp:post_id>9035</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7140,7 +7016,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Cataluña la dependencia se pide en línea, en una oficina o por videoatención. Documentos, visita del SEVAD, tiempos reales de espera y ayudas en 2026.]]></excerpt:encoded>
-    <wp:post_id>9037</wp:post_id>
+    <wp:post_id>9036</wp:post_id>
     <wp:post_date><![CDATA[2026-11-01 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-01 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7309,7 +7185,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Centro de día para mayores: atención de día, comida, rehabilitación y transporte, y a dormir a casa. Cómo conseguir plaza, cuánto se paga y qué ayudas hay.]]></excerpt:encoded>
-    <wp:post_id>9038</wp:post_id>
+    <wp:post_id>9037</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7469,7 +7345,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En la Comunitat Valenciana la dependencia se pide en los servicios sociales del ayuntamiento. Plazos de 3 + 3 meses, silencio positivo a los 6 y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9039</wp:post_id>
+    <wp:post_id>9038</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7605,7 +7481,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Convenio especial del cuidador no profesional: si cuidas a un familiar con la ayuda por cuidados familiares, el Imserso paga tu cotización de jubilación.]]></excerpt:encoded>
-    <wp:post_id>9040</wp:post_id>
+    <wp:post_id>9039</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7779,7 +7655,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una cuidadora interna con el salario mínimo cuesta unos 20.900 € al año con la Seguridad Social. Interna o externa: salario, horarios, cotización y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9041</wp:post_id>
+    <wp:post_id>9040</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -7989,7 +7865,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Extremadura la dependencia se pide al SEPAD con el anexo I; el informe de salud lo consulta la Junta si lo autorizas. Plazos, cuantías y ayudas en 2026.]]></excerpt:encoded>
-    <wp:post_id>9042</wp:post_id>
+    <wp:post_id>9041</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8174,7 +8050,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Galicia la dependencia y la discapacidad se piden juntas (BS210A) y la Xunta paga un bono de 5.000 € al año por cuidar en casa. Pasos, plazos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9043</wp:post_id>
+    <wp:post_id>9042</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8347,7 +8223,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El grado de discapacidad lo reconoce tu comunidad en 6 meses. Con el 33 % pagas menos IRPF; con el 65 %, más ventajas y la PNC. Trámite, baremo y revisión.]]></excerpt:encoded>
-    <wp:post_id>9044</wp:post_id>
+    <wp:post_id>9043</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8575,7 +8451,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El baremo de dependencia puntúa de 0 a 100: grado I de 25 a 49 puntos, grado II de 50 a 74 y grado III de 75 a 100. Qué se valora y qué ayudas da cada grado.]]></excerpt:encoded>
-    <wp:post_id>9045</wp:post_id>
+    <wp:post_id>9044</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8742,7 +8618,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En La Rioja la dependencia se pide con el anexo I, el padrón histórico y un informe del médico de atención primaria. Tarda 130 días de media. Pasos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9046</wp:post_id>
+    <wp:post_id>9045</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -8973,7 +8849,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La ley de dependencia da servicios (ayuda a domicilio, centro de día, residencia) o ayudas de hasta 747,25 € al mes. Quién tiene derecho y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9047</wp:post_id>
+    <wp:post_id>9046</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9140,7 +9016,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Madrid la dependencia se pide por internet o en los servicios sociales municipales. Documentos, plazo legal de 3 meses, media real de 327 días y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9048</wp:post_id>
+    <wp:post_id>9047</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9326,7 +9202,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Murcia la dependencia se pide al IMAS (procedimiento 7402) con informe del centro de salud y una tasa, con exenciones. Es la más lenta: 529 días de media.]]></excerpt:encoded>
-    <wp:post_id>9049</wp:post_id>
+    <wp:post_id>9048</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9517,7 +9393,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En Navarra la dependencia se pide en los servicios sociales de base o en cualquier registro, y la valora la Agencia Navarra. Tarda 228 días de media.]]></excerpt:encoded>
-    <wp:post_id>9050</wp:post_id>
+    <wp:post_id>9049</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9726,7 +9602,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Dependencia en el País Vasco: la valora la diputación foral de cada territorio y se pide en los servicios sociales del ayuntamiento. Pasos, plazos y ayudas.]]></excerpt:encoded>
-    <wp:post_id>9051</wp:post_id>
+    <wp:post_id>9050</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -9978,7 +9854,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Una plaza pública de residencia de mayores cuesta de media 1.959 € al mes y el residente paga 692 €. Precios por comunidad, copago y ayudas para la privada.]]></excerpt:encoded>
-    <wp:post_id>9052</wp:post_id>
+    <wp:post_id>9051</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10115,7 +9991,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Prestación por cuidados en el entorno familiar 2026: hasta 455,40 € al mes en grado III, 315,90 € en el II y 180 € en el I. Requisitos del cuidador.]]></excerpt:encoded>
-    <wp:post_id>9053</wp:post_id>
+    <wp:post_id>9052</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10250,7 +10126,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La ley da tres meses para resolver la dependencia. Si no contestan o te dan menos grado del que crees, así se reclama: escritos, recursos, plazos y modelos.]]></excerpt:encoded>
-    <wp:post_id>9054</wp:post_id>
+    <wp:post_id>9053</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10425,7 +10301,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[En una residencia pública pagas según tus ingresos; en una privada, el precio entero, con hasta 747,25 € de ayuda si eres dependiente. Diferencias y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9055</wp:post_id>
+    <wp:post_id>9054</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10592,7 +10468,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cómo solicitar la dependencia paso a paso: solicitud, informe de salud, visita a casa, grado y PIA. Qué documentos llevar y cómo preparar la valoración.]]></excerpt:encoded>
-    <wp:post_id>9056</wp:post_id>
+    <wp:post_id>9055</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10728,7 +10604,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Teleasistencia para mayores: un botón conectado 24 horas con una central. Se pide con la dependencia o en el ayuntamiento y suele ser gratis o casi gratis.]]></excerpt:encoded>
-    <wp:post_id>9057</wp:post_id>
+    <wp:post_id>9056</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -10950,7 +10826,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La dependencia tarda de media 293 días desde la solicitud hasta la prestación, aunque la ley da 3 meses. Días de espera por comunidad y qué hacer mientras.]]></excerpt:encoded>
-    <wp:post_id>9058</wp:post_id>
+    <wp:post_id>9057</wp:post_id>
     <wp:post_date><![CDATA[2026-11-11 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-11 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11136,7 +11012,7 @@
 <li>¿Quieres tu cifra exacta? Usa la calculadora de ahorro para la jubilación.</li>
 <li>¿Cuánto cobrarás? Mira <a href="/cuanto-cobrare/pension-segun-sueldo/">cuánto cobraré según mi sueldo</a>.</li>
 <li>¿Tienes un plan de pensiones? Consulta cómo <a href="/dinero/rescate-plan-pensiones/">rescatarlo pagando menos impuestos</a>.</li>
-<li>¿Tienes aportaciones de hace más de 10 años? Mira <a href="/dinero/rescate-aportaciones-10-anos/">cómo sacarlas sin estar jubilado</a>.</li>
+<li>¿Tienes aportaciones de hace más de 10 años? Mira <a href="/dinero/rescate-plan-pensiones/#rescatar-antes-de-jubilarte-aportaciones-con-10-anos">cómo sacarlas sin estar jubilado</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -11145,7 +11021,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[¿Cuánto dinero necesito para jubilarme? Lo que tu pensión no cubre por los años que estarás jubilado. Datos del INE sobre el gasto de los mayores y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9059</wp:post_id>
+    <wp:post_id>9058</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11314,7 +11190,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Declaración de la renta de los jubilados: con un solo pagador no declaras si cobras menos de 22.000 € al año; con dos, el límite baja a 15.876 €. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9060</wp:post_id>
+    <wp:post_id>9059</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11439,7 +11315,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Domiciliar la pensión en otro banco: cómo cambiarla, cuándo llega a la cuenta nueva, qué pasa con los regalos y tu derecho a una cuenta gratuita.]]></excerpt:encoded>
-    <wp:post_id>9061</wp:post_id>
+    <wp:post_id>9060</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11674,7 +11550,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Donar en vida puede costar al que dona un IRPF que la herencia no tiene. Cómo tributan herencias y donaciones en 2026, plazos y bonificaciones por comunidad.]]></excerpt:encoded>
-    <wp:post_id>9062</wp:post_id>
+    <wp:post_id>9061</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11824,7 +11700,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Hipoteca inversa, nuda propiedad o renta vitalicia: tres formas de sacar dinero de tu vivienda después de los 65 sin dejar de vivir en ella. Cómo tributan.]]></excerpt:encoded>
-    <wp:post_id>9063</wp:post_id>
+    <wp:post_id>9062</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11939,7 +11815,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te sale a pagar en la renta o ha cambiado tu familia, puedes ajustar lo que te retienen de la pensión. Cómo comunicar datos o pedir más retención al INSS.]]></excerpt:encoded>
-    <wp:post_id>9064</wp:post_id>
+    <wp:post_id>9063</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12116,7 +11992,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cobrar la pensión viviendo en el extranjero: la contributiva se cobra aunque vivas fuera, pero pierdes el complemento a mínimos. Fe de vida, sanidad e IRPF.]]></excerpt:encoded>
-    <wp:post_id>9065</wp:post_id>
+    <wp:post_id>9064</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12267,7 +12143,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con más de 65 años, si vendes un piso, acciones o fondos y reinviertes en 6 meses en una renta vitalicia, la ganancia no tributa (hasta 240.000 €).]]></excerpt:encoded>
-    <wp:post_id>9066</wp:post_id>
+    <wp:post_id>9065</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12289,142 +12165,12 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
-    <title><![CDATA[Rescate de las aportaciones con más de 10 años del plan de pensiones: qué puedes sacar, cómo se pide y cuánto tributa]]></title>
-    <link>https://jubilometro.com/dinero/rescate-aportaciones-10-anos/</link>
-    <dc:creator><![CDATA[admin]]></dc:creator>
-    <description></description>
-    <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-09-29">29 de septiembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria</p>
-</header>
-<aside class="respuesta-rapida" aria-label="Respuesta rápida">
-<p class="etiqueta">Respuesta rápida</p>
-<p>Desde el <strong>1 de enero de 2025</strong> puedes sacar de tu plan de pensiones, <strong>sin estar jubilado</strong>, el dinero que corresponde a <strong>aportaciones con al menos 10 años de antigüedad</strong>: todo lo aportado <strong>hasta el 31 de diciembre de 2015</strong> con su rentabilidad, y después cada aportación cuando cumple 10 años.</p>
-<p>Puedes sacar todo o parte, de una vez o en varios pagos, y seguir aportando. Pero <strong>tributa en el IRPF como un sueldo</strong>, sumado a tus demás ingresos del año. Si parte del dinero viene de <strong>aportaciones anteriores a 2007</strong>, esa parte puede tener una <strong>reducción del 40 %</strong> si la cobras en capital.</p>
-</aside>
-<h2 id="que-dinero-puedes-sacar">Qué dinero puedes sacar</h2>
-<ul>
-<li><strong>Lo aportado hasta el 31 de diciembre de 2015</strong>, con los rendimientos que haya generado, disponible desde el <strong>1 de enero de 2025</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">disposición transitoria 7.ª de la Ley de planes y fondos de pensiones</a>).</li>
-<li><strong>Cada aportación posterior, cuando cumple 10 años</strong>: lo que aportaste el 15 de marzo de 2016 se puede sacar desde el 15 de marzo de 2026 (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">artículo 8.8</a>).</li>
-<li><strong>En los planes individuales y asociados</strong>, siempre. <strong>En los planes de empleo</strong> (los de tu empresa), solo si lo permiten el compromiso y las especificaciones del plan, con sus condiciones. El certificado anual del plan de empleo debe indicarte cuánto puedes sacar por esta vía.</li>
-<li><strong>También en los planes de previsión asegurados</strong> y otros sistemas análogos, por las primas pagadas antes de 2016.</li>
-</ul>
-<p>Lo aportado hace menos de 10 años sigue sin poder rescatarse, salvo jubilación, incapacidad, dependencia, fallecimiento, paro de larga duración o enfermedad grave. Lo explicamos en <a href="/dinero/rescate-plan-pensiones/">rescate del plan de pensiones</a>.</p>
-<h2 id="como-se-pide">Cómo se pide</h2>
-<ol>
-<li><strong>Pregunta a tu entidad</strong> cuánto tienes disponible por aportaciones con más de 10 años y qué parte procede de aportaciones anteriores a 2007.</li>
-<li><strong>Pide la disposición por escrito</strong>: puede ser <strong>total o parcial</strong> y cobrarse <strong>en un pago o en pagos sucesivos</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">artículo 10 del Real Decreto 304/2004</a>).</li>
-<li><strong>La entidad tiene 7 días hábiles</strong> para pagarte desde que presentas la documentación (hasta 30 en algunos planes de empleo y asociados de prestación definida).</li>
-<li><strong>Puedes seguir aportando</strong> al plan: rescatar por esta vía es compatible con nuevas aportaciones (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">artículo 11</a>).</li>
-</ol>
-<h2 id="cuanto-tributa">Cuánto tributa</h2>
-<ul>
-<li><strong>Es rendimiento del trabajo</strong>: tributa como las prestaciones del plan, sumado a tu sueldo o tu pensión en la base general del IRPF (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">artículo 8.8 de la Ley de planes y fondos</a> y <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a17" rel="noopener">artículo 17.2.a de la Ley del IRPF</a>). La entidad te practica una retención a cuenta.</li>
-<li><strong>Reducción del 40 %</strong> para la parte que viene de <strong>aportaciones hechas hasta el 31 de diciembre de 2006</strong> (con su rentabilidad), si la cobras <strong>en forma de capital</strong> y pasaron más de dos años desde la primera aportación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">disposición transitoria 12.ª de la Ley del IRPF</a>).</li>
-<li><strong>Plazo para aplicarla</strong>: según la <a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html" rel="noopener">Agencia Tributaria</a>, la disposición se entiende producida el año en que las aportaciones cumplen 10 años <strong>y tú la pides expresamente</strong>, a la vez para todos tus planes. La reducción se puede aplicar ese año o en los <strong>dos siguientes</strong>.</li>
-<li><strong>Si ya estás jubilado</strong> (o en otra contingencia) cuando rescatas, Hacienda lo trata como la prestación de esa contingencia: si aplicas ahí la reducción del 40 %, ya no podrás volver a aplicarla por la misma contingencia.</li>
-</ul>
-<p><strong>Cuidado con las ayudas</strong>: lo que rescatas cuenta como ingreso del año para las prestaciones que dependen de tus rentas, como el complemento a mínimos o los subsidios.</p>
-<h2 id="ejemplo-de-una-vez-o-en-dos-anos">Ejemplo: de una vez o en dos años</h2>
-<p><strong>Carmen, 60 años, sigue trabajando</strong> con una base del IRPF de 25.000 euros. Tiene 20.000 euros disponibles por aportaciones con más de 10 años, de los que 5.000 proceden de aportaciones anteriores a 2007.</p>
-<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
-<table><caption id="tabla-1">Impuesto por rescatar 20.000 euros de una vez o en dos años (ejemplo simplificado)</caption>
-<thead>
-<tr>
-<th scope="col">Opción</th>
-<th scope="col">Qué suma a su base</th>
-<th scope="col">Impuesto adicional</th>
-</tr>
-</thead>
-<tbody><tr>
-<th scope="row">Todo en 2026</th>
-<td>3.000 € (los 5.000 anteriores a 2007 con la reducción del 40 %) + 15.000 € = 18.000 €</td>
-<td>5.946 €</td>
-</tr>
-<tr>
-<th scope="row">10.000 € en 2026 (con la parte anterior a 2007)</th>
-<td>3.000 € + 5.000 € = 8.000 €</td>
-<td>2.400 €</td>
-</tr>
-<tr>
-<th scope="row">10.000 € en 2027</th>
-<td>10.000 €</td>
-<td>3.000 €</td>
-</tr>
-<tr>
-<th scope="row"><strong>Total en dos años</strong></th>
-<td></td>
-<td><strong>5.400 €</strong></td>
-</tr>
-</tbody></table>
-</div>
-<p>Repartiendo el rescate en dos años, Carmen paga <strong>546 euros menos</strong>, porque menos dinero cae en los tramos altos. Cálculo simplificado con la escala de retenciones de Hacienda (19 %, 24 %, 30 %, 37 %…), sin mínimos ni deducciones; el impuesto real depende de tu comunidad autónoma.</p>
-<h2 id="te-conviene-sacarlo">¿Te conviene sacarlo?</h2>
-<ul>
-<li><strong>Sí, si lo necesitas</strong> para algo importante y no tienes otro ahorro: evita pedir un préstamo.</li>
-<li><strong>Mejor esperar si tu sueldo es alto</strong>: al jubilarte, con menos ingresos, pagarás menos impuestos por el mismo dinero.</li>
-<li><strong>Planifica la reducción del 40 %</strong>: si pides la disposición, empieza a correr el plazo de tres años para aplicarla en esa parte.</li>
-<li><strong>Reparte el cobro</strong>: sacar poco cada año suele tributar menos que sacarlo todo de golpe.</li>
-</ul>
-<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
-<h3 id="puedo-rescatar-mi-plan-de-pensiones-sin-estar-jubilado">¿Puedo rescatar mi plan de pensiones sin estar jubilado?</h3>
-<p>Sí, desde 2025, la parte que corresponde a aportaciones con al menos 10 años de antigüedad: todo lo aportado hasta 2015 y cada aportación posterior cuando cumple 10 años. También en casos de paro de larga duración o enfermedad grave.</p>
-<h3 id="cuanto-tributa-el-rescate-a-los-10-anos">¿Cuánto tributa el rescate a los 10 años?</h3>
-<p>Como un sueldo: se suma a tus demás ingresos del año en la base general del IRPF. La parte procedente de aportaciones anteriores a 2007 puede tener una reducción del 40 % si la cobras en capital en el plazo que marca la ley.</p>
-<h3 id="puedo-seguir-aportando-despues-de-rescatar">¿Puedo seguir aportando después de rescatar?</h3>
-<p>Sí. Rescatar las aportaciones con más de 10 años es compatible con seguir aportando al plan.</p>
-<h3 id="cuanto-tarda-el-banco-en-pagarme">¿Cuánto tarda el banco en pagarme?</h3>
-<p>Como máximo 7 días hábiles desde que presentas la documentación, salvo en algunos planes de empleo y asociados de prestación definida, que pueden tardar hasta 30.</p>
-<h3 id="vale-tambien-para-el-plan-de-pensiones-de-mi-empresa">¿Vale también para el plan de pensiones de mi empresa?</h3>
-<p>Solo si lo permiten el compromiso de la empresa y las especificaciones del plan. Pregunta a la gestora o mira el certificado anual del plan.</p>
-<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
-<ul>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">Ley de regulación de los planes y fondos de pensiones (Real Decreto Legislativo 1/2002): artículo 8.8 y disposición transitoria 7.ª</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">Reglamento de planes y fondos de pensiones (Real Decreto 304/2004): artículos 9.4, 10, 11 y 34</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley del IRPF: artículo 17 y disposición transitoria 12.ª</a> (BOE).</li>
-<li><a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html" rel="noopener">Agencia Tributaria: reducción del 40 % y disposición anticipada de aportaciones con 10 años</a>.</li>
-</ul>
-<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
-<h2 id="siguiente-paso">Siguiente paso</h2>
-<ul>
-<li>¿Y al jubilarte? Mira cómo <a href="/dinero/rescate-plan-pensiones/">rescatar el plan de pensiones</a>.</li>
-<li>¿Cuánto ahorro te hace falta? Consulta <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas para jubilarte</a>.</li>
-<li>¿Cómo declararlo? Repasa la <a href="/dinero/declaracion-renta-jubilados/">declaración de la renta de los jubilados</a>.</li>
-</ul>
-</nav>
-<footer class="descargo">
-<p>Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de tu entidad gestora. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 29 de septiembre de 2026, primera versión.</p>
-</footer>
-]]></content:encoded>
-    <excerpt:encoded><![CDATA[Desde 2025 puedes sacar del plan de pensiones lo aportado hace 10 años o más sin jubilarte. Qué parte, cómo pedirlo, la reducción del 40 % y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9067</wp:post_id>
-    <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[rescate-aportaciones-10-anos]]></wp:post_name>
-    <wp:status><![CDATA[draft]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[post]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Rescatar el plan de pensiones a los 10 años: cuánto tributa]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Desde 2025 puedes sacar del plan de pensiones lo aportado hace 10 años o más sin jubilarte. Qué parte, cómo pedirlo, la reducción del 40 % y el IRPF.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[rescatar plan de pensiones 10 años]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Rescatar el plan de pensiones a los 10 años: cuánto tributa]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Desde 2025 puedes sacar del plan de pensiones lo aportado hace 10 años o más sin jubilarte. Qué parte, cómo pedirlo, la reducción del 40 % y el IRPF.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[rescatar plan de pensiones 10 años, rescatar plan de pensiones 10 años antigüedad, rescatar plan de pensiones antes de 10 años, puedo rescatar mi plan de pensiones a los 10 años, se puede rescatar un plan de pensiones a los 10 años]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
-  </item>
-  <item>
     <title><![CDATA[Rescatar el plan de pensiones al jubilarte: cuándo puedes, cómo tributa y cómo pagar menos IRPF]]></title>
     <link>https://jubilometro.com/dinero/rescate-plan-pensiones/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-10-20">20 de octubre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria</p>
+<p class="meta">Actualizado el <time datetime="2026-11-13">13 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -12441,7 +12187,7 @@
 </ul>
 <p>Además, puedes sacar el dinero antes en estos casos, si las especificaciones del plan lo permiten:</p>
 <ul>
-<li><strong><a href="/dinero/rescate-aportaciones-10-anos/">Aportaciones con más de 10 años</a></strong>: desde el 1 de enero de 2025 puedes rescatar lo aportado hasta el 31 de diciembre de 2015 con su rentabilidad, y a partir de ahí cada aportación cuando cumple 10 años (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">disposición transitoria 7.ª de la Ley de planes y fondos de pensiones</a>).</li>
+<li><strong><a href="#rescatar-antes-de-jubilarte-aportaciones-con-10-anos">Aportaciones con más de 10 años</a></strong>: desde el 1 de enero de 2025 puedes rescatar lo aportado hasta el 31 de diciembre de 2015 con su rentabilidad, y a partir de ahí cada aportación cuando cumple 10 años (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">disposición transitoria 7.ª de la Ley de planes y fondos de pensiones</a>). Lo explicamos más abajo.</li>
 <li><strong>Paro de larga duración</strong>: sin prestación contributiva (o agotada) e inscrito como demandante de empleo.</li>
 <li><strong>Enfermedad grave</strong> tuya, de tu cónyuge o de padres o hijos.</li>
 <li><strong>Desde los 60 años</strong>, si has dejado de trabajar y aún no puedes jubilarte.</li>
@@ -12529,6 +12275,27 @@
 <p><strong>Opción B: la parte anterior a 2007 en capital en 2026 y el resto en cuatro años.</strong> En 2026 tributan 12.000 euros (1.794 euros estatales) y de 2027 a 2030, 10.000 euros cada año (1.494 euros por año): <strong>7.770 euros de IRPF estatal</strong>.</p>
 <p>Repartiendo, Luis se ahorra <strong>1.792 euros solo en la parte estatal</strong>, y otro tanto parecido en la autonómica: en total, del orden de <strong>3.500 euros</strong>.</p>
 <p>Los cálculos son una simplificación: el impuesto real depende de tu comunidad, tu mínimo personal y familiar y tus otros ingresos. Antes de decidir, pide a tu gestora una simulación o calcula la declaración con el simulador de Renta WEB.</p>
+<h2 id="rescatar-antes-de-jubilarte-aportaciones-con-10-anos">Rescatar antes de jubilarte: aportaciones con 10 años</h2>
+<p>Desde el <strong>1 de enero de 2025</strong> puedes sacar del plan, <strong>sin estar jubilado</strong>, el dinero de las aportaciones que tienen al menos <strong>10 años de antigüedad</strong>:</p>
+<ul>
+<li><strong>Lo aportado hasta el 31 de diciembre de 2015</strong>, con su rentabilidad (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">disposición transitoria 7.ª de la Ley de planes y fondos de pensiones</a>).</li>
+<li><strong>Cada aportación posterior, cuando cumple 10 años</strong>: lo aportado el 15 de marzo de 2016 se puede sacar desde el 15 de marzo de 2026 (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">artículo 8.8</a>).</li>
+<li><strong>Planes individuales y asociados</strong>: siempre. <strong>Planes de empleo</strong> (los de tu empresa): solo si lo permiten el compromiso y las especificaciones del plan; el certificado anual te dice cuánto puedes sacar. También vale para los <strong>planes de previsión asegurados</strong>, por las primas pagadas antes de 2016.</li>
+</ul>
+<p><strong>Cómo se pide:</strong></p>
+<ol>
+<li>Pregunta a tu entidad cuánto tienes disponible por esta vía y qué parte viene de aportaciones anteriores a 2007.</li>
+<li>Pide la disposición por escrito: <strong>total o parcial</strong>, en <strong>un pago o en varios</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">artículo 10 del Real Decreto 304/2004</a>).</li>
+<li>La entidad tiene <strong>7 días hábiles</strong> para pagarte desde que entregas la documentación (hasta 30 en algunos planes de empleo y asociados de prestación definida).</li>
+<li><strong>Puedes seguir aportando</strong> al plan después (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">artículo 11</a>).</li>
+</ol>
+<p><strong>Cómo tributa:</strong> igual que el rescate por jubilación, como un sueldo sumado a tus demás ingresos del año. La parte de aportaciones hechas hasta 2006, cobrada en capital, puede tener la <strong>reducción del 40 %</strong>. Según la <a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html" rel="noopener">Agencia Tributaria</a>, la reducción se aplica en el año en que pides la disposición o en los <strong>dos siguientes</strong>, a la vez para todos tus planes. Si ya estás jubilado cuando rescatas, cuenta como prestación de jubilación, y la reducción que apliques ahí ya no podrás usarla otra vez.</p>
+<p><strong>Antes de sacarlo:</strong></p>
+<ul>
+<li>Si tu sueldo es alto, suele salir mejor esperar a jubilarte: con menos ingresos, el mismo dinero paga menos impuestos.</li>
+<li>Lo que sacas cuenta como ingreso del año para las ayudas que dependen de tus rentas, como el <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a> o los subsidios.</li>
+<li>Igual que al jubilarte, repartir el cobro en varios años suele tributar menos que sacarlo todo de golpe.</li>
+</ul>
 <h2 id="consejos-antes-de-rescatar">Consejos antes de rescatar</h2>
 <ol>
 <li><strong>No tienes prisa</strong>: el plan no caduca. Puedes esperar a un año con menos ingresos.</li>
@@ -12546,13 +12313,15 @@
 <p>Una rebaja en el IRPF para la parte del plan que corresponde a aportaciones hechas hasta el 31 de diciembre de 2006, si la cobras en forma de capital en el año de la jubilación o en los dos siguientes. Solo tributa el 60 % de esa parte.</p>
 <h3 id="tengo-que-rescatar-el-plan-al-jubilarme">¿Tengo que rescatar el plan al jubilarme?</h3>
 <p>No. Puedes dejarlo invertido todo el tiempo que quieras y cobrarlo más tarde. Lo único que pierdes si no cobras en capital en el año de la jubilación o en los dos siguientes es la reducción del 40 % sobre la parte anterior a 2007.</p>
+<h3 id="puedo-rescatar-el-plan-de-pensiones-sin-estar-jubilado">¿Puedo rescatar el plan de pensiones sin estar jubilado?</h3>
+<p>Sí, desde 2025, la parte de aportaciones con al menos 10 años de antigüedad: todo lo aportado hasta 2015 y cada aportación posterior cuando cumple 10 años. Puedes seguir aportando después. También se puede rescatar antes por paro de larga duración o enfermedad grave.</p>
 <h3 id="me-retienen-irpf-al-rescatar-el-plan">¿Me retienen IRPF al rescatar el plan?</h3>
 <p>Sí. La gestora aplica una retención en cada pago, que luego se ajusta en tu declaración de la renta.</p>
 <h3 id="como-se-declara-el-rescate-del-plan-de-pensiones-en-la-renta">¿Cómo se declara el rescate del plan de pensiones en la renta?</h3>
 <p>Como rendimiento del trabajo: se suma a tu pensión y a tus otros ingresos y tributa a tu tipo marginal. La gestora te retiene IRPF en cada pago, y esa retención se descuenta en la declaración. La parte que corresponde a aportaciones hechas hasta 2006, cobrada en forma de capital, puede tener la reducción del 40 % con los plazos que explicamos arriba.</p>
 <h2 id="fuentes-oficiales">Fuentes oficiales</h2>
 <ul>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">Reglamento de planes y fondos de pensiones (Real Decreto 304/2004), artículos 7 a 10</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453" rel="noopener">Reglamento de planes y fondos de pensiones (Real Decreto 304/2004), artículos 7 a 11</a> (BOE).</li>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252" rel="noopener">Ley de regulación de los planes y fondos de pensiones (Real Decreto Legislativo 1/2002), artículo 8.8 y disposición transitoria 7.ª</a> (BOE).</li>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764" rel="noopener">Ley 35/2006 del IRPF: artículos 17 y 63 y disposición transitoria 12.ª</a> (BOE).</li>
 <li><a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html" rel="noopener">Agencia Tributaria: prestaciones en forma de capital y régimen transitorio</a>.</li>
@@ -12564,18 +12333,18 @@
 <li>¿Cuánto necesitas ahorrado? Prueba la calculadora ¿cuánto necesito ahorrar?</li>
 <li>¿Te llegará con la pensión? Lee <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas ahorrado para jubilarte</a>.</li>
 <li>¿Cuándo te jubilas? Consulta la <a href="/jubilacion/edad-de-jubilacion/">tabla de edad de jubilación</a>.</li>
-<li>¿Necesitas el dinero antes de jubilarte? Mira el <a href="/dinero/rescate-aportaciones-10-anos/">rescate de las aportaciones con más de 10 años</a>.</li>
+<li>¿Cómo declararlo? Repasa la <a href="/dinero/declaracion-renta-jubilados/">declaración de la renta de los jubilados</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de tu gestora. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, corrección ortográfica. 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 28 de septiembre de 2026, primera versión.</p>
+<p>Historial de cambios: 13 de noviembre de 2026, se incorpora la guía del rescate de las aportaciones con más de 10 años (cómo se pide, plazos y tributación). 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, corrección ortográfica. 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 28 de septiembre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9068</wp:post_id>
-    <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
+    <wp:post_id>9066</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-13 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-13 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[rescate-plan-pensiones]]></wp:post_name>
@@ -12591,7 +12360,7 @@
     <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[rescate plan de pensiones]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Rescatar el plan de pensiones al jubilarse: cómo pagar menos]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[rescate plan de pensiones, rescate plan de pensiones 10 años, rescate plan de pensiones 2026, rescate plan de pensiones aportaciones anteriores a 2006, rescate plan de pensiones aportaciones anteriores a 2007]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[rescate plan de pensiones, rescate plan de pensiones 10 años, rescatar plan de pensiones sin jubilarse, rescate plan de pensiones 2026, rescate plan de pensiones aportaciones anteriores a 2006, rescate plan de pensiones aportaciones anteriores a 2007]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -12698,7 +12467,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Seguro de decesos para mayores de 60: paga el funeral pactado, no pueden darte de baja por la edad y el dinero sobrante es de tus herederos. Qué mirar.]]></excerpt:encoded>
-    <wp:post_id>9069</wp:post_id>
+    <wp:post_id>9067</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12855,7 +12624,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Seguro de salud para mayores de 65: qué cubre la sanidad pública (pagas el 10 % de los medicamentos, con tope) y qué mirar en un seguro privado.]]></excerpt:encoded>
-    <wp:post_id>9070</wp:post_id>
+    <wp:post_id>9068</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12981,7 +12750,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></excerpt:encoded>
-    <wp:post_id>9071</wp:post_id>
+    <wp:post_id>9069</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13090,7 +12859,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Plazas libres del Imserso: cada semana vuelven a la venta plazas por cancelaciones e impagos. Cuándo salen, cómo reservar en otra provincia y la espera.]]></excerpt:encoded>
-    <wp:post_id>9072</wp:post_id>
+    <wp:post_id>9070</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13256,7 +13025,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Requisitos de los viajes del Imserso 2026: jubilados a cualquier edad, viudos desde los 55 y otros pensionistas o parados desde los 60. Con quién ir.]]></excerpt:encoded>
-    <wp:post_id>9073</wp:post_id>
+    <wp:post_id>9071</wp:post_id>
     <wp:post_date><![CDATA[2026-11-01 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-01 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13444,7 +13213,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Reservar un viaje del Imserso: con tu DNI y la clave de 4 dígitos, en turismosocial.es, mundicolor.es o una agencia. Plazos de pago y cancelación.]]></excerpt:encoded>
-    <wp:post_id>9074</wp:post_id>
+    <wp:post_id>9072</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13623,7 +13392,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 60 años, la Tarjeta Dorada de Renfe cuesta 6 € y rebaja hasta un 40 % el tren. Y tu comunidad puede darte gratis una tarjeta de mayor con más descuentos.]]></excerpt:encoded>
-    <wp:post_id>9075</wp:post_id>
+    <wp:post_id>9073</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13932,7 +13701,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Termalismo del Imserso 2027: 199.000 plazas, 10 días de balneario desde 322,45 €. Para febrero-agosto se pide hasta el 4 de diciembre. Requisitos y baremo.]]></excerpt:encoded>
-    <wp:post_id>9076</wp:post_id>
+    <wp:post_id>9074</wp:post_id>
     <wp:post_date><![CDATA[2026-11-04 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-04 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14136,7 +13905,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Viajes para mayores de las comunidades autónomas: Castilla-La Mancha, Madrid, Castilla y León, Valencia y Galicia tienen viajes o balnearios propios.]]></excerpt:encoded>
-    <wp:post_id>9077</wp:post_id>
+    <wp:post_id>9075</wp:post_id>
     <wp:post_date><![CDATA[2026-11-04 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-04 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14291,7 +14060,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Universidad para mayores: desde los 50 o 55 años estudias sin título previo, y con 25, 40 o 45 años puedes entrar en un grado oficial. Cada opción explicada.]]></excerpt:encoded>
-    <wp:post_id>9078</wp:post_id>
+    <wp:post_id>9076</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14635,7 +14404,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Viajes del Imserso 2026-2027: 879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje y cómo conseguir plaza.]]></excerpt:encoded>
-    <wp:post_id>9079</wp:post_id>
+    <wp:post_id>9077</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14781,7 +14550,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Abogado de incapacidad permanente: para pedirla no hace falta y en el juicio no es obligatorio, pero ayuda. Cuánto cuesta y tu derecho a uno de oficio.]]></excerpt:encoded>
-    <wp:post_id>9080</wp:post_id>
+    <wp:post_id>9078</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14945,7 +14714,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 1 de diciembre de 2026, la baja por una patología de la menopausia no pide cotización previa y se cobra desde el día siguiente. Requisitos y ejemplo.]]></excerpt:encoded>
-    <wp:post_id>9081</wp:post_id>
+    <wp:post_id>9079</wp:post_id>
     <wp:post_date><![CDATA[2026-10-22 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-22 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15133,7 +14902,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[De baja por enfermedad cobras el 60 % de tu base del día 4 al 20 y el 75 % desde el 21; por accidente laboral, el 75 % desde el día siguiente. Con ejemplo.]]></excerpt:encoded>
-    <wp:post_id>9082</wp:post_id>
+    <wp:post_id>9080</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15229,7 +14998,7 @@
 <li><strong>Si tu enfermedad podría ser profesional o venir de un accidente de trabajo</strong>, pide que se determine la contingencia: cambia la base reguladora y no exige cotización mínima.</li>
 </ul>
 <h2 id="ejemplo">Ejemplo</h2>
-<p><strong>Javier, 56 años, albañil</strong>, pide la incapacidad permanente por una artrosis de rodilla. El INSS la deniega porque el tribunal médico considera que puede seguir trabajando. Javier presenta en 30 días una <strong>reclamación previa</strong> con un informe nuevo de su traumatólogo que describe que no puede agacharse ni cargar peso, tareas esenciales de su oficio. El INSS no contesta en 45 días, así que Javier presenta la <strong>demanda</strong> en los 30 días siguientes, con la ayuda de un abogado de oficio. En el juicio, un perito explica sus limitaciones. Si el juez le reconoce una <strong>incapacidad total</strong>, cobrará el 55 % de su base reguladora, y como ya tiene más de 55 años, podrá pedir que suba al 75 % mientras no trabaje (<a href="/incapacidad/total-cualificada/">incapacidad total cualificada</a>).</p>
+<p><strong>Javier, 56 años, albañil</strong>, pide la incapacidad permanente por una artrosis de rodilla. El INSS la deniega porque el tribunal médico considera que puede seguir trabajando. Javier presenta en 30 días una <strong>reclamación previa</strong> con un informe nuevo de su traumatólogo que describe que no puede agacharse ni cargar peso, tareas esenciales de su oficio. El INSS no contesta en 45 días, así que Javier presenta la <strong>demanda</strong> en los 30 días siguientes, con la ayuda de un abogado de oficio. En el juicio, un perito explica sus limitaciones. Si el juez le reconoce una <strong>incapacidad total</strong>, cobrará el 55 % de su base reguladora, y como ya tiene más de 55 años, podrá pedir que suba al 75 % mientras no trabaje (<a href="/incapacidad/incapacidad-total/#la-total-cualificada-el-75-desde-los-55-anos">incapacidad total cualificada</a>).</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="cuanto-tiempo-tengo-para-reclamar-si-me-deniegan-la-incapaci">¿Cuánto tiempo tengo para reclamar si me deniegan la incapacidad?</h3>
 <p>30 días desde la notificación para la reclamación previa ante el INSS. Si la rechaza o no contesta en 45 días, otros 30 días para presentar la demanda en el Juzgado de lo Social.</p>
@@ -15262,7 +15031,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa y otros 30 para demandar. Plazos, pruebas y qué pasa con tu baja.]]></excerpt:encoded>
-    <wp:post_id>9083</wp:post_id>
+    <wp:post_id>9081</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15453,7 +15222,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Enfermedades que dan incapacidad permanente: no hay una lista cerrada, se valoran tus limitaciones para trabajar. Cómo decide el tribunal médico.]]></excerpt:encoded>
-    <wp:post_id>9084</wp:post_id>
+    <wp:post_id>9082</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15672,7 +15441,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9085</wp:post_id>
+    <wp:post_id>9083</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15819,7 +15588,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La gran incapacidad da el 100 % de la base reguladora más un complemento para quien te cuida. Cálculo del complemento, mínima de 1.404,30 € y dependencia.]]></excerpt:encoded>
-    <wp:post_id>9086</wp:post_id>
+    <wp:post_id>9084</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15961,7 +15730,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9087</wp:post_id>
+    <wp:post_id>9085</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16080,7 +15849,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad parcial se reconoce si rindes al menos un 33 % menos. Cobras 24 mensualidades de una vez y sigues en tu trabajo. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9088</wp:post_id>
+    <wp:post_id>9086</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16243,7 +16012,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></excerpt:encoded>
-    <wp:post_id>9089</wp:post_id>
+    <wp:post_id>9087</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16270,7 +16039,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-10-20">20 de octubre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
+<p class="meta">Actualizado el <time datetime="2026-11-13">13 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -16336,8 +16105,47 @@
 <p>A partir de los <strong>55 años</strong>, la pensión sube un <strong>20 % de la base reguladora</strong>, hasta el <strong>75 %</strong>, porque se presume que es difícil encontrar un empleo distinto por la edad, la falta de preparación y las circunstancias del lugar donde vives (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972, artículo 6</a>).</p>
 <ul>
 <li><strong>Si la total te la reconocieron antes de los 55</strong>, el aumento corresponde desde que los cumples, si no trabajas. Si no te lo aplican, pídelo al INSS.</li>
-<li><strong>Se suspende mientras trabajes</strong>, por cuenta propia o ajena, y se recupera cuando dejas de trabajar.</li>
+<li><strong>Se suspende mientras trabajes</strong>, por cuenta propia o ajena, y se recupera cuando dejas de trabajar. La ley permite que el aumento sea incompatible con cualquier trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198.1</a>).</li>
+<li><strong>Cómo se pide</strong>: si ya tienes 55 años cuando te reconocen la total, el aumento puede ir en la misma resolución. Si la cobrabas desde antes, pídelo al INSS al cumplirlos.</li>
+<li><strong>Avisa al INSS cuando empieces y cuando dejes de trabajar</strong>: si sigues cobrando el 75 % mientras trabajas, te pueden reclamar lo cobrado de más; y si no avisas del cese, no te devuelven el 75 %.</li>
+<li><strong>Con pensión mínima</strong>: si el 75 % queda por debajo de la mínima de la tabla de arriba y tus ingresos no pasan del límite (9.442 euros al año en 2026 sin cónyuge a cargo), se completa hasta ella. Por ejemplo, con 61 años y una base de 900 euros, el 75 % son 675 euros, y se completa hasta <strong>875,90 euros al mes</strong>.</li>
 </ul>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Incapacidad total y total cualificada según la base reguladora (al mes, 14 pagas)</caption>
+<thead>
+<tr>
+<th scope="col">Base reguladora</th>
+<th scope="col">Total (55 %)</th>
+<th scope="col">Total cualificada (75 %)</th>
+<th scope="col">Diferencia al mes</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">1.000 €</th>
+<td>550 €</td>
+<td>750 €</td>
+<td>200 €</td>
+</tr>
+<tr>
+<th scope="row">1.500 €</th>
+<td>825 €</td>
+<td>1.125 €</td>
+<td>300 €</td>
+</tr>
+<tr>
+<th scope="row">2.000 €</th>
+<td>1.100 €</td>
+<td>1.500 €</td>
+<td>400 €</td>
+</tr>
+<tr>
+<th scope="row">2.500 €</th>
+<td>1.375 €</td>
+<td>1.875 €</td>
+<td>500 €</td>
+</tr>
+</tbody></table>
+</div>
 <h2 id="ejemplos">Ejemplos</h2>
 <p><strong>Raúl, 48 años, albañil, por enfermedad común.</strong> Lleva 25 años cotizados y sus bases de los últimos 96 meses suman, actualizadas, 172.800 euros (1.800 al mes de media).</p>
 <ul>
@@ -16355,8 +16163,8 @@
 </ul>
 <h2 id="cobrarla-de-una-vez-la-indemnizacion-para-menores-de-60-anos">Cobrarla de una vez: la indemnización para menores de 60 años</h2>
 <p>Si tienes <strong>menos de 60 años</strong>, puedes pedir, de forma excepcional, cambiar la pensión por una <strong>indemnización a tanto alzado</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-1210" rel="noopener">Orden de 31 de julio de 1972, artículo 5</a>):</p>
-<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
-<table><caption id="tabla-2">Indemnización que sustituye a la pensión de incapacidad total, según la edad al pedirla</caption>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Indemnización que sustituye a la pensión de incapacidad total, según la edad al pedirla</caption>
 <thead>
 <tr>
 <th scope="col">Edad al pedirla</th>
@@ -16405,6 +16213,8 @@
 <p>Sí, en otra profesión o en otro puesto de tu empresa cuyas funciones no sean las que dieron lugar a la incapacidad. La pensión y el sueldo se cobran a la vez; solo se suspende el 20 % extra de la cualificada.</p>
 <h3 id="que-es-la-incapacidad-total-cualificada">¿Qué es la incapacidad total cualificada?</h3>
 <p>Un aumento del 20 % de la base reguladora para quien tiene 55 años o más y no trabaja: la pensión pasa del 55 % al 75 %. Se suspende mientras trabajes.</p>
+<h3 id="la-total-cualificada-se-cobra-sola-al-cumplir-55-anos">¿La total cualificada se cobra sola al cumplir 55 años?</h3>
+<p>La reconoce el INSS, que es quien te paga la pensión. Si te concedieron la total antes de los 55 y al cumplirlos no te aplican el aumento, pídelo.</p>
 <h3 id="me-pueden-despedir-por-la-incapacidad-total">¿Me pueden despedir por la incapacidad total?</h3>
 <p>No de forma automática desde mayo de 2025. Si comunicas en 10 días que quieres seguir, la empresa tiene tres meses para adaptar tu puesto o cambiarte a otro compatible. Solo puede extinguir el contrato si no es posible o si rechazas un cambio adecuado.</p>
 <h3 id="la-incapacidad-total-paga-irpf">¿La incapacidad total paga IRPF?</h3>
@@ -16430,13 +16240,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien declara la incapacidad y calcula la pensión. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 20 de octubre de 2026, corrección de dos frases. 28 de septiembre de 2026, primera versión. 29 de septiembre de 2026: corregido el suelo de la total por enfermedad común, que desde 2019 es la pensión mínima de menores de 60 años con cónyuge no a cargo (684,30 euros al mes), y la cita del artículo 282.1 sobre el paro.</p>
+<p>Historial de cambios: 13 de noviembre de 2026, se incorpora la guía de la total cualificada (tabla del 55 % al 75 %, cómo se pide, aviso al INSS y pensión mínima). 20 de octubre de 2026, corrección de dos frases. 28 de septiembre de 2026, primera versión. 29 de septiembre de 2026: corregido el suelo de la total por enfermedad común, que desde 2019 es la pensión mínima de menores de 60 años con cónyuge no a cargo (684,30 euros al mes), y la cita del artículo 282.1 sobre el paro.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9090</wp:post_id>
-    <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
+    <wp:post_id>9088</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-13 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-13 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[incapacidad-total]]></wp:post_name>
@@ -16541,7 +16351,7 @@
 <ul>
 <li>¿Cuándo te jubilas tú? Calcúlalo con la <a href="/jubilacion/edad-de-jubilacion/">edad de jubilación</a>.</li>
 <li>¿Qué grado tienes? Repasa los <a href="/incapacidad/grados-incapacidad/">grados de incapacidad permanente</a>.</li>
-<li>¿Tienes más de 55 años con una total? Mira la <a href="/incapacidad/total-cualificada/">incapacidad total cualificada</a>.</li>
+<li>¿Tienes más de 55 años con una total? Mira la <a href="/incapacidad/incapacidad-total/#la-total-cualificada-el-75-desde-los-55-anos">incapacidad total cualificada</a>.</li>
 </ul>
 </nav>
 <footer class="descargo">
@@ -16550,7 +16360,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[A los 67 la incapacidad permanente pasa a llamarse jubilación sin cambiar. Si ya puedes jubilarte no hay incapacidad común, y las dos pensiones no se suman.]]></excerpt:encoded>
-    <wp:post_id>9091</wp:post_id>
+    <wp:post_id>9089</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16623,7 +16433,7 @@
 <h2 id="incapacidad-total-trabajar-en-otra-cosa">Incapacidad total: trabajar en otra cosa</h2>
 <p>La pensión de la total es <strong>compatible con el salario</strong> en la misma empresa o en otra, siempre que las funciones <strong>no coincidan</strong> con las que dieron lugar a la incapacidad (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198.1 de la Ley General de la Seguridad Social</a>).</p>
 <p><strong>Ejemplo:</strong> Javier, albañil, tiene una total por una lesión de espalda. Cobra 1.100 euros de pensión. Si empieza a trabajar como <strong>conserje</strong> por 1.300 euros, cobra <strong>las dos cantidades</strong>. Si volviera a trabajar de <strong>albañil</strong>, el INSS podría revisar su grado, porque demostraría que puede hacer su profesión.</p>
-<p><strong>La total cualificada</strong> (el 75 %, a partir de los 55 años) existe porque se presume que te costará encontrar otro empleo. Por eso el <strong>20 % adicional se suspende</strong> mientras trabajes, también como autónomo, y se recupera cuando dejas el trabajo. Te lo explicamos en <a href="/incapacidad/total-cualificada/">incapacidad total cualificada</a>.</p>
+<p><strong>La total cualificada</strong> (el 75 %, a partir de los 55 años) existe porque se presume que te costará encontrar otro empleo. Por eso el <strong>20 % adicional se suspende</strong> mientras trabajes, también como autónomo, y se recupera cuando dejas el trabajo. Te lo explicamos en <a href="/incapacidad/incapacidad-total/#la-total-cualificada-el-75-desde-los-55-anos">incapacidad total cualificada</a>.</p>
 <h2 id="incapacidad-absoluta-y-gran-incapacidad-la-regla-desde-dicie">Incapacidad absoluta y gran incapacidad: la regla desde diciembre de 2024</h2>
 <p>La ley dice que estas pensiones <strong>no impiden</strong> hacer actividades, lucrativas o no, <strong>compatibles con tu estado</strong> y que no demuestren una mejora de tu capacidad. Pero la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2024-26694#df-13" rel="noopener">Ley 7/2024</a> añadió al <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198.2</a>, con efectos desde el <strong>22 de diciembre de 2024</strong>, esta regla:</p>
 <ol>
@@ -16682,7 +16492,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Trabajar con incapacidad permanente: con la total puedes trabajar en otra profesión; con la absoluta, desde 2024, se suspende la pensión si te das de alta.]]></excerpt:encoded>
-    <wp:post_id>9092</wp:post_id>
+    <wp:post_id>9090</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16812,7 +16622,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Revisión del grado de incapacidad permanente: si empeoras puedes pedir un grado mayor y si mejoras el INSS puede bajarlo. Plazos, cómo prepararla y riesgos.]]></excerpt:encoded>
-    <wp:post_id>9093</wp:post_id>
+    <wp:post_id>9091</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16945,7 +16755,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente se pide al INSS o la inicia él tras la baja. Documentos, el tribunal médico, 10 días para alegar y 135 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9094</wp:post_id>
+    <wp:post_id>9092</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16964,165 +16774,6 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Cómo solicitar la incapacidad permanente: pasos y plazos]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[La incapacidad permanente se pide al INSS o la inicia él tras la baja. Documentos, el tribunal médico, 10 días para alegar y 135 días para resolver.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[solicitar incapacidad permanente, solicitar incapacidad permanente total, solicitar incapacidad permanente absoluta, solicitar incapacidad permanente seguridad social, solicitar incapacidad permanente inss]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
-  </item>
-  <item>
-    <title><![CDATA[Incapacidad permanente total cualificada: cómo pasar del 55 % al 75 % a partir de los 55 años y cuándo se pierde el aumento]]></title>
-    <link>https://jubilometro.com/incapacidad/total-cualificada/</link>
-    <dc:creator><![CDATA[admin]]></dc:creator>
-    <description></description>
-    <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-10-20">20 de octubre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
-</header>
-<aside class="respuesta-rapida" aria-label="Respuesta rápida">
-<p class="etiqueta">Respuesta rápida</p>
-<p>La incapacidad permanente total da una pensión del <strong>55 % de la base reguladora</strong>. A partir de los <strong>55 años</strong>, si <strong>no trabajas</strong>, se le suma un <strong>20 %</strong>, hasta el <strong>75 %</strong>: es la <em>total cualificada</em> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">artículo 6 del Decreto 1646/1972</a>). La ley lo justifica porque, por la edad, la preparación y el lugar donde vives, se presume que te costará encontrar otro empleo.</p>
-<p>El aumento <strong>se suspende mientras trabajes</strong>, por cuenta ajena o propia, y <strong>se recupera</strong> cuando dejas de hacerlo. Con una base reguladora de 1.500 euros, pasas de 825 a <strong>1.125 euros al mes</strong>.</p>
-</aside>
-<h2 id="requisitos">Requisitos</h2>
-<ol>
-<li><strong>Tener reconocida una incapacidad permanente total</strong> para tu profesión habitual. Te explicamos cómo se consigue en <a href="/incapacidad/incapacidad-total/">incapacidad permanente total</a>.</li>
-<li><strong>Tener 55 años o más.</strong> Si te reconocen la total antes, el aumento llega cuando los cumples.</li>
-<li><strong>No trabajar.</strong> La ley permite que el incremento sea incompatible con cualquier trabajo, por cuenta propia o ajena, incluido en la Seguridad Social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a198" rel="noopener">artículo 198.1</a>), y el decreto lo deja <strong>en suspenso mientras tengas un empleo</strong>.</li>
-<li>Que, por tu <strong>edad, tu falta de preparación general o especializada y las circunstancias sociales y laborales de donde vives</strong>, se presuma que te será difícil encontrar un empleo distinto del que tenías (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a196" rel="noopener">artículo 196.2</a>).</li>
-</ol>
-<p><strong>Cómo se pide</strong>: si ya tienes 55 años cuando te reconocen la total, el incremento puede reconocerse en la misma resolución. Si la cobrabas desde antes, puedes pedirlo al INSS al cumplirlos: lo reconoce el mismo organismo que te paga la pensión.</p>
-<h2 id="cuanto-se-cobra">Cuánto se cobra</h2>
-<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
-<table><caption id="tabla-1">Pensión de incapacidad total y total cualificada según la base reguladora (al mes, 14 pagas)</caption>
-<thead>
-<tr>
-<th scope="col">Base reguladora</th>
-<th scope="col">Total (55 %)</th>
-<th scope="col">Total cualificada (75 %)</th>
-<th scope="col">Diferencia al mes</th>
-</tr>
-</thead>
-<tbody><tr>
-<th scope="row">1.000 €</th>
-<td>550 €</td>
-<td>750 €</td>
-<td>200 €</td>
-</tr>
-<tr>
-<th scope="row">1.500 €</th>
-<td>825 €</td>
-<td>1.125 €</td>
-<td>300 €</td>
-</tr>
-<tr>
-<th scope="row">2.000 €</th>
-<td>1.100 €</td>
-<td>1.500 €</td>
-<td>400 €</td>
-</tr>
-<tr>
-<th scope="row">2.500 €</th>
-<td>1.375 €</td>
-<td>1.875 €</td>
-<td>500 €</td>
-</tr>
-</tbody></table>
-</div>
-<p>El 20 % se calcula sobre <strong>la misma base reguladora</strong> de tu pensión. Si el total queda por debajo de la <strong>pensión mínima</strong> y cumples el límite de ingresos (9.442 euros al año en 2026 si no tienes cónyuge a cargo), se completa hasta ella (<a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026</a>, anexo I):</p>
-<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
-<table><caption id="tabla-2">Pensión mínima de incapacidad permanente total en 2026 (al mes, 14 pagas)</caption>
-<thead>
-<tr>
-<th scope="col">Edad</th>
-<th scope="col">Con cónyuge a cargo</th>
-<th scope="col">Sin cónyuge</th>
-<th scope="col">Con cónyuge no a cargo</th>
-</tr>
-</thead>
-<tbody><tr>
-<th scope="row">65 años o más</th>
-<td>1.256,60 €</td>
-<td>936,20 €</td>
-<td>888,70 €</td>
-</tr>
-<tr>
-<th scope="row">Entre 60 y 64 años</th>
-<td>1.256,60 €</td>
-<td>875,90 €</td>
-<td>827,90 €</td>
-</tr>
-<tr>
-<th scope="row">Menos de 60 años, por enfermedad común</th>
-<td>690,20 €</td>
-<td>690,20 €</td>
-<td>684,30 €</td>
-</tr>
-</tbody></table>
-</div>
-<h2 id="si-vuelves-a-trabajar">Si vuelves a trabajar</h2>
-<ul>
-<li><strong>La pensión del 55 % sigue</strong>, siempre que el trabajo no sea el mismo que dio lugar a la incapacidad.</li>
-<li><strong>El 20 % se deja de cobrar</strong> desde que empiezas a trabajar, también como autónomo.</li>
-<li><strong>Cuando termina el trabajo, se recupera</strong>: comunica el cese al INSS para que vuelva a pagarte el 75 %.</li>
-<li><strong>Comunica</strong> al INSS que empiezas a trabajar: si sigues cobrando el 75 % mientras trabajas, pueden reclamarte lo cobrado de más.</li>
-</ul>
-<h2 id="ejemplos">Ejemplos</h2>
-<p><strong>Pedro, 57 años, conductor de camión</strong> con una total por una lesión de columna. Base reguladora: 1.500 euros. No trabaja, así que cobra el <strong>75 %: 1.125 euros al mes</strong> en 14 pagas. A los 59 encuentra un trabajo de conserje: mientras lo tenga cobrará <strong>825 euros</strong> más su sueldo. Cuando se jubile o deje ese trabajo, volverá al 75 %.</p>
-<p><strong>Juana, 61 años, sin cónyuge</strong>, con una base reguladora de 900 euros: el 75 % son 675 euros, por debajo de la mínima de 875,90. Si sus otros ingresos no pasan de 9.442 euros al año, cobra <strong>875,90 euros al mes</strong>.</p>
-<h2 id="y-si-prefieres-cobrarla-de-una-vez">¿Y si prefieres cobrarla de una vez?</h2>
-<p>Si tienes <strong>menos de 60 años</strong>, puedes pedir, excepcionalmente, que la pensión de la total se sustituya por una <strong>indemnización a tanto alzado</strong>: <strong>84 mensualidades</strong> de la pensión si tienes menos de 54 años, y menos cuanto más mayor (60 a los 55, 12 a los 59). Hay que pedirlo en los <strong>tres años</strong> siguientes al reconocimiento, y además hace falta que se prevea que tus lesiones no cambiarán y que estés trabajando o vayas a usar el dinero para montar un negocio. <strong>A los 60 años vuelves a cobrar la pensión</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-1210" rel="noopener">artículo 5 de la Orden de 31 de julio de 1972</a>).</p>
-<h2 id="impuestos-y-jubilacion">Impuestos y jubilación</h2>
-<ul>
-<li><strong>La total cualificada tributa en el IRPF</strong>, como la total (solo están exentas la absoluta y la gran incapacidad). Eso sí, se te considera persona con discapacidad a efectos fiscales. Lo explicamos en <a href="/incapacidad/incapacidad-total/">incapacidad permanente total</a>.</li>
-<li><strong>Al cumplir 67 años</strong>, la pensión pasa a llamarse de jubilación, sin cambiar sus condiciones (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a200" rel="noopener">artículo 200</a>).</li>
-</ul>
-<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
-<h3 id="que-es-la-incapacidad-total-cualificada">¿Qué es la incapacidad total cualificada?</h3>
-<p>Es la incapacidad permanente total con un incremento del 20 % de la base reguladora para quienes tienen 55 años o más y no trabajan. La pensión pasa del 55 % al 75 %.</p>
-<h3 id="se-cobra-automaticamente-al-cumplir-55-anos">¿Se cobra automáticamente al cumplir 55 años?</h3>
-<p>Lo reconoce el INSS, que te paga la pensión. Si te concedieron la total antes de los 55 y no te lo aplican al cumplirlos, pídelo.</p>
-<h3 id="pierdo-la-total-cualificada-si-trabajo">¿Pierdo la total cualificada si trabajo?</h3>
-<p>Pierdes el 20 % extra mientras trabajes, por cuenta ajena o propia, pero sigues cobrando el 55 %. Cuando dejas de trabajar, recuperas el 75 %.</p>
-<h3 id="cuanto-es-la-pension-minima-de-la-total-cualificada">¿Cuánto es la pensión mínima de la total cualificada?</h3>
-<p>Depende de la edad: en 2026, 936,20 euros al mes con 65 años o más y 875,90 entre los 60 y los 64, sin cónyuge. Antes de los 60, si viene de enfermedad común, 690,20.</p>
-<h3 id="la-total-cualificada-tributa">¿La total cualificada tributa?</h3>
-<p>Sí, como la total. Solo la incapacidad absoluta y la gran incapacidad están exentas del IRPF.</p>
-<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
-<ul>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículos 196.2, 198.1 y 200</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-944" rel="noopener">Decreto 1646/1972: artículo 6 (incremento de la pensión de incapacidad total)</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1972-1210" rel="noopener">Orden de 31 de julio de 1972: artículo 5 (indemnización a tanto alzado)</a> (BOE).</li>
-<li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977" rel="noopener">Real Decreto 241/2026, revalorización de pensiones: anexo I</a> (BOE).</li>
-</ul>
-<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
-<h2 id="siguiente-paso">Siguiente paso</h2>
-<ul>
-<li>¿Qué es la total y cómo se calcula? Lee <a href="/incapacidad/incapacidad-total/">incapacidad permanente total</a>.</li>
-<li>¿Tu caso es más grave? Compara con la <a href="/incapacidad/incapacidad-absoluta/">incapacidad permanente absoluta</a>.</li>
-<li>¿Aún no la tienes? Sigue los pasos para <a href="/incapacidad/solicitar/">solicitar la incapacidad permanente</a>.</li>
-</ul>
-</nav>
-<footer class="descargo">
-<p>Este artículo es informativo y no sustituye la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 20 de octubre de 2026, corrección de una frase y de una referencia a la tabla de mínimas. 29 de septiembre de 2026, primera versión.</p>
-</footer>
-]]></content:encoded>
-    <excerpt:encoded><![CDATA[Con 55 años, la incapacidad total sube del 55 % al 75 % de la base reguladora si no trabajas. Requisitos, qué pasa si trabajas, mínimas de 2026 y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9095</wp:post_id>
-    <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[total-cualificada]]></wp:post_name>
-    <wp:status><![CDATA[draft]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[post]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    <category domain="category" nicename="incapacidad"><![CDATA[Incapacidad]]></category>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad total cualificada 2026: el 75 % desde los 55 años]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Con 55 años, la incapacidad total sube del 55 % al 75 % de la base reguladora si no trabajas. Requisitos, qué pasa si trabajas, mínimas de 2026 y ejemplos.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[incapacidad total cualificada]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Incapacidad total cualificada 2026: el 75 % desde los 55 años]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Con 55 años, la incapacidad total sube del 55 % al 75 % de la base reguladora si no trabajas. Requisitos, qué pasa si trabajas, mínimas de 2026 y ejemplos.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[incapacidad total cualificada, incapacidad total cualificada requisitos, incapacidad permanente total cualificada, incapacidad permanente total cualificada 61 años, incapacidad permanente total cualificada y jubilación]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -17245,7 +16896,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936,20 € al mes. Requisitos y casos.]]></excerpt:encoded>
-    <wp:post_id>9096</wp:post_id>
+    <wp:post_id>9093</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17383,7 +17034,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9097</wp:post_id>
+    <wp:post_id>9094</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17520,7 +17171,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de los trabajadores agrarios: igual que en el Régimen General, con reglas propias de cotización y lagunas y 6 años en el campo para la anticipada.]]></excerpt:encoded>
-    <wp:post_id>9098</wp:post_id>
+    <wp:post_id>9095</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17754,7 +17405,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada con 40 años cotizados sin penalización: la ley decayó al disolverse las Cortes el 6 de octubre. Qué proponía y cuánto pierdes hoy.]]></excerpt:encoded>
-    <wp:post_id>9099</wp:post_id>
+    <wp:post_id>9096</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17889,7 +17540,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada por discapacidad: con un 65 % puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte.]]></excerpt:encoded>
-    <wp:post_id>9100</wp:post_id>
+    <wp:post_id>9097</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18072,7 +17723,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada involuntaria por despido o ERE: hasta 4 años antes con 33 años cotizados y 6 meses en el paro, con un recorte de hasta el 30 %.]]></excerpt:encoded>
-    <wp:post_id>9101</wp:post_id>
+    <wp:post_id>9098</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18229,7 +17880,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Coeficientes reductores de la edad de jubilación por profesión: bomberos, policías locales, mineros o trabajadores del mar se jubilan antes sin recorte.]]></excerpt:encoded>
-    <wp:post_id>9102</wp:post_id>
+    <wp:post_id>9099</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18417,7 +18068,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada voluntaria: hasta 2 años antes con 35 años cotizados, perdiendo entre un 2,81 % y un 21 % de pensión para siempre. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9103</wp:post_id>
+    <wp:post_id>9100</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18591,7 +18242,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de autónomos: la misma edad que los asalariados, al corriente de cuotas y 672 € menos de pensión media. Cómo mejorar la pensión de un autónomo.]]></excerpt:encoded>
-    <wp:post_id>9104</wp:post_id>
+    <wp:post_id>9101</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18742,7 +18393,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los bomberos adelantan la jubilación 0,20 años por año trabajado, sin recorte de pensión, hasta los 60 o los 59 con 35 años de servicio. También forestales.]]></excerpt:encoded>
-    <wp:post_id>9105</wp:post_id>
+    <wp:post_id>9102</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18912,7 +18563,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cita previa en la Seguridad Social: teléfonos del INSS (24 horas), cómo pedirla por internet con o sin certificado y qué trámites haces sin ir a la oficina.]]></excerpt:encoded>
-    <wp:post_id>9106</wp:post_id>
+    <wp:post_id>9103</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19136,7 +18787,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[¿Compensa jubilarse antes? Si adelantas 2 años, la ventaja se agota entre los 73 y los 78 años. Calcula tu punto de equilibrio con tu recorte real.]]></excerpt:encoded>
-    <wp:post_id>9107</wp:post_id>
+    <wp:post_id>9104</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19291,7 +18942,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Convenio especial con la Seguridad Social: si dejas de trabajar antes de jubilarte, sigues cotizando desde unos 392 € al mes en 2026. Cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9108</wp:post_id>
+    <wp:post_id>9105</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19391,7 +19042,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[¿Cuánto tarda en resolverse la jubilación? Unos 10 días de media (9,63 en septiembre de 2026), con un máximo de 90. Qué hacer si se retrasa y cómo reclamar.]]></excerpt:encoded>
-    <wp:post_id>9109</wp:post_id>
+    <wp:post_id>9106</wp:post_id>
     <wp:post_date><![CDATA[2026-10-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19561,7 +19212,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación demorada: si retrasas la jubilación ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9110</wp:post_id>
+    <wp:post_id>9107</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19723,7 +19374,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9111</wp:post_id>
+    <wp:post_id>9108</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19871,7 +19522,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de docentes: los funcionarios se jubilan a los 65 o al acabar el curso, y en la universidad a los 70. Clases Pasivas o Seguridad Social y pensión.]]></excerpt:encoded>
-    <wp:post_id>9112</wp:post_id>
+    <wp:post_id>9109</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20001,7 +19652,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9113</wp:post_id>
+    <wp:post_id>9110</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20651,7 +20302,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Edad de jubilación 2027: a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9114</wp:post_id>
+    <wp:post_id>9111</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20759,7 +20410,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las empleadas de hogar se jubilan con las reglas del Régimen General: 15 años cotizados y la misma edad. Qué cambió con las lagunas en 2024 y por qué cotizar.]]></excerpt:encoded>
-    <wp:post_id>9115</wp:post_id>
+    <wp:post_id>9112</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20890,7 +20541,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9116</wp:post_id>
+    <wp:post_id>9113</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21068,7 +20719,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación flexible, activa o parcial: tres formas de cobrar pensión y trabajar. Requisitos, jornada y cuánta pensión cobras con cada una en 2026.]]></excerpt:encoded>
-    <wp:post_id>9117</wp:post_id>
+    <wp:post_id>9114</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21202,7 +20853,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación flexible 2026: desde el 28 de agosto puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más. Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9118</wp:post_id>
+    <wp:post_id>9115</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21460,7 +21111,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cómo se jubila un funcionario en 2026: forzosa a los 65, voluntaria a los 60 con 30 años, haberes reguladores de Clases Pasivas, ejemplos y MUFACE.]]></excerpt:encoded>
-    <wp:post_id>9119</wp:post_id>
+    <wp:post_id>9116</wp:post_id>
     <wp:post_date><![CDATA[2026-10-15 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-15 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21612,7 +21263,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los guardias civiles pasan a la reserva a los 58 (oficiales, 61) y se retiran a los 65. Cómo se calcula su pensión en Clases Pasivas o Seguridad Social.]]></excerpt:encoded>
-    <wp:post_id>9120</wp:post_id>
+    <wp:post_id>9117</wp:post_id>
     <wp:post_date><![CDATA[2026-10-15 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-15 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21776,7 +21427,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de militares: reserva a los 61 (tropa permanente, 58) y retiro a los 65. Qué pasa con la tropa a los 45 años y cuánto se cobra de pensión.]]></excerpt:encoded>
-    <wp:post_id>9121</wp:post_id>
+    <wp:post_id>9118</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21914,7 +21565,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El número de la Seguridad Social es único y para toda la vida. Cómo consultarlo en Import@ss o en tu vida laboral y cómo pedirlo sin certificado digital.]]></excerpt:encoded>
-    <wp:post_id>9122</wp:post_id>
+    <wp:post_id>9119</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22040,7 +21691,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación parcial 2026: hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, reducción de jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9123</wp:post_id>
+    <wp:post_id>9120</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22203,7 +21854,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El SOVI paga 599,60 € al mes en 14 pagas a quien cotizó 1.800 días antes de 1967 y no tiene otra pensión. Requisitos, partos que suman y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9124</wp:post_id>
+    <wp:post_id>9121</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22343,7 +21994,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías locales adelantan la jubilación 0,20 años por año de servicio, hasta 5 o 6 años y sin recorte de pensión: a los 59 o 60 con carrera larga.]]></excerpt:encoded>
-    <wp:post_id>9125</wp:post_id>
+    <wp:post_id>9122</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22503,7 +22154,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías nacionales pueden pasar a segunda actividad desde los 58 y se jubilan a los 65. Cómo se calcula la pensión en Clases Pasivas o Seguridad Social.]]></excerpt:encoded>
-    <wp:post_id>9126</wp:post_id>
+    <wp:post_id>9123</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22664,7 +22315,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Mossos, ertzainas y policías forales adelantan la jubilación 0,20 años por año de servicio, sin recorte de pensión: desde los 60, o los 59 con 35 años.]]></excerpt:encoded>
-    <wp:post_id>9127</wp:post_id>
+    <wp:post_id>9124</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22858,7 +22509,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Prejubilación: en un despido colectivo con 55 años o más, la empresa paga tu convenio especial hasta los 63 (61 por causas económicas). Cómo funciona.]]></excerpt:encoded>
-    <wp:post_id>9128</wp:post_id>
+    <wp:post_id>9125</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23016,7 +22667,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Marinos, pescadores, estibadores y mariscadoras adelantan la jubilación hasta 10 años según el barco o la actividad, sin recorte de pensión. Tabla oficial.]]></excerpt:encoded>
-    <wp:post_id>9129</wp:post_id>
+    <wp:post_id>9126</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23134,7 +22785,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9130</wp:post_id>
+    <wp:post_id>9127</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23268,7 +22919,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9131</wp:post_id>
+    <wp:post_id>9128</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23369,7 +23020,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación con años trabajados en otro país: lo cotizado en la UE o en países con convenio se suma para jubilarte y cada país paga su parte. Dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9132</wp:post_id>
+    <wp:post_id>9129</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23518,7 +23169,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El auxilio por defunción son 46,50 € en un solo pago para quien pagó el entierro. Quién lo genera, documentos, plazo de 5 años y cómo pedirlo por internet.]]></excerpt:encoded>
-    <wp:post_id>9133</wp:post_id>
+    <wp:post_id>9130</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23635,7 +23286,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es compatible con cualquier sueldo, pero trabajar puede quitarte el complemento a mínimos, el 60 % o el 70 %. Paro, IRPF y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9134</wp:post_id>
+    <wp:post_id>9131</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23837,7 +23488,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuantía de la pensión de viudedad 2026: el 52 % de la base reguladora, el 60 % desde los 65 sin otros ingresos o el 70 % con cargas. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9135</wp:post_id>
+    <wp:post_id>9132</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23922,7 +23573,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si estabas divorciado o separado, cobras viudedad si tenías pensión compensatoria, con ese tope. Violencia de género, divorcios anteriores a 2008 y reparto.]]></excerpt:encoded>
-    <wp:post_id>9136</wp:post_id>
+    <wp:post_id>9133</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24067,7 +23718,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9137</wp:post_id>
+    <wp:post_id>9134</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24216,7 +23867,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Pensión en favor de familiares: hijos, hermanos, nietos, padres o abuelos a cargo del fallecido cobran el 20 % de su base reguladora. Requisitos 2026.]]></excerpt:encoded>
-    <wp:post_id>9138</wp:post_id>
+    <wp:post_id>9135</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24322,7 +23973,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Pensión de viudedad y nuevo matrimonio: se pierde al casarte o formar pareja de hecho, salvo con más de 61 años y si es tu principal ingreso. Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9139</wp:post_id>
+    <wp:post_id>9136</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24434,7 +24085,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años. Con hijos comunes bastan 2 años de convivencia, sin inscripción.]]></excerpt:encoded>
-    <wp:post_id>9140</wp:post_id>
+    <wp:post_id>9137</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24552,7 +24203,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión de orfandad es el 20 % de la base reguladora por hijo, con un mínimo de 286,50 € al mes en 2026. Edad límite, orfandad absoluta y límites.]]></excerpt:encoded>
-    <wp:post_id>9141</wp:post_id>
+    <wp:post_id>9138</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24666,7 +24317,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Prestación temporal de viudedad: si no llegabais a un año de matrimonio o a dos de pareja de hecho, cobras lo mismo que la viudedad durante dos años.]]></excerpt:encoded>
-    <wp:post_id>9142</wp:post_id>
+    <wp:post_id>9139</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24859,7 +24510,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 años en total. Requisitos de matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9143</wp:post_id>
+    <wp:post_id>9140</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24965,7 +24616,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Solicitar la pensión de viudedad: se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (3 meses de atrasos) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9144</wp:post_id>
+    <wp:post_id>9141</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -25082,7 +24733,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9145</wp:post_id>
+    <wp:post_id>9142</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

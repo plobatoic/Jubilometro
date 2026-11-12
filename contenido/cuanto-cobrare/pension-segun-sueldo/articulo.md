@@ -49,7 +49,7 @@ Suponemos que te jubilas a tu **edad ordinaria** en 2026, con **37 años cotizad
 | 3.000 € | 2.571,43 € | 36.000 € | 19,70 % | 2.064,86 € |
 | 3.919,53 € o más | 3.359,60 € (máxima) | 47.034,40 € | 23,58 % | 2.567,41 € |
 
-**Por qué 6/7**: la [base reguladora](/cuanto-cobrare/base-reguladora/) suma tus bases de los últimos 300 meses y las divide entre 350, porque la pensión se cobra en 14 pagas y no en 12 (300 × 14 ÷ 12 = 350). Con la base de siempre, 300 ÷ 350 = 6/7. Por eso, con carrera completa, **14 pagas de pensión suman lo mismo que 12 meses de base**. El sistema nuevo de cálculo que se aplica desde 2026 da prácticamente el mismo resultado si tu base ha sido estable.
+**Por qué 6/7**: la [base reguladora](/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual) suma tus bases de los últimos 300 meses y las divide entre 350, porque la pensión se cobra en 14 pagas y no en 12 (300 × 14 ÷ 12 = 350). Con la base de siempre, 300 ÷ 350 = 6/7. Por eso, con carrera completa, **14 pagas de pensión suman lo mismo que 12 meses de base**. El sistema nuevo de cálculo que se aplica desde 2026 da prácticamente el mismo resultado si tu base ha sido estable.
 
 **El neto de la pensión** solo descuenta el IRPF: los pensionistas no pagan cotizaciones a la Seguridad Social, y los trabajadores sí (un 4,70 % solo por contingencias comunes en 2026, más otros conceptos). La retención depende de tu situación familiar; la explicamos en [pensión bruta y neta](/cuanto-cobrare/pension-bruta-y-neta/).
 
@@ -119,7 +119,7 @@ No necesariamente. Cuenta la media de las bases de los últimos 25 años, así q
 ## Siguiente paso
 
 - ¿Quieres tu cifra exacta? Hazla con la [calculadora de pensión](/calculadoras/pension-jubilacion/).
-- ¿Cómo se hace la media? Mira la [base reguladora de la jubilación](/cuanto-cobrare/base-reguladora/).
+- ¿Cómo se hace la media? Mira la [base reguladora de la jubilación](/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual).
 - ¿Cuánto te quedará en el bolsillo? Consulta la [pensión bruta y neta](/cuanto-cobrare/pension-bruta-y-neta/).
 - ¿Te llegará para tus gastos? Calcula [cuánto dinero necesitas ahorrado para jubilarte](/dinero/ahorro-jubilacion/).
 

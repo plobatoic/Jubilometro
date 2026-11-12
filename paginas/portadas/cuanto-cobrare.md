@@ -10,7 +10,7 @@ Tu pensión de jubilación sale de una cuenta en tres pasos, que explicamos con 
 
 ## Qué es la base reguladora y qué bases cuentan
 
-La [base reguladora](/cuanto-cobrare/base-reguladora/) es la suma de tus bases de cotización de un periodo dividida de forma que salga en 14 pagas. Las bases de los dos últimos años cuentan por su importe real y las anteriores se actualizan con el IPC, para que no pierdan valor.
+La [base reguladora](/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual) es la suma de tus bases de cotización de un periodo dividida de forma que salga en 14 pagas. Las bases de los dos últimos años cuentan por su importe real y las anteriores se actualizan con el IPC, para que no pierdan valor.
 
 Los meses en los que no estabas obligado a cotizar no cuentan como cero: se rellenan con la base mínima o con una parte de ella. Es lo que llamamos [lagunas de cotización](/cuanto-cobrare/lagunas-de-cotizacion/), y desde 2026 las trabajadoras por cuenta ajena (y algunos padres) rellenan más meses con el 100 % y el 80 % de la base mínima. Para saber qué tienes cotizado, revisa tu [informe de vida laboral](/cuanto-cobrare/informe-vida-laboral/): un periodo que falte te quita años y rebaja la base.
 

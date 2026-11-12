@@ -43,13 +43,13 @@ ${FB_WEB}`,
 
   /* ---------- Base reguladora ---------- */
   {
-    id: 'base-reguladora-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/cuanto-cobrare/base-reguladora/',
+    id: 'base-reguladora-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/cuanto-cobrare/como-se-calcula-la-pension/',
     texto: `Desde 2026, la Seguridad Social calcula tu base reguladora de dos formas: con los últimos 25 años, o con un periodo algo más largo descartando tus peores meses. Te aplica la que más pensión te dé, sin que tengas que pedirlo.
 
 ${L('base-reguladora', 'x')}`,
   },
   {
-    id: 'base-reguladora-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/cuanto-cobrare/base-reguladora/',
+    id: 'base-reguladora-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/cuanto-cobrare/como-se-calcula-la-pension/',
     cifra: { ante: 'Ejemplo', antes: 'Rosa cotizó 630.000 € en sus últimos 300 meses. Entre 350, su base reguladora es de', grande: '1.800 €', despues: 'Con 38 años cotizados, esa es su pensión al mes, en 14 pagas.', fuente: 'Artículo 209 de la Ley General de la Seguridad Social.', corto: 'base-reguladora' },
     texto: `La base reguladora es la cifra de la que sale tu pensión. Es la media de lo que has cotizado en los últimos años, y conviene entender tres detalles.
 

@@ -92,7 +92,7 @@ export const VIDEOS_BANCO = [
 #incapacidadpermanente #inss #pensiones`,
   }),
   video('video-24-total-cualificada', {
-    id: 'video-total-cualificada', pilar: 'La cifra que te toca', fuente: '/incapacidad/total-cualificada/',
+    id: 'video-total-cualificada', pilar: 'La cifra que te toca', fuente: '/incapacidad/incapacidad-total/',
     titulo: 'Incapacidad total: del 55 % al 75 % desde los 55 años',
     texto: `La incapacidad permanente total sube del 55 % al 75 % de la base reguladora desde los 55 años, mientras no trabajes. Requisitos: ${L('incapacidad-total', 'yt')}
 

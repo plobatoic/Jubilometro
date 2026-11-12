@@ -9,7 +9,7 @@ La reconoce el **Instituto Nacional de la Seguridad Social**, después de que te
 La ley distingue cuatro grados según cuánto te impide trabajar. Los comparamos en [grados de incapacidad permanente](/incapacidad/grados-incapacidad/):
 
 - **[Parcial](/incapacidad/incapacidad-parcial/)**: rindes al menos un 33 % menos en tu trabajo, pero puedes hacerlo. No es una pensión: cobras una indemnización única de 24 mensualidades y sigues en tu puesto.
-- **[Total](/incapacidad/incapacidad-total/)**: no puedes hacer tu trabajo habitual, pero sí otro. Cobras el 55 % de tu base reguladora, que sube al 75 % desde los 55 años si no trabajas: es la [total cualificada](/incapacidad/total-cualificada/).
+- **[Total](/incapacidad/incapacidad-total/)**: no puedes hacer tu trabajo habitual, pero sí otro. Cobras el 55 % de tu base reguladora, que sube al 75 % desde los 55 años si no trabajas: es la [total cualificada](/incapacidad/incapacidad-total/#la-total-cualificada-el-75-desde-los-55-anos).
 - **[Absoluta](/incapacidad/incapacidad-absoluta/)**: no puedes trabajar en nada. Cobras el 100 % de la base reguladora, sin retención de IRPF.
 - **[Gran incapacidad](/incapacidad/gran-incapacidad/)**: además, necesitas ayuda de otra persona para comer, vestirte o moverte. Cobras el 100 % más un complemento para pagar a quien te cuida: el 45 % de la base mínima de cotización (640,98 euros en 2026) más el 30 % de tu última base.
 

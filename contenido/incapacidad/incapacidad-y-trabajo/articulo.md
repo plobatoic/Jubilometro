@@ -50,7 +50,7 @@ La pensión de la total es **compatible con el salario** en la misma empresa o e
 
 **Ejemplo:** Javier, albañil, tiene una total por una lesión de espalda. Cobra 1.100 euros de pensión. Si empieza a trabajar como **conserje** por 1.300 euros, cobra **las dos cantidades**. Si volviera a trabajar de **albañil**, el INSS podría revisar su grado, porque demostraría que puede hacer su profesión.
 
-**La total cualificada** (el 75 %, a partir de los 55 años) existe porque se presume que te costará encontrar otro empleo. Por eso el **20 % adicional se suspende** mientras trabajes, también como autónomo, y se recupera cuando dejas el trabajo. Te lo explicamos en [incapacidad total cualificada](/incapacidad/total-cualificada/).
+**La total cualificada** (el 75 %, a partir de los 55 años) existe porque se presume que te costará encontrar otro empleo. Por eso el **20 % adicional se suspende** mientras trabajes, también como autónomo, y se recupera cuando dejas el trabajo. Te lo explicamos en [incapacidad total cualificada](/incapacidad/incapacidad-total/#la-total-cualificada-el-75-desde-los-55-anos).
 
 ## Incapacidad absoluta y gran incapacidad: la regla desde diciembre de 2024
 

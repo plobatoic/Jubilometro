@@ -442,7 +442,7 @@ export const PUBLICACIONES = [
  {
   "red": "x",
   "pilar": "La cifra que te toca",
-  "fuente": "/incapacidad/total-cualificada/",
+  "fuente": "/incapacidad/incapacidad-total/",
   "texto": "Incapacidad permanente total: 55 % de la base reguladora. Desde los 55 años, si no trabajas, sube al 75 %.\n\nCon una base de 1.500 €, de 825 a 1.125 € al mes. El aumento se suspende mientras trabajes y se recupera al dejarlo.\n\njubilometro.com/incapacidad-total/x",
   "id": "mes1-91",
   "fecha": "2026-11-16",
@@ -654,7 +654,7 @@ export const PUBLICACIONES = [
  {
   "red": "facebook",
   "pilar": "La cifra que te toca",
-  "fuente": "/incapacidad/total-cualificada/",
+  "fuente": "/incapacidad/incapacidad-total/",
   "texto": "Si cobras una incapacidad permanente total y tienes 55 años o más, mira si te corresponde la total cualificada.\n\nLa incapacidad total da el 55 % de la base reguladora. Desde los 55 años, si no trabajas, se suma un 20 %, hasta el 75 %. Con una base reguladora de 1.500 euros, pasas de 825 a 1.125 euros al mes.\n\nEl aumento se suspende mientras trabajes y se recupera cuando lo dejas. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "id": "mes1-63",
   "fecha": "2026-11-21",
@@ -894,7 +894,7 @@ export const PUBLICACIONES = [
   "id": "base-reguladora-fb",
   "red": "facebook",
   "pilar": "Calcula tu caso",
-  "fuente": "/cuanto-cobrare/base-reguladora/",
+  "fuente": "/cuanto-cobrare/como-se-calcula-la-pension/",
   "texto": "La base reguladora es la cifra de la que sale tu pensión. Es la media de lo que has cotizado en los últimos años, y conviene entender tres detalles.\n\nSe divide entre 350 y no entre 300, aunque se miren 300 meses, porque la pensión se cobra en 14 pagas.\n\nLas bases de los dos últimos años cuentan tal cual. Las anteriores se actualizan con el IPC, así que lo que cotizaste hace 20 años no pierde valor.\n\nSi te pagaban más de la base máxima (5.101,20 euros al mes en 2026), lo que pasa de ahí no cuenta. Y si tu sueldo sube mucho en los dos últimos años, por encima de lo que marca tu convenio, ese exceso tampoco se computa.\n\nEjemplo: Rosa suma 630.000 euros en sus últimos 300 meses. Entre 350, su base reguladora es de 1.800 euros, y con 38 años cotizados esa es su pensión. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "imagenLista": "publicacion/redes/banco/cifras/base-reguladora-fb.png",
   "fecha": "2026-11-28",
@@ -1865,7 +1865,7 @@ export const PUBLICACIONES = [
   "id": "rescate-10-anos-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/dinero/rescate-aportaciones-10-anos/",
+  "fuente": "/dinero/rescate-plan-pensiones/",
   "texto": "Desde 2025 puedes sacar dinero de tu plan de pensiones sin estar jubilado: lo aportado hasta 2015, con su rentabilidad, y después cada aportación cuando cumple 10 años. Tributa en el IRPF como un sueldo, sumado a tus demás ingresos.\n\njubilometro.com/rescate-10-anos/x",
   "fecha": "2026-12-28",
   "hora": "09:00"
@@ -1913,7 +1913,7 @@ export const PUBLICACIONES = [
   "id": "base-reguladora-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/cuanto-cobrare/base-reguladora/",
+  "fuente": "/cuanto-cobrare/como-se-calcula-la-pension/",
   "texto": "Desde 2026, la Seguridad Social calcula tu base reguladora de dos formas: con los últimos 25 años, o con un periodo algo más largo descartando tus peores meses. Te aplica la que más pensión te dé, sin que tengas que pedirlo.\n\njubilometro.com/base-reguladora/x",
   "fecha": "2026-12-29",
   "hora": "09:00"

@@ -103,7 +103,7 @@ No por mejoría o agravación: la [revisión del grado](/incapacidad/revision-gr
 
 - ¿Cuándo te jubilas tú? Calcúlalo con la [edad de jubilación](/jubilacion/edad-de-jubilacion/).
 - ¿Qué grado tienes? Repasa los [grados de incapacidad permanente](/incapacidad/grados-incapacidad/).
-- ¿Tienes más de 55 años con una total? Mira la [incapacidad total cualificada](/incapacidad/total-cualificada/).
+- ¿Tienes más de 55 años con una total? Mira la [incapacidad total cualificada](/incapacidad/incapacidad-total/#la-total-cualificada-el-75-desde-los-55-anos).
 
 ---
 

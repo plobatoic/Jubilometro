@@ -80,7 +80,7 @@ En 2026, 36 años y 6 meses. Desde 2027, 37 años.
 
 ## Guía completa
 
-Paso a paso y con más casos, en [cómo se calcula la pensión de jubilación](/cuanto-cobrare/como-se-calcula-la-pension/). Cada pieza por separado: [la base reguladora](/cuanto-cobrare/base-reguladora/), [el porcentaje por años cotizados](/cuanto-cobrare/porcentaje-anos-cotizados/) y [cuánto se cobra según el sueldo](/cuanto-cobrare/pension-segun-sueldo/).
+Paso a paso y con más casos, en [cómo se calcula la pensión de jubilación](/cuanto-cobrare/como-se-calcula-la-pension/). Cada pieza por separado: [el porcentaje por años cotizados](/cuanto-cobrare/porcentaje-anos-cotizados/) y [cuánto se cobra según el sueldo](/cuanto-cobrare/pension-segun-sueldo/).
 `;
 }
 

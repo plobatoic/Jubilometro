@@ -46,7 +46,7 @@ Para revisar lo que has cotizado, pide también el **informe de bases de cotizac
 1. **Que están todos tus trabajos**, con sus fechas de **alta y baja**. Compáralos con tus contratos, nóminas o certificados de empresa.
 2. **Los días totales de alta**: divídelos entre 365 para saber tus años cotizados. De ellos depende el [porcentaje de tu pensión](/cuanto-cobrare/porcentaje-anos-cotizados/).
 3. **El paro**: los periodos en que cobraste la prestación contributiva deben aparecer, porque el SEPE cotiza por ti.
-4. **Las bases** (en el informe de bases de cotización), sobre todo las de los **últimos 25 a 29 años**, que son las que forman tu [base reguladora](/cuanto-cobrare/base-reguladora/). Deben cuadrar con tus nóminas.
+4. **Las bases** (en el informe de bases de cotización), sobre todo las de los **últimos 25 a 29 años**, que son las que forman tu [base reguladora](/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual). Deben cuadrar con tus nóminas.
 5. **Si eres autónomo**, que cada año aparezca tu base de cotización definitiva.
 
 ## Los errores que más rebajan la pensión

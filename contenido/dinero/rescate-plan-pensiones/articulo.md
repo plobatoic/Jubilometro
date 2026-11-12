@@ -8,12 +8,13 @@ miga: Rescate del plan de pensiones
 palabra_clave_principal: rescate plan de pensiones
 palabras_clave_secundarias:
   - "rescate plan de pensiones 10 años"
+  - "rescatar plan de pensiones sin jubilarse"
   - "rescate plan de pensiones 2026"
   - "rescate plan de pensiones aportaciones anteriores a 2006"
   - "rescate plan de pensiones aportaciones anteriores a 2007"
 intencion: informativa
 fase_plan: F1 (artículo n.º 80)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-13
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -25,7 +26,7 @@ fuentes_legales:
 
 # Rescatar el plan de pensiones al jubilarte: cuándo puedes, cómo tributa y cómo pagar menos IRPF
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
+*Actualizado el 13 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >
@@ -44,7 +45,7 @@ Los planes de pensiones se cobran cuando se produce una **contingencia** ([artí
 
 Además, puedes sacar el dinero antes en estos casos, si las especificaciones del plan lo permiten:
 
-- **[Aportaciones con más de 10 años](/dinero/rescate-aportaciones-10-anos/)**: desde el 1 de enero de 2025 puedes rescatar lo aportado hasta el 31 de diciembre de 2015 con su rentabilidad, y a partir de ahí cada aportación cuando cumple 10 años ([disposición transitoria 7.ª de la Ley de planes y fondos de pensiones](https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252)).
+- **[Aportaciones con más de 10 años](#rescatar-antes-de-jubilarte-aportaciones-con-10-anos)**: desde el 1 de enero de 2025 puedes rescatar lo aportado hasta el 31 de diciembre de 2015 con su rentabilidad, y a partir de ahí cada aportación cuando cumple 10 años ([disposición transitoria 7.ª de la Ley de planes y fondos de pensiones](https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252)). Lo explicamos más abajo.
 - **Paro de larga duración**: sin prestación contributiva (o agotada) e inscrito como demandante de empleo.
 - **Enfermedad grave** tuya, de tu cónyuge o de padres o hijos.
 - **Desde los 60 años**, si has dejado de trabajar y aún no puedes jubilarte.
@@ -96,6 +97,29 @@ Repartiendo, Luis se ahorra **1.792 euros solo en la parte estatal**, y otro tan
 
 Los cálculos son una simplificación: el impuesto real depende de tu comunidad, tu mínimo personal y familiar y tus otros ingresos. Antes de decidir, pide a tu gestora una simulación o calcula la declaración con el simulador de Renta WEB.
 
+## Rescatar antes de jubilarte: aportaciones con 10 años
+
+Desde el **1 de enero de 2025** puedes sacar del plan, **sin estar jubilado**, el dinero de las aportaciones que tienen al menos **10 años de antigüedad**:
+
+- **Lo aportado hasta el 31 de diciembre de 2015**, con su rentabilidad ([disposición transitoria 7.ª de la Ley de planes y fondos de pensiones](https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252)).
+- **Cada aportación posterior, cuando cumple 10 años**: lo aportado el 15 de marzo de 2016 se puede sacar desde el 15 de marzo de 2026 ([artículo 8.8](https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252)).
+- **Planes individuales y asociados**: siempre. **Planes de empleo** (los de tu empresa): solo si lo permiten el compromiso y las especificaciones del plan; el certificado anual te dice cuánto puedes sacar. También vale para los **planes de previsión asegurados**, por las primas pagadas antes de 2016.
+
+**Cómo se pide:**
+
+1. Pregunta a tu entidad cuánto tienes disponible por esta vía y qué parte viene de aportaciones anteriores a 2007.
+2. Pide la disposición por escrito: **total o parcial**, en **un pago o en varios** ([artículo 10 del Real Decreto 304/2004](https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453)).
+3. La entidad tiene **7 días hábiles** para pagarte desde que entregas la documentación (hasta 30 en algunos planes de empleo y asociados de prestación definida).
+4. **Puedes seguir aportando** al plan después ([artículo 11](https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453)).
+
+**Cómo tributa:** igual que el rescate por jubilación, como un sueldo sumado a tus demás ingresos del año. La parte de aportaciones hechas hasta 2006, cobrada en capital, puede tener la **reducción del 40 %**. Según la [Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2025/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html), la reducción se aplica en el año en que pides la disposición o en los **dos siguientes**, a la vez para todos tus planes. Si ya estás jubilado cuando rescatas, cuenta como prestación de jubilación, y la reducción que apliques ahí ya no podrás usarla otra vez.
+
+**Antes de sacarlo:**
+
+- Si tu sueldo es alto, suele salir mejor esperar a jubilarte: con menos ingresos, el mismo dinero paga menos impuestos.
+- Lo que sacas cuenta como ingreso del año para las ayudas que dependen de tus rentas, como el [complemento a mínimos](/cuanto-cobrare/complemento-a-minimos/) o los subsidios.
+- Igual que al jubilarte, repartir el cobro en varios años suele tributar menos que sacarlo todo de golpe.
+
 ## Consejos antes de rescatar
 
 1. **No tienes prisa**: el plan no caduca. Puedes esperar a un año con menos ingresos.
@@ -122,6 +146,10 @@ Una rebaja en el IRPF para la parte del plan que corresponde a aportaciones hech
 
 No. Puedes dejarlo invertido todo el tiempo que quieras y cobrarlo más tarde. Lo único que pierdes si no cobras en capital en el año de la jubilación o en los dos siguientes es la reducción del 40 % sobre la parte anterior a 2007.
 
+### ¿Puedo rescatar el plan de pensiones sin estar jubilado?
+
+Sí, desde 2025, la parte de aportaciones con al menos 10 años de antigüedad: todo lo aportado hasta 2015 y cada aportación posterior cuando cumple 10 años. Puedes seguir aportando después. También se puede rescatar antes por paro de larga duración o enfermedad grave.
+
 ### ¿Me retienen IRPF al rescatar el plan?
 
 Sí. La gestora aplica una retención en cada pago, que luego se ajusta en tu declaración de la renta.
@@ -132,7 +160,7 @@ Como rendimiento del trabajo: se suma a tu pensión y a tus otros ingresos y tri
 
 ## Fuentes oficiales
 
-- [Reglamento de planes y fondos de pensiones (Real Decreto 304/2004), artículos 7 a 10](https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453) (BOE).
+- [Reglamento de planes y fondos de pensiones (Real Decreto 304/2004), artículos 7 a 11](https://www.boe.es/buscar/act.php?id=BOE-A-2004-3453) (BOE).
 - [Ley de regulación de los planes y fondos de pensiones (Real Decreto Legislativo 1/2002), artículo 8.8 y disposición transitoria 7.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2002-24252) (BOE).
 - [Ley 35/2006 del IRPF: artículos 17 y 63 y disposición transitoria 12.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764) (BOE).
 - [Agencia Tributaria: prestaciones en forma de capital y régimen transitorio](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2024/c03-rendimientos-trabajo/rendimiento-neto-trabajo-integrar-base-imponible/fase-1-determinacion-rendimiento-integro-trabajo/reducciones-aplicables-sobre-determinados-rendimientos-integros/c-regimen-transitorio-reducciones-aplicable-prestaciones/prestaciones-percibidas-forma-capital-derivadas.html).
@@ -143,10 +171,10 @@ Como rendimiento del trabajo: se suma a tu pensión y a tus otros ingresos y tri
 - ¿Cuánto necesitas ahorrado? Prueba la calculadora [¿cuánto necesito ahorrar?](/calculadoras/cuanto-ahorrar-jubilacion/)
 - ¿Te llegará con la pensión? Lee [cuánto dinero necesitas ahorrado para jubilarte](/dinero/ahorro-jubilacion/).
 - ¿Cuándo te jubilas? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
-- ¿Necesitas el dinero antes de jubilarte? Mira el [rescate de las aportaciones con más de 10 años](/dinero/rescate-aportaciones-10-anos/).
+- ¿Cómo declararlo? Repasa la [declaración de la renta de los jubilados](/dinero/declaracion-renta-jubilados/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal profesional ni la información de tu gestora. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, corrección ortográfica. 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 13 de noviembre de 2026, se incorpora la guía del rescate de las aportaciones con más de 10 años (cómo se pide, plazos y tributación). 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, corrección ortográfica. 14 de octubre de 2026, enlace al rescate de las aportaciones con más de 10 años. 28 de septiembre de 2026, primera versión.*

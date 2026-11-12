@@ -356,7 +356,7 @@ ${FB_WEB}`,
 #imserso #viajesimserso #jubilados #pensionistas`,
   },
   {
-    fecha: '2026-10-20', banco: 'perenne', red: 'linkedin', pilar: 'Profesionales', fuente: '/incapacidad/total-cualificada/',
+    fecha: '2026-10-20', banco: 'perenne', red: 'linkedin', pilar: 'Profesionales', fuente: '/incapacidad/incapacidad-total/',
     texto: `Para abogados laboralistas y graduados sociales: el 20 % de la incapacidad permanente total cualificada se sigue escapando a mucha gente.
 
 La incapacidad total da una pensión del 55 % de la base reguladora. A partir de los 55 años, si la persona no trabaja, se le suma un 20 %, hasta el 75 % (artículo 6 del Decreto 1646/1972). Con una base reguladora de 1.500 euros se pasa de 825 a 1.125 euros al mes.
@@ -622,7 +622,7 @@ Los meses integrados no suman años cotizados. La explicación con ejemplos, en 
     comentario: `Lagunas de cotización: ${L('lagunas', 'in')}`,
   },
   {
-    fecha: '2026-10-29', banco: 'perenne', red: 'facebook', pilar: 'La cifra que te toca', fuente: '/incapacidad/total-cualificada/',
+    fecha: '2026-10-29', banco: 'perenne', red: 'facebook', pilar: 'La cifra que te toca', fuente: '/incapacidad/incapacidad-total/',
     texto: `Si cobras una incapacidad permanente total y tienes 55 años o más, mira si te corresponde la total cualificada.
 
 La incapacidad total da el 55 % de la base reguladora. Desde los 55 años, si no trabajas, se suma un 20 %, hasta el 75 %. Con una base reguladora de 1.500 euros, pasas de 825 a 1.125 euros al mes.
@@ -893,7 +893,7 @@ Si tu banco adelanta el pago, la verás entre el 22 y el 26 de noviembre. Si no 
 Guárdalo y reenvíaselo a quien le pueda servir. Más detalles: ${L('cita-previa', 'wa')}`,
   },
   {
-    fecha: '2026-11-07', banco: 'perenne', red: 'x', pilar: 'La cifra que te toca', fuente: '/incapacidad/total-cualificada/',
+    fecha: '2026-11-07', banco: 'perenne', red: 'x', pilar: 'La cifra que te toca', fuente: '/incapacidad/incapacidad-total/',
     texto: `Incapacidad permanente total: 55 % de la base reguladora. Desde los 55 años, si no trabajas, sube al 75 %.
 
 Con una base de 1.500 €, de 825 a 1.125 € al mes. El aumento se suspende mientras trabajes y se recupera al dejarlo.

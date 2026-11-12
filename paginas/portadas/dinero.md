@@ -18,7 +18,7 @@ Cumplir 65 años tiene premio en el IRPF:
 
 Puedes [rescatar el plan de pensiones](/dinero/rescate-plan-pensiones/) cuando te jubilas y no tienes plazo: de una vez, en pagos periódicos o combinando ambos. Todo lo que cobras tributa como un sueldo, sumado a tu pensión, así que sacar mucho en un solo año puede costarte miles de euros. Lo aportado antes de 2007 tiene una reducción del 40 % si lo cobras en forma de capital, dentro de unos plazos.
 
-Desde 2025 también puedes sacar, sin estar jubilado, el dinero de las [aportaciones con más de 10 años](/dinero/rescate-aportaciones-10-anos/), con la misma tributación.
+Desde 2025 también puedes sacar, sin estar jubilado, el dinero de las [aportaciones con más de 10 años](/dinero/rescate-plan-pensiones/#rescatar-antes-de-jubilarte-aportaciones-con-10-anos), con la misma tributación.
 
 **Ejemplo:** si tu pensión se queda 250 euros al mes por debajo de lo que gastas, en 25 años de jubilación necesitas 75.000 euros ahorrados, o unos 59.000 si tus ahorros rinden un 2 % por encima de la inflación. Hacemos las cuentas en [cuánto ahorrar para jubilarte](/dinero/ahorro-jubilacion/) y en la calculadora de [cuánto necesito ahorrar](/calculadoras/cuanto-ahorrar-jubilacion/). Si dudas entre adelantar la jubilación o retrasarla, compara lo que cobrarías con el [comparador de ingresos de jubilación](/calculadoras/comparador-ingresos-jubilacion/).
 

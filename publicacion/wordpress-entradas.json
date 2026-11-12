@@ -41,7 +41,7 @@
   },
   "/cuanto-cobrare/base-reguladora/": {
     "id": 148,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/cuanto-cobrare/calendario-pago-pensiones/": {
     "id": 155,
@@ -265,7 +265,7 @@
   },
   "/dinero/rescate-aportaciones-10-anos/": {
     "id": 439,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/dinero/rescate-plan-pensiones/": {
     "id": 190,
@@ -377,7 +377,7 @@
   },
   "/incapacidad/total-cualificada/": {
     "id": 499,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/jubilacion/15-anos-cotizados/": {
     "id": 290,

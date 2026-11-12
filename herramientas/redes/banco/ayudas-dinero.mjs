@@ -249,7 +249,7 @@ La diferencia está en el IRPF de quien da. Si donas en vida un piso que ha gana
 Y en los dos casos, si es un inmueble urbano, se paga la plusvalía municipal. ${FB_WEB}`,
   },
   {
-    id: 'rescate-10-anos-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/dinero/rescate-aportaciones-10-anos/',
+    id: 'rescate-10-anos-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/dinero/rescate-plan-pensiones/',
     texto: `Desde 2025 puedes sacar dinero de tu plan de pensiones sin estar jubilado: lo aportado hasta 2015, con su rentabilidad, y después cada aportación cuando cumple 10 años. Tributa en el IRPF como un sueldo, sumado a tus demás ingresos.
 
 ${L('rescate-10-anos', 'x')}`,

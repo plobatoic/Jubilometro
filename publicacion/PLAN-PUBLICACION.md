@@ -549,6 +549,16 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Fusión de guías que se repiten, tanda 1 (13/11/2026, tema 2.11.30)
+
+Tras la caída de Google del 19/10, el titular aprobó juntar 13 guías flojas o repetidas con otras más completas (`publicacion/seo/propuesta-fusiones-2026-11.md`), poco a poco. Tanda 1, las tres con 0 visitas en 90 días:
+
+- `/dinero/rescate-aportaciones-10-anos/` → `/dinero/rescate-plan-pensiones/` (apartado «Rescatar antes de jubilarte: aportaciones con 10 años» y pregunta frecuente).
+- `/incapacidad/total-cualificada/` → `/incapacidad/incapacidad-total/` (tabla del 55 % al 75 %, cómo se pide, aviso al INSS, pensión mínima y pregunta frecuente).
+- `/cuanto-cobrare/base-reguladora/` → `/cuanto-cobrare/como-se-calcula-la-pension/` (bases de cotización, lo que no cuenta, paro y subsidio, informe de bases y tres preguntas frecuentes).
+
+Cómo: redirección 301 en el tema (`inc/data.json` → `fusionadas`, leída en `functions.php`); entradas viejas a borrador (sitemap de 145 a 142); copias en `publicacion/fusionadas/`; enlaces internos de 8 guías, 3 portadas y la calculadora de la pensión cambiados a la sección nueva; enlaces cortos `incapacidad-total`, `base-reguladora` y `rescate-10-anos` a la guía nueva; `fuente` de las publicaciones de redes actualizada. Comprobado: las tres direcciones viejas dan 301, `comprobar-web` sin fallos (314 enlaces internos).
+
 ### Revisión diaria del 11/11/2026: Real Decreto-ley 36/2026 (dependencia)
 
 - **BOE del 11/11**: [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605), en vigor el 12/11. El plazo máximo desde la solicitud hasta la resolución de la prestación de dependencia pasa de **seis a tres meses** (disposición final primera de la Ley 39/2006), y el derecho nace con la resolución o a los tres meses. También fija el nivel mínimo de 2027 (660, 260 y 90 €/mes por grado; 4.930 € el grado III+), el nivel acordado (904.197.420 €) y cambios en el Real Decreto 1051/2013 (teleasistencia, ayuda a domicilio, prestaciones combinadas). Lo tiene que convalidar la Diputación Permanente.

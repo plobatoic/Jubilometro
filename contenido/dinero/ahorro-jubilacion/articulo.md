@@ -133,7 +133,7 @@ Divide el capital que necesitas entre los meses que te quedan hasta jubilarte. E
 - ¿Quieres tu cifra exacta? Usa la [calculadora de ahorro para la jubilación](/calculadoras/cuanto-ahorrar-jubilacion/).
 - ¿Cuánto cobrarás? Mira [cuánto cobraré según mi sueldo](/cuanto-cobrare/pension-segun-sueldo/).
 - ¿Tienes un plan de pensiones? Consulta cómo [rescatarlo pagando menos impuestos](/dinero/rescate-plan-pensiones/).
-- ¿Tienes aportaciones de hace más de 10 años? Mira [cómo sacarlas sin estar jubilado](/dinero/rescate-aportaciones-10-anos/).
+- ¿Tienes aportaciones de hace más de 10 años? Mira [cómo sacarlas sin estar jubilado](/dinero/rescate-plan-pensiones/#rescatar-antes-de-jubilarte-aportaciones-con-10-anos).
 
 ---
 

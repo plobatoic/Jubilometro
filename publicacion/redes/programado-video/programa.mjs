@@ -506,7 +506,7 @@ export const PUBLICACIONES = [
   ],
   "id": "video-total-cualificada",
   "pilar": "La cifra que te toca",
-  "fuente": "/incapacidad/total-cualificada/",
+  "fuente": "/incapacidad/incapacidad-total/",
   "titulo": "Incapacidad total: del 55 % al 75 % desde los 55 años",
   "texto": "La incapacidad permanente total sube del 55 % al 75 % de la base reguladora desde los 55 años, mientras no trabajes. Requisitos: jubilometro.com/incapacidad-total/yt\n\n#incapacidadpermanente #pensiones #inss",
   "fecha": "2026-12-02",
