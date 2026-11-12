@@ -1,0 +1,19 @@
+{
+  "name": "eltapete",
+  "private": true,
+  "type": "module",
+  "description": "El Tapete: juegos y pasatiempos gratis en español (web estática)",
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node --test test/logica.test.mjs",
+    "e2e": "node test/e2e.cjs",
+    "serve": "node test/servidor.mjs"
+  },
+  "devDependencies": {
+    "d3-composite-projections": "1.4.0",
+    "d3-geo": "3.1.1",
+    "es-atlas": "0.6.0",
+    "esbuild": "0.24.2",
+    "topojson-client": "3.1.0"
+  }
+}
