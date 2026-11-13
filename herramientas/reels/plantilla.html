@@ -154,6 +154,87 @@
   html.realista .aviso { color: #c3ccd8; }
   html.realista #subtitulos .bloque { text-shadow: 0 4px 0 rgba(0,0,0,0.45), 0 0 34px rgba(0,0,0,0.9); }
 
+  /* ---------- Estilo dinámico (reel.estilo = "dinamico") ---------- */
+  /* Lienzo propio: fondo animado con suelo 3D. Cubre el vídeo en las escenas con `solido: true`. */
+  #lienzo { position: absolute; inset: 0; opacity: 0; overflow: hidden;
+    background: radial-gradient(1300px 1000px at 50% 28%, #1d3866 0%, #0d1830 52%, #050912 100%); }
+  #lienzo .orbe { position: absolute; width: 900px; height: 900px; border-radius: 50%; filter: blur(60px); opacity: 0.55; }
+  #lienzo .orbe.a { background: radial-gradient(circle, rgba(61,134,224,0.85), transparent 65%); }
+  #lienzo .orbe.b { background: radial-gradient(circle, rgba(111,211,160,0.6), transparent 65%); }
+  #lienzo .orbe.c { background: radial-gradient(circle, rgba(255,205,107,0.45), transparent 65%); width: 700px; height: 700px; }
+  #lienzo .suelo { position: absolute; left: -60%; right: -60%; bottom: -6%; height: 62%;
+    transform: perspective(900px) rotateX(74deg); transform-origin: 50% 100%;
+    background-image: linear-gradient(rgba(127,177,234,0.55) 3px, transparent 3px), linear-gradient(90deg, rgba(127,177,234,0.55) 3px, transparent 3px);
+    background-size: 140px 140px; background-position: 0 var(--sy, 0px);
+    -webkit-mask-image: linear-gradient(to top, #000 15%, transparent 85%); mask-image: linear-gradient(to top, #000 15%, transparent 85%); }
+  #lienzo .chispas i { position: absolute; width: 8px; height: 8px; border-radius: 50%; background: #cfe3ff; box-shadow: 0 0 14px 4px rgba(127,177,234,0.6); }
+  html.dinamico:not(.realista) #fondo { display: none; }
+  html.dinamico:not(.realista) #lienzo { opacity: 1; }
+  html.dinamico #escenario { transform-style: preserve-3d; }
+  html.dinamico .escena { perspective: 1400px; }
+
+  /* Texto con relieve 3D */
+  .relieve { color: #fff; text-shadow: 0 1px 0 #c9d6ea, 0 2px 0 #b8c7de, 0 3px 0 #a6b7d1, 0 4px 0 #94a7c4, 0 5px 0 #8397b7, 0 6px 0 #7187aa,
+    0 7px 0 #60779d, 0 8px 0 #4f6790, 0 18px 30px rgba(0,0,0,0.55) !important; }
+  .relieve.ambar { color: #ffd77e; text-shadow: 0 1px 0 #f3c45f, 0 2px 0 #e9b650, 0 3px 0 #dea841, 0 4px 0 #d39a33, 0 5px 0 #c88c26, 0 6px 0 #bd7f1a,
+    0 7px 0 #b1720f, 0 8px 0 #a56605, 0 18px 30px rgba(0,0,0,0.55) !important; }
+  .relieve.verde { color: #8ff0bf; text-shadow: 0 1px 0 #77dfab, 0 2px 0 #66d09b, 0 3px 0 #55c18b, 0 4px 0 #45b27c, 0 5px 0 #36a36d, 0 6px 0 #28945f,
+    0 7px 0 #1b8551, 0 8px 0 #0f7744, 0 18px 30px rgba(0,0,0,0.55) !important; }
+  .relieve.rojo { color: #ff8f86; text-shadow: 0 1px 0 #f57b72, 0 2px 0 #ea6960, 0 3px 0 #df584f, 0 4px 0 #d4483f, 0 5px 0 #c83a31, 0 6px 0 #bc2d24,
+    0 7px 0 #af2118, 0 8px 0 #a2160e, 0 18px 30px rgba(0,0,0,0.55) !important; }
+  .gigante { font-size: 300px; font-weight: 900; letter-spacing: -0.06em; line-height: 0.88; text-align: center; }
+
+  /* Moneda 3D (el JS crea las capas) */
+  .moneda3d { width: 320px; height: 320px; position: relative; transform-style: preserve-3d; align-self: center; }
+  .moneda3d .capa { position: absolute; inset: 0; border-radius: 50%; background: #b07a14; }
+  .moneda3d .cara { position: absolute; inset: 0; border-radius: 50%; display: grid; place-items: center;
+    background: radial-gradient(circle at 34% 28%, #fff1c4 0%, #f6c75a 38%, #d99a22 72%, #a86f10 100%);
+    box-shadow: inset 0 0 0 16px rgba(160,105,10,0.55), inset 0 0 0 22px rgba(255,230,160,0.5);
+    font-size: 190px; font-weight: 900; color: #8a5c08; text-shadow: 0 3px 0 #ffe7a6, 0 -2px 0 rgba(90,55,0,0.4); }
+
+  /* Barras 3D (el JS crea las caras) */
+  .barras3d { display: flex; align-items: flex-end; justify-content: center; gap: 70px; height: 560px; transform-style: preserve-3d; padding-top: 40px; }
+  .barras3d .col { display: flex; flex-direction: column; align-items: center; gap: 18px; transform-style: preserve-3d; }
+  .barras3d .cubo { position: relative; width: 170px; height: calc(var(--h, 0) * 440px); transform-style: preserve-3d; }
+  .barras3d .cubo .f { position: absolute; inset: 0; background: linear-gradient(180deg, var(--c1, #7fb1ea), var(--c2, #3d86e0)); border-radius: 6px; }
+  .barras3d .cubo .t { position: absolute; left: 0; right: 0; top: 0; height: 60px; transform-origin: top; transform: rotateX(-90deg) translateZ(0);
+    background: var(--c1, #7fb1ea); filter: brightness(1.25); }
+  .barras3d .cubo .l { position: absolute; top: 0; bottom: 0; right: 0; width: 60px; transform-origin: right; transform: rotateY(90deg);
+    background: var(--c2, #3d86e0); filter: brightness(0.7); }
+  .barras3d .v { font-size: 62px; font-weight: 900; letter-spacing: -0.03em; }
+  .barras3d .e { font-size: 32px; font-weight: 700; color: var(--tenue); text-align: center; line-height: 1.15; }
+
+  /* Calendario 3D (el JS crea los días) */
+  .calendario { align-self: center; width: 900px; border-radius: 44px; padding: 34px 40px 40px; transform-style: preserve-3d;
+    background: linear-gradient(160deg, rgba(255,255,255,0.16), rgba(255,255,255,0.05)); border: 2px solid rgba(255,255,255,0.22);
+    box-shadow: 0 50px 90px rgba(0,0,0,0.45), inset 0 1px 0 rgba(255,255,255,0.3); backdrop-filter: blur(6px); }
+  html.realista .calendario { background: linear-gradient(160deg, rgba(14,26,48,0.92), rgba(8,14,28,0.88)); }
+  .calendario .mes { font-size: 52px; font-weight: 900; letter-spacing: -0.02em; margin-bottom: 22px; display: flex; justify-content: space-between; align-items: center; }
+  .calendario .mes small { font-size: 30px; color: var(--tenue); font-weight: 700; letter-spacing: 0.06em; text-transform: uppercase; }
+  .calendario .rej { display: grid; grid-template-columns: repeat(7, 1fr); gap: 10px; }
+  .calendario .sem { font-size: 26px; font-weight: 800; color: var(--tenue-2); text-align: center; padding-bottom: 6px; }
+  .calendario .d { height: 92px; border-radius: 22px; display: grid; place-items: center; font-size: 40px; font-weight: 800; color: #dbe5f3;
+    background: rgba(255,255,255,0.05); position: relative; }
+  .calendario .d.vacio { background: none; }
+  .calendario .d.on { color: #0b1220; background: var(--verde); box-shadow: 0 10px 30px rgba(111,211,160,0.55); }
+  .calendario .d.marca { outline: 6px solid var(--ambar); outline-offset: -6px; color: var(--ambar); }
+  .calendario .d .tag { position: absolute; bottom: -34px; left: 50%; transform: translateX(-50%); font-size: 22px; font-weight: 800; color: var(--ambar); white-space: nowrap; }
+
+  /* Lista con comprobaciones que entran girando */
+  .check { display: flex; align-items: center; gap: 28px; font-size: 54px; font-weight: 800; line-height: 1.1;
+    background: rgba(6,12,24,0.7); border: 2px solid rgba(255,255,255,0.14); border-radius: 32px; padding: 24px 30px; }
+  .check .ok { flex: 0 0 84px; height: 84px; border-radius: 26px; background: var(--verde); color: #0b1220; display: grid; place-items: center; font-size: 52px; font-weight: 900; }
+  .check small { display: block; font-size: 32px; font-weight: 600; color: #c8d3e2; margin-top: 4px; }
+
+  /* Partículas */
+  .estallido { position: absolute; left: 50%; top: 50%; width: 0; height: 0; pointer-events: none; }
+  .estallido span { position: absolute; font-size: 64px; font-weight: 900; color: var(--ambar); text-shadow: 0 6px 18px rgba(0,0,0,0.5); }
+
+  /* Subtítulos dinámicos */
+  html.dinamico #subtitulos .bloque { font-size: 66px; font-weight: 900; text-transform: none; }
+  html.dinamico #subtitulos span { display: inline-block; }
+  html.dinamico #subtitulos span.ahora { background: var(--ambar); color: #14130f; }
+
   /* Portada */
   body.portada #subtitulos, body.portada #progreso { display: none; }
   body.portada #escenario { top: 300px; height: 1320px; }
@@ -164,6 +245,7 @@
 <body>
 <div id="fondo"><div id="rejilla"></div><div id="marca-agua"></div></div>
 <div id="velo"></div>
+<div id="lienzo"><div class="orbe a"></div><div class="orbe b"></div><div class="orbe c"></div><div class="suelo"></div><div class="chispas"></div></div>
 <div id="cabecera">
   <div class="logo">
     <svg viewBox="0 0 64 64" aria-hidden="true">
@@ -187,7 +269,71 @@
   const rebote = (x) => { x = clamp(x); const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
   const fmt = (v, dec) => v.toLocaleString("es-ES", { minimumFractionDigits: dec, maximumFractionDigits: dec, useGrouping: "always" });
 
-  let D = null, escenas = [], subt = null;
+  let D = null, escenas = [], subt = null, golpes = [], chispas = [];
+
+  // Números pseudoaleatorios repetibles: el mismo reel sale igual en cada render.
+  function azar(semilla) { let a = semilla >>> 0; return () => { a = (a + 0x6d2b79f5) >>> 0; let t = a; t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; }; }
+
+  // Construye las piezas 3D que se escriben en el HTML de las escenas con una sola etiqueta.
+  function construir3d(raiz, semilla) {
+    raiz.querySelectorAll(".moneda3d").forEach((m) => {
+      if (m.querySelector(".cara")) return;
+      const s = m.dataset.simbolo || "€";
+      let h = "";
+      for (let z = -13; z <= 13; z += 2) h += `<i class="capa" style="transform: translateZ(${z}px)"></i>`;
+      h += `<div class="cara" style="transform: translateZ(15px)">${s}</div><div class="cara" style="transform: rotateY(180deg) translateZ(15px)">${s}</div>`;
+      m.innerHTML = h;
+    });
+    raiz.querySelectorAll(".barras3d .col").forEach((c) => {
+      if (c.querySelector(".cubo")) return;
+      c.style.setProperty("--c1", c.dataset.c1 || "#7fb1ea"); c.style.setProperty("--c2", c.dataset.c2 || "#3d86e0");
+      c.innerHTML = `<div class="v">${c.dataset.v || ""}</div><div class="cubo" style="--h:0"><div class="f"></div><div class="t"></div><div class="l"></div></div><div class="e">${c.dataset.e || ""}</div>`;
+    });
+    raiz.querySelectorAll(".calendario").forEach((c) => {
+      if (c.querySelector(".rej")) return;
+      const off = Number(c.dataset.offset || 0), dias = Number(c.dataset.dias || 30);
+      const [r1, r2] = (c.dataset.rango || "0-0").split("-").map(Number);
+      const marca = Number(c.dataset.marca || 0);
+      let h = `<div class="mes">${c.dataset.mes || ""}<small>${c.dataset.nota || ""}</small></div><div class="rej">`;
+      h += ["L", "M", "X", "J", "V", "S", "D"].map((d) => `<div class="sem">${d}</div>`).join("");
+      for (let i = 0; i < off; i++) h += `<div class="d vacio"></div>`;
+      let k = 0;
+      for (let d = 1; d <= dias; d++) {
+        const enRango = d >= r1 && d <= r2;
+        h += `<div class="d${d === marca ? " es-marca" : ""}"${enRango ? ` data-r="${k++}"` : ""}>${d}${d === marca && c.dataset.tag ? `<span class="tag">${c.dataset.tag}</span>` : ""}</div>`;
+      }
+      c.innerHTML = h + "</div>";
+    });
+    const rnd = azar(semilla || 7);
+    raiz.querySelectorAll(".estallido").forEach((e) => {
+      const n = Number(e.dataset.n || 22), s = e.dataset.simbolo || "€";
+      e.__p = [];
+      let h = "";
+      for (let i = 0; i < n; i++) {
+        const ang = rnd() * Math.PI * 2, vel = 0.55 + rnd() * 0.75;
+        e.__p.push({ vx: Math.cos(ang) * vel, vy: Math.sin(ang) * vel - 0.9, giro: (rnd() - 0.5) * 720, esc: 0.6 + rnd() * 0.8 });
+        h += `<span>${s}</span>`;
+      }
+      e.innerHTML = h;
+    });
+  }
+
+  // Efectos de sonido: momentos y tipo, para que render.mjs monte la pista.
+  window.__eventos = () => {
+    const ev = [];
+    const tipo = { pop: "pop", moneda: "pop", golpe3d: "golpe", sello: "golpe", voltea: "swish", giro3d: "swish", estallido: "brillo" };
+    for (const e of escenas) {
+      if (e.ini > 0) ev.push({ t: e.ini, tipo: e.transicion === "latigo" ? "whoosh" : "swish" });
+      for (const o of e.elems) {
+        if (o.t < 0.05) continue;
+        if (tipo[o.a]) ev.push({ t: o.t, tipo: tipo[o.a] });
+        if (o.a === "rango") o.el.querySelectorAll(".d[data-r]").forEach((d, k) => ev.push({ t: o.t + 0.35 + k * 0.14, tipo: "tic" }));
+        if (o.a === "barras") o.el.querySelectorAll(".col").forEach((c, k) => ev.push({ t: o.t + k * 0.25, tipo: "pop" }));
+      }
+    }
+    ev.sort((a, b) => a.t - b.t);
+    return ev.filter((x, i) => i === 0 || x.t - ev[i - 1].t > 0.07 || x.tipo !== ev[i - 1].tipo);
+  };
 
   window.__init = (datos) => {
     D = datos;
@@ -199,6 +345,7 @@
       div.className = "escena " + (e.clase || "");
       div.innerHTML = e.html;
       esc.appendChild(div);
+      construir3d(div, 11 + datos.escenas.indexOf(e) * 97);
       const elems = [...div.querySelectorAll("[data-t], [data-a]")].map((el) => ({
         el, t: el.dataset.t !== undefined ? Number(el.dataset.t) : e.ini, a: el.dataset.a || "sube", dur: Number(el.dataset.dur || 0.45),
       }));
@@ -207,6 +354,17 @@
     subt = document.getElementById("subtitulos");
     if (datos.portada) document.body.classList.add("portada");
     document.documentElement.classList.toggle("realista", !!datos.realista);
+    document.documentElement.classList.toggle("dinamico", datos.estilo === "dinamico");
+    golpes = [];
+    for (const e of escenas) for (const o of e.elems)
+      if (["pop", "golpe3d", "sello", "moneda"].includes(o.a) && o.t > 0.05) golpes.push({ t: o.t, fuerte: o.a === "golpe3d" || o.a === "sello" });
+    const rnd = azar(42), caja = document.querySelector("#lienzo .chispas");
+    caja.innerHTML = "";
+    chispas = Array.from({ length: 36 }, () => {
+      const el = document.createElement("i");
+      caja.appendChild(el);
+      return { el, x: rnd() * 1080, y: rnd() * 1920, v: 30 + rnd() * 70, f: rnd() * 6, s: 0.4 + rnd() * 1.1 };
+    });
   };
 
   function animar(o, t) {
@@ -227,6 +385,51 @@
         el.style.opacity = clamp(p * 4);
         break;
       }
+      case "golpe3d": { const q = salida(p * 1.3); el.style.opacity = clamp(p * 4); el.style.transform = `scale(${2.5 - 1.5 * q})`; el.style.filter = q < 0.98 ? `blur(${(1 - q) * 16}px)` : "none"; break; }
+      case "voltea": { const q = salida(p); el.style.opacity = clamp(p * 2.5); el.style.transformOrigin = "50% 0"; el.style.transform = `rotateX(${(1 - q) * -100}deg)`; break; }
+      case "giro3d": { const q = rebote(p); el.style.opacity = clamp(p * 2.5); el.style.transform = `rotateY(${(1 - q) * 85}deg) scale(${0.85 + 0.15 * q})`; break; }
+      case "moneda": {
+        const q = rebote(clamp((t - o.t) / 0.7));
+        el.style.opacity = clamp(p * 3);
+        const giro = (1 - salida((t - o.t) / 1.1)) * 1080 + Math.max(0, t - o.t) * 110;
+        el.style.transform = `translateY(${(1 - q) * -300}px) rotateX(16deg) rotateY(${giro}deg) scale(${0.35 + 0.65 * q})`;
+        break;
+      }
+      case "barras": {
+        el.style.opacity = clamp(p * 3);
+        el.style.transform = `rotateX(14deg) rotateY(${-20 + 5 * Math.sin(t * 0.7)}deg)`;
+        el.querySelectorAll(".col").forEach((c, k) => {
+          const pi = salida((t - o.t - k * 0.25) / 0.75);
+          c.querySelector(".cubo").style.setProperty("--h", pi * Number(c.dataset.h || 0.5));
+          c.style.opacity = clamp(pi * 3);
+        });
+        break;
+      }
+      case "rango": {
+        const q = salida(p);
+        el.style.opacity = clamp(p * 2.5);
+        el.style.transform = `rotateX(${(1 - q) * 60 + 12}deg) rotateY(${-10 + 4 * Math.sin(t * 0.6)}deg) translateY(${(1 - q) * 120}px)`;
+        el.querySelectorAll(".d[data-r]").forEach((d, k) => {
+          const tk = o.t + 0.35 + k * 0.14, on = t >= tk;
+          d.classList.toggle("on", on);
+          d.style.transform = on ? `translateZ(${30 * Math.exp(-(t - tk) * 6)}px) scale(${1 + 0.3 * Math.exp(-(t - tk) * 8)})` : "";
+        });
+        el.querySelectorAll(".es-marca").forEach((d) => d.classList.toggle("marca", t >= o.t + 0.2));
+        break;
+      }
+      case "estallido": {
+        const dt = t - o.t;
+        el.style.opacity = dt < 0 ? 0 : 1;
+        el.querySelectorAll("span").forEach((s, i) => {
+          const q = el.__p[i];
+          if (dt < 0) { s.style.opacity = 0; return; }
+          const x = q.vx * dt * 700, y = q.vy * dt * 700 + 1100 * dt * dt;
+          s.style.opacity = clamp(1 - dt / 1.5);
+          s.style.transform = `translate(${x}px, ${y}px) rotate(${q.giro * dt}deg) scale(${q.esc})`;
+        });
+        break;
+      }
+      case "latido": { el.style.opacity = clamp(p * 3); el.style.transform = `scale(${(0.6 + 0.4 * rebote(p)) * (1 + 0.035 * Math.sin((t - o.t) * 6))})`; break; }
       case "fijo": break;
     }
   }
@@ -240,16 +443,63 @@
     document.getElementById("rejilla").style.setProperty("--ry", `${(t * 14) % 90}px`);
     document.querySelector("#progreso i").style.width = `${clamp(t / total) * 100}%`;
 
+    const din = D.estilo === "dinamico";
+    let solido = 0;
     for (const e of escenas) {
-      const entra = e.ini <= 0 ? 1 : salida((t - e.ini) / 0.28);
-      const sale = e.fin >= total ? 1 : 1 - suave((t - (e.fin - 0.2)) / 0.2);
-      const v = t < e.ini || t > e.fin ? 0 : Math.min(entra, sale);
+      const tr = e.transicion || (din ? "zoom" : null);
+      if (!tr) {
+        const entra = e.ini <= 0 ? 1 : salida((t - e.ini) / 0.28);
+        const sale = e.fin >= total ? 1 : 1 - suave((t - (e.fin - 0.2)) / 0.2);
+        const v = t < e.ini || t > e.fin ? 0 : Math.min(entra, sale);
+        e.div.style.opacity = v;
+        e.div.style.visibility = v > 0 ? "visible" : "hidden";
+        if (v <= 0) continue;
+        const zoom = 1 + 0.025 * clamp((t - e.ini) / Math.max(1, e.fin - e.ini));
+        e.div.style.transform = `translateY(${(1 - entra) * 30}px) scale(${zoom})`;
+        for (const o of e.elems) animar(o, t);
+        continue;
+      }
+      // Transiciones del estilo dinámico: entra en 0,32 s y sale en los últimos 0,22 s de la escena.
+      const pe = e.ini <= 0 ? 1 : salida((t - e.ini) / 0.32);
+      const ps = e.fin >= total ? 0 : clamp((t - (e.fin - 0.22)) / 0.22);
+      const v = t < e.ini || t > e.fin ? 0 : Math.min(clamp(pe * 1.6), 1 - suave(ps));
       e.div.style.opacity = v;
       e.div.style.visibility = v > 0 ? "visible" : "hidden";
+      if (e.solido) solido = Math.max(solido, t < e.ini || t > e.fin ? 0 : Math.min(clamp((t - e.ini) / 0.2 + (e.ini <= 0 ? 1 : 0)), 1 - ps));
       if (v <= 0) continue;
-      const zoom = 1 + 0.025 * clamp((t - e.ini) / Math.max(1, e.fin - e.ini));
-      e.div.style.transform = `translateY(${(1 - entra) * 30}px) scale(${zoom})`;
+      const deriva = 1 + 0.035 * clamp((t - e.ini) / Math.max(1, e.fin - e.ini));
+      let tf = "", blur = 0;
+      if (tr === "latigo") { tf = `translateX(${(1 - pe) * 1150 - suave(ps) * 1150}px) skewX(${(1 - pe) * -8 + ps * 8}deg)`; blur = (1 - pe) * 26 + ps * 26; }
+      else if (tr === "giro") { tf = `rotateY(${(1 - pe) * -80 + suave(ps) * 80}deg)`; blur = (1 - pe) * 8 + ps * 8; }
+      else if (tr === "sube") { tf = `translateY(${(1 - pe) * 260 - suave(ps) * 160}px)`; blur = (1 - pe) * 10; }
+      else { tf = `scale(${(1.4 - 0.4 * pe) * (1 - 0.15 * suave(ps))})`; blur = (1 - pe) * 18 + ps * 12; }
+      e.div.style.transform = `${tf} scale(${deriva})`;
+      e.div.style.filter = blur > 0.4 ? `blur(${blur.toFixed(1)}px)` : "none";
       for (const o of e.elems) animar(o, t);
+    }
+
+    if (din) {
+      // Cámara: deriva suave, empujón en cada golpe y sacudida en los fuertes.
+      let punch = 0, sx = 7 * Math.sin(t * 0.9), sy = 5 * Math.cos(t * 0.7), rz = 0;
+      for (const g of golpes) {
+        const d = t - g.t;
+        if (d < 0 || d > 0.9) continue;
+        punch += (g.fuerte ? 0.07 : 0.03) * Math.exp(-d * 9);
+        if (g.fuerte) { const a = 20 * Math.exp(-d * 10); sx += a * Math.sin(d * 95); sy += a * Math.cos(d * 80); rz += 0.8 * Math.exp(-d * 10) * Math.sin(d * 60); }
+      }
+      document.getElementById("escenario").style.transform = `translate(${sx.toFixed(1)}px, ${sy.toFixed(1)}px) rotate(${rz.toFixed(2)}deg) scale(${(1 + punch).toFixed(4)})`;
+      // Lienzo animado
+      const lz = document.getElementById("lienzo");
+      if (D.realista) lz.style.opacity = solido;
+      lz.querySelector(".orbe.a").style.transform = `translate(${-200 + 160 * Math.sin(t * 0.35)}px, ${-150 + 120 * Math.cos(t * 0.3)}px)`;
+      lz.querySelector(".orbe.b").style.transform = `translate(${500 + 140 * Math.cos(t * 0.28)}px, ${1100 + 160 * Math.sin(t * 0.33)}px)`;
+      lz.querySelector(".orbe.c").style.transform = `translate(${300 + 220 * Math.sin(t * 0.22 + 1)}px, ${600 + 200 * Math.cos(t * 0.26)}px)`;
+      lz.querySelector(".suelo").style.setProperty("--sy", `${(t * 90) % 140}px`);
+      for (const c of chispas) {
+        const y = ((c.y - t * c.v) % 1920 + 1920) % 1920;
+        c.el.style.transform = `translate(${c.x + 30 * Math.sin(t + c.f)}px, ${y}px) scale(${c.s})`;
+        c.el.style.opacity = 0.25 + 0.35 * Math.sin(t * 2 + c.f) ** 2;
+      }
     }
 
     if (!D.subtitulos) return;
@@ -263,6 +513,7 @@
       const spans = subt.querySelectorAll("span");
       s.palabras.forEach((w, i) => {
         spans[i].className = t >= w.ini ? (t < w.fin + 0.05 && (i === s.palabras.length - 1 || t < s.palabras[i + 1].ini) ? "ahora" : "dicha") : "";
+        if (D.estilo === "dinamico") spans[i].style.transform = t >= w.ini ? `scale(${(1 + 0.16 * Math.exp(-(t - w.ini) * 10)).toFixed(3)})` : "scale(0.92)";
       });
       const q = salida((t - s.ini) / 0.18);
       subt.firstChild.style.transform = `translateY(${(1 - q) * 18}px)`;

@@ -94,3 +94,28 @@ Si alguna escena de `reel.mjs` lleva `fondo`, el reel se monta sobre vídeo real
 - **Nada de clips generados con IA:** al elegir en Pixabay, descartar los que llevan la etiqueta «ai generated».
 - **Ningún tema se repite:** antes de escribir un reel, mirar los temas ya publicados o programados en el calendario. Los temas de `contenido/` sin reel todavía: jubilación activa, parcial, flexible, anticipada involuntaria, anticipada por discapacidad, anticipada por profesión, despido a los 60, convenio especial, años que faltan, cuánto tarda la jubilación, documentos para pedirla, pedirla por internet, haber trabajado en otro país y autónomos.
 - **Voz:** la mejor voz de IA disponible, elegida escuchando `comparativa-voces.mp3`. Mientras la voz sea sintética, la etiqueta de IA se queda activada en Instagram, YouTube y TikTok, como piden sus normas.
+
+## Estilo dinámico (13/11/2026)
+
+Para los reels nuevos. Se activa con `estilo: "dinamico"` en `reel.mjs` y se puede mezclar con el vídeo real.
+
+- **Por escena:**
+  - `transicion`: `"zoom"` (por defecto), `"latigo"` (barrido lateral con desenfoque), `"giro"` (giro 3D) o `"sube"`.
+  - `solido: true`: tapa el vídeo con el fondo propio, con luces que se mueven, un suelo 3D en perspectiva y chispas.
+- **Cámara:** se mueve sola, da un empujón con cada `pop`, `moneda`, `sello` o `golpe3d` y se sacude con los dos últimos.
+- **Piezas 3D** (basta con escribir la etiqueta; el código monta el resto):
+  - `<div class="moneda3d" data-a="moneda">`: moneda de euro que cae girando. Con `data-simbolo` se cambia el símbolo.
+  - `<div class="calendario" data-a="rango" data-mes="…" data-offset="6" data-dias="30" data-rango="22-26" data-marca="29" data-tag="…">`: calendario inclinado. Los días del rango se encienden uno a uno. `data-offset` es el número de huecos antes del día 1, con la semana empezando en lunes.
+  - `<div class="barras3d" data-a="barras"><div class="col" data-h="0.6" data-v="2,8 %" data-e="2025"></div>…</div>`: barras 3D que crecen una tras otra.
+  - `<div class="estallido" data-a="estallido" data-n="26">`: lluvia de euros.
+- **Animaciones nuevas** (`data-a`):
+  - `golpe3d`: el texto entra de golpe, con desenfoque.
+  - `voltea`: la tarjeta cae desde arriba.
+  - `giro3d`: entra girando.
+  - `latido`: late suavemente.
+- **Clases de texto:**
+  - `relieve`: texto con volumen 3D, en blanco o con `ambar`, `verde` o `rojo`.
+  - `gigante`: palabras enormes.
+  - `check`: fila con el visto verde.
+- **Efectos de sonido:** se sintetizan en `herramientas/reels/sfx.mjs`, sin archivos de terceros. Hay barrido en cada cambio de escena, pop, golpe, tic en cada día del calendario y campanilla en el estallido. Se ajustan con `volumenEfectos` (0,32 por defecto) y se quitan con `efectos: false`.
+- **Render:** unos 9 minutos por reel de 30 s.

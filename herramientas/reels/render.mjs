@@ -13,6 +13,7 @@ import { join, resolve, dirname } from "node:path";
 import { fileURLToPath, pathToFileURL } from "node:url";
 import { procesarVoz, tokenizar, alinear } from "./audio.mjs";
 import { construirFondo, descargar, revisarRepetidos } from "./fondo.mjs";
+import { pistaSfx } from "./sfx.mjs";
 
 const require = createRequire(import.meta.url);
 const { chromium } = require("playwright");
@@ -53,7 +54,7 @@ const escenas = reel.escenas.map((e, n) => {
     const i = buscar(frase, idx);
     return `data-t="${Math.max(n === 0 ? -1 : ini, tiempos[i].ini - 0.08).toFixed(3)}"`;
   });
-  return { ini: n === 0 ? -1 : +ini.toFixed(3), html, clase: e.clase, fondo: e.fondo };
+  return { ini: n === 0 ? -1 : +ini.toFixed(3), html, clase: e.clase, fondo: e.fondo, transicion: e.transicion, solido: e.solido };
 });
 // La primera escena empieza en -1 s: lo que no tiene ancla ya está visible en el primer fotograma (el gancho no espera).
 escenas.forEach((e, i) => { e.fin = i < escenas.length - 1 ? escenas[i + 1].ini : duracion + 1; });
@@ -87,7 +88,7 @@ const navegador = await chromium.launch();
 const pagina = await navegador.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: 1 });
 const plantilla = pathToFileURL(join(AQUI, "plantilla.html")).href;
 const realista = reel.escenas.some((e) => e.fondo);
-const datos = { tema: reel.tema, marcaAgua: reel.marcaAgua, duracion, escenas: escenas.map(({ fondo, ...e }) => e), subtitulos, realista };
+const datos = { tema: reel.tema, marcaAgua: reel.marcaAgua, duracion, escenas: escenas.map(({ fondo, ...e }) => e), subtitulos, realista, estilo: reel.estilo };
 const shot = (opts = {}) => pagina.screenshot(realista ? { type: "png", omitBackground: true, ...opts } : { type: "jpeg", quality: 95, ...opts });
 
 // Fondo de vídeo real (modo realista)
@@ -107,7 +108,7 @@ async function cargar(d) {
 }
 
 // Portada (1080×1920, con lo importante dentro del recorte 3:4 de la cuadrícula del perfil)
-await cargar({ tema: reel.tema, marcaAgua: reel.marcaAgua, duracion: 10, portada: true, realista, escenas: [{ ini: -1, fin: 99, html: reel.portada.replace(/data-a="/g, 'data-t="-5" data-a="') }] });
+await cargar({ tema: reel.tema, marcaAgua: reel.marcaAgua, duracion: 10, portada: true, realista, estilo: reel.estilo, escenas: [{ ini: -1, fin: 99, html: reel.portada.replace(/data-a="/g, 'data-t="-5" data-a="') }] });
 await pagina.evaluate(() => window.__frame(5));
 if (realista && !soloPrevia) {
   const capa = join(tmp, "portada.png");
@@ -136,6 +137,14 @@ if (soloPrevia) {
 }
 
 const salidaMp4 = join(carpeta, "reel.mp4");
+// Efectos de sonido (solo en el estilo dinámico)
+let sfx = null;
+if (reel.estilo === "dinamico" && reel.efectos !== false) {
+  const eventos = await pagina.evaluate(() => window.__eventos());
+  sfx = pistaSfx(eventos, duracion, join(tmp, "sfx.wav"));
+  console.log(`Efectos de sonido: ${eventos.length}`);
+}
+const volSfx = reel.volumenEfectos ?? 0.32;
 const musicaRuta = reel.musica ? (/^https?:/.test(reel.musica) ? descargar(reel.musica, carpeta) : resolve(carpeta, reel.musica)) : null;
 const musica = musicaRuta && existsSync(musicaRuta) ? musicaRuta : null;
 const bucle = reel.musicaBucle; // { ini, fin } en segundos: el tramo que se repite sin cortes
@@ -148,14 +157,19 @@ const musFiltro = bucle
   ? `[${a0 + 1}:a]aformat=sample_rates=48000:channel_layouts=stereo,aloop=loop=-1:size=${Math.round((bucle.fin - bucle.ini) * 48000)}:start=${Math.round(bucle.ini * 48000)},asetpts=N/SR/TB,`
   : `[${a0 + 1}:a]aformat=sample_rates=48000:channel_layouts=stereo,`;
 const vozFiltro = `[${a0}:a]highpass=f=70,acompressor=threshold=-20dB:ratio=2.5:attack=8:release=120,apad=whole_dur=${duracion}`;
-const audio = musica
+const sfxIdx = a0 + (musica ? 2 : 1);
+const final = sfx
+  ? `[pre]aformat=sample_rates=48000:channel_layouts=stereo[pre2];[${sfxIdx}:a]aformat=sample_rates=48000:channel_layouts=stereo,volume=${volSfx},apad=whole_dur=${duracion}[sx];` +
+    `[pre2][sx]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=9[a]`
+  : `[pre]loudnorm=I=-14:TP=-1.5:LRA=9[a]`;
+const audio = (musica
   ? `${vozFiltro},aformat=sample_rates=48000:channel_layouts=stereo,asplit=2[voz][guia];` +
     `${musFiltro}atrim=0:${duracion},volume=${volMusica},afade=t=in:d=0.4,afade=t=out:st=${(duracion - 1.4).toFixed(2)}:d=1.4[m];` +
-    `[m][guia]sidechaincompress=threshold=0.02:ratio=5:attack=30:release=450[mb];[voz][mb]amix=inputs=2:duration=first:normalize=0,loudnorm=I=-14:TP=-1.5:LRA=9[a]`
-  : `${vozFiltro},loudnorm=I=-14:TP=-1.5:LRA=9[a]`;
+    `[m][guia]sidechaincompress=threshold=0.02:ratio=5:attack=30:release=450[mb];[voz][mb]amix=inputs=2:duration=first:normalize=0[pre];`
+  : `${vozFiltro}[pre];`) + final;
 const video = realista ? "[0:v][1:v]overlay=0:0:format=auto,format=yuv420p[v];" : "";
 const ff = spawn("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error",
-  ...vIn, "-i", vozWav, ...musEntrada,
+  ...vIn, "-i", vozWav, ...musEntrada, ...(sfx ? ["-i", sfx] : []),
   "-filter_complex", video + audio,
   "-map", realista ? "[v]" : "0:v", "-map", "[a]",
   "-c:v", "libx264", "-preset", "slow", "-crf", "18", "-pix_fmt", "yuv420p", "-profile:v", "high", "-level", "4.1", "-r", String(FPS),
