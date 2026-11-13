@@ -119,3 +119,50 @@ Para los reels nuevos. Se activa con `estilo: "dinamico"` en `reel.mjs` y se pue
   - `check`: fila con el visto verde.
 - **Efectos de sonido:** se sintetizan en `herramientas/reels/sfx.mjs`, sin archivos de terceros. Hay barrido en cada cambio de escena, pop, golpe, tic en cada día del calendario y campanilla en el estallido. Se ajustan con `volumenEfectos` (0,32 por defecto) y se quitan con `efectos: false`.
 - **Render:** unos 9 minutos por reel de 30 s.
+
+## Muñecos 3D (13/11/2026): el formato modelo
+
+Pau pidió el 13/11 distinguirnos con muñecos animados en 3D y ejemplos prácticos. Sustituye a la regla del vídeo real de stock: los reels nuevos se cuentan con personajes propios, hechos solo con código (three.js), sin material de terceros. Modelo: `elecciones/e2-paga-extra/reel.mjs`.
+
+**Reparto** (`herramientas/reels/3d/personajes.js`):
+- **Rosa** (61 años): rebeca roja, gafas redondas, moño.
+- **Luis** (64 años): jersey mostaza, bigote, gafas oscuras.
+- Se añaden más copiando una entrada de `REPARTO`.
+
+**Poses:** `reposo`, `saluda`, `senala`, `senalaArriba`, `pulgar`, `celebra` (bota y agita los brazos), `piensa`, `encoge`, `movil`, `movilEnsena`, `carpeta` y `brazosArriba`. Una pose se funde con la siguiente en 0,45 s.
+
+**Caras:** `neutra`, `contenta`, `feliz`, `preocupada` y `sorpresa`. Además parpadean, respiran y se balancean solos.
+
+**Escenarios** (`3d/escenarios.js`):
+- `salon`: sofá, ventana, lámpara, planta, cuadro y alfombra.
+- `oficina`: mesa de atención, ordenador, archivador y pantalla de turnos.
+
+**Atrezo:**
+
+| Tipo | Qué hace |
+|---|---|
+| `movil` | En la mano de un personaje y mirando a cámara. Con `pantallas: [{en, estado: "ingreso"}]` aparece la notificación del banco. |
+| `calendarioPared` | Pasa la hoja de noviembre al 1 de diciembre en su `en`. |
+| `bocadillo` | Con `texto` («?», «!»), desde `t` hasta `hasta`. |
+| `monedas` | Lluvia de euros que botan en el suelo. |
+| `carpeta` | Muestra «✓ EN CURSO» cuando le llega el sello. |
+| `sello` | Baja y sella en su `en`. |
+
+**Cómo se escribe:** cada escena lleva `animacion` con estos campos:
+- `set`: el escenario.
+- `camara`: `desde` y `hasta`, cada uno con `pos` y `mira`. La cámara frena suavemente al llegar.
+- `actores`: para cada personaje, `pos` como [x, z], `giro` en grados, `pose`, `cara` y `acciones`. Cada acción lleva `{ en: "frase", pose, cara, mueve: [x, z], dur, gira }`.
+- `atrezo`.
+
+Todo lo que lleva `en` se sincroniza con la frase del guion, igual que los textos.
+
+**Encuadre:**
+- Los personajes miden unos 3,2 de alto, con la cabeza en y ≈ 2,5.
+- Para un plano medio con sitio para el texto arriba: cámara a 8-9 de distancia y `mira` en y ≈ 2,8-3,0.
+- Para un plano general con dos personajes: distancia de 11 a 12.
+- Los textos van con `clase: "arriba"` y `velo: "suave"`. Con `velo: "suave"` el kicker sale en pastilla oscura y el velo solo oscurece arriba y bajo los subtítulos.
+
+**Previa y render:**
+- La previa (`--previa`) junta el 3D y los textos de cada escena en `.previa/`.
+- El render completo tarda unos 15 minutos por reel de 30 s: unos 6 del 3D y unos 9 de la capa de textos.
+- El 3D se dibuja con SwiftShader, sin tarjeta gráfica.

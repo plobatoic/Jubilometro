@@ -14,6 +14,7 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 import { procesarVoz, tokenizar, alinear } from "./audio.mjs";
 import { construirFondo, descargar, revisarRepetidos } from "./fondo.mjs";
 import { pistaSfx } from "./sfx.mjs";
+import { construirFondo3d, fotogramas3d } from "./3d/fondo3d.mjs";
 
 const require = createRequire(import.meta.url);
 const { chromium } = require("playwright");
@@ -54,7 +55,16 @@ const escenas = reel.escenas.map((e, n) => {
     const i = buscar(frase, idx);
     return `data-t="${Math.max(n === 0 ? -1 : ini, tiempos[i].ini - 0.08).toFixed(3)}"`;
   });
-  return { ini: n === 0 ? -1 : +ini.toFixed(3), html, clase: e.clase, fondo: e.fondo, transicion: e.transicion, solido: e.solido };
+  // Anclas de la animación 3D («en»: frase del guion) → segundos («t»)
+  const animacion = e.animacion ? JSON.parse(JSON.stringify(e.animacion)) : null;
+  const resolver = (o) => {
+    if (Array.isArray(o)) return o.forEach(resolver);
+    if (!o || typeof o !== "object") return;
+    if (typeof o.en === "string") { o.t = +Math.max(n === 0 ? 0 : ini, tiempos[buscar(o.en, idx)].ini - 0.05).toFixed(3); delete o.en; }
+    for (const k in o) if (k !== "en") resolver(o[k]);
+  };
+  resolver(animacion);
+  return { ini: n === 0 ? -1 : +ini.toFixed(3), html, clase: e.clase, fondo: e.fondo, transicion: e.transicion, solido: e.solido, animacion };
 });
 // La primera escena empieza en -1 s: lo que no tiene ancla ya está visible en el primer fotograma (el gancho no espera).
 escenas.forEach((e, i) => { e.fin = i < escenas.length - 1 ? escenas[i + 1].ini : duracion + 1; });
@@ -87,14 +97,20 @@ writeFileSync(join(carpeta, "tiempos.json"), JSON.stringify({ duracion, escenas:
 const navegador = await chromium.launch();
 const pagina = await navegador.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: 1 });
 const plantilla = pathToFileURL(join(AQUI, "plantilla.html")).href;
-const realista = reel.escenas.some((e) => e.fondo);
-const datos = { tema: reel.tema, marcaAgua: reel.marcaAgua, duracion, escenas: escenas.map(({ fondo, ...e }) => e), subtitulos, realista, estilo: reel.estilo };
+const anim3d = reel.escenas.some((e) => e.animacion);
+const realista = anim3d || reel.escenas.some((e) => e.fondo);
+const datos = { tema: reel.tema, marcaAgua: reel.marcaAgua, duracion, escenas: escenas.map(({ fondo, animacion, ...e }) => e), subtitulos, realista, estilo: reel.estilo, velo: reel.velo };
+const datos3d = { duracion, escenas: escenas.map((e) => ({ ini: e.ini, fin: e.fin, animacion: e.animacion })) };
 const shot = (opts = {}) => pagina.screenshot(realista ? { type: "png", omitBackground: true, ...opts } : { type: "jpeg", quality: 95, ...opts });
 
 // Fondo de vídeo real (modo realista)
 const fondoMp4 = join(tmp, "fondo.mp4");
-if (realista) revisarRepetidos(carpeta);
-if (realista && !soloPrevia) {
+if (realista && !anim3d) revisarRepetidos(carpeta);
+if (anim3d && !soloPrevia) {
+  console.log("Renderizando las escenas 3D…");
+  await construirFondo3d(datos3d, fondoMp4, FPS);
+  writeFileSync(join(carpeta, "creditos.txt"), "Animación 3D: hecha con código (three.js), sin material de terceros.\n" + (reel.musica ? `Música: ${reel.musica}\n` : ""));
+} else if (realista && !soloPrevia) {
   console.log("Montando el fondo de vídeo…");
   const { clips } = construirFondo(escenas, duracion, carpeta, fondoMp4, FPS);
   writeFileSync(join(carpeta, "creditos.txt"), "Vídeo de fondo: Pixabay (licencia de contenido de Pixabay, uso comercial sin atribución obligatoria)\n" +
@@ -108,7 +124,7 @@ async function cargar(d) {
 }
 
 // Portada (1080×1920, con lo importante dentro del recorte 3:4 de la cuadrícula del perfil)
-await cargar({ tema: reel.tema, marcaAgua: reel.marcaAgua, duracion: 10, portada: true, realista, estilo: reel.estilo, escenas: [{ ini: -1, fin: 99, html: reel.portada.replace(/data-a="/g, 'data-t="-5" data-a="') }] });
+await cargar({ tema: reel.tema, marcaAgua: reel.marcaAgua, duracion: 10, portada: true, realista, estilo: reel.estilo, velo: reel.velo, escenas: [{ ini: -1, fin: 99, html: reel.portada.replace(/data-a="/g, 'data-t="-5" data-a="') }] });
 await pagina.evaluate(() => window.__frame(5));
 if (realista && !soloPrevia) {
   const capa = join(tmp, "portada.png");
@@ -124,10 +140,16 @@ await cargar(datos);
 if (soloPrevia) {
   const dir = join(carpeta, ".previa");
   mkdirSync(dir, { recursive: true });
-  for (const [i, e] of escenas.entries()) {
-    const t = Math.min(e.fin - 0.25, duracion - 0.05);
+  const momentos = escenas.map((e) => Math.min(e.fin - 0.25, duracion - 0.05));
+  const fondos = anim3d ? await fotogramas3d(datos3d, momentos, dir) : [];
+  for (const [i, t] of momentos.entries()) {
     await pagina.evaluate((x) => window.__frame(x), t);
-    await pagina.screenshot({ path: join(dir, `escena-${String(i + 1).padStart(2, "0")}.jpg`), type: "jpeg", quality: 80 });
+    const ruta = join(dir, `escena-${String(i + 1).padStart(2, "0")}.jpg`);
+    if (anim3d) {
+      const capa = join(dir, "capa.png");
+      await pagina.screenshot({ path: capa, type: "png", omitBackground: true });
+      execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-i", fondos[i], "-i", capa, "-filter_complex", "[0:v][1:v]overlay=0:0", "-q:v", "3", ruta]);
+    } else await pagina.screenshot({ path: ruta, type: "jpeg", quality: 80 });
   }
   await pagina.evaluate(() => window.__frame(0));
   await pagina.screenshot({ path: join(dir, "fotograma-0.jpg"), type: "jpeg", quality: 80 });
