@@ -41,6 +41,8 @@ Instagram, YouTube y Facebook a las 20:43. Los carruseles y los textos de Facebo
 | Dom 20/12 (12:24) | Pensión bruta y neta | Ídem | ✍️ |
 | Mar 22/12 | Los 3 papeles para pedir la jubilación | Ídem | ✍️ |
 
+**Cómo se publica (desde el 13/11):** Metricool gratis solo publica 20 al mes, así que Instagram y Facebook se programan con Meta Business Suite y YouTube con YouTube Studio, con la extensión de Claude en Chrome (ver `../publicar/README.md`).
+
 **X:** un post al día en Buffer, con la versión ligera de cada reel. La semana electoral se carga el 22/11 con la tarea programada.
 
 ## Voz

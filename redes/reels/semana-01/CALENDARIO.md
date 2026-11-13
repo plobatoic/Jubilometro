@@ -159,3 +159,7 @@ Con esto también se quita la baja repetida en Facebook (17/11 y 24/11).
 ### 13/11 · aviso de la revisión: horquilla de 2027
 
 La web pasa la subida de 2027 a 3,4-3,6 % (IPC hasta octubre). Ningún reel ni texto programado de esta conversación lleva la horquilla: E1 la evita a propósito. Solo se ha actualizado el comentario de `elecciones/e1-subida-2027/reel.mjs`.
+
+### 13/11 · Metricool llega al límite del plan gratuito
+
+El plan gratuito publica 20 publicaciones al mes y las de noviembre ya están gastadas (la publicación de Facebook del 13/11 a las 18:30 falló con «account limit»). Pau decide programar a mano, día a día, con la extensión de Claude en Chrome: Meta Business Suite para Instagram y Facebook, y YouTube Studio para YouTube. Las 33 publicaciones pendientes del 14 al 30/11 están en `redes/publicar/noviembre.md` y el método en `redes/publicar/README.md`.
