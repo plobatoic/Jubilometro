@@ -19,6 +19,15 @@ Pau pidió seguir en una conversación nueva para tener la habilidad `/enrutador
    | trig_01KikUMu55kHYY3KFWuhnNQb | Voz y programación de los reels 8 y 9 | 24/11, 21:30 (Madrid) |
 
    Ojo: la segunda hay que reescribirla con el plan de elecciones del apartado 4, porque los créditos de vidIQ se reparten entre esos reels y los de elecciones.
+
+   **Hecho el 13/11** en la sesión `session_01KzuJZCfdoA6iUXPdR5YjrT` (se sigue en esa conversación). Las viejas están borradas. Las nuevas:
+
+   | id | Nombre | Cuándo |
+   |---|---|---|
+   | trig_01GXzckK2FzjMFx69WV1nnuE | Cargar en Buffer los posts de X del 23 al 30/11 | 22/11, 20:00 (Madrid) |
+   | trig_01BnsdV3gM74p4pJ7WDSt5Sn | Voz y programación de los reels de elecciones (y R8/R9) | 24/11, 21:30 (Madrid) |
+
+   La segunda ya lleva el plan de elecciones: primero E1, E2 y E3; E4 solo si ya está la comparativa de programas; con lo que sobre, R8 y R9.
 4. **Preséntate a Pau en una o dos frases** y pregúntale lo que está pendiente del apartado 5.
 
 ## 2. Reglas que pidió Pau
