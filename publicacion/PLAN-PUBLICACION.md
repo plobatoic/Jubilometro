@@ -549,6 +549,10 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Aviso de las elecciones en la portada (13/11/2026, tema 2.11.32)
+
+Decisión del titular el 13/11: las guías de los programas electorales se esperan a que estén todos, y mientras se avisa en la portada. Bajo el titular y el panel de guías hay un recuadro (`parts/home-mast.html`, clase `jm-aviso`, estilos al final de `jubilometro.css`): «Qué proponen los partidos sobre las pensiones: lo publicaremos cuando estén todos los programas», sin nombrar partidos, con enlace a `/cuanto-cobrare/elecciones-y-pensiones/`. Comprobado en vivo en ordenador y móvil (sin errores ni desplazamiento lateral). **Se quita** cuando se publique la sección «Elecciones 2026» (lo hace la tarea de los programas) o después del 29/11.
+
 ### Fusión de guías que se repiten, tanda 1 (13/11/2026, tema 2.11.30)
 
 Tras la caída de Google del 19/10, el titular aprobó juntar 13 guías flojas o repetidas con otras más completas (`publicacion/seo/propuesta-fusiones-2026-11.md`), poco a poco. Tanda 1, las tres con 0 visitas en 90 días:
