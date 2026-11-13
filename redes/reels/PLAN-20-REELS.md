@@ -6,12 +6,13 @@ Propuesta del 13/11. **Pendiente de que Pau la apruebe**: no hay nada programado
 
 | Herramienta | Créditos | Gasto | Reels |
 |---|---|---|---|
-| ElevenLabs (voz «Eric», `cjVigY5qzO86Huf0OWal`) | 6.300 | ~1 crédito por carácter: unos 380 por guion de unos 30 s | 15 (sobran unos 600 para repetir tomas) |
+| ElevenLabs hasta el 4/12 (voz «Eric», `cjVigY5qzO86Huf0OWal`) | 6.300 | ~1 crédito por carácter: unos 500 por guion de unos 35-40 s | 12 |
+| ElevenLabs desde el 5/12 (renovación del plan gratuito) | 10.000 | unos 650 por guion de unos 45 s, la duración normal | Los que falten, y sobra para enero |
 | vidIQ (misma voz «Eric») | 150 el 24/11 a las 21:17 | 28 por guion de hasta 1.000 caracteres | 5 |
 
-- Los reels de ElevenLabs duran **unos 30 segundos** (unos 380 caracteres de guion).
+- **Los 6.300 créditos se pierden el 5/12** si no se gastan (en el plan gratuito no se acumulan). Por eso, antes del 5/12 se generan también las voces de los primeros reels de diciembre, aunque se publiquen después.
+- Antes del 5/12, guiones de unos 500 caracteres (35-40 s). Desde el 5/12, la duración normal (unos 45 s). No hace falta bajar a 30 s.
 - Si ElevenLabs bloquea las peticiones desde la nube, Pau genera la voz en la web de ElevenLabs con el guion exacto y sube el MP3.
-- Los créditos de ElevenLabs se renuevan cada mes; si se renuevan antes del 22/12, hay más margen.
 
 ## Semana electoral (elecciones del domingo 29/11)
 
@@ -43,7 +44,7 @@ Solo reels de elecciones en Instagram, YouTube y Facebook.
 | Hacia el 4/12 | R9 · Trabajado en otro país (ya escrito) | vidIQ |
 | 1/12 a 22/12, unos 2 de cada 3 días | Temas nuevos, por este orden de prioridad: bono social eléctrico · jubilación parcial · flexible · anticipada involuntaria · convenio especial · lagunas de cotización · complemento a mínimos · pensión bruta y neta · complemento por brecha de género · viudedad y jubilación · incapacidad y jubilación · los 3 papeles para pedir la jubilación · cuánto tarda en llegar | ElevenLabs |
 
-Los reels por partido salen de los 15 de ElevenLabs: por cada partido hay un tema nuevo menos en diciembre (los últimos de la lista pasan a enero). El crédito de vidIQ que quedaba libre (el de E4) se usa para el que falte.
+Reparto de los 6.300 créditos de antes del 5/12 (unos 12 guiones de ~500 caracteres): E2, E1, los reels por partido y, con lo que quede, las voces de los primeros temas de diciembre. Los demás temas de diciembre se hacen con los 10.000 créditos del 5/12. Ya no hace falta pasar temas a enero por los reels de partidos.
 
 ## Pendiente de Pau
 
