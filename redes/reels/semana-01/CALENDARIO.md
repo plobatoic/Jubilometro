@@ -135,3 +135,23 @@ Los posts del 23 al 30/11 se cargan el 22/11 por la noche (aviso programado en e
 | X | 1/12 13:00 | Buffer | 6af38fce3cfe2a84dbfb940e | |
 
 Buffer queue after this post: 9 of 10.
+
+### 13/11 · semana electoral (23-29/11) solo con reels de elecciones
+
+Pau pidió el 13/11 «organízalo todo a la perfección con todos los reels». Para dejar la semana de las elecciones solo con reels de elecciones, he movido a diciembre estos reels (los carruseles y los textos de Facebook se quedan donde estaban):
+
+| Red | Reel | Antes | Ahora | Id nuevo | uuid | Conversación |
+|---|---|---|---|---|---|---|
+| Instagram | R4 tres cifras 2027 | 23/11 20:43 | 4/12 20:43 | 426414170 | -2799234417512134042 | reels |
+| Instagram | Tarjeta Dorada | 25/11 13:00 | 9/12 20:43 | 426414213 | -6629747923233718165 | revisión |
+| Instagram | SOVI | 27/11 13:00 | 13/12 12:24 | 426414266 | 8616536249478496788 | revisión |
+| Instagram | R5 subsidio de 52 | 29/11 12:24 | 11/12 20:43 | 426414320 | 8267952501877788580 | reels |
+| YouTube | R4 tres cifras 2027 | 23/11 20:43 | 4/12 20:43 | 426414383 | -6005567757694055133 | reels |
+| YouTube | Tarjeta Dorada | 25/11 13:00 | 9/12 20:43 | 426414429 | 225245423627747743 | revisión |
+| YouTube | Vender la casa sin IRPF | 27/11 13:00 | 13/12 12:24 | 426414472 | -880022361218593061 | revisión |
+| YouTube | R5 subsidio de 52 | 29/11 12:24 | 11/12 20:43 | 426414527 | 4618568083909659423 | reels |
+| Facebook | Reel baja por enfermedad | 24/11 13:00 | 15/12 20:43 | 426414571 | 4311073937391109458 | revisión |
+| Facebook | Reel nacidos en 1960 | 26/11 20:43 | 3/12 20:43 | 426414615 | -841052759702682552 | reels |
+| Facebook | Reel Tarjeta Dorada | 28/11 13:00 | 9/12 20:43 | 426414650 | -8475312752029446557 | revisión |
+
+Con esto también se quita la baja repetida en Facebook (17/11 y 24/11).
