@@ -143,9 +143,10 @@ export function calendarioPared() {
   const tabla = caja(1.25, 1.55, 0.06, mat("#8a5a3a", 0.5), 0.03); g.add(tabla);
   const fondo = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 1.3), new THREE.MeshStandardMaterial({ map: atras.tex, roughness: 0.9 })); fondo.position.set(0, -0.05, 0.035); g.add(fondo);
   const bisagra = new THREE.Group(); bisagra.position.set(0, 0.6, 0.045); g.add(bisagra);
-  const pag = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 1.3), new THREE.MeshStandardMaterial({ map: frente.tex, roughness: 0.9, side: THREE.DoubleSide })); pag.position.y = -0.65; bisagra.add(pag);
+  const pag = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 1.3), new THREE.MeshStandardMaterial({ map: frente.tex, roughness: 0.9 })); pag.position.y = -0.65; bisagra.add(pag);
+  const dorso = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 1.3), mat("#f1ece4", 0.9)); dorso.rotation.y = Math.PI; dorso.position.y = -0.65; bisagra.add(dorso);
   for (const x of [-0.35, 0.35]) { const a = sombra(new THREE.Mesh(new THREE.TorusGeometry(0.05, 0.012, 8, 16), mat("#9aa3ad", 0.3, { metalness: 0.8 }))); a.position.set(x, 0.66, 0.05); g.add(a); }
-  g.userData.pasar = (k) => { bisagra.rotation.x = -Math.PI * 0.98 * k; pag.visible = k < 0.98; };
+  g.userData.pasar = (k) => { bisagra.rotation.x = -Math.PI * 0.98 * k; pag.visible = dorso.visible = k < 0.98; };
   return g;
 }
 
