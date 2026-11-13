@@ -168,3 +168,20 @@ Si hay que avisar a otra conversación, hazlo con `create_trigger`, `persistent_
   - Instagram y YouTube van en días alternos. Las fechas de Instagram que se movieron están en `publicacion/redes/programado/fechas-instagram.json`.
 - **Página /enlaces/:** se sube cada mañana con `node herramientas/redes/enlaces.mjs`.
 - **Canal de WhatsApp:** no tiene conector. Cada día se le da a Pau el texto exacto del banco, listo para copiar.
+
+## 7. Hecho el 13/11/2026 (conversación nueva: session_01KzuJZDKxPhBf9wdo4toEeM)
+
+- Leídos este archivo, COORDINACION, PENDIENTES, el LEEME de la revisión, la propuesta de fusiones y PLAN-PUBLICACION.
+- Las 7 tareas pasadas a esta conversación, con el mismo nombre, texto y horario. Las viejas quedan **desactivadas, no borradas**.
+
+| Tarea | Id vieja (desactivada) | Id nueva |
+|---|---|---|
+| Revisión diaria completa de Jubilómetro | trig_019bqm3T93FkDWQKyk3Les8v | trig_01SsEmVTrGiTsQCpNHo97Kgs |
+| Programas electorales del 29N: pensiones | trig_01VjComYj9Ma4x2CYpitjTaU | trig_017wYzJ5TKGzLK4Tynm6u6Nt |
+| Tanda 2 de fusiones de guías | trig_01EiXybU83DHRH1vmWKBGDYC | trig_01LzFfBQxdEx5MQmbsvarqJK |
+| Convalidación del Real Decreto-ley 31/2026 | trig_014AjnHyrshKJPKMuSMTaQMf | trig_01GgdvpCdLTfEVhppTb8ttpV |
+| Actualizar las 5 páginas de datos (noviembre) | trig_01PTCMyascfQPPgLLizYEXqi | trig_01Ek58zad2Ctm6dWCdEy7HFY |
+| Termalismo de Castilla-La Mancha | trig_01RkrikhsjE9TteDbS4X1ABB | trig_017oBanQk6YfZP8U7RnkY7Jv |
+| Actualización de enero de 2027 | trig_01WPPhPFDz2aZa8uBxah8RG6 | trig_0141NrevXo7q3hkzj1BP6zwi |
+
+- Id de esta conversación puesto en `publicacion/COORDINACION.md`. Las otras conversaciones deben avisar aquí (session_01KzuJZDKxPhBf9wdo4toEeM), no a la vieja.
