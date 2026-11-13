@@ -549,6 +549,11 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Más efectos 3D, prueba (13/11/2026, tema 2.11.33)
+
+Pedido por el titular: «pon más cosas 3D por toda la web, a ver qué tal quedan, si restan mucha velocidad». Solo CSS, en un bloque al final de `jubilometro.css` («3D, segunda tanda»), fácil de quitar entero: iconos de temas y del panel «Explora las guías» en relieve (y un pequeño giro con ratón); cifras del año con canto; pastillas «Ahora mismo» que se hunden al pulsar; campos de las calculadoras hundidos; resultado, aviso y llamadas a calcular con sombra en capas (y se acercan con ratón); fotos de las guías con profundidad; cifras y tarjetas de temas que se enderezan en perspectiva al bajar (sin fundido, que se quitó en 2.7.1). Nada se mueve con «reducir movimiento».
+Medido antes/después en móvil lento simulado (CPU 4x, 3 pasadas, misma página con una hoja u otra): portada LCP 2.212→1.972 ms, guía 1.352→1.256 ms, calculadora 1.204→1.200 ms; tiempo bloqueado 744→816, 554→513, 157→152 ms; CLS 0; 60 fps al bajar sin cuadros lentos. Diferencias dentro del ruido. La hoja pesa 1,2 KB más comprimida (48,9→50,2 KB).
+
 ### Aviso de las elecciones en la portada (13/11/2026, tema 2.11.32)
 
 Decisión del titular el 13/11: las guías de los programas electorales se esperan a que estén todos, y mientras se avisa en la portada. Bajo el titular y el panel de guías hay un recuadro (`parts/home-mast.html`, clase `jm-aviso`, estilos al final de `jubilometro.css`): «Qué proponen los partidos sobre las pensiones: lo publicaremos cuando estén todos los programas», sin nombrar partidos, con enlace a `/cuanto-cobrare/elecciones-y-pensiones/`. Comprobado en vivo en ordenador y móvil (sin errores ni desplazamiento lateral). **Se quita** cuando se publique la sección «Elecciones 2026» (lo hace la tarea de los programas) o después del 29/11.

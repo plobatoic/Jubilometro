@@ -2612,3 +2612,55 @@ body.is-filtering .jm-topic__more { display: none; }
 .jm-aviso p { margin: 0 0 .5rem; }
 .jm-aviso p:last-child { margin-bottom: 0; }
 .jm-aviso a { color: var(--jm-accent-strong); font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+
+/* ===========================================================================
+   3D, segunda tanda (13/11/2026, prueba pedida por el titular).
+   Solo CSS: sin imágenes ni librerías, y nada se anima con «reducir movimiento».
+   Para quitarlo entero, borrar desde aquí hasta el final del archivo.
+   =========================================================================== */
+
+/* Iconos de los temas y del panel «Explora las guías»: botones en relieve */
+.jm-tema__icon, .jm-browse__ico {
+  background-image: radial-gradient(circle at 32% 26%, rgb(255 255 255 / .95), rgb(255 255 255 / 0) 58%);
+  box-shadow: inset 0 -3px 5px rgb(15 27 45 / .12), inset 0 1px 0 rgb(255 255 255 / .9), 0 1px 0 rgb(15 27 45 / .06), 0 6px 10px -6px rgb(15 27 45 / .35);
+}
+.jm-browse__tab.is-on .jm-browse__ico { background-image: radial-gradient(circle at 32% 24%, rgb(255 255 255 / .35), rgb(255 255 255 / 0) 55%), linear-gradient(155deg, #3B82F6 0%, #1D4ED8 55%, #1E40AF 100%); box-shadow: inset 0 -3px 6px rgb(15 27 45 / .3), inset 0 1px 0 rgb(255 255 255 / .35), 0 3px 0 #172554, 0 12px 18px -10px rgb(29 78 216 / .9); }
+
+/* Las cifras del año salen del papel, con un canto discreto (se siguen leyendo igual de bien) */
+.jm-saldo__v { text-shadow: 1px 1px 0 rgb(29 78 216 / .16), 2px 2px 0 rgb(29 78 216 / .1), 3px 5px 8px rgb(15 27 45 / .16); }
+
+/* Etiquetas «Ahora mismo» de la portada: pastillas con canto, que se hunden al pulsarlas */
+.jm-mast__hint a { box-shadow: inset 0 1px 0 rgb(255 255 255 / .9), 0 2px 0 #C7D7FE, 0 6px 10px -8px rgb(15 27 45 / .35); transition: background-color .2s ease, color .2s ease, transform .12s ease-out, box-shadow .12s ease-out; }
+.jm-mast__hint a:active { transform: translateY(2px); box-shadow: inset 0 1px 0 rgb(255 255 255 / .9), 0 0 0 #C7D7FE, 0 2px 4px -3px rgb(15 27 45 / .35); }
+
+/* Campos de las calculadoras: hundidos en la hoja, como una casilla de verdad */
+html body :is(.jm-input, .jm-select, .jm-textarea) { box-shadow: inset 0 2px 3px rgb(15 27 45 / .1), inset 0 1px 0 rgb(15 27 45 / .05); }
+html body :is(.jm-input, .jm-select, .jm-textarea):focus { box-shadow: inset 0 2px 3px rgb(15 27 45 / .1), 0 0 0 4px rgb(29 78 216 / .2); }
+
+/* Resultado de las calculadoras, aviso de la portada y llamadas a calcular: tarjetas levantadas en capas */
+:is(.jm-result, .jm-aviso, .jm-calc-cta) { box-shadow: 0 1px 1px rgb(15 27 45 / .04), 0 2px 2px rgb(15 27 45 / .04), 0 4px 4px rgb(15 27 45 / .04), 0 8px 8px rgb(15 27 45 / .04), 0 16px 24px -8px rgb(15 27 45 / .12); }
+
+/* Fotos de las guías: con sombra de profundidad */
+.jm-post__hero img, .jm-prose figure img { box-shadow: 0 2px 4px rgb(15 27 45 / .06), 0 22px 36px -24px rgb(15 27 45 / .55); }
+
+@media (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+  /* Con ratón, esas tarjetas se acercan un poco en perspectiva */
+  :is(.jm-aviso, .jm-calc-cta, .jm-tile) { transition: transform .5s var(--jm-ease), box-shadow .35s ease, background-color .2s ease; }
+  :is(.jm-aviso, .jm-calc-cta):hover { transform: perspective(1400px) rotateX(2deg) translate3d(0, -3px, 0); box-shadow: 0 1px 1px rgb(15 27 45 / .04), 0 4px 4px rgb(15 27 45 / .05), 0 12px 12px rgb(15 27 45 / .05), 0 30px 44px -18px rgb(15 27 45 / .3); }
+  .jm-tile:hover { transform: perspective(1200px) translate3d(0, 0, 14px); z-index: 1; box-shadow: 0 24px 40px -26px rgb(15 27 45 / .5); }
+  /* Iconos: dan un pequeño giro al pasar por encima */
+  .jm-browse__tab:hover .jm-browse__ico { transform: perspective(300px) rotateY(-14deg) rotateX(8deg) translateY(-2px); }
+  .jm-tema:hover .jm-tema__icon { transform: perspective(300px) rotateY(16deg) translateY(-1px); }
+  /* Fotos de las guías: se inclinan un poco hacia ti */
+  .jm-post__hero img, .jm-prose figure img { transition: transform .7s var(--jm-ease), box-shadow .4s ease; }
+  .jm-post__hero:hover img, .jm-prose figure:hover img { transform: perspective(1600px) rotateX(3deg) scale(1.01); box-shadow: 0 2px 4px rgb(15 27 45 / .06), 0 34px 50px -28px rgb(15 27 45 / .6); }
+}
+
+/* Al bajar (también en el móvil): las cifras del año y las tarjetas de temas se enderezan en perspectiva al entrar.
+   Se ven siempre (sin fundido: se quitó en el tema 2.7.1 para no hacer esperar). Lo mueve el navegador sin JavaScript. */
+@supports (animation-timeline: view()) {
+  @media (prefers-reduced-motion: no-preference) {
+    .jm-saldo__row, .jm-temas .jm-tema { animation: jm-3d-in linear backwards; animation-timeline: view(); animation-range: entry 0% entry 70%; }
+  }
+}
+@keyframes jm-3d-in { from { transform: perspective(1000px) rotateX(14deg) translate3d(0, 18px, -30px); } }
