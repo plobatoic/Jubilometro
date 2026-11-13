@@ -155,3 +155,7 @@ Pau pidió el 13/11 «organízalo todo a la perfección con todos los reels». P
 | Facebook | Reel Tarjeta Dorada | 28/11 13:00 | 9/12 20:43 | 426414650 | -8475312752029446557 | revisión |
 
 Con esto también se quita la baja repetida en Facebook (17/11 y 24/11).
+
+### 13/11 · aviso de la revisión: horquilla de 2027
+
+La web pasa la subida de 2027 a 3,4-3,6 % (IPC hasta octubre). Ningún reel ni texto programado de esta conversación lleva la horquilla: E1 la evita a propósito. Solo se ha actualizado el comentario de `elecciones/e1-subida-2027/reel.mjs`.

@@ -1,7 +1,7 @@
 // E1 · ¿Las elecciones paran la subida de las pensiones de 2027? No: la marca la ley (art. 58 LGSS).
 // Formato de muñecos 3D (ver README.md, «Muñecos 3D»). Fuente: contenido/cuanto-cobrare/elecciones-y-pensiones/articulo.md
 // (rama claude/keen-mccarthy-i7kn75), apartado «¿Subirán las pensiones en enero aunque haya elecciones?».
-// Sin la horquilla 3,3-3,7 %: puede cambiar con el IPC de octubre y noviembre.
+// Sin horquilla a propósito (el 13/11 la web pasó de 3,3-3,7 % a 3,4-3,6 % con el IPC de octubre): cambia con cada IPC.
 const COMPARTIR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4 20-7z"/></svg>`;
 
 export default {
