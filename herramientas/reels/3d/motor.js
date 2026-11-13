@@ -31,7 +31,12 @@ window.__init3d = (datos) => {
   const relleno = new THREE.DirectionalLight("#cfe0ff", 0.7); relleno.position.set(-6, 4, 6); mundo.add(relleno);
   const contra = new THREE.DirectionalLight("#ffe2b8", 1.1); contra.position.set(2, 6, -8); mundo.add(contra);
   for (const [k, s] of Object.entries(SETS)) { const g = s.crear(); g.position.x = s.x; mundo.add(g); }
-  for (const n of ["rosa", "luis"]) { actores[n] = crearPersonaje(n); actores[n].raiz.visible = false; mundo.add(actores[n].raiz); }
+  const blob = (() => { const c = document.createElement("canvas"); c.width = c.height = 128; const x = c.getContext("2d"); const g = x.createRadialGradient(64, 64, 0, 64, 64, 64); g.addColorStop(0, "rgba(40,25,10,0.5)"); g.addColorStop(1, "rgba(40,25,10,0)"); x.fillStyle = g; x.fillRect(0, 0, 128, 128); const t = new THREE.CanvasTexture(c); return t; })();
+  for (const n of ["rosa", "luis"]) {
+    actores[n] = crearPersonaje(n); actores[n].raiz.visible = false; mundo.add(actores[n].raiz);
+    const sc = new THREE.Mesh(new THREE.PlaneGeometry(1.9, 1.5), new THREE.MeshBasicMaterial({ map: blob, transparent: true, depthWrite: false }));
+    sc.rotation.x = -Math.PI / 2; sc.position.y = 0.02; actores[n].raiz.add(sc);
+  }
 
   // Atrezo de cada escena
   escenas = D.escenas.map((e) => {
@@ -41,10 +46,10 @@ window.__init3d = (datos) => {
     const props = (a.atrezo || []).map((p) => {
       let obj;
       if (p.tipo === "movil") obj = movil();
-      else if (p.tipo === "calendarioPared") obj = calendarioPared();
+      else if (p.tipo === "calendarioPared") obj = calendarioPared(p.de, p.a);
       else if (p.tipo === "bocadillo") obj = bocadillo(p.texto || "?", p.color);
       else if (p.tipo === "monedas") obj = lluviaMonedas(p.n || 40, p.semilla || 3);
-      else if (p.tipo === "carpeta") obj = carpeta(p.texto);
+      else if (p.tipo === "carpeta") obj = carpeta(p.texto, p.marca, p.colorMarca);
       else if (p.tipo === "sello") obj = sello();
       obj.visible = false;
       if (p.pos) obj.position.set(ox + p.pos[0], p.pos[1], p.pos[2]);

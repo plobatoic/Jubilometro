@@ -130,7 +130,7 @@ export function movil() {
   return g;
 }
 
-export function calendarioPared() {
+export function calendarioPared(de = ["NOVIEMBRE", "23", "#c24b43"], a = ["DICIEMBRE", "1", "#1f9d6b"]) {
   const g = new THREE.Group();
   const hoja = (mes, dia, color) => lienzo(512, 600, (ctx, w, h) => {
     ctx.fillStyle = "#ffffff"; ctx.fillRect(0, 0, w, h);
@@ -139,7 +139,7 @@ export function calendarioPared() {
     ctx.fillStyle = "#13213b"; ctx.font = `900 330px ${FUENTE}`; ctx.fillText(dia, w / 2, 370);
     ctx.fillStyle = "#7d8aa0"; ctx.font = `700 40px ${FUENTE}`; ctx.fillText("2026", w / 2, 548);
   });
-  const atras = hoja("DICIEMBRE", "1", "#1f9d6b"), frente = hoja("NOVIEMBRE", "23", "#c24b43");
+  const atras = hoja(...a), frente = hoja(...de);
   const tabla = caja(1.25, 1.55, 0.06, mat("#8a5a3a", 0.5), 0.03); g.add(tabla);
   const fondo = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 1.3), new THREE.MeshStandardMaterial({ map: atras.tex, roughness: 0.9 })); fondo.position.set(0, -0.05, 0.035); g.add(fondo);
   const bisagra = new THREE.Group(); bisagra.position.set(0, 0.6, 0.045); g.add(bisagra);
@@ -183,19 +183,19 @@ export function lluviaMonedas(n = 40, semilla = 3) {
   return g;
 }
 
-export function carpeta(etiqueta = "Expediente") {
+export function carpeta(etiqueta = "Expediente", marcaTexto = "✓ EN CURSO", marcaColor = "#1f9d6b") {
   const g = new THREE.Group();
   const l = lienzo(512, 360, (ctx, w, h) => {
     ctx.fillStyle = "#f2c66d"; ctx.fillRect(0, 0, w, h);
     ctx.fillStyle = "#ffffff"; redondeado(ctx, 60, 60, w - 120, 110, 16); ctx.fill();
-    ctx.fillStyle = "#13213b"; ctx.font = `800 54px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText(etiqueta, w / 2, 117);
+    ctx.fillStyle = "#13213b"; ctx.font = `800 ${etiqueta.length > 14 ? 40 : 54}px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText(etiqueta, w / 2, 117);
   });
   const tapa = sombra(new THREE.Mesh(new THREE.BoxGeometry(1.1, 0.06, 0.78), [mat("#e2b259"), mat("#e2b259"), new THREE.MeshStandardMaterial({ map: l.tex, roughness: 0.8 }), mat("#e2b259"), mat("#e2b259"), mat("#e2b259")]));
   g.add(tapa);
   // Marca del sello (aparece al sellar)
   const marca = lienzo(512, 256, (ctx, w, h) => {
-    ctx.strokeStyle = "#1f9d6b"; ctx.lineWidth = 16; redondeado(ctx, 20, 20, w - 40, h - 40, 30); ctx.stroke();
-    ctx.fillStyle = "#1f9d6b"; ctx.font = `900 84px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText("✓ EN CURSO", w / 2, h / 2 + 6);
+    ctx.strokeStyle = marcaColor; ctx.lineWidth = 16; redondeado(ctx, 20, 20, w - 40, h - 40, 30); ctx.stroke();
+    ctx.fillStyle = marcaColor; ctx.font = `900 ${marcaTexto.length > 11 ? 70 : 84}px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText(marcaTexto, w / 2, h / 2 + 6);
   });
   const sello = new THREE.Mesh(new THREE.PlaneGeometry(0.8, 0.4), new THREE.MeshBasicMaterial({ map: marca.tex, transparent: true }));
   sello.rotation.x = -Math.PI / 2; sello.rotation.z = 0.12; sello.position.set(0, 0.035, 0.12); sello.visible = false; g.add(sello);
