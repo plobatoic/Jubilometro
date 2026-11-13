@@ -549,6 +549,10 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Criterio para las guías de los programas y aviso de portada (13/11/2026, tema 2.11.35)
+
+El titular fija que las guías de los programas electorales se suben solo cuando los principales partidos (PP, PSOE, Vox y Frente Amplio, a confirmar) cuelguen en su web el programa completo y este trate las pensiones y la jubilación. Aviso de portada ajustado: «lo publicaremos cuando estén los programas oficiales». Tarea diaria de los programas cambiada con ese criterio.
+
 ### IPC definitivo de octubre en la subida de 2027 (13/11/2026, tema 2.11.34)
 
 El INE confirmó el 13/11 el IPC de octubre: 4,9 % (https://www.ine.es/dyngs/Prensa/IPC1026.htm). El adelantado del 30/10 no se había metido. Media de once meses: 3,47 %; horquilla de la subida 3,4-3,6 % (antes 3,3-3,7 %), central 3,6 % sin cambios. Cambiados: guía de la subida (tablas, ejemplos, respuesta rápida, FAQ, descripción), guía de elecciones, `CFG.subida` (min 3,4, max 3,6, datos «hasta octubre») y `subida-pensiones.mjs` (lista IPC con octubre; escenarios con los meses que faltan), y la página de la calculadora rehecha. Comprobado en vivo. Publicación en Facebook hoy a las 18:30 (Metricool 426651231). Quedan con la horquilla vieja textos no programados del banco (vídeo de la subida, kit de cifras, calendario del primer mes): se rehacen con la cifra definitiva el 27/11. El INE rechaza las consultas automáticas a servicios.ine.es: el dato se lee de su nota de prensa.
