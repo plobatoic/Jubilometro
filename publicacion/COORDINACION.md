@@ -5,7 +5,7 @@ Lo pidió el titular el 10/11/2026: «estoy gestionando la web con cada una una 
 | Conversación | Rama | Se encarga de |
 |---|---|---|
 | Revisión web y actualización blog (session_01KzuJZDKxPhBf9wdo4toEeM; hasta el 13/11, session_01MKVEEroLSxN4Zbyrnb7Sh7) | `claude/keen-mccarthy-i7kn75` | Revisión diaria de la web y su informe (8:57), guías y cifras, tema, BOE, programas electorales, página /enlaces/. Redes: Facebook a diario a las 11:00, carruseles de Instagram a las 19:00, Shorts y Reels sin voz a las 13:00 (desde el 10/11 Instagram y YouTube van en días alternos, a petición de Pau: antes de programar, mirar qué días están libres) y X en Typefully con el calendario del banco |
-| Mejores reels semanales (session_01KzuJZD4D6R2fz968RLVGjb) | `claude/eager-dijkstra-b175sb` | Reels con voz en Instagram, Facebook, YouTube y X (martes y jueves a las 20:43, domingos a las 12:24) y sus versiones para X |
+| Mejores reels semanales (session_01KzuJZCfdoA6iUXPdR5YjrT; hasta el 13/11, session_01KzuJZD4D6R2fz968RLVGjb, ya archivada) | `claude/eager-dijkstra-b175sb` | Reels con voz en Instagram, Facebook, YouTube y X (martes y jueves a las 20:43, domingos a las 12:24) y sus versiones para X |
 | Estadísticas de la web (session_01KzuJZDJMemstDB6n9A1a5r) | la suya | Estadísticas, Search Console, Bing y analítica |
 
 ## Reglas

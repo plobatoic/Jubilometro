@@ -35,18 +35,18 @@ const resultado = J.render.subida(EJ, true);
 
 const tabla = (caption, cabecera, filas, numCols = []) => `<div class="jm-table-card"><div class="jm-table-wrap"><table class="jm-table"><caption class="jm-sr">${caption}</caption><thead><tr>${cabecera.map((c, k) => `<th scope="col"${numCols.includes(k) ? ' class="n"' : ''}>${c}</th>`).join('')}</tr></thead><tbody>${filas.map((f) => `<tr${f.hl ? ' class="is-hl"' : ''}>${f.map((c, k) => `<td${numCols.includes(k) ? ' class="n"' : ''}>${c}</td>`).join('')}</tr>`).join('')}</tbody></table></div></div>`;
 
-const IPC = [['Diciembre de 2025', 2.9], ['Enero de 2026', 2.3], ['Febrero de 2026', 2.3], ['Marzo de 2026', 3.4], ['Abril de 2026', 3.2], ['Mayo de 2026', 3.2], ['Junio de 2026', 3.2], ['Julio de 2026', 3.6], ['Agosto de 2026', 4.3], ['Septiembre de 2026 (dato adelantado)', 4.9]];
+const IPC = [['Diciembre de 2025', 2.9], ['Enero de 2026', 2.3], ['Febrero de 2026', 2.3], ['Marzo de 2026', 3.4], ['Abril de 2026', 3.2], ['Mayo de 2026', 3.2], ['Junio de 2026', 3.2], ['Julio de 2026', 3.6], ['Agosto de 2026', 4.3], ['Septiembre de 2026', 4.9], ['Octubre de 2026', 4.9]];
 const suma = IPC.reduce((a, x) => a + x[1], 0);
 const media = suma / IPC.length;
-const escenario = (x) => Math.round(((suma + 2 * x) / 12) * 10) / 10;
-const ESC = [3.0, 3.5, 4.0, 4.5, 4.9, 5.5].map((x) => [x === 4.9 ? '4,9 % (como en septiembre)' : pc(x), pc(escenario(x))]);
+const escenario = (x) => Math.round(((suma + (12 - IPC.length) * x) / 12) * 10) / 10; // los meses que faltan, con la inflación x
+const ESC = [3.0, 4.0, 4.5, 4.9, 5.5].map((x) => [x === 4.9 ? '4,9 % (como en octubre)' : pc(x), pc(escenario(x))]);
 if (escenario(4.9) !== S.pct) throw new Error('La estimación de CFG no cuadra con el IPC: ' + escenario(4.9));
 const PENS = [800, 1000, 1200, 1500, 2000, 2500, 3000];
 const r2 = (x) => Math.round(x * 100) / 100;
 const filasEj = PENS.map((p) => { const f = [eur(p), eur(r2(p * (1 + S.min / 100))), eur(r2(p * (1 + S.pct / 100))), eur(r2(p * (1 + S.max / 100)))]; if (p === 1200) f.hl = true; return f; });
 
 const faq = [
-  ['¿Cuánto subirán las pensiones en 2027?', `Lo que marque la inflación media de diciembre de 2025 a noviembre de 2026, redondeada a un decimal. Con los datos del INE hasta septiembre, la subida apunta a entre el ${pc(S.min)} y el ${pc(S.max)}; si octubre y noviembre se quedan como septiembre, sería del ${pc(S.pct)}.`],
+  ['¿Cuánto subirán las pensiones en 2027?', `Lo que marque la inflación media de diciembre de 2025 a noviembre de 2026, redondeada a un decimal. Con los datos del INE hasta octubre, la subida apunta a entre el ${pc(S.min)} y el ${pc(S.max)}; si noviembre se queda como octubre, sería del ${pc(S.pct)}.`],
   ['¿Cuándo se sabrá la subida exacta?', 'A finales de noviembre de 2026, cuando el INE publique el dato adelantado del IPC de noviembre. El Gobierno suele aprobarla a finales de diciembre (este año, con las elecciones del 29 de noviembre, podría ser más tarde, con efectos desde el 1 de enero) y la actualizaremos aquí ese mismo día.'],
   ['¿Cuándo cobraré la pensión con la subida?', 'Con la pensión de enero de 2027, que muchos bancos adelantan a los últimos días de enero. La subida tiene efectos desde el 1 de enero y no hay que pedirla.'],
   ['¿La subida es sobre la pensión bruta o la neta?', 'Sobre la bruta. Lo que llega al banco puede subir algo menos, porque la retención de IRPF se recalcula en enero con la pensión nueva. Puedes verlo con la <a href="/calculadoras/pension-neta-irpf/">calculadora de pensión neta</a>.'],
@@ -78,7 +78,7 @@ const html = `<!-- wp:html -->
       <div class="jm-field"><label for="csub-bruta">Tu pensión bruta al mes en ${S.anio - 1}</label><span class="jm-hint" id="csub-bruta-h">Antes de impuestos, como aparece en la carta de revalorización o en el certificado de pensión. Si cobras complemento a mínimos, pon el total.</span><div class="jm-input-group"><input class="jm-input" id="csub-bruta" name="bruta" type="number" inputmode="decimal" value="1200" min="0" max="10000" step="0.01" required aria-describedby="csub-bruta-h"><span class="jm-unit">€/mes</span></div></div>
       <div class="jm-field"><label for="csub-tipo">Tipo de pensión</label><select class="jm-select" id="csub-tipo" name="tipo"><option value="contributiva" selected>Contributiva: jubilación, viudedad, incapacidad, orfandad o Clases Pasivas</option><option value="minimos">Contributiva con complemento a mínimos</option><option value="pnc">No contributiva (PNC)</option></select></div>
       <fieldset class="jm-fieldset"><legend>Número de pagas</legend><div class="jm-seg"><label><input type="radio" name="pagas" value="14" checked>14 pagas</label><label><input type="radio" name="pagas" value="12">12 pagas</label></div></fieldset>
-      <div class="jm-field"><label for="csub-pct">Subida que quieres aplicar</label><span class="jm-hint" id="csub-pct-h">Estimación con el IPC hasta septiembre: entre el ${pc(S.min)} y el ${pc(S.max)}. Cuando se apruebe la cifra oficial, la pondremos aquí.</span><div class="jm-input-group"><input class="jm-input" id="csub-pct" name="pct" type="number" inputmode="decimal" value="${S.pct}" min="0" max="15" step="0.1" required aria-describedby="csub-pct-h"><span class="jm-unit">%</span></div></div>
+      <div class="jm-field"><label for="csub-pct">Subida que quieres aplicar</label><span class="jm-hint" id="csub-pct-h">Estimación con el IPC hasta octubre: entre el ${pc(S.min)} y el ${pc(S.max)}. Cuando se apruebe la cifra oficial, la pondremos aquí.</span><div class="jm-input-group"><input class="jm-input" id="csub-pct" name="pct" type="number" inputmode="decimal" value="${S.pct}" min="0" max="15" step="0.1" required aria-describedby="csub-pct-h"><span class="jm-unit">%</span></div></div>
     </div>
         <div class="jm-tool__actions"><button class="jm-btn" type="submit">${icon('calculator')}Calcular</button><span class="jm-hint">Tus datos no salen de tu navegador.</span></div>
       </form>
@@ -89,17 +89,17 @@ const html = `<!-- wp:html -->
 <section class="jm-section--tight jm-section">
   <div class="jm-wrap jm-split">
     <div class="jm-stack" style="gap:1.5rem">
-      <section class="jm-answer" aria-labelledby="respuesta-rapida"><h2 class="jm-answer__title" id="respuesta-rapida">${icon('check')}Respuesta rápida</h2><p>En enero de ${S.anio} las pensiones contributivas subirán la <strong>inflación media de diciembre de 2025 a noviembre de 2026</strong>. Con los datos del INE hasta septiembre, la subida apunta a <strong>entre el ${pc(S.min)} y el ${pc(S.max)}</strong>; si la inflación de octubre y noviembre se queda como la de septiembre, sería del <strong>${pc(S.pct)}</strong>. Así, una pensión de 1.200 euros pasaría a unos ${eur(r2(1200 * (1 + S.pct / 100)))} al mes. La cifra exacta se sabrá a finales de noviembre.</p></section>
+      <section class="jm-answer" aria-labelledby="respuesta-rapida"><h2 class="jm-answer__title" id="respuesta-rapida">${icon('check')}Respuesta rápida</h2><p>En enero de ${S.anio} las pensiones contributivas subirán la <strong>inflación media de diciembre de 2025 a noviembre de 2026</strong>. Con los datos del INE hasta octubre, la subida apunta a <strong>entre el ${pc(S.min)} y el ${pc(S.max)}</strong>; si la inflación de noviembre se queda como la de octubre, sería del <strong>${pc(S.pct)}</strong>. Así, una pensión de 1.200 euros pasaría a unos ${eur(r2(1200 * (1 + S.pct / 100)))} al mes. La cifra exacta se sabrá a finales de noviembre.</p></section>
       <div class="jm-prose">
         <h2>Cómo calculamos tu subida</h2>
         <p>Multiplicamos tu pensión bruta por el porcentaje de subida y redondeamos al céntimo, como hace la Seguridad Social. La subida al año es la mensual por tus pagas: con 14 pagas, las de junio y noviembre también suben.</p>
         <p>El porcentaje sale de la regla del <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener" target="_blank">artículo 58 de la Ley General de la Seguridad Social</a>: cada 1 de enero, las pensiones contributivas suben el <strong>valor medio de la inflación interanual</strong> de los doce meses que van de diciembre a noviembre, redondeado a un decimal. En 2026 la media fue del 2,67 % y las pensiones subieron un 2,7 %.</p>
         <h2>Cuánto subirán las pensiones en ${S.anio}</h2>
-        <p>Estos son los datos del IPC que cuentan para la subida de ${S.anio}. Faltan octubre y noviembre:</p>
+        <p>Estos son los datos del IPC que cuentan para la subida de ${S.anio}. Falta noviembre:</p>
       </div>
-      ${tabla(`Inflación interanual (IPC general) que cuenta para la subida de ${S.anio}`, ['Mes', 'IPC interanual'], [...IPC.map((x) => [x[0], pc(x[1])]), ['Octubre y noviembre de 2026', 'Pendientes'], Object.assign([`<strong>Media de los ${IPC.length} meses conocidos</strong>`, `<strong>${J.num(media, 2)} %</strong>`], { hl: true })], [1])}
-      <div class="jm-prose"><p>Según cómo se comporte la inflación de los dos meses que faltan, la subida quedaría así:</p></div>
-      ${tabla(`Subida de las pensiones en ${S.anio} según la inflación de octubre y noviembre de 2026`, ['Si la inflación media de octubre y noviembre es del…', `La subida de ${S.anio} sería del…`], ESC.map((f) => Object.assign(f, { hl: f[0].startsWith('4,9') })), [1])}
+      ${tabla(`Inflación interanual (IPC general) que cuenta para la subida de ${S.anio}`, ['Mes', 'IPC interanual'], [...IPC.map((x) => [x[0], pc(x[1])]), ['Noviembre de 2026', 'Pendiente'], Object.assign([`<strong>Media de los ${IPC.length} meses conocidos</strong>`, `<strong>${J.num(media, 2)} %</strong>`], { hl: true })], [1])}
+      <div class="jm-prose"><p>Según la inflación de noviembre, el mes que falta, la subida quedaría así:</p></div>
+      ${tabla(`Subida de las pensiones en ${S.anio} según la inflación de noviembre de 2026`, ['Si la inflación de noviembre es del…', `La subida de ${S.anio} sería del…`], ESC.map((f) => Object.assign(f, { hl: f[0].startsWith('4,9') })), [1])}
       <div class="jm-prose">
         <h2>Ejemplos: tu pensión de ${S.anio - 1} y la de ${S.anio}</h2>
         <p>Pensión bruta al mes, en 14 pagas, con la horquilla de subida que dan los datos de hoy:</p>

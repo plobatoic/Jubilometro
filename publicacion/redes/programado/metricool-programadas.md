@@ -106,3 +106,9 @@ Cambios de la revisión el 11/11:
 | 2026-11-21 | 11:00 | Facebook | ley-dependencia-fb | 424115264 | Texto: «tres meses para resolver» (Real Decreto-ley 36/2026) |
 | 2026-11-18 | 11:00 | Facebook | mes1-63 (incapacidad total cualificada) | 424115415 | Del 21/11 al 18/11: el 21 ya había otra a las 11:00 |
 | 2026-11-24 | 11:00 | Facebook | plan-pensiones-fb | 424115462 | Del 23/11 al 24/11: el 23 ya había otra a las 11:00 |
+
+## Añadidas el 13/11/2026
+
+| Fecha | Hora | Red | Publicación | Id |
+|---|---|---|---|---|
+| 2026-11-13 | 18:30 | facebook | IPC definitivo de octubre y subida de 2027 (3,4-3,6 %) | 426651231 |

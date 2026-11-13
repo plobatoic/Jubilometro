@@ -549,6 +549,10 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### IPC definitivo de octubre en la subida de 2027 (13/11/2026, tema 2.11.34)
+
+El INE confirmó el 13/11 el IPC de octubre: 4,9 % (https://www.ine.es/dyngs/Prensa/IPC1026.htm). El adelantado del 30/10 no se había metido. Media de once meses: 3,47 %; horquilla de la subida 3,4-3,6 % (antes 3,3-3,7 %), central 3,6 % sin cambios. Cambiados: guía de la subida (tablas, ejemplos, respuesta rápida, FAQ, descripción), guía de elecciones, `CFG.subida` (min 3,4, max 3,6, datos «hasta octubre») y `subida-pensiones.mjs` (lista IPC con octubre; escenarios con los meses que faltan), y la página de la calculadora rehecha. Comprobado en vivo. Publicación en Facebook hoy a las 18:30 (Metricool 426651231). Quedan con la horquilla vieja textos no programados del banco (vídeo de la subida, kit de cifras, calendario del primer mes): se rehacen con la cifra definitiva el 27/11. El INE rechaza las consultas automáticas a servicios.ine.es: el dato se lee de su nota de prensa.
+
 ### Más efectos 3D, prueba (13/11/2026, tema 2.11.33)
 
 Pedido por el titular: «pon más cosas 3D por toda la web, a ver qué tal quedan, si restan mucha velocidad». Solo CSS, en un bloque al final de `jubilometro.css` («3D, segunda tanda»), fácil de quitar entero: iconos de temas y del panel «Explora las guías» en relieve (y un pequeño giro con ratón); cifras del año con canto; pastillas «Ahora mismo» que se hunden al pulsar; campos de las calculadoras hundidos; resultado, aviso y llamadas a calcular con sombra en capas (y se acercan con ratón); fotos de las guías con profundidad; cifras y tarjetas de temas que se enderezan en perspectiva al bajar (sin fundido, que se quitó en 2.7.1). Nada se mueve con «reducir movimiento».

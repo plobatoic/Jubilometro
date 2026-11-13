@@ -8,7 +8,7 @@ miga: Elecciones y pensiones
 palabra_clave_principal: elecciones pensiones subida 2027
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-10-24
+fecha_actualizacion: 2026-11-13
 publicacion: 2026-10-10
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027
 
-*Actualizado el 24 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 13 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -54,7 +54,7 @@ El [Real Decreto 806/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2
 
 Sí. La subida no depende de quién gobierne: la fija el [artículo 58 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58), en la redacción de la Ley 21/2021. Las pensiones contributivas suben al comienzo de cada año lo que haya subido de media el IPC en los doce meses anteriores a diciembre. Para 2027, de diciembre de 2025 a noviembre de 2026.
 
-Con los datos del INE hasta septiembre, esa media apunta a una subida **de entre el 3,3 % y el 3,7 %**. Con una pensión de 1.000 euros, entre 33 y 37 euros más al mes. Lo explicamos con detalle en [la subida de las pensiones en 2027](/cuanto-cobrare/revalorizacion-pensiones/), y puedes calcular la tuya en la [calculadora de la subida](/calculadoras/subida-pensiones/).
+Con los datos del INE hasta octubre, esa media apunta a una subida **de entre el 3,4 % y el 3,6 %**. Con una pensión de 1.000 euros, entre 34 y 36 euros más al mes. Lo explicamos con detalle en [la subida de las pensiones en 2027](/cuanto-cobrare/revalorizacion-pensiones/), y puedes calcular la tuya en la [calculadora de la subida](/calculadoras/subida-pensiones/).
 
 La ley marca la fórmula, pero cada año hace falta una norma que la aplique y fije las cuantías nuevas: la pensión mínima, la no contributiva o la máxima. En los últimos años ha sido un **real decreto-ley** aprobado a finales de diciembre y, después, un real decreto con las cifras. Aquí es donde las elecciones sí pueden notarse.
 
@@ -160,4 +160,4 @@ Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tar
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). No recoge opiniones políticas: solo lo que dicen las normas y los organismos oficiales. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
+*Historial de cambios: 13 de noviembre de 2026, estimación de la subida con el IPC definitivo de octubre (3,4 % a 3,6 %; antes 3,3 % a 3,7 %). 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
