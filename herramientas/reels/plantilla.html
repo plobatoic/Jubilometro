@@ -360,6 +360,12 @@
       div.innerHTML = e.html;
       esc.appendChild(div);
       construir3d(div, 11 + datos.escenas.indexOf(e) * 97);
+      // Una tarjeta sin animación propia entra con su primer elemento animado, para que nunca se vea vacía.
+      div.querySelectorAll(".tarjeta:not([data-a]), .tarjeta:not([data-t])").forEach((c) => {
+        if (c.dataset.a) return;
+        const ts = [...c.querySelectorAll("[data-t]")].map((x) => Number(x.dataset.t)).filter((x) => !isNaN(x));
+        if (ts.length && Math.min(...ts) > e.ini + 0.05) { c.dataset.t = String(Math.min(...ts) - 0.05); c.dataset.a = "voltea"; c.dataset.dur = "0.35"; }
+      });
       const elems = [...div.querySelectorAll("[data-t], [data-a]")].map((el) => ({
         el, t: el.dataset.t !== undefined ? Number(el.dataset.t) : e.ini, a: el.dataset.a || "sube", dur: Number(el.dataset.dur || 0.45),
       }));

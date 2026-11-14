@@ -1,0 +1,607 @@
+{
+ "duracion": 42.46,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 9.495
+  },
+  {
+   "ini": 9.495,
+   "fin": 17.045
+  },
+  {
+   "ini": 17.045,
+   "fin": 19.074
+  },
+  {
+   "ini": 19.074,
+   "fin": 33.941
+  },
+  {
+   "ini": 33.941,
+   "fin": 39.077
+  },
+  {
+   "ini": 39.077,
+   "fin": 43.46
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Jubilado",
+   "ini": 0.1,
+   "fin": 0.54,
+   "tramo": 0
+  },
+  {
+   "texto": "y",
+   "ini": 0.54,
+   "fin": 0.637,
+   "tramo": 0
+  },
+  {
+   "texto": "quieres",
+   "ini": 0.637,
+   "fin": 1.028,
+   "tramo": 0
+  },
+  {
+   "texto": "volver",
+   "ini": 1.028,
+   "fin": 1.37,
+   "tramo": 0
+  },
+  {
+   "texto": "a",
+   "ini": 1.37,
+   "fin": 1.468,
+   "tramo": 0
+  },
+  {
+   "texto": "trabajar?",
+   "ini": 1.468,
+   "fin": 1.908,
+   "tramo": 0
+  },
+  {
+   "texto": "Espera",
+   "ini": 2.508,
+   "fin": 2.897,
+   "tramo": 1
+  },
+  {
+   "texto": "seis",
+   "ini": 2.897,
+   "fin": 3.174,
+   "tramo": 1
+  },
+  {
+   "texto": "meses",
+   "ini": 3.174,
+   "fin": 3.508,
+   "tramo": 1
+  },
+  {
+   "texto": "y",
+   "ini": 3.508,
+   "fin": 3.619,
+   "tramo": 1
+  },
+  {
+   "texto": "puedes",
+   "ini": 3.619,
+   "fin": 4.008,
+   "tramo": 1
+  },
+  {
+   "texto": "cobrar",
+   "ini": 4.008,
+   "fin": 4.396,
+   "tramo": 1
+  },
+  {
+   "texto": "hasta",
+   "ini": 4.396,
+   "fin": 4.73,
+   "tramo": 1
+  },
+  {
+   "texto": "un",
+   "ini": 4.73,
+   "fin": 4.896,
+   "tramo": 1
+  },
+  {
+   "texto": "25%",
+   "ini": 4.896,
+   "fin": 6.063,
+   "tramo": 1
+  },
+  {
+   "texto": "más",
+   "ini": 6.063,
+   "fin": 6.285,
+   "tramo": 1
+  },
+  {
+   "texto": "de",
+   "ini": 6.285,
+   "fin": 6.452,
+   "tramo": 1
+  },
+  {
+   "texto": "pensión.",
+   "ini": 6.452,
+   "fin": 6.896,
+   "tramo": 1
+  },
+  {
+   "texto": "Se",
+   "ini": 7.496,
+   "fin": 7.669,
+   "tramo": 2
+  },
+  {
+   "texto": "llama",
+   "ini": 7.669,
+   "fin": 8.014,
+   "tramo": 2
+  },
+  {
+   "texto": "jubilación",
+   "ini": 8.014,
+   "fin": 8.647,
+   "tramo": 2
+  },
+  {
+   "texto": "flexible.",
+   "ini": 8.647,
+   "fin": 9.165,
+   "tramo": 2
+  },
+  {
+   "texto": "Desde",
+   "ini": 9.615,
+   "fin": 9.981,
+   "tramo": 3
+  },
+  {
+   "texto": "agosto",
+   "ini": 9.981,
+   "fin": 10.409,
+   "tramo": 3
+  },
+  {
+   "texto": "de",
+   "ini": 10.409,
+   "fin": 10.592,
+   "tramo": 3
+  },
+  {
+   "texto": "2026",
+   "ini": 10.592,
+   "fin": 11.631,
+   "tramo": 3
+  },
+  {
+   "texto": "puedes",
+   "ini": 11.631,
+   "fin": 12.059,
+   "tramo": 3
+  },
+  {
+   "texto": "trabajar",
+   "ini": 12.059,
+   "fin": 12.608,
+   "tramo": 3
+  },
+  {
+   "texto": "entre",
+   "ini": 12.608,
+   "fin": 12.975,
+   "tramo": 3
+  },
+  {
+   "texto": "el",
+   "ini": 12.975,
+   "fin": 13.158,
+   "tramo": 3
+  },
+  {
+   "texto": "33%",
+   "ini": 13.158,
+   "fin": 14.502,
+   "tramo": 3
+  },
+  {
+   "texto": "y",
+   "ini": 14.502,
+   "fin": 14.625,
+   "tramo": 3
+  },
+  {
+   "texto": "el",
+   "ini": 14.625,
+   "fin": 14.808,
+   "tramo": 3
+  },
+  {
+   "texto": "80%",
+   "ini": 14.808,
+   "fin": 15.847,
+   "tramo": 3
+  },
+  {
+   "texto": "de",
+   "ini": 15.847,
+   "fin": 16.03,
+   "tramo": 3
+  },
+  {
+   "texto": "la",
+   "ini": 16.03,
+   "fin": 16.213,
+   "tramo": 3
+  },
+  {
+   "texto": "jornada.",
+   "ini": 16.213,
+   "fin": 16.702,
+   "tramo": 3
+  },
+  {
+   "texto": "La",
+   "ini": 17.165,
+   "fin": 17.307,
+   "tramo": 4
+  },
+  {
+   "texto": "pensión",
+   "ini": 17.307,
+   "fin": 17.689,
+   "tramo": 4
+  },
+  {
+   "texto": "baja",
+   "ini": 17.689,
+   "fin": 17.927,
+   "tramo": 4
+  },
+  {
+   "texto": "en",
+   "ini": 17.927,
+   "fin": 18.07,
+   "tramo": 4
+  },
+  {
+   "texto": "proporción.",
+   "ini": 18.07,
+   "fin": 18.594,
+   "tramo": 4
+  },
+  {
+   "texto": "Pongamos",
+   "ini": 19.194,
+   "fin": 19.708,
+   "tramo": 5
+  },
+  {
+   "texto": "que",
+   "ini": 19.708,
+   "fin": 19.936,
+   "tramo": 5
+  },
+  {
+   "texto": "Rosa",
+   "ini": 19.936,
+   "fin": 20.222,
+   "tramo": 5
+  },
+  {
+   "texto": "se",
+   "ini": 20.222,
+   "fin": 20.394,
+   "tramo": 5
+  },
+  {
+   "texto": "jubiló",
+   "ini": 20.394,
+   "fin": 20.794,
+   "tramo": 5
+  },
+  {
+   "texto": "con",
+   "ini": 20.794,
+   "fin": 21.022,
+   "tramo": 5
+  },
+  {
+   "texto": "1.500",
+   "ini": 21.022,
+   "fin": 21.822,
+   "tramo": 5
+  },
+  {
+   "texto": "euros",
+   "ini": 21.822,
+   "fin": 22.165,
+   "tramo": 5
+  },
+  {
+   "texto": "y",
+   "ini": 22.165,
+   "fin": 22.279,
+   "tramo": 5
+  },
+  {
+   "texto": "vuelve",
+   "ini": 22.279,
+   "fin": 22.679,
+   "tramo": 5
+  },
+  {
+   "texto": "a",
+   "ini": 22.679,
+   "fin": 22.794,
+   "tramo": 5
+  },
+  {
+   "texto": "trabajar",
+   "ini": 22.794,
+   "fin": 23.308,
+   "tramo": 5
+  },
+  {
+   "texto": "a",
+   "ini": 23.308,
+   "fin": 23.422,
+   "tramo": 5
+  },
+  {
+   "texto": "los",
+   "ini": 23.422,
+   "fin": 23.651,
+   "tramo": 5
+  },
+  {
+   "texto": "ocho",
+   "ini": 23.651,
+   "fin": 23.936,
+   "tramo": 5
+  },
+  {
+   "texto": "meses,",
+   "ini": 23.936,
+   "fin": 24.279,
+   "tramo": 5
+  },
+  {
+   "texto": "al",
+   "ini": 24.675,
+   "fin": 24.849,
+   "tramo": 6
+  },
+  {
+   "texto": "60%",
+   "ini": 24.849,
+   "fin": 25.837,
+   "tramo": 6
+  },
+  {
+   "texto": "de",
+   "ini": 25.837,
+   "fin": 26.011,
+   "tramo": 6
+  },
+  {
+   "texto": "jornada.",
+   "ini": 26.011,
+   "fin": 26.476,
+   "tramo": 6
+  },
+  {
+   "texto": "Cobra",
+   "ini": 27.076,
+   "fin": 27.422,
+   "tramo": 7
+  },
+  {
+   "texto": "600",
+   "ini": 27.422,
+   "fin": 28.114,
+   "tramo": 7
+  },
+  {
+   "texto": "euros",
+   "ini": 28.114,
+   "fin": 28.459,
+   "tramo": 7
+  },
+  {
+   "texto": "de",
+   "ini": 28.459,
+   "fin": 28.632,
+   "tramo": 7
+  },
+  {
+   "texto": "pensión,",
+   "ini": 28.632,
+   "fin": 29.093,
+   "tramo": 7
+  },
+  {
+   "texto": "más",
+   "ini": 29.693,
+   "fin": 29.909,
+   "tramo": 8
+  },
+  {
+   "texto": "el",
+   "ini": 29.909,
+   "fin": 30.071,
+   "tramo": 8
+  },
+  {
+   "texto": "incremento",
+   "ini": 30.071,
+   "fin": 30.664,
+   "tramo": 8
+  },
+  {
+   "texto": "del",
+   "ini": 30.664,
+   "fin": 30.88,
+   "tramo": 8
+  },
+  {
+   "texto": "25%,",
+   "ini": 30.88,
+   "fin": 32.014,
+   "tramo": 8
+  },
+  {
+   "texto": "además",
+   "ini": 32.473,
+   "fin": 32.819,
+   "tramo": 9
+  },
+  {
+   "texto": "de",
+   "ini": 32.819,
+   "fin": 32.967,
+   "tramo": 9
+  },
+  {
+   "texto": "su",
+   "ini": 32.967,
+   "fin": 33.115,
+   "tramo": 9
+  },
+  {
+   "texto": "sueldo.",
+   "ini": 33.115,
+   "fin": 33.461,
+   "tramo": 9
+  },
+  {
+   "texto": "Si",
+   "ini": 34.061,
+   "fin": 34.205,
+   "tramo": 10
+  },
+  {
+   "texto": "hubiera",
+   "ini": 34.205,
+   "fin": 34.589,
+   "tramo": 10
+  },
+  {
+   "texto": "vuelto",
+   "ini": 34.589,
+   "fin": 34.925,
+   "tramo": 10
+  },
+  {
+   "texto": "a",
+   "ini": 34.925,
+   "fin": 35.02,
+   "tramo": 10
+  },
+  {
+   "texto": "los",
+   "ini": 35.02,
+   "fin": 35.212,
+   "tramo": 10
+  },
+  {
+   "texto": "tres",
+   "ini": 35.212,
+   "fin": 35.452,
+   "tramo": 10
+  },
+  {
+   "texto": "meses,",
+   "ini": 35.452,
+   "fin": 35.74,
+   "tramo": 10
+  },
+  {
+   "texto": "se",
+   "ini": 36.028,
+   "fin": 36.171,
+   "tramo": 11
+  },
+  {
+   "texto": "quedaría",
+   "ini": 36.171,
+   "fin": 36.602,
+   "tramo": 11
+  },
+  {
+   "texto": "en",
+   "ini": 36.602,
+   "fin": 36.745,
+   "tramo": 11
+  },
+  {
+   "texto": "los",
+   "ini": 36.745,
+   "fin": 36.936,
+   "tramo": 11
+  },
+  {
+   "texto": "seiscientos,",
+   "ini": 36.936,
+   "fin": 37.51,
+   "tramo": 11
+  },
+  {
+   "texto": "sin",
+   "ini": 37.835,
+   "fin": 38.062,
+   "tramo": 12
+  },
+  {
+   "texto": "incremento.",
+   "ini": 38.062,
+   "fin": 38.687,
+   "tramo": 12
+  },
+  {
+   "texto": "Guárdatelo,",
+   "ini": 39.197,
+   "fin": 39.815,
+   "tramo": 13
+  },
+  {
+   "texto": "o",
+   "ini": 40.138,
+   "fin": 40.251,
+   "tramo": 14
+  },
+  {
+   "texto": "pásaselo",
+   "ini": 40.251,
+   "fin": 40.763,
+   "tramo": 14
+  },
+  {
+   "texto": "a",
+   "ini": 40.763,
+   "fin": 40.877,
+   "tramo": 14
+  },
+  {
+   "texto": "un",
+   "ini": 40.877,
+   "fin": 41.048,
+   "tramo": 14
+  },
+  {
+   "texto": "jubilado.",
+   "ini": 41.048,
+   "fin": 41.56,
+   "tramo": 14
+  }
+ ]
+}
