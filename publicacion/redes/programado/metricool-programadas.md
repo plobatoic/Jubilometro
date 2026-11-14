@@ -112,3 +112,8 @@ Cambios de la revisión el 11/11:
 | Fecha | Hora | Red | Publicación | Id |
 |---|---|---|---|---|
 | 2026-11-13 | 18:30 | facebook | IPC definitivo de octubre y subida de 2027 (3,4-3,6 %) | 426651231 |
+
+## 14/11/2026: límite de Metricool
+
+- 426651231 (IPC del 13/11, Facebook 18:30): **falló** («You have reached your Metricool account limit»). El plan gratis publica 20 al mes y noviembre está gastado.
+- Lo que quedaba de noviembre está en borrador en Metricool y se publica a mano desde los archivos `redes/publicar/` de la rama de los reels (ver COORDINACION.md).
