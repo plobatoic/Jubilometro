@@ -84,7 +84,7 @@ Guárdatelo, o pásaselo a quien tuvo años sin trabajar.`,
       },
       html: `
         <div class="kicker">Un ejemplo</div>
-        <div class="par" data-en="72 meses sin cotizar" data-a="sube"><span>Luis, meses sin cotizar</span><b>72</b></div>
+        <div class="tarjeta" data-en="72 meses sin cotizar" data-a="voltea"><div class="par"><span>Luis, meses sin cotizar</span><b>72</b></div></div>
         <div class="cifra m verde" data-en="le da 244" data-a="pop">+244 €</div>
         <div class="titular s" data-en="de base reguladora" data-a="sube">de base reguladora</div>`,
     },

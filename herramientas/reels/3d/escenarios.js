@@ -135,8 +135,8 @@ export function calendarioPared(de = ["NOVIEMBRE", "23", "#c24b43"], a = ["DICIE
   const hoja = (mes, dia, color) => lienzo(512, 600, (ctx, w, h) => {
     ctx.fillStyle = "#ffffff"; ctx.fillRect(0, 0, w, h);
     ctx.fillStyle = color; ctx.fillRect(0, 0, w, 150);
-    ctx.fillStyle = "#fff"; ctx.font = `800 70px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText(mes, w / 2, 82);
-    ctx.fillStyle = "#13213b"; ctx.font = `900 330px ${FUENTE}`; ctx.fillText(dia, w / 2, 370);
+    ctx.fillStyle = "#fff"; let fm = 70; ctx.font = `800 ${fm}px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; while (ctx.measureText(mes).width > w - 40 && fm > 30) { fm -= 4; ctx.font = `800 ${fm}px ${FUENTE}`; } ctx.fillText(mes, w / 2, 82);
+    ctx.fillStyle = "#13213b"; let fs = 330; ctx.font = `900 ${fs}px ${FUENTE}`; while (ctx.measureText(dia).width > w - 50 && fs > 80) { fs -= 10; ctx.font = `900 ${fs}px ${FUENTE}`; } ctx.fillText(dia, w / 2, 370);
     ctx.fillStyle = "#7d8aa0"; ctx.font = `700 40px ${FUENTE}`; ctx.fillText("2026", w / 2, 548);
   });
   const atras = hoja(...a), frente = hoja(...de);
