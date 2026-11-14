@@ -1,0 +1,607 @@
+{
+ "duracion": 40.319,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 10.406
+  },
+  {
+   "ini": 10.406,
+   "fin": 16.212
+  },
+  {
+   "ini": 16.212,
+   "fin": 26.296
+  },
+  {
+   "ini": 26.296,
+   "fin": 31.032
+  },
+  {
+   "ini": 31.032,
+   "fin": 36.479
+  },
+  {
+   "ini": 36.479,
+   "fin": 41.319
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Dejas",
+   "ini": 0.1,
+   "fin": 0.425,
+   "tramo": 0
+  },
+  {
+   "texto": "de",
+   "ini": 0.425,
+   "fin": 0.588,
+   "tramo": 0
+  },
+  {
+   "texto": "trabajar",
+   "ini": 0.588,
+   "fin": 1.075,
+   "tramo": 0
+  },
+  {
+   "texto": "y",
+   "ini": 1.075,
+   "fin": 1.184,
+   "tramo": 0
+  },
+  {
+   "texto": "te",
+   "ini": 1.184,
+   "fin": 1.346,
+   "tramo": 0
+  },
+  {
+   "texto": "faltan",
+   "ini": 1.346,
+   "fin": 1.726,
+   "tramo": 0
+  },
+  {
+   "texto": "años",
+   "ini": 1.726,
+   "fin": 1.997,
+   "tramo": 0
+  },
+  {
+   "texto": "para",
+   "ini": 1.997,
+   "fin": 2.268,
+   "tramo": 0
+  },
+  {
+   "texto": "jubilarte?",
+   "ini": 2.268,
+   "fin": 2.809,
+   "tramo": 0
+  },
+  {
+   "texto": "Por",
+   "ini": 3.409,
+   "fin": 3.665,
+   "tramo": 1
+  },
+  {
+   "texto": "unos",
+   "ini": 3.665,
+   "fin": 3.984,
+   "tramo": 1
+  },
+  {
+   "texto": "392",
+   "ini": 3.984,
+   "fin": 5.453,
+   "tramo": 1
+  },
+  {
+   "texto": "euros",
+   "ini": 5.453,
+   "fin": 5.837,
+   "tramo": 1
+  },
+  {
+   "texto": "al",
+   "ini": 5.837,
+   "fin": 6.028,
+   "tramo": 1
+  },
+  {
+   "texto": "mes",
+   "ini": 6.028,
+   "fin": 6.284,
+   "tramo": 1
+  },
+  {
+   "texto": "puedes",
+   "ini": 6.284,
+   "fin": 6.731,
+   "tramo": 1
+  },
+  {
+   "texto": "seguir",
+   "ini": 6.731,
+   "fin": 7.178,
+   "tramo": 1
+  },
+  {
+   "texto": "cotizando.",
+   "ini": 7.178,
+   "fin": 7.816,
+   "tramo": 1
+  },
+  {
+   "texto": "Se",
+   "ini": 8.417,
+   "fin": 8.584,
+   "tramo": 2
+  },
+  {
+   "texto": "llama",
+   "ini": 8.584,
+   "fin": 8.92,
+   "tramo": 2
+  },
+  {
+   "texto": "convenio",
+   "ini": 8.92,
+   "fin": 9.423,
+   "tramo": 2
+  },
+  {
+   "texto": "especial.",
+   "ini": 9.423,
+   "fin": 9.926,
+   "tramo": 2
+  },
+  {
+   "texto": "Lo",
+   "ini": 10.526,
+   "fin": 10.703,
+   "tramo": 3
+  },
+  {
+   "texto": "pagas",
+   "ini": 10.703,
+   "fin": 11.056,
+   "tramo": 3
+  },
+  {
+   "texto": "tú,",
+   "ini": 11.056,
+   "fin": 11.232,
+   "tramo": 3
+  },
+  {
+   "texto": "y",
+   "ini": 11.598,
+   "fin": 11.712,
+   "tramo": 4
+  },
+  {
+   "texto": "esos",
+   "ini": 11.712,
+   "fin": 11.998,
+   "tramo": 4
+  },
+  {
+   "texto": "meses",
+   "ini": 11.998,
+   "fin": 12.34,
+   "tramo": 4
+  },
+  {
+   "texto": "cuentan",
+   "ini": 12.34,
+   "fin": 12.797,
+   "tramo": 4
+  },
+  {
+   "texto": "como",
+   "ini": 12.797,
+   "fin": 13.082,
+   "tramo": 4
+  },
+  {
+   "texto": "cotizados.",
+   "ini": 13.082,
+   "fin": 13.653,
+   "tramo": 4
+  },
+  {
+   "texto": "Pídelo",
+   "ini": 14.253,
+   "fin": 14.565,
+   "tramo": 5
+  },
+  {
+   "texto": "en",
+   "ini": 14.565,
+   "fin": 14.699,
+   "tramo": 5
+  },
+  {
+   "texto": "el",
+   "ini": 14.699,
+   "fin": 14.832,
+   "tramo": 5
+  },
+  {
+   "texto": "año",
+   "ini": 14.832,
+   "fin": 15.011,
+   "tramo": 5
+  },
+  {
+   "texto": "siguiente",
+   "ini": 15.011,
+   "fin": 15.456,
+   "tramo": 5
+  },
+  {
+   "texto": "a",
+   "ini": 15.456,
+   "fin": 15.545,
+   "tramo": 5
+  },
+  {
+   "texto": "la",
+   "ini": 15.545,
+   "fin": 15.679,
+   "tramo": 5
+  },
+  {
+   "texto": "baja.",
+   "ini": 15.679,
+   "fin": 15.902,
+   "tramo": 5
+  },
+  {
+   "texto": "Pongamos",
+   "ini": 16.332,
+   "fin": 16.82,
+   "tramo": 6
+  },
+  {
+   "texto": "que",
+   "ini": 16.82,
+   "fin": 17.037,
+   "tramo": 6
+  },
+  {
+   "texto": "Rosa",
+   "ini": 17.037,
+   "fin": 17.308,
+   "tramo": 6
+  },
+  {
+   "texto": "deja",
+   "ini": 17.308,
+   "fin": 17.579,
+   "tramo": 6
+  },
+  {
+   "texto": "de",
+   "ini": 17.579,
+   "fin": 17.742,
+   "tramo": 6
+  },
+  {
+   "texto": "trabajar",
+   "ini": 17.742,
+   "fin": 18.23,
+   "tramo": 6
+  },
+  {
+   "texto": "a",
+   "ini": 18.23,
+   "fin": 18.338,
+   "tramo": 6
+  },
+  {
+   "texto": "los",
+   "ini": 18.338,
+   "fin": 18.555,
+   "tramo": 6
+  },
+  {
+   "texto": "63,",
+   "ini": 18.555,
+   "fin": 19.26,
+   "tramo": 6
+  },
+  {
+   "texto": "con",
+   "ini": 19.462,
+   "fin": 19.684,
+   "tramo": 7
+  },
+  {
+   "texto": "36",
+   "ini": 19.684,
+   "fin": 20.406,
+   "tramo": 7
+  },
+  {
+   "texto": "años",
+   "ini": 20.406,
+   "fin": 20.683,
+   "tramo": 7
+  },
+  {
+   "texto": "y",
+   "ini": 20.683,
+   "fin": 20.795,
+   "tramo": 7
+  },
+  {
+   "texto": "6",
+   "ini": 20.795,
+   "fin": 21.072,
+   "tramo": 7
+  },
+  {
+   "texto": "meses",
+   "ini": 21.072,
+   "fin": 21.405,
+   "tramo": 7
+  },
+  {
+   "texto": "cotizados.",
+   "ini": 21.405,
+   "fin": 21.961,
+   "tramo": 7
+  },
+  {
+   "texto": "Con",
+   "ini": 22.561,
+   "fin": 22.755,
+   "tramo": 8
+  },
+  {
+   "texto": "dos",
+   "ini": 22.755,
+   "fin": 22.95,
+   "tramo": 8
+  },
+  {
+   "texto": "años",
+   "ini": 22.95,
+   "fin": 23.193,
+   "tramo": 8
+  },
+  {
+   "texto": "de",
+   "ini": 23.193,
+   "fin": 23.339,
+   "tramo": 8
+  },
+  {
+   "texto": "convenio,",
+   "ini": 23.339,
+   "fin": 23.776,
+   "tramo": 8
+  },
+  {
+   "texto": "unos",
+   "ini": 24.122,
+   "fin": 24.393,
+   "tramo": 9
+  },
+  {
+   "texto": "9.400",
+   "ini": 24.393,
+   "fin": 25.583,
+   "tramo": 9
+  },
+  {
+   "texto": "euros,",
+   "ini": 25.583,
+   "fin": 25.907,
+   "tramo": 9
+  },
+  {
+   "texto": "llega",
+   "ini": 26.416,
+   "fin": 26.623,
+   "tramo": 10
+  },
+  {
+   "texto": "a",
+   "ini": 26.623,
+   "fin": 26.691,
+   "tramo": 10
+  },
+  {
+   "texto": "38",
+   "ini": 26.691,
+   "fin": 27.139,
+   "tramo": 10
+  },
+  {
+   "texto": "años",
+   "ini": 27.139,
+   "fin": 27.311,
+   "tramo": 10
+  },
+  {
+   "texto": "y",
+   "ini": 27.311,
+   "fin": 27.38,
+   "tramo": 10
+  },
+  {
+   "texto": "6",
+   "ini": 27.38,
+   "fin": 27.552,
+   "tramo": 10
+  },
+  {
+   "texto": "meses",
+   "ini": 27.552,
+   "fin": 27.759,
+   "tramo": 10
+  },
+  {
+   "texto": "y",
+   "ini": 27.759,
+   "fin": 27.827,
+   "tramo": 10
+  },
+  {
+   "texto": "se",
+   "ini": 27.827,
+   "fin": 27.931,
+   "tramo": 10
+  },
+  {
+   "texto": "jubila",
+   "ini": 27.931,
+   "fin": 28.172,
+   "tramo": 10
+  },
+  {
+   "texto": "a",
+   "ini": 28.172,
+   "fin": 28.24,
+   "tramo": 10
+  },
+  {
+   "texto": "los",
+   "ini": 28.24,
+   "fin": 28.378,
+   "tramo": 10
+  },
+  {
+   "texto": "65,",
+   "ini": 28.378,
+   "fin": 28.86,
+   "tramo": 10
+  },
+  {
+   "texto": "sin",
+   "ini": 29.189,
+   "fin": 29.768,
+   "tramo": 11
+  },
+  {
+   "texto": "recorte.",
+   "ini": 29.768,
+   "fin": 30.926,
+   "tramo": 11
+  },
+  {
+   "texto": "Si",
+   "ini": 31.152,
+   "fin": 31.265,
+   "tramo": 12
+  },
+  {
+   "texto": "cobras",
+   "ini": 31.265,
+   "fin": 31.53,
+   "tramo": 12
+  },
+  {
+   "texto": "el",
+   "ini": 31.53,
+   "fin": 31.643,
+   "tramo": 12
+  },
+  {
+   "texto": "paro,",
+   "ini": 31.643,
+   "fin": 31.832,
+   "tramo": 12
+  },
+  {
+   "texto": "no",
+   "ini": 32.432,
+   "fin": 32.814,
+   "tramo": 13
+  },
+  {
+   "texto": "lo",
+   "ini": 32.814,
+   "fin": 33.196,
+   "tramo": 13
+  },
+  {
+   "texto": "necesitas:",
+   "ini": 33.196,
+   "fin": 34.469,
+   "tramo": 13
+  },
+  {
+   "texto": "ya",
+   "ini": 35.022,
+   "fin": 35.185,
+   "tramo": 14
+  },
+  {
+   "texto": "cotizan",
+   "ini": 35.185,
+   "fin": 35.619,
+   "tramo": 14
+  },
+  {
+   "texto": "por",
+   "ini": 35.619,
+   "fin": 35.836,
+   "tramo": 14
+  },
+  {
+   "texto": "ti.",
+   "ini": 35.836,
+   "fin": 35.999,
+   "tramo": 14
+  },
+  {
+   "texto": "Guárdatelo,",
+   "ini": 36.599,
+   "fin": 37.213,
+   "tramo": 15
+  },
+  {
+   "texto": "o",
+   "ini": 37.685,
+   "fin": 37.797,
+   "tramo": 16
+  },
+  {
+   "texto": "pásaselo",
+   "ini": 37.797,
+   "fin": 38.301,
+   "tramo": 16
+  },
+  {
+   "texto": "a",
+   "ini": 38.301,
+   "fin": 38.412,
+   "tramo": 16
+  },
+  {
+   "texto": "quien",
+   "ini": 38.412,
+   "fin": 38.748,
+   "tramo": 16
+  },
+  {
+   "texto": "lo",
+   "ini": 38.748,
+   "fin": 38.916,
+   "tramo": 16
+  },
+  {
+   "texto": "necesite.",
+   "ini": 38.916,
+   "fin": 39.419,
+   "tramo": 16
+  }
+ ]
+}

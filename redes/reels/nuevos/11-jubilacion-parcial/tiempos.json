@@ -1,0 +1,599 @@
+{
+ "duracion": 38.775,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 5.45
+  },
+  {
+   "ini": 5.45,
+   "fin": 9.096
+  },
+  {
+   "ini": 9.096,
+   "fin": 13.476
+  },
+  {
+   "ini": 13.476,
+   "fin": 19.929
+  },
+  {
+   "ini": 19.929,
+   "fin": 30.38
+  },
+  {
+   "ini": 30.38,
+   "fin": 34.433
+  },
+  {
+   "ini": 34.433,
+   "fin": 39.775
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Sabías",
+   "ini": 0.1,
+   "fin": 0.472,
+   "tramo": 0
+  },
+  {
+   "texto": "que",
+   "ini": 0.472,
+   "fin": 0.685,
+   "tramo": 0
+  },
+  {
+   "texto": "puedes",
+   "ini": 0.685,
+   "fin": 1.057,
+   "tramo": 0
+  },
+  {
+   "texto": "jubilarte",
+   "ini": 1.057,
+   "fin": 1.589,
+   "tramo": 0
+  },
+  {
+   "texto": "poco",
+   "ini": 1.589,
+   "fin": 1.854,
+   "tramo": 0
+  },
+  {
+   "texto": "a",
+   "ini": 1.854,
+   "fin": 1.961,
+   "tramo": 0
+  },
+  {
+   "texto": "poco,",
+   "ini": 1.961,
+   "fin": 2.227,
+   "tramo": 0
+  },
+  {
+   "texto": "hasta",
+   "ini": 2.227,
+   "fin": 2.546,
+   "tramo": 0
+  },
+  {
+   "texto": "3",
+   "ini": 2.546,
+   "fin": 2.811,
+   "tramo": 0
+  },
+  {
+   "texto": "años",
+   "ini": 2.811,
+   "fin": 3.077,
+   "tramo": 0
+  },
+  {
+   "texto": "antes?",
+   "ini": 3.077,
+   "fin": 3.396,
+   "tramo": 0
+  },
+  {
+   "texto": "Se",
+   "ini": 3.601,
+   "fin": 3.748,
+   "tramo": 1
+  },
+  {
+   "texto": "llama",
+   "ini": 3.748,
+   "fin": 4.041,
+   "tramo": 1
+  },
+  {
+   "texto": "jubilación",
+   "ini": 4.041,
+   "fin": 4.579,
+   "tramo": 1
+  },
+  {
+   "texto": "parcial.",
+   "ini": 4.579,
+   "fin": 4.97,
+   "tramo": 1
+  },
+  {
+   "texto": "Reduces",
+   "ini": 5.57,
+   "fin": 6.039,
+   "tramo": 2
+  },
+  {
+   "texto": "tu",
+   "ini": 6.039,
+   "fin": 6.215,
+   "tramo": 2
+  },
+  {
+   "texto": "jornada",
+   "ini": 6.215,
+   "fin": 6.683,
+   "tramo": 2
+  },
+  {
+   "texto": "y",
+   "ini": 6.683,
+   "fin": 6.8,
+   "tramo": 2
+  },
+  {
+   "texto": "cobras",
+   "ini": 6.8,
+   "fin": 7.21,
+   "tramo": 2
+  },
+  {
+   "texto": "una",
+   "ini": 7.21,
+   "fin": 7.445,
+   "tramo": 2
+  },
+  {
+   "texto": "parte",
+   "ini": 7.445,
+   "fin": 7.796,
+   "tramo": 2
+  },
+  {
+   "texto": "de",
+   "ini": 7.796,
+   "fin": 7.972,
+   "tramo": 2
+  },
+  {
+   "texto": "la",
+   "ini": 7.972,
+   "fin": 8.147,
+   "tramo": 2
+  },
+  {
+   "texto": "pensión.",
+   "ini": 8.147,
+   "fin": 8.616,
+   "tramo": 2
+  },
+  {
+   "texto": "Hacen",
+   "ini": 9.216,
+   "fin": 9.548,
+   "tramo": 3
+  },
+  {
+   "texto": "falta",
+   "ini": 9.548,
+   "fin": 9.88,
+   "tramo": 3
+  },
+  {
+   "texto": "33",
+   "ini": 9.88,
+   "fin": 10.599,
+   "tramo": 3
+  },
+  {
+   "texto": "años",
+   "ini": 10.599,
+   "fin": 10.876,
+   "tramo": 3
+  },
+  {
+   "texto": "cotizados",
+   "ini": 10.876,
+   "fin": 11.429,
+   "tramo": 3
+  },
+  {
+   "texto": "y",
+   "ini": 11.641,
+   "fin": 11.745,
+   "tramo": 4
+  },
+  {
+   "texto": "6",
+   "ini": 11.745,
+   "fin": 12.006,
+   "tramo": 4
+  },
+  {
+   "texto": "años",
+   "ini": 12.006,
+   "fin": 12.266,
+   "tramo": 4
+  },
+  {
+   "texto": "en",
+   "ini": 12.266,
+   "fin": 12.423,
+   "tramo": 4
+  },
+  {
+   "texto": "tu",
+   "ini": 12.423,
+   "fin": 12.579,
+   "tramo": 4
+  },
+  {
+   "texto": "empresa.",
+   "ini": 12.579,
+   "fin": 12.996,
+   "tramo": 4
+  },
+  {
+   "texto": "Tu",
+   "ini": 13.596,
+   "fin": 13.749,
+   "tramo": 5
+  },
+  {
+   "texto": "empresa",
+   "ini": 13.749,
+   "fin": 14.155,
+   "tramo": 5
+  },
+  {
+   "texto": "tiene",
+   "ini": 14.155,
+   "fin": 14.459,
+   "tramo": 5
+  },
+  {
+   "texto": "que",
+   "ini": 14.459,
+   "fin": 14.662,
+   "tramo": 5
+  },
+  {
+   "texto": "contratar",
+   "ini": 14.662,
+   "fin": 15.17,
+   "tramo": 5
+  },
+  {
+   "texto": "a",
+   "ini": 15.17,
+   "fin": 15.272,
+   "tramo": 5
+  },
+  {
+   "texto": "otra",
+   "ini": 15.272,
+   "fin": 15.526,
+   "tramo": 5
+  },
+  {
+   "texto": "persona,",
+   "ini": 15.526,
+   "fin": 15.932,
+   "tramo": 5
+  },
+  {
+   "texto": "con",
+   "ini": 16.532,
+   "fin": 16.733,
+   "tramo": 6
+  },
+  {
+   "texto": "un",
+   "ini": 16.733,
+   "fin": 16.884,
+   "tramo": 6
+  },
+  {
+   "texto": "contrato",
+   "ini": 16.884,
+   "fin": 17.337,
+   "tramo": 6
+  },
+  {
+   "texto": "de",
+   "ini": 17.337,
+   "fin": 17.488,
+   "tramo": 6
+  },
+  {
+   "texto": "relevo",
+   "ini": 17.488,
+   "fin": 17.84,
+   "tramo": 6
+  },
+  {
+   "texto": "indefinido",
+   "ini": 17.84,
+   "fin": 18.393,
+   "tramo": 6
+  },
+  {
+   "texto": "y",
+   "ini": 18.393,
+   "fin": 18.494,
+   "tramo": 6
+  },
+  {
+   "texto": "a",
+   "ini": 18.494,
+   "fin": 18.594,
+   "tramo": 6
+  },
+  {
+   "texto": "jornada",
+   "ini": 18.594,
+   "fin": 18.997,
+   "tramo": 6
+  },
+  {
+   "texto": "completa.",
+   "ini": 18.997,
+   "fin": 19.449,
+   "tramo": 6
+  },
+  {
+   "texto": "Pongamos",
+   "ini": 20.049,
+   "fin": 20.509,
+   "tramo": 7
+  },
+  {
+   "texto": "que",
+   "ini": 20.509,
+   "fin": 20.713,
+   "tramo": 7
+  },
+  {
+   "texto": "Rosa",
+   "ini": 20.713,
+   "fin": 20.969,
+   "tramo": 7
+  },
+  {
+   "texto": "reduce",
+   "ini": 20.969,
+   "fin": 21.326,
+   "tramo": 7
+  },
+  {
+   "texto": "su",
+   "ini": 21.326,
+   "fin": 21.479,
+   "tramo": 7
+  },
+  {
+   "texto": "jornada",
+   "ini": 21.479,
+   "fin": 21.888,
+   "tramo": 7
+  },
+  {
+   "texto": "un",
+   "ini": 21.888,
+   "fin": 22.041,
+   "tramo": 7
+  },
+  {
+   "texto": "50%.",
+   "ini": 22.041,
+   "fin": 23.011,
+   "tramo": 7
+  },
+  {
+   "texto": "Con",
+   "ini": 23.611,
+   "fin": 23.838,
+   "tramo": 8
+  },
+  {
+   "texto": "una",
+   "ini": 23.838,
+   "fin": 24.065,
+   "tramo": 8
+  },
+  {
+   "texto": "pensión",
+   "ini": 24.065,
+   "fin": 24.518,
+   "tramo": 8
+  },
+  {
+   "texto": "completa",
+   "ini": 24.518,
+   "fin": 25.028,
+   "tramo": 8
+  },
+  {
+   "texto": "de",
+   "ini": 25.028,
+   "fin": 25.198,
+   "tramo": 8
+  },
+  {
+   "texto": "1.600",
+   "ini": 25.198,
+   "fin": 26.048,
+   "tramo": 8
+  },
+  {
+   "texto": "euros,",
+   "ini": 26.048,
+   "fin": 26.388,
+   "tramo": 8
+  },
+  {
+   "texto": "cobra",
+   "ini": 26.878,
+   "fin": 27.25,
+   "tramo": 9
+  },
+  {
+   "texto": "800,",
+   "ini": 27.25,
+   "fin": 27.994,
+   "tramo": 9
+  },
+  {
+   "texto": "más",
+   "ini": 28.594,
+   "fin": 28.795,
+   "tramo": 10
+  },
+  {
+   "texto": "la",
+   "ini": 28.795,
+   "fin": 28.946,
+   "tramo": 10
+  },
+  {
+   "texto": "mitad",
+   "ini": 28.946,
+   "fin": 29.247,
+   "tramo": 10
+  },
+  {
+   "texto": "de",
+   "ini": 29.247,
+   "fin": 29.398,
+   "tramo": 10
+  },
+  {
+   "texto": "su",
+   "ini": 29.398,
+   "fin": 29.548,
+   "tramo": 10
+  },
+  {
+   "texto": "sueldo.",
+   "ini": 29.548,
+   "fin": 29.9,
+   "tramo": 10
+  },
+  {
+   "texto": "Ojo:",
+   "ini": 30.5,
+   "fin": 30.825,
+   "tramo": 11
+  },
+  {
+   "texto": "no",
+   "ini": 31.425,
+   "fin": 31.583,
+   "tramo": 12
+  },
+  {
+   "texto": "es",
+   "ini": 31.583,
+   "fin": 31.741,
+   "tramo": 12
+  },
+  {
+   "texto": "automático.",
+   "ini": 31.741,
+   "fin": 32.321,
+   "tramo": 12
+  },
+  {
+   "texto": "La",
+   "ini": 32.712,
+   "fin": 32.84,
+   "tramo": 13
+  },
+  {
+   "texto": "empresa",
+   "ini": 32.84,
+   "fin": 33.183,
+   "tramo": 13
+  },
+  {
+   "texto": "tiene",
+   "ini": 33.183,
+   "fin": 33.439,
+   "tramo": 13
+  },
+  {
+   "texto": "que",
+   "ini": 33.439,
+   "fin": 33.611,
+   "tramo": 13
+  },
+  {
+   "texto": "aceptar.",
+   "ini": 33.611,
+   "fin": 33.953,
+   "tramo": 13
+  },
+  {
+   "texto": "Guárdatelo,",
+   "ini": 34.553,
+   "fin": 35.15,
+   "tramo": 14
+  },
+  {
+   "texto": "o",
+   "ini": 35.551,
+   "fin": 35.661,
+   "tramo": 15
+  },
+  {
+   "texto": "pásaselo",
+   "ini": 35.661,
+   "fin": 36.159,
+   "tramo": 15
+  },
+  {
+   "texto": "a",
+   "ini": 36.159,
+   "fin": 36.27,
+   "tramo": 15
+  },
+  {
+   "texto": "quien",
+   "ini": 36.27,
+   "fin": 36.602,
+   "tramo": 15
+  },
+  {
+   "texto": "quiera",
+   "ini": 36.602,
+   "fin": 36.989,
+   "tramo": 15
+  },
+  {
+   "texto": "reducir",
+   "ini": 36.989,
+   "fin": 37.432,
+   "tramo": 15
+  },
+  {
+   "texto": "jornada.",
+   "ini": 37.432,
+   "fin": 37.875,
+   "tramo": 15
+  }
+ ]
+}
