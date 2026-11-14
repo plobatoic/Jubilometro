@@ -1,0 +1,739 @@
+{
+ "duracion": 48.503,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 5.846
+  },
+  {
+   "ini": 5.846,
+   "fin": 16.212
+  },
+  {
+   "ini": 16.212,
+   "fin": 26.202
+  },
+  {
+   "ini": 26.202,
+   "fin": 34.506
+  },
+  {
+   "ini": 34.506,
+   "fin": 45.772
+  },
+  {
+   "ini": 45.772,
+   "fin": 49.503
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Trabajaste",
+   "ini": 0.1,
+   "fin": 0.749,
+   "tramo": 0
+  },
+  {
+   "texto": "unos",
+   "ini": 0.749,
+   "fin": 1.044,
+   "tramo": 0
+  },
+  {
+   "texto": "años",
+   "ini": 1.044,
+   "fin": 1.339,
+   "tramo": 0
+  },
+  {
+   "texto": "en",
+   "ini": 1.339,
+   "fin": 1.516,
+   "tramo": 0
+  },
+  {
+   "texto": "Alemania,",
+   "ini": 1.516,
+   "fin": 2.046,
+   "tramo": 0
+  },
+  {
+   "texto": "en",
+   "ini": 2.387,
+   "fin": 2.547,
+   "tramo": 1
+  },
+  {
+   "texto": "Francia",
+   "ini": 2.547,
+   "fin": 2.972,
+   "tramo": 1
+  },
+  {
+   "texto": "o",
+   "ini": 2.972,
+   "fin": 3.079,
+   "tramo": 1
+  },
+  {
+   "texto": "en",
+   "ini": 3.079,
+   "fin": 3.238,
+   "tramo": 1
+  },
+  {
+   "texto": "Suiza?",
+   "ini": 3.238,
+   "fin": 3.557,
+   "tramo": 1
+  },
+  {
+   "texto": "Esos",
+   "ini": 4.157,
+   "fin": 4.409,
+   "tramo": 2
+  },
+  {
+   "texto": "años",
+   "ini": 4.409,
+   "fin": 4.661,
+   "tramo": 2
+  },
+  {
+   "texto": "no",
+   "ini": 4.661,
+   "fin": 4.812,
+   "tramo": 2
+  },
+  {
+   "texto": "se",
+   "ini": 4.812,
+   "fin": 4.963,
+   "tramo": 2
+  },
+  {
+   "texto": "pierden.",
+   "ini": 4.963,
+   "fin": 5.366,
+   "tramo": 2
+  },
+  {
+   "texto": "Para",
+   "ini": 5.966,
+   "fin": 6.25,
+   "tramo": 3
+  },
+  {
+   "texto": "jubilarte,",
+   "ini": 6.25,
+   "fin": 6.82,
+   "tramo": 3
+  },
+  {
+   "texto": "la",
+   "ini": 6.82,
+   "fin": 6.991,
+   "tramo": 3
+  },
+  {
+   "texto": "Seguridad",
+   "ini": 6.991,
+   "fin": 7.561,
+   "tramo": 3
+  },
+  {
+   "texto": "Social",
+   "ini": 7.561,
+   "fin": 7.96,
+   "tramo": 3
+  },
+  {
+   "texto": "los",
+   "ini": 7.96,
+   "fin": 8.188,
+   "tramo": 3
+  },
+  {
+   "texto": "suma",
+   "ini": 8.188,
+   "fin": 8.473,
+   "tramo": 3
+  },
+  {
+   "texto": "a",
+   "ini": 8.473,
+   "fin": 8.587,
+   "tramo": 3
+  },
+  {
+   "texto": "los",
+   "ini": 8.587,
+   "fin": 8.815,
+   "tramo": 3
+  },
+  {
+   "texto": "de",
+   "ini": 8.815,
+   "fin": 8.986,
+   "tramo": 3
+  },
+  {
+   "texto": "España.",
+   "ini": 8.986,
+   "fin": 9.384,
+   "tramo": 3
+  },
+  {
+   "texto": "Con",
+   "ini": 9.984,
+   "fin": 10.248,
+   "tramo": 4
+  },
+  {
+   "texto": "10",
+   "ini": 10.248,
+   "fin": 10.576,
+   "tramo": 4
+  },
+  {
+   "texto": "años",
+   "ini": 10.576,
+   "fin": 10.905,
+   "tramo": 4
+  },
+  {
+   "texto": "aquí",
+   "ini": 10.905,
+   "fin": 11.234,
+   "tramo": 4
+  },
+  {
+   "texto": "y",
+   "ini": 11.234,
+   "fin": 11.366,
+   "tramo": 4
+  },
+  {
+   "texto": "12",
+   "ini": 11.366,
+   "fin": 11.695,
+   "tramo": 4
+  },
+  {
+   "texto": "en",
+   "ini": 11.695,
+   "fin": 11.892,
+   "tramo": 4
+  },
+  {
+   "texto": "Alemania,",
+   "ini": 11.892,
+   "fin": 12.484,
+   "tramo": 4
+  },
+  {
+   "texto": "cuentas",
+   "ini": 12.484,
+   "fin": 13.01,
+   "tramo": 4
+  },
+  {
+   "texto": "22...",
+   "ini": 13.01,
+   "fin": 13.668,
+   "tramo": 4
+  },
+  {
+   "texto": "y",
+   "ini": 14.268,
+   "fin": 14.367,
+   "tramo": 5
+  },
+  {
+   "texto": "ya",
+   "ini": 14.367,
+   "fin": 14.514,
+   "tramo": 5
+  },
+  {
+   "texto": "tienes",
+   "ini": 14.514,
+   "fin": 14.859,
+   "tramo": 5
+  },
+  {
+   "texto": "los",
+   "ini": 14.859,
+   "fin": 15.056,
+   "tramo": 5
+  },
+  {
+   "texto": "15",
+   "ini": 15.056,
+   "fin": 15.4,
+   "tramo": 5
+  },
+  {
+   "texto": "mínimos.",
+   "ini": 15.4,
+   "fin": 15.794,
+   "tramo": 5
+  },
+  {
+   "texto": "Luego,",
+   "ini": 16.332,
+   "fin": 16.691,
+   "tramo": 6
+  },
+  {
+   "texto": "cada",
+   "ini": 16.691,
+   "fin": 16.991,
+   "tramo": 6
+  },
+  {
+   "texto": "país",
+   "ini": 16.991,
+   "fin": 17.291,
+   "tramo": 6
+  },
+  {
+   "texto": "te",
+   "ini": 17.291,
+   "fin": 17.471,
+   "tramo": 6
+  },
+  {
+   "texto": "paga",
+   "ini": 17.471,
+   "fin": 17.77,
+   "tramo": 6
+  },
+  {
+   "texto": "su",
+   "ini": 17.77,
+   "fin": 17.95,
+   "tramo": 6
+  },
+  {
+   "texto": "parte.",
+   "ini": 17.95,
+   "fin": 18.31,
+   "tramo": 6
+  },
+  {
+   "texto": "España,",
+   "ini": 18.868,
+   "fin": 19.344,
+   "tramo": 7
+  },
+  {
+   "texto": "por",
+   "ini": 19.944,
+   "fin": 20.183,
+   "tramo": 8
+  },
+  {
+   "texto": "sus",
+   "ini": 20.183,
+   "fin": 20.422,
+   "tramo": 8
+  },
+  {
+   "texto": "años.",
+   "ini": 20.422,
+   "fin": 20.721,
+   "tramo": 8
+  },
+  {
+   "texto": "Alemania,",
+   "ini": 21.245,
+   "fin": 21.821,
+   "tramo": 9
+  },
+  {
+   "texto": "por",
+   "ini": 22.172,
+   "fin": 22.367,
+   "tramo": 10
+  },
+  {
+   "texto": "los",
+   "ini": 22.367,
+   "fin": 22.563,
+   "tramo": 10
+  },
+  {
+   "texto": "suyos.",
+   "ini": 22.563,
+   "fin": 22.856,
+   "tramo": 10
+  },
+  {
+   "texto": "Y",
+   "ini": 23.426,
+   "fin": 23.557,
+   "tramo": 11
+  },
+  {
+   "texto": "cada",
+   "ini": 23.557,
+   "fin": 23.884,
+   "tramo": 11
+  },
+  {
+   "texto": "uno,",
+   "ini": 23.884,
+   "fin": 24.146,
+   "tramo": 11
+  },
+  {
+   "texto": "a",
+   "ini": 24.563,
+   "fin": 24.66,
+   "tramo": 12
+  },
+  {
+   "texto": "su",
+   "ini": 24.66,
+   "fin": 24.805,
+   "tramo": 12
+  },
+  {
+   "texto": "edad",
+   "ini": 24.805,
+   "fin": 25.046,
+   "tramo": 12
+  },
+  {
+   "texto": "de",
+   "ini": 25.046,
+   "fin": 25.191,
+   "tramo": 12
+  },
+  {
+   "texto": "jubilación.",
+   "ini": 25.191,
+   "fin": 25.722,
+   "tramo": 12
+  },
+  {
+   "texto": "Vale",
+   "ini": 26.322,
+   "fin": 26.712,
+   "tramo": 13
+  },
+  {
+   "texto": "para",
+   "ini": 26.712,
+   "fin": 27.101,
+   "tramo": 13
+  },
+  {
+   "texto": "toda",
+   "ini": 27.101,
+   "fin": 27.491,
+   "tramo": 13
+  },
+  {
+   "texto": "la",
+   "ini": 27.491,
+   "fin": 27.724,
+   "tramo": 13
+  },
+  {
+   "texto": "Unión",
+   "ini": 27.724,
+   "fin": 28.192,
+   "tramo": 13
+  },
+  {
+   "texto": "Europea,",
+   "ini": 28.192,
+   "fin": 28.815,
+   "tramo": 13
+  },
+  {
+   "texto": "Suiza,",
+   "ini": 29.023,
+   "fin": 29.818,
+   "tramo": 14
+  },
+  {
+   "texto": "el",
+   "ini": 30.135,
+   "fin": 30.232,
+   "tramo": 15
+  },
+  {
+   "texto": "Reino",
+   "ini": 30.232,
+   "fin": 30.426,
+   "tramo": 15
+  },
+  {
+   "texto": "Unido",
+   "ini": 30.426,
+   "fin": 30.62,
+   "tramo": 15
+  },
+  {
+   "texto": "y",
+   "ini": 30.62,
+   "fin": 30.684,
+   "tramo": 15
+  },
+  {
+   "texto": "buena",
+   "ini": 30.684,
+   "fin": 30.879,
+   "tramo": 15
+  },
+  {
+   "texto": "parte",
+   "ini": 30.879,
+   "fin": 31.073,
+   "tramo": 15
+  },
+  {
+   "texto": "de",
+   "ini": 31.073,
+   "fin": 31.17,
+   "tramo": 15
+  },
+  {
+   "texto": "Latinoamérica.",
+   "ini": 31.17,
+   "fin": 31.622,
+   "tramo": 15
+  },
+  {
+   "texto": "Los",
+   "ini": 32.182,
+   "fin": 32.411,
+   "tramo": 16
+  },
+  {
+   "texto": "países",
+   "ini": 32.411,
+   "fin": 32.812,
+   "tramo": 16
+  },
+  {
+   "texto": "sin",
+   "ini": 32.812,
+   "fin": 33.042,
+   "tramo": 16
+  },
+  {
+   "texto": "convenio,",
+   "ini": 33.042,
+   "fin": 33.558,
+   "tramo": 16
+  },
+  {
+   "texto": "no",
+   "ini": 33.558,
+   "fin": 33.73,
+   "tramo": 16
+  },
+  {
+   "texto": "cuentan.",
+   "ini": 33.73,
+   "fin": 34.188,
+   "tramo": 16
+  },
+  {
+   "texto": "Se",
+   "ini": 34.626,
+   "fin": 35.014,
+   "tramo": 17
+  },
+  {
+   "texto": "pide",
+   "ini": 35.014,
+   "fin": 35.662,
+   "tramo": 17
+  },
+  {
+   "texto": "en",
+   "ini": 35.662,
+   "fin": 36.05,
+   "tramo": 17
+  },
+  {
+   "texto": "el",
+   "ini": 36.05,
+   "fin": 36.438,
+   "tramo": 17
+  },
+  {
+   "texto": "INSS,",
+   "ini": 36.438,
+   "fin": 37.085,
+   "tramo": 17
+  },
+  {
+   "texto": "y",
+   "ini": 37.424,
+   "fin": 37.531,
+   "tramo": 18
+  },
+  {
+   "texto": "ellos",
+   "ini": 37.531,
+   "fin": 37.85,
+   "tramo": 18
+  },
+  {
+   "texto": "piden",
+   "ini": 37.85,
+   "fin": 38.17,
+   "tramo": 18
+  },
+  {
+   "texto": "tus",
+   "ini": 38.17,
+   "fin": 38.384,
+   "tramo": 18
+  },
+  {
+   "texto": "datos",
+   "ini": 38.384,
+   "fin": 38.703,
+   "tramo": 18
+  },
+  {
+   "texto": "al",
+   "ini": 38.703,
+   "fin": 38.863,
+   "tramo": 18
+  },
+  {
+   "texto": "otro",
+   "ini": 38.863,
+   "fin": 39.13,
+   "tramo": 18
+  },
+  {
+   "texto": "país.",
+   "ini": 39.13,
+   "fin": 39.396,
+   "tramo": 18
+  },
+  {
+   "texto": "Lleva",
+   "ini": 39.912,
+   "fin": 40.197,
+   "tramo": 19
+  },
+  {
+   "texto": "todo",
+   "ini": 40.197,
+   "fin": 40.434,
+   "tramo": 19
+  },
+  {
+   "texto": "lo",
+   "ini": 40.434,
+   "fin": 40.576,
+   "tramo": 19
+  },
+  {
+   "texto": "que",
+   "ini": 40.576,
+   "fin": 40.766,
+   "tramo": 19
+  },
+  {
+   "texto": "tengas",
+   "ini": 40.766,
+   "fin": 41.098,
+   "tramo": 19
+  },
+  {
+   "texto": "de",
+   "ini": 41.098,
+   "fin": 41.241,
+   "tramo": 19
+  },
+  {
+   "texto": "allí:",
+   "ini": 41.241,
+   "fin": 41.478,
+   "tramo": 19
+  },
+  {
+   "texto": "contratos,",
+   "ini": 41.931,
+   "fin": 42.598,
+   "tramo": 20
+  },
+  {
+   "texto": "números",
+   "ini": 42.598,
+   "fin": 43.132,
+   "tramo": 20
+  },
+  {
+   "texto": "de",
+   "ini": 43.132,
+   "fin": 43.332,
+   "tramo": 20
+  },
+  {
+   "texto": "afiliación...",
+   "ini": 43.332,
+   "fin": 44.066,
+   "tramo": 20
+  },
+  {
+   "texto": "Acelera",
+   "ini": 44.491,
+   "fin": 44.949,
+   "tramo": 21
+  },
+  {
+   "texto": "mucho.",
+   "ini": 44.949,
+   "fin": 45.292,
+   "tramo": 21
+  },
+  {
+   "texto": "Pásaselo",
+   "ini": 45.892,
+   "fin": 46.359,
+   "tramo": 22
+  },
+  {
+   "texto": "a",
+   "ini": 46.359,
+   "fin": 46.462,
+   "tramo": 22
+  },
+  {
+   "texto": "quien",
+   "ini": 46.462,
+   "fin": 46.773,
+   "tramo": 22
+  },
+  {
+   "texto": "emigró",
+   "ini": 46.773,
+   "fin": 47.136,
+   "tramo": 22
+  },
+  {
+   "texto": "de",
+   "ini": 47.136,
+   "fin": 47.292,
+   "tramo": 22
+  },
+  {
+   "texto": "joven.",
+   "ini": 47.292,
+   "fin": 47.603,
+   "tramo": 22
+  }
+ ]
+}
