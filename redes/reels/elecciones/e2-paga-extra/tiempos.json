@@ -1,0 +1,499 @@
+{
+ "duracion": 29.402,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 2.844
+  },
+  {
+   "ini": 2.844,
+   "fin": 6.636
+  },
+  {
+   "ini": 6.636,
+   "fin": 8.526
+  },
+  {
+   "ini": 8.526,
+   "fin": 11.514
+  },
+  {
+   "ini": 11.514,
+   "fin": 15.279
+  },
+  {
+   "ini": 15.279,
+   "fin": 18.184
+  },
+  {
+   "ini": 18.184,
+   "fin": 24.43
+  },
+  {
+   "ini": 24.43,
+   "fin": 26.945
+  },
+  {
+   "ini": 26.945,
+   "fin": 30.402
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Las",
+   "ini": 0.1,
+   "fin": 0.338,
+   "tramo": 0
+  },
+  {
+   "texto": "elecciones",
+   "ini": 0.338,
+   "fin": 0.994,
+   "tramo": 0
+  },
+  {
+   "texto": "retrasan",
+   "ini": 0.994,
+   "fin": 1.53,
+   "tramo": 0
+  },
+  {
+   "texto": "tu",
+   "ini": 1.53,
+   "fin": 1.708,
+   "tramo": 0
+  },
+  {
+   "texto": "paga",
+   "ini": 1.708,
+   "fin": 2.006,
+   "tramo": 0
+  },
+  {
+   "texto": "extra?",
+   "ini": 2.006,
+   "fin": 2.364,
+   "tramo": 0
+  },
+  {
+   "texto": "No.",
+   "ini": 2.964,
+   "fin": 3.215,
+   "tramo": 1
+  },
+  {
+   "texto": "Te",
+   "ini": 3.815,
+   "fin": 3.936,
+   "tramo": 2
+  },
+  {
+   "texto": "llega",
+   "ini": 3.936,
+   "fin": 4.18,
+   "tramo": 2
+  },
+  {
+   "texto": "con",
+   "ini": 4.18,
+   "fin": 4.343,
+   "tramo": 2
+  },
+  {
+   "texto": "la",
+   "ini": 4.343,
+   "fin": 4.465,
+   "tramo": 2
+  },
+  {
+   "texto": "pensión",
+   "ini": 4.465,
+   "fin": 4.79,
+   "tramo": 2
+  },
+  {
+   "texto": "de",
+   "ini": 4.79,
+   "fin": 4.912,
+   "tramo": 2
+  },
+  {
+   "texto": "noviembre,",
+   "ini": 4.912,
+   "fin": 5.318,
+   "tramo": 2
+  },
+  {
+   "texto": "como",
+   "ini": 5.527,
+   "fin": 5.769,
+   "tramo": 3
+  },
+  {
+   "texto": "siempre.",
+   "ini": 5.769,
+   "fin": 6.156,
+   "tramo": 3
+  },
+  {
+   "texto": "Si",
+   "ini": 6.756,
+   "fin": 6.915,
+   "tramo": 4
+  },
+  {
+   "texto": "tu",
+   "ini": 6.915,
+   "fin": 7.074,
+   "tramo": 4
+  },
+  {
+   "texto": "banco",
+   "ini": 7.074,
+   "fin": 7.392,
+   "tramo": 4
+  },
+  {
+   "texto": "adelanta",
+   "ini": 7.392,
+   "fin": 7.869,
+   "tramo": 4
+  },
+  {
+   "texto": "el",
+   "ini": 7.869,
+   "fin": 8.029,
+   "tramo": 4
+  },
+  {
+   "texto": "pago,",
+   "ini": 8.029,
+   "fin": 8.294,
+   "tramo": 4
+  },
+  {
+   "texto": "entre",
+   "ini": 8.646,
+   "fin": 8.945,
+   "tramo": 5
+  },
+  {
+   "texto": "el",
+   "ini": 8.945,
+   "fin": 9.094,
+   "tramo": 5
+  },
+  {
+   "texto": "22",
+   "ini": 9.094,
+   "fin": 9.591,
+   "tramo": 5
+  },
+  {
+   "texto": "y",
+   "ini": 9.591,
+   "fin": 9.691,
+   "tramo": 5
+  },
+  {
+   "texto": "el",
+   "ini": 9.691,
+   "fin": 9.84,
+   "tramo": 5
+  },
+  {
+   "texto": "26",
+   "ini": 9.84,
+   "fin": 10.387,
+   "tramo": 5
+  },
+  {
+   "texto": "de",
+   "ini": 10.387,
+   "fin": 10.537,
+   "tramo": 5
+  },
+  {
+   "texto": "noviembre.",
+   "ini": 10.537,
+   "fin": 11.034,
+   "tramo": 5
+  },
+  {
+   "texto": "Si",
+   "ini": 11.634,
+   "fin": 11.852,
+   "tramo": 6
+  },
+  {
+   "texto": "no,",
+   "ini": 11.852,
+   "fin": 12.071,
+   "tramo": 6
+  },
+  {
+   "texto": "como",
+   "ini": 12.488,
+   "fin": 12.755,
+   "tramo": 7
+  },
+  {
+   "texto": "tarde,",
+   "ini": 12.755,
+   "fin": 13.076,
+   "tramo": 7
+  },
+  {
+   "texto": "el",
+   "ini": 13.322,
+   "fin": 13.456,
+   "tramo": 8
+  },
+  {
+   "texto": "primer",
+   "ini": 13.456,
+   "fin": 13.77,
+   "tramo": 8
+  },
+  {
+   "texto": "día",
+   "ini": 13.77,
+   "fin": 13.948,
+   "tramo": 8
+  },
+  {
+   "texto": "hábil",
+   "ini": 13.948,
+   "fin": 14.217,
+   "tramo": 8
+  },
+  {
+   "texto": "de",
+   "ini": 14.217,
+   "fin": 14.351,
+   "tramo": 8
+  },
+  {
+   "texto": "diciembre.",
+   "ini": 14.351,
+   "fin": 14.799,
+   "tramo": 8
+  },
+  {
+   "texto": "La",
+   "ini": 15.399,
+   "fin": 15.535,
+   "tramo": 9
+  },
+  {
+   "texto": "pensión",
+   "ini": 15.535,
+   "fin": 15.898,
+   "tramo": 9
+  },
+  {
+   "texto": "de",
+   "ini": 15.898,
+   "fin": 16.034,
+   "tramo": 9
+  },
+  {
+   "texto": "diciembre,",
+   "ini": 16.034,
+   "fin": 16.488,
+   "tramo": 9
+  },
+  {
+   "texto": "en",
+   "ini": 16.914,
+   "fin": 17.083,
+   "tramo": 10
+  },
+  {
+   "texto": "sus",
+   "ini": 17.083,
+   "fin": 17.309,
+   "tramo": 10
+  },
+  {
+   "texto": "fechas.",
+   "ini": 17.309,
+   "fin": 17.704,
+   "tramo": 10
+  },
+  {
+   "texto": "Y",
+   "ini": 18.304,
+   "fin": 18.416,
+   "tramo": 11
+  },
+  {
+   "texto": "si",
+   "ini": 18.416,
+   "fin": 18.584,
+   "tramo": 11
+  },
+  {
+   "texto": "tienes",
+   "ini": 18.584,
+   "fin": 18.976,
+   "tramo": 11
+  },
+  {
+   "texto": "pedida",
+   "ini": 18.976,
+   "fin": 19.368,
+   "tramo": 11
+  },
+  {
+   "texto": "la",
+   "ini": 19.368,
+   "fin": 19.537,
+   "tramo": 11
+  },
+  {
+   "texto": "jubilación,",
+   "ini": 19.537,
+   "fin": 20.153,
+   "tramo": 11
+  },
+  {
+   "texto": "la",
+   "ini": 20.358,
+   "fin": 20.544,
+   "tramo": 12
+  },
+  {
+   "texto": "viudedad",
+   "ini": 20.544,
+   "fin": 21.1,
+   "tramo": 12
+  },
+  {
+   "texto": "o",
+   "ini": 21.1,
+   "fin": 21.223,
+   "tramo": 12
+  },
+  {
+   "texto": "la",
+   "ini": 21.223,
+   "fin": 21.409,
+   "tramo": 12
+  },
+  {
+   "texto": "incapacidad,",
+   "ini": 21.409,
+   "fin": 22.15,
+   "tramo": 12
+  },
+  {
+   "texto": "tu",
+   "ini": 22.464,
+   "fin": 22.618,
+   "tramo": 13
+  },
+  {
+   "texto": "expediente",
+   "ini": 22.618,
+   "fin": 23.182,
+   "tramo": 13
+  },
+  {
+   "texto": "sigue",
+   "ini": 23.182,
+   "fin": 23.489,
+   "tramo": 13
+  },
+  {
+   "texto": "su",
+   "ini": 23.489,
+   "fin": 23.643,
+   "tramo": 13
+  },
+  {
+   "texto": "curso.",
+   "ini": 23.643,
+   "fin": 23.95,
+   "tramo": 13
+  },
+  {
+   "texto": "Las",
+   "ini": 24.55,
+   "fin": 24.742,
+   "tramo": 14
+  },
+  {
+   "texto": "elecciones",
+   "ini": 24.742,
+   "fin": 25.269,
+   "tramo": 14
+  },
+  {
+   "texto": "no",
+   "ini": 25.269,
+   "fin": 25.412,
+   "tramo": 14
+  },
+  {
+   "texto": "cambian",
+   "ini": 25.412,
+   "fin": 25.795,
+   "tramo": 14
+  },
+  {
+   "texto": "lo",
+   "ini": 25.795,
+   "fin": 25.939,
+   "tramo": 14
+  },
+  {
+   "texto": "que",
+   "ini": 25.939,
+   "fin": 26.13,
+   "tramo": 14
+  },
+  {
+   "texto": "cobras.",
+   "ini": 26.13,
+   "fin": 26.465,
+   "tramo": 14
+  },
+  {
+   "texto": "Pásaselo",
+   "ini": 27.065,
+   "fin": 27.469,
+   "tramo": 15
+  },
+  {
+   "texto": "a",
+   "ini": 27.469,
+   "fin": 27.559,
+   "tramo": 15
+  },
+  {
+   "texto": "quien",
+   "ini": 27.559,
+   "fin": 27.829,
+   "tramo": 15
+  },
+  {
+   "texto": "te",
+   "ini": 27.829,
+   "fin": 27.963,
+   "tramo": 15
+  },
+  {
+   "texto": "lo",
+   "ini": 27.963,
+   "fin": 28.098,
+   "tramo": 15
+  },
+  {
+   "texto": "pregunte.",
+   "ini": 28.098,
+   "fin": 28.502,
+   "tramo": 15
+  }
+ ]
+}

@@ -1,0 +1,515 @@
+{
+ "duracion": 30.015,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 4.25
+  },
+  {
+   "ini": 4.25,
+   "fin": 8.131
+  },
+  {
+   "ini": 8.131,
+   "fin": 13.131
+  },
+  {
+   "ini": 13.131,
+   "fin": 16.65
+  },
+  {
+   "ini": 16.65,
+   "fin": 26.066
+  },
+  {
+   "ini": 26.066,
+   "fin": 27.798
+  },
+  {
+   "ini": 27.798,
+   "fin": 31.015
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Las",
+   "ini": 0.1,
+   "fin": 0.293,
+   "tramo": 0
+  },
+  {
+   "texto": "elecciones",
+   "ini": 0.293,
+   "fin": 0.824,
+   "tramo": 0
+  },
+  {
+   "texto": "pueden",
+   "ini": 0.824,
+   "fin": 1.162,
+   "tramo": 0
+  },
+  {
+   "texto": "parar",
+   "ini": 1.162,
+   "fin": 1.452,
+   "tramo": 0
+  },
+  {
+   "texto": "la",
+   "ini": 1.452,
+   "fin": 1.597,
+   "tramo": 0
+  },
+  {
+   "texto": "subida",
+   "ini": 1.597,
+   "fin": 1.935,
+   "tramo": 0
+  },
+  {
+   "texto": "de",
+   "ini": 1.935,
+   "fin": 2.08,
+   "tramo": 0
+  },
+  {
+   "texto": "las",
+   "ini": 2.08,
+   "fin": 2.273,
+   "tramo": 0
+  },
+  {
+   "texto": "pensiones",
+   "ini": 2.273,
+   "fin": 2.756,
+   "tramo": 0
+  },
+  {
+   "texto": "de",
+   "ini": 2.756,
+   "fin": 2.901,
+   "tramo": 0
+  },
+  {
+   "texto": "2027?",
+   "ini": 2.901,
+   "fin": 3.77,
+   "tramo": 0
+  },
+  {
+   "texto": "No.",
+   "ini": 4.37,
+   "fin": 4.588,
+   "tramo": 1
+  },
+  {
+   "texto": "La",
+   "ini": 5.188,
+   "fin": 5.332,
+   "tramo": 2
+  },
+  {
+   "texto": "subida",
+   "ini": 5.332,
+   "fin": 5.668,
+   "tramo": 2
+  },
+  {
+   "texto": "la",
+   "ini": 5.668,
+   "fin": 5.812,
+   "tramo": 2
+  },
+  {
+   "texto": "marca",
+   "ini": 5.812,
+   "fin": 6.1,
+   "tramo": 2
+  },
+  {
+   "texto": "la",
+   "ini": 6.1,
+   "fin": 6.244,
+   "tramo": 2
+  },
+  {
+   "texto": "ley,",
+   "ini": 6.244,
+   "fin": 6.436,
+   "tramo": 2
+  },
+  {
+   "texto": "gane",
+   "ini": 6.82,
+   "fin": 7.08,
+   "tramo": 3
+  },
+  {
+   "texto": "quien",
+   "ini": 7.08,
+   "fin": 7.392,
+   "tramo": 3
+  },
+  {
+   "texto": "gane.",
+   "ini": 7.392,
+   "fin": 7.651,
+   "tramo": 3
+  },
+  {
+   "texto": "Suben",
+   "ini": 8.251,
+   "fin": 8.648,
+   "tramo": 4
+  },
+  {
+   "texto": "lo",
+   "ini": 8.648,
+   "fin": 8.847,
+   "tramo": 4
+  },
+  {
+   "texto": "que",
+   "ini": 8.847,
+   "fin": 9.112,
+   "tramo": 4
+  },
+  {
+   "texto": "haya",
+   "ini": 9.112,
+   "fin": 9.443,
+   "tramo": 4
+  },
+  {
+   "texto": "subido",
+   "ini": 9.443,
+   "fin": 9.906,
+   "tramo": 4
+  },
+  {
+   "texto": "de",
+   "ini": 9.906,
+   "fin": 10.105,
+   "tramo": 4
+  },
+  {
+   "texto": "media",
+   "ini": 10.105,
+   "fin": 10.502,
+   "tramo": 4
+  },
+  {
+   "texto": "el",
+   "ini": 10.502,
+   "fin": 10.7,
+   "tramo": 4
+  },
+  {
+   "texto": "IPC,",
+   "ini": 10.7,
+   "fin": 10.965,
+   "tramo": 4
+  },
+  {
+   "texto": "de",
+   "ini": 11.46,
+   "fin": 11.603,
+   "tramo": 5
+  },
+  {
+   "texto": "diciembre",
+   "ini": 11.603,
+   "fin": 12.08,
+   "tramo": 5
+  },
+  {
+   "texto": "a",
+   "ini": 12.08,
+   "fin": 12.175,
+   "tramo": 5
+  },
+  {
+   "texto": "noviembre.",
+   "ini": 12.175,
+   "fin": 12.651,
+   "tramo": 5
+  },
+  {
+   "texto": "Lo",
+   "ini": 13.251,
+   "fin": 13.417,
+   "tramo": 6
+  },
+  {
+   "texto": "que",
+   "ini": 13.417,
+   "fin": 13.637,
+   "tramo": 6
+  },
+  {
+   "texto": "sí",
+   "ini": 13.637,
+   "fin": 13.802,
+   "tramo": 6
+  },
+  {
+   "texto": "puede",
+   "ini": 13.802,
+   "fin": 14.132,
+   "tramo": 6
+  },
+  {
+   "texto": "pasar",
+   "ini": 14.132,
+   "fin": 14.463,
+   "tramo": 6
+  },
+  {
+   "texto": "es",
+   "ini": 14.463,
+   "fin": 14.628,
+   "tramo": 6
+  },
+  {
+   "texto": "que",
+   "ini": 14.628,
+   "fin": 14.848,
+   "tramo": 6
+  },
+  {
+   "texto": "el",
+   "ini": 14.848,
+   "fin": 15.013,
+   "tramo": 6
+  },
+  {
+   "texto": "decreto",
+   "ini": 15.013,
+   "fin": 15.454,
+   "tramo": 6
+  },
+  {
+   "texto": "llegue",
+   "ini": 15.454,
+   "fin": 15.839,
+   "tramo": 6
+  },
+  {
+   "texto": "tarde.",
+   "ini": 15.839,
+   "fin": 16.17,
+   "tramo": 6
+  },
+  {
+   "texto": "En",
+   "ini": 16.77,
+   "fin": 16.97,
+   "tramo": 7
+  },
+  {
+   "texto": "2020",
+   "ini": 16.97,
+   "fin": 17.838,
+   "tramo": 7
+  },
+  {
+   "texto": "se",
+   "ini": 17.838,
+   "fin": 18.038,
+   "tramo": 7
+  },
+  {
+   "texto": "aprobó",
+   "ini": 18.038,
+   "fin": 18.505,
+   "tramo": 7
+  },
+  {
+   "texto": "el",
+   "ini": 18.505,
+   "fin": 18.705,
+   "tramo": 7
+  },
+  {
+   "texto": "14",
+   "ini": 18.705,
+   "fin": 19.239,
+   "tramo": 7
+  },
+  {
+   "texto": "de",
+   "ini": 19.239,
+   "fin": 19.44,
+   "tramo": 7
+  },
+  {
+   "texto": "enero...",
+   "ini": 19.44,
+   "fin": 19.84,
+   "tramo": 7
+  },
+  {
+   "texto": "y",
+   "ini": 20.44,
+   "fin": 20.542,
+   "tramo": 8
+  },
+  {
+   "texto": "lo",
+   "ini": 20.542,
+   "fin": 20.695,
+   "tramo": 8
+  },
+  {
+   "texto": "de",
+   "ini": 20.695,
+   "fin": 20.848,
+   "tramo": 8
+  },
+  {
+   "texto": "enero",
+   "ini": 20.848,
+   "fin": 21.155,
+   "tramo": 8
+  },
+  {
+   "texto": "se",
+   "ini": 21.155,
+   "fin": 21.308,
+   "tramo": 8
+  },
+  {
+   "texto": "cobró",
+   "ini": 21.308,
+   "fin": 21.614,
+   "tramo": 8
+  },
+  {
+   "texto": "como",
+   "ini": 21.614,
+   "fin": 21.869,
+   "tramo": 8
+  },
+  {
+   "texto": "atrasos",
+   "ini": 21.869,
+   "fin": 22.278,
+   "tramo": 8
+  },
+  {
+   "texto": "en",
+   "ini": 22.278,
+   "fin": 22.431,
+   "tramo": 8
+  },
+  {
+   "texto": "febrero.",
+   "ini": 22.431,
+   "fin": 22.839,
+   "tramo": 8
+  },
+  {
+   "texto": "Pero",
+   "ini": 23.439,
+   "fin": 23.668,
+   "tramo": 9
+  },
+  {
+   "texto": "la",
+   "ini": 23.668,
+   "fin": 23.805,
+   "tramo": 9
+  },
+  {
+   "texto": "subida",
+   "ini": 23.805,
+   "fin": 24.124,
+   "tramo": 9
+  },
+  {
+   "texto": "contó",
+   "ini": 24.124,
+   "fin": 24.398,
+   "tramo": 9
+  },
+  {
+   "texto": "desde",
+   "ini": 24.398,
+   "fin": 24.672,
+   "tramo": 9
+  },
+  {
+   "texto": "el",
+   "ini": 24.672,
+   "fin": 24.809,
+   "tramo": 9
+  },
+  {
+   "texto": "primero",
+   "ini": 24.809,
+   "fin": 25.175,
+   "tramo": 9
+  },
+  {
+   "texto": "de",
+   "ini": 25.175,
+   "fin": 25.312,
+   "tramo": 9
+  },
+  {
+   "texto": "enero.",
+   "ini": 25.312,
+   "fin": 25.586,
+   "tramo": 9
+  },
+  {
+   "texto": "No",
+   "ini": 26.186,
+   "fin": 26.321,
+   "tramo": 10
+  },
+  {
+   "texto": "tienes",
+   "ini": 26.321,
+   "fin": 26.639,
+   "tramo": 10
+  },
+  {
+   "texto": "que",
+   "ini": 26.639,
+   "fin": 26.82,
+   "tramo": 10
+  },
+  {
+   "texto": "pedir",
+   "ini": 26.82,
+   "fin": 27.092,
+   "tramo": 10
+  },
+  {
+   "texto": "nada.",
+   "ini": 27.092,
+   "fin": 27.318,
+   "tramo": 10
+  },
+  {
+   "texto": "Guárdatelo",
+   "ini": 27.918,
+   "fin": 28.491,
+   "tramo": 11
+  },
+  {
+   "texto": "hasta",
+   "ini": 28.491,
+   "fin": 28.803,
+   "tramo": 11
+  },
+  {
+   "texto": "enero.",
+   "ini": 28.803,
+   "fin": 29.115,
+   "tramo": 11
+  }
+ ]
+}

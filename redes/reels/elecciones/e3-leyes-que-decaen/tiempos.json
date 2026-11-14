@@ -1,0 +1,637 @@
+{
+ "duracion": 39.792,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 5.815
+  },
+  {
+   "ini": 5.815,
+   "fin": 20.833
+  },
+  {
+   "ini": 20.833,
+   "fin": 24.637
+  },
+  {
+   "ini": 24.637,
+   "fin": 30.008
+  },
+  {
+   "ini": 30.008,
+   "fin": 36.248
+  },
+  {
+   "ini": 36.248,
+   "fin": 40.792
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Esperabas",
+   "ini": 0.1,
+   "fin": 0.694,
+   "tramo": 0
+  },
+  {
+   "texto": "jubilarte",
+   "ini": 0.694,
+   "fin": 1.287,
+   "tramo": 0
+  },
+  {
+   "texto": "antes",
+   "ini": 1.287,
+   "fin": 1.644,
+   "tramo": 0
+  },
+  {
+   "texto": "sin",
+   "ini": 1.644,
+   "fin": 1.881,
+   "tramo": 0
+  },
+  {
+   "texto": "recorte",
+   "ini": 1.881,
+   "fin": 2.356,
+   "tramo": 0
+  },
+  {
+   "texto": "con",
+   "ini": 2.356,
+   "fin": 2.593,
+   "tramo": 0
+  },
+  {
+   "texto": "40",
+   "ini": 2.593,
+   "fin": 3.128,
+   "tramo": 0
+  },
+  {
+   "texto": "años",
+   "ini": 3.128,
+   "fin": 3.425,
+   "tramo": 0
+  },
+  {
+   "texto": "cotizados?",
+   "ini": 3.425,
+   "fin": 4.018,
+   "tramo": 0
+  },
+  {
+   "texto": "Esa",
+   "ini": 4.618,
+   "fin": 4.853,
+   "tramo": 1
+  },
+  {
+   "texto": "ley",
+   "ini": 4.853,
+   "fin": 5.089,
+   "tramo": 1
+  },
+  {
+   "texto": "decae.",
+   "ini": 5.089,
+   "fin": 5.441,
+   "tramo": 1
+  },
+  {
+   "texto": "Estaba",
+   "ini": 5.935,
+   "fin": 6.337,
+   "tramo": 2
+  },
+  {
+   "texto": "en",
+   "ini": 6.337,
+   "fin": 6.51,
+   "tramo": 2
+  },
+  {
+   "texto": "el",
+   "ini": 6.51,
+   "fin": 6.683,
+   "tramo": 2
+  },
+  {
+   "texto": "Congreso,",
+   "ini": 6.683,
+   "fin": 7.2,
+   "tramo": 2
+  },
+  {
+   "texto": "en",
+   "ini": 7.2,
+   "fin": 7.373,
+   "tramo": 2
+  },
+  {
+   "texto": "enmiendas.",
+   "ini": 7.373,
+   "fin": 7.948,
+   "tramo": 2
+  },
+  {
+   "texto": "Con",
+   "ini": 8.548,
+   "fin": 8.741,
+   "tramo": 3
+  },
+  {
+   "texto": "las",
+   "ini": 8.741,
+   "fin": 8.934,
+   "tramo": 3
+  },
+  {
+   "texto": "Cortes",
+   "ini": 8.934,
+   "fin": 9.271,
+   "tramo": 3
+  },
+  {
+   "texto": "disueltas,",
+   "ini": 9.271,
+   "fin": 9.754,
+   "tramo": 3
+  },
+  {
+   "texto": "se",
+   "ini": 10.078,
+   "fin": 10.213,
+   "tramo": 4
+  },
+  {
+   "texto": "queda",
+   "ini": 10.213,
+   "fin": 10.482,
+   "tramo": 4
+  },
+  {
+   "texto": "por",
+   "ini": 10.482,
+   "fin": 10.662,
+   "tramo": 4
+  },
+  {
+   "texto": "el",
+   "ini": 10.662,
+   "fin": 10.797,
+   "tramo": 4
+  },
+  {
+   "texto": "camino.",
+   "ini": 10.797,
+   "fin": 11.112,
+   "tramo": 4
+  },
+  {
+   "texto": "Para",
+   "ini": 11.712,
+   "fin": 11.987,
+   "tramo": 5
+  },
+  {
+   "texto": "salir",
+   "ini": 11.987,
+   "fin": 12.318,
+   "tramo": 5
+  },
+  {
+   "texto": "adelante,",
+   "ini": 12.318,
+   "fin": 12.814,
+   "tramo": 5
+  },
+  {
+   "texto": "alguien",
+   "ini": 13.238,
+   "fin": 13.672,
+   "tramo": 6
+  },
+  {
+   "texto": "tendrá",
+   "ini": 13.672,
+   "fin": 14.052,
+   "tramo": 6
+  },
+  {
+   "texto": "que",
+   "ini": 14.052,
+   "fin": 14.269,
+   "tramo": 6
+  },
+  {
+   "texto": "presentarla",
+   "ini": 14.269,
+   "fin": 14.92,
+   "tramo": 6
+  },
+  {
+   "texto": "otra",
+   "ini": 14.92,
+   "fin": 15.191,
+   "tramo": 6
+  },
+  {
+   "texto": "vez,",
+   "ini": 15.191,
+   "fin": 15.409,
+   "tramo": 6
+  },
+  {
+   "texto": "desde",
+   "ini": 15.905,
+   "fin": 16.317,
+   "tramo": 7
+  },
+  {
+   "texto": "cero,",
+   "ini": 16.317,
+   "fin": 16.661,
+   "tramo": 7
+  },
+  {
+   "texto": "en",
+   "ini": 16.891,
+   "fin": 17.058,
+   "tramo": 8
+  },
+  {
+   "texto": "la",
+   "ini": 17.058,
+   "fin": 17.226,
+   "tramo": 8
+  },
+  {
+   "texto": "nueva",
+   "ini": 17.226,
+   "fin": 17.56,
+   "tramo": 8
+  },
+  {
+   "texto": "legislatura,",
+   "ini": 17.56,
+   "fin": 18.23,
+   "tramo": 8
+  },
+  {
+   "texto": "a",
+   "ini": 18.435,
+   "fin": 18.538,
+   "tramo": 9
+  },
+  {
+   "texto": "partir",
+   "ini": 18.538,
+   "fin": 18.901,
+   "tramo": 9
+  },
+  {
+   "texto": "del",
+   "ini": 18.901,
+   "fin": 19.109,
+   "tramo": 9
+  },
+  {
+   "texto": "23",
+   "ini": 19.109,
+   "fin": 19.679,
+   "tramo": 9
+  },
+  {
+   "texto": "de",
+   "ini": 19.679,
+   "fin": 19.834,
+   "tramo": 9
+  },
+  {
+   "texto": "diciembre.",
+   "ini": 19.834,
+   "fin": 20.353,
+   "tramo": 9
+  },
+  {
+   "texto": "Mientras",
+   "ini": 20.953,
+   "fin": 21.428,
+   "tramo": 10
+  },
+  {
+   "texto": "tanto,",
+   "ini": 21.428,
+   "fin": 21.745,
+   "tramo": 10
+  },
+  {
+   "texto": "se",
+   "ini": 22.061,
+   "fin": 22.22,
+   "tramo": 11
+  },
+  {
+   "texto": "aplican",
+   "ini": 22.22,
+   "fin": 22.643,
+   "tramo": 11
+  },
+  {
+   "texto": "los",
+   "ini": 22.643,
+   "fin": 22.854,
+   "tramo": 11
+  },
+  {
+   "texto": "recortes",
+   "ini": 22.854,
+   "fin": 23.329,
+   "tramo": 11
+  },
+  {
+   "texto": "de",
+   "ini": 23.329,
+   "fin": 23.488,
+   "tramo": 11
+  },
+  {
+   "texto": "la",
+   "ini": 23.488,
+   "fin": 23.647,
+   "tramo": 11
+  },
+  {
+   "texto": "ley",
+   "ini": 23.647,
+   "fin": 23.858,
+   "tramo": 11
+  },
+  {
+   "texto": "actual.",
+   "ini": 23.858,
+   "fin": 24.228,
+   "tramo": 11
+  },
+  {
+   "texto": "También",
+   "ini": 24.757,
+   "fin": 25.191,
+   "tramo": 12
+  },
+  {
+   "texto": "decae",
+   "ini": 25.191,
+   "fin": 25.517,
+   "tramo": 12
+  },
+  {
+   "texto": "la",
+   "ini": 25.517,
+   "fin": 25.68,
+   "tramo": 12
+  },
+  {
+   "texto": "Ley",
+   "ini": 25.68,
+   "fin": 25.897,
+   "tramo": 12
+  },
+  {
+   "texto": "de",
+   "ini": 25.897,
+   "fin": 26.059,
+   "tramo": 12
+  },
+  {
+   "texto": "Familias,",
+   "ini": 26.059,
+   "fin": 26.548,
+   "tramo": 12
+  },
+  {
+   "texto": "con",
+   "ini": 26.984,
+   "fin": 27.187,
+   "tramo": 13
+  },
+  {
+   "texto": "los",
+   "ini": 27.187,
+   "fin": 27.391,
+   "tramo": 13
+  },
+  {
+   "texto": "nuevos",
+   "ini": 27.391,
+   "fin": 27.747,
+   "tramo": 13
+  },
+  {
+   "texto": "permisos",
+   "ini": 27.747,
+   "fin": 28.205,
+   "tramo": 13
+  },
+  {
+   "texto": "para",
+   "ini": 28.205,
+   "fin": 28.459,
+   "tramo": 13
+  },
+  {
+   "texto": "cuidar",
+   "ini": 28.459,
+   "fin": 28.815,
+   "tramo": 13
+  },
+  {
+   "texto": "de",
+   "ini": 28.815,
+   "fin": 28.968,
+   "tramo": 13
+  },
+  {
+   "texto": "familiares.",
+   "ini": 28.968,
+   "fin": 29.528,
+   "tramo": 13
+  },
+  {
+   "texto": "Lo",
+   "ini": 30.128,
+   "fin": 30.288,
+   "tramo": 14
+  },
+  {
+   "texto": "que",
+   "ini": 30.288,
+   "fin": 30.501,
+   "tramo": 14
+  },
+  {
+   "texto": "ya",
+   "ini": 30.501,
+   "fin": 30.661,
+   "tramo": 14
+  },
+  {
+   "texto": "está",
+   "ini": 30.661,
+   "fin": 30.928,
+   "tramo": 14
+  },
+  {
+   "texto": "en",
+   "ini": 30.928,
+   "fin": 31.089,
+   "tramo": 14
+  },
+  {
+   "texto": "el",
+   "ini": 31.089,
+   "fin": 31.249,
+   "tramo": 14
+  },
+  {
+   "texto": "BOE",
+   "ini": 31.249,
+   "fin": 31.462,
+   "tramo": 14
+  },
+  {
+   "texto": "sigue",
+   "ini": 31.462,
+   "fin": 31.783,
+   "tramo": 14
+  },
+  {
+   "texto": "en",
+   "ini": 31.783,
+   "fin": 31.943,
+   "tramo": 14
+  },
+  {
+   "texto": "vigor:",
+   "ini": 31.943,
+   "fin": 32.263,
+   "tramo": 14
+  },
+  {
+   "texto": "la",
+   "ini": 32.863,
+   "fin": 33.028,
+   "tramo": 15
+  },
+  {
+   "texto": "jubilación",
+   "ini": 33.028,
+   "fin": 33.631,
+   "tramo": 15
+  },
+  {
+   "texto": "flexible",
+   "ini": 33.631,
+   "fin": 34.124,
+   "tramo": 15
+  },
+  {
+   "texto": "nueva",
+   "ini": 34.124,
+   "fin": 34.453,
+   "tramo": 15
+  },
+  {
+   "texto": "o",
+   "ini": 34.453,
+   "fin": 34.562,
+   "tramo": 15
+  },
+  {
+   "texto": "la",
+   "ini": 34.562,
+   "fin": 34.727,
+   "tramo": 15
+  },
+  {
+   "texto": "subida",
+   "ini": 34.727,
+   "fin": 35.111,
+   "tramo": 15
+  },
+  {
+   "texto": "de",
+   "ini": 35.111,
+   "fin": 35.275,
+   "tramo": 15
+  },
+  {
+   "texto": "este",
+   "ini": 35.275,
+   "fin": 35.549,
+   "tramo": 15
+  },
+  {
+   "texto": "año.",
+   "ini": 35.549,
+   "fin": 35.768,
+   "tramo": 15
+  },
+  {
+   "texto": "Guárdatelo",
+   "ini": 36.368,
+   "fin": 36.873,
+   "tramo": 16
+  },
+  {
+   "texto": "y",
+   "ini": 36.873,
+   "fin": 36.965,
+   "tramo": 16
+  },
+  {
+   "texto": "pásaselo",
+   "ini": 36.965,
+   "fin": 37.378,
+   "tramo": 16
+  },
+  {
+   "texto": "a",
+   "ini": 37.378,
+   "fin": 37.47,
+   "tramo": 16
+  },
+  {
+   "texto": "quien",
+   "ini": 37.47,
+   "fin": 37.745,
+   "tramo": 16
+  },
+  {
+   "texto": "estaba",
+   "ini": 37.745,
+   "fin": 38.066,
+   "tramo": 16
+  },
+  {
+   "texto": "esperando",
+   "ini": 38.066,
+   "fin": 38.525,
+   "tramo": 16
+  },
+  {
+   "texto": "esa",
+   "ini": 38.525,
+   "fin": 38.709,
+   "tramo": 16
+  },
+  {
+   "texto": "ley.",
+   "ini": 38.709,
+   "fin": 38.892,
+   "tramo": 16
+  }
+ ]
+}

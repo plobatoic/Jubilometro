@@ -52,7 +52,7 @@ Un consejo: pide el paro en los 15 días hábiles después del despido. No lo de
       animacion: { set: "salon", camara: { desde: { pos: [-0.8, 3.1, 11.4], mira: [0.3, 3.0, -1] }, hasta: { pos: [-0.5, 3.0, 10.4], mira: [0.4, 2.95, -1] } }, actores: { luis: { pos: [-0.4, 0.5], giro: 28, pose: "piensa", cara: "neutra", acciones: [{ en: "desde los 63", pose: "senalaArriba", cara: "contenta" }, { en: "con recorte", pose: "encoge", cara: "preocupada" }] } }, atrezo: [{ tipo: "calendarioPared", pos: [1.55, 2.25, -3.08], de: ["EN 2027", "63", "#3d86e0"], a: ["38,5 AÑOS", "61", "#1f9d6b"], en: "desde los 61" }] },
       html: `
         <div class="paso" data-a="sube"><div class="num">3</div><div class="tx">Jubilación anticipada<small data-en="Si fue un ERE" data-a="sube">si fue un ERE o un despido objetivo, con 33 años cotizados</small></div></div>
-        <div class="tarjeta">
+        <div class="tarjeta" data-en="desde los 63" data-a="voltea">
           <div class="par" data-en="desde los 63" data-a="sube"><span>En 2027, desde</span><b>63 años</b></div>
           <div class="par" data-en="desde los 61" data-a="sube"><span>Con 38 años y 6 meses cotizados</span><b>61 años</b></div>
         </div>
