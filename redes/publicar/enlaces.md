@@ -12,3 +12,4 @@ Subidos el 14/11/2026 a la biblioteca de Orshot. Sirven para descargarlos y prog
 | 10 · bono social eléctrico | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_10_bono_social-JyF7LfB9BTd.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-10jpg-hpTolnJxWLa.jpg |
 | 12 · jubilación flexible | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_12_flexible-aCHanWyZMNQ.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-12jpg-SyV5bj3v7UG.jpg |
 | 14 · lagunas de cotización | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_14_lagunas-IMBmsC55k6o.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-14jpg-d4OLPDT46ox.jpg |
+| 16 · pensión bruta y neta | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_16_bruta_y_neta-q2jtImRtgpu.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-16jpg-dUnZ0Cbt1tI.jpg |

@@ -1,0 +1,541 @@
+{
+ "duracion": 42.245,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 6.023
+  },
+  {
+   "ini": 6.023,
+   "fin": 13.183
+  },
+  {
+   "ini": 13.183,
+   "fin": 22.689
+  },
+  {
+   "ini": 22.689,
+   "fin": 34.237
+  },
+  {
+   "ini": 34.237,
+   "fin": 38.58
+  },
+  {
+   "ini": 38.58,
+   "fin": 43.245
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Tu",
+   "ini": 0.1,
+   "fin": 0.245,
+   "tramo": 0
+  },
+  {
+   "texto": "pensión",
+   "ini": 0.245,
+   "fin": 0.632,
+   "tramo": 0
+  },
+  {
+   "texto": "de",
+   "ini": 0.632,
+   "fin": 0.777,
+   "tramo": 0
+  },
+  {
+   "texto": "1.500",
+   "ini": 0.777,
+   "fin": 1.453,
+   "tramo": 0
+  },
+  {
+   "texto": "euros",
+   "ini": 1.453,
+   "fin": 1.744,
+   "tramo": 0
+  },
+  {
+   "texto": "te",
+   "ini": 1.744,
+   "fin": 1.889,
+   "tramo": 0
+  },
+  {
+   "texto": "llega",
+   "ini": 1.889,
+   "fin": 2.179,
+   "tramo": 0
+  },
+  {
+   "texto": "entera",
+   "ini": 2.179,
+   "fin": 2.517,
+   "tramo": 0
+  },
+  {
+   "texto": "al",
+   "ini": 2.517,
+   "fin": 2.662,
+   "tramo": 0
+  },
+  {
+   "texto": "banco?",
+   "ini": 2.662,
+   "fin": 2.952,
+   "tramo": 0
+  },
+  {
+   "texto": "No.",
+   "ini": 3.552,
+   "fin": 3.835,
+   "tramo": 1
+  },
+  {
+   "texto": "La",
+   "ini": 4.435,
+   "fin": 4.612,
+   "tramo": 2
+  },
+  {
+   "texto": "que",
+   "ini": 4.612,
+   "fin": 4.847,
+   "tramo": 2
+  },
+  {
+   "texto": "te",
+   "ini": 4.847,
+   "fin": 5.024,
+   "tramo": 2
+  },
+  {
+   "texto": "reconocen",
+   "ini": 5.024,
+   "fin": 5.613,
+   "tramo": 2
+  },
+  {
+   "texto": "es",
+   "ini": 5.613,
+   "fin": 5.789,
+   "tramo": 2
+  },
+  {
+   "texto": "bruta.",
+   "ini": 5.789,
+   "fin": 6.143,
+   "tramo": 2
+  },
+  {
+   "texto": "Los",
+   "ini": 6.143,
+   "fin": 6.378,
+   "tramo": 2
+  },
+  {
+   "texto": "pensionistas",
+   "ini": 6.378,
+   "fin": 7.143,
+   "tramo": 2
+  },
+  {
+   "texto": "no",
+   "ini": 7.143,
+   "fin": 7.32,
+   "tramo": 2
+  },
+  {
+   "texto": "pagan",
+   "ini": 7.32,
+   "fin": 7.673,
+   "tramo": 2
+  },
+  {
+   "texto": "Seguridad",
+   "ini": 7.673,
+   "fin": 8.262,
+   "tramo": 2
+  },
+  {
+   "texto": "Social.",
+   "ini": 8.262,
+   "fin": 8.674,
+   "tramo": 2
+  },
+  {
+   "texto": "Lo",
+   "ini": 9.274,
+   "fin": 9.486,
+   "tramo": 3
+  },
+  {
+   "texto": "único",
+   "ini": 9.486,
+   "fin": 9.91,
+   "tramo": 3
+  },
+  {
+   "texto": "que",
+   "ini": 9.91,
+   "fin": 10.193,
+   "tramo": 3
+  },
+  {
+   "texto": "se",
+   "ini": 10.193,
+   "fin": 10.405,
+   "tramo": 3
+  },
+  {
+   "texto": "descuenta",
+   "ini": 10.405,
+   "fin": 11.111,
+   "tramo": 3
+  },
+  {
+   "texto": "es",
+   "ini": 11.111,
+   "fin": 11.323,
+   "tramo": 3
+  },
+  {
+   "texto": "la",
+   "ini": 11.323,
+   "fin": 11.535,
+   "tramo": 3
+  },
+  {
+   "texto": "retención",
+   "ini": 11.535,
+   "fin": 12.241,
+   "tramo": 3
+  },
+  {
+   "texto": "de",
+   "ini": 12.241,
+   "fin": 12.453,
+   "tramo": 3
+  },
+  {
+   "texto": "IRPF.",
+   "ini": 12.453,
+   "fin": 12.807,
+   "tramo": 3
+  },
+  {
+   "texto": "Si",
+   "ini": 13.303,
+   "fin": 13.497,
+   "tramo": 4
+  },
+  {
+   "texto": "cobras",
+   "ini": 13.497,
+   "fin": 13.949,
+   "tramo": 4
+  },
+  {
+   "texto": "menos",
+   "ini": 13.949,
+   "fin": 14.337,
+   "tramo": 4
+  },
+  {
+   "texto": "de",
+   "ini": 14.337,
+   "fin": 14.531,
+   "tramo": 4
+  },
+  {
+   "texto": "16.476",
+   "ini": 14.531,
+   "fin": 16.986,
+   "tramo": 4
+  },
+  {
+   "texto": "euros",
+   "ini": 16.986,
+   "fin": 17.374,
+   "tramo": 4
+  },
+  {
+   "texto": "brutos",
+   "ini": 17.374,
+   "fin": 17.826,
+   "tramo": 4
+  },
+  {
+   "texto": "al",
+   "ini": 17.826,
+   "fin": 18.02,
+   "tramo": 4
+  },
+  {
+   "texto": "año,",
+   "ini": 18.02,
+   "fin": 18.278,
+   "tramo": 4
+  },
+  {
+   "texto": "sin",
+   "ini": 18.507,
+   "fin": 19.034,
+   "tramo": 5
+  },
+  {
+   "texto": "hijos",
+   "ini": 19.034,
+   "fin": 19.823,
+   "tramo": 5
+  },
+  {
+   "texto": "a",
+   "ini": 19.823,
+   "fin": 20.086,
+   "tramo": 5
+  },
+  {
+   "texto": "cargo,",
+   "ini": 20.086,
+   "fin": 20.876,
+   "tramo": 5
+  },
+  {
+   "texto": "no",
+   "ini": 21.476,
+   "fin": 21.634,
+   "tramo": 6
+  },
+  {
+   "texto": "te",
+   "ini": 21.634,
+   "fin": 21.793,
+   "tramo": 6
+  },
+  {
+   "texto": "retienen",
+   "ini": 21.793,
+   "fin": 22.267,
+   "tramo": 6
+  },
+  {
+   "texto": "nada.",
+   "ini": 22.267,
+   "fin": 22.531,
+   "tramo": 6
+  },
+  {
+   "texto": "Pongamos",
+   "ini": 22.809,
+   "fin": 23.428,
+   "tramo": 7
+  },
+  {
+   "texto": "que",
+   "ini": 23.428,
+   "fin": 23.703,
+   "tramo": 7
+  },
+  {
+   "texto": "Rosa,",
+   "ini": 23.703,
+   "fin": 24.047,
+   "tramo": 7
+  },
+  {
+   "texto": "de",
+   "ini": 24.344,
+   "fin": 24.603,
+   "tramo": 8
+  },
+  {
+   "texto": "68",
+   "ini": 24.603,
+   "fin": 25.727,
+   "tramo": 8
+  },
+  {
+   "texto": "años,",
+   "ini": 25.727,
+   "fin": 26.159,
+   "tramo": 8
+  },
+  {
+   "texto": "cobra",
+   "ini": 26.759,
+   "fin": 27.163,
+   "tramo": 9
+  },
+  {
+   "texto": "1.500",
+   "ini": 27.163,
+   "fin": 28.108,
+   "tramo": 9
+  },
+  {
+   "texto": "euros",
+   "ini": 28.108,
+   "fin": 28.512,
+   "tramo": 9
+  },
+  {
+   "texto": "brutos.",
+   "ini": 28.512,
+   "fin": 28.985,
+   "tramo": 9
+  },
+  {
+   "texto": "Le",
+   "ini": 29.274,
+   "fin": 29.54,
+   "tramo": 10
+  },
+  {
+   "texto": "retienen",
+   "ini": 29.54,
+   "fin": 30.338,
+   "tramo": 10
+  },
+  {
+   "texto": "138,90",
+   "ini": 30.861,
+   "fin": 31.911,
+   "tramo": 11
+  },
+  {
+   "texto": "euros",
+   "ini": 31.911,
+   "fin": 32.128,
+   "tramo": 11
+  },
+  {
+   "texto": "y",
+   "ini": 32.128,
+   "fin": 32.2,
+   "tramo": 11
+  },
+  {
+   "texto": "le",
+   "ini": 32.2,
+   "fin": 32.309,
+   "tramo": 11
+  },
+  {
+   "texto": "llegan",
+   "ini": 32.309,
+   "fin": 32.562,
+   "tramo": 11
+  },
+  {
+   "texto": "1.361,10.",
+   "ini": 32.562,
+   "fin": 33.757,
+   "tramo": 11
+  },
+  {
+   "texto": "Ojo:",
+   "ini": 34.357,
+   "fin": 34.657,
+   "tramo": 12
+  },
+  {
+   "texto": "la",
+   "ini": 35.062,
+   "fin": 35.219,
+   "tramo": 13
+  },
+  {
+   "texto": "retención",
+   "ini": 35.219,
+   "fin": 35.74,
+   "tramo": 13
+  },
+  {
+   "texto": "es",
+   "ini": 35.74,
+   "fin": 35.896,
+   "tramo": 13
+  },
+  {
+   "texto": "un",
+   "ini": 35.896,
+   "fin": 36.053,
+   "tramo": 13
+  },
+  {
+   "texto": "adelanto.",
+   "ini": 36.053,
+   "fin": 36.522,
+   "tramo": 13
+  },
+  {
+   "texto": "Se",
+   "ini": 37.122,
+   "fin": 37.255,
+   "tramo": 14
+  },
+  {
+   "texto": "ajusta",
+   "ini": 37.255,
+   "fin": 37.566,
+   "tramo": 14
+  },
+  {
+   "texto": "en",
+   "ini": 37.566,
+   "fin": 37.7,
+   "tramo": 14
+  },
+  {
+   "texto": "la",
+   "ini": 37.7,
+   "fin": 37.833,
+   "tramo": 14
+  },
+  {
+   "texto": "renta.",
+   "ini": 37.833,
+   "fin": 38.1,
+   "tramo": 14
+  },
+  {
+   "texto": "Guárdatelo,",
+   "ini": 38.7,
+   "fin": 39.399,
+   "tramo": 15
+  },
+  {
+   "texto": "o",
+   "ini": 39.754,
+   "fin": 39.867,
+   "tramo": 16
+  },
+  {
+   "texto": "pásaselo",
+   "ini": 39.867,
+   "fin": 40.379,
+   "tramo": 16
+  },
+  {
+   "texto": "a",
+   "ini": 40.379,
+   "fin": 40.493,
+   "tramo": 16
+  },
+  {
+   "texto": "un",
+   "ini": 40.493,
+   "fin": 40.663,
+   "tramo": 16
+  },
+  {
+   "texto": "pensionista.",
+   "ini": 40.663,
+   "fin": 41.345,
+   "tramo": 16
+  }
+ ]
+}
