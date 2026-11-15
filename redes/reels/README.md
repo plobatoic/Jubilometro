@@ -166,3 +166,10 @@ Todo lo que lleva `en` se sincroniza con la frase del guion, igual que los texto
 - La previa (`--previa`) junta el 3D y los textos de cada escena en `.previa/`.
 - El render completo tarda unos 15 minutos por reel de 30 s: unos 6 del 3D y unos 9 de la capa de textos.
 - El 3D se dibuja con SwiftShader, sin tarjeta gráfica.
+
+## Lo que funciona (datos del 1 al 15/11/2026)
+
+- **Cifra en euros en el gancho.** El reel «Jubilarte 2 años antes te puede costar 60.000 €» llegó a 112 personas en Instagram y tuvo 419 reproducciones en Facebook, entre 4 y 80 veces más que los demás. Los temas sin cifra en el gancho (auxilio, SOVI) apenas llegaron a nadie.
+- **Los primeros 3 segundos lo deciden.** El visionado medio fue de 11 s en Instagram y 5 s en Facebook. La cifra va en pantalla y en la voz desde el primer fotograma, sin presentaciones.
+- **Duración: unos 30 s** (guion de 400 a 460 caracteres). Mejor un reel corto con un solo dato que uno largo con cinco.
+- **Facebook es la red que más empuja los reels** a gente que no sigue la página.
