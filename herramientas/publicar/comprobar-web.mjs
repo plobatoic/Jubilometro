@@ -12,10 +12,14 @@ const entradas = JSON.parse(readFileSync(join(RAIZ, 'publicacion', 'wordpress-en
 const articulos = new Map(listarArticulos().map(leerArticulo).map((a) => [a.datos.url, a.datos]));
 
 // El túnel de salida corta conexiones de vez en cuando: se reintenta.
+// Un 403 suele ser la protección de bots de Hostinger («Bot Verification»), no una página rota:
+// se repite hasta tres veces, con pausa, antes de darlo por bueno.
 async function pedir(url, opciones = {}) {
   for (let intento = 1; ; intento++) {
     try {
-      return await fetch(url, { redirect: 'manual', ...opciones });
+      const r = await fetch(url, { redirect: 'manual', ...opciones });
+      if (r.status === 403 && intento < 4) { await new Promise((ok) => setTimeout(ok, 8000 * intento)); continue; }
+      return r;
     } catch (e) {
       if (intento === 5) throw e;
       await new Promise((ok) => setTimeout(ok, 1500 * intento));
