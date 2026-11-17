@@ -549,6 +549,18 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Sección «Elecciones 2026» con los programas de los partidos (17/11/2026, tema 2.11.36)
+
+Se cumple el criterio del titular (13/11): los cuatro principales (PP, PSOE, Vox y Frente Amplio, lista confirmada el 15/11) ya tienen el programa completo en su web y trata las pensiones. Frente Amplio colgó el PDF (151 páginas) entre el 16 y el 17/11; el PSOE, el 15/11. Hecho según la decisión del 22/10:
+
+- **Categoría nueva** «Elecciones 2026» (slug `elecciones`, id 11 en WordPress) en `articulos.mjs` y en `data.json` (temas y cats, icono `list`), y **página de sección** /elecciones/ (id 1350, copiada de la plantilla de IMSERSO, con la urna CC0 de la guía de elecciones) con su texto en `paginas/portadas/elecciones.md` subido con `subir-portadas`.
+- **Siete guías nuevas**: la comparativa /elecciones/propuestas-pensiones-partidos/ (tabla y ocho preguntas: subida/IPC, edad, mínimas, anticipada y 40 años, financiación, IRPF, viudedad, dependencia) y una por partido con la misma estructura (PP, PSOE, Vox, Frente Amplio, ERC y PNV), generadas con un mismo guion para que tengan la misma extensión. Citas literales cortas con la página del PDF; las 59 citas se comprobaron de forma automática contra el texto de cada PDF (`verificacion-fuentes.md` de cada guía). Sin valoraciones. Junts y EH Bildu: sin programa en su web a 17/11 (se añadirán si lo publican).
+- **Guía de elecciones** (/cuanto-cobrare/elecciones-y-pensiones/) actualizada con el enlace a la comparativa y a cada partido.
+- **Enlaces cortos** `programas` y `programa-pp`, `-psoe`, `-vox`, `-frente-amplio`, `-erc`, `-pnv`. El corto antiguo `elecciones` choca con la sección: pasa a `cortos_retirados` (los enlaces ya publicados con red, como /elecciones/x o /elecciones/wa, siguen llevando a la guía de elecciones; /elecciones/ sola es la sección). Cambio en `inc/difusion.php`.
+- **Portada**: el aviso `jm-aviso` ahora enlaza la comparativa; «Ahora mismo» lleva a «Pensiones en los programas». Sección añadida al menú «Guías», a la barra de temas, a la lista de temas y a los dos pies.
+- Comprobado: `npm test` (25 bien), `npm run comprobar` sin fallos, las 9 páginas dan 200 en vivo con un solo H1, enlaces cortos bien. La prueba de accesibilidad con axe no se pudo pasar (no se permitió descargar la herramienta); las páginas usan las mismas plantillas que el resto, ya revisadas con axe.
+- **Pausa de guías nuevas del 5/11: terminada** (era hasta tener los programas).
+
 ### Criterio para las guías de los programas y aviso de portada (13/11/2026, tema 2.11.35)
 
 El titular fija que las guías de los programas electorales se suben solo cuando los principales partidos (PP, PSOE, Vox y Frente Amplio, a confirmar) cuelguen en su web el programa completo y este trate las pensiones y la jubilación. Aviso de portada ajustado: «lo publicaremos cuando estén los programas oficiales». Tarea diaria de los programas cambiada con ese criterio.

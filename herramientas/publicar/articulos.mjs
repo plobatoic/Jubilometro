@@ -34,6 +34,7 @@ export const CATEGORIAS = {
   'Dependencia': { url: '/dependencia/', slug: 'dependencia' },
   'Dinero': { url: '/dinero/', slug: 'dinero' },
   'IMSERSO': { url: '/imserso/', slug: 'imserso' },
+  'Elecciones 2026': { url: '/elecciones/', slug: 'elecciones' },
   'Calculadoras': { url: '/calculadoras/', slug: 'calculadoras' },
 };
 

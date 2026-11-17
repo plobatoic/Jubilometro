@@ -30,6 +30,10 @@ function jm_cortos_redes() {
 function jm_corto_destino( $codigo, $red = '' ) {
 	$cortos = jm_data( 'cortos' );
 	$redes  = jm_cortos_redes();
+	// Códigos que hoy son una sección (inc/data.json → "cortos_retirados"): /elecciones/ es la sección, pero
+	// los enlaces ya publicados con red (/elecciones/x, /in, /wa) siguen llevando a su guía de siempre
+	$retirados = (array) jm_data( 'cortos_retirados' );
+	if ( ! isset( $cortos[ $codigo ] ) && '' !== $red && isset( $retirados[ $codigo ] ) ) { $cortos[ $codigo ] = $retirados[ $codigo ]; }
 	if ( ! isset( $cortos[ $codigo ] ) || ( '' !== $red && ! isset( $redes[ $red ] ) ) ) { return ''; }
 	// Destino propio de una red (inc/data.json → "cortos_red"): jubilometro.com/web/ig lleva a /enlaces/
 	$por_red = (array) jm_data( 'cortos_red' );

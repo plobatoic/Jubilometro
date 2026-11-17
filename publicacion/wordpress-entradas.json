@@ -578,5 +578,33 @@
   "/viudedad/viudedad-y-jubilacion/": {
     "id": 417,
     "estado": "publish"
+  },
+  "/elecciones/programa-erc-pensiones/": {
+    "id": 1352,
+    "estado": "publish"
+  },
+  "/elecciones/programa-frente-amplio-pensiones/": {
+    "id": 1353,
+    "estado": "publish"
+  },
+  "/elecciones/programa-pnv-pensiones/": {
+    "id": 1354,
+    "estado": "publish"
+  },
+  "/elecciones/programa-pp-pensiones/": {
+    "id": 1355,
+    "estado": "publish"
+  },
+  "/elecciones/programa-psoe-pensiones/": {
+    "id": 1356,
+    "estado": "publish"
+  },
+  "/elecciones/programa-vox-pensiones/": {
+    "id": 1357,
+    "estado": "publish"
+  },
+  "/elecciones/propuestas-pensiones-partidos/": {
+    "id": 1358,
+    "estado": "publish"
   }
 }

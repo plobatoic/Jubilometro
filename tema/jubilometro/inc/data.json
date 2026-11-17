@@ -7,7 +7,8 @@
   "ayudas",
   "dependencia",
   "dinero",
-  "imserso"
+  "imserso",
+  "elecciones"
  ],
  "cats": {
   "jubilacion": {
@@ -57,6 +58,12 @@
    "desc": "Viajes, termalismo y servicios para mayores",
    "icon": "plane",
    "lead": "Los programas de turismo social y termalismo, quién puede participar y cómo conseguir plaza."
+  },
+  "elecciones": {
+   "name": "Elecciones 2026",
+   "desc": "Qué proponen los partidos sobre las pensiones",
+   "icon": "list",
+   "lead": "Lo que dicen sobre las pensiones los programas oficiales de los partidos para las elecciones generales del 29 de noviembre de 2026, con su página y sin valoraciones."
   }
  },
  "calcs": {
@@ -227,7 +234,6 @@
   "bruta-neta": "/cuanto-cobrare/pension-bruta-y-neta/",
   "15-anos": "/jubilacion/15-anos-cotizados/",
   "anticipada-voluntaria": "/jubilacion/anticipada-voluntaria/",
-  "elecciones": "/cuanto-cobrare/elecciones-y-pensiones/",
   "40-anos-cotizados": "/jubilacion/anticipada-40-anos-cotizados/",
   "calcular": "/calculadoras/",
   "como-trabajamos": "/metodologia/",
@@ -334,11 +340,21 @@
   "prejubilacion": "/jubilacion/prejubilacion/",
   "numero-ss": "/jubilacion/numero-seguridad-social/",
   "retornados": "/ayudas/emigrantes-retornados/",
-  "web": "/"
+  "web": "/",
+  "programas": "/elecciones/propuestas-pensiones-partidos/",
+  "programa-pp": "/elecciones/programa-pp-pensiones/",
+  "programa-psoe": "/elecciones/programa-psoe-pensiones/",
+  "programa-vox": "/elecciones/programa-vox-pensiones/",
+  "programa-frente-amplio": "/elecciones/programa-frente-amplio-pensiones/",
+  "programa-erc": "/elecciones/programa-erc-pensiones/",
+  "programa-pnv": "/elecciones/programa-pnv-pensiones/"
  },
  "fusionadas": {
   "/dinero/rescate-aportaciones-10-anos/": "/dinero/rescate-plan-pensiones/",
   "/incapacidad/total-cualificada/": "/incapacidad/incapacidad-total/",
   "/cuanto-cobrare/base-reguladora/": "/cuanto-cobrare/como-se-calcula-la-pension/"
+ },
+ "cortos_retirados": {
+  "elecciones": "/cuanto-cobrare/elecciones-y-pensiones/"
  }
 }

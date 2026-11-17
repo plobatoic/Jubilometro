@@ -19,10 +19,11 @@
   <wp:category><wp:term_id>102</wp:term_id><wp:category_nicename><![CDATA[cuanto-cobrare]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Cuánto cobraré]]></wp:cat_name></wp:category>
   <wp:category><wp:term_id>103</wp:term_id><wp:category_nicename><![CDATA[dependencia]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Dependencia]]></wp:cat_name></wp:category>
   <wp:category><wp:term_id>104</wp:term_id><wp:category_nicename><![CDATA[dinero]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Dinero]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>105</wp:term_id><wp:category_nicename><![CDATA[imserso]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[IMSERSO]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>106</wp:term_id><wp:category_nicename><![CDATA[incapacidad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Incapacidad]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>107</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
-  <wp:category><wp:term_id>108</wp:term_id><wp:category_nicename><![CDATA[viudedad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Viudedad]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>105</wp:term_id><wp:category_nicename><![CDATA[elecciones]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Elecciones 2026]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>106</wp:term_id><wp:category_nicename><![CDATA[imserso]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[IMSERSO]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>107</wp:term_id><wp:category_nicename><![CDATA[incapacidad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Incapacidad]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>108</wp:term_id><wp:category_nicename><![CDATA[jubilacion]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Jubilación]]></wp:cat_name></wp:category>
+  <wp:category><wp:term_id>109</wp:term_id><wp:category_nicename><![CDATA[viudedad]]></wp:category_nicename><wp:category_parent><![CDATA[]]></wp:category_parent><wp:cat_name><![CDATA[Viudedad]]></wp:cat_name></wp:category>
   <item>
     <title><![CDATA[Ayudas para mayores y pensionistas por comunidad autónoma en 2026: complementos a la pensión y servicios]]></title>
     <link>https://jubilometro.com/ayudas/ayudas-autonomicas/</link>
@@ -3168,7 +3169,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-11-13">13 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -3284,13 +3285,8 @@
 </ol>
 <p>Las dudas sobre tu caso las resuelve la Oficina del Censo Electoral de tu provincia.</p>
 <h2 id="que-proponen-los-partidos-sobre-las-pensiones">Qué proponen los partidos sobre las pensiones</h2>
-<p>Los partidos presentan sus candidaturas del 21 al 26 de octubre y suelen publicar sus programas antes de la campaña, que empieza el 13 de noviembre. <strong>A 23 de octubre de 2026, ninguno ha publicado todavía su programa para estas elecciones</strong> en su web oficial.</p>
-<p>Cuando estén publicados, prepararemos una comparativa con lo que dice cada uno sobre la subida de las pensiones, la edad de jubilación, las pensiones mínimas, la jubilación anticipada y la financiación del sistema. Estos son los criterios:</p>
-<ul>
-<li><strong>Solo documentos oficiales</strong>: el programa que publique cada partido en su web, con el enlace y la página. No recogemos frases de mítines ni de entrevistas, que cambian de un día a otro.</li>
-<li><strong>Todos con el mismo espacio</strong>: los partidos con grupo propio en el Congreso que acaba de disolverse que se presenten, en el mismo orden y con las mismas preguntas.</li>
-<li><strong>Sin valoraciones</strong>: contamos qué propone cada uno, y, si una propuesta cambia una ley, cuál y en qué; no si es buena o mala.</li>
-</ul>
+<p>PP, PSOE, Vox, Frente Amplio, ERC y PNV ya han publicado en sus webs sus programas para estas elecciones. Hemos leído lo que dice cada uno sobre la subida de las pensiones, la edad de jubilación, las pensiones mínimas, la jubilación anticipada, la financiación, el IRPF, la viudedad y la dependencia, con la cita y la página del PDF y sin valoraciones. Junts y EH Bildu no lo han publicado a 17 de noviembre.</p>
+<p>Lo tienes todo, en una tabla y punto por punto, en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>, y el detalle de cada uno en su guía: <a href="/elecciones/programa-pp-pensiones/">PP</a>, <a href="/elecciones/programa-psoe-pensiones/">PSOE</a>, <a href="/elecciones/programa-vox-pensiones/">Vox</a>, <a href="/elecciones/programa-frente-amplio-pensiones/">Frente Amplio</a>, <a href="/elecciones/programa-erc-pensiones/">ERC</a> y <a href="/elecciones/programa-pnv-pensiones/">PNV</a>.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="las-elecciones-pueden-parar-la-subida-de-las-pensiones-de-20">¿Las elecciones pueden parar la subida de las pensiones de 2027?</h3>
 <p>No. La subida la fija el artículo 58 de la Ley General de la Seguridad Social y tiene efectos desde el 1 de enero. Lo que puede retrasarse es el decreto que la aplica: en 2020 llegó el 14 de enero y lo de enero se pagó como atrasos en febrero.</p>
@@ -3318,6 +3314,7 @@
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
+<li>¿Qué propone cada partido sobre las pensiones? Lo comparamos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</li>
 <li>¿Cuánto subirá tu pensión en enero? Calcúlalo con la calculadora de la subida de las pensiones.</li>
 <li>¿Pensabas jubilarte con 40 años cotizados? Mira qué pasa ahora en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</li>
 <li>¿Cuándo llega la paga extra? Lo explicamos en <a href="/cuanto-cobrare/pagas-extra/">pagas extra de los pensionistas</a>.</li>
@@ -3325,13 +3322,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). No recoge opiniones políticas: solo lo que dicen las normas y los organismos oficiales. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 13 de noviembre de 2026, estimación de la subida con el IPC definitivo de octubre (3,4 % a 3,6 %; antes 3,3 % a 3,7 %). 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, los partidos ya han publicado sus programas: enlace a la comparativa y a la guía de cada uno. 13 de noviembre de 2026, estimación de la subida con el IPC definitivo de octubre (3,4 % a 3,6 %; antes 3,3 % a 3,7 %). 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las elecciones no paran la subida de 2027, que fija la ley con el IPC. Qué falta por aprobar, qué decae, la paga extra y cómo votar por correo.]]></excerpt:encoded>
     <wp:post_id>9016</wp:post_id>
-    <wp:post_date><![CDATA[2026-11-13 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-11-13 09:00:00]]></wp:post_date_gmt>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[elecciones-y-pensiones]]></wp:post_name>
@@ -12772,6 +12769,706 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
+    <title><![CDATA[Qué propone ERC sobre las pensiones en su programa para las elecciones del 29N]]></title>
+    <link>https://jubilometro.com/elecciones/programa-erc-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Esto es lo principal que dice sobre las pensiones el programa oficial de ERC para las elecciones del <strong>29 de noviembre de 2026</strong>:</p>
+<ul>
+<li><strong>Blindar la subida de las pensiones</strong> con la inflación (medida 106).</li>
+<li>Subirlas con el <strong>IPC de cada territorio</strong>, no con el de toda España (medida 107).</li>
+<li><strong>Jubilación anticipada sin recorte</strong> en profesiones penosas o peligrosas (medida 110).</li>
+<li>No habla de la edad de jubilación general, de las pensiones mínimas ni de la viudedad.</li>
+</ul>
+</aside>
+<h2 id="el-programa-de-erc-y-donde-habla-de-pensiones">El programa de ERC y dónde habla de pensiones</h2>
+<p>ERC ha publicado en su web (esquerrarepublicana.cat) su programa para estas elecciones, «Eleccions al Congrés 2026. Programa electoral»: un PDF de 48 páginas. Las pensiones están en el apartado «E. Treball digne i seguretat social garantida» (trabajo digno y seguridad social garantizada), medidas 103 a 117 (páginas 25 a 27 del PDF). La dependencia, en la medida 231 (página 41). El programa está en catalán: damos la cita original y su traducción.</p>
+<p>Contamos lo que dice el programa, con citas literales cortas y la página del PDF, sin valorarlo. Si no habla de un tema, lo decimos. Es la misma estructura que usamos con todos los partidos, para que puedas compararlos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</p>
+<h2 id="la-subida-de-las-pensiones">La subida de las pensiones</h2>
+<p>«Blindar la revaloració de les pensions per evitar la pèrdua de capacitat adquisitiva» (blindar la subida de las pensiones para que no pierdan poder adquisitivo), con «l’actualització de pensions públiques d’acord amb la inflació» (la actualización de las pensiones públicas con la inflación) (medida 106, página 26). Y «Revalorar les pensions d’acord amb l’IPC de cada territori» (subirlas con el IPC de cada territorio) (medida 107, página 26). Hoy el artículo 58 de la Ley General de la Seguridad Social usa el IPC de toda España. Cuánto subirán en 2027 con la ley actual lo explicamos en <a href="/cuanto-cobrare/revalorizacion-pensiones/">la subida de las pensiones en 2027</a>.</p>
+<h2 id="la-edad-de-jubilacion">La edad de jubilación</h2>
+<p>No propone cambiar la edad general. Sí jubilarse antes en algunas profesiones (lo vemos en «La jubilación anticipada»). La edad actual, en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación</a>.</p>
+<h2 id="las-pensiones-minimas-y-no-contributivas">Las pensiones mínimas y no contributivas</h2>
+<p>El programa no lo menciona. Las cuantías de 2026, en <a href="/cuanto-cobrare/pension-minima/">la pensión mínima</a>.</p>
+<h2 id="la-jubilacion-anticipada">La jubilación anticipada</h2>
+<p>«Garantir l’accés a la jubilació anticipada sense penalitzacions en la pensió» (garantizar la jubilación anticipada sin recorte en la pensión) a quienes trabajan en profesiones «especialment penosos, perillosos, tòxics o insalubres» (especialmente penosas, peligrosas, tóxicas o insalubres), con los conductores profesionales de mercancías y viajeros por carretera como ejemplo (medida 110, página 26). Sobre los 40 años cotizados, no dice nada. Cómo funciona hoy, en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</p>
+<h2 id="como-pagar-las-pensiones">Cómo pagar las pensiones</h2>
+<p>Reforzar la financiación «perquè els grans beneficis empresarials i les rendes del capital també contribueixin al sosteniment de la Seguretat Social» (para que los grandes beneficios de las empresas y las rentas del capital también contribuyan a sostener la Seguridad Social), y que Cataluña tenga «capacitat per decidir» (capacidad para decidir) sobre su sistema de pensiones (página 25). Para los autónomos, cuotas según los ingresos reales (medida 112, páginas 26 y 27).</p>
+<h2 id="el-irpf-de-los-pensionistas">El IRPF de los pensionistas</h2>
+<p>No tiene medidas sobre el IRPF de las pensiones. Sí una reforma general del IRPF que suba los impuestos a las ganancias de capital (medida 69, página 21).</p>
+<h2 id="viudedad-y-orfandad">Viudedad y orfandad</h2>
+<p>El programa no lo menciona.</p>
+<h2 id="dependencia-y-cuidados">Dependencia y cuidados</h2>
+<p>Garantizar la financiación de la ley de dependencia y «vetllar pel compliment estricte del finançament del 50 % de l’Administració General de l’Estat» (velar por que el Estado pague el 50 %) (medida 231, página 41).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="lo-que-propone-erc-cambia-ya-mi-pension">¿Lo que propone ERC cambia ya mi pensión?</h3>
+<p>No. Un programa electoral no cambia nada por sí solo: hace falta que el Gobierno o las Cortes que salgan de las elecciones aprueben una norma. Lo que pasa con tu pensión y con la subida de enero mientras tanto lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</p>
+<h3 id="de-que-no-habla-el-programa-de-erc">¿De qué no habla el programa de ERC?</h3>
+<p>De las pensiones mínimas, el IRPF de las pensiones ni la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no solo en el apartado de pensiones.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li>ERC: <a href="https://esquerrarepublicana.cat/documents/e2026-programa.pdf" rel="noopener">«Eleccions al Congrés 2026. Programa electoral»</a>, programa para las elecciones generales del 29 de noviembre de 2026 (PDF, 48 páginas). Leído el 17 de noviembre de 2026.</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">Ley General de la Seguridad Social, artículo 58</a> (BOE), sobre la subida actual de las pensiones.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Compara con los demás partidos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</li>
+<li>Lee lo que proponen <a href="/elecciones/programa-pp-pensiones/">PP</a>, <a href="/elecciones/programa-psoe-pensiones/">PSOE</a>, <a href="/elecciones/programa-vox-pensiones/">Vox</a>, <a href="/elecciones/programa-frente-amplio-pensiones/">Frente Amplio</a> y <a href="/elecciones/programa-pnv-pensiones/">PNV</a>.</li>
+<li>¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la calculadora de la subida de las pensiones.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en esquerrarepublicana.cat.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Lo que dice el programa oficial de ERC para el 29N sobre pensiones: subida con la inflación, IPC de cada territorio y anticipada por profesión, con su página.]]></excerpt:encoded>
+    <wp:post_id>9070</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[programa-erc-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="elecciones"><![CDATA[Elecciones 2026]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Programa de ERC para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial de ERC para el 29N sobre pensiones: subida con la inflación, IPC de cada territorio y anticipada por profesión, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[programa ERC pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Programa de ERC para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial de ERC para el 29N sobre pensiones: subida con la inflación, IPC de cada territorio y anticipada por profesión, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[programa ERC pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Qué propone Frente Amplio sobre las pensiones en su programa para las elecciones del 29N]]></title>
+    <link>https://jubilometro.com/elecciones/programa-frente-amplio-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Esto es lo principal que dice sobre las pensiones el programa oficial de Frente Amplio para las elecciones del <strong>29 de noviembre de 2026</strong>:</p>
+<ul>
+<li><strong>Volver a la jubilación a los 65 años</strong>, y a los 60 en algunos oficios penosos.</li>
+<li>Que <strong>ninguna pensión sea inferior al salario mínimo</strong> y llevar a la Constitución la subida con el IPC.</li>
+<li><strong>Quitar el recorte de la jubilación anticipada involuntaria</strong> a quien ha cotizado más de 40 años.</li>
+<li>Más dinero para la <strong>dependencia</strong>: del 0,8 % al 1,7 % del PIB en 2030.</li>
+</ul>
+</aside>
+<h2 id="el-programa-de-frente-amplio-y-donde-habla-de-pensiones">El programa de Frente Amplio y dónde habla de pensiones</h2>
+<p>Frente Amplio ha publicado en su web (frenteamplio.info) su programa para estas elecciones, programa electoral completo: un PDF de 151 páginas. Las pensiones están en el apartado 4.3, «Pensiones públicas dignas» (páginas 57 y 58 del PDF), dentro del bloque «Salarios y pensiones dignos y precios asequibles». La dependencia está en el bloque de derechos sociales (página 23).</p>
+<p>Contamos lo que dice el programa, con citas literales cortas y la página del PDF, sin valorarlo. Si no habla de un tema, lo decimos. Es la misma estructura que usamos con todos los partidos, para que puedas compararlos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</p>
+<h2 id="la-subida-de-las-pensiones">La subida de las pensiones</h2>
+<p>Llevar a la Constitución, con una reforma por el procedimiento ordinario (artículo 167), «el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas» (página 57). Hoy la subida con el IPC está en el artículo 58 de la Ley General de la Seguridad Social. Cuánto subirán en 2027 con la ley actual lo explicamos en <a href="/cuanto-cobrare/revalorizacion-pensiones/">la subida de las pensiones en 2027</a>.</p>
+<h2 id="la-edad-de-jubilacion">La edad de jubilación</h2>
+<p>«Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011» (página 57). Y que en construcción, limpieza, ayuda a domicilio, camareras de piso y pesca se pueda jubilar a los 60 años «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» (páginas 57 y 58). La edad actual, en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación</a>.</p>
+<h2 id="las-pensiones-minimas-y-no-contributivas">Las pensiones mínimas y no contributivas</h2>
+<p>Que ninguna pensión sea inferior al salario mínimo interprofesional (página 57), que en 2026 es de 1.221 euros al mes en 14 pagas. Y «equiparando pensiones mínimas y no contributivas al umbral de la pobreza» (página 24). También subir las contributivas más bajas y las no contributivas «por encima de la media» y mantener el complemento de brecha de género (página 58). Las cuantías de 2026, en <a href="/cuanto-cobrare/pension-minima/">la pensión mínima</a>.</p>
+<h2 id="la-jubilacion-anticipada">La jubilación anticipada</h2>
+<p>«Eliminaremos los coeficientes reductores en las jubilaciones anticipadas de quienes han cotizado más de 40 años y tienen que acogerse a la misma de manera involuntaria» (página 58). Cómo funciona hoy, en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</p>
+<h2 id="como-pagar-las-pensiones">Cómo pagar las pensiones</h2>
+<p>«Continuaremos elevando progresivamente el tope máximo de cotización y reforzaremos el mecanismo de equidad intergeneracional con una aportación adicional de las empresas más automatizadas» (página 58). Y publicar «de inmediato» la auditoría de las cuentas de la Seguridad Social de 1967 a 2019 (página 58).</p>
+<h2 id="el-irpf-de-los-pensionistas">El IRPF de los pensionistas</h2>
+<p>Quitar «las deducciones por planes de pensiones privados individuales» (página 46). No tiene medidas sobre el IRPF de las pensiones públicas.</p>
+<h2 id="viudedad-y-orfandad">Viudedad y orfandad</h2>
+<p>El programa no lo menciona.</p>
+<h2 id="dependencia-y-cuidados">Dependencia y cuidados</h2>
+<p>Subir el gasto público en dependencia «del 0,8 % al 1,7 % del PIB en 2030», aplicar del todo la reforma de la dependencia (Ley 4/2026), duplicar las horas de ayuda a domicilio y reconocer por ley el «derecho al respiro», con al menos un mes al año en centros de día o estancias temporales (página 23). En las pensiones, reconocer los periodos dedicados a cuidados (página 58).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="lo-que-propone-frente-amplio-cambia-ya-mi-pension">¿Lo que propone Frente Amplio cambia ya mi pensión?</h3>
+<p>No. Un programa electoral no cambia nada por sí solo: hace falta que el Gobierno o las Cortes que salgan de las elecciones aprueben una norma. Lo que pasa con tu pensión y con la subida de enero mientras tanto lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</p>
+<h3 id="de-que-no-habla-el-programa-de-frente-amplio">¿De qué no habla el programa de Frente Amplio?</h3>
+<p>De la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no solo en el apartado de pensiones.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li>Frente Amplio: <a href="https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf" rel="noopener">Programa electoral completo</a>, programa para las elecciones generales del 29 de noviembre de 2026 (PDF, 151 páginas). Leído el 17 de noviembre de 2026.</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">Ley General de la Seguridad Social, artículo 58</a> (BOE), sobre la subida actual de las pensiones.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Compara con los demás partidos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</li>
+<li>Lee lo que proponen <a href="/elecciones/programa-pp-pensiones/">PP</a>, <a href="/elecciones/programa-psoe-pensiones/">PSOE</a>, <a href="/elecciones/programa-vox-pensiones/">Vox</a>, <a href="/elecciones/programa-erc-pensiones/">ERC</a> y <a href="/elecciones/programa-pnv-pensiones/">PNV</a>.</li>
+<li>¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la calculadora de la subida de las pensiones.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en frenteamplio.info.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Lo que dice el programa oficial de Frente Amplio para el 29N sobre pensiones: jubilación a los 65, mínima igual al SMI y anticipada sin recorte, con su cita.]]></excerpt:encoded>
+    <wp:post_id>9071</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[programa-frente-amplio-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="elecciones"><![CDATA[Elecciones 2026]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Programa de Frente Amplio para el 29N: las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial de Frente Amplio para el 29N sobre pensiones: jubilación a los 65, mínima igual al SMI y anticipada sin recorte, con su cita.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[programa Frente Amplio pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Programa de Frente Amplio para el 29N: las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial de Frente Amplio para el 29N sobre pensiones: jubilación a los 65, mínima igual al SMI y anticipada sin recorte, con su cita.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[programa Frente Amplio pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Qué propone el PNV sobre las pensiones en su programa para las elecciones del 29N]]></title>
+    <link>https://jubilometro.com/elecciones/programa-pnv-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Esto es lo principal que dice sobre las pensiones el programa oficial de el PNV para las elecciones del <strong>29 de noviembre de 2026</strong>:</p>
+<ul>
+<li><strong>Subir las pensiones cada año con el IPC</strong> y mejorar poco a poco las <strong>mínimas y no contributivas</strong> (medidas 01 y 02).</li>
+<li><strong>Quitar el recorte de la jubilación anticipada con más de 40 años cotizados</strong>, también para quien ya está jubilado (medida 03).</li>
+<li>Que los <strong>años de cuidados cuenten</strong> para la pensión y rebajar la edad a las cuidadoras con convenio especial (medidas 05 y 06).</li>
+<li>Traspasar a Euskadi la <strong>gestión económica de la Seguridad Social</strong> (medida 09).</li>
+</ul>
+</aside>
+<h2 id="el-programa-del-pnv-y-donde-habla-de-pensiones">El programa del PNV y dónde habla de pensiones</h2>
+<p>El PNV ha publicado en su web (eaj-pnv.eus) su programa para estas elecciones, «Defendemos Euskadi / Euskadi Zaindu»: un PDF de 43 páginas. Las pensiones tienen su propio apartado, «4.1 Pensiones dignas y justicia para las largas carreras de cotización», con las medidas 01 a 09 (páginas 30 y 31 del PDF). Las personas cuidadoras y la dependencia están en el apartado siguiente (páginas 32 y 33).</p>
+<p>Contamos lo que dice el programa, con citas literales cortas y la página del PDF, sin valorarlo. Si no habla de un tema, lo decimos. Es la misma estructura que usamos con todos los partidos, para que puedas compararlos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</p>
+<h2 id="la-subida-de-las-pensiones">La subida de las pensiones</h2>
+<p>«Evitar que las pensiones pierdan poder adquisitivo: revalorizarlas anualmente conforme al IPC, protegiendo su poder adquisitivo frente al incremento del coste de la vida» (medida 01, página 31). Es lo que ya marca hoy el artículo 58 de la Ley General de la Seguridad Social. Cuánto subirán en 2027 con la ley actual lo explicamos en <a href="/cuanto-cobrare/revalorizacion-pensiones/">la subida de las pensiones en 2027</a>.</p>
+<h2 id="la-edad-de-jubilacion">La edad de jubilación</h2>
+<p>No propone cambiar la edad general. Sí «Favorecer coeficientes reductores de la edad de jubilación para las personas cuidadoras no profesionales acogidas al convenio especial de la Seguridad Social» (medida 06, página 31). La edad actual, en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación</a>.</p>
+<h2 id="las-pensiones-minimas-y-no-contributivas">Las pensiones mínimas y no contributivas</h2>
+<p>«Mejorar progresivamente las pensiones mínimas y no contributivas, prestando especial atención a las personas con menores ingresos y en situación de vulnerabilidad» (medida 02, página 31). Las cuantías de 2026, en <a href="/cuanto-cobrare/pension-minima/">la pensión mínima</a>.</p>
+<h2 id="la-jubilacion-anticipada">La jubilación anticipada</h2>
+<p>«Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados, reconociendo las largas carreras laborales y promoviendo medidas para corregir las penalizaciones que afectan también a quienes ya están jubilados» (medida 03, página 31). Cómo funciona hoy, en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</p>
+<h2 id="como-pagar-las-pensiones">Cómo pagar las pensiones</h2>
+<p>Un sistema público «suficiente, sostenible y basado en la solidaridad entre generaciones», reforzando sus fuentes de financiación en el Pacto de Toledo (medida 07); extender los planes de pensiones de empresa «como complemento y nunca como sustitución de las pensiones públicas» (medida 08); y culminar el traspaso a Euskadi de «la gestión del régimen económico de la Seguridad Social», respetando «el carácter unitario del sistema» (medida 09) (todas en la página 31).</p>
+<h2 id="el-irpf-de-los-pensionistas">El IRPF de los pensionistas</h2>
+<p>No tiene medidas sobre el IRPF de las pensiones.</p>
+<h2 id="viudedad-y-orfandad">Viudedad y orfandad</h2>
+<p>El programa no lo menciona.</p>
+<h2 id="dependencia-y-cuidados">Dependencia y cuidados</h2>
+<p>Una prestación «digna» para quien deja de trabajar o reduce su jornada para cuidar a un familiar dependiente, «tomando como referencia el salario mínimo y la intensidad de los cuidados» (página 33). En las pensiones, reducir la brecha de género y «Asegurar el reconocimiento efectivo de los periodos dedicados a los cuidados familiares en la Seguridad Social» (medidas 04 y 05, página 31).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="lo-que-propone-el-pnv-cambia-ya-mi-pension">¿Lo que propone el PNV cambia ya mi pensión?</h3>
+<p>No. Un programa electoral no cambia nada por sí solo: hace falta que el Gobierno o las Cortes que salgan de las elecciones aprueben una norma. Lo que pasa con tu pensión y con la subida de enero mientras tanto lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</p>
+<h3 id="de-que-no-habla-el-programa-del-pnv">¿De qué no habla el programa del PNV?</h3>
+<p>Del IRPF de las pensiones ni la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no solo en el apartado de pensiones.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li>PNV: <a href="https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n" rel="noopener">«Defendemos Euskadi / Euskadi Zaindu»</a>, programa para las elecciones generales del 29 de noviembre de 2026 (PDF, 43 páginas). Leído el 17 de noviembre de 2026.</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">Ley General de la Seguridad Social, artículo 58</a> (BOE), sobre la subida actual de las pensiones.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Compara con los demás partidos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</li>
+<li>Lee lo que proponen <a href="/elecciones/programa-pp-pensiones/">PP</a>, <a href="/elecciones/programa-psoe-pensiones/">PSOE</a>, <a href="/elecciones/programa-vox-pensiones/">Vox</a>, <a href="/elecciones/programa-frente-amplio-pensiones/">Frente Amplio</a> y <a href="/elecciones/programa-erc-pensiones/">ERC</a>.</li>
+<li>¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la calculadora de la subida de las pensiones.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en eaj-pnv.eus.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Lo que dice el programa oficial del PNV para el 29N sobre pensiones: subida con el IPC, mínimas y anticipada sin recorte con 40 años cotizados, con su página.]]></excerpt:encoded>
+    <wp:post_id>9072</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[programa-pnv-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="elecciones"><![CDATA[Elecciones 2026]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Programa del PNV para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial del PNV para el 29N sobre pensiones: subida con el IPC, mínimas y anticipada sin recorte con 40 años cotizados, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[programa PNV pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Programa del PNV para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial del PNV para el 29N sobre pensiones: subida con el IPC, mínimas y anticipada sin recorte con 40 años cotizados, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[programa PNV pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Qué propone el PP sobre las pensiones en su programa para las elecciones del 29N]]></title>
+    <link>https://jubilometro.com/elecciones/programa-pp-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Esto es lo principal que dice sobre las pensiones el programa oficial de el PP para las elecciones del <strong>29 de noviembre de 2026</strong>:</p>
+<ul>
+<li>Mantener el poder adquisitivo y <strong>subir las pensiones cada año con el IPC</strong>, y reconstruir el <strong>Pacto de Toledo</strong> (medida 108).</li>
+<li>Deducciones en el IRPF para la <strong>jubilación activa</strong>, es decir, para quien cobra la pensión y trabaja a la vez (medida 108).</li>
+<li>Un <strong>Pacto de Estado por la Dependencia</strong> y que el Estado cotice por quien deje de trabajar para cuidar a un familiar (medida 114).</li>
+<li>No habla de la edad de jubilación, de las pensiones mínimas ni de la viudedad.</li>
+</ul>
+</aside>
+<h2 id="el-programa-del-pp-y-donde-habla-de-pensiones">El programa del PP y dónde habla de pensiones</h2>
+<p>El PP ha publicado en su web (pp.es) su programa para estas elecciones, «La reconstrucción nacional»: un PDF de 82 páginas. Las pensiones están en el bloque de la medida 108, «GARANTIZAREMOS LAS PENSIONES DE HOY Y SU FUTURO» (páginas 42 y 43 del PDF). La medida siguiente, la 109, está en blanco con el texto «Permanezca atento a la campaña para conocer esta nueva medida». Los mayores y la dependencia están en las medidas 110 a 114 (páginas 43 y 44).</p>
+<p>Contamos lo que dice el programa, con citas literales cortas y la página del PDF, sin valorarlo. Si no habla de un tema, lo decimos. Es la misma estructura que usamos con todos los partidos, para que puedas compararlos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</p>
+<h2 id="la-subida-de-las-pensiones">La subida de las pensiones</h2>
+<p>«Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC. Aseguraremos a los más jóvenes que sus futuras pensiones también mantendrán su poder adquisitivo» (medida 108, páginas 42 y 43). Hoy esa subida ya la marca el artículo 58 de la Ley General de la Seguridad Social. Cuánto subirán en 2027 con la ley actual lo explicamos en <a href="/cuanto-cobrare/revalorizacion-pensiones/">la subida de las pensiones en 2027</a>.</p>
+<h2 id="la-edad-de-jubilacion">La edad de jubilación</h2>
+<p>El programa no lo menciona. La edad actual, en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación</a>.</p>
+<h2 id="las-pensiones-minimas-y-no-contributivas">Las pensiones mínimas y no contributivas</h2>
+<p>El programa no lo menciona. Las cuantías de 2026, en <a href="/cuanto-cobrare/pension-minima/">la pensión mínima</a>.</p>
+<h2 id="la-jubilacion-anticipada">La jubilación anticipada</h2>
+<p>Solo para un caso: «Ampliaremos el acceso a la jubilación anticipada de las personas con síndrome de Down» (medida 112, página 44). Sobre el recorte de la anticipada con 40 años cotizados, el programa no dice nada. Cómo funciona hoy, en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</p>
+<h2 id="como-pagar-las-pensiones">Cómo pagar las pensiones</h2>
+<p>«Reconstruiremos el Pacto de Toledo sobre un principio claro: las pensiones son un compromiso de Estado, por encima de la confrontación partidista» (medida 108, página 42). Y una ley que asegure la caja única de la Seguridad Social: «las cotizaciones seguirán financiando las pensiones y prestaciones en toda España, sin dividir los recursos por territorios» (medida 18, página 17).</p>
+<h2 id="el-irpf-de-los-pensionistas">El IRPF de los pensionistas</h2>
+<p>«Incentivaremos la jubilación activa mediante deducciones en el IRPF» (medida 108, página 43). Además, para todos, bajar el IRPF de las rentas medias y bajas y actualizar la tarifa con la inflación (medida 177, página 60).</p>
+<h2 id="viudedad-y-orfandad">Viudedad y orfandad</h2>
+<p>El programa no lo menciona.</p>
+<h2 id="dependencia-y-cuidados">Dependencia y cuidados</h2>
+<p>Un «Pacto de Estado por la Dependencia», que el Estado pague el 50 % del gasto público del sistema, que las familias se deduzcan el 40 % de lo que paguen por la atención profesional de un mayor dependiente y que «el Estado cotizará por quien deje de trabajar o reduzca su jornada para cuidar a un familiar dependiente» (medida 114, página 44). También modernizar el IMSERSO y asegurar la atención presencial a los mayores (medida 110, página 43), y planes contra la soledad no deseada (medida 113, página 44).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="lo-que-propone-el-pp-cambia-ya-mi-pension">¿Lo que propone el PP cambia ya mi pensión?</h3>
+<p>No. Un programa electoral no cambia nada por sí solo: hace falta que el Gobierno o las Cortes que salgan de las elecciones aprueben una norma. Lo que pasa con tu pensión y con la subida de enero mientras tanto lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</p>
+<h3 id="de-que-no-habla-el-programa-del-pp">¿De qué no habla el programa del PP?</h3>
+<p>De la edad de jubilación, las pensiones mínimas ni la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no solo en el apartado de pensiones.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li>PP: <a href="https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf" rel="noopener">«La reconstrucción nacional»</a>, programa para las elecciones generales del 29 de noviembre de 2026 (PDF, 82 páginas). Leído el 17 de noviembre de 2026.</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">Ley General de la Seguridad Social, artículo 58</a> (BOE), sobre la subida actual de las pensiones.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Compara con los demás partidos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</li>
+<li>Lee lo que proponen <a href="/elecciones/programa-psoe-pensiones/">PSOE</a>, <a href="/elecciones/programa-vox-pensiones/">Vox</a>, <a href="/elecciones/programa-frente-amplio-pensiones/">Frente Amplio</a>, <a href="/elecciones/programa-erc-pensiones/">ERC</a> y <a href="/elecciones/programa-pnv-pensiones/">PNV</a>.</li>
+<li>¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la calculadora de la subida de las pensiones.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en pp.es.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Lo que dice el programa oficial del PP para el 29N sobre pensiones: subida con el IPC, Pacto de Toledo, jubilación activa y dependencia, con su página.]]></excerpt:encoded>
+    <wp:post_id>9073</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[programa-pp-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="elecciones"><![CDATA[Elecciones 2026]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Programa del PP para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial del PP para el 29N sobre pensiones: subida con el IPC, Pacto de Toledo, jubilación activa y dependencia, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[programa PP pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Programa del PP para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial del PP para el 29N sobre pensiones: subida con el IPC, Pacto de Toledo, jubilación activa y dependencia, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[programa PP pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Qué propone el PSOE sobre las pensiones en su programa para las elecciones del 29N]]></title>
+    <link>https://jubilometro.com/elecciones/programa-psoe-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Esto es lo principal que dice sobre las pensiones el programa oficial de el PSOE para las elecciones del <strong>29 de noviembre de 2026</strong>:</p>
+<ul>
+<li><strong>Llevar a la Constitución</strong> el sistema público de pensiones y su <strong>subida con el IPC</strong> (medida 100).</li>
+<li>Seguir acercando las <strong>pensiones mínimas</strong> a los ingresos del conjunto de la sociedad (medida 98).</li>
+<li>«Evaluar» que sea <strong>menor el recorte de la jubilación anticipada involuntaria</strong> con carreras largas (medida 103).</li>
+<li>Subir la <strong>pensión de orfandad</strong> del 20 % al 30 % (medida 106) y un año más cotizado por cada hijo (medida 101).</li>
+</ul>
+</aside>
+<h2 id="el-programa-del-psoe-y-donde-habla-de-pensiones">El programa del PSOE y dónde habla de pensiones</h2>
+<p>El PSOE ha publicado en su web (psoe.es) su programa para estas elecciones, «La fuerza de seguir avanzando»: un PDF de 114 páginas. Las pensiones tienen su propio apartado, «Pensiones», con las medidas 98 a 107 (páginas 39 a 41 del PDF). La propuesta de llevar las pensiones a la Constitución se repite en la medida 365 (página 89). La dependencia está en las medidas 202 a 209 (páginas 57 y 58).</p>
+<p>Contamos lo que dice el programa, con citas literales cortas y la página del PDF, sin valorarlo. Si no habla de un tema, lo decimos. Es la misma estructura que usamos con todos los partidos, para que puedas compararlos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</p>
+<h2 id="la-subida-de-las-pensiones">La subida de las pensiones</h2>
+<p>«Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC, garantizando el derecho de las personas mayores a una pensión digna, suficiente y actualizada» (medida 100, página 40, y medida 365, página 89). Hoy la subida con el IPC está en el artículo 58 de la Ley General de la Seguridad Social; llevarla a la Constitución exige una reforma constitucional. Cuánto subirán en 2027 con la ley actual lo explicamos en <a href="/cuanto-cobrare/revalorizacion-pensiones/">la subida de las pensiones en 2027</a>.</p>
+<h2 id="la-edad-de-jubilacion">La edad de jubilación</h2>
+<p>No propone cambiar la edad ordinaria. Sí que la rebaja de edad por trabajos penosos se aplique a cada persona, con «una cuenta individual de penosidad, para reconocer el desgaste laboral real de cada trabajador» (medida 104, página 40). La edad actual, en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación</a>.</p>
+<h2 id="las-pensiones-minimas-y-no-contributivas">Las pensiones mínimas y no contributivas</h2>
+<p>Seguir «culminando el proceso de convergencia de las cuantías de las pensiones mínimas con estándares de ingresos del conjunto de la sociedad» (medida 98, página 39), y que el Estado pague con impuestos las prestaciones y complementos no contributivos (medida 99, página 40). Las cuantías de 2026, en <a href="/cuanto-cobrare/pension-minima/">la pensión mínima</a>.</p>
+<h2 id="la-jubilacion-anticipada">La jubilación anticipada</h2>
+<p>«Evaluar la mejora de los coeficientes reductores de edad por penosidad y la reducción de las penalizaciones de las pensiones por jubilación anticipada involuntaria, especialmente para trabajadores con largas carreras de cotización» (medida 103, página 40). El coste se podría pagar con aportaciones de empresas con beneficios que hagan un ERE. Cómo funciona hoy, en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</p>
+<h2 id="como-pagar-las-pensiones">Cómo pagar las pensiones</h2>
+<p>Acordar en el Pacto de Toledo nuevas fuentes para que lo que se gane con la automatización financie también la Seguridad Social, y «Acelerar el despliegue de la cuota de solidaridad» de los sueldos más altos (medida 98, página 39). Y que el Estado asuma la financiación de lo no contributivo (medida 99, página 40).</p>
+<h2 id="el-irpf-de-los-pensionistas">El IRPF de los pensionistas</h2>
+<p>No tiene medidas sobre el IRPF de las pensiones. Sí otras generales, como una deducción que se activaría cuando suban mucho los precios (medida 88, página 37).</p>
+<h2 id="viudedad-y-orfandad">Viudedad y orfandad</h2>
+<p>«Elevar del 20% al 30 % la pensión de orfandad, sin el límite del 100 % en supuestos de vulnerabilidad» e integrar la pensión en favor de familiares en el Ingreso Mínimo Vital (medida 106, página 41). Sobre la viudedad, no propone cambios.</p>
+<h2 id="dependencia-y-cuidados">Dependencia y cuidados</h2>
+<p>Aplicar del todo la reforma de la dependencia (Ley 4/2026) para reducir las listas de espera, hacer de la ayuda a domicilio un servicio público esencial, proteger mejor a las personas cuidadoras y ampliar la asistencia personal, los centros de día y el respiro familiar (medidas 205 a 208, páginas 57 y 58). En las pensiones, reconocer «un año adicional de cotización por cada hijo o hija» (medida 101, página 40).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="lo-que-propone-el-psoe-cambia-ya-mi-pension">¿Lo que propone el PSOE cambia ya mi pensión?</h3>
+<p>No. Un programa electoral no cambia nada por sí solo: hace falta que el Gobierno o las Cortes que salgan de las elecciones aprueben una norma. Lo que pasa con tu pensión y con la subida de enero mientras tanto lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</p>
+<h3 id="de-que-no-habla-el-programa-del-psoe">¿De qué no habla el programa del PSOE?</h3>
+<p>Del IRPF de las pensiones. Hemos buscado cada tema en el documento entero, no solo en el apartado de pensiones.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li>PSOE: <a href="https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf" rel="noopener">«La fuerza de seguir avanzando»</a>, programa para las elecciones generales del 29 de noviembre de 2026 (PDF, 114 páginas). Leído el 17 de noviembre de 2026.</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">Ley General de la Seguridad Social, artículo 58</a> (BOE), sobre la subida actual de las pensiones.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Compara con los demás partidos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</li>
+<li>Lee lo que proponen <a href="/elecciones/programa-pp-pensiones/">PP</a>, <a href="/elecciones/programa-vox-pensiones/">Vox</a>, <a href="/elecciones/programa-frente-amplio-pensiones/">Frente Amplio</a>, <a href="/elecciones/programa-erc-pensiones/">ERC</a> y <a href="/elecciones/programa-pnv-pensiones/">PNV</a>.</li>
+<li>¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la calculadora de la subida de las pensiones.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en psoe.es.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Lo que dice el programa oficial del PSOE para el 29N sobre pensiones: subida con el IPC en la Constitución, mínimas, anticipada y orfandad, con su página.]]></excerpt:encoded>
+    <wp:post_id>9074</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[programa-psoe-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="elecciones"><![CDATA[Elecciones 2026]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Programa del PSOE para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial del PSOE para el 29N sobre pensiones: subida con el IPC en la Constitución, mínimas, anticipada y orfandad, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[programa PSOE pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Programa del PSOE para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial del PSOE para el 29N sobre pensiones: subida con el IPC en la Constitución, mínimas, anticipada y orfandad, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[programa PSOE pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Qué propone Vox sobre las pensiones en su programa para las elecciones del 29N]]></title>
+    <link>https://jubilometro.com/elecciones/programa-vox-pensiones/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Esto es lo principal que dice sobre las pensiones el programa oficial de Vox para las elecciones del <strong>29 de noviembre de 2026</strong>:</p>
+<ul>
+<li>«Garantizar la <strong>sostenibilidad del sistema de pensiones</strong>» con más empleo, salarios y crecimiento (medida 7).</li>
+<li>Que el <strong>Estado cotice por quien cuida de sus hijos</strong>, para que criarlos no penalice la jubilación (medida 94).</li>
+<li>Más presupuesto para la <strong>dependencia</strong> y las residencias (medidas 95 y 96).</li>
+<li>No habla de la subida con el IPC, la edad de jubilación, las pensiones mínimas, la jubilación anticipada ni la viudedad.</li>
+</ul>
+</aside>
+<h2 id="el-programa-de-vox-y-donde-habla-de-pensiones">El programa de Vox y dónde habla de pensiones</h2>
+<p>Vox ha publicado en su web (voxespana.es) su programa para estas elecciones, «Programa electoral. Es sentido común»: un PDF de 66 páginas. El programa tiene 115 medidas en 13 bloques. Las pensiones aparecen en la medida 7 (páginas 10 y 11 del PDF), dentro del bloque económico, y en el bloque «Familia y vida» (medidas 94 a 96, páginas 51 y 52).</p>
+<p>Contamos lo que dice el programa, con citas literales cortas y la página del PDF, sin valorarlo. Si no habla de un tema, lo decimos. Es la misma estructura que usamos con todos los partidos, para que puedas compararlos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</p>
+<h2 id="la-subida-de-las-pensiones">La subida de las pensiones</h2>
+<p>El programa no lo menciona. La medida sobre pensiones se refiere a su sostenibilidad (lo vemos en «Cómo pagar las pensiones»). Cuánto subirán en 2027 con la ley actual lo explicamos en <a href="/cuanto-cobrare/revalorizacion-pensiones/">la subida de las pensiones en 2027</a>.</p>
+<h2 id="la-edad-de-jubilacion">La edad de jubilación</h2>
+<p>El programa no lo menciona. La edad actual, en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación</a>.</p>
+<h2 id="las-pensiones-minimas-y-no-contributivas">Las pensiones mínimas y no contributivas</h2>
+<p>El programa no lo menciona. Las cuantías de 2026, en <a href="/cuanto-cobrare/pension-minima/">la pensión mínima</a>.</p>
+<h2 id="la-jubilacion-anticipada">La jubilación anticipada</h2>
+<p>El programa no lo menciona. Cómo funciona hoy, en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</p>
+<h2 id="como-pagar-las-pensiones">Cómo pagar las pensiones</h2>
+<p>«Garantizar la sostenibilidad del sistema de pensiones. Revitalizar la economía, impulsar el empleo, mejorar los salarios y aumentar la riqueza. Una economía más productiva es la garantía de sostenibilidad de las pensiones» (medida 7, página 10). Añade medidas de apoyo a las familias y a la natalidad «contribuyendo a revertir el envejecimiento demográfico» (página 11).</p>
+<h2 id="el-irpf-de-los-pensionistas">El IRPF de los pensionistas</h2>
+<p>Bajar y simplificar el IRPF en general, con un tipo según el número de hijos (página 9). No tiene una medida propia para las pensiones.</p>
+<h2 id="viudedad-y-orfandad">Viudedad y orfandad</h2>
+<p>El programa no lo menciona.</p>
+<h2 id="dependencia-y-cuidados">Dependencia y cuidados</h2>
+<p>«Reforzar el presupuesto en dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo», más programas contra la soledad no deseada y más plazas en residencias (medida 95, página 52), y «Eliminar todas aquellas trabas que impiden que las ayudas a la dependencia lleguen de manera rápida e íntegra a los beneficiarios» (medida 96, página 52). En las pensiones: «Cotización a la Seguridad Social financiada por el Estado para los españoles dedicados al cuidado de sus hijos», porque criarlos «no puede ser motivo de penalización en la jubilación» (medida 94, página 51).</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="lo-que-propone-vox-cambia-ya-mi-pension">¿Lo que propone Vox cambia ya mi pensión?</h3>
+<p>No. Un programa electoral no cambia nada por sí solo: hace falta que el Gobierno o las Cortes que salgan de las elecciones aprueben una norma. Lo que pasa con tu pensión y con la subida de enero mientras tanto lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</p>
+<h3 id="de-que-no-habla-el-programa-de-vox">¿De qué no habla el programa de Vox?</h3>
+<p>De la subida con el IPC, la edad de jubilación, las pensiones mínimas, la jubilación anticipada ni la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no solo en el apartado de pensiones.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li>Vox: <a href="https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf" rel="noopener">«Programa electoral. Es sentido común»</a>, programa para las elecciones generales del 29 de noviembre de 2026 (PDF, 66 páginas). Leído el 17 de noviembre de 2026.</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">Ley General de la Seguridad Social, artículo 58</a> (BOE), sobre la subida actual de las pensiones.</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Compara con los demás partidos en <a href="/elecciones/propuestas-pensiones-partidos/">qué proponen los partidos sobre las pensiones</a>.</li>
+<li>Lee lo que proponen <a href="/elecciones/programa-pp-pensiones/">PP</a>, <a href="/elecciones/programa-psoe-pensiones/">PSOE</a>, <a href="/elecciones/programa-frente-amplio-pensiones/">Frente Amplio</a>, <a href="/elecciones/programa-erc-pensiones/">ERC</a> y <a href="/elecciones/programa-pnv-pensiones/">PNV</a>.</li>
+<li>¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la calculadora de la subida de las pensiones.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en voxespana.es.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Lo que dice el programa oficial de Vox para el 29N sobre pensiones: sostenibilidad del sistema, cotización por criar a los hijos y dependencia, con su página.]]></excerpt:encoded>
+    <wp:post_id>9075</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[programa-vox-pensiones]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="elecciones"><![CDATA[Elecciones 2026]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Programa de Vox para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial de Vox para el 29N sobre pensiones: sostenibilidad del sistema, cotización por criar a los hijos y dependencia, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[programa Vox pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Programa de Vox para el 29N: qué dice de las pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Lo que dice el programa oficial de Vox para el 29N sobre pensiones: sostenibilidad del sistema, cotización por criar a los hijos y dependencia, con su página.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[programa Vox pensiones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
+    <title><![CDATA[Qué proponen los partidos sobre las pensiones en las elecciones del 29 de noviembre de 2026]]></title>
+    <link>https://jubilometro.com/elecciones/propuestas-pensiones-partidos/</link>
+    <dc:creator><![CDATA[admin]]></dc:creator>
+    <description></description>
+    <content:encoded><![CDATA[<header>
+<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido</p>
+</header>
+<aside class="respuesta-rapida" aria-label="Respuesta rápida">
+<p class="etiqueta">Respuesta rápida</p>
+<p>Hemos leído lo que dicen sobre las pensiones los <strong>programas oficiales</strong> que PP, PSOE, Vox, Frente Amplio, ERC y PNV han colgado en sus webs para las elecciones del <strong>29 de noviembre de 2026</strong>. Los seis se refieren a las pensiones, pero con un detalle muy distinto:</p>
+<ul>
+<li><strong>Subir las pensiones con el IPC</strong>: lo recogen PP, PSOE, Frente Amplio, ERC y PNV. PSOE y Frente Amplio proponen además llevarlo a la Constitución. Vox no lo menciona.</li>
+<li><strong>Edad de jubilación</strong>: solo Frente Amplio propone cambiarla, para volver a los <strong>65 años</strong>.</li>
+<li><strong>Jubilación anticipada con 40 años cotizados</strong>: Frente Amplio y PNV proponen quitar el recorte; el PSOE, «evaluar» que sea menor.</li>
+<li><strong>Pensiones mínimas</strong>: Frente Amplio quiere que ninguna baje del salario mínimo; PSOE y PNV, seguir subiéndolas. PP y Vox no las mencionan.</li>
+</ul>
+<p>Junts y EH Bildu no han publicado su programa en su web. Las propuestas de cada partido, con más detalle, están en su propia guía.</p>
+</aside>
+<h2 id="como-hemos-hecho-esta-comparativa">Cómo hemos hecho esta comparativa</h2>
+<ul>
+<li><strong>Solo documentos oficiales</strong>: el programa completo que cada partido ha publicado en su web para estas elecciones, con el enlace y la página del PDF donde lo dice. No recogemos frases de mítines, entrevistas ni notas de prensa.</li>
+<li><strong>Los mismos partidos y las mismas preguntas</strong>: los partidos con grupo propio en el Congreso que se disolvió el 6 de octubre que se presentan a estas elecciones, en el orden de escaños que tenían, con las mismas preguntas para todos.</li>
+<li><strong>Sin valoraciones</strong>: contamos qué propone cada uno. Si una propuesta cambia una norma en vigor, decimos cuál. No decimos si es buena o mala, ni si es posible.</li>
+<li><strong>Si un programa no habla de algo</strong>, lo decimos así: «no lo menciona». Hemos buscado cada tema en el documento entero, no solo en el apartado de pensiones.</li>
+</ul>
+<p>Los programas se leyeron el 17 de noviembre de 2026. Las citas son literales y cortas; el de ERC está en catalán y damos la traducción.</p>
+<h2 id="resumen-que-dice-cada-programa">Resumen: qué dice cada programa</h2>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
+<table><caption id="tabla-1">Propuestas sobre pensiones de cada partido en sus programas para las elecciones del 29 de noviembre de 2026</caption>
+<thead>
+<tr>
+<th scope="col">Partido</th>
+<th scope="col">Subida con el IPC</th>
+<th scope="col">Edad de jubilación</th>
+<th scope="col">Pensiones mínimas</th>
+<th scope="col">Jubilación anticipada</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">PP</th>
+<td>Sí, cada año (medida 108)</td>
+<td>No lo menciona</td>
+<td>No lo menciona</td>
+<td>Más acceso para personas con síndrome de Down (medida 112)</td>
+</tr>
+<tr>
+<th scope="row">PSOE</th>
+<td>Sí, y en la Constitución (medida 100)</td>
+<td>No cambia la edad; cuenta individual de penosidad (medida 104)</td>
+<td>Seguir acercándolas a los ingresos del conjunto de la sociedad (medida 98)</td>
+<td>«Evaluar» menos recorte en la involuntaria con carreras largas (medida 103)</td>
+</tr>
+<tr>
+<th scope="row">Vox</th>
+<td>No lo menciona</td>
+<td>No lo menciona</td>
+<td>No lo menciona</td>
+<td>No lo menciona</td>
+</tr>
+<tr>
+<th scope="row">Frente Amplio</th>
+<td>Sí, y en la Constitución</td>
+<td>Volver a los 65 años; a los 60 en oficios penosos</td>
+<td>Ninguna por debajo del salario mínimo</td>
+<td>Sin recorte en la involuntaria con más de 40 años cotizados</td>
+</tr>
+<tr>
+<th scope="row">ERC</th>
+<td>Sí, con la inflación y con el IPC de cada territorio (medidas 106 y 107)</td>
+<td>No lo menciona</td>
+<td>No lo menciona</td>
+<td>Sin recorte en profesiones penosas o peligrosas (medida 110)</td>
+</tr>
+<tr>
+<th scope="row">PNV</th>
+<td>Sí, cada año con el IPC (medida 01)</td>
+<td>Rebaja para cuidadoras con convenio especial (medida 06)</td>
+<td>Mejorarlas poco a poco (medida 02)</td>
+<td>Sin recorte con más de 40 años cotizados, también para quien ya está jubilado (medida 03)</td>
+</tr>
+</tbody></table>
+</div>
+<h2 id="la-subida-de-las-pensiones-con-el-ipc">La subida de las pensiones con el IPC</h2>
+<p>Hoy ya es la ley: las pensiones contributivas suben cada enero lo que ha subido de media el IPC en los doce meses anteriores a diciembre (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">artículo 58 de la Ley General de la Seguridad Social</a>). Para 2027 apunta a entre el 3,4 % y el 3,6 %, como explicamos en <a href="/cuanto-cobrare/revalorizacion-pensiones/">la subida de las pensiones en 2027</a>. Esto dicen los programas:</p>
+<ul>
+<li><strong>PP</strong>: «Aseguraremos que mantengan su poder adquisitivo y suban cada año con el IPC» (medida 108, páginas 42 y 43 del PDF).</li>
+<li><strong>PSOE</strong>: «Blindar constitucionalmente el sistema público de pensiones y su revalorización conforme al IPC» (medida 100, página 40).</li>
+<li><strong>Vox</strong>: no habla de la subida. Su medida 7 es «Garantizar la sostenibilidad del sistema de pensiones» con más empleo, salarios y crecimiento (páginas 10 y 11).</li>
+<li><strong>Frente Amplio</strong>: llevar a la Constitución «el derecho a la pensión pública y su revalorización automática con arreglo al IPC» (página 57).</li>
+<li><strong>ERC</strong>: «Blindar la revaloració de les pensions» (blindar la subida de las pensiones) con la inflación, y revalorizarlas «d&#39;acord amb l&#39;IPC de cada territori» (con el IPC de cada territorio) (medidas 106 y 107, página 26).</li>
+<li><strong>PNV</strong>: «revalorizarlas anualmente conforme al IPC» (medida 01, página 31).</li>
+</ul>
+<p><strong>Qué cambiaría:</strong> llevar la subida a la Constitución, como proponen PSOE y Frente Amplio, exige una reforma constitucional. La propuesta de ERC de usar el IPC de cada territorio cambiaría el artículo 58, que hoy usa el IPC de toda España.</p>
+<h2 id="la-edad-de-jubilacion">La edad de jubilación</h2>
+<p>En 2027 la edad ordinaria llega a los <strong>67 años</strong>, o a los 65 si has cotizado 38 años y 6 meses, como contamos en <a href="/jubilacion/edad-de-jubilacion/">la edad de jubilación</a>.</p>
+<ul>
+<li><strong>Frente Amplio</strong>: «Devolveremos la edad de jubilación a los 65 años» (página 57). Y que en construcción, limpieza, ayuda a domicilio, camareras de piso y pesca se pueda jubilar a los 60 «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» (páginas 57 y 58).</li>
+<li><strong>PSOE</strong>: no propone cambiar la edad. Quiere que la rebaja por trabajos penosos se calcule para cada persona, con «una cuenta individual de penosidad» (medida 104, página 40).</li>
+<li><strong>PNV</strong>: rebajar la edad a las personas que cuidan a un familiar con el convenio especial de la Seguridad Social (medida 06, página 31).</li>
+<li><strong>PP, Vox y ERC</strong>: no lo mencionan. ERC habla de jubilarse antes en profesiones peligrosas, sin cambiar la edad general (lo vemos más abajo).</li>
+</ul>
+<h2 id="las-pensiones-minimas-y-no-contributivas">Las pensiones mínimas y no contributivas</h2>
+<p>En 2026 la <a href="/cuanto-cobrare/pension-minima/">pensión mínima de jubilación</a> es de 936,20 euros al mes si tienes 65 años o más y vives solo, y la <a href="/ayudas/pension-no-contributiva/">no contributiva</a>, de 628,80 euros.</p>
+<ul>
+<li><strong>Frente Amplio</strong>: que «ninguna sea inferior al SMI» (página 57), y que las mínimas y no contributivas lleguen al umbral de la pobreza (página 24). El salario mínimo de 2026 es de 1.221 euros al mes en 14 pagas.</li>
+<li><strong>PSOE</strong>: seguir «culminando el proceso de convergencia de las cuantías de las pensiones mínimas con estándares de ingresos del conjunto de la sociedad», y que el Estado pague con impuestos lo no contributivo (medidas 98 y 99, páginas 39 y 40).</li>
+<li><strong>PNV</strong>: «Mejorar progresivamente las pensiones mínimas y no contributivas» (medida 02, página 31).</li>
+<li><strong>PP, Vox y ERC</strong>: no lo mencionan.</li>
+</ul>
+<h2 id="la-jubilacion-anticipada-y-los-40-anos-cotizados">La jubilación anticipada y los 40 años cotizados</h2>
+<p>Hoy, quien se jubila antes de tiempo cobra menos para siempre, aunque haya cotizado más de 40 años. La ley para quitar ese recorte decayó con la disolución de las Cortes, como contamos en <a href="/jubilacion/anticipada-40-anos-cotizados/">jubilación anticipada con 40 años cotizados</a>.</p>
+<ul>
+<li><strong>Frente Amplio</strong>: «Eliminaremos los coeficientes reductores en las jubilaciones anticipadas de quienes han cotizado más de 40 años y tienen que acogerse a la misma de manera involuntaria» (página 58).</li>
+<li><strong>PNV</strong>: «Eliminar las penalizaciones de la jubilación anticipada para las personas trabajadoras con más de 40 años cotizados», y corregirlas también a quien ya está jubilado (medida 03, página 31).</li>
+<li><strong>PSOE</strong>: «Evaluar» la mejora de los coeficientes por trabajos penosos y «la reducción de las penalizaciones de las pensiones por jubilación anticipada involuntaria, especialmente para trabajadores con largas carreras de cotización», pagado en parte por empresas con beneficios que hagan un ERE (medida 103, página 40).</li>
+<li><strong>ERC</strong>: jubilación anticipada «sense penalitzacions» (sin recorte) en profesiones penosas, peligrosas, tóxicas o insalubres, con los conductores profesionales como ejemplo (medida 110, página 26).</li>
+<li><strong>PP</strong>: ampliar «el acceso a la jubilación anticipada de las personas con síndrome de Down» (medida 112, página 44).</li>
+<li><strong>Vox</strong>: no lo menciona.</li>
+</ul>
+<h2 id="como-pagar-las-pensiones">Cómo pagar las pensiones</h2>
+<ul>
+<li><strong>PP</strong>: reconstruir el Pacto de Toledo, porque «las pensiones son un compromiso de Estado» (medida 108, página 42), y una ley que asegure la caja única de la Seguridad Social (medida 18, página 17).</li>
+<li><strong>PSOE</strong>: buscar en el Pacto de Toledo nuevas fuentes para que lo que se gane con la automatización financie también la Seguridad Social, acelerar la cuota de solidaridad de los sueldos más altos y que el Estado pague lo no contributivo (medidas 98 y 99, páginas 39 y 40).</li>
+<li><strong>Vox</strong>: más empleo, salarios y crecimiento, porque, dice, «Una economía más productiva es la garantía de sostenibilidad de las pensiones», y más natalidad (medida 7, páginas 10 y 11).</li>
+<li><strong>Frente Amplio</strong>: seguir subiendo la cotización máxima, una aportación extra al Mecanismo de Equidad Intergeneracional de «las empresas más automatizadas» y publicar la auditoría de las cuentas de la Seguridad Social de 1967 a 2019 (página 58).</li>
+<li><strong>ERC</strong>: que «els grans beneficis empresarials i les rendes del capital» (los grandes beneficios de las empresas y las rentas del capital) contribuyan a pagar las pensiones, y que Cataluña pueda decidir sobre su sistema de pensiones (página 25).</li>
+<li><strong>PNV</strong>: reforzar las fuentes de financiación dentro del Pacto de Toledo, extender los planes de pensiones de empresa «como complemento y nunca como sustitución» y traspasar a Euskadi la gestión económica de la Seguridad Social (medidas 07 a 09, página 31).</li>
+</ul>
+<h2 id="el-irpf-de-los-pensionistas">El IRPF de los pensionistas</h2>
+<ul>
+<li><strong>PP</strong>: «Incentivaremos la jubilación activa mediante deducciones en el IRPF» (medida 108, página 43). La <a href="/jubilacion/activa/">jubilación activa</a> es cobrar la pensión y trabajar a la vez. Además, bajar el IRPF de las rentas medias y bajas y actualizar la tarifa con la inflación, para todos (medida 177, página 60).</li>
+<li><strong>Frente Amplio</strong>: quitar «las deducciones por planes de pensiones privados individuales» (página 46).</li>
+<li><strong>Vox</strong>: bajar el IRPF en general (página 9), sin una medida propia para pensionistas.</li>
+<li><strong>PSOE, ERC y PNV</strong>: tienen medidas generales sobre el IRPF, pero ninguna propia para las pensiones.</li>
+</ul>
+<h2 id="viudedad-y-orfandad">Viudedad y orfandad</h2>
+<ul>
+<li><strong>PSOE</strong>: subir la pensión de orfandad del 20 % al 30 % de la base reguladora (medida 106, página 41).</li>
+<li><strong>PP, Vox, Frente Amplio, ERC y PNV</strong>: no lo mencionan.</li>
+</ul>
+<h2 id="dependencia-y-cuidados">Dependencia y cuidados</h2>
+<ul>
+<li><strong>PP</strong>: un Pacto de Estado por la Dependencia, que el Estado pague el 50 % del gasto público, una deducción del 40 % de lo que paguen las familias por cuidados profesionales y que el Estado cotice por quien deje de trabajar para cuidar a un familiar (medida 114, página 44).</li>
+<li><strong>PSOE</strong>: aplicar del todo la reforma de la dependencia (Ley 4/2026), hacer de la ayuda a domicilio un servicio público esencial y proteger mejor a quien cuida (medidas 205 a 208, páginas 57 y 58). Y un año más cotizado por cada hijo (medida 101, página 40).</li>
+<li><strong>Vox</strong>: más presupuesto para dependencia y residencias, y que las ayudas lleguen «de manera rápida e íntegra» (medidas 95 y 96, página 52). Y que el Estado cotice por quien deja de trabajar para criar a sus hijos (medida 94, página 51).</li>
+<li><strong>Frente Amplio</strong>: subir el gasto en dependencia del 0,8 % al 1,7 % del PIB en 2030, duplicar las horas de ayuda a domicilio y un mes al año de respiro para las familias (página 23).</li>
+<li><strong>ERC</strong>: asegurar el dinero de la ley de dependencia y que el Estado pague el 50 % (medida 231, página 41).</li>
+<li><strong>PNV</strong>: una prestación para quien deja de trabajar para cuidar, con el salario mínimo como referencia (página 33), y que los años de cuidados cuenten para la pensión (medida 05, página 31).</li>
+</ul>
+<h2 id="los-partidos-que-no-han-publicado-programa">Los partidos que no han publicado programa</h2>
+<p><strong>Junts</strong> y <strong>EH Bildu</strong> también tenían grupo propio en el Congreso que se disolvió. A 17 de noviembre de 2026 no han publicado en su web un programa para estas elecciones. Si lo hacen, los añadiremos con los mismos criterios.</p>
+<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
+<h3 id="que-partido-propone-subir-las-pensiones-con-el-ipc">¿Qué partido propone subir las pensiones con el IPC?</h3>
+<p>PP, PSOE, Frente Amplio, ERC y PNV lo recogen en sus programas. PSOE y Frente Amplio proponen además llevarlo a la Constitución. Vox no habla de la subida. Hoy la subida con el IPC ya está en el artículo 58 de la Ley General de la Seguridad Social.</p>
+<h3 id="algun-partido-propone-bajar-la-edad-de-jubilacion">¿Algún partido propone bajar la edad de jubilación?</h3>
+<p>Frente Amplio propone volver a los 65 años y que en algunos oficios penosos se pueda a los 60. El PNV propone rebajarla a quien cuida a un familiar con convenio especial. Los demás no proponen cambiar la edad general.</p>
+<h3 id="quien-propone-quitar-el-recorte-de-la-jubilacion-anticipada">¿Quién propone quitar el recorte de la jubilación anticipada con 40 años cotizados?</h3>
+<p>Frente Amplio, para quien se jubila antes sin quererlo, y PNV, también para quien ya está jubilado. El PSOE propone «evaluar» que el recorte sea menor en la anticipada involuntaria. PP, Vox y ERC no lo mencionan.</p>
+<h3 id="por-que-no-aparecen-junts-ni-eh-bildu">¿Por qué no aparecen Junts ni EH Bildu?</h3>
+<p>Porque a 17 de noviembre de 2026 no han publicado su programa en su web oficial. Solo usamos documentos oficiales; si lo publican, los añadiremos.</p>
+<h3 id="esto-cambia-mi-pension-ahora">¿Esto cambia mi pensión ahora?</h3>
+<p>No. Un programa electoral no cambia nada: hace falta que el Gobierno o las Cortes que salgan de las elecciones aprueben una norma. Lo que pasa con tu pensión hasta entonces lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</p>
+<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
+<ul>
+<li>PP: <a href="https://www.pp.es/wp-content/uploads/2026/11/LA-RECONSTRUCCION-NACIONAL.pdf" rel="noopener">«La reconstrucción nacional»</a>, programa electoral (PDF, 82 páginas).</li>
+<li>PSOE: <a href="https://www.psoe.es/media-content/2026/11/PROGRAMAPSOE29N26.pdf" rel="noopener">«La fuerza de seguir avanzando»</a>, programa para las elecciones generales del 29 de noviembre de 2026 (PDF, 114 páginas).</li>
+<li>Vox: <a href="https://www.voxespana.es/wp-content/uploads/2026/11/Programa-completo-A5-1.pdf" rel="noopener">«Programa electoral. Es sentido común»</a> (PDF, 66 páginas).</li>
+<li>Frente Amplio: <a href="https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf" rel="noopener">programa electoral completo</a> (PDF, 151 páginas).</li>
+<li>ERC: <a href="https://esquerrarepublicana.cat/documents/e2026-programa.pdf" rel="noopener">«Eleccions al Congrés 2026. Programa electoral»</a>, en catalán (PDF, 48 páginas).</li>
+<li>PNV: <a href="https://www.eaj-pnv.eus/es/adjuntos-documentos/21765/pdf/programa-electoral-29n" rel="noopener">«Defendemos Euskadi»</a>, programa para las elecciones generales del 29 de noviembre (PDF, 43 páginas).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58" rel="noopener">Ley General de la Seguridad Social, artículo 58</a> (BOE).</li>
+</ul>
+<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
+<h2 id="siguiente-paso">Siguiente paso</h2>
+<ul>
+<li>Lo que propone cada partido, con más detalle: <a href="/elecciones/programa-pp-pensiones/">PP</a>, <a href="/elecciones/programa-psoe-pensiones/">PSOE</a>, <a href="/elecciones/programa-vox-pensiones/">Vox</a>, <a href="/elecciones/programa-frente-amplio-pensiones/">Frente Amplio</a>, <a href="/elecciones/programa-erc-pensiones/">ERC</a> y <a href="/elecciones/programa-pnv-pensiones/">PNV</a>.</li>
+<li>¿Qué pasa con tu pensión y con la subida de enero mientras tanto? Lo explicamos en <a href="/cuanto-cobrare/elecciones-y-pensiones/">las elecciones del 29N y tu pensión</a>.</li>
+<li>¿Cuánto subirá tu pensión en 2027? Calcúlalo con la calculadora de la subida de las pensiones.</li>
+</ul>
+</nav>
+<footer class="descargo">
+<p>Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dicen los programas oficiales de cada partido, con su página. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
+<p>Historial de cambios: 17 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV.</p>
+</footer>
+]]></content:encoded>
+    <excerpt:encoded><![CDATA[Lo que dicen de pensiones los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV para el 29N: subida, edad, mínimas y jubilación anticipada.]]></excerpt:encoded>
+    <wp:post_id>9076</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
+    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
+    <wp:post_name><![CDATA[propuestas-pensiones-partidos]]></wp:post_name>
+    <wp:status><![CDATA[draft]]></wp:status>
+    <wp:post_parent>0</wp:post_parent>
+    <wp:menu_order>0</wp:menu_order>
+    <wp:post_type><![CDATA[post]]></wp:post_type>
+    <wp:post_password><![CDATA[]]></wp:post_password>
+    <wp:is_sticky>0</wp:is_sticky>
+    <category domain="category" nicename="elecciones"><![CDATA[Elecciones 2026]]></category>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Pensiones en los programas del 29N: qué propone cada partido]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Lo que dicen de pensiones los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV para el 29N: subida, edad, mínimas y jubilación anticipada.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[propuestas pensiones partidos elecciones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Pensiones en los programas del 29N: qué propone cada partido]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Lo que dicen de pensiones los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV para el 29N: subida, edad, mínimas y jubilación anticipada.]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[propuestas pensiones partidos elecciones]]></wp:meta_value></wp:postmeta>
+    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
+  </item>
+  <item>
     <title><![CDATA[Plazas libres del Imserso: cómo encontrar viaje cuando tus destinos se han agotado]]></title>
     <link>https://jubilometro.com/imserso/plazas-libres/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -12859,7 +13556,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Plazas libres del Imserso: cada semana vuelven a la venta plazas por cancelaciones e impagos. Cuándo salen, cómo reservar en otra provincia y la espera.]]></excerpt:encoded>
-    <wp:post_id>9070</wp:post_id>
+    <wp:post_id>9077</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13025,7 +13722,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Requisitos de los viajes del Imserso 2026: jubilados a cualquier edad, viudos desde los 55 y otros pensionistas o parados desde los 60. Con quién ir.]]></excerpt:encoded>
-    <wp:post_id>9071</wp:post_id>
+    <wp:post_id>9078</wp:post_id>
     <wp:post_date><![CDATA[2026-11-01 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-01 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13213,7 +13910,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Reservar un viaje del Imserso: con tu DNI y la clave de 4 dígitos, en turismosocial.es, mundicolor.es o una agencia. Plazos de pago y cancelación.]]></excerpt:encoded>
-    <wp:post_id>9072</wp:post_id>
+    <wp:post_id>9079</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13392,7 +14089,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 60 años, la Tarjeta Dorada de Renfe cuesta 6 € y rebaja hasta un 40 % el tren. Y tu comunidad puede darte gratis una tarjeta de mayor con más descuentos.]]></excerpt:encoded>
-    <wp:post_id>9073</wp:post_id>
+    <wp:post_id>9080</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13701,7 +14398,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Termalismo del Imserso 2027: 199.000 plazas, 10 días de balneario desde 322,45 €. Para febrero-agosto se pide hasta el 4 de diciembre. Requisitos y baremo.]]></excerpt:encoded>
-    <wp:post_id>9074</wp:post_id>
+    <wp:post_id>9081</wp:post_id>
     <wp:post_date><![CDATA[2026-11-04 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-04 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13905,7 +14602,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Viajes para mayores de las comunidades autónomas: Castilla-La Mancha, Madrid, Castilla y León, Valencia y Galicia tienen viajes o balnearios propios.]]></excerpt:encoded>
-    <wp:post_id>9075</wp:post_id>
+    <wp:post_id>9082</wp:post_id>
     <wp:post_date><![CDATA[2026-11-04 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-04 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14060,7 +14757,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Universidad para mayores: desde los 50 o 55 años estudias sin título previo, y con 25, 40 o 45 años puedes entrar en un grado oficial. Cada opción explicada.]]></excerpt:encoded>
-    <wp:post_id>9076</wp:post_id>
+    <wp:post_id>9083</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14404,7 +15101,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Viajes del Imserso 2026-2027: 879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje y cómo conseguir plaza.]]></excerpt:encoded>
-    <wp:post_id>9077</wp:post_id>
+    <wp:post_id>9084</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14550,7 +15247,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Abogado de incapacidad permanente: para pedirla no hace falta y en el juicio no es obligatorio, pero ayuda. Cuánto cuesta y tu derecho a uno de oficio.]]></excerpt:encoded>
-    <wp:post_id>9078</wp:post_id>
+    <wp:post_id>9085</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14714,7 +15411,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 1 de diciembre de 2026, la baja por una patología de la menopausia no pide cotización previa y se cobra desde el día siguiente. Requisitos y ejemplo.]]></excerpt:encoded>
-    <wp:post_id>9079</wp:post_id>
+    <wp:post_id>9086</wp:post_id>
     <wp:post_date><![CDATA[2026-10-22 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-22 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14902,7 +15599,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[De baja por enfermedad cobras el 60 % de tu base del día 4 al 20 y el 75 % desde el 21; por accidente laboral, el 75 % desde el día siguiente. Con ejemplo.]]></excerpt:encoded>
-    <wp:post_id>9080</wp:post_id>
+    <wp:post_id>9087</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15031,7 +15728,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa y otros 30 para demandar. Plazos, pruebas y qué pasa con tu baja.]]></excerpt:encoded>
-    <wp:post_id>9081</wp:post_id>
+    <wp:post_id>9088</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15222,7 +15919,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Enfermedades que dan incapacidad permanente: no hay una lista cerrada, se valoran tus limitaciones para trabajar. Cómo decide el tribunal médico.]]></excerpt:encoded>
-    <wp:post_id>9082</wp:post_id>
+    <wp:post_id>9089</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15441,7 +16138,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9083</wp:post_id>
+    <wp:post_id>9090</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15588,7 +16285,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La gran incapacidad da el 100 % de la base reguladora más un complemento para quien te cuida. Cálculo del complemento, mínima de 1.404,30 € y dependencia.]]></excerpt:encoded>
-    <wp:post_id>9084</wp:post_id>
+    <wp:post_id>9091</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15730,7 +16427,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9085</wp:post_id>
+    <wp:post_id>9092</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15849,7 +16546,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad parcial se reconoce si rindes al menos un 33 % menos. Cobras 24 mensualidades de una vez y sigues en tu trabajo. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9086</wp:post_id>
+    <wp:post_id>9093</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16012,7 +16709,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></excerpt:encoded>
-    <wp:post_id>9087</wp:post_id>
+    <wp:post_id>9094</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16244,7 +16941,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9088</wp:post_id>
+    <wp:post_id>9095</wp:post_id>
     <wp:post_date><![CDATA[2026-11-13 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-13 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16360,7 +17057,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[A los 67 la incapacidad permanente pasa a llamarse jubilación sin cambiar. Si ya puedes jubilarte no hay incapacidad común, y las dos pensiones no se suman.]]></excerpt:encoded>
-    <wp:post_id>9089</wp:post_id>
+    <wp:post_id>9096</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16492,7 +17189,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Trabajar con incapacidad permanente: con la total puedes trabajar en otra profesión; con la absoluta, desde 2024, se suspende la pensión si te das de alta.]]></excerpt:encoded>
-    <wp:post_id>9090</wp:post_id>
+    <wp:post_id>9097</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16622,7 +17319,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Revisión del grado de incapacidad permanente: si empeoras puedes pedir un grado mayor y si mejoras el INSS puede bajarlo. Plazos, cómo prepararla y riesgos.]]></excerpt:encoded>
-    <wp:post_id>9091</wp:post_id>
+    <wp:post_id>9098</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16755,7 +17452,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente se pide al INSS o la inicia él tras la baja. Documentos, el tribunal médico, 10 días para alegar y 135 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9092</wp:post_id>
+    <wp:post_id>9099</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16896,7 +17593,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936,20 € al mes. Requisitos y casos.]]></excerpt:encoded>
-    <wp:post_id>9093</wp:post_id>
+    <wp:post_id>9100</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17034,7 +17731,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9094</wp:post_id>
+    <wp:post_id>9101</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17171,7 +17868,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de los trabajadores agrarios: igual que en el Régimen General, con reglas propias de cotización y lagunas y 6 años en el campo para la anticipada.]]></excerpt:encoded>
-    <wp:post_id>9095</wp:post_id>
+    <wp:post_id>9102</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17405,7 +18102,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada con 40 años cotizados sin penalización: la ley decayó al disolverse las Cortes el 6 de octubre. Qué proponía y cuánto pierdes hoy.]]></excerpt:encoded>
-    <wp:post_id>9096</wp:post_id>
+    <wp:post_id>9103</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17540,7 +18237,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada por discapacidad: con un 65 % puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte.]]></excerpt:encoded>
-    <wp:post_id>9097</wp:post_id>
+    <wp:post_id>9104</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17723,7 +18420,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada involuntaria por despido o ERE: hasta 4 años antes con 33 años cotizados y 6 meses en el paro, con un recorte de hasta el 30 %.]]></excerpt:encoded>
-    <wp:post_id>9098</wp:post_id>
+    <wp:post_id>9105</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17880,7 +18577,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Coeficientes reductores de la edad de jubilación por profesión: bomberos, policías locales, mineros o trabajadores del mar se jubilan antes sin recorte.]]></excerpt:encoded>
-    <wp:post_id>9099</wp:post_id>
+    <wp:post_id>9106</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18068,7 +18765,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada voluntaria: hasta 2 años antes con 35 años cotizados, perdiendo entre un 2,81 % y un 21 % de pensión para siempre. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9100</wp:post_id>
+    <wp:post_id>9107</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18242,7 +18939,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de autónomos: la misma edad que los asalariados, al corriente de cuotas y 672 € menos de pensión media. Cómo mejorar la pensión de un autónomo.]]></excerpt:encoded>
-    <wp:post_id>9101</wp:post_id>
+    <wp:post_id>9108</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18393,7 +19090,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los bomberos adelantan la jubilación 0,20 años por año trabajado, sin recorte de pensión, hasta los 60 o los 59 con 35 años de servicio. También forestales.]]></excerpt:encoded>
-    <wp:post_id>9102</wp:post_id>
+    <wp:post_id>9109</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18563,7 +19260,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cita previa en la Seguridad Social: teléfonos del INSS (24 horas), cómo pedirla por internet con o sin certificado y qué trámites haces sin ir a la oficina.]]></excerpt:encoded>
-    <wp:post_id>9103</wp:post_id>
+    <wp:post_id>9110</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18787,7 +19484,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[¿Compensa jubilarse antes? Si adelantas 2 años, la ventaja se agota entre los 73 y los 78 años. Calcula tu punto de equilibrio con tu recorte real.]]></excerpt:encoded>
-    <wp:post_id>9104</wp:post_id>
+    <wp:post_id>9111</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18942,7 +19639,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Convenio especial con la Seguridad Social: si dejas de trabajar antes de jubilarte, sigues cotizando desde unos 392 € al mes en 2026. Cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9105</wp:post_id>
+    <wp:post_id>9112</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19042,7 +19739,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[¿Cuánto tarda en resolverse la jubilación? Unos 10 días de media (9,63 en septiembre de 2026), con un máximo de 90. Qué hacer si se retrasa y cómo reclamar.]]></excerpt:encoded>
-    <wp:post_id>9106</wp:post_id>
+    <wp:post_id>9113</wp:post_id>
     <wp:post_date><![CDATA[2026-10-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19212,7 +19909,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación demorada: si retrasas la jubilación ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9107</wp:post_id>
+    <wp:post_id>9114</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19374,7 +20071,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te despiden a los 60, puedes encadenar paro (hasta 2 años), subsidio de mayores de 52 (480 € al mes) y jubilación. Te explicamos el orden y qué conviene.]]></excerpt:encoded>
-    <wp:post_id>9108</wp:post_id>
+    <wp:post_id>9115</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19522,7 +20219,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de docentes: los funcionarios se jubilan a los 65 o al acabar el curso, y en la universidad a los 70. Clases Pasivas o Seguridad Social y pensión.]]></excerpt:encoded>
-    <wp:post_id>9109</wp:post_id>
+    <wp:post_id>9116</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19652,7 +20349,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9110</wp:post_id>
+    <wp:post_id>9117</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20302,7 +20999,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Edad de jubilación 2027: a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9111</wp:post_id>
+    <wp:post_id>9118</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20410,7 +21107,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las empleadas de hogar se jubilan con las reglas del Régimen General: 15 años cotizados y la misma edad. Qué cambió con las lagunas en 2024 y por qué cotizar.]]></excerpt:encoded>
-    <wp:post_id>9112</wp:post_id>
+    <wp:post_id>9119</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20541,7 +21238,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9113</wp:post_id>
+    <wp:post_id>9120</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20719,7 +21416,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación flexible, activa o parcial: tres formas de cobrar pensión y trabajar. Requisitos, jornada y cuánta pensión cobras con cada una en 2026.]]></excerpt:encoded>
-    <wp:post_id>9114</wp:post_id>
+    <wp:post_id>9121</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20853,7 +21550,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación flexible 2026: desde el 28 de agosto puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más. Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9115</wp:post_id>
+    <wp:post_id>9122</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21111,7 +21808,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cómo se jubila un funcionario en 2026: forzosa a los 65, voluntaria a los 60 con 30 años, haberes reguladores de Clases Pasivas, ejemplos y MUFACE.]]></excerpt:encoded>
-    <wp:post_id>9116</wp:post_id>
+    <wp:post_id>9123</wp:post_id>
     <wp:post_date><![CDATA[2026-10-15 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-15 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21263,7 +21960,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los guardias civiles pasan a la reserva a los 58 (oficiales, 61) y se retiran a los 65. Cómo se calcula su pensión en Clases Pasivas o Seguridad Social.]]></excerpt:encoded>
-    <wp:post_id>9117</wp:post_id>
+    <wp:post_id>9124</wp:post_id>
     <wp:post_date><![CDATA[2026-10-15 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-15 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21427,7 +22124,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de militares: reserva a los 61 (tropa permanente, 58) y retiro a los 65. Qué pasa con la tropa a los 45 años y cuánto se cobra de pensión.]]></excerpt:encoded>
-    <wp:post_id>9118</wp:post_id>
+    <wp:post_id>9125</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21565,7 +22262,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El número de la Seguridad Social es único y para toda la vida. Cómo consultarlo en Import@ss o en tu vida laboral y cómo pedirlo sin certificado digital.]]></excerpt:encoded>
-    <wp:post_id>9119</wp:post_id>
+    <wp:post_id>9126</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21691,7 +22388,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación parcial 2026: hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, reducción de jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9120</wp:post_id>
+    <wp:post_id>9127</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21854,7 +22551,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El SOVI paga 599,60 € al mes en 14 pagas a quien cotizó 1.800 días antes de 1967 y no tiene otra pensión. Requisitos, partos que suman y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9121</wp:post_id>
+    <wp:post_id>9128</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21994,7 +22691,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías locales adelantan la jubilación 0,20 años por año de servicio, hasta 5 o 6 años y sin recorte de pensión: a los 59 o 60 con carrera larga.]]></excerpt:encoded>
-    <wp:post_id>9122</wp:post_id>
+    <wp:post_id>9129</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22154,7 +22851,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías nacionales pueden pasar a segunda actividad desde los 58 y se jubilan a los 65. Cómo se calcula la pensión en Clases Pasivas o Seguridad Social.]]></excerpt:encoded>
-    <wp:post_id>9123</wp:post_id>
+    <wp:post_id>9130</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22315,7 +23012,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Mossos, ertzainas y policías forales adelantan la jubilación 0,20 años por año de servicio, sin recorte de pensión: desde los 60, o los 59 con 35 años.]]></excerpt:encoded>
-    <wp:post_id>9124</wp:post_id>
+    <wp:post_id>9131</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22509,7 +23206,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Prejubilación: en un despido colectivo con 55 años o más, la empresa paga tu convenio especial hasta los 63 (61 por causas económicas). Cómo funciona.]]></excerpt:encoded>
-    <wp:post_id>9125</wp:post_id>
+    <wp:post_id>9132</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22667,7 +23364,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Marinos, pescadores, estibadores y mariscadoras adelantan la jubilación hasta 10 años según el barco o la actividad, sin recorte de pensión. Tabla oficial.]]></excerpt:encoded>
-    <wp:post_id>9126</wp:post_id>
+    <wp:post_id>9133</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22785,7 +23482,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9127</wp:post_id>
+    <wp:post_id>9134</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22919,7 +23616,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9128</wp:post_id>
+    <wp:post_id>9135</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23020,7 +23717,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación con años trabajados en otro país: lo cotizado en la UE o en países con convenio se suma para jubilarte y cada país paga su parte. Dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9129</wp:post_id>
+    <wp:post_id>9136</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23169,7 +23866,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El auxilio por defunción son 46,50 € en un solo pago para quien pagó el entierro. Quién lo genera, documentos, plazo de 5 años y cómo pedirlo por internet.]]></excerpt:encoded>
-    <wp:post_id>9130</wp:post_id>
+    <wp:post_id>9137</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23286,7 +23983,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es compatible con cualquier sueldo, pero trabajar puede quitarte el complemento a mínimos, el 60 % o el 70 %. Paro, IRPF y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9131</wp:post_id>
+    <wp:post_id>9138</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23488,7 +24185,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuantía de la pensión de viudedad 2026: el 52 % de la base reguladora, el 60 % desde los 65 sin otros ingresos o el 70 % con cargas. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9132</wp:post_id>
+    <wp:post_id>9139</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23573,7 +24270,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si estabas divorciado o separado, cobras viudedad si tenías pensión compensatoria, con ese tope. Violencia de género, divorcios anteriores a 2008 y reparto.]]></excerpt:encoded>
-    <wp:post_id>9133</wp:post_id>
+    <wp:post_id>9140</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23718,7 +24415,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9134</wp:post_id>
+    <wp:post_id>9141</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23867,7 +24564,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Pensión en favor de familiares: hijos, hermanos, nietos, padres o abuelos a cargo del fallecido cobran el 20 % de su base reguladora. Requisitos 2026.]]></excerpt:encoded>
-    <wp:post_id>9135</wp:post_id>
+    <wp:post_id>9142</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23973,7 +24670,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Pensión de viudedad y nuevo matrimonio: se pierde al casarte o formar pareja de hecho, salvo con más de 61 años y si es tu principal ingreso. Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9136</wp:post_id>
+    <wp:post_id>9143</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24085,7 +24782,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años. Con hijos comunes bastan 2 años de convivencia, sin inscripción.]]></excerpt:encoded>
-    <wp:post_id>9137</wp:post_id>
+    <wp:post_id>9144</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24203,7 +24900,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión de orfandad es el 20 % de la base reguladora por hijo, con un mínimo de 286,50 € al mes en 2026. Edad límite, orfandad absoluta y límites.]]></excerpt:encoded>
-    <wp:post_id>9138</wp:post_id>
+    <wp:post_id>9145</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24317,7 +25014,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Prestación temporal de viudedad: si no llegabais a un año de matrimonio o a dos de pareja de hecho, cobras lo mismo que la viudedad durante dos años.]]></excerpt:encoded>
-    <wp:post_id>9139</wp:post_id>
+    <wp:post_id>9146</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24510,7 +25207,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 años en total. Requisitos de matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9140</wp:post_id>
+    <wp:post_id>9147</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24616,7 +25313,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Solicitar la pensión de viudedad: se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (3 meses de atrasos) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9141</wp:post_id>
+    <wp:post_id>9148</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24733,7 +25430,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9142</wp:post_id>
+    <wp:post_id>9149</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

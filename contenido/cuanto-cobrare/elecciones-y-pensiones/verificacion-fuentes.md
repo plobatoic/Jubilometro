@@ -22,3 +22,4 @@
 | 16 | A 23/10/2026 ningún partido con grupo propio (PSOE, PP, Vox, Sumar, ERC, Junts, EH Bildu, EAJ-PNV) ha publicado su programa del 29N | Webs oficiales de los partidos (Vox y PSOE leídas a través de Apify; la página «programa electoral» de Vox da error 404) | Revisión diaria programada | Verificado |
 
 **Para revisar:** cuando se publiquen los programas (antes del 13/11), añadir las propuestas sobre pensiones de cada candidatura con enlace a su programa; el 27/11, la subida con el IPC de noviembre; tras el 29/11, si el Gobierno aprueba el real decreto-ley de revalorización y cuándo; el 23/12, si se vuelve a registrar la proposición de los 40 años.
+| 17 | A 17/11/2026 han publicado programa oficial PP, PSOE, Vox, Frente Amplio, ERC y PNV; Junts y EH Bildu, no | Webs oficiales de los partidos | Lectura de cada programa (detalle en /elecciones/propuestas-pensiones-partidos/) | Verificado (17/11/2026) |
