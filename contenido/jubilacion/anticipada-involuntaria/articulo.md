@@ -145,7 +145,7 @@ Sí, como máximo un año, para completar los 33 años cotizados.
 
 ## Siguiente paso
 
-- ¿Te compensa? Mira la [comparativa de jubilarse a los 63, 64 o 65 años](/jubilacion/compensa-jubilarse-antes/).
+- ¿Te compensa? Mira la [comparativa de jubilarse a los 63, 64 o 65 años](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes).
 - ¿Te han despedido a los 60? Lee [despido a los 60: paro, subsidio y jubilación](/jubilacion/despido-a-los-60/).
 - ¿Te despiden en un ERE con 55 años o más? Mira [prejubilación: el convenio especial que paga la empresa](/jubilacion/prejubilacion/).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).

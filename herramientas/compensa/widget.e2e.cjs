@@ -3,7 +3,7 @@
 const path = require('path');
 const assert = require('assert/strict');
 const { chromium } = require('playwright');
-const html = path.resolve(__dirname, '../../contenido/jubilacion/compensa-jubilarse-antes/articulo.html');
+const html = path.resolve(__dirname, '../../contenido/jubilacion/anticipada-voluntaria/articulo.html');
 const CASOS = [
   { edad: '67', meses: 24, recorte: '21', pension: '', espera: 'a los 74 años y 6 meses' },
   { edad: '65', meses: 24, recorte: '19', pension: '2000', espera: 'a los 73 años y 6 meses', extra: 'dejas de cobrar 5.320 € al año' },

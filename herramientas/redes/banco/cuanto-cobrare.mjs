@@ -303,13 +303,13 @@ En la calculadora de la subida pones tu pensión de 2026 y te dice cuánto cobra
 ${L('subida', 'wa')}`,
   },
   {
-    id: 'paga-junio-x', red: 'x', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/pagas-extra/', desde: '2027-06-01', hasta: '2027-06-25',
+    id: 'paga-junio-x', red: 'x', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/calendario-pago-pensiones/', desde: '2027-06-01', hasta: '2027-06-25',
     texto: `La paga extra de verano llega junto con la pensión de junio. Si tu banco adelanta el pago, suele llegar entre el 22 y el 26 de junio. Es una mensualidad entera si cobraste la pensión todo el semestre; si no, la parte proporcional.
 
 ${L('paga-extra', 'x')}`,
   },
   {
-    id: 'paga-junio-wa', red: 'whatsapp', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/pagas-extra/', desde: '2027-06-01', hasta: '2027-06-25',
+    id: 'paga-junio-wa', red: 'whatsapp', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/calendario-pago-pensiones/', desde: '2027-06-01', hasta: '2027-06-25',
     texto: `Recordatorio: la paga extra de verano llega con la pensión de junio, normalmente entre el 22 y el 26 si tu banco adelanta el pago. Las pensiones por accidente de trabajo o enfermedad profesional no tienen paga extra aparte: van repartidas en 12 pagas.
 
 ${L('paga-extra', 'wa')}`,

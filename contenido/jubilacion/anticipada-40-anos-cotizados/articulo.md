@@ -126,7 +126,7 @@ Depende de tu situación, y no podemos decidirlo por ti, pero estas ideas ayudan
 - **Según el texto que decayó, jubilarte antes no te habría dejado fuera:** quien ya estuviera jubilado con 40 años cotizados podría pedir el recálculo. Pero perdería la diferencia de todos los meses hasta pedirlo, y una ley nueva podría decir otra cosa.
 - **Si te faltan pocos meses para los 65**, recuerda que adelantar un solo mes ya cuesta un 3,11 % de pensión de por vida en la voluntaria: esperar esos meses suele salir más a cuenta.
 - **Si estás en el paro**, comprueba si cobras el [subsidio para mayores de 52 años](/jubilacion/subsidio-mayores-52/), que cotiza para la jubilación, o si te interesa suscribir un [convenio especial con la Seguridad Social](/jubilacion/convenio-especial/) para seguir sumando años.
-- **Compara siempre con cifras.** Lo hacemos para los 63, 64 y 65 años en [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/)
+- **Compara siempre con cifras.** Lo hacemos para los 63, 64 y 65 años en [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes)
 
 ## Formas de jubilarse antes sin recorte que ya existen
 

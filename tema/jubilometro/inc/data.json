@@ -190,14 +190,14 @@
   "simulador": "/calculadoras/simulador-jubilacion/",
   "anticipada": "/calculadoras/jubilacion-anticipada/",
   "40-anos": "/jubilacion/anticipada-40-anos-cotizados/",
-  "compensa": "/jubilacion/compensa-jubilarse-antes/",
+  "compensa": "/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes",
   "demorada": "/jubilacion/demorada/",
   "neta": "/calculadoras/pension-neta-irpf/",
   "sueldo": "/cuanto-cobrare/pension-segun-sueldo/",
   "anos-cotizados": "/cuanto-cobrare/porcentaje-anos-cotizados/",
   "vida-laboral": "/cuanto-cobrare/informe-vida-laboral/",
   "lagunas": "/cuanto-cobrare/lagunas-de-cotizacion/",
-  "paga-extra": "/cuanto-cobrare/pagas-extra/",
+  "paga-extra": "/cuanto-cobrare/calendario-pago-pensiones/#las-pagas-extra-junio-y-noviembre",
   "cobro": "/cuanto-cobrare/calendario-pago-pensiones/",
   "minima": "/cuanto-cobrare/pension-minima/",
   "maxima": "/cuanto-cobrare/pension-maxima/",
@@ -352,7 +352,11 @@
  "fusionadas": {
   "/dinero/rescate-aportaciones-10-anos/": "/dinero/rescate-plan-pensiones/",
   "/incapacidad/total-cualificada/": "/incapacidad/incapacidad-total/",
-  "/cuanto-cobrare/base-reguladora/": "/cuanto-cobrare/como-se-calcula-la-pension/"
+  "/cuanto-cobrare/base-reguladora/": "/cuanto-cobrare/como-se-calcula-la-pension/",
+  "/jubilacion/flexible-activa-o-parcial/": "/jubilacion/flexible/",
+  "/cuanto-cobrare/pagas-extra/": "/cuanto-cobrare/calendario-pago-pensiones/",
+  "/dependencia/residencias-publicas/": "/dependencia/precio-residencias/",
+  "/jubilacion/compensa-jubilarse-antes/": "/jubilacion/anticipada-voluntaria/"
  },
  "cortos_retirados": {
   "elecciones": "/cuanto-cobrare/elecciones-y-pensiones/"

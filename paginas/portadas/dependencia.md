@@ -22,7 +22,7 @@ La ley da prioridad a los **servicios**, que prestan la comunidad o el ayuntamie
 - **[Teleasistencia](/dependencia/teleasistencia/)**: un pulsador conectado a una central que atiende las 24 horas.
 - **[Ayuda a domicilio](/dependencia/ayuda-a-domicilio/)**: auxiliares que van a casa, entre 20 y 94 horas al mes según el grado.
 - **[Centro de día](/dependencia/centro-de-dia/)**: atención durante el día y vuelta a casa por la noche.
-- **Residencia**: una plaza pública o concertada, por la que pagas según tus ingresos y tu patrimonio, con un máximo del 90 % del coste y quedándote al menos 114 euros al mes. Comparamos opciones en [residencia pública o privada](/dependencia/residencias-publicas/) y en [precio de las residencias](/dependencia/precio-residencias/).
+- **Residencia**: una plaza pública o concertada, por la que pagas según tus ingresos y tu patrimonio, con un máximo del 90 % del coste y quedándote al menos 114 euros al mes. Comparamos opciones en [residencia pública o privada](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias) y en [precio de las residencias](/dependencia/precio-residencias/).
 
 Si no hay plaza pública, recibes una **ayuda económica** para pagar un servicio privado, de hasta 747,25 euros al mes. Y si te cuida un familiar en casa, la [prestación por cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/) llega en 2026 a 455,40 euros al mes con el grado III, 315,90 con el II y 180 con el I, según tu capacidad económica. Ese familiar puede firmar un [convenio especial](/dependencia/convenio-cuidador/) para seguir cotizando para su jubilación, y la cuota la paga el Estado.
 

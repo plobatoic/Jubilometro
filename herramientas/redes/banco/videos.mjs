@@ -36,7 +36,7 @@ export const VIDEOS_BANCO = [
 #baja #trabajo #seguridadsocial`,
   }),
   video('video-16-compensa', {
-    id: 'video-compensa', pilar: 'Calcula tu caso', fuente: '/jubilacion/compensa-jubilarse-antes/',
+    id: 'video-compensa', pilar: 'Calcula tu caso', fuente: '/jubilacion/anticipada-voluntaria/',
     titulo: '¿Compensa jubilarse 2 años antes?',
     texto: `Si adelantas la jubilación 2 años, lo cobrado de más se agota entre los 73 y los 79 años. Haz tus cuentas: ${L('compensa', 'yt')}
 

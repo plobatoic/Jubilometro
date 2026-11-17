@@ -77,7 +77,7 @@ Pedro nació en marzo de 1966, lo despiden en marzo de 2026 y su edad ordinaria 
 - La **opción A** da menos ingresos entre los 62 y los 65 (el subsidio), pero una pensión mayor para siempre.
 - La **opción B** da más ingresos antes, pero con un recorte permanente del 28 % (4 años de adelanto con entre 38 años y 6 meses y 41 años y 6 meses cotizados).
 
-Para compararlas con tus números, usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/) En casos con indemnizaciones altas o bases de cotización muy elevadas, merece la pena un asesoramiento profesional.
+Para compararlas con tus números, usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes) En casos con indemnizaciones altas o bases de cotización muy elevadas, merece la pena un asesoramiento profesional.
 
 ## Otras piezas que conviene conocer
 

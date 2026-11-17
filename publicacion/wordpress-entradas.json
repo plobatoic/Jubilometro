@@ -81,7 +81,7 @@
   },
   "/cuanto-cobrare/pagas-extra/": {
     "id": 412,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/cuanto-cobrare/pension-bruta-y-neta/": {
     "id": 419,
@@ -217,7 +217,7 @@
   },
   "/dependencia/residencias-publicas/": {
     "id": 185,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/dependencia/solicitar-dependencia/": {
     "id": 181,
@@ -425,7 +425,7 @@
   },
   "/jubilacion/compensa-jubilarse-antes/": {
     "id": 297,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/jubilacion/convenio-especial/": {
     "id": 298,
@@ -465,7 +465,7 @@
   },
   "/jubilacion/flexible-activa-o-parcial/": {
     "id": 305,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/jubilacion/flexible/": {
     "id": 144,

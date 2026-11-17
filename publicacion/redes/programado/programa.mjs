@@ -67,7 +67,7 @@ export const PUBLICACIONES = [
   "red": "x",
   "tipo": "Hilo",
   "pilar": "Calendario y avisos",
-  "fuente": "/cuanto-cobrare/pagas-extra/",
+  "fuente": "/cuanto-cobrare/calendario-pago-pensiones/#las-pagas-extra-junio-y-noviembre",
   "partes": [
    "La paga extra de Navidad de los pensionistas: cuándo llega y cuánto es. Hilo.",
    "1. Las pensiones de la Seguridad Social se cobran en 14 pagas: las 12 mensuales y dos extra, con la pensión de junio y con la de noviembre.",
@@ -133,7 +133,7 @@ export const PUBLICACIONES = [
   "red": "instagram",
   "tipo": "Carrusel",
   "pilar": "Calendario y avisos",
-  "fuente": "/cuanto-cobrare/pagas-extra/",
+  "fuente": "/cuanto-cobrare/calendario-pago-pensiones/#las-pagas-extra-junio-y-noviembre",
   "diapositivas": [
    "Paga extra de Navidad: cuándo llega.",
    "Llega junto con la pensión de noviembre.",
@@ -183,7 +183,7 @@ export const PUBLICACIONES = [
   "hasta": "2026-11-21",
   "red": "facebook",
   "pilar": "Calendario y avisos",
-  "fuente": "/cuanto-cobrare/pagas-extra/",
+  "fuente": "/cuanto-cobrare/calendario-pago-pensiones/#las-pagas-extra-junio-y-noviembre",
   "texto": "La paga extra de Navidad llega junto con la pensión de noviembre.\n\nSi tu banco adelanta el pago, la verás entre el 22 y el 26 de noviembre. Si no lo adelanta, la Seguridad Social la paga como tarde el primer día hábil de diciembre. Cada banco elige si adelanta y qué día.\n\n¿El tuyo os la adelantó el año pasado? Cuéntanos qué banco y qué día, y así lo sabemos todos.",
   "imagen": "«Paga extra: 22-26 de noviembre» en letra grande, con «si tu banco adelanta el pago» debajo.",
   "id": "mes1-88",
@@ -1367,7 +1367,7 @@ export const PUBLICACIONES = [
   "id": "residencias-fb",
   "red": "facebook",
   "pilar": "Calcula tu caso",
-  "fuente": "/dependencia/residencias-publicas/",
+  "fuente": "/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias",
   "texto": "Residencia pública o privada: lo que cambia para la familia.\n\nEn una plaza pública o concertada pagas según tu capacidad económica: tus ingresos y el 5 % de tu patrimonio, con un máximo del 90 % del coste y quedándote al menos 114 euros al mes para tus gastos. Se accede con la dependencia en grado II o III, y suele haber lista de espera. De media, el residente paga 692,40 euros al mes por una plaza que cuesta 1.958,95.\n\nEn una residencia privada pagas el precio entero, pero eliges el centro y entras antes. Si tienes la dependencia reconocida y no hay plaza pública, puedes cobrar hasta 747,25 euros al mes para pagarla, si la residencia está acreditada.\n\nTienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "imagenLista": "publicacion/redes/banco/cifras/residencias-fb.png",
   "fecha": "2026-12-12",
@@ -1763,7 +1763,7 @@ export const PUBLICACIONES = [
   "id": "trabajar-jubilado-fb",
   "red": "facebook",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/flexible-activa-o-parcial/",
+  "fuente": "/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene",
   "texto": "Tres formas legales de cobrar la pensión y trabajar a la vez, según el momento en que estés.\n\nAntes de jubilarte del todo, la jubilación parcial: reduces jornada en tu empresa, hasta 3 años antes de tu edad ordinaria, y la empresa contrata a otra persona con un contrato de relevo.\n\nSi retrasas tu jubilación al menos un año, la activa: trabajas a jornada completa o parcial y cobras del 45 % al 100 % de la pensión, según los años de retraso.\n\nSi ya estás jubilado, la flexible: vuelves a trabajar a tiempo parcial, del 33 % al 80 % de la jornada, y cobras la pensión reducida en proporción. Si empiezas al menos 6 meses después de jubilarte, recibes un incremento del 15 % o del 25 %.\n\n¿Estás pensando en seguir trabajando después de jubilarte? Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "fecha": "2026-12-24",
   "hora": "11:00"
@@ -2151,7 +2151,7 @@ export const PUBLICACIONES = [
   "id": "compensa-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/compensa-jubilarse-antes/",
+  "fuente": "/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes",
   "texto": "¿Compensa jubilarse 2 años antes? Solo con las pensiones en la mano, lo cobrado de más se agota entre los 73 y los 79 años, según tu recorte. Desde ahí pierdes dinero cada año, y a los 65 quedan de media más de 19 años de vida.\n\njubilometro.com/compensa/x",
   "fecha": "2027-01-05",
   "hora": "09:00"
@@ -2207,7 +2207,7 @@ export const PUBLICACIONES = [
   "red": "instagram",
   "tipo": "Carrusel",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/flexible-activa-o-parcial/",
+  "fuente": "/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene",
   "diapositivas": [
    "Cobrar la pensión y trabajar a la vez: tres formas legales.",
    "Parcial: antes de jubilarte del todo, reduces jornada en tu empresa, hasta 3 años antes de tu edad ordinaria.",
@@ -2474,7 +2474,7 @@ export const PUBLICACIONES = [
   "id": "compensa-fb",
   "red": "facebook",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/compensa-jubilarse-antes/",
+  "fuente": "/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes",
   "texto": "¿Compensa jubilarse antes? Hicimos las cuentas con las pensiones en la mano.\n\nSi adelantas tu jubilación 2 años, cobras antes, pero con un recorte para toda la vida. Lo que cobras de más en esos dos años se agota entre los 73 y los 79 años, según tu recorte. A partir de ahí, cada año pierdes dinero. Y a los 65 años la esperanza de vida supera los 19 años en los hombres y los 23 en las mujeres.\n\nAun así, puede compensar si no vas a tener otros ingresos hasta tu edad ordinaria, si tu salud lo aconseja o si necesitas el dinero ahora. Y casi nunca compensa si te faltan pocos meses para llegar a 38 años y 6 meses cotizados, porque con ellos te jubilas a los 65 sin recorte.\n\nTienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "fecha": "2027-01-14",
   "hora": "11:00"
@@ -2756,7 +2756,7 @@ export const PUBLICACIONES = [
   "red": "instagram",
   "tipo": "Carrusel",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/compensa-jubilarse-antes/",
+  "fuente": "/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes",
   "diapositivas": [
    "¿Compensa jubilarse antes? Las cuentas, con las pensiones en la mano.",
    "Si adelantas 2 años, cobras antes, pero con un recorte para toda la vida.",

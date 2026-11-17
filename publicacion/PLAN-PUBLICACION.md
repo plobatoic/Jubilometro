@@ -549,6 +549,17 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Fusión de guías que se repiten, tanda 2 (17/11/2026, tema 2.11.37)
+
+Fusiones 4 a 7 de `publicacion/seo/propuesta-fusiones-2026-11.md` (aprobadas el 13/11), igual que la tanda 1:
+
+- `/jubilacion/flexible-activa-o-parcial/` → `/jubilacion/flexible/`: apartado «Flexible, activa o parcial: cuál te conviene» (tabla comparativa, qué conviene en cada situación, casos con 1.800 €) y pregunta frecuente.
+- `/cuanto-cobrare/pagas-extra/` → `/cuanto-cobrare/calendario-pago-pensiones/`: «Cuánto es la paga extra», tabla de noviembre, ejemplo de Luis, finiquito, sin paga compensatoria y dos preguntas frecuentes.
+- `/dependencia/residencias-publicas/` → `/dependencia/precio-residencias/`: comparativa pública, concertada y privada, quién puede ir, ejemplo de Antonio, consejos para elegir y dos preguntas frecuentes.
+- `/jubilacion/compensa-jubilarse-antes/` → `/jubilacion/anticipada-voluntaria/`: «¿Compensa jubilarse antes?» con la fórmula, la tabla del punto de equilibrio, **la calculadora** (`<!-- calculadora:compensa -->`, su prueba `herramientas/compensa/widget.e2e.cjs` apunta ahora a esta guía y pasa), cuándo compensa y cuándo no, impuestos y dos preguntas frecuentes.
+
+Cómo: 301 en `inc/data.json` → `fusionadas`; entradas viejas a borrador (ids 305, 412, 185 y 297); copias en `publicacion/fusionadas/`; enlaces internos de 23 guías, 3 portadas y 3 páginas de calculadora a la sección nueva (con ancla); enlaces cortos `paga-extra` y `compensa` a la sección nueva; `fuente` de las publicaciones de redes cambiada; imágenes destacadas de las viejas quitadas de `web.mjs`; pruebas cambiadas a las guías nuevas. Comprobado: las cuatro direcciones viejas dan 301, `npm test` (25 bien), `npm run comprobar` sin fallos, calculadora bien en la web.
+
 ### Sección «Elecciones 2026» con los programas de los partidos (17/11/2026, tema 2.11.36)
 
 Se cumple el criterio del titular (13/11): los cuatro principales (PP, PSOE, Vox y Frente Amplio, lista confirmada el 15/11) ya tienen el programa completo en su web y trata las pensiones. Frente Amplio colgó el PDF (151 páginas) entre el 16 y el 17/11; el PSOE, el 15/11. Hecho según la decisión del 22/10:

@@ -741,7 +741,7 @@ Al INSS se le pide la pensión de viudedad, la de orfandad y el auxilio por defu
 ${FB_WEB}`,
   },
   {
-    fecha: '2026-11-03', banco: 'perenne', hasta: '2026-11-21', red: 'x', tipo: 'Hilo', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/pagas-extra/',
+    fecha: '2026-11-03', banco: 'perenne', hasta: '2026-11-21', red: 'x', tipo: 'Hilo', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/calendario-pago-pensiones/',
     partes: [
       `La paga extra de Navidad de los pensionistas: cuándo llega y cuánto es. Hilo.`,
       `1. Las pensiones de la Seguridad Social se cobran en 14 pagas: las 12 mensuales y dos extra, con la pensión de junio y con la de noviembre.`,
@@ -760,7 +760,7 @@ Puedes cobrar la pensión en el banco que elijas y cambiarlo cuando quieras. Lo 
 El ingreso de la pensión no te puede costar nada. Si te ofrecen un regalo o dinero por domiciliarla, lee la permanencia y recuerda que tributa en la declaración de la renta. ${FB_WEB}`,
   },
   {
-    fecha: '2026-11-03', banco: 'perenne', hasta: '2026-11-21', red: 'instagram', tipo: 'Carrusel', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/pagas-extra/',
+    fecha: '2026-11-03', banco: 'perenne', hasta: '2026-11-21', red: 'instagram', tipo: 'Carrusel', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/calendario-pago-pensiones/',
     diapositivas: [
       'Paga extra de Navidad: cuándo llega.',
       'Llega junto con la pensión de noviembre.',
@@ -804,7 +804,7 @@ En la realidad las bases cambian con los años y hay lagunas, por eso la guía t
 Lo cobran las madres con pensión de jubilación, incapacidad permanente o viudedad. Los padres, solo en casos concretos. ${L('brecha', 'x')}`,
   },
   {
-    fecha: '2026-11-04', banco: 'perenne', hasta: '2026-11-21', red: 'whatsapp', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/pagas-extra/',
+    fecha: '2026-11-04', banco: 'perenne', hasta: '2026-11-21', red: 'whatsapp', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/calendario-pago-pensiones/',
     texto: `Se acerca la paga extra de Navidad: llega con la pensión de noviembre. Si tu banco adelanta el pago, entre el 22 y el 26 de noviembre; si no, como tarde el primer día hábil de diciembre.
 
 Cuánto es y qué día paga cada banco: ${L('paga-extra', 'wa')}`,
@@ -862,7 +862,7 @@ ${FB_WEB}`,
 Para la vida laboral, la Tesorería atiende sin cita de lunes a viernes, de 9 a 14 h. ${L('cita-previa', 'x')}`,
   },
   {
-    fecha: '2026-11-06', banco: 'perenne', hasta: '2026-11-21', red: 'facebook', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/pagas-extra/',
+    fecha: '2026-11-06', banco: 'perenne', hasta: '2026-11-21', red: 'facebook', pilar: 'Calendario y avisos', fuente: '/cuanto-cobrare/calendario-pago-pensiones/',
     texto: `La paga extra de Navidad llega junto con la pensión de noviembre.
 
 Si tu banco adelanta el pago, la verás entre el 22 y el 26 de noviembre. Si no lo adelanta, la Seguridad Social la paga como tarde el primer día hábil de diciembre. Cada banco elige si adelanta y qué día.

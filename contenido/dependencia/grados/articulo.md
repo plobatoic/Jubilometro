@@ -141,7 +141,7 @@ Sí. La revisión del grado se puede pedir en cualquier momento si la situación
 
 - ¿Todavía no la has pedido? Sigue la [guía de la ley de dependencia](/dependencia/ley-dependencia/).
 - ¿Te cuida un familiar? Mira la [prestación por cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/).
-- ¿Necesita residencia? Compara [residencia pública o privada](/dependencia/residencias-publicas/).
+- ¿Necesita residencia? Compara [residencia pública o privada](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias).
 
 ---
 

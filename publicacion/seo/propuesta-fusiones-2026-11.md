@@ -48,7 +48,7 @@
 | Tanda | Semana | Fusiones | Estado |
 |---|---|---|---|
 | 1 | 13/11 | 1, 2 y 3 | Hecha el 13/11 (tema 2.11.30) |
-| 2 | 16-20/11 | 4, 5, 6 y 7 | Pendiente |
+| 2 | 16-20/11 | 4, 5, 6 y 7 | Hecha el 17/11 (tema 2.11.37) |
 | 3 | 23-27/11 | 8, 9 y 10 | Pendiente |
 | 4 | 30/11-4/12 | 11, 12 y 13 | Pendiente |
 

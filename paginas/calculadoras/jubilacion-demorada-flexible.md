@@ -46,4 +46,4 @@ Sí, desde el 28 de agosto de 2026: cobran el 25 % de su pensión mientras dure 
 
 ## Guía completa
 
-Cada modalidad tiene su guía con requisitos y ejemplos: [jubilación demorada](/jubilacion/demorada/), [jubilación activa](/jubilacion/activa/) y [jubilación flexible](/jubilacion/flexible/). Si dudas entre ellas, mira [flexible, activa o parcial: cuál elegir](/jubilacion/flexible-activa-o-parcial/).
+Cada modalidad tiene su guía con requisitos y ejemplos: [jubilación demorada](/jubilacion/demorada/), [jubilación activa](/jubilacion/activa/) y [jubilación flexible](/jubilacion/flexible/). Si dudas entre ellas, mira [flexible, activa o parcial: cuál elegir](/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene).

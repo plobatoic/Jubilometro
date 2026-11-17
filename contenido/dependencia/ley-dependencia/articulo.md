@@ -178,7 +178,7 @@ Sí. Si la situación empeora o mejora, o si hubo un error en la valoración, se
 
 - ¿Qué grado te corresponde? Mira los [grados de dependencia y el baremo](/dependencia/grados/).
 - ¿Te cuida un familiar? Lee la guía de la [prestación por cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/).
-- ¿Buscas plaza? Compara [residencia pública o privada](/dependencia/residencias-publicas/).
+- ¿Buscas plaza? Compara [residencia pública o privada](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias).
 
 ---
 

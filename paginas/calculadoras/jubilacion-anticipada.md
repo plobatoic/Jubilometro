@@ -48,4 +48,4 @@ Sí. El recorte se aplica a la pensión, y las dos pagas extra son de la misma c
 
 ## Guía completa
 
-Requisitos, tablas completas de coeficientes y más ejemplos en [la jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [la anticipada involuntaria](/jubilacion/anticipada-involuntaria/). Si dudas entre adelantar o esperar, lee [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/) y prueba el [comparador de ingresos](/calculadoras/comparador-ingresos-jubilacion/).
+Requisitos, tablas completas de coeficientes y más ejemplos en [la jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [la anticipada involuntaria](/jubilacion/anticipada-involuntaria/). Si dudas entre adelantar o esperar, lee [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes) y prueba el [comparador de ingresos](/calculadoras/comparador-ingresos-jubilacion/).

@@ -11,3 +11,4 @@
 | 7 | Prestación vinculada: máxima de 747,25 € para residencia en grados II y III | RD 1051/2013, anexo IV | Texto del BOE | Verificado en BOE |
 | 8 | Exención de IRPF de ayudas públicas para residencia o centro de día (≥ 65 o discapacidad ≥ 65 %, otras rentas ≤ 2 × IPREM) y de la prestación vinculada | Ley del IRPF, art. 7.i) y 7.x) | Texto del BOE | Verificado en BOE |
 | 9 | No hay estadística oficial de precios de plazas privadas | — | Búsqueda en Imserso y BOE sin resultados | Advertido en el texto |
+| 10 | Comparativa pública, concertada y privada; residencia para grados II y III (RD 1051/2013, art. 2); estancias temporales; ejemplo de Antonio (1.366,67 €; 1.252,67 € y 1.252,75 €; 314 €); consejos para elegir; pasados de /dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias el 17/11/2026 | Ley 39/2006 art. 16; RD 1051/2013; acuerdo de 2012 | Ya verificados en esa guía | Verificado |

@@ -82,7 +82,7 @@ Otra novedad de 2025: la jubilación activa es compatible con el [complemento po
 - **[Flexible](/jubilacion/flexible/):** para quien ya se jubiló y vuelve a trabajar a tiempo parcial (del 33 % al 80 % de la jornada). Desde agosto de 2026 tiene incentivos del 15 % o 25 %.
 - **[Parcial](/jubilacion/parcial/):** se pide antes de jubilarte del todo, reduciendo jornada en tu empresa.
 
-Las comparamos con ejemplos en [jubilación flexible, activa o parcial: cuál te conviene](/jubilacion/flexible-activa-o-parcial/).
+Las comparamos con ejemplos en [jubilación flexible, activa o parcial: cuál te conviene](/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene).
 
 ## Cómo solicitarla
 
@@ -126,7 +126,7 @@ Te jubilas al menos un año después de tu edad ordinaria y sigues trabajando, p
 
 - ¿Te has jubilado y quieres volver a media jornada? Lee la [jubilación flexible](/jubilacion/flexible/).
 - ¿Todavía no te has jubilado? Calcula cuánto ganas con la [jubilación demorada](/jubilacion/demorada/).
-- ¿Cuál te conviene? Compara [flexible, activa o parcial](/jubilacion/flexible-activa-o-parcial/).
+- ¿Cuál te conviene? Compara [flexible, activa o parcial](/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene).
 
 ---
 

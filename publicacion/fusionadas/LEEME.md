@@ -11,3 +11,7 @@ Guías que se juntaron con otra más completa (propuesta en `publicacion/seo/pro
 | /dinero/rescate-aportaciones-10-anos/ | /dinero/rescate-plan-pensiones/ | 13/11/2026 |
 | /incapacidad/total-cualificada/ | /incapacidad/incapacidad-total/ | 13/11/2026 |
 | /cuanto-cobrare/base-reguladora/ | /cuanto-cobrare/como-se-calcula-la-pension/ | 13/11/2026 |
+| /jubilacion/flexible-activa-o-parcial/ | /jubilacion/flexible/ | 17/11/2026 |
+| /cuanto-cobrare/pagas-extra/ | /cuanto-cobrare/calendario-pago-pensiones/ | 17/11/2026 |
+| /dependencia/residencias-publicas/ | /dependencia/precio-residencias/ | 17/11/2026 |
+| /jubilacion/compensa-jubilarse-antes/ | /jubilacion/anticipada-voluntaria/ | 17/11/2026 |

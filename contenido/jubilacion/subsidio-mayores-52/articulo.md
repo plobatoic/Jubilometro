@@ -110,7 +110,7 @@ Sí, si cumples los requisitos de la [jubilación anticipada involuntaria](/jubi
 ## Siguiente paso
 
 - Si te han despedido: [despido a los 60, paro, subsidio y jubilación](/jubilacion/despido-a-los-60/).
-- ¿Adelantar o esperar? Usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/)
+- ¿Adelantar o esperar? Usa la calculadora de [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes)
 - ¿Quieres cotizar más? Lee sobre el [convenio especial](/jubilacion/convenio-especial/).
 - ¿Te despiden en un ERE con 55 años o más? Mira [prejubilación y convenio especial](/jubilacion/prejubilacion/).
 - ¿Vuelves a España después de trabajar fuera de la Unión Europea? Mira el [subsidio para emigrantes retornados](/ayudas/emigrantes-retornados/).

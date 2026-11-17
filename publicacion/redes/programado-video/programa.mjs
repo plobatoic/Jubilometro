@@ -702,7 +702,7 @@ export const PUBLICACIONES = [
   ],
   "id": "video-compensa",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/compensa-jubilarse-antes/",
+  "fuente": "/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes",
   "titulo": "¿Compensa jubilarse 2 años antes?",
   "texto": "Si adelantas la jubilación 2 años, lo cobrado de más se agota entre los 73 y los 79 años. Haz tus cuentas: jubilometro.com/compensa/yt\n\n#jubilacion #jubilacionanticipada #pensiones",
   "fecha": "2026-12-14",

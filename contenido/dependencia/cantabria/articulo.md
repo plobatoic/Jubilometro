@@ -119,7 +119,7 @@ Si no aceptas expresamente el servicio o la prestación que te proponen, el ICAS
 ## Siguiente paso
 
 - ¿Qué grado te pueden dar? Mira los [grados de dependencia y el baremo](/dependencia/grados/).
-- ¿Buscas plaza en una residencia? Consulta el [precio de las residencias](/dependencia/precio-residencias/) y las [residencias públicas](/dependencia/residencias-publicas/).
+- ¿Buscas plaza en una residencia? Consulta el [precio de las residencias](/dependencia/precio-residencias/) y las [residencias públicas](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias).
 - ¿Cómo funciona la ley en general? Lee la [guía de la ley de dependencia](/dependencia/ley-dependencia/).
 
 ---

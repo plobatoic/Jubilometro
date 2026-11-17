@@ -134,7 +134,7 @@ No hay una edad máxima para pedir la pensión. Ojo: algunos convenios colectivo
 ## Siguiente paso
 
 - ¿Quieres trabajar y cobrar parte de la pensión? Lee la guía de [jubilación activa](/jubilacion/activa/).
-- ¿Cuál te conviene? Compara [jubilación flexible, activa o parcial](/jubilacion/flexible-activa-o-parcial/).
+- ¿Cuál te conviene? Compara [jubilación flexible, activa o parcial](/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ---

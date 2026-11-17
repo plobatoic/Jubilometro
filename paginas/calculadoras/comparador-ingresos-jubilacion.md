@@ -34,4 +34,4 @@ No: compara pensiones brutas. Con una pensión más baja también pagas algo men
 
 ## Guía completa
 
-Los números y lo que no se ve en ellos (salud, trabajo, impuestos), en [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/). Cada opción en detalle: [anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [jubilación demorada](/jubilacion/demorada/).
+Los números y lo que no se ve en ellos (salud, trabajo, impuestos), en [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes). Cada opción en detalle: [anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [jubilación demorada](/jubilacion/demorada/).

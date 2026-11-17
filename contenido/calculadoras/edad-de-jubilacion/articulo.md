@@ -105,7 +105,7 @@ No. El cálculo se hace en tu propio navegador y los datos no salen de tu dispos
 ## Siguiente paso
 
 - Consulta la [tabla de edad de jubilación por año de nacimiento](/jubilacion/edad-de-jubilacion/).
-- ¿Te interesa adelantarla? Echa cuentas con [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/)
+- ¿Te interesa adelantarla? Echa cuentas con [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes)
 - Prepara la solicitud: [cómo pedir la jubilación por internet](/jubilacion/solicitar-jubilacion-internet/).
 
 ---

@@ -70,7 +70,7 @@ const GUIAS = [
   ['/jubilacion/edad-de-jubilacion/', 'Edad de jubilación en 2026 y 2027'],
   ['/cuanto-cobrare/revalorizacion-pensiones/', 'Subida de las pensiones en 2027'],
   ['/cuanto-cobrare/pension-minima/', 'Pensiones mínimas de 2026'],
-  ['/cuanto-cobrare/pagas-extra/', 'Paga extra de Navidad: cuándo llega'],
+  ['/cuanto-cobrare/calendario-pago-pensiones/#las-pagas-extra-junio-y-noviembre', 'Paga extra de Navidad: cuándo llega'],
   ['/viudedad/cuantia/', 'Cuánto se cobra de viudedad'],
   ['/imserso/viajes-imserso/', 'Viajes del Imserso 2026-2027'],
 ];

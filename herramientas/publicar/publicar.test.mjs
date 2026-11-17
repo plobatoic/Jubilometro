@@ -116,14 +116,14 @@ test('la calculadora de edad enlaza a la página de la web y el PDF a la bibliot
   const docs = cuerpoWeb(porUrl('/jubilacion/documentos-jubilacion/'), existeEnLaWeb, medios);
   assert.match(docs, /href="\/wp-content\/uploads\/2026\/09\/checklist-documentos-jubilacion\.pdf"/);
   assert.match(docs, /<label class="jm-check"><input type="checkbox">/);
-  const compensa = cuerpoWeb(porUrl('/jubilacion/compensa-jubilarse-antes/'), existeEnLaWeb, medios);
+  const compensa = cuerpoWeb(porUrl('/jubilacion/anticipada-voluntaria/'), existeEnLaWeb, medios);
   assert.match(compensa, /<!-- wp:html -->\n<div class="calc-jubi calc-compensa">/);
 });
 
 test('«Siguiente paso» da una tarjeta por cada enlace, también si un punto tiene varios', () => {
-  const html = cuerpoWeb(porUrl('/jubilacion/flexible-activa-o-parcial/'), existeEnLaWeb, medios);
+  const html = cuerpoWeb(porUrl('/elecciones/programa-pp-pensiones/'), existeEnLaWeb, medios);
   const nav = html.match(/<nav aria-label="Siguiente paso"[\s\S]*?<\/nav>/)[0];
-  for (const u of ['/jubilacion/flexible/', '/jubilacion/activa/', '/jubilacion/parcial/']) assert.match(nav, new RegExp(`class="jm-next" href="${u}"`), u);
+  for (const u of ['/elecciones/programa-psoe-pensiones/', '/elecciones/programa-vox-pensiones/', '/elecciones/programa-pnv-pensiones/']) assert.match(nav, new RegExp(`class="jm-next" href="${u}"`), u);
 });
 
 test('los enlaces cortos llevan a páginas que existen y no tapan ninguna dirección de la web', () => {

@@ -13,3 +13,4 @@
 | 9 | Exclusión de funcionarios (Clases Pasivas), militares y personal de Justicia | RD 416/2026 | andaluciainforma | Verificado en BOE (27/09/2026). Precisado: el art. 2 excluye los regímenes especiales de funcionarios civiles del Estado, Fuerzas Armadas y Administración de Justicia |
 | 10 | Las flexibles iniciadas antes del 28/08/2026 siguen con las reglas anteriores | RD 416/2026 (disposición transitoria) | Varias fuentes | Verificado |
 | 11 | Activa: requiere haber demorado un año | RDL 11/2024 | Iberley; BBVA | Verificado |
+| 12 | Comparativa parcial, activa y flexible y casos con 1.800 € (900, 810, 1.800, 720 y 1.170 €), pasados de /jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene el 17/11/2026 | Guías de parcial, activa, demorada y esta; RDL 11/2024 | Ya verificados en esas guías; cálculo propio | Verificado |

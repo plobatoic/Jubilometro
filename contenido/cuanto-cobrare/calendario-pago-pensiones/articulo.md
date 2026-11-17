@@ -10,7 +10,7 @@ palabras_clave_secundarias:
   - "calendario pago pensiones 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 35)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-11-17
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Calendario de pago de las pensiones: qué día se cobra cada mes, las pagas extra y el primer pago
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -72,6 +72,27 @@ Si empezaste a cobrar a mitad de semestre, cobras **una sexta parte por cada mes
 
 **Excepción:** las pensiones que vienen de un **accidente de trabajo o una enfermedad profesional** se cobran en **12 pagas**, porque las dos extra van repartidas en las mensualidades.
 
+### Cuánto es la paga extra
+
+- **Una mensualidad completa** de tu pensión, si la has cobrado todo el semestre en que se genera ([artículo 46 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a46)). Las **pensiones no contributivas** de jubilación e invalidez también se cobran en 14 pagas.
+- **Incluye los complementos** que cobras cada mes en 14 pagas, como el complemento a mínimos.
+- **Tributa igual que la pensión**: se aplica el mismo porcentaje de retención de IRPF, así que ese mes se retiene el doble porque cobras el doble.
+- **Cuenta para la pensión máxima**: el límite de 2026 es de 3.359,60 euros al mes en 14 pagas, 47.034,40 al año. Si cobras en 12 pagas, el límite mensual se ajusta para que al año no pase de esa cifra.
+
+<!-- tabla: Lo que se cobra en noviembre con la paga extra (pensión completa todo el semestre, importes brutos) -->
+| Pensión mensual | Noviembre (pensión + extra) |
+|---|---|
+| 936,20 € (mínima sin cónyuge, 65 años o más) | 1.872,40 € |
+| 1.200 € | 2.400 € |
+| 1.500 € | 3.000 € |
+| 3.359,60 € (máxima) | 6.719,20 € |
+
+**Ejemplo del primer año: Luis se jubila con efectos del 10 de septiembre de 2026** con una pensión de 1.500 euros al mes. La paga extra de noviembre se genera de junio a noviembre y él tiene pensión en septiembre, octubre y noviembre: **3/6 de 1.500 = 750 euros**. En junio de 2027 ya cobrará la extra completa.
+
+**Si la pensión se termina** (por ejemplo, por fallecimiento), se hace un **finiquito de la paga extra**: una sexta parte por cada mes del semestre en curso, entendiéndose generada el día 1 del mes de la baja. Lo cobran los herederos junto con la mensualidad del mes, que se paga entera.
+
+**No hay paga compensatoria** por la subida de los precios: desde 2022 las pensiones suben cada enero con la media del IPC de los doce meses anteriores, de diciembre a noviembre ([artículo 58 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a58)). Lo explicamos en la [revalorización de las pensiones](/cuanto-cobrare/revalorizacion-pensiones/).
+
 ## El primer pago cuando te jubilas
 
 - **La primera mensualidad se cobra en proporción** a los días que tengas pensión ese mes, si no empieza el día 1.
@@ -98,6 +119,14 @@ Porque el adelanto lo decide cada banco. La Seguridad Social solo garantiza que 
 
 Junto a la pensión de noviembre, así que la mayoría de pensionistas la reciben entre el 22 y el 26 de noviembre. La de junio llega igual, con la pensión de junio.
 
+### ¿La paga extra tiene retención de IRPF?
+
+Sí, la misma que la pensión. Como ese mes cobras el doble, la retención en euros también es el doble.
+
+### ¿Hay paga extra en diciembre?
+
+No en las pensiones de la Seguridad Social: las extra son en junio y noviembre. Lo que llega a finales de diciembre es la pensión de diciembre.
+
 ### ¿Cuándo se cobra la subida de las pensiones de 2027?
 
 Con la pensión de enero de 2027, que llega a finales de enero o, como tarde, a primeros de febrero.
@@ -112,6 +141,8 @@ Las de la Seguridad Social, sí, salvo las que vienen de un accidente de trabajo
 - [Orden de 22 de febrero de 1996, de desarrollo del reglamento de gestión financiera, artículos 23 y 24](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581) (BOE).
 - [Revista de la Seguridad Social: ¿Cuándo y cómo se cobran las pensiones?](https://revista.seg-social.es/-/20220610-cobro-pensiones)
 - [Seguridad Social: devengo y pago de la pensión (preguntas frecuentes)](https://www.seg-social.es/wps/portal/wss/internet/FAQ/48456/49300/49083/49090?view=FAQs_detalle_tema).
+- [Ley General de la Seguridad Social, artículos 46 (catorce pagas) y 58 (revalorización)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
+- [Real Decreto 241/2026, artículo 3 (pensión máxima en 14 pagas)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977) (BOE).
 
 ## Siguiente paso
 
@@ -123,4 +154,4 @@ Las de la Seguridad Social, sí, salvo las que vienen de un accidente de trabajo
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la información de la Seguridad Social o de tu banco. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 17 de noviembre de 2026, se incorpora la guía de las pagas extra (cuánto son, ejemplos de noviembre, finiquito, retención y paga compensatoria), que ahora lleva aquí. 28 de septiembre de 2026, primera versión.*

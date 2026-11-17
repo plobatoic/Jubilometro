@@ -78,7 +78,7 @@ Suben el porcentaje general y, además, lo que marca la ley para acercarlas al u
 
 No cambian. La Seguridad Social las paga por ley y con su calendario de siempre:
 
-- **Noviembre**: la pensión del mes y la [paga extra de Navidad](/cuanto-cobrare/pagas-extra/) llegan juntas. Si tu banco adelanta el pago, entre el 22 y el 26 de noviembre; si no, como tarde el primer día hábil de diciembre.
+- **Noviembre**: la pensión del mes y la [paga extra de Navidad](/cuanto-cobrare/calendario-pago-pensiones/#las-pagas-extra-junio-y-noviembre) llegan juntas. Si tu banco adelanta el pago, entre el 22 y el 26 de noviembre; si no, como tarde el primer día hábil de diciembre.
 - **Diciembre**: la pensión llega en las fechas de siempre. Las tienes en el [calendario de pago de las pensiones](/cuanto-cobrare/calendario-pago-pensiones/).
 
 Las elecciones tampoco paran el trabajo del Instituto Nacional de la Seguridad Social: si tienes pedida la jubilación, la viudedad o la incapacidad, tu expediente sigue su curso.
@@ -151,7 +151,7 @@ Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tar
 - ¿Qué propone cada partido sobre las pensiones? Lo comparamos en [qué proponen los partidos sobre las pensiones](/elecciones/propuestas-pensiones-partidos/).
 - ¿Cuánto subirá tu pensión en enero? Calcúlalo con la [calculadora de la subida de las pensiones](/calculadoras/subida-pensiones/).
 - ¿Pensabas jubilarte con 40 años cotizados? Mira qué pasa ahora en [jubilación anticipada con 40 años cotizados](/jubilacion/anticipada-40-anos-cotizados/).
-- ¿Cuándo llega la paga extra? Lo explicamos en [pagas extra de los pensionistas](/cuanto-cobrare/pagas-extra/).
+- ¿Cuándo llega la paga extra? Lo explicamos en [pagas extra de los pensionistas](/cuanto-cobrare/calendario-pago-pensiones/#las-pagas-extra-junio-y-noviembre).
 
 ---
 

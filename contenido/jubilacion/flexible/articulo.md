@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "jubilacion flexible agosto 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 6)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-17
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -23,7 +23,7 @@ fuentes_legales:
 
 # Jubilación flexible 2026: qué cambia con el Real Decreto 416/2026 y a quién le interesa
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -40,7 +40,28 @@ No hay que confundirla con otras modalidades:
 - La **[jubilación activa](/jubilacion/activa/)** permite trabajar a jornada completa, pero exige haber retrasado la jubilación al menos un año.
 - La **[jubilación parcial](/jubilacion/parcial/)** se pide antes de jubilarte del todo, reduciendo tu jornada en tu empresa.
 
-Las comparamos en [jubilación flexible, activa o parcial: cuál te conviene](/jubilacion/flexible-activa-o-parcial/).
+Las comparamos más abajo, en [flexible, activa o parcial: cuál te conviene](#flexible-activa-o-parcial-cual-te-conviene).
+
+## Flexible, activa o parcial: cuál te conviene
+
+Las tres permiten cobrar pensión y trabajar a la vez, pero sirven para momentos distintos:
+
+<!-- tabla: Diferencias entre jubilación parcial, activa y flexible en 2026 -->
+| | Parcial | Activa | Flexible |
+|---|---|---|---|
+| Cuándo | Antes de la jubilación total (o desde la edad ordinaria) | Tras retrasar la jubilación 1 año o más | Cuando ya estás jubilado |
+| Jornada | Reduces entre el 25 % y el 75 % (el primer año, 20-33 % si te anticipas más de 2 años) | Completa o parcial | Entre el 33 % y el 80 % |
+| Pensión que cobras | La parte de la jornada que dejas | 45 % (1 año de demora) a 100 % (5 años), +5 puntos por cada año en activa | 100 % menos tu jornada, +15 % o +25 % si empiezas 6 meses después de jubilarte |
+| Requisitos clave | 33 años cotizados, 6 en la empresa y contrato de relevo (si es anticipada) | Haber retrasado la jubilación 1 año | Estar jubilado y comunicar el trabajo antes de empezar |
+| Autónomos | No (es para asalariados) | Sí | Sí, desde el 28/08/2026, cobrando el 25 % |
+| Depende de la empresa | Sí | Solo si trabajas por cuenta ajena | Solo si trabajas por cuenta ajena |
+
+- **Quieres ir dejando el trabajo poco a poco antes de jubilarte:** la [jubilación parcial](/jubilacion/parcial/). Necesitas que tu empresa acepte y, si te adelantas a tu edad ordinaria, que contrate a un relevista indefinido a jornada completa.
+- **Te gusta tu trabajo y quieres seguir a jornada completa:** la [jubilación demorada](/jubilacion/demorada/) y, después, la [activa](/jubilacion/activa/). Ganas un 4 % de pensión por año de retraso y, al jubilarte, puedes seguir trabajando cobrando del 45 % al 100 % de la pensión.
+- **Ya estás jubilado y te ofrecen volver unas horas:** la flexible, que explicamos en esta guía.
+- **Eres autónomo:** si retrasas la jubilación un año o más, la activa; si ya te jubilaste y quieres emprender, la flexible con el 25 % de la pensión, siempre que no hayas sido autónomo en los 3 años anteriores a tu jubilación.
+
+Con una pensión completa de 1.800 euros al mes: quien reduce su jornada un 50 % con la parcial cobra 900 euros de pensión; quien retrasó la jubilación un año y sigue en activa a jornada completa, 810 euros (45 %), y 1.800 euros si la retrasó cinco años; con la flexible al 60 % de jornada, 720 euros (40 %), o 1.170 euros si empezó a trabajar 8 meses después de jubilarse (40 % + 25 %). Además, cada uno cobra su sueldo.
 
 ## Qué cambia desde el 28 de agosto de 2026
 
@@ -103,6 +124,10 @@ No pueden acogerse quienes eligieron el pago único o la opción mixta de la jub
 
 Con la jubilación flexible, no: el máximo es el 80 % de la jornada. Para trabajar a tiempo completo existe la [jubilación activa](/jubilacion/activa/), con otros requisitos.
 
+### ¿Cuál permite cobrar más pensión trabajando?
+
+La activa, si retrasaste la jubilación 5 años o más: cobras el 100 %. En la flexible, lo máximo depende de cuánto trabajes y de si esperaste 6 meses para volver.
+
 ### ¿Qué pasa con mi pensión cuando dejo de trabajar?
 
 Vuelves a cobrarla íntegra, con las revalorizaciones que se hayan aplicado mientras tanto.
@@ -122,6 +147,7 @@ Si ya estás jubilado y todavía no has empezado a trabajar, la nueva regulació
 ## Fuentes oficiales
 
 - [Real Decreto 416/2026, de 27 de mayo, de jubilación flexible](https://www.boe.es/buscar/act.php?id=BOE-A-2026-11474) (BOE).
+- [Real Decreto-ley 11/2024, de jubilación activa, parcial y demorada](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-26917) (BOE).
 - [Ley General de la Seguridad Social, artículo 213](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a213) (BOE).
 - [Revista de la Seguridad Social: el Gobierno mejora el acceso a la jubilación flexible](https://revista.seg-social.es/-/el-gobierno-mejora-el-acceso-a-la-jubilaci%C3%B3n-flexible-y-la-compatibilidad-de-la-pensi%C3%B3n-con-el-trabajo).
 
@@ -129,10 +155,10 @@ Si ya estás jubilado y todavía no has empezado a trabajar, la nueva regulació
 
 - ¿Quieres trabajar a jornada completa? Lee la guía de [jubilación activa](/jubilacion/activa/).
 - ¿Todavía no te has jubilado? Mira la [jubilación demorada](/jubilacion/demorada/) antes de elegir cómo cobrar el complemento.
-- ¿No sabes cuál elegir? Compara [jubilación flexible, activa o parcial](/jubilacion/flexible-activa-o-parcial/).
+- ¿Quieres ir dejando el trabajo antes de jubilarte? Mira la [jubilación parcial](/jubilacion/parcial/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, tres frases corregidas. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 17 de noviembre de 2026, se incorpora la comparativa entre flexible, activa y parcial (antes en una guía aparte, que ahora lleva aquí). 20 de octubre de 2026, tres frases corregidas. 27 de septiembre de 2026, primera versión.*

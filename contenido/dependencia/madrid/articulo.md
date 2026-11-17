@@ -117,7 +117,7 @@ La teleasistencia (33,81 % de las prestaciones), seguida de la ayuda a domicilio
 ## Siguiente paso
 
 - ¿Qué grado te pueden dar? Mira los [grados de dependencia y el baremo](/dependencia/grados/).
-- ¿Residencia pública o privada? Compara en [residencia pública, concertada o privada](/dependencia/residencias-publicas/).
+- ¿Residencia pública o privada? Compara en [residencia pública, concertada o privada](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias).
 - ¿Te cuida un familiar? Consulta la [prestación por cuidados familiares](/dependencia/prestacion-cuidados-familiares/).
 
 ---

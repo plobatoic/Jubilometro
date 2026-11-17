@@ -74,7 +74,7 @@ ${L('flexible', 'x')}`,
 ${L('parcial', 'x')}`,
   },
   {
-    id: 'trabajar-jubilado-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/jubilacion/flexible-activa-o-parcial/',
+    id: 'trabajar-jubilado-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/jubilacion/flexible/',
     texto: `Tres formas legales de cobrar la pensión y trabajar a la vez, según el momento en que estés.
 
 Antes de jubilarte del todo, la jubilación parcial: reduces jornada en tu empresa, hasta 3 años antes de tu edad ordinaria, y la empresa contrata a otra persona con un contrato de relevo.
@@ -86,7 +86,7 @@ Si ya estás jubilado, la flexible: vuelves a trabajar a tiempo parcial, del 33 
 ¿Estás pensando en seguir trabajando después de jubilarte? ${FB_WEB}`,
   },
   {
-    id: 'trabajar-jubilado-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/jubilacion/flexible-activa-o-parcial/',
+    id: 'trabajar-jubilado-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/jubilacion/flexible/',
     diapositivas: [
       'Cobrar la pensión y trabajar a la vez: tres formas legales.',
       'Parcial: antes de jubilarte del todo, reduces jornada en tu empresa, hasta 3 años antes de tu edad ordinaria.',
@@ -160,13 +160,13 @@ Si tú o alguien de tu familia tiene una de esas enfermedades, conviene revisarl
 La lista y los requisitos: ${L('discapacidad', 'wa')}`,
   },
   {
-    id: 'compensa-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/jubilacion/compensa-jubilarse-antes/',
+    id: 'compensa-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/jubilacion/anticipada-voluntaria/',
     texto: `¿Compensa jubilarse 2 años antes? Solo con las pensiones en la mano, lo cobrado de más se agota entre los 73 y los 79 años, según tu recorte. Desde ahí pierdes dinero cada año, y a los 65 quedan de media más de 19 años de vida.
 
 ${L('compensa', 'x')}`,
   },
   {
-    id: 'compensa-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/jubilacion/compensa-jubilarse-antes/',
+    id: 'compensa-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/jubilacion/anticipada-voluntaria/',
     texto: `¿Compensa jubilarse antes? Hicimos las cuentas con las pensiones en la mano.
 
 Si adelantas tu jubilación 2 años, cobras antes, pero con un recorte para toda la vida. Lo que cobras de más en esos dos años se agota entre los 73 y los 79 años, según tu recorte. A partir de ahí, cada año pierdes dinero. Y a los 65 años la esperanza de vida supera los 19 años en los hombres y los 23 en las mujeres.
@@ -176,7 +176,7 @@ Aun así, puede compensar si no vas a tener otros ingresos hasta tu edad ordinar
 ${FB_WEB}`,
   },
   {
-    id: 'compensa-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/jubilacion/compensa-jubilarse-antes/',
+    id: 'compensa-ig', red: 'instagram', tipo: 'Carrusel', pilar: 'Calcula tu caso', fuente: '/jubilacion/anticipada-voluntaria/',
     diapositivas: [
       '¿Compensa jubilarse antes? Las cuentas, con las pensiones en la mano.',
       'Si adelantas 2 años, cobras antes, pero con un recorte para toda la vida.',

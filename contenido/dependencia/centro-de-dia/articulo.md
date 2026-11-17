@@ -107,7 +107,7 @@ La cantidad concreta se rebaja según tus ingresos, con un mínimo de 100, 150 y
 | Coste | Menor | Mayor |
 | Vínculo con el hogar | Se mantiene | Cambia de domicilio |
 
-Muchas familias empiezan con el centro de día y pasan a la residencia cuando la dependencia avanza. Compara opciones en [residencia pública o privada](/dependencia/residencias-publicas/) y en el [precio de las residencias](/dependencia/precio-residencias/).
+Muchas familias empiezan con el centro de día y pasan a la residencia cuando la dependencia avanza. Compara opciones en [residencia pública o privada](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias) y en el [precio de las residencias](/dependencia/precio-residencias/).
 
 ## Preguntas frecuentes
 

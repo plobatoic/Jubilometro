@@ -109,7 +109,7 @@ La empresa tiene que sustituirlo por otra persona en las condiciones que marca l
 ## Siguiente paso
 
 - ¿Te interesa más trabajar después de jubilarte? Mira la [jubilación flexible](/jubilacion/flexible/) y la [jubilación activa](/jubilacion/activa/).
-- Compara las tres opciones en [jubilación flexible, activa o parcial](/jubilacion/flexible-activa-o-parcial/).
+- Compara las tres opciones en [jubilación flexible, activa o parcial](/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ---

@@ -18,3 +18,4 @@
 | 12 | Anticipada involuntaria: hasta 4 años antes, 33 años, recorte máximo del 30 % | Art. 207 LGSS | Raisin, BBVA, Campmany | Verificado |
 
 **Pendiente para el revisor:** añadir, si se desea, la tabla mensual completa del art. 208.2 (meses 1 a 24 por tramo) tras copiarla del BOE. No se ha incluido porque sus valores intermedios no se pudieron contrastar en dos fuentes.
+| 13 | ¿Compensa jubilarse antes?: fórmula del punto de equilibrio, edades de equilibrio (74a 6m, 73a 6m, 74a 9m, 78a 5m), esperanza de vida a los 65 del INE (19,87 y 23,64 años), balance de Luis (45.360 €, 5.320 €/año, unos −60.000 €), +0,19 % por mes desde 2027, demorada +4 %, tributación; pasados de /jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes el 17/11/2026 con su calculadora | Arts. 207, 208 y 210 LGSS; INE tabla 1415; Ley 35/2006 | Ya verificados en esa guía (filas 1 a 9); calculadora probada en navegador | Verificado |

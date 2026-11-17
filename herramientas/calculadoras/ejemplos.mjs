@@ -142,7 +142,7 @@ Sí. El recorte se aplica a la pensión, y las dos pagas extra son de la misma c
 
 ## Guía completa
 
-Requisitos, tablas completas de coeficientes y más ejemplos en [la jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [la anticipada involuntaria](/jubilacion/anticipada-involuntaria/). Si dudas entre adelantar o esperar, lee [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/) y prueba el [comparador de ingresos](/calculadoras/comparador-ingresos-jubilacion/).
+Requisitos, tablas completas de coeficientes y más ejemplos en [la jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [la anticipada involuntaria](/jubilacion/anticipada-involuntaria/). Si dudas entre adelantar o esperar, lee [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes) y prueba el [comparador de ingresos](/calculadoras/comparador-ingresos-jubilacion/).
 `;
 }
 
@@ -266,7 +266,7 @@ Sí, desde el 28 de agosto de 2026: cobran el 25 % de su pensión mientras dure 
 
 ## Guía completa
 
-Cada modalidad tiene su guía con requisitos y ejemplos: [jubilación demorada](/jubilacion/demorada/), [jubilación activa](/jubilacion/activa/) y [jubilación flexible](/jubilacion/flexible/). Si dudas entre ellas, mira [flexible, activa o parcial: cuál elegir](/jubilacion/flexible-activa-o-parcial/).
+Cada modalidad tiene su guía con requisitos y ejemplos: [jubilación demorada](/jubilacion/demorada/), [jubilación activa](/jubilacion/activa/) y [jubilación flexible](/jubilacion/flexible/). Si dudas entre ellas, mira [flexible, activa o parcial: cuál elegir](/jubilacion/flexible/#flexible-activa-o-parcial-cual-te-conviene).
 `;
 }
 
@@ -464,7 +464,7 @@ No: compara pensiones brutas. Con una pensión más baja también pagas algo men
 
 ## Guía completa
 
-Los números y lo que no se ve en ellos (salud, trabajo, impuestos), en [¿compensa jubilarse antes?](/jubilacion/compensa-jubilarse-antes/). Cada opción en detalle: [anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [jubilación demorada](/jubilacion/demorada/).
+Los números y lo que no se ve en ellos (salud, trabajo, impuestos), en [¿compensa jubilarse antes?](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes). Cada opción en detalle: [anticipada voluntaria](/jubilacion/anticipada-voluntaria/) y [jubilación demorada](/jubilacion/demorada/).
 `;
 }
 

@@ -116,7 +116,7 @@ No. Era un régimen transitorio ligado a los cinco años de implantación de la 
 
 - ¿Cómo funciona Clases Pasivas? Lee [la jubilación de los funcionarios](/jubilacion/funcionarios/).
 - ¿Estás en la Seguridad Social? Calcula [cuánto cobrarás de pensión](/calculadoras/pension-jubilacion/).
-- ¿Te compensa irte antes? Lee [si compensa jubilarse antes](/jubilacion/compensa-jubilarse-antes/).
+- ¿Te compensa irte antes? Lee [si compensa jubilarse antes](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes).
 
 ---
 

@@ -122,7 +122,7 @@ Sí, desde el primer día y sea cual sea el número de horas, en el Sistema Espe
 
 - ¿Tiene reconocida la dependencia? Si no, sigue la [guía de la ley de dependencia](/dependencia/ley-dependencia/).
 - ¿Cuánto costaría una residencia? Compara con el [precio de las residencias](/dependencia/precio-residencias/).
-- ¿Pública o privada? Mira las diferencias entre [residencia pública, concertada o privada](/dependencia/residencias-publicas/).
+- ¿Pública o privada? Mira las diferencias entre [residencia pública, concertada o privada](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias).
 
 ---
 

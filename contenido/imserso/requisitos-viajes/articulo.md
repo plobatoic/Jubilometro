@@ -78,7 +78,7 @@ No tienes que presentar certificados: los requisitos se acreditan con una **decl
 
 **Uso andador pero me visto, me aseo y como sin ayuda.** Sí: el requisito es valerte por ti mismo en las actividades básicas, no moverte sin ayudas técnicas. Al reservar puedes pedir **habitación adaptada** o **asistencia en el aeropuerto o la estación**, según disponibilidad.
 
-**Mi madre tiene dependencia reconocida y necesita ayuda para vestirse.** En principio, no: la convocatoria exige valerse por uno mismo. Si es tu caso, mira las opciones de [residencias](/dependencia/residencias-publicas/) con estancias temporales o los programas de respiro de tu comunidad.
+**Mi madre tiene dependencia reconocida y necesita ayuda para vestirse.** En principio, no: la convocatoria exige valerse por uno mismo. Si es tu caso, mira las opciones de [residencias](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias) con estancias temporales o los programas de respiro de tu comunidad.
 
 ## Con quién puedes viajar
 

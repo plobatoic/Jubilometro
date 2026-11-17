@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "residencia de personas mayores"
 intencion: informativa
 fase_plan: F1 (artículo n.º 72)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-17
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -25,7 +25,7 @@ fuentes_legales:
 
 # Precio de las residencias de mayores: cuánto cuesta una plaza pública o concertada en cada comunidad y cuánto pagas tú
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos oficiales del Imserso y del BOE*
+*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos oficiales del Imserso y del BOE*
 
 > **Respuesta rápida**
 >
@@ -70,6 +70,26 @@ Cómo leer la tabla:
 
 En España había **5.465 residencias con 401.644 plazas** a finales de 2024; el **71,6 %** de ellas eran de financiación pública.
 
+## Pública, concertada o privada: las diferencias
+
+<!-- tabla: Residencia pública, concertada y privada: diferencias -->
+| | Pública | Concertada | Privada |
+|---|---|---|---|
+| Quién es el dueño | La comunidad autónoma o el ayuntamiento | Una empresa o entidad privada | Una empresa o entidad privada |
+| Cómo se entra | Con la dependencia reconocida (grado II o III) y el Programa Individual de Atención | Igual que en la pública | Contratando directamente con la residencia |
+| Cuánto pagas | Según tu capacidad económica (máximo, el 90 % del coste) | Igual que en la pública | El precio que fije la residencia |
+| Ayuda pública | La Administración paga el resto | La Administración paga el resto | Prestación vinculada de hasta 747,25 € al mes, si tienes dependencia y no hay plaza pública |
+| ¿Eliges centro? | Según la oferta disponible | Según la oferta disponible | Sí |
+| Espera | Suele haber lista de espera | Suele haber lista de espera | Depende de las plazas libres |
+
+**Pública y concertada funcionan igual para ti**: las dos forman parte de la red pública de servicios sociales ([artículo 16 de la Ley 39/2006](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a16)) y pagas lo mismo. La diferencia es quién gestiona la residencia. Todas las residencias que atienden a personas dependientes, también las privadas, deben estar **acreditadas** por la comunidad autónoma.
+
+### Quién puede ir a una residencia pública
+
+- **Con la ley de dependencia**, la atención residencial es un servicio para los **grados II y III**; con el grado I no está en el catálogo ([artículo 2 del Real Decreto 1051/2013](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)).
+- **También hay estancias temporales**: para convalecencias, vacaciones, fines de semana o para que descanse la familia que cuida.
+- **Algunas comunidades tienen plazas para mayores sin dependencia**, con sus propias normas. Pregunta en tus servicios sociales.
+
 ## Cuánto pagas en una residencia pública
 
 Tu aportación depende de tu **capacidad económica**. El [acuerdo del Consejo Territorial de 2012](https://www.boe.es/buscar/doc.php?id=BOE-A-2012-10468), que fija los criterios mínimos comunes, establece:
@@ -89,13 +109,42 @@ Son **mínimos comunes**: cada comunidad tiene su propia normativa de copago y p
 - **Si tienes reconocida la dependencia** y no hay plaza pública, puedes recibir la **prestación vinculada al servicio de residencia**: hasta **747,25 euros al mes** con grado II o III ([Real Decreto 1051/2013, anexo IV](https://www.boe.es/buscar/act.php?id=BOE-A-2013-13811)), según tu capacidad económica. La residencia tiene que estar **acreditada**.
 - **Impuestos**: las ayudas de las administraciones para pagar la residencia o el centro de día a mayores de 65 años están **exentas del IRPF** si tus otras rentas no superan el doble del IPREM ([artículo 7.i de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a7)), y la prestación vinculada de dependencia también.
 
+## Ejemplo: lo que pagaría Antonio en cada tipo de residencia
+
+**Antonio, 85 años, grado II**, cobra una pensión de 1.100 euros al mes en 14 pagas (15.400 al año), tiene 20.000 euros ahorrados y vive de alquiler. Su capacidad económica es 15.400 + 5 % de 20.000 = 16.400 euros al año, **1.366,67 al mes**.
+
+<!-- tabla: Lo que pagaría Antonio al mes según el tipo de residencia (ejemplo) -->
+| Opción | Precio de la plaza | Ayuda pública | Paga Antonio |
+|---|---|---|---|
+| Plaza pública o concertada (coste de 1.958,95 €, la media de España) | 1.958,95 € | 706,28 € | 1.252,67 € |
+| Privada de 2.000 € con prestación vinculada | 2.000 € | 747,25 € (máximo) | 1.252,75 € |
+| Privada de 2.000 € sin ayuda | 2.000 € | 0 € | 2.000 € |
+
+Con los ingresos de Antonio, la plaza pública y la privada con prestación vinculada le cuestan casi lo mismo. **Con más ingresos, la vinculada baja**: si su capacidad económica fuera de 1.800 euros al mes, la ayuda para esa privada sería de 2.000 + 114 − 1.800 = **314 euros**.
+
+**Si Antonio tuviera un piso en propiedad** en el que ya no vive nadie a su cargo, con los mínimos comunes solo contaría el 5 % de la parte de su valor catastral que pasara de 300.000 euros. Tu comunidad puede aplicar reglas propias: pregúntalo.
+
 ## Cómo conseguir una plaza pública o concertada
 
 1. **Pide el reconocimiento de la dependencia** en los servicios sociales. Lo explicamos en la [guía de la ley de dependencia](/dependencia/ley-dependencia/).
 2. Si te reconocen el **grado II o III**, en el Programa Individual de Atención puedes pedir la **residencia** como servicio.
 3. Si no hay plaza disponible, te pueden reconocer la **prestación vinculada** para una residencia privada acreditada mientras esperas.
 
+Antes de decidir:
+
+- **Si tienes grado II o III**, pide la residencia en tu Programa Individual de Atención aunque haya lista de espera: mientras esperas, puedes pedir la **prestación vinculada** para una privada acreditada.
+- **Comprueba que la residencia privada está acreditada** por la comunidad autónoma: sin acreditación no puedes usar la prestación vinculada.
+- **Visítala antes** y pide por escrito el precio, lo que incluye y lo que se paga aparte (farmacia, peluquería, pañales…).
+
 ## Preguntas frecuentes
+
+### ¿Qué diferencia hay entre una residencia pública y una concertada?
+
+Para ti, ninguna en el precio: en las dos pagas según tu capacidad económica. La pública la gestiona la Administración y la concertada es una residencia privada con plazas pagadas por la Administración.
+
+### ¿Se puede ir a una residencia pública con el grado I de dependencia?
+
+Con la ley de dependencia, no: la residencia es un servicio para los grados II y III. Algunas comunidades tienen plazas para mayores sin dependencia o con grado I con sus propias normas.
 
 ### ¿Cuánto cuesta una residencia de mayores al mes?
 
@@ -129,10 +178,10 @@ Donde hay más plazas por habitante mayor: Castilla y León (7,55 por cada 100 m
 
 - ¿Todavía no tienes la dependencia? Empieza por la [guía de la ley de dependencia](/dependencia/ley-dependencia/).
 - ¿Qué grado te corresponde? Mira los [grados de dependencia y el baremo](/dependencia/grados/).
-- ¿Pública o privada? Compara [residencia pública o privada](/dependencia/residencias-publicas/).
+- ¿Pública o privada? Compara [residencia pública o privada](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias).
 
 ---
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien fija el precio y el copago de sus plazas. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): la vivienda habitual deja de computar en la capacidad económica. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 17 de noviembre de 2026, se incorpora la guía de residencias públicas, concertadas y privadas (comparativa, quién puede ir, ejemplo de Antonio y consejos para elegir), que ahora lleva aquí. 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): la vivienda habitual deja de computar en la capacidad económica. 28 de septiembre de 2026, primera versión.*

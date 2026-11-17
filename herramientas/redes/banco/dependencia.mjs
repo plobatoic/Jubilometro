@@ -179,7 +179,7 @@ Con la dependencia reconocida se puede conseguir plaza pública o concertada, pa
 ${L('precio-residencia', 'x')}`,
   },
   {
-    id: 'residencias-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/dependencia/residencias-publicas/',
+    id: 'residencias-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/dependencia/precio-residencias/',
     cifra: { ante: 'La cifra', antes: 'Lo que paga de media un residente en una plaza pública', grande: '692,40 €', despues: 'al mes, el 35 % de su coste (1.958,95 €). El resto lo pone la Administración.', fuente: 'Imserso, datos de diciembre de 2024.', corto: 'precio-residencia' },
     texto: `Residencia pública o privada: lo que cambia para la familia.
 

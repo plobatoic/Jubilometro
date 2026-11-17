@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "jubilacion anticipada voluntaria requisitos 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 2)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-17
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -23,7 +23,7 @@ fuentes_legales:
 
 # Jubilación anticipada voluntaria: requisitos, coeficientes reductores y ejemplos con cifras
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -90,13 +90,64 @@ Los ejemplos usan bases reguladoras redondas para que se vea el efecto del recor
 
 ## ¿Compensa jubilarse antes?
 
-Depende sobre todo de cuánto adelantes y de si puedes completar la cotización larga trabajando unos meses más. Como regla general:
+Si adelantas tu jubilación cobras antes, pero con un recorte de por vida. Solo con las pensiones en la mano, **lo cobrado de más se agota entre los 73 y los 78 años**, según tu recorte; a partir de ahí, cada año pierdes dinero.
 
-- Si te faltan **pocos meses para los 38 años y 6 meses**, casi nunca compensa adelantar: trabajando ese tiempo pasas de un recorte del 21 % a ninguno.
-- El recorte pesa más **cuantos más años vivas**: al cabo de 15 o 20 años de jubilación, la diferencia acumulada suele superar con mucho lo cobrado durante los meses de adelanto.
-- También importan tu salud, tus ahorros, tu fiscalidad y si tienes otros ingresos.
+### Cómo se hace la cuenta
 
-Hacemos la comparación con cifras en [¿compensa jubilarse antes? Comparativa a los 63, 64 y 65 años](/jubilacion/compensa-jubilarse-antes/).
+Al jubilarte antes pasa lo siguiente:
+
+1. **Ganas** los meses de pensión que cobras antes de tu edad ordinaria, ya con el recorte aplicado.
+2. **Pierdes**, desde tu edad ordinaria y para siempre, el porcentaje de recorte en cada paga.
+
+El **punto de equilibrio** es la edad a la que lo perdido iguala a lo ganado. Tiene una ventaja: no depende de cuánto cobres, solo del recorte y de los meses de adelanto:
+
+> **Años para recuperar lo adelantado = meses de adelanto × (1 − recorte) ÷ recorte ÷ 12**
+>
+> Se cuentan desde tu edad ordinaria. Por ejemplo, 24 meses con un 21 % de recorte: 24 × 0,79 ÷ 0,21 ÷ 12 = 7,5 años.
+
+Las revalorizaciones anuales suben por igual las dos opciones, así que no mueven el punto de equilibrio. Lo que sí lo mueve es tu situación: salario, paro, impuestos o salud (lo vemos más abajo).
+
+### Punto de equilibrio con 2 años de adelanto
+
+Jubilación anticipada voluntaria con el adelanto máximo, 24 meses. Si tu edad ordinaria es 65, te jubilas a los 63; si es 67, a los 65.
+
+<!-- tabla: Edad a la que se recupera lo cobrado adelantando 24 meses (jubilación voluntaria) -->
+| Años cotizados | Recorte | Años para recuperarlo | Si te jubilas a los 63 (edad ordinaria 65) | Si te jubilas a los 65 (edad ordinaria 67) |
+|---|---|---|---|---|
+| Menos de 38 años y 6 meses | 21 % | 7,5 años | — (no puedes a los 63) | 74 años y medio |
+| De 38 años y 6 meses a 41 años y 6 meses | 19 % | 8,5 años | 73 años y medio | — |
+| De 41 años y 6 meses a 44 años y 6 meses | 17 % | 9,8 años | 74 años y 9 meses | — |
+| 44 años y 6 meses o más | 13 % | 13,4 años | 78 años y 5 meses | — |
+
+Con 38 años y 6 meses cotizados o más tu edad ordinaria es 65, así que la anticipada te lleva a los 63; con menos, tu edad ordinaria es 67 y la anticipada te lleva a los 65. Por eso cada tramo tiene una sola columna posible.
+
+Para comparar: según el INE, a los 65 años un hombre vive de media **19,87 años más** y una mujer **23,64** ([esperanza de vida a los 65 años, 2024](https://www.ine.es/jaxiT3/Tabla.htm?t=1415)). Casi todos los puntos de equilibrio quedan muy por debajo de esas edades.
+
+### Calcula tu punto de equilibrio
+
+Con un año de adelanto la fórmula es la misma, pero necesitas tu porcentaje exacto de 12 meses, que depende de tus años cotizados y está en la tabla del [artículo 208 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a208). El simulador de Tu Seguridad Social te lo da con tus datos. Introdúcelo aquí:
+
+<!-- calculadora:compensa -->
+
+**Con el ejemplo de Luis** (63 años, 39 cotizados, base de 2.000 euros y 19 % de recorte): en los 2 años de adelanto ingresa 45.360 euros (1.620 × 14 pagas × 2 años) y, desde los 65, cobra 5.320 euros menos al año. A los 73 años y medio ha perdido lo que ganó y, si vive la media de un hombre de 65 años (hasta casi los 85), el balance final es de unos **60.000 euros menos** que si hubiera esperado.
+
+### Cuándo sí puede compensar
+
+
+- **No vas a tener ingresos hasta tu edad ordinaria.** Si ya no trabajas y no cobras paro ni subsidio, la alternativa a jubilarte antes es no ingresar nada. Aun así, compara con el [subsidio para mayores de 52 años](/jubilacion/subsidio-mayores-52/), que dura hasta la edad ordinaria y sigue cotizando para tu pensión.
+- **Tu salud o tu esperanza de vida son peores que la media.** El cálculo cambia por completo.
+- **Te han despedido.** La [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/) tiene recortes menores para el mismo adelanto y permite adelantar hasta 4 años.
+- **Necesitas el dinero ahora** para una deuda, una vivienda o cuidar de un familiar, y el coste a largo plazo te compensa.
+
+### Cuándo casi nunca compensa
+
+
+- **Te faltan pocos meses para los 38 años y 6 meses.** Si trabajas esos meses, tu edad ordinaria baja de 67 a 65 y te jubilas sin recorte. Adelantar en ese caso cuesta un 21 % de por vida por no trabajar unos meses.
+- **Puedes seguir trabajando.** Mientras trabajas cobras un salario y sigues cotizando, y además tu pensión futura no tiene recorte. La comparación ya no es «pensión recortada frente a nada», sino «pensión recortada frente a salario».
+- **Tienes menos de 37 años cotizados.** Cada mes que trabajes también sube el porcentaje de tu base reguladora (desde 2027, un 0,19 % por mes durante los primeros 248 meses tras los 15 años).
+- **Te plantearías retrasarla.** Si puedes trabajar más allá de tu edad ordinaria, la [jubilación demorada](/jubilacion/demorada/) suma un 4 % por cada año completo.
+
+**Impuestos.** La pensión tributa en el IRPF como rendimiento del trabajo. Una pensión más baja paga menos impuestos, así que la pérdida neta es algo menor que la bruta. Si en los años de adelanto tienes otros ingresos, la pensión anticipada se suma a ellos y puede tributar a un tipo más alto. Si tu caso es ajustado, haz el cálculo con cifras netas.
 
 ## Anticipada voluntaria o involuntaria
 
@@ -129,6 +180,14 @@ De forma voluntaria, no: con 37 años tu edad ordinaria es 67 y el máximo adela
 
 Depende de tus años cotizados. Para 12 meses de adelanto, el recorte queda entre el de 1 mes y el de 24 meses de tu tramo de cotización. Consulta el porcentaje exacto en la tabla del artículo 208 de la LGSS o en el simulador de la Seguridad Social.
 
+### ¿Qué es mejor, jubilarse a los 63 o a los 65?
+
+Solo con las pensiones, esperar suele dar más dinero en total si vives más allá de los 73-78 años, según tu recorte. Jubilarte a los 63 da ingresos antes y puede compensar si no tienes otros ingresos o por salud.
+
+### ¿Las subidas anuales compensan el recorte?
+
+No. Las revalorizaciones se aplican sobre la pensión ya recortada, así que la diferencia se mantiene en porcentaje y crece en euros.
+
 ### ¿El recorte se recupera al llegar a la edad ordinaria?
 
 No. La reducción es permanente y las subidas anuales se aplican sobre la pensión ya recortada.
@@ -146,11 +205,12 @@ No en la práctica: la ley exige que tu pensión ya reducida supere la mínima q
 - [Ley General de la Seguridad Social, artículo 208](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a208) (BOE).
 - [Ley 21/2021, que introdujo los coeficientes mensuales](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21652) (BOE).
 - [La Moncloa: jubilación anticipada por voluntad del trabajador (23 de marzo de 2026)](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/jubilacion-anticipada-requisitos.aspx).
+- [INE: esperanza de vida a los 65 años, según sexo](https://www.ine.es/jaxiT3/Tabla.htm?t=1415).
 - [La Moncloa: pensiones 2026, subida y revalorización](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/paginas/2026/subida-pensiones-2026.aspx).
 
 ## Siguiente paso
 
-- ¿Te compensa? Mira la [comparativa de jubilarse a los 63, 64 o 65 años](/jubilacion/compensa-jubilarse-antes/).
+- ¿Prefieres esperar? Mira [cuánto sube tu pensión con la jubilación demorada](/jubilacion/demorada/).
 - ¿Te han despedido? Lee la guía de [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación por año de nacimiento](/jubilacion/edad-de-jubilacion/).
 
@@ -158,4 +218,4 @@ No en la práctica: la ley exige que tu pensión ya reducida supere la mínima q
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, porcentaje exacto según la tabla. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 17 de noviembre de 2026, se incorpora la guía «¿Compensa jubilarse antes?» (punto de equilibrio, tabla, calculadora, cuándo compensa y cuándo no), que ahora lleva aquí. 20 de octubre de 2026, porcentaje exacto según la tabla. 12 de octubre de 2026, la proposición de ley de los 40 años cotizados decae con la disolución de las Cortes. 27 de septiembre de 2026, primera versión.*
