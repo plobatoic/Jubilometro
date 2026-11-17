@@ -2,7 +2,7 @@
 
 Se programa en Meta Business Suite (business.facebook.com → Planificador). 5 publicaciones. Cómo hacerlo: `../README.md`.
 
-## Mar 17/11 · 13:00 · Instagram (reel)
+## Mar 17/11 · 08:43 · Instagram (reel)
 - Id Metricool: 423067097 · uuid: 6786273332291455359
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-1548344627012332035.mp4
@@ -45,7 +45,7 @@ Pensión no contributiva de jubilación en 2026: cuantía, requisitos y compleme
 #pensiones #pensionnocontributiva #mayores #ayudas
 ```
 
-## Jue 19/11 · 13:00 · Instagram (reel)
+## Jue 19/11 · 08:43 · Instagram (reel)
 - Id Metricool: 423067170 · uuid: 3224414954531276549
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-8431329614662763377.mp4
@@ -88,7 +88,7 @@ Grado I, II o III: los puntos del baremo, las horas de ayuda a domicilio y las a
 #dependencia #cuidados #mayores #familia
 ```
 
-## Sáb 21/11 · 13:00 · Instagram (reel)
+## Sáb 21/11 · 08:43 · Instagram (reel)
 - Id Metricool: 423067238 · uuid: 6308790993832265965
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-8469086688557063935.mp4

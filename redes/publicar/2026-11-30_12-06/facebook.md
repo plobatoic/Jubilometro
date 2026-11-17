@@ -2,7 +2,7 @@
 
 Se programa en Meta Business Suite (business.facebook.com → Planificador). 1 publicaciones. Cómo hacerlo: `../README.md`.
 
-## Lun 30/11 · 20:43 · Facebook (reel)
+## Lun 30/11 · 09:13 · Facebook (reel)
 - Id Metricool: 418724434 · uuid: -3416319333344591130
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-3845172739372056023.mp4

@@ -18,6 +18,10 @@ Desde el 13/11/2026 se programa a mano, porque el plan gratuito de Metricool sol
 
 Cada archivo trae, para cada publicación: día, hora, texto exacto, primer comentario, enlace al vídeo o a las imágenes, portada, título y etiqueta de IA.
 
+## Horas de los reels (siempre por la mañana)
+
+Instagram 08:43 (segundo reel 11:13) · Facebook 09:13 (segundo 11:43) · YouTube 10:17 · X 09:43. Ningún reel por la tarde ni por la noche.
+
 ## Paso a paso (unos 10 minutos por red)
 
 1. Abre el archivo de la red, por ejemplo `2026-11-16_22/instagram.md`, y descarga los vídeos o imágenes de sus enlaces a una carpeta del ordenador.

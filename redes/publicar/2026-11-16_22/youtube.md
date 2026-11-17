@@ -2,7 +2,7 @@
 
 Se programa en YouTube Studio (studio.youtube.com → Crear → Subir vídeos → Programar). 3 publicaciones. Cómo hacerlo: `../README.md`.
 
-## Mar 17/11 · 13:00 · YouTube (short)
+## Mar 17/11 · 10:17 · YouTube (short)
 - Id Metricool: 418723145 · uuid: -5302868823956567998
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-17492050510792485086.mp4
@@ -19,7 +19,7 @@ De baja por enfermedad: nada los 3 primeros días, el 60 % del día 4 al 20 y el
 #baja #trabajo #seguridadsocial
 ```
 
-## Jue 19/11 · 13:00 · YouTube (short)
+## Jue 19/11 · 10:17 · YouTube (short)
 - Id Metricool: 423068648 · uuid: 9043317773951976867
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-1324293347387447998.mp4
@@ -36,7 +36,7 @@ Si te llega un SMS o un correo raro «de la Seguridad Social» o «de Hacienda»
 #mayores #estafas #tramites
 ```
 
-## Sáb 21/11 · 13:00 · YouTube (short)
+## Sáb 21/11 · 10:17 · YouTube (short)
 - Id Metricool: 418723172 · uuid: 5430787178493396907
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-2403963579854092548.mp4

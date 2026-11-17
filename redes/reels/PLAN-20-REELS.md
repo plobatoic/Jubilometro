@@ -8,7 +8,7 @@
 
 Dos reels al día en Instagram y Facebook, y un Short diario en YouTube. Enlaces de descarga en `../publicar/enlaces.md`.
 
-| Día | IG 20:43 · FB 13:13 | IG 13:13 · FB 20:43 | YouTube 18:17 | X (Buffer + x.com 20:43) |
+| Día | IG 08:43 · FB 09:13 | IG 11:13 · FB 11:43 | YouTube 10:17 | X (Buffer + x.com 09:43) |
 |---|---|---|---|---|
 | Lun 16 | R4 tres cifras | 10 bono social | R4 | Imserso · R4 |
 | Mar 17 | Baja | 11 jubilación parcial | Jubilación activa | Baja (Lucía) · SMS 017 |
@@ -16,13 +16,13 @@ Dos reels al día en Instagram y Facebook, y un Short diario en YouTube. Enlaces
 | Jue 19 | SMS 017 | 13 convenio especial | Tarjeta Dorada | PNC · Tarjeta Dorada |
 | Vie 20 | Teleasistencia | 14 lagunas | SMS 017 | Teleasistencia · baja |
 | Sáb 21 | Tarjeta Dorada | 16 bruta y neta | Vender la casa | Dependencia · SOVI |
-| Dom 22 | R6 demorada (12:24) | — (15 complemento a mínimos, sin voz) | Teleasistencia | R6 (vídeo) |
+| Dom 22 | R6 demorada | — (15 complemento a mínimos, sin voz) | Teleasistencia | R6 (vídeo) |
 
 Del 23 al 30/11: E2, E1, E3, R8 y R9 (ya hechos con muñecos y subidos), más los reels del primer mensaje de la extensión. Pendiente: reel 15 (complemento a mínimos), sin voz hasta que ElevenLabs renueve créditos el 5/12.
 
 ## Semana electoral: solo reels de elecciones
 
-Instagram, YouTube y Facebook a las 20:43. Los carruseles y los textos de Facebook siguen como estaban.
+Reels por la mañana: Instagram 08:43, Facebook 09:13 y YouTube 10:17. Los carruseles y los textos de Facebook siguen como estaban.
 
 | Día | Reel | Estado |
 |---|---|---|
@@ -77,5 +77,7 @@ Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de
 2. Nada más: el resto lo voy haciendo y lo apunto aquí.
 
 ## Registro
+
+- 17/11: Pau pide que ningún reel salga por la noche. Horario fijo de reels: IG 08:43 y 11:13 · FB 09:13 y 11:43 · YouTube 10:17 · X 09:43. Buffer ya movido (R5 18/11, R6 22/11, R7 1/12). Diciembre en Metricool sigue a las 20:43 hasta que Pau diga.
 
 - 13/11: semana electoral despejada (11 reels a diciembre; detalle en `semana-01/CALENDARIO.md`). Formato de muñecos 3D aprobado por Pau con E2 como modelo. E1 y E3 escritos y revisados con la previa.

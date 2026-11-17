@@ -62,7 +62,7 @@ La incapacidad total da el 55 % de la base reguladora. Desde los 55 años, si no
 El aumento se suspende mientras trabajes y se recupera cuando lo dejas. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.
 ```
 
-## Mié 18/11 · 20:43 · Facebook (reel)
+## Mié 18/11 · 09:13 · Facebook (reel)
 - Id Metricool: 418723836 · uuid: 1866726296315185843
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-16658928584686777105.mp4
@@ -123,7 +123,7 @@ Lo que mucha gente no sabe: el Tribunal Supremo suma 112 días por cada hijo nac
 ¿Conoces a alguien a quien le dijeron que no tenía pensión? Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.
 ```
 
-## Vie 20/11 · 13:00 · Facebook (reel)
+## Vie 20/11 · 09:13 · Facebook (reel)
 - Id Metricool: 418723851 · uuid: -8305890575739172692
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-4350237776455768938.mp4
@@ -161,7 +161,7 @@ Las ayudas llegan a 747,25 euros al mes para pagar un servicio privado y a 455,4
 ¿Lo habéis pedido ya en casa? Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.
 ```
 
-## Sáb 21/11 · 13:00 · Facebook (reel)
+## Sáb 21/11 · 09:13 · Facebook (reel)
 - Id Metricool: 421477606 · uuid: -5130680006185496690
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-4797314214473923916.mp4
@@ -198,7 +198,7 @@ Es compatible con una pensión, aunque solo cubre la diferencia hasta esa cifra.
 ¿Conoces a alguien que podría estar en este caso? Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.
 ```
 
-## Dom 22/11 · 12:24 · Facebook (reel)
+## Dom 22/11 · 09:13 · Facebook (reel)
 - Id Metricool: 418724351 · uuid: 1110983069535716401
 - Vídeo o imágenes:
   https://static.metricool.com/planner/202611/7853768-file-11210491946394652417.mp4
