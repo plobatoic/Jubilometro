@@ -34,27 +34,29 @@ Reels por la mañana: Instagram 08:43, Facebook 09:13 y YouTube 10:17. Los carru
 
 ## Diciembre
 
+Todos los reels por la mañana: Instagram 08:43, Facebook 09:13 y YouTube 10:17.
+
 | Día | Instagram y YouTube | Facebook | Estado |
 |---|---|---|---|
-| Lun 30/11 | La subida de 2027 ya tiene cifra (IPC del 27/11) | La subida (13:00) · R6 | ✍️ · ✅ |
-| Mar 1/12 | R1 nacidos en 1960 | R7 jubilación activa (13:00) | ✅ |
+| Lun 30/11 | La subida de 2027 ya tiene cifra (IPC del 27/11) | La subida · R6 | ✍️ · ✅ |
+| Mar 1/12 | R1 nacidos en 1960 | R7 jubilación activa | ✅ |
 | Mié 2/12 | R8 despido a los 60 | R8 | ✍️ pasarlo a muñecos |
 | Jue 3/12 | R6 jubilación demorada | R1 nacidos en 1960 | ✅ · ↪ |
 | Vie 4/12 | R4 tres cifras de 2027 | — | ↪ |
 | Sáb 5/12 | R7 jubilación activa | — | ✅ |
-| Dom 6/12 (12:24) | Bono social eléctrico | Ídem | ✍️ |
+| Dom 6/12 | Bono social eléctrico | Ídem | ✍️ |
 | Lun 7/12 | R9 trabajado en otro país | Ídem | ✍️ pasarlo a muñecos |
 | Mié 9/12 | Tarjeta Dorada | Ídem | ↪ |
 | Jue 10/12 | Jubilación parcial | Ídem | ✍️ |
 | Vie 11/12 | R5 subsidio de 52 | — | ↪ |
 | Sáb 12/12 | Jubilación flexible | Ídem | ✍️ |
-| Dom 13/12 (12:24) | Instagram: SOVI · YouTube: vender la casa | — | ↪ |
+| Dom 13/12 | Instagram: SOVI · YouTube: vender la casa | — | ↪ |
 | Lun 14/12 | Anticipada involuntaria | Ídem | ✍️ |
 | Mar 15/12 | — | Baja por enfermedad | ↪ |
 | Mié 16/12 | Convenio especial | Ídem | ✍️ |
 | Jue 17/12 | Lagunas de cotización | Ídem | ✍️ |
 | Sáb 19/12 | Complemento a mínimos | Ídem | ✍️ |
-| Dom 20/12 (12:24) | Pensión bruta y neta | Ídem | ✍️ |
+| Dom 20/12 | Pensión bruta y neta | Ídem | ✍️ |
 | Mar 22/12 | Los 3 papeles para pedir la jubilación | Ídem | ✍️ |
 
 **Cómo se publica (desde el 13/11):** Metricool gratis solo publica 20 al mes, así que Instagram y Facebook se programan con Meta Business Suite y YouTube con YouTube Studio, con la extensión de Claude en Chrome (ver `../publicar/README.md`).
@@ -78,6 +80,6 @@ Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de
 
 ## Registro
 
-- 17/11: Pau pide que ningún reel salga por la noche. Horario fijo de reels: IG 08:43 y 11:13 · FB 09:13 y 11:43 · YouTube 10:17 · X 09:43. Buffer ya movido (R5 18/11, R6 22/11, R7 1/12). Diciembre en Metricool sigue a las 20:43 hasta que Pau diga.
+- 17/11: Pau pide que ningún reel salga por la noche. Horario fijo de reels: IG 08:43 y 11:13 · FB 09:13 y 11:43 · YouTube 10:17 · X 09:43. Buffer ya movido (R5 18/11, R6 22/11, R7 1/12). Los 18 reels de diciembre de Metricool también pasan a la mañana (IG 08:43, FB 09:13, YouTube 10:17).
 
 - 13/11: semana electoral despejada (11 reels a diciembre; detalle en `semana-01/CALENDARIO.md`). Formato de muñecos 3D aprobado por Pau con E2 como modelo. E1 y E3 escritos y revisados con la previa.
