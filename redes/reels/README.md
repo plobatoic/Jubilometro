@@ -122,6 +122,8 @@ Para los reels nuevos. Se activa con `estilo: "dinamico"` en `reel.mjs` y se pue
 
 ## Muñecos 3D (13/11/2026): el formato modelo
 
+> **Voz desde el 18/11:** «Chris» (`iP95p4xoKVk53GoZ742B`), la de los primeros reels, no «Eric». Con vidIQ (`vidiq_voiceover_generate`) o en la web de ElevenLabs (Eleven Multilingual v2).
+
 Pau pidió el 13/11 distinguirnos con muñecos animados en 3D y ejemplos prácticos. Sustituye a la regla del vídeo real de stock: los reels nuevos se cuentan con personajes propios, hechos solo con código (three.js), sin material de terceros. Modelo: `elecciones/e2-paga-extra/reel.mjs`.
 
 **Reparto** (`herramientas/reels/3d/personajes.js`):

@@ -1,6 +1,6 @@
 # Reels del 23/11 al 22/12/2026
 
-**Formato:** solo reels nuevos con muñecos 3D (Rosa y Luis) hechos con código, con voz «Eric» y la etiqueta de IA activada.
+**Formato:** solo reels nuevos con muñecos 3D (Rosa y Luis) hechos con código, con la voz «Chris» (`iP95p4xoKVk53GoZ742B`, la de los primeros reels: más humana) y la etiqueta de IA activada. Los reels ya hechos con «Eric» se quedan como están.
 
 **Estado:** ✅ programado · 🎬 hecho, falta la voz · ✍️ por escribir · ⏳ espera los programas de los partidos · ↪ movido el 13/11.
 
@@ -71,7 +71,7 @@ Todos los reels por la mañana: Instagram 08:43, Facebook 09:13 y YouTube 10:17.
 | E3, la cifra de la subida, R8 y R9 | vidIQ: 150 créditos, 28 por guion | 24/11 por la noche, con la tarea programada |
 | Resto de diciembre | ElevenLabs: 10.000 créditos nuevos | Desde el 5/12 |
 
-Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de ElevenLabs con la voz «Eric» y el texto de `voz.txt` de cada reel, y me pasa el MP3.
+Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de ElevenLabs con la voz «Chris» y el texto de `voz.txt` de cada reel, y me pasa el MP3.
 
 ## Pendiente de Pau
 
@@ -79,6 +79,8 @@ Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de
 2. Nada más: el resto lo voy haciendo y lo apunto aquí.
 
 ## Registro
+
+- 18/11: Pau prefiere la voz antigua, «Chris» (la de R1-R6), porque es más humana. Todos los reels nuevos van con ella.
 
 - 18/11: se descarta mezclar con el formato informativo antiguo: solo reels nuevos con muñecos 3D.
 
