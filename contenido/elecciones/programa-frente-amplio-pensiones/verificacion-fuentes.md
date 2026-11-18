@@ -6,8 +6,8 @@
 |---|---|---|---|---|
 | 1 | «Pensiones públicas dignas» | Programa oficial de Frente Amplio | 4, 57 | Verificado en el PDF |
 | 2 | «Salarios y pensiones dignos y precios asequibles» | Programa oficial de Frente Amplio | 4, 50, 52, 54, 56, 58 | Verificado en el PDF |
-| 3 | «el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas» | Programa oficial de Frente Amplio | 57 | Verificado en el PDF |
-| 4 | «Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011» | Programa oficial de Frente Amplio | 57 | Verificado en el PDF |
+| 3 | «el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas» | Programa oficial de Frente Amplio | 57-58 | Verificado en el PDF |
+| 4 | «Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |
 | 5 | «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |
 | 6 | «equiparando pensiones mínimas y no contributivas al umbral de la pobreza» | Programa oficial de Frente Amplio | 24 | Verificado en el PDF |
 | 7 | «por encima de la media» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |

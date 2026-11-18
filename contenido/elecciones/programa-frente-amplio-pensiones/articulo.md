@@ -8,7 +8,7 @@ miga: Programa de Frente Amplio
 palabra_clave_principal: programa Frente Amplio pensiones
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-17
+fecha_actualizacion: 2026-11-18
 publicacion: 2026-11-17
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Qué propone Frente Amplio sobre las pensiones en su programa para las elecciones del 29N
 
-*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido*
+*Actualizado el 18 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido*
 
 > **Respuesta rápida**
 >
@@ -37,15 +37,15 @@ Contamos lo que dice el programa, con citas literales cortas y la página del PD
 
 ## La subida de las pensiones
 
-Llevar a la Constitución, con una reforma por el procedimiento ordinario (artículo 167), «el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas» (página 57). Hoy la subida con el IPC está en el artículo 58 de la Ley General de la Seguridad Social. Cuánto subirán en 2027 con la ley actual lo explicamos en [la subida de las pensiones en 2027](/cuanto-cobrare/revalorizacion-pensiones/).
+Llevar a la Constitución, con una reforma por el procedimiento ordinario (artículo 167), «el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas» (páginas 57 y 58). Hoy la subida con el IPC está en el artículo 58 de la Ley General de la Seguridad Social. Cuánto subirán en 2027 con la ley actual lo explicamos en [la subida de las pensiones en 2027](/cuanto-cobrare/revalorizacion-pensiones/).
 
 ## La edad de jubilación
 
-«Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011» (página 57). Y que en construcción, limpieza, ayuda a domicilio, camareras de piso y pesca se pueda jubilar a los 60 años «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» (páginas 57 y 58). La edad actual, en [la edad de jubilación](/jubilacion/edad-de-jubilacion/).
+«Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011» (página 58). Y que en construcción, limpieza, ayuda a domicilio, camareras de piso y pesca se pueda jubilar a los 60 años «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» (página 58). La edad actual, en [la edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ## Las pensiones mínimas y no contributivas
 
-Que ninguna pensión sea inferior al salario mínimo interprofesional (página 57), que en 2026 es de 1.221 euros al mes en 14 pagas. Y «equiparando pensiones mínimas y no contributivas al umbral de la pobreza» (página 24). También subir las contributivas más bajas y las no contributivas «por encima de la media» y mantener el complemento de brecha de género (página 58). Las cuantías de 2026, en [la pensión mínima](/cuanto-cobrare/pension-minima/).
+Que ninguna pensión sea inferior al salario mínimo interprofesional (páginas 57 y 58), que en 2026 es de 1.221 euros al mes en 14 pagas. Y «equiparando pensiones mínimas y no contributivas al umbral de la pobreza» (página 24). También subir las contributivas más bajas y las no contributivas «por encima de la media» y mantener el complemento de brecha de género (página 58). Las cuantías de 2026, en [la pensión mínima](/cuanto-cobrare/pension-minima/).
 
 ## La jubilación anticipada
 
@@ -92,4 +92,4 @@ De la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en frenteamplio.info.*
+*Historial de cambios: 18 de noviembre de 2026, páginas ajustadas a la versión nueva del PDF que Frente Amplio colgó el 17 de noviembre (el texto sobre pensiones no cambia). 17 de noviembre de 2026, primera versión, con el programa oficial publicado en frenteamplio.info.*

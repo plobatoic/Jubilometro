@@ -8,7 +8,7 @@ miga: Qué proponen los partidos
 palabra_clave_principal: propuestas pensiones partidos elecciones
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-17
+fecha_actualizacion: 2026-11-18
 publicacion: 2026-11-17
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -23,7 +23,7 @@ fuentes_legales:
 
 # Qué proponen los partidos sobre las pensiones en las elecciones del 29 de noviembre de 2026
 
-*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
+*Actualizado el 18 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
 
 > **Respuesta rápida**
 >
@@ -74,7 +74,7 @@ Hoy ya es la ley: las pensiones contributivas suben cada enero lo que ha subido 
 
 En 2027 la edad ordinaria llega a los **67 años**, o a los 65 si has cotizado 38 años y 6 meses, como contamos en [la edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
-- **Frente Amplio**: «Devolveremos la edad de jubilación a los 65 años» (página 57). Y que en construcción, limpieza, ayuda a domicilio, camareras de piso y pesca se pueda jubilar a los 60 «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» (páginas 57 y 58).
+- **Frente Amplio**: «Devolveremos la edad de jubilación a los 65 años» (página 58). Y que en construcción, limpieza, ayuda a domicilio, camareras de piso y pesca se pueda jubilar a los 60 «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» (página 58).
 - **PSOE**: no propone cambiar la edad. Quiere que la rebaja por trabajos penosos se calcule para cada persona, con «una cuenta individual de penosidad» (medida 104, página 40).
 - **PNV**: rebajar la edad a las personas que cuidan a un familiar con el convenio especial de la Seguridad Social (medida 06, página 31).
 - **PP, Vox y ERC**: no lo mencionan. ERC habla de jubilarse antes en profesiones peligrosas, sin cambiar la edad general (lo vemos más abajo).
@@ -83,7 +83,7 @@ En 2027 la edad ordinaria llega a los **67 años**, o a los 65 si has cotizado 3
 
 En 2026 la [pensión mínima de jubilación](/cuanto-cobrare/pension-minima/) es de 936,20 euros al mes si tienes 65 años o más y vives solo, y la [no contributiva](/ayudas/pension-no-contributiva/), de 628,80 euros.
 
-- **Frente Amplio**: que «ninguna sea inferior al SMI» (página 57), y que las mínimas y no contributivas lleguen al umbral de la pobreza (página 24). El salario mínimo de 2026 es de 1.221 euros al mes en 14 pagas.
+- **Frente Amplio**: que «ninguna sea inferior al SMI» (páginas 57 y 58), y que las mínimas y no contributivas lleguen al umbral de la pobreza (página 24). El salario mínimo de 2026 es de 1.221 euros al mes en 14 pagas.
 - **PSOE**: seguir «culminando el proceso de convergencia de las cuantías de las pensiones mínimas con estándares de ingresos del conjunto de la sociedad», y que el Estado pague con impuestos lo no contributivo (medidas 98 y 99, páginas 39 y 40).
 - **PNV**: «Mejorar progresivamente las pensiones mínimas y no contributivas» (medida 02, página 31).
 - **PP, Vox y ERC**: no lo mencionan.
@@ -175,4 +175,4 @@ No. Un programa electoral no cambia nada: hace falta que el Gobierno o las Corte
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dicen los programas oficiales de cada partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 17 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV.*
+*Historial de cambios: 18 de noviembre de 2026, páginas de Frente Amplio ajustadas a la versión nueva de su PDF (el texto no cambia); ERC también renovó su PDF sin cambios en lo citado. 17 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV.*

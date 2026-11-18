@@ -11,7 +11,7 @@
 | 5 | ERC | «Blindar la revaloració de les pensions» | 26 | Verificado en el PDF |
 | 6 | ERC | «d'acord amb l'IPC de cada territori» | 26 | Verificado en el PDF |
 | 7 | PNV | «revalorizarlas anualmente conforme al IPC» | 31 | Verificado en el PDF |
-| 8 | Frente Amplio | «Devolveremos la edad de jubilación a los 65 años» | 57 | Verificado en el PDF |
+| 8 | Frente Amplio | «Devolveremos la edad de jubilación a los 65 años» | 58 | Verificado en el PDF |
 | 9 | Frente Amplio | «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» | 58 | Verificado en el PDF |
 | 10 | PSOE | «una cuenta individual de penosidad» | 40 | Verificado en el PDF |
 | 11 | Frente Amplio | «ninguna sea inferior al SMI» | 57 | Verificado en el PDF |

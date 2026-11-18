@@ -2,10 +2,19 @@ import re, sys, subprocess, os
 RAIZ, S = sys.argv[1], sys.argv[2]
 PDF = {'pp':'pp','psoe':'psoe','vox':'vox','frente-amplio':'fa','erc':'erc','pnv':'pnv'}
 NOM = {'pp':'PP','psoe':'PSOE','vox':'Vox','frente-amplio':'Frente Amplio','erc':'ERC','pnv':'PNV'}
+def crudas(pdf):
+    n=int(re.search(r'Pages:\s+(\d+)',subprocess.run(['pdfinfo',pdf],capture_output=True,text=True).stdout).group(1))
+    return [subprocess.run(['pdftotext','-f',str(p),'-l',str(p),pdf,'-'],capture_output=True,text=True).stdout for p in range(1,n+1)]
+def unir(a,b):
+    a=re.sub(r'\s*\d{1,3}\s*$','',a.rstrip())
+    b=re.sub(r'^\s*\d{1,3}\s+[A-ZÁÉÍÓÚÑ ]{10,}\n','',b.lstrip())
+    t=re.sub(r'\s+',' ',a+' '+b).replace('- ','').replace('’',"'")
+    return t
 def paginas(pdf):
     n=int(re.search(r'Pages:\s+(\d+)',subprocess.run(['pdfinfo',pdf],capture_output=True,text=True).stdout).group(1))
     return [re.sub(r'\s+',' ',subprocess.run(['pdftotext','-f',str(p),'-l',str(p),pdf,'-'],capture_output=True,text=True).stdout).replace('- ','').replace('’',"'") for p in range(1,n+1)]
 cache={}
+crudo={}
 IGNORAR={'Programa electoral. Es sentido común','Cómo pagar las pensiones','Eleccions al Congrés 2026. Programa electoral','La jubilación anticipada','Defendemos Euskadi / Euskadi Zaindu','La reconstrucción nacional','La fuerza de seguir avanzando'}
 def comprobar(texto, clave):
     """Busca cada cita «…» del texto en el PDF del partido; devuelve filas."""
@@ -17,7 +26,10 @@ def comprobar(texto, clave):
         # las citas que saltan de página: se busca en la unión de dos páginas
         hit=[i+1 for i,t in enumerate(pags) if c.lower() in t.lower()]
         if not hit:
-            hit=[f'{i+1}-{i+2}' for i in range(len(pags)-1) if c.lower() in re.sub(r'\s+',' ',re.sub(r' \d{1,3} ',' ',re.sub(r'\s+',' ',pags[i]+' '+pags[i+1]))).lower()]
+            cr = crudo.setdefault(clave, crudas(os.path.join(S, clave, 'p.pdf')))
+            hit=[f'{i+1}-{i+2}' for i in range(len(cr)-1) if c.lower() in unir(cr[i], cr[i+1]).lower()]
+        if not hit:
+            hit=[f'{i+1}-{i+2}' for i in range(len(pags)-1) if c.lower() in re.sub(r'\s+',' ',re.sub(r' \d{1,3} ',' ',re.sub(r' \d{1,3} [A-ZÁÉÍÓÚÑ ]{12,}(?= [a-záéíóúñ])',' ',re.sub(r'\s+',' ',pags[i]+' '+pags[i+1])))).lower()]
         if hit: filas.append((cita, ', '.join(map(str,hit))))
         else: fallos.append(cita)
     return filas, fallos
