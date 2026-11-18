@@ -132,3 +132,5 @@ Falta, lo hace el titular:
 - YouTube ya está conectado en Metricool (canal @jubilometro).
 
 - **Vídeos de YouTube:** activados por Pau el 4/11. Shorts lunes, miércoles y viernes a las 13:00 desde el 6/11 (`publicacion/redes/programado/metricool-programadas.md`).
+
+- **18/11/2026: salario mínimo de 2027.** El Real Decreto-ley 38/2026 (BOE-A-2026-24120, 18/11) dice en su exposición que el SMI de 2027 será de 18.004 euros al año, y sube la deducción del IRPF por rendimientos del trabajo (1.033,58 € hasta 18.004 €) para que quien cobre el SMI no pague IRPF; solo para sueldos por trabajo efectivo, no para pensiones. Ninguna guía lo menciona todavía. Cuando salga en el BOE el real decreto del SMI de 2027, actualizar las guías que citan el SMI de 2026 (1.221 € en 14 pagas) donde hable de 2027, y la comparativa de elecciones (Frente Amplio: pensión mínima igual al SMI).

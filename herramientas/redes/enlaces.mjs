@@ -28,7 +28,8 @@ const fechaLarga = (f) => { const [a, m, d] = f.split('-').map(Number); return `
 
 // Título corto de una guía (su «miga»), o null si la ruta no es una guía del repositorio
 function campo(ruta, nombre) {
-  const f = join(RAIZ, 'contenido', ruta.replace(/^\/|\/$/g, ''), 'articulo.md');
+  // Admite un apartado de la guía (/guia/#apartado): el título es el de la guía
+  const f = join(RAIZ, 'contenido', ruta.split('#')[0].replace(/^\/|\/$/g, ''), 'articulo.md');
   if (!existsSync(f)) return null;
   return readFileSync(f, 'utf8').match(new RegExp(`^${nombre}:\\s*"?(.+?)"?\\s*$`, 'm'))?.[1] ?? null;
 }
