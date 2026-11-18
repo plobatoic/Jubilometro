@@ -2664,3 +2664,21 @@ html body :is(.jm-input, .jm-select, .jm-textarea):focus { box-shadow: inset 0 2
   }
 }
 @keyframes jm-3d-in { from { transform: perspective(1000px) rotateX(14deg) translate3d(0, 18px, -30px); } }
+
+/* ==========================================================================
+   Móvil más cómodo y más ligero (18/11/2026, tema 2.11.38)
+   - La cabecera se esconde al bajar y vuelve al subir (la mueve jubilometro.js con .is-hidden).
+   - Lo que queda por debajo de la pantalla en la portada no se dibuja hasta que te acercas
+     (content-visibility): menos trabajo para el móvil al cargar. El pie no, porque las pruebas de
+     contraste no ven su fondo oscuro si no está dibujado.
+   - Enlaces del pie y campo del boletín con más superficie para el dedo.
+   ========================================================================== */
+@media (max-width: 899px) {
+  .jm-header { transition: transform .28s ease, box-shadow .3s ease; }
+  .jm-header.is-hidden { transform: translateY(calc(-100% - 4px)); box-shadow: none; }
+  .home main > :is(section, nav):not(.jm-mast) { content-visibility: auto; contain-intrinsic-size: auto 900px; }
+  .jm-footer ul { gap: .2rem; }
+  .jm-footer ul a, .jm-footer .jm-linkbtn { display: inline-block; padding-block: .4rem; }
+  .jm-nl__form input:is([type="email"], [type="text"]) { min-height: 48px; }
+}
+@media (max-width: 899px) and (prefers-reduced-motion: reduce) { .jm-header { transition: none; } }

@@ -15,6 +15,18 @@
     var h = $('[data-jm-header]'), s = $('[data-jm-sentinel]');
     if (!h || !s || !('IntersectionObserver' in window)) return;
     new IntersectionObserver(function (e) { h.classList.toggle('is-stuck', !e[0].isIntersecting); }).observe(s);
+    // En el móvil la cabecera se esconde al bajar (más sitio para leer) y vuelve en cuanto subes un poco
+    if (!window.matchMedia) return;
+    var mq = window.matchMedia('(max-width: 899px)'), last = window.scrollY || 0, busy = false;
+    function update() {
+      var y = window.scrollY || 0, html = document.documentElement;
+      if (!mq.matches || y < 160 || html.style.overflow === 'hidden' || h.contains(document.activeElement)) h.classList.remove('is-hidden');
+      else if (y > last + 10) h.classList.add('is-hidden');
+      else if (y < last - 10) h.classList.remove('is-hidden');
+      last = y; busy = false;
+    }
+    window.addEventListener('scroll', function () { if (!busy) { busy = true; window.requestAnimationFrame(update); } }, { passive: true });
+    h.addEventListener('focusin', function () { h.classList.remove('is-hidden'); });
   }
 
   // Cajón móvil

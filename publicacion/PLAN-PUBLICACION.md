@@ -549,6 +549,15 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Móvil más cómodo y más ligero (18/11/2026, temas 2.11.38 y 2.11.39)
+
+Pedido por el titular: «haz que la web funcione mejor para móvil». Medido antes con Lighthouse (móvil): portada 86, guía 85, tema 72, calculadora 89, comparativa de elecciones 93; accesibilidad y SEO 100; «buenas prácticas» 79 solo por AdSense. Lo que más pesaba en la portada: 2.149 elementos y casi 0,9 s de estilo y maquetación en el móvil; en todas, el código de AdSense y su mensaje de consentimiento (no se toca).
+
+- **Cabecera que se esconde al bajar** y vuelve en cuanto subes (≤ 899 px): unos 77 px más de pantalla para leer. `jubilometro.js` (initHeader, clase `.is-hidden`, sin escuchar el scroll en ordenador) y CSS al final de `jubilometro.css`. No se esconde arriba del todo, con el menú abierto ni si el foco está en la cabecera. Sin transición con «reducir movimiento».
+- **Portada: lo que queda por debajo de la pantalla no se dibuja hasta que te acercas** (`content-visibility: auto` en las secciones de la portada salvo la cabecera). El pie no: las pruebas de contraste no ven su fondo oscuro sin dibujar y bajaban la accesibilidad a 97 (2.11.39 lo quita del pie).
+- **Más superficie para el dedo**: enlaces del pie y botón de cookies con más alto; campo del boletín de 48 px.
+- Medido después: estilo y maquetación de la portada de ~0,9 s a ~0,6-0,68 s; bloqueo de la portada de 340 a ~210 ms; accesibilidad 100 y SEO 100. Las notas de rendimiento varían mucho entre pasadas por la red de pruebas (respuesta del servidor de 0,2 a 2,4 s). Probado en un móvil simulado: la cabecera se esconde y vuelve bien en portada, guía y calculadora; sin errores de JavaScript ni desplazamiento lateral.
+
 ### Fusión de guías que se repiten, tanda 2 (17/11/2026, tema 2.11.37)
 
 Fusiones 4 a 7 de `publicacion/seo/propuesta-fusiones-2026-11.md` (aprobadas el 13/11), igual que la tanda 1:
