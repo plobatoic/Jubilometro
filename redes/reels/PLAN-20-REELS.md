@@ -1,5 +1,7 @@
 # Reels del 23/11 al 22/12/2026
 
+> **Calendario vigente: `../publicar/CALENDARIO.md`.**
+
 **Formato:** solo reels nuevos con muñecos 3D (Rosa y Luis) hechos con código, con la voz «Chris» (`iP95p4xoKVk53GoZ742B`, la de los primeros reels: más humana) y la etiqueta de IA activada. Los reels ya hechos con «Eric» se quedan como están.
 
 **Estado:** ✅ programado · 🎬 hecho, falta la voz · ✍️ por escribir · ⏳ espera los programas de los partidos · ↪ movido el 13/11.
@@ -34,7 +36,7 @@ Reels por la mañana: Instagram 08:43, Facebook 09:13 y YouTube 10:17. Los carru
 
 ## Diciembre
 
-Todos los reels por la mañana: Instagram 08:43, Facebook 09:13 y YouTube 10:17.
+**Desde el 19/11 manda `../publicar/CALENDARIO.md`** (ritmo y horas nuevos). Las tablas de abajo son el plan antiguo.
 
 | Día | Instagram y YouTube | Facebook | Estado |
 |---|---|---|---|
@@ -79,6 +81,8 @@ Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de
 2. Nada más: el resto lo voy haciendo y lo apunto aquí.
 
 ## Registro
+
+- 18/11: ritmo nuevo según los estudios: Instagram 4 reels a la semana a las 19:30, Facebook los mismos a las 20:43, YouTube 3 Shorts a las 17:00, X a las 09:43 y a las 20:43. Metricool (18 de diciembre) y Buffer ya están cambiados. El calendario está en `../publicar/CALENDARIO.md`.
 
 - 18/11: Pau prefiere la voz antigua, «Chris» (la de R1-R6), porque es más humana. Todos los reels nuevos van con ella.
 
