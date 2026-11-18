@@ -167,19 +167,6 @@ Todo lo que lleva `en` se sincroniza con la frase del guion, igual que los texto
 - El render completo tarda unos 15 minutos por reel de 30 s: unos 6 del 3D y unos 9 de la capa de textos.
 - El 3D se dibuja con SwiftShader, sin tarjeta gráfica.
 
-## Dos formatos, uno de cada (17/11/2026)
-
-Los reels de antes, con gráficos y más información, también traen visitas. Por eso cada día sale uno de cada formato:
-
-| Hueco | Formato | Para qué |
-|---|---|---|
-| 1.º del día (IG 08:43 · FB 09:13) | **Muñecos 3D** (Rosa y Luis), con un ejemplo práctico | Enganchar, que se entienda a la primera, pensado para los mayores |
-| 2.º del día (IG 11:13 · FB 11:43) | **Informativo** como `semana-01/02-jubilarse-antes-60000`: gráficos animados, cifras, tablas y fuente, sin muñecos | Dar el dato completo y que lo guarden |
-
-- YouTube (10:17) alterna un día cada uno.
-- Un mismo tema puede tener los dos formatos (por ejemplo, el 17 con muñecos y el R2 informativo), pero en días distintos.
-- El informativo usa `estilo: "dinamico"`, sin `animacion` 3D, con texto grande y alto contraste; dura de 30 a 45 s.
-
 ## Lo que funciona (datos del 1 al 15/11/2026)
 
 - **Cifra en euros en el gancho.** El reel «Jubilarte 2 años antes te puede costar 60.000 €» llegó a 112 personas en Instagram y tuvo 419 reproducciones en Facebook, entre 4 y 80 veces más que los demás. Los temas sin cifra en el gancho (auxilio, SOVI) apenas llegaron a nadie.

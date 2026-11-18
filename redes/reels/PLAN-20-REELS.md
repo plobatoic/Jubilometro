@@ -1,6 +1,6 @@
 # Reels del 23/11 al 22/12/2026
 
-**Formato (desde el 17/11):** cada día, uno de cada. El primero con muñecos 3D (Rosa y Luis) y el segundo informativo, con gráficos animados como los de la semana 1 (ver `README.md`, «Dos formatos, uno de cada»). Los dos llevan la voz «Eric» y la etiqueta de IA. El modelo es `elecciones/e2-paga-extra` y el formato está explicado en `README.md`, en «Muñecos 3D».
+**Formato:** solo reels nuevos con muñecos 3D (Rosa y Luis) hechos con código, con voz «Eric» y la etiqueta de IA activada.
 
 **Estado:** ✅ programado · 🎬 hecho, falta la voz · ✍️ por escribir · ⏳ espera los programas de los partidos · ↪ movido el 13/11.
 
@@ -80,7 +80,7 @@ Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de
 
 ## Registro
 
-- 17/11: Pau quiere combinar formatos: cada día un reel con muñecos 3D y otro informativo como los de antes.
+- 18/11: se descarta mezclar con el formato informativo antiguo: solo reels nuevos con muñecos 3D.
 
 - 17/11: Pau pide que ningún reel salga por la noche. Horario fijo de reels: IG 08:43 y 11:13 · FB 09:13 y 11:43 · YouTube 10:17 · X 09:43. Buffer ya movido (R5 18/11, R6 22/11, R7 1/12). Los 18 reels de diciembre de Metricool también pasan a la mañana (IG 08:43, FB 09:13, YouTube 10:17).
 
