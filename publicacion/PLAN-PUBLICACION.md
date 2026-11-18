@@ -549,6 +549,15 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Velocidad real de los lectores (18/11/2026, tema 2.11.40)
+
+El titular pasó un vídeo con 25 consejos para que una web o app vaya rápida («Analiza este vídeo y úsalo en nuestra web»). Repasados uno a uno contra la web:
+
+- **Ya hechos**: HTML hecho en el servidor y en caché (LiteSpeed, «hit»); imágenes en WebP; compresión Brotli; CDN de Hostinger; caché del navegador de un año para fuentes, imágenes, CSS y JS; fuentes alojadas en la propia web (dos archivos, precargados); JavaScript propio en un solo archivo; búsqueda con espera de 110 ms y el índice pedido una sola vez; estadísticas de WordPress.com cargadas al final (`defer`, prioridad baja); listas largas de la portada sin dibujar hasta que se ven (2.11.38); probado en móvil (Lighthouse y navegador).
+- **No aplican** (son para apps con servidor y base de datos propios): esqueletos de carga, colas de trabajos, consultas N+1, índices, «pool» de conexiones, OpenTelemetry, varias instancias, servidor junto a la base de datos, paginar una API.
+- **No se toca**: cargar después los scripts de terceros que pesan (AdSense y su mensaje de consentimiento), por la regla de no cambiar AdSense mientras esté en revisión.
+- **Lo que faltaba y se ha hecho: medir la velocidad de los lectores reales.** `initVitals` en `jubilometro.js` mide en cada visita las tres medidas de Google (carga de la página LCP, respuesta al tocar INP y saltos del contenido CLS) y manda una señal al irse, solo con el tramo («bueno», «mejorable», «malo») y el tipo de dispositivo, sin cookies ni datos personales; `inc/estadisticas.php` la guarda como tipo `velocidad` (`lcp|movil|bueno`…), sale en el panel de estadísticas y en `/wp-json/jm/v1/estadisticas`. Robots y editores no cuentan. Probado en un móvil simulado (la prueba intercepta la señal para no ensuciar los datos).
+
 ### Móvil más cómodo y más ligero (18/11/2026, temas 2.11.38 y 2.11.39)
 
 Pedido por el titular: «haz que la web funcione mejor para móvil». Medido antes con Lighthouse (móvil): portada 86, guía 85, tema 72, calculadora 89, comparativa de elecciones 93; accesibilidad y SEO 100; «buenas prácticas» 79 solo por AdSense. Lo que más pesaba en la portada: 2.149 elementos y casi 0,9 s de estilo y maquetación en el móvil; en todas, el código de AdSense y su mensaje de consentimiento (no se toca).

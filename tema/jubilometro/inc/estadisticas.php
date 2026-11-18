@@ -164,6 +164,24 @@ function jm_stats_ev() {
 	wp_die( '', '', array( 'response' => 204 ) );
 }
 
+// Velocidad real de los lectores (LCP, INP y CLS en tramos de Google), por dispositivo: solo valores conocidos
+add_action( 'wp_ajax_jm_vel', 'jm_stats_vel' );
+add_action( 'wp_ajax_nopriv_jm_vel', 'jm_stats_vel' );
+function jm_stats_vel() {
+	$p = wp_unslash( $_POST ); // phpcs:ignore WordPress.Security.NonceVerification.Missing
+	if ( jm_stats_es_robot() || current_user_can( 'edit_posts' ) ) { wp_die( '', '', array( 'response' => 204 ) ); }
+	$disp   = array( 'm' => 'movil', 't' => 'tableta', 'd' => 'ordenador' );
+	$w      = isset( $p['w'] ) ? (string) $p['w'] : '';
+	$tramos = array( 'bueno', 'mejorable', 'malo' );
+	if ( isset( $disp[ $w ] ) ) {
+		foreach ( array( 'lcp', 'inp', 'cls' ) as $m ) {
+			$v = isset( $p[ $m ] ) ? (string) $p[ $m ] : '';
+			if ( in_array( $v, $tramos, true ) ) { jm_stats_add( 'velocidad', $m . '|' . $disp[ $w ] . '|' . $v ); }
+		}
+	}
+	wp_die( '', '', array( 'response' => 204 ) );
+}
+
 /* ---------- Lectura: resumen por tipo para el panel y la API ---------- */
 function jm_stats_resumen( $dias ) {
 	global $wpdb;
@@ -218,6 +236,11 @@ function jm_stats_nombre( $tipo, $clave ) {
 		list( $c, $o ) = array_pad( explode( '|', $clave, 2 ), 2, '' );
 		return $c . ' · ' . ( $nombres[ $o ] ?? $o );
 	}
+	if ( 'velocidad' === $tipo ) {
+		list( $m, $w, $v ) = array_pad( explode( '|', $clave, 3 ), 3, '' );
+		$med = array( 'lcp' => 'Carga de la página', 'inp' => 'Respuesta al tocar', 'cls' => 'Saltos del contenido' );
+		return ( $med[ $m ] ?? $m ) . ' · ' . $w . ' · ' . $v;
+	}
 	if ( 'evento' === $tipo ) {
 		list( $e, $k ) = array_pad( explode( ':', $clave, 2 ), 2, '' );
 		$cal = jm_data( 'calcs' )[ $k ]['short'] ?? ( 'simulador' === $k ? 'Simulador' : ( 'guia' === $k ? 'dentro de una guía' : '' ) );
@@ -242,6 +265,7 @@ function jm_stats_panel() {
 		'dispositivo' => array( 'Dispositivo', 'Entradas' ),
 		'corto'       => array( 'Clics en enlaces cortos (antes de llegar a la guía)', 'Clics' ),
 		'404'         => array( 'Direcciones que no existen (enlaces rotos)', 'Vistas' ),
+		'velocidad'   => array( 'Velocidad real de los lectores (carga, respuesta al tocar y saltos; tramos de Google)', 'Visitas' ),
 	);
 	echo '<div class="wrap"><h1>Estadísticas de Jubilómetro</h1>';
 	echo '<p>Medición propia y sin cookies: no se guarda nada que identifique a nadie, solo sumas por día. Tus propias visitas con la sesión iniciada no cuentan.</p>';

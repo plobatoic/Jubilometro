@@ -232,6 +232,26 @@
       } else if (++intentos < 20) { setTimeout(esperar, 500); }
     })();
   }
+  // Velocidad real de los lectores (las tres medidas de Google: LCP, INP y CLS), en tramos «bueno /
+  // mejorable / malo» y por tipo de dispositivo. Una señal por página vista, sin cookies ni datos personales.
+  function initVitals() {
+    if (!('PerformanceObserver' in window) || !navigator.sendBeacon) return;
+    var lcp = 0, cls = 0, inp = 0, sent = false;
+    function obs(type, fn, extra) { try { var o = new PerformanceObserver(function (l) { l.getEntries().forEach(fn); }); o.observe(Object.assign({ type: type, buffered: true }, extra || {})); } catch (e) {} }
+    obs('largest-contentful-paint', function (e) { lcp = e.startTime; });
+    obs('layout-shift', function (e) { if (!e.hadRecentInput) cls += e.value; });
+    obs('event', function (e) { if (e.interactionId && e.duration > inp) inp = e.duration; }, { durationThreshold: 40 });
+    function tramo(v, bueno, malo) { return v <= bueno ? 'bueno' : v <= malo ? 'mejorable' : 'malo'; }
+    function send() {
+      if (sent || !lcp) return; sent = true;
+      var touch = window.matchMedia && matchMedia('(pointer: coarse)').matches;
+      beacon({ action: 'jm_vel', w: !touch ? 'd' : (Math.min(screen.width, screen.height) < 600 ? 'm' : 't'),
+        lcp: tramo(lcp, 2500, 4000), cls: tramo(cls, 0.1, 0.25), inp: inp ? tramo(inp, 200, 500) : '' });
+    }
+    addEventListener('pagehide', send);
+    document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') send(); });
+  }
+
   function initStats() {
     var b = document.body, q = new URLSearchParams(location.search), r = '', sent = false, t0;
     try { r = document.referrer ? new URL(document.referrer).hostname : ''; } catch (e) {}
@@ -1011,6 +1031,6 @@
 
   // El grabado es solo adorno y crear el lienzo cuesta: se dibuja cuando el navegador ya ha pintado el texto
   function later(fn) { return function () { if ('requestIdleCallback' in window) requestIdleCallback(function () { safe(fn); }, { timeout: 1500 }); else setTimeout(function () { safe(fn); }, 300); }; }
-  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initAnalytics, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch, initGuideFilter, initTimelineMore].forEach(safe); }
+  function init() { [initResume, initTables, initHeader, initDrawer, initSearch, initForms, initCookies, initDatos, initToc, initProgress, initShare, initNativeShare, initCopyCode, initStats, initVitals, initAnalytics, initReveal, initRoll, initTilt, initStage, initBrowse, later(initGuilloche), initDevelop, initPress, initMorph, initFontSize, initListen, initPrint, initLiveSearch, initGuideFilter, initTimelineMore].forEach(safe); }
   if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', init); else init();
 })();
