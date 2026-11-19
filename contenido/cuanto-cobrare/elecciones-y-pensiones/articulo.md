@@ -8,7 +8,7 @@ miga: Elecciones y pensiones
 palabra_clave_principal: elecciones pensiones subida 2027
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-17
+fecha_actualizacion: 2026-11-19
 publicacion: 2026-10-10
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027
 
-*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -105,9 +105,9 @@ Las dudas sobre tu caso las resuelve la Oficina del Censo Electoral de tu provin
 
 ## Qué proponen los partidos sobre las pensiones
 
-PP, PSOE, Vox, Frente Amplio, ERC y PNV ya han publicado en sus webs sus programas para estas elecciones. Hemos leído lo que dice cada uno sobre la subida de las pensiones, la edad de jubilación, las pensiones mínimas, la jubilación anticipada, la financiación, el IRPF, la viudedad y la dependencia, con la cita y la página del PDF y sin valoraciones. Junts y EH Bildu no lo han publicado a 17 de noviembre.
+PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV ya han publicado en sus webs sus programas para estas elecciones. Hemos leído lo que dice cada uno sobre la subida de las pensiones, la edad de jubilación, las pensiones mínimas, la jubilación anticipada, la financiación, el IRPF, la viudedad y la dependencia, con la cita y la página del PDF y sin valoraciones. Junts no lo ha publicado a 19 de noviembre.
 
-Lo tienes todo, en una tabla y punto por punto, en [qué proponen los partidos sobre las pensiones](/elecciones/propuestas-pensiones-partidos/), y el detalle de cada uno en su guía: [PP](/elecciones/programa-pp-pensiones/), [PSOE](/elecciones/programa-psoe-pensiones/), [Vox](/elecciones/programa-vox-pensiones/), [Frente Amplio](/elecciones/programa-frente-amplio-pensiones/), [ERC](/elecciones/programa-erc-pensiones/) y [PNV](/elecciones/programa-pnv-pensiones/).
+Lo tienes todo, en una tabla y punto por punto, en [qué proponen los partidos sobre las pensiones](/elecciones/propuestas-pensiones-partidos/), y el detalle de cada uno en su guía: [PP](/elecciones/programa-pp-pensiones/), [PSOE](/elecciones/programa-psoe-pensiones/), [Vox](/elecciones/programa-vox-pensiones/), [Frente Amplio](/elecciones/programa-frente-amplio-pensiones/), [ERC](/elecciones/programa-erc-pensiones/), [EH Bildu](/elecciones/programa-eh-bildu-pensiones/) y [PNV](/elecciones/programa-pnv-pensiones/).
 
 ## Preguntas frecuentes
 
@@ -157,4 +157,4 @@ Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tar
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). No recoge opiniones políticas: solo lo que dicen las normas y los organismos oficiales. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 17 de noviembre de 2026, los partidos ya han publicado sus programas: enlace a la comparativa y a la guía de cada uno. 13 de noviembre de 2026, estimación de la subida con el IPC definitivo de octubre (3,4 % a 3,6 %; antes 3,3 % a 3,7 %). 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
+*Historial de cambios: 19 de noviembre de 2026, programa de EH Bildu. 17 de noviembre de 2026, los partidos ya han publicado sus programas: enlace a la comparativa y a la guía de cada uno. 13 de noviembre de 2026, estimación de la subida con el IPC definitivo de octubre (3,4 % a 3,6 %; antes 3,3 % a 3,7 %). 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*

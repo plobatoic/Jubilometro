@@ -85,11 +85,11 @@ De la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no
 ## Siguiente paso
 
 - Compara con los demás partidos en [qué proponen los partidos sobre las pensiones](/elecciones/propuestas-pensiones-partidos/).
-- Lee lo que proponen [PP](/elecciones/programa-pp-pensiones/), [PSOE](/elecciones/programa-psoe-pensiones/), [Vox](/elecciones/programa-vox-pensiones/), [ERC](/elecciones/programa-erc-pensiones/) y [PNV](/elecciones/programa-pnv-pensiones/).
+- Lee lo que proponen [PP](/elecciones/programa-pp-pensiones/), [PSOE](/elecciones/programa-psoe-pensiones/), [Vox](/elecciones/programa-vox-pensiones/), [ERC](/elecciones/programa-erc-pensiones/), [EH Bildu](/elecciones/programa-eh-bildu-pensiones/) y [PNV](/elecciones/programa-pnv-pensiones/).
 - ¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la [calculadora de la subida de las pensiones](/calculadoras/subida-pensiones/).
 
 ---
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 19 de noviembre de 2026, salario mínimo de 2027 (1.286 euros al mes). 18 de noviembre de 2026, páginas ajustadas a la versión nueva del PDF que Frente Amplio colgó el 17 de noviembre (el texto sobre pensiones no cambia). 17 de noviembre de 2026, primera versión, con el programa oficial publicado en frenteamplio.info.*
+*Historial de cambios: 19 de noviembre de 2026, enlace a la guía de EH Bildu; salario mínimo de 2027 (1.286 euros al mes). 18 de noviembre de 2026, páginas ajustadas a la versión nueva del PDF que Frente Amplio colgó el 17 de noviembre (el texto sobre pensiones no cambia). 17 de noviembre de 2026, primera versión, con el programa oficial publicado en frenteamplio.info.*

@@ -172,7 +172,35 @@ P['pnv'] = dict(
     ),
 )
 
-ORDEN = ['pp', 'psoe', 'vox', 'frente-amplio', 'erc', 'pnv']
+P['eh-bildu'] = dict(
+    nombre='EH Bildu', art='EH Bildu', slug='programa-eh-bildu-pensiones',
+    titulo_seo='Programa de EH Bildu para el 29N: qué dice de las pensiones',
+    h1='Qué propone EH Bildu sobre las pensiones en su programa para las elecciones del 29N',
+    meta='Lo que dice el programa oficial de EH Bildu para el 29N sobre pensiones: mínimas de 1.220 €, viudedad un 15 % más y anticipada sin recorte, con su página.',
+    clave='programa EH Bildu pensiones', miga='Programa de EH Bildu',
+    doc='«Programa. Garantía y derechos»', paginas=30, url_pdf='https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-CAS.pdf',
+    web='posibleegin.ehbildu.eus', fecha_doc='16 de noviembre de 2026', idioma=' También hay una versión en euskera; citamos la de castellano.',
+    resumen=[
+        '**Subir las pensiones mínimas al menos hasta 1.220 euros** y actualizarlas con el salario mínimo.',
+        'Subir **al menos un 15 % las de viudedad y las no contributivas**.',
+        'Mantener y **blindar la subida anual con el IPC**, y rechazar cualquier aumento de la edad de jubilación.',
+        '**Jubilación sin recorte con 40 años cotizados** y traspasar a las instituciones vascas y navarras el régimen económico de la Seguridad Social.',
+    ],
+    intro='Las pensiones tienen su propio apartado, «1.3. Pensiones» (páginas 7 y 8 del PDF), dentro del bloque «Derechos y libertades». La dependencia y los cuidados están en el apartado «1.5.3 Cuidados» (página 12).',
+    temas=dict(
+        subida='«Garantizar el poder adquisitivo de las y los pensionistas, manteniendo y blindando la revalorización anual al IPC» (página 7). Hoy la subida con el IPC está en el artículo 58 de la Ley General de la Seguridad Social.',
+        edad='No propone cambiar la edad. Rechaza «cualquier intento de recorte, privatización o aumento de la edad de jubilación y periodo de cómputo» (página 7).',
+        minimas='«Aumentar las pensiones mínimas al menos hasta los 1.220 €, estableciendo la cuantía y su actualización acorde al SMI como exige el movimiento de pensionistas» (página 8). El programa no dice si son 1.220 euros en 12 o en 14 pagas. Y una subida de «al menos un 15 %» de las no contributivas (página 8).',
+        anticipada='«Culminar la tramitación de la Ley que reconoce el derecho a pensión sin penalización de las personas con al menos 40 años de cotización» (página 8).',
+        financiacion='No propone nuevas fuentes de dinero para las pensiones. Sí la «Transferencia del Régimen Económico de la Seguridad Social a las instituciones vascas y navarras» (página 8), y rechaza volver a «las políticas de austeridad que suponen privatizaciones y recortes en servicios públicos, derechos laborales o pensiones» (página 14).',
+        irpf='No tiene medidas sobre el IRPF de las pensiones.',
+        viudedad='«Nuevo alza de las pensiones de viudedad y no contributivas de al menos un 15 % hasta alcanzar valores de suficiencia» (página 8). De la orfandad no dice nada.',
+        dependencia='Empezar a reconocer el derecho a los cuidados con «la retroactividad de las prestaciones económicas por la dependencia desde la fecha de solicitud», y cambiar el copago «con el objetivo de excluir el copago relativo a los cuidados personales» (página 12). También reconocer los cuidados familiares «con cambios coordinados con la Seguridad Social en lo que respecta a bonificaciones, pensiones y permisos retribuidos» (página 12).',
+    ),
+)
+
+ORDEN = ['pp', 'psoe', 'vox', 'frente-amplio', 'erc', 'eh-bildu', 'pnv']
+SOLO = sys.argv[2].split(',') if len(sys.argv) > 2 else None
 ENLACES_TEMA = {
     'subida': ' Cuánto subirán en 2027 con la ley actual lo explicamos en [la subida de las pensiones en 2027](/cuanto-cobrare/revalorizacion-pensiones/).',
     'edad': ' La edad actual, en [la edad de jubilación](/jubilacion/edad-de-jubilacion/).',
@@ -181,6 +209,7 @@ ENLACES_TEMA = {
 }
 
 for k in ORDEN:
+    if SOLO and k not in SOLO: continue
     d = P[k]
     DEL = ('del ' + d['nombre']) if d['art'].startswith('el ') else ('de ' + d['nombre'])
     otros = [P[o] for o in ORDEN if o != k]

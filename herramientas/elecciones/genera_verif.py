@@ -1,7 +1,7 @@
 import re, sys, subprocess, os
 RAIZ, S = sys.argv[1], sys.argv[2]
-PDF = {'pp':'pp','psoe':'psoe','vox':'vox','frente-amplio':'fa','erc':'erc','pnv':'pnv'}
-NOM = {'pp':'PP','psoe':'PSOE','vox':'Vox','frente-amplio':'Frente Amplio','erc':'ERC','pnv':'PNV'}
+PDF = {'pp':'pp','psoe':'psoe','vox':'vox','frente-amplio':'fa','erc':'erc','pnv':'pnv','eh-bildu':'bildu'}
+NOM = {'pp':'PP','psoe':'PSOE','vox':'Vox','frente-amplio':'Frente Amplio','erc':'ERC','pnv':'PNV','eh-bildu':'EH Bildu'}
 def crudas(pdf):
     n=int(re.search(r'Pages:\s+(\d+)',subprocess.run(['pdfinfo',pdf],capture_output=True,text=True).stdout).group(1))
     return [subprocess.run(['pdftotext','-f',str(p),'-l',str(p),pdf,'-'],capture_output=True,text=True).stdout for p in range(1,n+1)]
@@ -15,7 +15,7 @@ def paginas(pdf):
     return [re.sub(r'\s+',' ',subprocess.run(['pdftotext','-f',str(p),'-l',str(p),pdf,'-'],capture_output=True,text=True).stdout).replace('- ','').replace('’',"'") for p in range(1,n+1)]
 cache={}
 crudo={}
-IGNORAR={'Programa electoral. Es sentido común','Cómo pagar las pensiones','Eleccions al Congrés 2026. Programa electoral','La jubilación anticipada','Defendemos Euskadi / Euskadi Zaindu','La reconstrucción nacional','La fuerza de seguir avanzando'}
+IGNORAR={'Programa electoral. Es sentido común','Cómo pagar las pensiones','Eleccions al Congrés 2026. Programa electoral','La jubilación anticipada','Defendemos Euskadi / Euskadi Zaindu','La reconstrucción nacional','La fuerza de seguir avanzando','Programa. Garantía y derechos'}
 def comprobar(texto, clave):
     """Busca cada cita «…» del texto en el PDF del partido; devuelve filas."""
     pags = cache.setdefault(clave, paginas(os.path.join(S, clave, 'p.pdf')))
@@ -34,7 +34,7 @@ def comprobar(texto, clave):
         else: fallos.append(cita)
     return filas, fallos
 total_fallos=0
-for slug in ['pp','psoe','vox','frente-amplio','erc','pnv']:
+for slug in ['pp','psoe','vox','frente-amplio','erc','pnv','eh-bildu']:
     ruta=os.path.join(RAIZ,'contenido','elecciones',f'programa-{slug}-pensiones')
     txt=open(os.path.join(ruta,'articulo.md'),encoding='utf-8').read()
     cuerpo=txt.split('## Preguntas frecuentes')[0]
@@ -54,14 +54,14 @@ ruta=os.path.join(RAIZ,'contenido','elecciones','propuestas-pensiones-partidos')
 txt=open(os.path.join(ruta,'articulo.md'),encoding='utf-8').read()
 filas=[]
 for linea in txt.splitlines():
-    m=re.match(r'- \*\*(PP|PSOE|Vox|Frente Amplio|ERC|PNV)\*\*:',linea)
+    m=re.match(r'- \*\*(PP|PSOE|Vox|Frente Amplio|ERC|PNV|EH Bildu)\*\*:',linea)
     if not m: continue
     slug={v:k for k,v in NOM.items()}[m.group(1)]
     f,fa=comprobar(linea, PDF[slug]); total_fallos+=len(fa)
     for x in fa: print('NO ENCONTRADA comparativa', m.group(1), x[:80])
     filas+= [(m.group(1),c,p) for c,p in f]
 out=["# Verificación de datos · Qué proponen los partidos sobre las pensiones (29N)\n",
-     "**Lectura de fuentes (17/11/2026):** los seis programas oficiales descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. La tabla resumen y los «no lo menciona» salen de la lectura de cada programa entero, detallada en la verificación de la guía de cada partido. Junts (junts.cat) y EH Bildu (ehbildu.eus): sin programa para el 29N en su web a 17/11/2026. Contexto: artículo 58 LGSS (BOE-A-2015-11724); subida de 2027, edad de jubilación, mínima, no contributiva y salario mínimo de 2026, de las guías ya verificadas.\n",
+     "**Lectura de fuentes (17/11/2026):** los siete programas oficiales descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. La tabla resumen y los «no lo menciona» salen de la lectura de cada programa entero, detallada en la verificación de la guía de cada partido. Junts (junts.cat): sin programa para el 29N en su web a 19/11/2026. EH Bildu publicó el suyo el 16/11/2026 y se añadió el 19/11/2026. Contexto: artículo 58 LGSS (BOE-A-2015-11724); subida de 2027, edad de jubilación, mínima, no contributiva y salario mínimo de 2026, de las guías ya verificadas.\n",
      "| # | Partido | Cita literal | Página del PDF | Estado |","|---|---|---|---|---|"]
 for i,(n,c,p) in enumerate(filas,1):
     out.append(f"| {i} | {n} | «{c}» | {p} | Verificado en el PDF |")

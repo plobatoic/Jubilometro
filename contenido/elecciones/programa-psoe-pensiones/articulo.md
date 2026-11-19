@@ -8,7 +8,7 @@ miga: Programa del PSOE
 palabra_clave_principal: programa PSOE pensiones
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-17
+fecha_actualizacion: 2026-11-19
 publicacion: 2026-11-17
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Qué propone el PSOE sobre las pensiones en su programa para las elecciones del 29N
 
-*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido*
+*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido*
 
 > **Respuesta rápida**
 >
@@ -85,11 +85,11 @@ Del IRPF de las pensiones. Hemos buscado cada tema en el documento entero, no so
 ## Siguiente paso
 
 - Compara con los demás partidos en [qué proponen los partidos sobre las pensiones](/elecciones/propuestas-pensiones-partidos/).
-- Lee lo que proponen [PP](/elecciones/programa-pp-pensiones/), [Vox](/elecciones/programa-vox-pensiones/), [Frente Amplio](/elecciones/programa-frente-amplio-pensiones/), [ERC](/elecciones/programa-erc-pensiones/) y [PNV](/elecciones/programa-pnv-pensiones/).
+- Lee lo que proponen [PP](/elecciones/programa-pp-pensiones/), [Vox](/elecciones/programa-vox-pensiones/), [Frente Amplio](/elecciones/programa-frente-amplio-pensiones/), [ERC](/elecciones/programa-erc-pensiones/), [EH Bildu](/elecciones/programa-eh-bildu-pensiones/) y [PNV](/elecciones/programa-pnv-pensiones/).
 - ¿Cuánto subirá tu pensión en 2027 con la ley actual? Calcúlalo con la [calculadora de la subida de las pensiones](/calculadoras/subida-pensiones/).
 
 ---
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 17 de noviembre de 2026, primera versión, con el programa oficial publicado en psoe.es.*
+*Historial de cambios: 19 de noviembre de 2026, enlace a la guía de EH Bildu. 17 de noviembre de 2026, primera versión, con el programa oficial publicado en psoe.es.*

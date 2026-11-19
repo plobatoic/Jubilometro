@@ -606,5 +606,9 @@
   "/elecciones/propuestas-pensiones-partidos/": {
     "id": 1358,
     "estado": "publish"
+  },
+  "/elecciones/programa-eh-bildu-pensiones/": {
+    "id": 1401,
+    "estado": "publish"
   }
 }

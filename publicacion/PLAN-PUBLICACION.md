@@ -549,6 +549,10 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Programa de EH Bildu (19/11/2026, tema 2.11.41)
+
+EH Bildu colgó el 16/11 su programa completo en su web de campaña (posibleegin.ehbildu.eus/es/programa/, enlazada desde ehbildu.eus): «Programa. Garantía y derechos», PDF de 30 páginas en castellano (https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-CAS.pdf) y otro en euskera. Pensiones en el apartado 1.3 (pp. 7-8); cuidados y dependencia en el 1.5.3 (p. 12). Nueva guía /elecciones/programa-eh-bildu-pensiones/ (entrada 1401) con la misma estructura, hecha con `genera_partidos.py . eh-bildu` (solo esa, para no pisar los retoques a mano de las otras); 14 citas comprobadas en el PDF. Añadido a la comparativa (tabla, cada apartado, preguntas, fuentes y siguiente paso; va antes del PNV, por escaños), a las otras seis guías, a «Las elecciones del 29N y tu pensión», a la portada /elecciones/, a la imagen (urna-electoral.webp) y al enlace corto `programa-eh-bildu` (tema 2.11.41). Solo falta Junts.
+
 ### Salario mínimo de 2027 (19/11/2026)
 
 El BOE del 19/11 publica el Real Decreto 1013/2026 (BOE-A-2026-24189): desde el 1/1/2027, 1.286 € al mes en 14 pagas (18.004 € al año, +5,3 %) y 10,06 € la hora para empleadas de hogar externas. Añadido a tres guías, con su verificación: cuidadora interna o externa (respuesta rápida, nota tras la tabla y pregunta frecuente; los costes de Seguridad Social de 2027 esperan a la orden de cotización), programa de Frente Amplio y comparativa de elecciones. El resto de guías usan el SMI de 2026 como umbral de rentas de 2026 y se pasan en la actualización de enero (apuntado en PENDIENTES).
