@@ -18,15 +18,15 @@ export default {
     { en: "Llevar a la Constitución", clase: "arriba",
       html: `
         <div class="kicker">Lo que dice su programa</div>
-        <div class="paso" data-en="Llevar a la Constitución" data-a="sube"><div class="num">1</div><div class="tx">Subida con el IPC <b>en la Constitución</b></div></div>
-        <div class="paso" data-en="Seguir acercando" data-a="sube"><div class="num">2</div><div class="tx"><b>Mínimas</b> más cerca de los ingresos medios</div></div>
-        <div class="paso" data-en="Y evaluar" data-a="sube"><div class="num">3</div><div class="tx">«Evaluar» <b>menos recorte</b> en la anticipada</div></div>
+        <div class="paso" data-en="Llevar a la Constitución" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px">Subida con el IPC <b>en la Constitución</b></div></div>
+        <div class="paso" data-en="Seguir acercando" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px"><b>Mínimas</b> más cerca de los ingresos medios</div></div>
+        <div class="paso" data-en="Y evaluar" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">«Evaluar» <b>menos recorte</b> en la anticipada</div></div>
         <div class="nota" data-a="aparece">Programa oficial del PSOE, medidas 98-106, págs. 39-41</div>`,
     },
     { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:221844", desde: 0.5, x: 0.45 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">El IRPF de las pensiones</div></div>`,
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">El IRPF de las pensiones</div></div>`,
     },
     { en: "Los siete partidos", clase: "arriba",
       html: `

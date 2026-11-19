@@ -122,7 +122,11 @@ Para los reels nuevos. Se activa con `estilo: "dinamico"` en `reel.mjs` y se pue
 
 ## Muñecos 3D (13/11/2026): el formato modelo
 
-> **Voz desde el 18/11:** «Chris» (`iP95p4xoKVk53GoZ742B`), la de los primeros reels, no «Eric». Con vidIQ (`vidiq_voiceover_generate`) o en la web de ElevenLabs (Eleven Multilingual v2).
+> **Voz desde el 19/11: generada en código, gratis.** `node herramientas/reels/voz.mjs <carpeta>` lee `voz.txt` y escribe `voz-original.mp3` con Piper (voz «davefx», español de España, CC0) y el repaso de sonido de la muestra «1c» que eligió Pau. Requiere `pip install piper-tts` una vez. Ya no hacen falta ElevenLabs ni vidIQ.
+>
+> **Formato desde el 19/11:** vídeo real de personas mayores de fondo (modo realista), letra grande y ritmo tranquilo. Nada de muñecos.
+>
+> ~~Voz desde el 18/11:~~ «Chris» (`iP95p4xoKVk53GoZ742B`), la de los primeros reels, no «Eric». Con vidIQ (`vidiq_voiceover_generate`) o en la web de ElevenLabs (Eleven Multilingual v2).
 
 Pau pidió el 13/11 distinguirnos con muñecos animados en 3D y ejemplos prácticos. Sustituye a la regla del vídeo real de stock: los reels nuevos se cuentan con personajes propios, hechos solo con código (three.js), sin material de terceros. Modelo: `elecciones/e2-paga-extra/reel.mjs`.
 

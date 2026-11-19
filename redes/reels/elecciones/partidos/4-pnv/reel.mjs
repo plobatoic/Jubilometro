@@ -18,16 +18,16 @@ export default {
     { en: "Subirlas cada año", clase: "arriba",
       html: `
         <div class="kicker">Lo que dice su programa</div>
-        <div class="paso" data-en="Subirlas cada año" data-a="sube"><div class="num">1</div><div class="tx">Con el <b>IPC</b> y mínimas más altas</div></div>
-        <div class="paso" data-en="Quitar el recorte" data-a="sube"><div class="num">2</div><div class="tx">Anticipada <b>sin recorte</b> con +40 años</div></div>
-        <div class="paso" data-en="Y que los años" data-a="sube"><div class="num">3</div><div class="tx">Los años de <b>cuidados cuentan</b></div></div>
+        <div class="paso" data-en="Subirlas cada año" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px">Con el <b>IPC</b> y mínimas más altas</div></div>
+        <div class="paso" data-en="Quitar el recorte" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Anticipada <b>sin recorte</b> con +40 años</div></div>
+        <div class="paso" data-en="Y que los años" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Los años de <b>cuidados cuentan</b></div></div>
         <div class="nota" data-a="aparece">Programa oficial del PNV, medidas 01-06, págs. 30-31</div>`,
     },
     { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:3013", desde: 0.5, x: 0.6 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">El IRPF de las pensiones</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La viudedad</div></div>`,
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">El IRPF de las pensiones</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La viudedad</div></div>`,
     },
     { en: "Los siete partidos", clase: "arriba",
       html: `

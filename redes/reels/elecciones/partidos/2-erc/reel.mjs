@@ -18,17 +18,17 @@ export default {
     { en: "Blindar la subida", clase: "arriba",
       html: `
         <div class="kicker">Lo que dice su programa</div>
-        <div class="paso" data-en="Blindar la subida" data-a="sube"><div class="num">1</div><div class="tx"><b>Blindar</b> la subida con la inflación</div></div>
-        <div class="paso" data-en="Subirlas con el IPC" data-a="sube"><div class="num">2</div><div class="tx">Con el <b>IPC de cada territorio</b></div></div>
-        <div class="paso" data-en="Y anticipada sin recorte" data-a="sube"><div class="num">3</div><div class="tx">Anticipada <b>sin recorte</b> en oficios penosos</div></div>
+        <div class="paso" data-en="Blindar la subida" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px"><b>Blindar</b> la subida con la inflación</div></div>
+        <div class="paso" data-en="Subirlas con el IPC" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Con el <b>IPC de cada territorio</b></div></div>
+        <div class="paso" data-en="Y anticipada sin recorte" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Anticipada <b>sin recorte</b> en oficios penosos</div></div>
         <div class="nota" data-a="aparece">Programa oficial de ERC, medidas 106-110, págs. 25-27</div>`,
     },
     { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:84005", desde: 0.5, x: 0.5 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">Las pensiones mínimas</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">El IRPF de las pensiones</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La viudedad</div></div>`,
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">Las pensiones mínimas</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">El IRPF de las pensiones</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La viudedad</div></div>`,
     },
     { en: "Los siete partidos", clase: "arriba",
       html: `

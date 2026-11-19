@@ -18,19 +18,19 @@ export default {
     { en: "Garantizar que el sistema", clase: "arriba",
       html: `
         <div class="kicker">Lo que dice su programa</div>
-        <div class="paso" data-en="Garantizar que el sistema" data-a="sube"><div class="num">1</div><div class="tx"><b>Sostenibilidad</b> con más empleo</div></div>
-        <div class="paso" data-en="Que el Estado cotice" data-a="sube"><div class="num">2</div><div class="tx">El Estado <b>cotiza</b> por quien cuida a sus hijos</div></div>
-        <div class="paso" data-en="Y más dinero" data-a="sube"><div class="num">3</div><div class="tx">Más dinero para la <b>dependencia</b></div></div>
+        <div class="paso" data-en="Garantizar que el sistema" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px"><b>Sostenibilidad</b> con más empleo</div></div>
+        <div class="paso" data-en="Que el Estado cotice" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">El Estado <b>cotiza</b> por quien cuida a sus hijos</div></div>
+        <div class="paso" data-en="Y más dinero" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Más dinero para la <b>dependencia</b></div></div>
         <div class="nota" data-a="aparece">Programa oficial de Vox, medidas 7 y 94-96, págs. 10-11 y 51-52</div>`,
     },
     { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:229069", desde: 0.5, x: 0.5 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La subida con el IPC</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La edad de jubilación</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">Las mínimas</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La anticipada</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La viudedad</div></div>`,
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La subida con el IPC</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La edad de jubilación</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">Las mínimas</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La anticipada</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La viudedad</div></div>`,
     },
     { en: "Los siete partidos", clase: "arriba",
       html: `

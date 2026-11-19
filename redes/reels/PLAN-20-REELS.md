@@ -82,6 +82,8 @@ Si ElevenLabs no responde a tiempo para el 23/11, Pau genera la voz en la web de
 
 ## Registro
 
+- 19/11: Pau descarta los muñecos: los reels nuevos van con vídeo real de personas mayores. La voz se genera en código con Piper (muestra «1c», `herramientas/reels/voz.mjs`), sin créditos. Los 7 reels de partidos, hechos así. Pendiente: pasar el 15 y el 17 al formato real.
+
 - 18/11: ritmo nuevo según los estudios: Instagram 4 reels a la semana a las 19:30, Facebook los mismos a las 20:43, YouTube 3 Shorts a las 17:00, X a las 09:43 y a las 20:43. Metricool (18 de diciembre) y Buffer ya están cambiados. El calendario está en `../publicar/CALENDARIO.md`.
 
 - 18/11: Pau prefiere la voz antigua, «Chris» (la de R1-R6), porque es más humana. Todos los reels nuevos van con ella.

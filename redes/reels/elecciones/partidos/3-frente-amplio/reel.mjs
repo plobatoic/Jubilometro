@@ -18,15 +18,15 @@ export default {
     { en: "Volver a la jubilación", clase: "arriba",
       html: `
         <div class="kicker">Lo que dice su programa</div>
-        <div class="paso" data-en="Volver a la jubilación" data-a="sube"><div class="num">1</div><div class="tx">Jubilación a los <b>65</b></div></div>
-        <div class="paso" data-en="Que ninguna pensión" data-a="sube"><div class="num">2</div><div class="tx">Ninguna pensión <b>bajo el salario mínimo</b></div></div>
-        <div class="paso" data-en="Y quitar el recorte" data-a="sube"><div class="num">3</div><div class="tx">Anticipada involuntaria <b>sin recorte</b> con +40 años</div></div>
+        <div class="paso" data-en="Volver a la jubilación" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px">Jubilación a los <b>65</b></div></div>
+        <div class="paso" data-en="Que ninguna pensión" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Ninguna pensión <b>bajo el salario mínimo</b></div></div>
+        <div class="paso" data-en="Y quitar el recorte" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Anticipada involuntaria <b>sin recorte</b> con +40 años</div></div>
         <div class="nota" data-a="aparece">Programa oficial de Frente Amplio, págs. 57-58</div>`,
     },
     { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:27230", desde: 0.5, x: 0.5 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La viudedad</div></div>`,
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La viudedad</div></div>`,
     },
     { en: "Los siete partidos", clase: "arriba",
       html: `

@@ -25,7 +25,7 @@ Siete reels hechos con la misma plantilla (`redes/reels/elecciones/partidos/`, g
 
 X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, en orden alfabético. Los Shorts de E2, E1 y E3 en YouTube se adelantan para no chocar: E2 el lun 23/11, E1 el mar 24/11 y E3 el sáb 28/11, a las 17:00.
 
-**Voz:** «Chris» con vidIQ el 24/11 por la noche, en 3 tandas de hasta 1.000 caracteres (84 créditos). El texto está en `voz.txt` de cada reel. Si Pau compra créditos de ElevenLabs antes, se adelanta.
+**Voz:** generada en código con Piper (muestra «1c», 19/11). Hechos y con render el 19/11. Van **aparte** del ritmo 4-4-3 (lo pidió Pau).
 
 ## Reels de Instagram y Facebook
 

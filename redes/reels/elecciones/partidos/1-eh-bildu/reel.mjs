@@ -18,15 +18,15 @@ export default {
     { en: "Subir las pensiones mínimas", clase: "arriba",
       html: `
         <div class="kicker">Lo que dice su programa</div>
-        <div class="paso" data-en="Subir las pensiones mínimas" data-a="sube"><div class="num">1</div><div class="tx">Mínimas: <b>al menos 1.220 €</b></div></div>
-        <div class="paso" data-en="la viudedad y las no" data-a="sube"><div class="num">2</div><div class="tx">Viudedad y no contributivas: <b>+15 %</b></div></div>
-        <div class="paso" data-en="Y jubilarse sin recorte" data-a="sube"><div class="num">3</div><div class="tx">Sin recorte con <b>40 años</b> cotizados</div></div>
+        <div class="paso" data-en="Subir las pensiones mínimas" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px">Mínimas: <b>al menos 1.220 €</b></div></div>
+        <div class="paso" data-en="la viudedad y las no" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Viudedad y no contributivas: <b>+15 %</b></div></div>
+        <div class="paso" data-en="Y jubilarse sin recorte" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Sin recorte con <b>40 años</b> cotizados</div></div>
         <div class="nota" data-a="aparece">Programa oficial de EH Bildu, págs. 7-8</div>`,
     },
     { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:4878", desde: 0.5, x: 0.5 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">El IRPF de las pensiones</div></div>`,
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">El IRPF de las pensiones</div></div>`,
     },
     { en: "Los siete partidos", clase: "arriba",
       html: `

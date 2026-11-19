@@ -18,17 +18,17 @@ export default {
     { en: "Subirlas cada año", clase: "arriba",
       html: `
         <div class="kicker">Lo que dice su programa</div>
-        <div class="paso" data-en="Subirlas cada año" data-a="sube"><div class="num">1</div><div class="tx">Con el <b>IPC</b> y nuevo <b>Pacto de Toledo</b></div></div>
-        <div class="paso" data-en="Rebajas en el IRPF" data-a="sube"><div class="num">2</div><div class="tx"><b>IRPF</b> más bajo en la jubilación activa</div></div>
-        <div class="paso" data-en="Y un pacto" data-a="sube"><div class="num">3</div><div class="tx">Pacto de Estado por la <b>dependencia</b></div></div>
+        <div class="paso" data-en="Subirlas cada año" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px">Con el <b>IPC</b> y nuevo <b>Pacto de Toledo</b></div></div>
+        <div class="paso" data-en="Rebajas en el IRPF" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px"><b>IRPF</b> más bajo en la jubilación activa</div></div>
+        <div class="paso" data-en="Y un pacto" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Pacto de Estado por la <b>dependencia</b></div></div>
         <div class="nota" data-a="aparece">Programa oficial del PP, medidas 108 y 114, págs. 42-44</div>`,
     },
     { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:2339", desde: 0.5, x: 0.75 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La edad de jubilación</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">Las pensiones mínimas</div></div>
-        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx">La viudedad</div></div>`,
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La edad de jubilación</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">Las pensiones mínimas</div></div>
+        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La viudedad</div></div>`,
     },
     { en: "Los siete partidos", clase: "arriba",
       html: `
