@@ -23,7 +23,7 @@ Siete reels hechos con la misma plantilla (`redes/reels/elecciones/partidos/`, g
 | Jue 26/11 | 4 PNV (IG 18:30 · FB 19:43 · YT 17:00) · 5 PP (IG 20:30 · FB 21:43 · YT 18:00) · E3 sigue a las 19:30 / 20:43 |
 | Vie 27/11 | 6 PSOE (IG 18:30 · FB 19:43 · YT 17:00) · 7 Vox (IG 19:30 · FB 20:43 · YT 18:00) |
 
-X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, en orden alfabético. Los Shorts de E2, E1 y E3 en YouTube pasan a la semana siguiente (lun 30/11, mar 1 y mié 2/12, a las 17:00).
+X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, en orden alfabético. Los Shorts de E2, E1 y E3 en YouTube se adelantan para no chocar: E2 el lun 23/11, E1 el mar 24/11 y E3 el sáb 28/11, a las 17:00.
 
 **Voz:** «Chris» con vidIQ el 24/11 por la noche, en 3 tandas de hasta 1.000 caracteres (84 créditos). El texto está en `voz.txt` de cada reel. Si Pau compra créditos de ElevenLabs antes, se adelanta.
 
@@ -61,8 +61,9 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 |---|---|
 | Vie 20/11 | SMS 017 |
 | Sáb 21/11 | Teleasistencia |
-| Mié 25/11 | 🧸 E2 |
-| Vie 27/11 | 🧸 E1 |
+| Lun 23/11 | 🧸 E2 |
+| Mar 24/11 | 🧸 E1 |
+| Mié 25 a vie 27/11 | Los 7 partidos (ver arriba) |
 | Sáb 28/11 | 🧸 E3 |
 | Mar 1, jue 3, vie 4 y sáb 5/12 | M · R1, R6, R4 y R7 |
 | Mié 9, vie 11 y dom 13/12 | M · Tarjeta Dorada, R5 y vender la casa |
