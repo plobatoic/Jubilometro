@@ -630,5 +630,9 @@
   "/elecciones/vivienda-partidos/": {
     "id": 1414,
     "estado": "publish"
+  },
+  "/elecciones/empleo-bajas-discapacidad-partidos/": {
+    "id": 1415,
+    "estado": "publish"
   }
 }

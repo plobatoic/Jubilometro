@@ -1,9 +1,10 @@
 ## Qué encontrarás en esta sección
 
-Las elecciones generales son el **29 de noviembre de 2026**. Aquí reunimos lo que dicen sobre las pensiones los **programas oficiales** de los partidos: el documento completo que cada uno ha colgado en su web, con la cita literal y la página donde lo dice.
+Las elecciones generales son el **29 de noviembre de 2026**. Aquí reunimos lo que dicen sobre las pensiones y los demás temas que te afectan los **programas oficiales** de los partidos: el documento completo que cada uno ha colgado en su web, con la cita literal y la página donde lo dice.
 
 - La comparativa, con una tabla y punto por punto: [qué proponen los partidos sobre las pensiones](/elecciones/propuestas-pensiones-partidos/).
 - Una guía por partido, todas con la misma estructura: [PP](/elecciones/programa-pp-pensiones/), [PSOE](/elecciones/programa-psoe-pensiones/), [Vox](/elecciones/programa-vox-pensiones/), [Frente Amplio](/elecciones/programa-frente-amplio-pensiones/), [ERC](/elecciones/programa-erc-pensiones/), [EH Bildu](/elecciones/programa-eh-bildu-pensiones/) y [PNV](/elecciones/programa-pnv-pensiones/).
+- Los demás temas que te afectan, cada uno comparando a los siete partidos: [dependencia y cuidados](/elecciones/dependencia-cuidados-partidos/), [sanidad](/elecciones/sanidad-partidos/), [impuestos](/elecciones/impuestos-partidos/), [vivienda](/elecciones/vivienda-partidos/), [paro, despido, bajas y discapacidad](/elecciones/empleo-bajas-discapacidad-partidos/) y [personas mayores: soledad, trámites y bancos](/elecciones/personas-mayores-partidos/).
 - Lo que pasa con tu pensión, la paga extra y la subida de enero mientras tanto: [las elecciones del 29N y tu pensión](/cuanto-cobrare/elecciones-y-pensiones/).
 
 ## Las mismas preguntas para todos

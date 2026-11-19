@@ -549,6 +549,15 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Elecciones: los demás temas de los programas (19/11/2026, temas 2.11.42 y 2.11.43)
+
+Petición del titular: «publicar en la web todas las cosas que los programas de los partidos dicen para las elecciones, todas las cosas de interés para mi web», y un apartado en la portada. Se ha hecho por temas (no por partido), para no llenar la web de páginas sueltas y que cada guía compare a los siete partidos:
+
+- /elecciones/dependencia-cuidados-partidos/ (43 citas), /elecciones/personas-mayores-partidos/ (22: soledad, atención presencial y sin cita, bancos y efectivo, estafas), /elecciones/sanidad-partidos/ (52: listas de espera, dentista, gafas, audífonos, salud mental, paliativos), /elecciones/impuestos-partidos/ (50: IRPF, herencias, patrimonio, vivienda, IVA y luz), /elecciones/vivienda-partidos/ (35: ascensores y casas adaptadas, alquiler, okupación y desahucios, vivienda pública) y /elecciones/empleo-bajas-discapacidad-partidos/ (45: mayores en paro, despido, salario mínimo, bajas, discapacidad y autónomos).
+- Método: el texto de los siete PDF (pdftotext por página) se filtró por palabras clave de cada tema; seis ayudantes seleccionaron las propuestas con cita literal; cada guía se escribió a mano y se comprobó con `herramientas/elecciones/verif_tema.py` (busca cada cita en el PDF y avisa si la página que dice la guía no es la del PDF). 247 citas, 0 fallos. Verificación de cada una en su `verificacion-fuentes.md`.
+- Portada: el recuadro de elecciones pasa a «Elecciones 2026: qué proponen los partidos», con una fila de botones por partido y otra por tema. La portada de /elecciones/ enlaza los seis temas.
+- Si Junts publica programa o cambia un PDF: añadirlo también a estas seis guías.
+
 ### Programa de EH Bildu (19/11/2026, tema 2.11.41)
 
 EH Bildu colgó el 16/11 su programa completo en su web de campaña (posibleegin.ehbildu.eus/es/programa/, enlazada desde ehbildu.eus): «Programa. Garantía y derechos», PDF de 30 páginas en castellano (https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-CAS.pdf) y otro en euskera. Pensiones en el apartado 1.3 (pp. 7-8); cuidados y dependencia en el 1.5.3 (p. 12). Nueva guía /elecciones/programa-eh-bildu-pensiones/ (entrada 1401) con la misma estructura, hecha con `genera_partidos.py . eh-bildu` (solo esa, para no pisar los retoques a mano de las otras); 14 citas comprobadas en el PDF. Añadido a la comparativa (tabla, cada apartado, preguntas, fuentes y siguiente paso; va antes del PNV, por escaños), a las otras seis guías, a «Las elecciones del 29N y tu pensión», a la portada /elecciones/, a la imagen (urna-electoral.webp) y al enlace corto `programa-eh-bildu` (tema 2.11.41). Solo falta Junts.
