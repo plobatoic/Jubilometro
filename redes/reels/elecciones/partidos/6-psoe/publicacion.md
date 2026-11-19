@@ -1,6 +1,6 @@
 # Reel 6 de 7 · Qué propone el PSOE sobre las pensiones
 
-Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
+Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
 
 ## Instagram (reel) · 19:30
 
@@ -11,7 +11,7 @@ Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demá
 → Mínimas más cerca de los ingresos medios
 → «Evaluar» menos recorte en la anticipada
 
-No habla de el IRPF de las pensiones.
+No habla del IRPF de las pensiones.
 
 Es el 6 de 7: los siete partidos, con la misma plantilla y en orden alfabético. Solo lo que dice cada programa, con su página, sin valoraciones.
 
@@ -43,7 +43,7 @@ Lo que dice el programa oficial del PSOE para las elecciones del 29 de noviembre
 → Subida con el IPC en la Constitución
 → Mínimas más cerca de los ingresos medios
 → «Evaluar» menos recorte en la anticipada
-No habla de el IRPF de las pensiones.
+No habla del IRPF de las pensiones.
 
 Guía completa con las citas y las páginas: https://jubilometro.com/elecciones/programa-psoe-pensiones/
 

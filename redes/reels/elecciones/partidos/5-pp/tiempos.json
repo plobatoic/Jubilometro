@@ -1,383 +1,383 @@
 {
- "duracion": 22.735,
+ "duracion": 20.411,
  "escenas": [
   {
    "ini": -1,
-   "fin": 4.448
+   "fin": 4.225
   },
   {
-   "ini": 4.448,
-   "fin": 14.746
+   "ini": 4.225,
+   "fin": 13.801
   },
   {
-   "ini": 14.746,
-   "fin": 18.78
+   "ini": 13.801,
+   "fin": 17.016
   },
   {
-   "ini": 18.78,
-   "fin": 23.735
+   "ini": 17.016,
+   "fin": 21.411
   }
  ],
  "palabras": [
   {
    "texto": "¿Qué",
-   "ini": 0.1,
-   "fin": 0.336,
+   "ini": 0.18,
+   "fin": 0.372,
    "tramo": 0
   },
   {
    "texto": "propone",
-   "ini": 0.336,
-   "fin": 0.807,
+   "ini": 0.372,
+   "fin": 0.755,
    "tramo": 0
   },
   {
    "texto": "el",
-   "ini": 0.807,
-   "fin": 0.984,
+   "ini": 0.755,
+   "fin": 0.899,
    "tramo": 0
   },
   {
    "texto": "PP",
-   "ini": 0.984,
-   "fin": 1.161,
+   "ini": 0.899,
+   "fin": 1.043,
    "tramo": 0
   },
   {
    "texto": "sobre",
-   "ini": 1.161,
-   "fin": 1.514,
+   "ini": 1.043,
+   "fin": 1.33,
    "tramo": 0
   },
   {
    "texto": "las",
-   "ini": 1.514,
-   "fin": 1.75,
+   "ini": 1.33,
+   "fin": 1.522,
    "tramo": 0
   },
   {
    "texto": "pensiones?",
-   "ini": 1.75,
-   "fin": 2.339,
+   "ini": 1.522,
+   "fin": 2.002,
    "tramo": 0
   },
   {
    "texto": "Esto",
-   "ini": 2.672,
-   "fin": 2.968,
+   "ini": 2.602,
+   "fin": 2.861,
    "tramo": 1
   },
   {
    "texto": "dice",
-   "ini": 2.968,
-   "fin": 3.264,
+   "ini": 2.861,
+   "fin": 3.121,
    "tramo": 1
   },
   {
    "texto": "su",
-   "ini": 3.264,
-   "fin": 3.441,
+   "ini": 3.121,
+   "fin": 3.277,
    "tramo": 1
   },
   {
    "texto": "programa.",
-   "ini": 3.441,
-   "fin": 3.973,
+   "ini": 3.277,
+   "fin": 3.745,
    "tramo": 1
   },
   {
    "texto": "Subirlas",
-   "ini": 4.568,
-   "fin": 5.105,
+   "ini": 4.345,
+   "fin": 4.813,
    "tramo": 2
   },
   {
    "texto": "cada",
-   "ini": 5.105,
-   "fin": 5.404,
+   "ini": 4.813,
+   "fin": 5.074,
    "tramo": 2
   },
   {
    "texto": "año",
-   "ini": 5.404,
-   "fin": 5.642,
+   "ini": 5.074,
+   "fin": 5.282,
    "tramo": 2
   },
   {
    "texto": "con",
-   "ini": 5.642,
-   "fin": 5.881,
+   "ini": 5.282,
+   "fin": 5.49,
    "tramo": 2
   },
   {
    "texto": "el",
-   "ini": 5.881,
-   "fin": 6.06,
+   "ini": 5.49,
+   "fin": 5.646,
    "tramo": 2
   },
   {
    "texto": "IPC",
-   "ini": 6.06,
-   "fin": 6.299,
+   "ini": 5.646,
+   "fin": 5.854,
    "tramo": 2
   },
   {
    "texto": "y",
-   "ini": 6.299,
-   "fin": 6.418,
+   "ini": 5.854,
+   "fin": 5.958,
    "tramo": 2
   },
   {
    "texto": "reconstruir",
-   "ini": 6.418,
-   "fin": 7.134,
+   "ini": 5.958,
+   "fin": 6.583,
    "tramo": 2
   },
   {
    "texto": "el",
-   "ini": 7.134,
-   "fin": 7.313,
+   "ini": 6.583,
+   "fin": 6.739,
    "tramo": 2
   },
   {
    "texto": "Pacto",
-   "ini": 7.313,
-   "fin": 7.672,
+   "ini": 6.739,
+   "fin": 7.051,
    "tramo": 2
   },
   {
    "texto": "de",
-   "ini": 7.672,
-   "fin": 7.851,
+   "ini": 7.051,
+   "fin": 7.207,
    "tramo": 2
   },
   {
    "texto": "Toledo.",
-   "ini": 7.851,
-   "fin": 8.268,
+   "ini": 7.207,
+   "fin": 7.571,
    "tramo": 2
   },
   {
    "texto": "Rebajas",
-   "ini": 8.604,
-   "fin": 9.027,
+   "ini": 8.171,
+   "fin": 8.576,
    "tramo": 3
   },
   {
    "texto": "en",
-   "ini": 9.027,
-   "fin": 9.186,
+   "ini": 8.576,
+   "fin": 8.727,
    "tramo": 3
   },
   {
    "texto": "el",
-   "ini": 9.186,
-   "fin": 9.345,
+   "ini": 8.727,
+   "fin": 8.879,
    "tramo": 3
   },
   {
    "texto": "IRPF",
-   "ini": 9.345,
-   "fin": 9.609,
+   "ini": 8.879,
+   "fin": 9.131,
    "tramo": 3
   },
   {
    "texto": "para",
-   "ini": 9.609,
-   "fin": 9.874,
+   "ini": 9.131,
+   "fin": 9.384,
    "tramo": 3
   },
   {
    "texto": "quien",
-   "ini": 9.874,
-   "fin": 10.191,
+   "ini": 9.384,
+   "fin": 9.687,
    "tramo": 3
   },
   {
    "texto": "cobra",
-   "ini": 10.191,
-   "fin": 10.509,
+   "ini": 9.687,
+   "fin": 9.99,
    "tramo": 3
   },
   {
    "texto": "la",
-   "ini": 10.509,
-   "fin": 10.667,
+   "ini": 9.99,
+   "fin": 10.142,
    "tramo": 3
   },
   {
    "texto": "pensión",
-   "ini": 10.667,
-   "fin": 11.09,
+   "ini": 10.142,
+   "fin": 10.546,
    "tramo": 3
   },
   {
    "texto": "y",
-   "ini": 11.09,
-   "fin": 11.196,
+   "ini": 10.546,
+   "fin": 10.647,
    "tramo": 3
   },
   {
    "texto": "trabaja.",
-   "ini": 11.196,
-   "fin": 11.62,
+   "ini": 10.647,
+   "fin": 11.051,
    "tramo": 3
   },
   {
    "texto": "Y",
-   "ini": 11.993,
-   "fin": 12.108,
+   "ini": 11.651,
+   "fin": 11.735,
    "tramo": 4
   },
   {
    "texto": "un",
-   "ini": 12.108,
-   "fin": 12.279,
+   "ini": 11.735,
+   "fin": 11.86,
    "tramo": 4
   },
   {
    "texto": "pacto",
-   "ini": 12.279,
-   "fin": 12.623,
+   "ini": 11.86,
+   "fin": 12.11,
    "tramo": 4
   },
   {
    "texto": "de",
-   "ini": 12.623,
-   "fin": 12.795,
+   "ini": 12.11,
+   "fin": 12.236,
    "tramo": 4
   },
   {
    "texto": "Estado",
-   "ini": 12.795,
-   "fin": 13.196,
+   "ini": 12.236,
+   "fin": 12.528,
    "tramo": 4
   },
   {
    "texto": "por",
-   "ini": 13.196,
-   "fin": 13.425,
+   "ini": 12.528,
+   "fin": 12.695,
    "tramo": 4
   },
   {
    "texto": "la",
-   "ini": 13.425,
-   "fin": 13.596,
+   "ini": 12.695,
+   "fin": 12.82,
    "tramo": 4
   },
   {
    "texto": "dependencia.",
-   "ini": 13.596,
-   "fin": 14.284,
+   "ini": 12.82,
+   "fin": 13.321,
    "tramo": 4
   },
   {
    "texto": "No",
-   "ini": 14.866,
-   "fin": 15.033,
+   "ini": 13.921,
+   "fin": 14.048,
    "tramo": 5
   },
   {
    "texto": "habla",
-   "ini": 15.033,
-   "fin": 15.367,
+   "ini": 14.048,
+   "fin": 14.301,
    "tramo": 5
   },
   {
    "texto": "de",
-   "ini": 15.367,
-   "fin": 15.533,
+   "ini": 14.301,
+   "fin": 14.427,
    "tramo": 5
   },
   {
    "texto": "la",
-   "ini": 15.533,
-   "fin": 15.7,
+   "ini": 14.427,
+   "fin": 14.554,
    "tramo": 5
   },
   {
    "texto": "edad",
-   "ini": 15.7,
-   "fin": 15.978,
+   "ini": 14.554,
+   "fin": 14.765,
    "tramo": 5
   },
   {
    "texto": "de",
-   "ini": 15.978,
-   "fin": 16.145,
+   "ini": 14.765,
+   "fin": 14.891,
    "tramo": 5
   },
   {
    "texto": "jubilación",
-   "ini": 16.145,
-   "fin": 16.757,
+   "ini": 14.891,
+   "fin": 15.355,
    "tramo": 5
   },
   {
    "texto": "ni",
-   "ini": 16.757,
-   "fin": 16.924,
+   "ini": 15.355,
+   "fin": 15.481,
    "tramo": 5
   },
   {
    "texto": "de",
-   "ini": 16.924,
-   "fin": 17.091,
+   "ini": 15.481,
+   "fin": 15.608,
    "tramo": 5
   },
   {
    "texto": "las",
-   "ini": 17.091,
-   "fin": 17.313,
+   "ini": 15.608,
+   "fin": 15.777,
    "tramo": 5
   },
   {
    "texto": "pensiones",
-   "ini": 17.313,
-   "fin": 17.87,
+   "ini": 15.777,
+   "fin": 16.198,
    "tramo": 5
   },
   {
    "texto": "mínimas.",
-   "ini": 17.87,
-   "fin": 18.315,
+   "ini": 16.198,
+   "fin": 16.536,
    "tramo": 5
   },
   {
    "texto": "Los",
-   "ini": 18.9,
-   "fin": 19.155,
+   "ini": 17.136,
+   "fin": 17.347,
    "tramo": 6
   },
   {
    "texto": "siete",
-   "ini": 19.155,
-   "fin": 19.539,
+   "ini": 17.347,
+   "fin": 17.663,
    "tramo": 6
   },
   {
    "texto": "partidos,",
-   "ini": 19.539,
-   "fin": 20.115,
+   "ini": 17.663,
+   "fin": 18.138,
    "tramo": 6
   },
   {
    "texto": "comparados",
-   "ini": 20.335,
-   "fin": 20.97,
-   "tramo": 7
+   "ini": 18.138,
+   "fin": 18.719,
+   "tramo": 6
   },
   {
    "texto": "en",
-   "ini": 20.97,
-   "fin": 21.143,
-   "tramo": 7
+   "ini": 18.719,
+   "fin": 18.877,
+   "tramo": 6
   },
   {
    "texto": "Jubilómetro.",
-   "ini": 21.143,
-   "fin": 21.835,
-   "tramo": 7
+   "ini": 18.877,
+   "fin": 19.511,
+   "tramo": 6
   }
  ]
 }

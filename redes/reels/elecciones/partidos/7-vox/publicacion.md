@@ -1,6 +1,6 @@
 # Reel 7 de 7 · Qué propone Vox sobre las pensiones
 
-Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
+Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
 
 ## Instagram (reel) · 19:30
 
@@ -11,7 +11,7 @@ Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demá
 → El Estado cotiza por quien cuida a sus hijos
 → Más dinero para la dependencia
 
-No habla de la subida con el IPC, la edad de jubilación, las mínimas, la anticipada, la viudedad.
+No habla de la subida con el IPC, la edad de jubilación, las mínimas, la anticipada ni la viudedad.
 
 Es el 7 de 7: los siete partidos, con la misma plantilla y en orden alfabético. Solo lo que dice cada programa, con su página, sin valoraciones.
 
@@ -43,7 +43,7 @@ Lo que dice el programa oficial de Vox para las elecciones del 29 de noviembre d
 → Sostenibilidad con más empleo
 → El Estado cotiza por quien cuida a sus hijos
 → Más dinero para la dependencia
-No habla de la subida con el IPC, la edad de jubilación, las mínimas, la anticipada, la viudedad.
+No habla de la subida con el IPC, la edad de jubilación, las mínimas, la anticipada ni la viudedad.
 
 Guía completa con las citas y las páginas: https://jubilometro.com/elecciones/programa-vox-pensiones/
 

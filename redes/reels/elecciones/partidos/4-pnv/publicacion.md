@@ -1,6 +1,6 @@
 # Reel 4 de 7 · Qué propone el PNV sobre las pensiones
 
-Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
+Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
 
 ## Instagram (reel) · 19:30
 
@@ -11,7 +11,7 @@ Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demá
 → Anticipada sin recorte con +40 años
 → Los años de cuidados cuentan
 
-No habla de el IRPF de las pensiones, la viudedad.
+No habla del IRPF de las pensiones ni la viudedad.
 
 Es el 4 de 7: los siete partidos, con la misma plantilla y en orden alfabético. Solo lo que dice cada programa, con su página, sin valoraciones.
 
@@ -43,7 +43,7 @@ Lo que dice el programa oficial del PNV para las elecciones del 29 de noviembre 
 → Con el IPC y mínimas más altas
 → Anticipada sin recorte con +40 años
 → Los años de cuidados cuentan
-No habla de el IRPF de las pensiones, la viudedad.
+No habla del IRPF de las pensiones ni la viudedad.
 
 Guía completa con las citas y las páginas: https://jubilometro.com/elecciones/programa-pnv-pensiones/
 

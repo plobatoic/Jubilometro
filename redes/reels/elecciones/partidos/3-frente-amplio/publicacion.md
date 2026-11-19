@@ -1,6 +1,6 @@
 # Reel 3 de 7 · Qué propone Frente Amplio sobre las pensiones
 
-Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
+Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
 
 ## Instagram (reel) · 19:30
 

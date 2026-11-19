@@ -15,3 +15,12 @@ Subidos el 14/11/2026 a la biblioteca de Orshot. Sirven para descargarlos y prog
 | 16 · pensión bruta y neta | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_16_bruta_y_neta-q2jtImRtgpu.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-16jpg-dUnZ0Cbt1tI.jpg |
 | 11 · jubilación parcial | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_11_parcial-hIZzL3gGDdA.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-11jpg-9rhcIDqKB8c.jpg |
 | 13 · convenio especial | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_13_convenio-1CCNEVhZ0be.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-13jpg-Q2LMyI6i09h.jpg |
+
+## Reels de partidos (19/11, vídeo real y voz Piper 1c)
+- 1-eh-bildu: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-1-eh-bildump4-M35ZFgszaQL.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-1jpg-mumcl0L2bSV.jpg
+- 2-erc: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-2-ercmp4-K44MIl9m8wN.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-2jpg-RDX046ce3wv.jpg
+- 3-frente-amplio: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-3-frente-ampliomp4-6gdvi0rrtQ1.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-3jpg-uWEextWBJYG.jpg
+- 4-pnv: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-4-pnvmp4-v9lbbeX4Itr.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-4jpg-a7YP4bGijn2.jpg
+- 5-pp: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-5-ppmp4-YOKWYzSG53i.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-5jpg-QZ60OXcP4t2.jpg
+- 6-psoe: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-6-psoemp4-quahS1JDvW8.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-6jpg-YeMK7yFwKhV.jpg
+- 7-vox: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-7-voxmp4-2uEr0sPQReN.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-7jpg-umEshq4RGk5.jpg

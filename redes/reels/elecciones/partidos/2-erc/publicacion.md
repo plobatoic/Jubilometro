@@ -1,6 +1,6 @@
 # Reel 2 de 7 · Qué propone ERC sobre las pensiones
 
-Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
+Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
 
 ## Instagram (reel) · 19:30
 
@@ -11,7 +11,7 @@ Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demá
 → Con el IPC de cada territorio
 → Anticipada sin recorte en oficios penosos
 
-No habla de las pensiones mínimas, el IRPF de las pensiones, la viudedad.
+No habla de las pensiones mínimas, el IRPF de las pensiones ni la viudedad.
 
 Es el 2 de 7: los siete partidos, con la misma plantilla y en orden alfabético. Solo lo que dice cada programa, con su página, sin valoraciones.
 
@@ -43,7 +43,7 @@ Lo que dice el programa oficial de ERC para las elecciones del 29 de noviembre d
 → Blindar la subida con la inflación
 → Con el IPC de cada territorio
 → Anticipada sin recorte en oficios penosos
-No habla de las pensiones mínimas, el IRPF de las pensiones, la viudedad.
+No habla de las pensiones mínimas, el IRPF de las pensiones ni la viudedad.
 
 Guía completa con las citas y las páginas: https://jubilometro.com/elecciones/programa-erc-pensiones/
 

@@ -19,7 +19,7 @@ export default {
       html: `
         <div class="kicker">Lo que dice su programa</div>
         <div class="paso" data-en="Blindar la subida" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px"><b>Blindar</b> la subida con la inflación</div></div>
-        <div class="paso" data-en="Subirlas con el IPC" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Con el <b>IPC de cada territorio</b></div></div>
+        <div class="paso" data-en="Con el IPC de cada" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Con el <b>IPC de cada territorio</b></div></div>
         <div class="paso" data-en="Y anticipada sin recorte" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Anticipada <b>sin recorte</b> en oficios penosos</div></div>
         <div class="nota" data-a="aparece">Programa oficial de ERC, medidas 106-110, págs. 25-27</div>`,
     },

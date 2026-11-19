@@ -24,7 +24,7 @@ const PARTIDOS = [
     id: 'erc', clipA: ['151194', 0.45], clipB: ['84005', 0.5], nombre: 'ERC', art: 'ERC', slug: 'programa-erc-pensiones', paginas: 'medidas 106-110, págs. 25-27',
     puntos: [
       { voz: 'Blindar la subida de las pensiones con la inflación.', en: 'Blindar la subida', pantalla: '<b>Blindar</b> la subida con la inflación' },
-      { voz: 'Con el IPC de cada territorio, no con el de toda España.', en: 'Subirlas con el IPC', pantalla: 'Con el <b>IPC de cada territorio</b>' },
+      { voz: 'Con el IPC de cada territorio, no con el de toda España.', en: 'Con el IPC de cada', pantalla: 'Con el <b>IPC de cada territorio</b>' },
       { voz: 'Y anticipada sin recorte en profesiones penosas o peligrosas.', en: 'Y anticipada sin recorte', pantalla: 'Anticipada <b>sin recorte</b> en oficios penosos' },
     ],
     noHabla: ['las pensiones mínimas', 'el IRPF de las pensiones', 'la viudedad'],
@@ -141,10 +141,10 @@ ${p.noHabla.map((x) => `        <div class="paso" data-a="sube"><div class="num"
 
   const url = `https://jubilometro.com/elecciones/${p.slug}/`;
   const puntosTxt = p.puntos.map((x) => '→ ' + x.pantalla.replace(/<[^>]+>/g, '')).join('\n');
-  const noTxt = p.noHabla.join(', ');
+  const noTxt = p.noHabla.length > 1 ? p.noHabla.slice(0, -1).join(', ') + ' ni ' + p.noHabla.at(-1) : p.noHabla[0];
   const pub = `# Reel ${n} de 7 · Qué propone ${p.art} sobre las pensiones
 
-Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
+Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
 
 ## Instagram (reel) · 19:30
 
@@ -153,7 +153,7 @@ Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demá
 
 ${puntosTxt}
 
-No habla de ${noTxt}.
+No habla de ${noTxt}.`.replace("de el ", "del ") + `
 
 Es el ${n} de 7: los siete partidos, con la misma plantilla y en orden alfabético. Solo lo que dice cada programa, con su página, sin valoraciones.
 
@@ -183,7 +183,7 @@ Guárdalo para comparar 🔖
 \`\`\`
 Lo que dice el programa oficial ${del(p)} para las elecciones del 29 de noviembre de 2026 sobre las pensiones:
 ${puntosTxt}
-No habla de ${noTxt}.
+No habla de ${noTxt}.`.replace("de el ", "del ") + `
 
 Guía completa con las citas y las páginas: ${url}
 

@@ -1,6 +1,6 @@
 # Reel 5 de 7 · Qué propone el PP sobre las pensiones
 
-Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
+Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después los demás, en orden alfabético.
 
 ## Instagram (reel) · 19:30
 
@@ -11,7 +11,7 @@ Voz: «Chris». Etiqueta de IA: sí. Primero sale el reel 1 y después los demá
 → IRPF más bajo en la jubilación activa
 → Pacto de Estado por la dependencia
 
-No habla de la edad de jubilación, las pensiones mínimas, la viudedad.
+No habla de la edad de jubilación, las pensiones mínimas ni la viudedad.
 
 Es el 5 de 7: los siete partidos, con la misma plantilla y en orden alfabético. Solo lo que dice cada programa, con su página, sin valoraciones.
 
@@ -43,7 +43,7 @@ Lo que dice el programa oficial del PP para las elecciones del 29 de noviembre d
 → Con el IPC y nuevo Pacto de Toledo
 → IRPF más bajo en la jubilación activa
 → Pacto de Estado por la dependencia
-No habla de la edad de jubilación, las pensiones mínimas, la viudedad.
+No habla de la edad de jubilación, las pensiones mínimas ni la viudedad.
 
 Guía completa con las citas y las páginas: https://jubilometro.com/elecciones/programa-pp-pensiones/
 
