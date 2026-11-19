@@ -1,0 +1,383 @@
+{
+ "duracion": 22.735,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 4.448
+  },
+  {
+   "ini": 4.448,
+   "fin": 14.746
+  },
+  {
+   "ini": 14.746,
+   "fin": 18.78
+  },
+  {
+   "ini": 18.78,
+   "fin": 23.735
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Qué",
+   "ini": 0.1,
+   "fin": 0.336,
+   "tramo": 0
+  },
+  {
+   "texto": "propone",
+   "ini": 0.336,
+   "fin": 0.807,
+   "tramo": 0
+  },
+  {
+   "texto": "el",
+   "ini": 0.807,
+   "fin": 0.984,
+   "tramo": 0
+  },
+  {
+   "texto": "PP",
+   "ini": 0.984,
+   "fin": 1.161,
+   "tramo": 0
+  },
+  {
+   "texto": "sobre",
+   "ini": 1.161,
+   "fin": 1.514,
+   "tramo": 0
+  },
+  {
+   "texto": "las",
+   "ini": 1.514,
+   "fin": 1.75,
+   "tramo": 0
+  },
+  {
+   "texto": "pensiones?",
+   "ini": 1.75,
+   "fin": 2.339,
+   "tramo": 0
+  },
+  {
+   "texto": "Esto",
+   "ini": 2.672,
+   "fin": 2.968,
+   "tramo": 1
+  },
+  {
+   "texto": "dice",
+   "ini": 2.968,
+   "fin": 3.264,
+   "tramo": 1
+  },
+  {
+   "texto": "su",
+   "ini": 3.264,
+   "fin": 3.441,
+   "tramo": 1
+  },
+  {
+   "texto": "programa.",
+   "ini": 3.441,
+   "fin": 3.973,
+   "tramo": 1
+  },
+  {
+   "texto": "Subirlas",
+   "ini": 4.568,
+   "fin": 5.105,
+   "tramo": 2
+  },
+  {
+   "texto": "cada",
+   "ini": 5.105,
+   "fin": 5.404,
+   "tramo": 2
+  },
+  {
+   "texto": "año",
+   "ini": 5.404,
+   "fin": 5.642,
+   "tramo": 2
+  },
+  {
+   "texto": "con",
+   "ini": 5.642,
+   "fin": 5.881,
+   "tramo": 2
+  },
+  {
+   "texto": "el",
+   "ini": 5.881,
+   "fin": 6.06,
+   "tramo": 2
+  },
+  {
+   "texto": "IPC",
+   "ini": 6.06,
+   "fin": 6.299,
+   "tramo": 2
+  },
+  {
+   "texto": "y",
+   "ini": 6.299,
+   "fin": 6.418,
+   "tramo": 2
+  },
+  {
+   "texto": "reconstruir",
+   "ini": 6.418,
+   "fin": 7.134,
+   "tramo": 2
+  },
+  {
+   "texto": "el",
+   "ini": 7.134,
+   "fin": 7.313,
+   "tramo": 2
+  },
+  {
+   "texto": "Pacto",
+   "ini": 7.313,
+   "fin": 7.672,
+   "tramo": 2
+  },
+  {
+   "texto": "de",
+   "ini": 7.672,
+   "fin": 7.851,
+   "tramo": 2
+  },
+  {
+   "texto": "Toledo.",
+   "ini": 7.851,
+   "fin": 8.268,
+   "tramo": 2
+  },
+  {
+   "texto": "Rebajas",
+   "ini": 8.604,
+   "fin": 9.027,
+   "tramo": 3
+  },
+  {
+   "texto": "en",
+   "ini": 9.027,
+   "fin": 9.186,
+   "tramo": 3
+  },
+  {
+   "texto": "el",
+   "ini": 9.186,
+   "fin": 9.345,
+   "tramo": 3
+  },
+  {
+   "texto": "IRPF",
+   "ini": 9.345,
+   "fin": 9.609,
+   "tramo": 3
+  },
+  {
+   "texto": "para",
+   "ini": 9.609,
+   "fin": 9.874,
+   "tramo": 3
+  },
+  {
+   "texto": "quien",
+   "ini": 9.874,
+   "fin": 10.191,
+   "tramo": 3
+  },
+  {
+   "texto": "cobra",
+   "ini": 10.191,
+   "fin": 10.509,
+   "tramo": 3
+  },
+  {
+   "texto": "la",
+   "ini": 10.509,
+   "fin": 10.667,
+   "tramo": 3
+  },
+  {
+   "texto": "pensión",
+   "ini": 10.667,
+   "fin": 11.09,
+   "tramo": 3
+  },
+  {
+   "texto": "y",
+   "ini": 11.09,
+   "fin": 11.196,
+   "tramo": 3
+  },
+  {
+   "texto": "trabaja.",
+   "ini": 11.196,
+   "fin": 11.62,
+   "tramo": 3
+  },
+  {
+   "texto": "Y",
+   "ini": 11.993,
+   "fin": 12.108,
+   "tramo": 4
+  },
+  {
+   "texto": "un",
+   "ini": 12.108,
+   "fin": 12.279,
+   "tramo": 4
+  },
+  {
+   "texto": "pacto",
+   "ini": 12.279,
+   "fin": 12.623,
+   "tramo": 4
+  },
+  {
+   "texto": "de",
+   "ini": 12.623,
+   "fin": 12.795,
+   "tramo": 4
+  },
+  {
+   "texto": "Estado",
+   "ini": 12.795,
+   "fin": 13.196,
+   "tramo": 4
+  },
+  {
+   "texto": "por",
+   "ini": 13.196,
+   "fin": 13.425,
+   "tramo": 4
+  },
+  {
+   "texto": "la",
+   "ini": 13.425,
+   "fin": 13.596,
+   "tramo": 4
+  },
+  {
+   "texto": "dependencia.",
+   "ini": 13.596,
+   "fin": 14.284,
+   "tramo": 4
+  },
+  {
+   "texto": "No",
+   "ini": 14.866,
+   "fin": 15.033,
+   "tramo": 5
+  },
+  {
+   "texto": "habla",
+   "ini": 15.033,
+   "fin": 15.367,
+   "tramo": 5
+  },
+  {
+   "texto": "de",
+   "ini": 15.367,
+   "fin": 15.533,
+   "tramo": 5
+  },
+  {
+   "texto": "la",
+   "ini": 15.533,
+   "fin": 15.7,
+   "tramo": 5
+  },
+  {
+   "texto": "edad",
+   "ini": 15.7,
+   "fin": 15.978,
+   "tramo": 5
+  },
+  {
+   "texto": "de",
+   "ini": 15.978,
+   "fin": 16.145,
+   "tramo": 5
+  },
+  {
+   "texto": "jubilación",
+   "ini": 16.145,
+   "fin": 16.757,
+   "tramo": 5
+  },
+  {
+   "texto": "ni",
+   "ini": 16.757,
+   "fin": 16.924,
+   "tramo": 5
+  },
+  {
+   "texto": "de",
+   "ini": 16.924,
+   "fin": 17.091,
+   "tramo": 5
+  },
+  {
+   "texto": "las",
+   "ini": 17.091,
+   "fin": 17.313,
+   "tramo": 5
+  },
+  {
+   "texto": "pensiones",
+   "ini": 17.313,
+   "fin": 17.87,
+   "tramo": 5
+  },
+  {
+   "texto": "mínimas.",
+   "ini": 17.87,
+   "fin": 18.315,
+   "tramo": 5
+  },
+  {
+   "texto": "Los",
+   "ini": 18.9,
+   "fin": 19.155,
+   "tramo": 6
+  },
+  {
+   "texto": "siete",
+   "ini": 19.155,
+   "fin": 19.539,
+   "tramo": 6
+  },
+  {
+   "texto": "partidos,",
+   "ini": 19.539,
+   "fin": 20.115,
+   "tramo": 6
+  },
+  {
+   "texto": "comparados",
+   "ini": 20.335,
+   "fin": 20.97,
+   "tramo": 7
+  },
+  {
+   "texto": "en",
+   "ini": 20.97,
+   "fin": 21.143,
+   "tramo": 7
+  },
+  {
+   "texto": "Jubilómetro.",
+   "ini": 21.143,
+   "fin": 21.835,
+   "tramo": 7
+  }
+ ]
+}

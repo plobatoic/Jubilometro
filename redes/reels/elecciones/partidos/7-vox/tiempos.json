@@ -1,0 +1,365 @@
+{
+ "duracion": 22.307,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 4.324
+  },
+  {
+   "ini": 4.324,
+   "fin": 14.207
+  },
+  {
+   "ini": 14.207,
+   "fin": 18.323
+  },
+  {
+   "ini": 18.323,
+   "fin": 23.307
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "¿Qué",
+   "ini": 0.1,
+   "fin": 0.334,
+   "tramo": 0
+  },
+  {
+   "texto": "propone",
+   "ini": 0.334,
+   "fin": 0.803,
+   "tramo": 0
+  },
+  {
+   "texto": "Vox",
+   "ini": 0.803,
+   "fin": 1.038,
+   "tramo": 0
+  },
+  {
+   "texto": "sobre",
+   "ini": 1.038,
+   "fin": 1.39,
+   "tramo": 0
+  },
+  {
+   "texto": "las",
+   "ini": 1.39,
+   "fin": 1.624,
+   "tramo": 0
+  },
+  {
+   "texto": "pensiones?",
+   "ini": 1.624,
+   "fin": 2.21,
+   "tramo": 0
+  },
+  {
+   "texto": "Esto",
+   "ini": 2.543,
+   "fin": 2.839,
+   "tramo": 1
+  },
+  {
+   "texto": "dice",
+   "ini": 2.839,
+   "fin": 3.134,
+   "tramo": 1
+  },
+  {
+   "texto": "su",
+   "ini": 3.134,
+   "fin": 3.312,
+   "tramo": 1
+  },
+  {
+   "texto": "programa.",
+   "ini": 3.312,
+   "fin": 3.844,
+   "tramo": 1
+  },
+  {
+   "texto": "Garantizar",
+   "ini": 4.444,
+   "fin": 5.071,
+   "tramo": 2
+  },
+  {
+   "texto": "que",
+   "ini": 5.071,
+   "fin": 5.299,
+   "tramo": 2
+  },
+  {
+   "texto": "el",
+   "ini": 5.299,
+   "fin": 5.47,
+   "tramo": 2
+  },
+  {
+   "texto": "sistema",
+   "ini": 5.47,
+   "fin": 5.926,
+   "tramo": 2
+  },
+  {
+   "texto": "sea",
+   "ini": 5.926,
+   "fin": 6.154,
+   "tramo": 2
+  },
+  {
+   "texto": "sostenible",
+   "ini": 6.154,
+   "fin": 6.781,
+   "tramo": 2
+  },
+  {
+   "texto": "con",
+   "ini": 6.781,
+   "fin": 7.009,
+   "tramo": 2
+  },
+  {
+   "texto": "más",
+   "ini": 7.009,
+   "fin": 7.237,
+   "tramo": 2
+  },
+  {
+   "texto": "empleo",
+   "ini": 7.237,
+   "fin": 7.636,
+   "tramo": 2
+  },
+  {
+   "texto": "y",
+   "ini": 7.636,
+   "fin": 7.75,
+   "tramo": 2
+  },
+  {
+   "texto": "crecimiento.",
+   "ini": 7.75,
+   "fin": 8.434,
+   "tramo": 2
+  },
+  {
+   "texto": "Que",
+   "ini": 8.807,
+   "fin": 9.031,
+   "tramo": 3
+  },
+  {
+   "texto": "el",
+   "ini": 9.031,
+   "fin": 9.198,
+   "tramo": 3
+  },
+  {
+   "texto": "Estado",
+   "ini": 9.198,
+   "fin": 9.589,
+   "tramo": 3
+  },
+  {
+   "texto": "cotice",
+   "ini": 9.589,
+   "fin": 9.98,
+   "tramo": 3
+  },
+  {
+   "texto": "por",
+   "ini": 9.98,
+   "fin": 10.204,
+   "tramo": 3
+  },
+  {
+   "texto": "quien",
+   "ini": 10.204,
+   "fin": 10.539,
+   "tramo": 3
+  },
+  {
+   "texto": "cuida",
+   "ini": 10.539,
+   "fin": 10.874,
+   "tramo": 3
+  },
+  {
+   "texto": "de",
+   "ini": 10.874,
+   "fin": 11.042,
+   "tramo": 3
+  },
+  {
+   "texto": "sus",
+   "ini": 11.042,
+   "fin": 11.265,
+   "tramo": 3
+  },
+  {
+   "texto": "hijos.",
+   "ini": 11.265,
+   "fin": 11.6,
+   "tramo": 3
+  },
+  {
+   "texto": "Y",
+   "ini": 11.933,
+   "fin": 12.042,
+   "tramo": 4
+  },
+  {
+   "texto": "más",
+   "ini": 12.042,
+   "fin": 12.26,
+   "tramo": 4
+  },
+  {
+   "texto": "dinero",
+   "ini": 12.26,
+   "fin": 12.642,
+   "tramo": 4
+  },
+  {
+   "texto": "para",
+   "ini": 12.642,
+   "fin": 12.914,
+   "tramo": 4
+  },
+  {
+   "texto": "la",
+   "ini": 12.914,
+   "fin": 13.078,
+   "tramo": 4
+  },
+  {
+   "texto": "dependencia.",
+   "ini": 13.078,
+   "fin": 13.731,
+   "tramo": 4
+  },
+  {
+   "texto": "No",
+   "ini": 14.327,
+   "fin": 14.501,
+   "tramo": 5
+  },
+  {
+   "texto": "habla",
+   "ini": 14.501,
+   "fin": 14.848,
+   "tramo": 5
+  },
+  {
+   "texto": "de",
+   "ini": 14.848,
+   "fin": 15.022,
+   "tramo": 5
+  },
+  {
+   "texto": "la",
+   "ini": 15.022,
+   "fin": 15.195,
+   "tramo": 5
+  },
+  {
+   "texto": "subida",
+   "ini": 15.195,
+   "fin": 15.601,
+   "tramo": 5
+  },
+  {
+   "texto": "con",
+   "ini": 15.601,
+   "fin": 15.832,
+   "tramo": 5
+  },
+  {
+   "texto": "el",
+   "ini": 15.832,
+   "fin": 16.006,
+   "tramo": 5
+  },
+  {
+   "texto": "IPC",
+   "ini": 16.006,
+   "fin": 16.238,
+   "tramo": 5
+  },
+  {
+   "texto": "ni",
+   "ini": 16.238,
+   "fin": 16.411,
+   "tramo": 5
+  },
+  {
+   "texto": "de",
+   "ini": 16.411,
+   "fin": 16.585,
+   "tramo": 5
+  },
+  {
+   "texto": "la",
+   "ini": 16.585,
+   "fin": 16.759,
+   "tramo": 5
+  },
+  {
+   "texto": "edad",
+   "ini": 16.759,
+   "fin": 17.048,
+   "tramo": 5
+  },
+  {
+   "texto": "de",
+   "ini": 17.048,
+   "fin": 17.222,
+   "tramo": 5
+  },
+  {
+   "texto": "jubilación.",
+   "ini": 17.222,
+   "fin": 17.859,
+   "tramo": 5
+  },
+  {
+   "texto": "Los",
+   "ini": 18.443,
+   "fin": 18.699,
+   "tramo": 6
+  },
+  {
+   "texto": "siete",
+   "ini": 18.699,
+   "fin": 19.083,
+   "tramo": 6
+  },
+  {
+   "texto": "partidos,",
+   "ini": 19.083,
+   "fin": 19.659,
+   "tramo": 6
+  },
+  {
+   "texto": "comparados",
+   "ini": 19.908,
+   "fin": 20.542,
+   "tramo": 7
+  },
+  {
+   "texto": "en",
+   "ini": 20.542,
+   "fin": 20.715,
+   "tramo": 7
+  },
+  {
+   "texto": "Jubilómetro.",
+   "ini": 20.715,
+   "fin": 21.407,
+   "tramo": 7
+  }
+ ]
+}

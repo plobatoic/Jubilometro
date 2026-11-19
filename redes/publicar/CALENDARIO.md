@@ -13,6 +13,20 @@ Decidido el 18/11 a partir de los estudios de Buffer, Metricool, Sprout Social, 
 
 Los carruseles de Instagram siguen a las 19:00. Excepción: E2 (paga extra) sale el lunes 23/11, porque la paga se cobra del 22 al 26/11.
 
+## Semana electoral: un reel por partido (excepción al ritmo)
+
+Siete reels hechos con la misma plantilla (`redes/reels/elecciones/partidos/`, generados con `genera.mjs`): misma duración (~22 s), mismas escenas, mismo trato, en orden alfabético y sin valoraciones. Esa semana se publica más de lo normal porque solo tiene sentido antes del 29/11. El 28/11 es jornada de reflexión y no sale nada de partidos.
+
+| Día | Instagram · Facebook · YouTube · X |
+|---|---|
+| Mié 25/11 | 1 EH Bildu (IG 18:30 · FB 19:43 · YT 17:00) · 2 ERC (IG 19:30 · FB 20:43 · YT 18:00) · 3 Frente Amplio (IG 20:30 · FB 21:43 · YT 19:00) |
+| Jue 26/11 | 4 PNV (IG 18:30 · FB 19:43 · YT 17:00) · 5 PP (IG 20:30 · FB 21:43 · YT 18:00) · E3 sigue a las 19:30 / 20:43 |
+| Vie 27/11 | 6 PSOE (IG 18:30 · FB 19:43 · YT 17:00) · 7 Vox (IG 19:30 · FB 20:43 · YT 18:00) |
+
+X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, en orden alfabético. Los Shorts de E2, E1 y E3 en YouTube pasan a la semana siguiente (lun 30/11, mar 1 y mié 2/12, a las 17:00).
+
+**Voz:** «Chris» con vidIQ el 24/11 por la noche, en 3 tandas de hasta 1.000 caracteres (84 créditos). El texto está en `voz.txt` de cada reel. Si Pau compra créditos de ElevenLabs antes, se adelanta.
+
 ## Reels de Instagram y Facebook
 
 🧸 = muñecos 3D · M = sale solo desde Metricool.
