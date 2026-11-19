@@ -2612,6 +2612,10 @@ body.is-filtering .jm-topic__more { display: none; }
 .jm-aviso p { margin: 0 0 .5rem; }
 .jm-aviso p:last-child { margin-bottom: 0; }
 .jm-aviso a { color: var(--jm-accent-strong); font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+.jm-aviso__chips { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin: .75rem 0 !important; }
+.jm-aviso__chips > span { font-weight: 700; color: var(--jm-ink); margin-right: .25rem; }
+.jm-aviso__chips a { display: inline-flex; align-items: center; min-height: 44px; padding: .35rem .9rem; border: 1px solid var(--jm-line-2); border-radius: 999px; background: var(--jm-paper); text-decoration: none; color: var(--jm-ink); }
+.jm-aviso__chips a:hover, .jm-aviso__chips a:focus-visible { border-color: var(--jm-accent-strong); color: var(--jm-accent-strong); }
 
 /* ===========================================================================
    3D, segunda tanda (13/11/2026, prueba pedida por el titular).
