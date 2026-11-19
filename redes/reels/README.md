@@ -173,6 +173,16 @@ Todo lo que lleva `en` se sincroniza con la frase del guion, igual que los texto
 - El render completo tarda unos 15 minutos por reel de 30 s: unos 6 del 3D y unos 9 de la capa de textos.
 - El 3D se dibuja con SwiftShader, sin tarjeta gráfica.
 
+## Formato «presentador» (19/11/2026): el modelo de los reels nuevos
+
+Rosa (o Luis) presenta a cámara, abajo a la derecha, con la **boca sincronizada con la voz**. Detrás va **vídeo real** (B-roll de Pixabay, un clip por escena) y encima los **gráficos animados** del estilo dinámico. Modelo: `base/01-sesenta-mil/reel.mjs`.
+
+- Cada escena lleva `fondo` (vídeo real) y `animacion` con `set: "presentador"` (sin decorado, fondo transparente). El render monta vídeo → muñeco → gráficos.
+- El actor que presenta lleva `habla: true`: la boca se mueve con el volumen de la voz, fotograma a fotograma.
+- Encuadre del presentador: la función `cam()` del modelo (plano medio abajo a la derecha, con la cara por debajo de los subtítulos).
+- Voz: `node herramientas/reels/voz.mjs <carpeta>` (Piper 1c). Ningún clip de vídeo se repite entre reels.
+- Si el ejemplo del guion es Luis, presenta Rosa, y al revés.
+
 ## Lo que funciona (datos del 1 al 15/11/2026)
 
 - **Cifra en euros en el gancho.** El reel «Jubilarte 2 años antes te puede costar 60.000 €» llegó a 112 personas en Instagram y tuvo 419 reproducciones en Facebook, entre 4 y 80 veces más que los demás. Los temas sin cifra en el gancho (auxilio, SOVI) apenas llegaron a nadie.

@@ -98,15 +98,40 @@ const navegador = await chromium.launch();
 const pagina = await navegador.newPage({ viewport: { width: 1080, height: 1920 }, deviceScaleFactor: 1 });
 const plantilla = pathToFileURL(join(AQUI, "plantilla.html")).href;
 const anim3d = reel.escenas.some((e) => e.animacion);
-const realista = anim3d || reel.escenas.some((e) => e.fondo);
+const conFondo = reel.escenas.some((e) => e.fondo);
+const combinado = anim3d && conFondo; // muñeco presentador encima de vídeo real
+const realista = anim3d || conFondo;
 const datos = { tema: reel.tema, marcaAgua: reel.marcaAgua, duracion, escenas: escenas.map(({ fondo, animacion, ...e }) => e), subtitulos, realista, estilo: reel.estilo, velo: reel.velo };
-const datos3d = { duracion, escenas: escenas.map((e) => ({ ini: e.ini, fin: e.fin, animacion: e.animacion })) };
+// Boca del presentador: volumen de la voz en cada fotograma (0 a 1), para que mueva la boca al hablar
+function nivelesVoz(wav, fps) {
+  const pcm = execFileSync("ffmpeg", ["-hide_banner", "-loglevel", "error", "-i", wav, "-ac", "1", "-ar", "16000", "-f", "s16le", "-"], { maxBuffer: 1 << 28 });
+  const n = pcm.length / 2, paso = 16000 / fps, out = [];
+  for (let i = 0; i < n; i += paso) {
+    let s = 0, k = 0;
+    for (let j = Math.floor(i); j < Math.min(n, i + paso); j++, k++) { const v = pcm.readInt16LE(j * 2) / 32768; s += v * v; }
+    out.push(k ? Math.sqrt(s / k) : 0);
+  }
+  const max = Math.max(...out.slice().sort((a, b) => a - b).slice(Math.floor(out.length * 0.95))) || 1;
+  return out.map((v, i, a) => Math.min(1, Math.max(0, ((v + (a[i - 1] || v)) / 2 / max - 0.08) * 1.25)));
+}
+const datos3d = { duracion, fps: FPS, habla: anim3d ? nivelesVoz(vozWav, FPS) : null, escenas: escenas.map((e) => ({ ini: e.ini, fin: e.fin, animacion: e.animacion })) };
 const shot = (opts = {}) => pagina.screenshot(realista ? { type: "png", omitBackground: true, ...opts } : { type: "jpeg", quality: 95, ...opts });
 
 // Fondo de vídeo real (modo realista)
 const fondoMp4 = join(tmp, "fondo.mp4");
-if (realista && !anim3d) revisarRepetidos(carpeta);
-if (anim3d && !soloPrevia) {
+if (conFondo) revisarRepetidos(carpeta);
+if (combinado && !soloPrevia) {
+  console.log("Montando el fondo de vídeo…");
+  const base = join(tmp, "base.mp4");
+  const { clips } = construirFondo(escenas, duracion, carpeta, base, FPS);
+  console.log("Renderizando el presentador 3D…");
+  const capa3d = join(tmp, "capa3d.mkv");
+  await construirFondo3d(datos3d, capa3d, FPS, true);
+  execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-i", base, "-i", capa3d,
+    "-filter_complex", "[0:v][1:v]overlay=0:0:format=auto,format=yuv420p", "-c:v", "libx264", "-preset", "medium", "-crf", "15", "-r", String(FPS), fondoMp4]);
+  writeFileSync(join(carpeta, "creditos.txt"), "Presentador 3D: hecho con código (three.js).\nVídeo de fondo: Pixabay (licencia de contenido de Pixabay, uso comercial sin atribución obligatoria)\n" +
+    clips.map((c) => `- ${c.replace(/^pixabay:/, "https://pixabay.com/videos/id-")}`).join("\n") + "\n" + (reel.musica ? `Música: ${reel.musica}\n` : ""));
+} else if (anim3d && !soloPrevia) {
   console.log("Renderizando las escenas 3D…");
   await construirFondo3d(datos3d, fondoMp4, FPS);
   writeFileSync(join(carpeta, "creditos.txt"), "Animación 3D: hecha con código (three.js), sin material de terceros.\n" + (reel.musica ? `Música: ${reel.musica}\n` : ""));
@@ -141,7 +166,17 @@ if (soloPrevia) {
   const dir = join(carpeta, ".previa");
   mkdirSync(dir, { recursive: true });
   const momentos = escenas.map((e) => Math.min(e.fin - 0.25, duracion - 0.05));
-  const fondos = anim3d ? await fotogramas3d(datos3d, momentos, dir) : [];
+  let fondos = anim3d ? await fotogramas3d(datos3d, momentos, dir, combinado) : [];
+  if (combinado) {
+    // Fondo de vídeo real en esos mismos instantes, con el presentador encima
+    const base = join(tmp, "base.mp4");
+    construirFondo(escenas, duracion, carpeta, base, FPS);
+    fondos = momentos.map((t, i) => {
+      const f = join(dir, `base-${i + 1}.jpg`);
+      execFileSync("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-ss", String(t), "-i", base, "-i", fondos[i], "-filter_complex", "[0:v][1:v]overlay=0:0", "-frames:v", "1", "-q:v", "3", f]);
+      return f;
+    });
+  }
   for (const [i, t] of momentos.entries()) {
     await pagina.evaluate((x) => window.__frame(x), t);
     const ruta = join(dir, `escena-${String(i + 1).padStart(2, "0")}.jpg`);

@@ -5,7 +5,9 @@ import { crearPersonaje, aplicar, POSES, CARAS, mezclarPose, mezclarCara } from 
 import { salon, oficina, movil, calendarioPared, bocadillo, lluviaMonedas, carpeta, sello } from "./escenarios.js";
 
 const W = 1080, H = 1920;
-const SETS = { salon: { x: 0, crear: salon, fondo: "#f4e4cf" }, oficina: { x: 60, crear: oficina, fondo: "#dfe9f2" } };
+const SETS = { salon: { x: 0, crear: salon, fondo: "#f4e4cf" }, oficina: { x: 60, crear: oficina, fondo: "#dfe9f2" },
+  // «presentador»: sin decorado y con fondo transparente, para poner el muñeco encima de vídeo real
+  presentador: { x: 120, crear: () => new THREE.Group(), fondo: null } };
 const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
 const suave = (x) => { x = clamp(x); return x * x * (3 - 2 * x); };
 const salida = (x) => { x = clamp(x); return 1 - Math.pow(1 - x, 3); };
@@ -17,7 +19,7 @@ const tmp = new THREE.Vector3();
 
 window.__init3d = (datos) => {
   D = datos;
-  r = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+  r = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true, alpha: true, premultipliedAlpha: false });
   r.setPixelRatio(1); r.setSize(W, H);
   r.shadowMap.enabled = true; r.shadowMap.type = THREE.PCFSoftShadowMap;
   r.toneMapping = THREE.ACESFilmicToneMapping; r.toneMappingExposure = 1.05; r.outputColorSpace = THREE.SRGBColorSpace;
@@ -97,9 +99,11 @@ window.__frame3d = (t) => {
   const a = e.animacion;
   for (const x of escenas) for (const p of x.props || []) p.obj.visible = false;
   for (const n in actores) actores[n].raiz.visible = false;
-  if (!a) { r.render(mundo, cam); return; }
+  if (!a) { mundo.background = null; r.setClearColor(0x000000, 0); r.render(mundo, cam); return; }
   const ox = e.ox, t0 = Math.max(0, e.ini);
-  mundo.background = new THREE.Color(SETS[a.set || "salon"].fondo);
+  const fondoSet = SETS[a.set || "salon"].fondo;
+  mundo.background = fondoSet ? new THREE.Color(fondoSet) : null;
+  r.setClearColor(0x000000, fondoSet ? 1 : 0);
   sol.position.set(ox + 4, 8, 6); sol.target.position.set(ox, 0, -1);
 
   // Actores
@@ -108,7 +112,9 @@ window.__frame3d = (t) => {
     p.raiz.visible = true;
     p.raiz.position.set(ox + s.pos[0], 0, s.pos[1]);
     p.raiz.rotation.y = (s.giro * Math.PI) / 180;
-    aplicar(p, s.pose, s.cara, t, { ...s.extra, anda: s.anda });
+    // Boca sincronizada con la voz para quien presenta (spec.habla: true)
+    const habla = spec.habla && D.habla ? (D.habla[Math.round(t * (D.fps || 30))] || 0) * 0.75 : 0;
+    aplicar(p, s.pose, s.cara, t, { ...s.extra, anda: s.anda, ...(spec.habla ? { habla } : {}) });
   }
   mundo.updateMatrixWorld(true);
 

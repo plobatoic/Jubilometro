@@ -34,15 +34,17 @@ export async function abrirMotor3d(datos) {
   return { pag, cerrar };
 }
 
-export async function construirFondo3d(datos, salida, fps = 30) {
+// alfa = true: fotogramas PNG con transparencia y salida .mkv (FFV1 con canal alfa) para ponerla encima de vídeo real
+export async function construirFondo3d(datos, salida, fps = 30, alfa = false) {
   const { pag, cerrar } = await abrirMotor3d(datos);
-  const ff = spawn("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-f", "image2pipe", "-framerate", String(fps), "-c:v", "mjpeg", "-i", "-",
-    "-c:v", "libx264", "-preset", "medium", "-crf", "15", "-pix_fmt", "yuv420p", "-r", String(fps), salida], { stdio: ["pipe", "inherit", "inherit"] });
+  const codec = alfa ? ["-c:v", "ffv1", "-pix_fmt", "yuva420p"] : ["-c:v", "libx264", "-preset", "medium", "-crf", "15", "-pix_fmt", "yuv420p"];
+  const ff = spawn("ffmpeg", ["-y", "-hide_banner", "-loglevel", "error", "-f", "image2pipe", "-framerate", String(fps), "-c:v", alfa ? "png" : "mjpeg", "-i", "-",
+    ...codec, "-r", String(fps), salida], { stdio: ["pipe", "inherit", "inherit"] });
   const fin = new Promise((ok, mal) => ff.on("close", (c) => (c === 0 ? ok() : mal(new Error(`ffmpeg salió con ${c}`)))));
   const total = Math.ceil(datos.duracion * fps);
   for (let f = 0; f < total; f++) {
     await pag.evaluate((x) => window.__frame3d(x), f / fps);
-    const buf = await pag.screenshot({ type: "jpeg", quality: 93 });
+    const buf = await pag.screenshot(alfa ? { type: "png", omitBackground: true } : { type: "jpeg", quality: 93 });
     if (!ff.stdin.write(buf)) await new Promise((r) => ff.stdin.once("drain", r));
     if (f % 150 === 0) process.stdout.write(`  3D ${f}/${total}\r`);
   }
@@ -53,13 +55,13 @@ export async function construirFondo3d(datos, salida, fps = 30) {
 }
 
 // Fotogramas sueltos para revisar encuadres sin hacer el vídeo entero
-export async function fotogramas3d(datos, tiempos, carpeta) {
+export async function fotogramas3d(datos, tiempos, carpeta, alfa = false) {
   const { pag, cerrar } = await abrirMotor3d(datos);
   const rutas = [];
   for (const [i, t] of tiempos.entries()) {
     await pag.evaluate((x) => window.__frame3d(x), t);
-    const ruta = join(carpeta, `3d-${String(i + 1).padStart(2, "0")}.jpg`);
-    await pag.screenshot({ path: ruta, type: "jpeg", quality: 85 });
+    const ruta = join(carpeta, `3d-${String(i + 1).padStart(2, "0")}.${alfa ? "png" : "jpg"}`);
+    await pag.screenshot(alfa ? { path: ruta, type: "png", omitBackground: true } : { path: ruta, type: "jpeg", quality: 85 });
     rutas.push(ruta);
   }
   await cerrar();
