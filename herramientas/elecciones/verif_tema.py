@@ -21,15 +21,23 @@ def buscar(clave, cita):
     return hit
 ruta=os.path.join(RAIZ,'contenido','elecciones',SLUG)
 txt=open(os.path.join(ruta,'articulo.md'),encoding='utf-8').read().split('## Preguntas frecuentes')[0]
-filas=[]; fallos=0; partido=None
+filas=[]; fallos=0; partido=None; avisos=[]
 for linea in txt.splitlines():
     m=re.match(r'- \*\*(PP|PSOE|Vox|Frente Amplio|ERC|EH Bildu|PNV)\*\*',linea)
     if m: partido=m.group(1)
     elif not linea.startswith('  '): partido=None if not linea.startswith('- ') else partido
     if not partido: continue
-    for cita in re.findall(r'«([^»]{12,})»',linea):
+    for m2 in re.finditer(r'«([^»]{12,})»',linea):
+        cita=m2.group(1)
         h=buscar(PDF[partido],cita)
-        if h: filas.append((partido,cita,', '.join(h)))
+        if h:
+            filas.append((partido,cita,', '.join(h)))
+            # la página que dice la guía (la primera «página(s) N» tras la cita) debe estar entre las encontradas
+            pm=re.search(r'páginas? (\d+)(?:\s*(?:y|-|a)\s*(\d+))?', linea[m2.end():])
+            if pm:
+                dichas={pm.group(1)}|({pm.group(2)} if pm.group(2) else set())
+                encontradas=set(x for hh in h for x in hh.split('-'))
+                if not dichas & encontradas: avisos.append(f'{partido}: «{cita[:60]}…» dice página {"/".join(sorted(dichas))}, está en {", ".join(h)}')
         else: fallos+=1; print('NO ENCONTRADA',partido,cita[:90])
 out=[f"# Verificación de datos · {TITULO}\n",
      f"**Lectura de fuentes ({FECHA}):** los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para las elecciones del 29/11/2026, descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía y en la verificación de la comparativa de pensiones). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. Los «no lo menciona» salen de buscar el tema con palabras clave en el programa entero.\n",
@@ -37,3 +45,4 @@ out=[f"# Verificación de datos · {TITULO}\n",
 for i,(n,c,p) in enumerate(filas,1): out.append(f"| {i} | {n} | «{c}» | {p} | Verificado en el PDF |")
 open(os.path.join(ruta,'verificacion-fuentes.md'),'w',encoding='utf-8').write('\n'.join(out)+'\n')
 print(SLUG, len(filas), 'citas; fallos', fallos)
+for x in avisos: print('PÁGINA DISTINTA', x)

@@ -610,5 +610,17 @@
   "/elecciones/programa-eh-bildu-pensiones/": {
     "id": 1401,
     "estado": "publish"
+  },
+  "/elecciones/dependencia-cuidados-partidos/": {
+    "id": 1410,
+    "estado": "publish"
+  },
+  "/elecciones/personas-mayores-partidos/": {
+    "id": 1411,
+    "estado": "publish"
+  },
+  "/elecciones/sanidad-partidos/": {
+    "id": 1412,
+    "estado": "publish"
   }
 }
