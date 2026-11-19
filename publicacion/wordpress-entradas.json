@@ -622,5 +622,13 @@
   "/elecciones/sanidad-partidos/": {
     "id": 1412,
     "estado": "publish"
+  },
+  "/elecciones/impuestos-partidos/": {
+    "id": 1413,
+    "estado": "publish"
+  },
+  "/elecciones/vivienda-partidos/": {
+    "id": 1414,
+    "estado": "publish"
   }
 }
