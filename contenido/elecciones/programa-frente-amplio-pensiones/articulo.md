@@ -8,7 +8,7 @@ miga: Programa de Frente Amplio
 palabra_clave_principal: programa Frente Amplio pensiones
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-18
+fecha_actualizacion: 2026-11-19
 publicacion: 2026-11-17
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -18,7 +18,7 @@ fuentes_legales:
 
 # Qué propone Frente Amplio sobre las pensiones en su programa para las elecciones del 29N
 
-*Actualizado el 18 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido*
+*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con el programa oficial del partido*
 
 > **Respuesta rápida**
 >
@@ -45,7 +45,7 @@ Llevar a la Constitución, con una reforma por el procedimiento ordinario (artí
 
 ## Las pensiones mínimas y no contributivas
 
-Que ninguna pensión sea inferior al salario mínimo interprofesional (páginas 57 y 58), que en 2026 es de 1.221 euros al mes en 14 pagas. Y «equiparando pensiones mínimas y no contributivas al umbral de la pobreza» (página 24). También subir las contributivas más bajas y las no contributivas «por encima de la media» y mantener el complemento de brecha de género (página 58). Las cuantías de 2026, en [la pensión mínima](/cuanto-cobrare/pension-minima/).
+Que ninguna pensión sea inferior al salario mínimo interprofesional (páginas 57 y 58), que en 2026 es de 1.221 euros al mes en 14 pagas y desde el 1 de enero de 2027 será de 1.286 euros ([Real Decreto 1013/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24189)). Y «equiparando pensiones mínimas y no contributivas al umbral de la pobreza» (página 24). También subir las contributivas más bajas y las no contributivas «por encima de la media» y mantener el complemento de brecha de género (página 58). Las cuantías de 2026, en [la pensión mínima](/cuanto-cobrare/pension-minima/).
 
 ## La jubilación anticipada
 
@@ -92,4 +92,4 @@ De la viudedad y la orfandad. Hemos buscado cada tema en el documento entero, no
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dice el programa oficial del partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 18 de noviembre de 2026, páginas ajustadas a la versión nueva del PDF que Frente Amplio colgó el 17 de noviembre (el texto sobre pensiones no cambia). 17 de noviembre de 2026, primera versión, con el programa oficial publicado en frenteamplio.info.*
+*Historial de cambios: 19 de noviembre de 2026, salario mínimo de 2027 (1.286 euros al mes). 18 de noviembre de 2026, páginas ajustadas a la versión nueva del PDF que Frente Amplio colgó el 17 de noviembre (el texto sobre pensiones no cambia). 17 de noviembre de 2026, primera versión, con el programa oficial publicado en frenteamplio.info.*

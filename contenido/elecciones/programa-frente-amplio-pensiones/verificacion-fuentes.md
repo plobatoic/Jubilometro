@@ -17,3 +17,5 @@
 | 11 | «las deducciones por planes de pensiones privados individuales» | Programa oficial de Frente Amplio | 46 | Verificado en el PDF |
 | 12 | «del 0,8 % al 1,7 % del PIB en 2030» | Programa oficial de Frente Amplio | 23 | Verificado en el PDF |
 | 13 | «derecho al respiro» | Programa oficial de Frente Amplio | 23 | Verificado en el PDF |
+
+**19/11/2026 · SMI de 2027:** 1.286 €/mes en 14 pagas (art. 1 del Real Decreto 1013/2026, BOE-A-2026-24189, BOE de 19/11/2026; en vigor el 1/1/2027). Leído en el texto del BOE. Verificado en BOE.

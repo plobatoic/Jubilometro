@@ -30,3 +30,5 @@
 | 24 | PP | «Incentivaremos la jubilación activa mediante deducciones en el IRPF» | 43 | Verificado en el PDF |
 | 25 | Frente Amplio | «las deducciones por planes de pensiones privados individuales» | 46 | Verificado en el PDF |
 | 26 | Vox | «de manera rápida e íntegra» | 52 | Verificado en el PDF |
+
+**19/11/2026 · SMI de 2027:** 1.286 €/mes en 14 pagas (art. 1 del Real Decreto 1013/2026, BOE-A-2026-24189, BOE de 19/11/2026; en vigor el 1/1/2027). Leído en el texto del BOE. Verificado en BOE.

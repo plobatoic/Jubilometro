@@ -11,24 +11,25 @@ palabras_clave_secundarias:
   - "seguridad social cuidadora interna"
 intencion: informativa
 fase_plan: F2 (artículo n.º 73)
-fecha_actualizacion: 2026-10-14
+fecha_actualizacion: 2026-11-19
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
   - https://www.boe.es/buscar/act.php?id=BOE-A-2011-17975
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3815
+  - https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24189
   - https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296
   - https://www.boe.es/buscar/act.php?id=BOE-A-2022-14680
 ---
 
 # Cuidadora interna o externa para una persona mayor: cuánto cuesta en 2026, qué contrato hacer y qué ayudas hay
 
-*Actualizado el 14 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
-> Una cuidadora contratada por una familia es una **empleada de hogar**, con contrato y alta en la Seguridad Social. En 2026 debe cobrar al menos el **salario mínimo: 1.221 euros al mes en 14 pagas** a jornada completa, o **9,55 euros por hora** si es externa por horas.
+> Una cuidadora contratada por una familia es una **empleada de hogar**, con contrato y alta en la Seguridad Social. En 2026 debe cobrar al menos el **salario mínimo: 1.221 euros al mes en 14 pagas** a jornada completa, o **9,55 euros por hora** si es externa por horas. Desde el **1 de enero de 2027** el mínimo sube a **1.286 euros al mes** en 14 pagas y **10,06 euros por hora**.
 >
 > Con una interna a jornada completa (40 horas semanales) y el salario mínimo, la familia paga **unos 20.900 euros al año**, contando la Seguridad Social con sus reducciones (**317 euros al mes**). Una interna **no cubre las 24 horas**: tiene límites de jornada, descansos y 36 horas libres a la semana.
 
@@ -45,6 +46,8 @@ fuentes_legales:
 | Noches y fines de semana | Hace falta otra persona para cubrir sus descansos | Según las horas contratadas |
 
 Reglas del [Real Decreto 1620/2011](https://www.boe.es/buscar/act.php?id=BOE-A-2011-17975) (artículos 8 y 9) y del [Real Decreto 126/2026 del salario mínimo](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-3815).
+
+**En 2027**: el [Real Decreto 1013/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24189), publicado el 19 de noviembre de 2026, fija desde el 1 de enero de 2027 un salario mínimo de **1.286 euros al mes** en 14 pagas (18.004 euros al año, un 5,3 % más) y **10,06 euros por hora** para las externas por horas. Los costes de la Seguridad Social de 2027 se sabrán cuando se publique la orden de cotización de ese año; hasta entonces, los ejemplos de abajo son los de 2026.
 
 **Horas de presencia**: además de las 40 horas, se pueden pactar horas en las que la cuidadora está disponible sin trabajar (por ejemplo, por las noches). Salvo que se compensen con descanso, no pueden pasar de **20 horas semanales** de media y se pagan, como mínimo, como las horas normales.
 
@@ -91,7 +94,7 @@ La cuidadora paga su parte (el 6,40 % de su base: contingencias comunes, desempl
 
 ### ¿Cuánto cobra una cuidadora interna en 2026?
 
-Como mínimo el salario mínimo interprofesional: 1.221 euros al mes en 14 pagas por 40 horas semanales, en dinero. Si se pactan horas de presencia, se pagan aparte.
+Como mínimo el salario mínimo interprofesional: 1.221 euros al mes en 14 pagas por 40 horas semanales, en dinero. Si se pactan horas de presencia, se pagan aparte. Desde el 1 de enero de 2027, 1.286 euros al mes en 14 pagas ([Real Decreto 1013/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24189)).
 
 ### ¿Cuánto se paga por hora a una cuidadora externa?
 
@@ -128,4 +131,4 @@ Sí, desde el primer día y sea cual sea el número de horas, en el Sistema Espe
 
 *Este artículo es informativo y no sustituye el asesoramiento laboral profesional ni la información de la Tesorería General de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 14 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 6 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 19 de noviembre de 2026, salario mínimo de 2027 (1.286 € al mes y 10,06 € por hora). 14 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 6 de octubre de 2026, enlace a la jubilación de las empleadas de hogar. 29 de septiembre de 2026, primera versión.*

@@ -8,7 +8,7 @@ miga: Qué proponen los partidos
 palabra_clave_principal: propuestas pensiones partidos elecciones
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-18
+fecha_actualizacion: 2026-11-19
 publicacion: 2026-11-17
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -23,7 +23,7 @@ fuentes_legales:
 
 # Qué proponen los partidos sobre las pensiones en las elecciones del 29 de noviembre de 2026
 
-*Actualizado el 18 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
+*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
 
 > **Respuesta rápida**
 >
@@ -83,7 +83,7 @@ En 2027 la edad ordinaria llega a los **67 años**, o a los 65 si has cotizado 3
 
 En 2026 la [pensión mínima de jubilación](/cuanto-cobrare/pension-minima/) es de 936,20 euros al mes si tienes 65 años o más y vives solo, y la [no contributiva](/ayudas/pension-no-contributiva/), de 628,80 euros.
 
-- **Frente Amplio**: que «ninguna sea inferior al SMI» (páginas 57 y 58), y que las mínimas y no contributivas lleguen al umbral de la pobreza (página 24). El salario mínimo de 2026 es de 1.221 euros al mes en 14 pagas.
+- **Frente Amplio**: que «ninguna sea inferior al SMI» (páginas 57 y 58), y que las mínimas y no contributivas lleguen al umbral de la pobreza (página 24). El salario mínimo de 2026 es de 1.221 euros al mes en 14 pagas; el de 2027, ya aprobado, será de 1.286 euros ([Real Decreto 1013/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24189)).
 - **PSOE**: seguir «culminando el proceso de convergencia de las cuantías de las pensiones mínimas con estándares de ingresos del conjunto de la sociedad», y que el Estado pague con impuestos lo no contributivo (medidas 98 y 99, páginas 39 y 40).
 - **PNV**: «Mejorar progresivamente las pensiones mínimas y no contributivas» (medida 02, página 31).
 - **PP, Vox y ERC**: no lo mencionan.
@@ -175,4 +175,4 @@ No. Un programa electoral no cambia nada: hace falta que el Gobierno o las Corte
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dicen los programas oficiales de cada partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 18 de noviembre de 2026, páginas de Frente Amplio ajustadas a la versión nueva de su PDF (el texto no cambia); ERC también renovó su PDF sin cambios en lo citado. 17 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV.*
+*Historial de cambios: 19 de noviembre de 2026, salario mínimo de 2027 (1.286 euros al mes). 18 de noviembre de 2026, páginas de Frente Amplio ajustadas a la versión nueva de su PDF (el texto no cambia); ERC también renovó su PDF sin cambios en lo citado. 17 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC y PNV.*
