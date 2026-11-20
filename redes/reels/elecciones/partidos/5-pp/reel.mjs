@@ -23,7 +23,7 @@ export default {
         <div class="paso" data-en="Y un pacto" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Pacto de Estado por la <b>dependencia</b></div></div>
         <div class="nota" data-a="aparece">Programa oficial del PP, medidas 108 y 114, págs. 42-44</div>`,
     },
-    { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:2339", desde: 0.5, x: 0.75 },
+    { en: "No habla", clase: "arriba", fondo: { clip: "pixabay:2339", desde: 0.5, x: 0.75 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
         <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La edad de jubilación</div></div>

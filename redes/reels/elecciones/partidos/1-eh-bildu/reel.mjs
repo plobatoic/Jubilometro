@@ -23,7 +23,7 @@ export default {
         <div class="paso" data-en="Y jubilarse sin recorte" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Sin recorte con <b>40 años</b> cotizados</div></div>
         <div class="nota" data-a="aparece">Programa oficial de EH Bildu, págs. 7-8</div>`,
     },
-    { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:4878", desde: 0.5, x: 0.5 },
+    { en: "No habla", clase: "arriba", fondo: { clip: "pixabay:4878", desde: 0.5, x: 0.5 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
         <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">El IRPF de las pensiones</div></div>`,

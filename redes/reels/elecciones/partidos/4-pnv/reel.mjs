@@ -23,7 +23,7 @@ export default {
         <div class="paso" data-en="Y que los años" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Los años de <b>cuidados cuentan</b></div></div>
         <div class="nota" data-a="aparece">Programa oficial del PNV, medidas 01-06, págs. 30-31</div>`,
     },
-    { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:3013", desde: 0.5, x: 0.6 },
+    { en: "No habla", clase: "arriba", fondo: { clip: "pixabay:3013", desde: 0.5, x: 0.6 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
         <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">El IRPF de las pensiones</div></div>

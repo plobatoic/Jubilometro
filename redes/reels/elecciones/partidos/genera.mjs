@@ -115,7 +115,7 @@ export default {
 ${p.puntos.map((x, k) => `        <div class="paso" data-en=${JSON.stringify(x.en)} data-a="sube"><div class="num">${k + 1}</div><div class="tx" style="font-size:54px">${x.pantalla}</div></div>`).join('\n')}
         <div class="nota" data-a="aparece">Programa oficial ${del(p)}, ${p.paginas}</div>\`,
     },
-    { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:${p.clipB[0]}", desde: 0.5, x: ${p.clipB[1]} },
+    { en: "No habla", clase: "arriba", fondo: { clip: "pixabay:${p.clipB[0]}", desde: 0.5, x: ${p.clipB[1]} },
       html: \`
         <div class="kicker">Su programa no habla de…</div>
 ${p.noHabla.map((x) => `        <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">${conMayus(x)}</div></div>`).join('\n')}\`,

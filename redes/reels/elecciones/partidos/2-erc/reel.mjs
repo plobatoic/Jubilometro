@@ -23,7 +23,7 @@ export default {
         <div class="paso" data-en="Y anticipada sin recorte" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Anticipada <b>sin recorte</b> en oficios penosos</div></div>
         <div class="nota" data-a="aparece">Programa oficial de ERC, medidas 106-110, págs. 25-27</div>`,
     },
-    { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:84005", desde: 0.5, x: 0.5 },
+    { en: "No habla", clase: "arriba", fondo: { clip: "pixabay:84005", desde: 0.5, x: 0.5 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
         <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">Las pensiones mínimas</div></div>

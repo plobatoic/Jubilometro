@@ -23,7 +23,7 @@ export default {
         <div class="paso" data-en="Y más dinero" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Más dinero para la <b>dependencia</b></div></div>
         <div class="nota" data-a="aparece">Programa oficial de Vox, medidas 7 y 94-96, págs. 10-11 y 51-52</div>`,
     },
-    { en: "No habla de", clase: "arriba", fondo: { clip: "pixabay:229069", desde: 0.5, x: 0.5 },
+    { en: "No habla", clase: "arriba", fondo: { clip: "pixabay:229069", desde: 0.5, x: 0.5 },
       html: `
         <div class="kicker">Su programa no habla de…</div>
         <div class="paso" data-a="sube"><div class="num">✕</div><div class="tx" style="font-size:54px">La subida con el IPC</div></div>

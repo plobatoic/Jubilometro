@@ -27,6 +27,8 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 
 **Voz:** generada en código con Piper (muestra «1c», 19/11). Hechos y con render el 19/11. Van **aparte** del ritmo 4-4-3 (lo pidió Pau).
 
+- 20/11: corregidos EH Bildu, ERC, PNV y PSOE (la voz decía «de el IRPF»; EH Bildu: «al menos un 15 %»). Vídeos nuevos en Orshot y en la hoja `2026-11-25_27-partidos.md`.
+
 ## Reels de Instagram y Facebook
 
 🧸 = muñecos 3D · M = sale solo desde Metricool.
