@@ -8,7 +8,7 @@ Voz: Piper 1c (código). Etiqueta de IA: sí. Primero sale el reel 1 y después 
 ¿Qué propone EH Bildu sobre las pensiones? Esto dice su programa oficial para el 29 de noviembre:
 
 → Mínimas: al menos 1.220 €
-→ Viudedad y no contributivas: +15 %
+→ Viudedad y no contributivas: al menos +15 %
 → Sin recorte con 40 años cotizados
 
 No habla del IRPF de las pensiones.
@@ -41,7 +41,7 @@ Guárdalo para comparar 🔖
 ```
 Lo que dice el programa oficial de EH Bildu para las elecciones del 29 de noviembre de 2026 sobre las pensiones:
 → Mínimas: al menos 1.220 €
-→ Viudedad y no contributivas: +15 %
+→ Viudedad y no contributivas: al menos +15 %
 → Sin recorte con 40 años cotizados
 No habla del IRPF de las pensiones.
 

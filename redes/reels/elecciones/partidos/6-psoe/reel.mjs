@@ -7,7 +7,7 @@ export default {
   musica: "https://cdn.orshot.com/library/music/59610ed8-671e-4654-8b95-bc066c1bf45a.m4a",
   musicaBucle: { ini: 2.4, fin: 14.4 },
   volumenMusica: 0.1,
-  guion: "¿Qué propone el PSOE sobre las pensiones? Esto dice su programa.\n\nLlevar a la Constitución la subida con el IPC. Seguir acercando las mínimas a los ingresos de la sociedad. Y evaluar un recorte menor en la anticipada involuntaria con carreras largas.\n\nNo habla de el IRPF de las pensiones.\n\nLos siete partidos, comparados en Jubilómetro.",
+  guion: "¿Qué propone el PSOE sobre las pensiones? Esto dice su programa.\n\nLlevar a la Constitución la subida con el IPC. Seguir acercando las mínimas a los ingresos de la sociedad. Y evaluar un recorte menor en la anticipada involuntaria con carreras largas.\n\nNo habla del IRPF de las pensiones.\n\nLos siete partidos, comparados en Jubilómetro.",
 
   escenas: [
     { clase: "arriba", fondo: { clip: "pixabay:140724", desde: 0.5, x: 0.42 },

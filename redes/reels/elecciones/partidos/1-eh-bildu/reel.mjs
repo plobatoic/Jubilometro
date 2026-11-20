@@ -7,7 +7,7 @@ export default {
   musica: "https://cdn.orshot.com/library/music/59610ed8-671e-4654-8b95-bc066c1bf45a.m4a",
   musicaBucle: { ini: 2.4, fin: 14.4 },
   volumenMusica: 0.1,
-  guion: "¿Qué propone EH Bildu sobre las pensiones? Esto dice su programa.\n\nSubir las pensiones mínimas hasta al menos [[1.220|mil doscientos veinte]] euros. Subir un [[15 %|quince por ciento]] la viudedad y las no contributivas. Y jubilarse sin recorte con [[40|cuarenta]] años cotizados.\n\nNo habla de el IRPF de las pensiones.\n\nLos siete partidos, comparados en Jubilómetro.",
+  guion: "¿Qué propone EH Bildu sobre las pensiones? Esto dice su programa.\n\nSubir las pensiones mínimas hasta al menos [[1.220|mil doscientos veinte]] euros. Subir al menos un [[15 %|quince por ciento]] la viudedad y las no contributivas. Y jubilarse sin recorte con [[40|cuarenta]] años cotizados.\n\nNo habla del IRPF de las pensiones.\n\nLos siete partidos, comparados en Jubilómetro.",
 
   escenas: [
     { clase: "arriba", fondo: { clip: "pixabay:125430", desde: 0.5, x: 0.5 },
@@ -19,7 +19,7 @@ export default {
       html: `
         <div class="kicker">Lo que dice su programa</div>
         <div class="paso" data-en="Subir las pensiones mínimas" data-a="sube"><div class="num">1</div><div class="tx" style="font-size:54px">Mínimas: <b>al menos 1.220 €</b></div></div>
-        <div class="paso" data-en="la viudedad y las no" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Viudedad y no contributivas: <b>+15 %</b></div></div>
+        <div class="paso" data-en="la viudedad y las no" data-a="sube"><div class="num">2</div><div class="tx" style="font-size:54px">Viudedad y no contributivas: <b>al menos +15 %</b></div></div>
         <div class="paso" data-en="Y jubilarse sin recorte" data-a="sube"><div class="num">3</div><div class="tx" style="font-size:54px">Sin recorte con <b>40 años</b> cotizados</div></div>
         <div class="nota" data-a="aparece">Programa oficial de EH Bildu, págs. 7-8</div>`,
     },

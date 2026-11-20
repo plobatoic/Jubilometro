@@ -7,7 +7,7 @@ export default {
   musica: "https://cdn.orshot.com/library/music/59610ed8-671e-4654-8b95-bc066c1bf45a.m4a",
   musicaBucle: { ini: 2.4, fin: 14.4 },
   volumenMusica: 0.1,
-  guion: "¿Qué propone el PNV sobre las pensiones? Esto dice su programa.\n\nSubirlas cada año con el IPC y mejorar poco a poco las mínimas. Quitar el recorte de la anticipada con más de [[40|cuarenta]] años cotizados. Y que los años de cuidados cuenten para la pensión.\n\nNo habla de el IRPF de las pensiones ni de la viudedad.\n\nLos siete partidos, comparados en Jubilómetro.",
+  guion: "¿Qué propone el PNV sobre las pensiones? Esto dice su programa.\n\nSubirlas cada año con el IPC y mejorar poco a poco las mínimas. Quitar el recorte de la anticipada con más de [[40|cuarenta]] años cotizados. Y que los años de cuidados cuenten para la pensión.\n\nNo habla del IRPF de las pensiones ni de la viudedad.\n\nLos siete partidos, comparados en Jubilómetro.",
 
   escenas: [
     { clase: "arriba", fondo: { clip: "pixabay:377024", desde: 0.5, x: 0.4 },

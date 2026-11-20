@@ -7,7 +7,7 @@ export default {
   musica: "https://cdn.orshot.com/library/music/59610ed8-671e-4654-8b95-bc066c1bf45a.m4a",
   musicaBucle: { ini: 2.4, fin: 14.4 },
   volumenMusica: 0.1,
-  guion: "¿Qué propone ERC sobre las pensiones? Esto dice su programa.\n\nBlindar la subida de las pensiones con la inflación. Con el IPC de cada territorio, no con el de toda España. Y anticipada sin recorte en profesiones penosas o peligrosas.\n\nNo habla de las pensiones mínimas ni de el IRPF de las pensiones.\n\nLos siete partidos, comparados en Jubilómetro.",
+  guion: "¿Qué propone ERC sobre las pensiones? Esto dice su programa.\n\nBlindar la subida de las pensiones con la inflación. Con el IPC de cada territorio, no con el de toda España. Y anticipada sin recorte en profesiones penosas o peligrosas.\n\nNo habla de las pensiones mínimas ni del IRPF de las pensiones.\n\nLos siete partidos, comparados en Jubilómetro.",
 
   escenas: [
     { clase: "arriba", fondo: { clip: "pixabay:151194", desde: 0.5, x: 0.45 },

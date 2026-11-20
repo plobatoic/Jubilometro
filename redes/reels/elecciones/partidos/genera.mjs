@@ -15,7 +15,7 @@ const PARTIDOS = [
     id: 'eh-bildu', clipA: ['125430', 0.5], clipB: ['4878', 0.5], nombre: 'EH Bildu', art: 'EH Bildu', slug: 'programa-eh-bildu-pensiones', paginas: 'págs. 7-8',
     puntos: [
       { voz: 'Subir las pensiones mínimas hasta al menos [[1.220|mil doscientos veinte]] euros.', en: 'Subir las pensiones mínimas', pantalla: 'Mínimas: <b>al menos 1.220 €</b>' },
-      { voz: 'Subir un [[15 %|quince por ciento]] la viudedad y las no contributivas.', en: 'la viudedad y las no', pantalla: 'Viudedad y no contributivas: <b>+15 %</b>' },
+      { voz: 'Subir al menos un [[15 %|quince por ciento]] la viudedad y las no contributivas.', en: 'la viudedad y las no', pantalla: 'Viudedad y no contributivas: <b>al menos +15 %</b>' },
       { voz: 'Y jubilarse sin recorte con [[40|cuarenta]] años cotizados.', en: 'Y jubilarse sin recorte', pantalla: 'Sin recorte con <b>40 años</b> cotizados' },
     ],
     noHabla: ['el IRPF de las pensiones'],
@@ -76,7 +76,7 @@ const PARTIDOS = [
   },
 ];
 
-const listaVoz = (xs) => xs.length === 1 ? xs[0] : xs.slice(0, 2).join(' ni de ');
+const listaVoz = (xs) => (xs.length === 1 ? xs[0] : xs.slice(0, 2).join(' ni de ')).replace(/de el /g, 'del ');
 const voz = (t) => t.replace(/\[\[([^|\]]+)\|([^\]]+)\]\]/g, '$2');
 const conMayus = (s) => s[0].toUpperCase() + s.slice(1);
 const del = (p) => (p.art.startsWith('el ') ? 'del ' + p.nombre : 'de ' + p.nombre);
@@ -88,7 +88,7 @@ PARTIDOS.forEach((p, i) => {
   const guion = [
     `¿Qué propone ${p.art} sobre las pensiones? Esto dice su programa.`,
     p.puntos.map((x) => x.voz).join(' '),
-    `No habla de ${listaVoz(p.noHabla)}.`,
+    `No habla de ${listaVoz(p.noHabla)}.`.replace(/\bde el /g, 'del '),
     `Los siete partidos, comparados en Jubilómetro.`,
   ].join('\n\n');
 
