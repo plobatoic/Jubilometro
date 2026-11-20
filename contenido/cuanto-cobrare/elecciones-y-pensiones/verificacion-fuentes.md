@@ -23,3 +23,5 @@
 
 **Para revisar:** cuando se publiquen los programas (antes del 13/11), añadir las propuestas sobre pensiones de cada candidatura con enlace a su programa; el 27/11, la subida con el IPC de noviembre; tras el 29/11, si el Gobierno aprueba el real decreto-ley de revalorización y cuándo; el 23/12, si se vuelve a registrar la proposición de los 40 años.
 | 17 | A 17/11/2026 han publicado programa oficial PP, PSOE, Vox, Frente Amplio, ERC y PNV; Junts y EH Bildu, no | Webs oficiales de los partidos | Lectura de cada programa (detalle en /elecciones/propuestas-pensiones-partidos/) | Verificado (17/11/2026) |
+
+**20/11/2026 · Convalidación:** la Diputación Permanente del Congreso convalidó el 18/11/2026 el Real Decreto-ley 31/2026 (Resolución de 18 de noviembre de 2026, BOE-A-2026-24292, BOE n.º 289 de 20/11/2026). Leído en el texto del BOE. Verificado en BOE.

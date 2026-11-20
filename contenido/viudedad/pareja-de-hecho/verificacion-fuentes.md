@@ -11,3 +11,5 @@
 | 7 | Porcentajes 52 / 60 / 70 % | Decreto 3158/1966, art. 31; RD 900/2018 (ficha de «Cuantía») | Texto del BOE | Verificado en BOE |
 | 8 | Ejemplos (Lucía, Sergio, Elena) | — | Aplicación de las reglas anteriores | Cálculo propio |
 | 9 | Con hijos en común, solo dos años de convivencia ininterrumpida acreditada con el padrón, sin inscripción (art. 221.2); fallecimientos anteriores al 21/10/2026: solicitud hasta el 21/10/2027, efectos desde el mes siguiente (DT 48.ª); rehabilitación de las pensiones de la derogada DA 40.ª | Real Decreto-ley 31/2026, de 20 de octubre (BOE-A-2026-21872, BOE de 21/10/2026, en vigor ese día) | Texto oficial del BOE (21/10/2026) | Verificado |
+
+**20/11/2026 · Convalidación:** la Diputación Permanente del Congreso convalidó el 18/11/2026 el Real Decreto-ley 31/2026 (Resolución de 18 de noviembre de 2026, BOE-A-2026-24292, BOE n.º 289 de 20/11/2026). Leído en el texto del BOE. Verificado en BOE.

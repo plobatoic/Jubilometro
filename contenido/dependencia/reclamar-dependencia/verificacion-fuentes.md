@@ -15,3 +15,5 @@
 | 11 | Queja gratuita al Defensor del Pueblo | Web del Defensor del Pueblo | — | Verificado |
 | 12 | Ejemplo de Rosa y Manuel | — | Aplicación de las reglas anteriores | Cálculo propio |
 | 13 | Plazo máximo de tres meses desde la solicitud hasta la resolución de la prestación, desde el 12/11/2026 (antes, seis) | Real Decreto-ley 36/2026 (BOE-A-2026-23605), disposición final primera, que modifica la disposición final primera.2 y 3 de la Ley 39/2006; entrada en vigor, disposición final sexta | BOE del 11/11/2026 | Verificado en BOE (11/11/2026) |
+
+**20/11/2026 · Convalidación:** la Diputación Permanente del Congreso convalidó el 18/11/2026 el Real Decreto-ley 36/2026 (Resolución de 18 de noviembre de 2026, BOE-A-2026-24297, BOE n.º 289 de 20/11/2026). Leído en el texto del BOE. Verificado en BOE.

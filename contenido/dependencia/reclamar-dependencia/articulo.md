@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "reclamar grado dependencia"
 intencion: transaccional
 fase_plan: F3 (artículo n.º 70)
-fecha_actualizacion: 2026-11-11
+fecha_actualizacion: 2026-11-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Cómo reclamar la dependencia: qué hacer si pasan tres meses sin respuesta o no estás de acuerdo con el grado
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -41,7 +41,7 @@ La [Ley 39/2006 de dependencia](https://www.boe.es/buscar/act.php?id=BOE-A-2006-
 
 Hasta el 22 de octubre de 2026 había una excepción: en la [prestación por cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/), la ley permitía **aplazar el pago** de esos atrasos **hasta dos años**. La reforma **elimina ese aplazamiento**, y las prestaciones que estaban en suspenso recuperan su vigencia y su cuantía.
 
-La [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el **23 de octubre de 2026**, añadió dos cosas: un plazo máximo de **tres meses** para resolver el procedimiento ([artículo 28.1](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)) y la obligación de tramitar **de urgencia** los expedientes de personas en **especial vulnerabilidad** (por falta de recursos, aislamiento, problemas de vivienda o de salud, violencia de género, entre otras) ([artículo 28.7](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)). Como la reforma dejó en seis meses el plazo de la prestación, el [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605) lo bajó también a **tres meses** desde el **12 de noviembre de 2026**. Tiene que convalidarlo la Diputación Permanente del Congreso.
+La [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528), en vigor desde el **23 de octubre de 2026**, añadió dos cosas: un plazo máximo de **tres meses** para resolver el procedimiento ([artículo 28.1](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)) y la obligación de tramitar **de urgencia** los expedientes de personas en **especial vulnerabilidad** (por falta de recursos, aislamiento, problemas de vivienda o de salud, violencia de género, entre otras) ([artículo 28.7](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a28)). Como la reforma dejó en seis meses el plazo de la prestación, el [Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605) lo bajó también a **tres meses** desde el **12 de noviembre de 2026**. Ya es definitivo: fue [convalidado por la Diputación Permanente del Congreso el 18 de noviembre de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24297).
 
 En la práctica, muchas comunidades tardan bastante más: el tiempo medio de espera por comunidad lo recogemos en [cuánto tarda la dependencia](/dependencia/tiempos-dependencia/).
 
@@ -144,4 +144,4 @@ No para el escrito, el recurso administrativo ni la queja al Defensor del Pueblo
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional. Los plazos y el tipo de recurso los indica cada resolución y la normativa de tu comunidad autónoma. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente; fechas del ejemplo en días hábiles y plazo de tres meses en las preguntas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de noviembre de 2026, decreto-ley convalidado por la Diputación Permanente el 18 de noviembre (BOE del 20). 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): fin del aplazamiento de dos años, plazo de tres meses del artículo 28 y tramitación urgente; fechas del ejemplo en días hábiles y plazo de tres meses en las preguntas. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión.*

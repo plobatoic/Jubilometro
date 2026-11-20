@@ -11,7 +11,7 @@ palabras_clave_secundarias:
   - "baja medica por menopausia"
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-22
+fecha_actualizacion: 2026-11-20
 publicacion: 2026-10-22
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -23,7 +23,7 @@ fuentes_legales:
 
 # Baja por menopausia: quién la puede tener, cuánto se cobra y desde cuándo se aplica
 
-*Actualizado el 22 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -88,7 +88,7 @@ Con una baja por enfermedad común de los mismos 25 días, Elena no cobraría na
 
 El Real Decreto-ley 31/2026 está en vigor desde el **21 de octubre de 2026**, pero estos cambios de la incapacidad temporal **producen efectos el 1 de diciembre de 2026** (disposición final cuarta). La disposición transitoria primera añade que se aplican a las bajas **iniciadas desde la entrada en vigor** del decreto-ley. Una baja que empezó antes del 21 de octubre sigue las reglas de la enfermedad común; si la tuya empieza entre el 21 de octubre y el 30 de noviembre, pregunta al INSS o a tu mutua cómo se te aplica, porque el texto no lo detalla.
 
-El decreto-ley tiene que convalidarlo el Congreso en los 30 días siguientes a su aprobación (con las Cortes disueltas, su Diputación Permanente). Lo explicamos en [elecciones y pensiones](/cuanto-cobrare/elecciones-y-pensiones/).
+El decreto-ley ya es definitivo: fue [convalidado por la Diputación Permanente del Congreso el 18 de noviembre de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24292). Lo explicamos en [elecciones y pensiones](/cuanto-cobrare/elecciones-y-pensiones/).
 
 ## Preguntas frecuentes
 
@@ -128,4 +128,4 @@ Si tu baja empezó antes del 21 de octubre de 2026, no: se cobra como una baja p
 
 *Este artículo es informativo y no sustituye la información de tu empresa, tu mutua o el INSS. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 22 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de noviembre de 2026, decreto-ley convalidado por la Diputación Permanente el 18 de noviembre (BOE del 20). 22 de octubre de 2026, primera versión.*

@@ -11,3 +11,5 @@
 | 7 | Efectos el 1/12/2026 (DF 4.ª.2) y aplicación a los procesos iniciados desde la entrada en vigor (DT 1.ª); en vigor el 21/10/2026 (DF 4.ª.1) | RDL 31/2026 | Texto del BOE | Verificado (la guía señala que el texto no detalla las bajas iniciadas entre el 21/10 y el 30/11) |
 | 8 | 60 % del día 4 al 20 y 75 % desde el 21 | Real Decreto 53/1980 y Decreto 3158/1966, art. 2 | Textos del BOE | Verificado (la guía aplica el 60 % desde el día siguiente a la baja, como en la menstruación incapacitante) |
 | 9 | Ejemplo: 1.950 ÷ 30 = 65; 19 × 39 = 741; 5 × 48,75 = 243,75; total 984,75; enfermedad común: 17 × 39 + 243,75 = 906,75 | Cálculo propio | Recalculado | Verificado |
+
+**20/11/2026 · Convalidación:** la Diputación Permanente del Congreso convalidó el 18/11/2026 el Real Decreto-ley 31/2026 (Resolución de 18 de noviembre de 2026, BOE-A-2026-24292, BOE n.º 289 de 20/11/2026). Leído en el texto del BOE. Verificado en BOE.

@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "que es solicitar la dependencia"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-11-11
+fecha_actualizacion: 2026-11-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Cómo solicitar la dependencia paso a paso: documentos, dónde se pide y cómo preparar la visita de valoración
 
-*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -81,7 +81,7 @@ En todas, si tienes dudas, empieza por los **servicios sociales de tu ayuntamien
 5. **Programa Individual de Atención (PIA)**: los servicios sociales proponen, **consultando a la persona y a la familia**, el servicio o la ayuda que mejor encaja ([artículo 29](https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990#a29)). En algunas comunidades, como Andalucía, grado y PIA llegan en una **única resolución**.
 6. **Resolución de la prestación** y comienzo del servicio o del pago.
 
-Plazo máximo: **tres meses** desde la solicitud hasta la resolución de la prestación. Desde el **12 de noviembre de 2026** ([Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605)) la ley iguala ese plazo con los tres meses que la [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) puso en octubre para el procedimiento; antes eran seis meses. Los casos de **especial vulnerabilidad** se tramitan **de urgencia**. El real decreto-ley tiene que convalidarlo la Diputación Permanente del Congreso. Si se pasa el plazo, lee [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
+Plazo máximo: **tres meses** desde la solicitud hasta la resolución de la prestación. Desde el **12 de noviembre de 2026** ([Real Decreto-ley 36/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-23605)) la ley iguala ese plazo con los tres meses que la [reforma de la ley](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-20528) puso en octubre para el procedimiento; antes eran seis meses. Los casos de **especial vulnerabilidad** se tramitan **de urgencia**. El real decreto-ley ya es definitivo: fue [convalidado por la Diputación Permanente del Congreso el 18 de noviembre de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24297). Si se pasa el plazo, lee [cómo reclamar la dependencia](/dependencia/reclamar-dependencia/).
 
 ## Cómo preparar la visita de valoración
 
@@ -148,4 +148,4 @@ En casi todas las comunidades, no: la solicitud y la valoración son gratuitas. 
 
 *Este artículo es informativo y no sustituye la información de tu comunidad autónoma, que es quien valora la dependencia y reconoce las prestaciones. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 21 de octubre de 2026, enlace a la guía nueva de Navarra. 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): plazo de tres meses del artículo 28 y tramitación urgente; la tasa de Murcia y la lista de comunidades. 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*
+*Historial de cambios: 20 de noviembre de 2026, decreto-ley convalidado por la Diputación Permanente el 18 de noviembre (BOE del 20). 11 de noviembre de 2026, desde el 12 de noviembre de 2026, el plazo máximo para resolver la prestación de dependencia pasa de seis a tres meses (Real Decreto-ley 36/2026, BOE del 11 de noviembre). 21 de octubre de 2026, enlace a la guía nueva de Navarra. 20 de octubre de 2026, reforma de la ley de dependencia (Ley 4/2026, en vigor el 23 de octubre): plazo de tres meses del artículo 28 y tramitación urgente; la tasa de Murcia y la lista de comunidades. 14 de octubre de 2026, enlace a las ayudas para adaptar la vivienda. 5 de octubre de 2026, enlaces a las guías de cada comunidad autónoma. 29 de septiembre de 2026, primera versión (con la documentación mínima del Real Decreto 1051/2013).*

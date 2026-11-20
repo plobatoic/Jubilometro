@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "pensión de viudedad pareja de hecho con hijos"
 intencion: informativa
 fase_plan: F2 (artículo n.º 38)
-fecha_actualizacion: 2026-10-21
+fecha_actualizacion: 2026-11-20
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Pensión de viudedad en parejas de hecho: requisitos de inscripción y convivencia, cuánto se cobra y qué pasa si no se cumplen
 
-*Actualizado el 21 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -34,7 +34,7 @@ fuentes_legales:
 
 **Novedad del 21 de octubre de 2026**: el [Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872), publicado y en vigor ese día, cambia el artículo 221.2 para las parejas con **hijos en común**: ya no hace falta la inscripción ni el documento público, solo **dos años de convivencia ininterrumpida** justo antes del fallecimiento, acreditada con el **certificado de empadronamiento**.
 
-**Si tu pareja falleció antes del 21 de octubre de 2026** y entonces no pudiste cobrar la viudedad, puedes pedirla ahora si al fallecer cumplíais los requisitos nuevos de pareja de hecho y tu pareja tenía la cotización necesaria. El plazo es de **doce meses improrrogables: hasta el 21 de octubre de 2027**, y se cobra desde el primer día del mes siguiente a la solicitud ([Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872), disposición transitoria cuadragésima octava de la ley). En el mismo plazo pueden pedir que se les **vuelva a pagar** la pensión quienes la obtuvieron por la vía excepcional de 2022 (fallecimientos anteriores a ese año) y se la suspendieron, a ella o a otra pensión, por tener derecho a otra pensión contributiva. El decreto-ley está en vigor desde el 21 de octubre de 2026; el Congreso (con las Cortes disueltas, su Diputación Permanente) tiene que convalidarlo en 30 días.
+**Si tu pareja falleció antes del 21 de octubre de 2026** y entonces no pudiste cobrar la viudedad, puedes pedirla ahora si al fallecer cumplíais los requisitos nuevos de pareja de hecho y tu pareja tenía la cotización necesaria. El plazo es de **doce meses improrrogables: hasta el 21 de octubre de 2027**, y se cobra desde el primer día del mes siguiente a la solicitud ([Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872), disposición transitoria cuadragésima octava de la ley). En el mismo plazo pueden pedir que se les **vuelva a pagar** la pensión quienes la obtuvieron por la vía excepcional de 2022 (fallecimientos anteriores a ese año) y se la suspendieron, a ella o a otra pensión, por tener derecho a otra pensión contributiva. El decreto-ley está en vigor desde el 21 de octubre de 2026 y ya es definitivo: fue [convalidado por la Diputación Permanente del Congreso el 18 de noviembre de 2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24292).
 
 ## Los requisitos de la pareja de hecho
 
@@ -113,4 +113,4 @@ Sí, en general: la pensión se extingue si te casas o constituyes una nueva par
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 21 de octubre de 2026, el Real Decreto-ley 31/2026 ya está en el BOE: con hijos en común bastan dos años de convivencia, y plazo hasta el 21 de octubre de 2027 para los fallecimientos anteriores. 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre para parejas con hijos en común no inscritas (pendiente del BOE); redacción del aviso. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 20 de noviembre de 2026, decreto-ley convalidado por la Diputación Permanente el 18 de noviembre (BOE del 20). 21 de octubre de 2026, el Real Decreto-ley 31/2026 ya está en el BOE: con hijos en común bastan dos años de convivencia, y plazo hasta el 21 de octubre de 2027 para los fallecimientos anteriores. 20 de octubre de 2026, aviso del real decreto-ley aprobado el 20 de octubre para parejas con hijos en común no inscritas (pendiente del BOE); redacción del aviso. 28 de septiembre de 2026, primera versión.*

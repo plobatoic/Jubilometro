@@ -8,7 +8,7 @@ miga: Elecciones y pensiones
 palabra_clave_principal: elecciones pensiones subida 2027
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-19
+fecha_actualizacion: 2026-11-20
 publicacion: 2026-10-10
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -20,7 +20,7 @@ fuentes_legales:
 
 # Elecciones generales del 29 de noviembre de 2026: qué pasa con tu pensión y con la subida de 2027
 
-*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 20 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -39,7 +39,7 @@ El [Real Decreto 806/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2
 | Del 21 al 26 de octubre | Los partidos presentan sus candidaturas |
 | Desde el 9 de noviembre | Llega a casa la documentación de quien ha pedido el voto por correo |
 | Del 13 al 27 de noviembre | Campaña electoral |
-| Hasta el 19 de noviembre | Último día para pedir el voto por correo |
+| Hasta el 19 de noviembre | Último día para pedir el voto por correo (ya cerrado) |
 | Del 22 al 26 de noviembre | Pensión de noviembre y paga extra, si tu banco adelanta el pago |
 | Hasta el 25 de noviembre | Último día para entregar el voto por correo en Correos |
 | 27 de noviembre (previsto) | El INE publica el IPC adelantado de noviembre: ya se puede calcular la subida de 2027 |
@@ -60,7 +60,7 @@ La ley marca la fórmula, pero cada año hace falta una norma que la aplique y f
 
 ### Qué puede hacer el Gobierno antes y después del 29 de noviembre
 
-- **Hasta las elecciones**, el Gobierno conserva todas sus funciones y puede aprobar un real decreto-ley. Con las Cortes disueltas, lo convalida la **Diputación Permanente** del Congreso ([artículos 78 y 86 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)). Ya ha pasado en esta campaña: el [Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872), de 20 de octubre, cambió la [viudedad de las parejas de hecho](/viudedad/pareja-de-hecho/) con hijos en común, la orfandad y las bajas especiales, y está en vigor desde el 21 de octubre a la espera de esa convalidación.
+- **Hasta las elecciones**, el Gobierno conserva todas sus funciones y puede aprobar un real decreto-ley. Con las Cortes disueltas, lo convalida la **Diputación Permanente** del Congreso ([artículos 78 y 86 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)). Ya ha pasado en esta campaña: el [Real Decreto-ley 31/2026](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-21872), de 20 de octubre, cambió la [viudedad de las parejas de hecho](/viudedad/pareja-de-hecho/) con hijos en común, la orfandad y las bajas especiales, está en vigor desde el 21 de octubre y la Diputación Permanente lo [convalidó el 18 de noviembre](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-24292).
 - **Desde el 29 de noviembre**, el Gobierno queda **en funciones** ([artículo 101 de la Constitución](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229)) hasta que haya uno nuevo. Un Gobierno en funciones se limita al despacho ordinario de los asuntos, salvo en casos de urgencia o de interés general que lo justifiquen ([artículo 21.3 de la Ley 50/1997, del Gobierno](https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336#a21)). No puede presentar proyectos de ley ni los presupuestos.
 
 ### Qué pasó otras veces
@@ -94,9 +94,9 @@ Lo que ya está publicado en el BOE **sigue en vigor**: por ejemplo, las reglas 
 
 ## Cómo votar por correo si no puedes ir al colegio electoral
 
-Si vas a estar fuera, tienes movilidad reducida o vives en una residencia, puedes votar por correo ([Correos](https://www.correos.com/en/sala-prensa/ya-se-puede-solicitar-el-voto-por-correo-para-las-elecciones-generales-del-29-de-noviembre/)):
+**El plazo para pedir el voto por correo terminó el 19 de noviembre.** Si ya lo pediste, te queda entregarlo en Correos hasta el **25 de noviembre**. Así funcionaba ([Correos](https://www.correos.com/en/sala-prensa/ya-se-puede-solicitar-el-voto-por-correo-para-las-elecciones-generales-del-29-de-noviembre/)):
 
-1. **Pídelo hasta el 19 de noviembre**, en cualquier oficina de Correos con tu DNI, pasaporte o carné de conducir originales, o en correos.es con certificado digital o DNI electrónico.
+1. **Se pedía hasta el 19 de noviembre**, en cualquier oficina de Correos con tu DNI, pasaporte o carné de conducir originales, o en correos.es con certificado digital o DNI electrónico.
 2. **Si por enfermedad o discapacidad no puedes ir a pedirlo**, puede hacerlo otra persona con una autorización firmada ante notario o cónsul y un certificado médico oficial.
 3. **Desde el 9 de noviembre** te enviarán las papeletas y los sobres a la dirección que indiques, que puede ser otra distinta de tu domicilio, por ejemplo la de una residencia.
 4. **Entrega el voto en Correos hasta el 25 de noviembre.**
@@ -133,7 +133,7 @@ La proposición de ley decae con la disolución de las Cortes. Para que salga ad
 
 ### ¿Hasta cuándo puedo pedir el voto por correo?
 
-Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tarde el 25 de noviembre.
+El plazo terminó el 19 de noviembre de 2026. Quien lo pidió tiene que entregar el voto en Correos como tarde el 25 de noviembre. Si no lo pediste, tendrás que votar en persona en tu colegio electoral el 29 de noviembre.
 
 ## Fuentes oficiales
 
@@ -157,4 +157,4 @@ Hasta el 19 de noviembre de 2026, y hay que entregar el voto en Correos como tar
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). No recoge opiniones políticas: solo lo que dicen las normas y los organismos oficiales. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 19 de noviembre de 2026, programa de EH Bildu. 17 de noviembre de 2026, los partidos ya han publicado sus programas: enlace a la comparativa y a la guía de cada uno. 13 de noviembre de 2026, estimación de la subida con el IPC definitivo de octubre (3,4 % a 3,6 %; antes 3,3 % a 3,7 %). 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
+*Historial de cambios: 20 de noviembre de 2026, decreto-ley convalidado por la Diputación Permanente el 18 de noviembre (BOE del 20); cerrado el plazo para pedir el voto por correo. 19 de noviembre de 2026, programa de EH Bildu. 17 de noviembre de 2026, los partidos ya han publicado sus programas: enlace a la comparativa y a la guía de cada uno. 13 de noviembre de 2026, estimación de la subida con el IPC definitivo de octubre (3,4 % a 3,6 %; antes 3,3 % a 3,7 %). 24 de octubre de 2026, situación de los programas electorales revisada en las webs oficiales de los partidos. 22 de octubre de 2026, situación de los programas a 22 de octubre y criterios de la comparativa. 21 de octubre de 2026, ejemplo del Real Decreto-ley 31/2026, aprobado con las Cortes disueltas. 10 de octubre de 2026, primera versión.*
