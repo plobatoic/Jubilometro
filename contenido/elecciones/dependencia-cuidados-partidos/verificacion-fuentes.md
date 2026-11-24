@@ -1,6 +1,6 @@
 # Verificación de datos · Qué proponen los partidos sobre la dependencia y los cuidados (29N)
 
-**Lectura de fuentes (19/11/2026):** los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para las elecciones del 29/11/2026, descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía y en la verificación de la comparativa de pensiones). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. Los «no lo menciona» salen de buscar el tema con palabras clave en el programa entero.
+**Lectura de fuentes (24/11/2026):** los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para las elecciones del 29/11/2026, descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía y en la verificación de la comparativa de pensiones). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. Los «no lo menciona» salen de buscar el tema con palabras clave en el programa entero.
 
 | # | Partido | Cita literal | Página del PDF | Estado |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@
 | 16 | Frente Amplio | «Duplicaremos las horas e intensidad mínima de ayuda a domicilio (incluyendo fines de semana en gran dependencia)» | 23 | Verificado en el PDF |
 | 17 | Frente Amplio | «mínimo 1 mes al año con centros de día o estancias temporales financiado al 50 % entre Estado y comunidades autónomas» | 23 | Verificado en el PDF |
 | 18 | Frente Amplio | «el asistente personal o los cuidados en viviendas para que sean alternativa a las residencias» | 23 | Verificado en el PDF |
-| 19 | Frente Amplio | «hospitales, clínicas, residencias, centros de servicios sociales» | 117 | Verificado en el PDF |
+| 19 | Frente Amplio | «hospitales, clínicas, residencias, centros de servicios sociales» | 124 | Verificado en el PDF |
 | 20 | EH Bildu | «Incluir la visión de los cuidados temporales en el sistema de atención a la dependencia» | 12 | Verificado en el PDF |
 | 21 | EH Bildu | «limitando la privatización y el ánimo de lucro en este sector, y avanzando hacia su universalidad y gratuidad» | 12 | Verificado en el PDF |
 | 22 | PNV | «Reforzar los servicios de apoyo, descanso y respiro para las familias cuidadoras» | 33 | Verificado en el PDF |
@@ -47,3 +47,5 @@
 | 41 | PNV | «Revisar la normativa para facilitar la compatibilidad entre prestaciones económicas y servicios de apoyo a los cuidados» | 33 | Verificado en el PDF |
 | 42 | Frente Amplio | «Aprobaremos la Ley de Familias (reconociendo la diversidad familiar), la Ley de Cuidados y de Sostenibilidad de la Vida, y el Pacto de Estado por los Cuidados» | 24 | Verificado en el PDF |
 | 43 | PP | «Aseguraremos el acceso a los cuidados paliativos para que ninguna persona se quede sin la atención y el acompañamiento que necesita hasta el último momento» | 70 | Verificado en el PDF |
+
+**24/11/2026 · PDF nuevo de Frente Amplio:** el 23/11/2026 el partido colgó en la misma dirección una versión de 158 páginas (antes 151), con 7 páginas nuevas después de la 42. Todas las citas siguen igual; las páginas a partir de la 43 suben 7. Comprobado de nuevo cita a cita.

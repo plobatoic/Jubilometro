@@ -99,7 +99,7 @@ P['frente-amplio'] = dict(
     h1='Qué propone Frente Amplio sobre las pensiones en su programa para las elecciones del 29N',
     meta='Lo que dice el programa oficial de Frente Amplio para el 29N sobre pensiones: jubilación a los 65, mínima igual al SMI y anticipada sin recorte, con su cita.',
     clave='programa Frente Amplio pensiones', miga='Programa de Frente Amplio',
-    doc='programa electoral completo', paginas=151, url_pdf='https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf',
+    doc='programa electoral completo', paginas=158, url_pdf='https://frenteamplio.info/pdf/ProgramaFrenteAmplio.pdf',
     web='frenteamplio.info', fecha_doc='16 de noviembre de 2026', idioma='',
     resumen=[
         '**Volver a la jubilación a los 65 años**, y a los 60 en algunos oficios penosos.',

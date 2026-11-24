@@ -8,7 +8,7 @@ miga: Dependencia en los programas
 palabra_clave_principal: dependencia programas electorales
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-19
+fecha_actualizacion: 2026-11-24
 publicacion: 2026-11-19
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Qué proponen los partidos sobre la dependencia y los cuidados en las elecciones del 29 de noviembre de 2026
 
-*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
+*Actualizado el 24 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
 
 > **Respuesta rápida**
 >
@@ -70,7 +70,7 @@ Cómo funciona hoy la dependencia lo explicamos en [la ley de dependencia](/depe
 - **PP**: «fortaleceremos los servicios públicos y los cuidados de proximidad a quienes viven lejos de las grandes ciudades mediante atención móvil, centros comarcales, transporte a demanda» (medida 99, página 40), y «modernizaremos el IMSERSO y facilitaremos que los mayores puedan elegir cómo y dónde vivir y recibir cuidados» (medida 110, página 43).
 - **PSOE**: «Consolidar el Servicio de Ayuda a Domicilio como servicio público esencial del sistema de dependencia» (medida 206, página 57) y «Ampliar los servicios de asistencia personal, centros de día y programas de respiro familiar» (medida 208, página 58). A partir de los 80 años, «una visita periódica a domicilio de enfermería o trabajo social para detectar a tiempo la fragilidad y la soledad» (medida 214, página 58).
 - **Vox**: «Aumento de los programas de atención a la soledad no deseada y de las plazas en residencias» (medida 95, página 52).
-- **Frente Amplio**: «Duplicaremos las horas e intensidad mínima de ayuda a domicilio (incluyendo fines de semana en gran dependencia)» y un derecho al respiro de «mínimo 1 mes al año con centros de día o estancias temporales financiado al 50 % entre Estado y comunidades autónomas» (página 23). También «el asistente personal o los cuidados en viviendas para que sean alternativa a las residencias» (página 23), y que el capital riesgo no pueda comprar «hospitales, clínicas, residencias, centros de servicios sociales» (página 117).
+- **Frente Amplio**: «Duplicaremos las horas e intensidad mínima de ayuda a domicilio (incluyendo fines de semana en gran dependencia)» y un derecho al respiro de «mínimo 1 mes al año con centros de día o estancias temporales financiado al 50 % entre Estado y comunidades autónomas» (página 23). También «el asistente personal o los cuidados en viviendas para que sean alternativa a las residencias» (página 23), y que el capital riesgo no pueda comprar «hospitales, clínicas, residencias, centros de servicios sociales» (página 124).
 - **EH Bildu**: «Incluir la visión de los cuidados temporales en el sistema de atención a la dependencia», «limitando la privatización y el ánimo de lucro en este sector, y avanzando hacia su universalidad y gratuidad» (página 12).
 - **PNV**: «Reforzar los servicios de apoyo, descanso y respiro para las familias cuidadoras» (apartado 4.3, medida 03) y «un Fondo Personal para Cuidados en la Comunidad, que permita combinar prestaciones, servicios y apoyos» (apartado 4.3, medida 04) (página 33).
 - **ERC**: no lo menciona.
@@ -133,4 +133,4 @@ Los siete programas, con su enlace al PDF, están en «Fuentes oficiales» de [q
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dicen los programas oficiales de cada partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 19 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV.*
+*Historial de cambios: 24 de noviembre de 2026, páginas de Frente Amplio ajustadas a la versión nueva de su programa (23 de noviembre; el texto no cambia). 19 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV.*

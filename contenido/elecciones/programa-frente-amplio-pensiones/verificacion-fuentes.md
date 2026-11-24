@@ -4,18 +4,20 @@
 
 | # | Cita literal | Fuente primaria | Página del PDF | Estado |
 |---|---|---|---|---|
-| 1 | «Pensiones públicas dignas» | Programa oficial de Frente Amplio | 4, 57 | Verificado en el PDF |
-| 2 | «Salarios y pensiones dignos y precios asequibles» | Programa oficial de Frente Amplio | 4, 50, 52, 54, 56, 58 | Verificado en el PDF |
-| 3 | «el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas» | Programa oficial de Frente Amplio | 57-58 | Verificado en el PDF |
-| 4 | «Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |
-| 5 | «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |
+| 1 | «Pensiones públicas dignas» | Programa oficial de Frente Amplio | 4, 64 | Verificado en el PDF |
+| 2 | «Salarios y pensiones dignos y precios asequibles» | Programa oficial de Frente Amplio | 4, 57, 59, 61, 63, 65 | Verificado en el PDF |
+| 3 | «el derecho a la pensión pública y su revalorización automática con arreglo al IPC, que ninguna sea inferior al SMI y que no se privatice la gestión de las pensiones públicas» | Programa oficial de Frente Amplio | 64-65 | Verificado en el PDF |
+| 4 | «Devolveremos la edad de jubilación a los 65 años, que nos fue arrebatada sin diálogo ni justificación en la reforma realizada en 2011» | Programa oficial de Frente Amplio | 65 | Verificado en el PDF |
+| 5 | «por su especial esfuerzo físico y el elevado riesgo de siniestralidad» | Programa oficial de Frente Amplio | 65 | Verificado en el PDF |
 | 6 | «equiparando pensiones mínimas y no contributivas al umbral de la pobreza» | Programa oficial de Frente Amplio | 24 | Verificado en el PDF |
-| 7 | «por encima de la media» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |
-| 8 | «Eliminaremos los coeficientes reductores en las jubilaciones anticipadas de quienes han cotizado más de 40 años y tienen que acogerse a la misma de manera involuntaria» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |
-| 9 | «Continuaremos elevando progresivamente el tope máximo de cotización y reforzaremos el mecanismo de equidad intergeneracional con una aportación adicional de las empresas más automatizadas» | Programa oficial de Frente Amplio | 58 | Verificado en el PDF |
-| 10 | «de inmediato» | Programa oficial de Frente Amplio | 12, 13, 21, 58, 82, 92, 105 | Verificado en el PDF |
-| 11 | «las deducciones por planes de pensiones privados individuales» | Programa oficial de Frente Amplio | 46 | Verificado en el PDF |
+| 7 | «por encima de la media» | Programa oficial de Frente Amplio | 65 | Verificado en el PDF |
+| 8 | «Eliminaremos los coeficientes reductores en las jubilaciones anticipadas de quienes han cotizado más de 40 años y tienen que acogerse a la misma de manera involuntaria» | Programa oficial de Frente Amplio | 65 | Verificado en el PDF |
+| 9 | «Continuaremos elevando progresivamente el tope máximo de cotización y reforzaremos el mecanismo de equidad intergeneracional con una aportación adicional de las empresas más automatizadas» | Programa oficial de Frente Amplio | 65 | Verificado en el PDF |
+| 10 | «de inmediato» | Programa oficial de Frente Amplio | 12, 13, 21, 65, 89, 99, 112 | Verificado en el PDF |
+| 11 | «las deducciones por planes de pensiones privados individuales» | Programa oficial de Frente Amplio | 53 | Verificado en el PDF |
 | 12 | «del 0,8 % al 1,7 % del PIB en 2030» | Programa oficial de Frente Amplio | 23 | Verificado en el PDF |
 | 13 | «derecho al respiro» | Programa oficial de Frente Amplio | 23 | Verificado en el PDF |
 
 **19/11/2026 · SMI de 2027:** 1.286 €/mes en 14 pagas (art. 1 del Real Decreto 1013/2026, BOE-A-2026-24189, BOE de 19/11/2026; en vigor el 1/1/2027). Leído en el texto del BOE. Verificado en BOE.
+
+**24/11/2026 · PDF nuevo de Frente Amplio:** el 23/11/2026 el partido colgó en la misma dirección una versión de 158 páginas (antes 151), con 7 páginas nuevas después de la 42. Todas las citas siguen igual; las páginas a partir de la 43 suben 7. Comprobado de nuevo cita a cita.

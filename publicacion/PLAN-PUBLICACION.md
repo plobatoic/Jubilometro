@@ -549,6 +549,10 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### PDF nuevo de Frente Amplio (24/11/2026)
+
+Frente Amplio colgó el 23/11 en la misma dirección una versión de 158 páginas (antes 151), con 7 páginas nuevas después de la 42. Comprobadas otra vez todas las citas con `genera_verif.py` y `verif_tema.py` (que avisa si la página no coincide): el texto no cambia; las páginas a partir de la 43 suben 7. Corregidas la guía de Frente Amplio, la comparativa y las guías de dependencia, personas mayores, impuestos y paro y bajas. El PDF de referencia es ahora el nuevo (carpeta v3 del scratchpad).
+
 ### Elecciones: los demás temas de los programas (19/11/2026, temas 2.11.42 y 2.11.43)
 
 Petición del titular: «publicar en la web todas las cosas que los programas de los partidos dicen para las elecciones, todas las cosas de interés para mi web», y un apartado en la portada. Se ha hecho por temas (no por partido), para no llenar la web de páginas sueltas y que cada guía compare a los siete partidos:

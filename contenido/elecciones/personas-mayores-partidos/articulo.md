@@ -8,7 +8,7 @@ miga: Mayores en los programas
 palabra_clave_principal: programas electorales personas mayores
 intencion: informativa
 fase_plan: Actualidad (elecciones generales de 2026)
-fecha_actualizacion: 2026-11-19
+fecha_actualizacion: 2026-11-24
 publicacion: 2026-11-19
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Qué proponen los partidos para las personas mayores en las elecciones del 29 de noviembre de 2026: soledad, trámites y bancos
 
-*Actualizado el 19 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
+*Actualizado el 24 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Solo con los programas oficiales de cada partido*
 
 > **Respuesta rápida**
 >
@@ -53,7 +53,7 @@ Mientras tanto, cómo hacer hoy los trámites de la Seguridad Social sin certifi
 ## Bancos, efectivo y estafas
 
 - **PSOE**: una autoridad para reclamar a bancos y aseguradoras que garantiza «la inclusión financiera a través de la atención personalizada, especialmente a personas mayores, personas con discapacidad y colectivos vulnerables que deseen presentar reclamaciones» (medida 97, página 39). Y «un servicio estatal de atención a las víctimas de ciberestafas, ampliando la responsabilidad de bancos y operadoras en su prevención y reembolso» (medida 426, página 99).
-- **Frente Amplio**: «Garantizaremos atención presencial, servicios mínimos territoriales evitando las zonas sin cobertura y responsabilidad legal de la banca en la prevención y reparación de fraudes digitales» (página 117), «una cuenta de pago básica gratuita para personas vulnerables» (página 22) y un banco público en la red de Correos para que los servicios bancarios lleguen a toda España (página 85).
+- **Frente Amplio**: «Garantizaremos atención presencial, servicios mínimos territoriales evitando las zonas sin cobertura y responsabilidad legal de la banca en la prevención y reparación de fraudes digitales» (página 124), «una cuenta de pago básica gratuita para personas vulnerables» (página 22) y un banco público en la red de Correos para que los servicios bancarios lleguen a toda España (página 92).
 - **ERC**: un servicio bancario universal con el que «cal garantir l’accés a efectiu i a atenció presencial en cada municipi per sobre d’un llindar» (hay que garantizar el acceso al efectivo y a la atención presencial en cada municipio por encima de un número de habitantes) (medida 80, página 22).
 - **PP**: en la justicia, «especial atención a las estafas digitales» (página 21).
 - **Vox, EH Bildu y PNV**: no lo mencionan.
@@ -96,4 +96,4 @@ Los siete programas, con su enlace al PDF, están en «Fuentes oficiales» de [q
 
 *Este artículo es informativo. No recoge opiniones políticas ni recomienda el voto: solo lo que dicen los programas oficiales de cada partido, con su página. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 19 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV.*
+*Historial de cambios: 24 de noviembre de 2026, páginas de Frente Amplio ajustadas a la versión nueva de su programa (23 de noviembre; el texto no cambia). 19 de noviembre de 2026, primera versión, con los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV.*

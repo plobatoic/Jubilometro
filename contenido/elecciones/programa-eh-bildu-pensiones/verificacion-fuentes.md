@@ -1,6 +1,6 @@
 # Verificación de datos · Programa de EH Bildu para el 29N y pensiones
 
-**Lectura de fuentes (19/11/2026):** programa oficial descargado de la web del partido (https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-CAS.pdf). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext) y la página es la del PDF. Las cifras de contexto (subida de 2027, edad de jubilación, pensión mínima, salario mínimo) vienen de las guías de Jubilómetro ya verificadas en el BOE. Los temas marcados «no lo menciona» se han buscado en el documento entero con palabras clave (edad de jubilación, 65 y 67 años, mínimas, no contributivas, anticipada, cotización máxima, equidad intergeneracional, planes de pensiones, IRPF, viudedad, orfandad).
+**Lectura de fuentes (17/11/2026):** programa oficial descargado de la web del partido (https://posibleegin.ehbildu.eus/wp-content/uploads/2026/11/PROGRAMA-CAS.pdf). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext) y la página es la del PDF. Las cifras de contexto (subida de 2027, edad de jubilación, pensión mínima, salario mínimo) vienen de las guías de Jubilómetro ya verificadas en el BOE. Los temas marcados «no lo menciona» se han buscado en el documento entero con palabras clave (edad de jubilación, 65 y 67 años, mínimas, no contributivas, anticipada, cotización máxima, equidad intergeneracional, planes de pensiones, IRPF, viudedad, orfandad).
 
 | # | Cita literal | Fuente primaria | Página del PDF | Estado |
 |---|---|---|---|---|
@@ -18,5 +18,3 @@
 | 12 | «la retroactividad de las prestaciones económicas por la dependencia desde la fecha de solicitud» | Programa oficial de EH Bildu | 12 | Verificado en el PDF |
 | 13 | «con el objetivo de excluir el copago relativo a los cuidados personales» | Programa oficial de EH Bildu | 12 | Verificado en el PDF |
 | 14 | «con cambios coordinados con la Seguridad Social en lo que respecta a bonificaciones, pensiones y permisos retribuidos» | Programa oficial de EH Bildu | 12 | Verificado en el PDF |
-
-**Documento:** «Programa. Garantía y derechos», PDF en castellano de 30 páginas enlazado como «Descargar Programa» en https://posibleegin.ehbildu.eus/es/programa/ (web de campaña enlazada desde ehbildu.eus), creado el 16/11/2026. Hay versión en euskera (PROGRAMA-EUS.pdf). Temas buscados en todo el documento sin resultado: IRPF, planes de pensiones, orfandad, cotización máxima o bases máximas, Mecanismo de Equidad Intergeneracional, Pacto de Toledo, 65 y 67 años.

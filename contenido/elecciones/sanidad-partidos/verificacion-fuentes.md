@@ -1,6 +1,6 @@
 # Verificación de datos · Qué proponen los partidos sobre la sanidad (29N)
 
-**Lectura de fuentes (19/11/2026):** los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para las elecciones del 29/11/2026, descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía y en la verificación de la comparativa de pensiones). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. Los «no lo menciona» salen de buscar el tema con palabras clave en el programa entero.
+**Lectura de fuentes (24/11/2026):** los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para las elecciones del 29/11/2026, descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía y en la verificación de la comparativa de pensiones). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. Los «no lo menciona» salen de buscar el tema con palabras clave en el programa entero.
 
 | # | Partido | Cita literal | Página del PDF | Estado |
 |---|---|---|---|---|

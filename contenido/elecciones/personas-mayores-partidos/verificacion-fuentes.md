@@ -1,6 +1,6 @@
 # Verificación de datos · Qué proponen los partidos para las personas mayores (29N)
 
-**Lectura de fuentes (19/11/2026):** los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para las elecciones del 29/11/2026, descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía y en la verificación de la comparativa de pensiones). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. Los «no lo menciona» salen de buscar el tema con palabras clave en el programa entero.
+**Lectura de fuentes (24/11/2026):** los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para las elecciones del 29/11/2026, descargados de la web de cada partido (enlaces en «Fuentes oficiales» de la guía y en la verificación de la comparativa de pensiones). Cada cita se ha buscado de forma automática en el texto del PDF (pdftotext); la página es la del PDF. Los «no lo menciona» salen de buscar el tema con palabras clave en el programa entero.
 
 | # | Partido | Cita literal | Página del PDF | Estado |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@
 | 6 | EH Bildu | «mientras la brecha digital sea una realidad, se deberán establecer obligatoriamente canales presenciales ágiles que permitan realizar cualquier trámite en tiempo y forma» | 12 | Verificado en el PDF |
 | 7 | PSOE | «la inclusión financiera a través de la atención personalizada, especialmente a personas mayores, personas con discapacidad y colectivos vulnerables que deseen presentar reclamaciones» | 39 | Verificado en el PDF |
 | 8 | PSOE | «un servicio estatal de atención a las víctimas de ciberestafas, ampliando la responsabilidad de bancos y operadoras en su prevención y reembolso» | 99 | Verificado en el PDF |
-| 9 | Frente Amplio | «Garantizaremos atención presencial, servicios mínimos territoriales evitando las zonas sin cobertura y responsabilidad legal de la banca en la prevención y reparación de fraudes digitales» | 117 | Verificado en el PDF |
+| 9 | Frente Amplio | «Garantizaremos atención presencial, servicios mínimos territoriales evitando las zonas sin cobertura y responsabilidad legal de la banca en la prevención y reparación de fraudes digitales» | 124 | Verificado en el PDF |
 | 10 | Frente Amplio | «una cuenta de pago básica gratuita para personas vulnerables» | 22 | Verificado en el PDF |
 | 11 | ERC | «cal garantir l’accés a efectiu i a atenció presencial en cada municipi per sobre d’un llindar» | 22 | Verificado en el PDF |
 | 12 | PP | «especial atención a las estafas digitales» | 21 | Verificado en el PDF |
@@ -26,3 +26,5 @@
 | 20 | Frente Amplio | «el aislamiento, la violencia y la exclusión social, con especial atención a jóvenes y personas mayores» | 26 | Verificado en el PDF |
 | 21 | PSOE | «Reforzar la atención especializada a las víctimas con discapacidad y a las mujeres mayores de 65 años» | 83 | Verificado en el PDF |
 | 22 | PSOE | «formación y acompañamiento para mujeres mayores, rurales o en situación de vulnerabilidad» | 79 | Verificado en el PDF |
+
+**24/11/2026 · PDF nuevo de Frente Amplio:** el 23/11/2026 el partido colgó en la misma dirección una versión de 158 páginas (antes 151), con 7 páginas nuevas después de la 42. Todas las citas siguen igual; las páginas a partir de la 43 suben 7. Comprobado de nuevo cita a cita.
