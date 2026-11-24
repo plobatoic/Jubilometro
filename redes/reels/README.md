@@ -185,6 +185,32 @@ Rosa (o Luis) presenta a cámara, abajo a la derecha, con la **boca sincronizada
 - Voz: `node herramientas/reels/voz.mjs <carpeta>` (Piper 1c). Ningún clip de vídeo se repite entre reels.
 - Si el ejemplo del guion es Luis, presenta Rosa, y al revés.
 
+## Lo que funciona (datos del 16 al 24/11/2026, Metricool)
+
+Alcance en Instagram y reproducciones en Facebook de cada reel publicado entre el 16 y el 24/11.
+
+| Reel | Formato | IG: alcance · visionado medio | FB: reproducciones |
+|---|---|---|---|
+| R4 Tres cifras de 2027 (67, 37, 38½) | Antiguo | **751** · 15,5 s | 290 |
+| 11 Jubilación parcial | Muñecos | **387** · 12,8 s | 427 |
+| 13 Convenio especial | Muñecos | 247 · **17,0 s** | 100 |
+| 16 Pensión bruta y neta | Muñecos | 187 · 12,3 s | 208 |
+| R6 Jubilación demorada | Antiguo | 146 · 10,2 s | 200 |
+| 10 Bono social | Muñecos | 123 · 5,0 s | 28 |
+| 14 Lagunas | Muñecos | 118 · 6,9 s | 73 |
+| 12 Jubilación flexible | Muñecos | 114 · 7,0 s | **467** |
+| R5 Subsidio de 52 | Antiguo | 113 · 7,9 s | 364 |
+| E2 Paga extra | Muñecos | 106 · 4,7 s | 42 |
+| Avances de guías (baja, SMS 017, teleasistencia, Tarjeta Dorada) | Vídeo corto | 6 a 88 · 3 s | 1 a 3 |
+
+- **Manda el tema, no el formato.** Muñecos (media de 183 de alcance en IG) y formato antiguo (130 sin contar R4) rinden parecido. Ganan las reglas concretas para quien está a punto de jubilarse, con una cifra: las tres cifras de 2027, la parcial, la flexible, el subsidio de 52 y el convenio especial.
+- **Los avances de guías no funcionan como reel.** Media de 36 personas en Instagram y casi nadie en Facebook. Mejor como carrusel o post de texto.
+- **La hora no marca diferencia todavía.** En Facebook, los reels de las 19:43 (media de 217) y los del mediodía (224) van igual. En Instagram, casi todos los reels salieron a las 12:14, así que aún no se puede comparar.
+- **Se pierde a la gente en los 5 primeros segundos.** El visionado medio está entre 5 y 17 s en reels de 30 a 40 s, y entre el 40 % y el 80 % pasa de largo antes de los 3 s. El gancho tiene que ser la pregunta y la cifra a la vez.
+- **Casi nadie comparte ni guarda** (0 compartidos y de 0 a 4 guardados por reel). El «guárdatelo» final no basta: hay que dar un motivo («para cuando te toque pedirla»).
+- **Seguidores de Instagram:** de 5 a 9 en la semana (8 el 23/11).
+- **YouTube:** Metricool no devuelve datos de los Shorts. Hay que mirarlos en YouTube Studio.
+
 ## Lo que funciona (datos del 1 al 15/11/2026)
 
 - **Cifra en euros en el gancho.** El reel «Jubilarte 2 años antes te puede costar 60.000 €» llegó a 112 personas en Instagram y tuvo 419 reproducciones en Facebook, entre 4 y 80 veces más que los demás. Los temas sin cifra en el gancho (auxilio, SOVI) apenas llegaron a nadie.

@@ -1,6 +1,8 @@
 # Reels del 23/11 al 22/12/2026
 
 > **Calendario vigente: `../publicar/CALENDARIO.md`.**
+>
+> **24/11:** los reels nuevos van en formato presentador (Rosa o Luis sobre vídeo real, voz Piper «1c» con `herramientas/reels/voz.mjs`). Hechos así: 15 complemento a mínimos (`nuevos/15-complemento-a-minimos`, sale el 23/12) y 17 60.000 € (`base/01-sesenta-mil`, sale el 27/12 en IG y FB y el 26/12 en YouTube). Hoja de publicación: `../publicar/2026-12-23_27-reels-15-17.md`.
 
 **Formato:** solo reels nuevos con muñecos 3D (Rosa y Luis) hechos con código, con la voz «Chris» (`iP95p4xoKVk53GoZ742B`, la de los primeros reels: más humana) y la etiqueta de IA activada. Los reels ya hechos con «Eric» se quedan como están.
 

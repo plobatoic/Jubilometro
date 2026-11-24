@@ -6,7 +6,7 @@ const GUARDAR = `<svg viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width
 // Rosa como presentadora: plano medio abajo a la derecha, sobre el vídeo
 const cam = (dx = 0) => ({ desde: { pos: [-0.55 + dx, 2.55, 11.2], mira: [-0.6 + dx, 4.25, 0] }, hasta: { pos: [-0.5 + dx, 2.55, 10.4], mira: [-0.55 + dx, 4.2, 0] } });
 const rosa = (pose, cara, acciones = []) => ({ rosa: { pos: [0.55, 0], giro: -14, pose, cara, habla: true, acciones } });
-const LOWER = `<div style="position:absolute;left:40px;bottom:150px;background:rgba(19,33,59,.88);border-left:10px solid #f5b83d;padding:14px 26px;border-radius:14px;font-size:34px;font-weight:800;color:#fff" data-a="sube">Rosa · <span style="font-weight:600;opacity:.85">Jubilómetro</span></div>`;
+const LOWER = `<div style="position:absolute;left:40px;bottom:330px;background:rgba(19,33,59,.88);border-left:10px solid #f5b83d;padding:14px 26px;border-radius:14px;font-size:34px;font-weight:800;color:#fff" data-a="sube">Rosa · <span style="font-weight:600;opacity:.85">Jubilómetro</span></div>`;
 
 export default {
   tema: "Jubilación anticipada",
@@ -32,7 +32,7 @@ Guárdatelo antes de pedir la jubilación.`,
         <div class="kicker" data-a="fijo">Jubilarte 2 años antes</div>
         <div class="gigante relieve rojo" data-a="golpe3d" style="font-size:190px">−60.000 €</div>${LOWER}`,
     },
-    { en: "Pongamos que Luis", clase: "arriba", transicion: "latigo", fondo: { clip: "pixabay:59139", desde: 2, x: 0.5 },
+    { en: "Pongamos que Luis", clase: "arriba", transicion: "latigo", fondo: { clip: "pixabay:138317", desde: 2, x: 0.5 },
       animacion: { set: "presentador", camara: cam(0.1), actores: rosa("piensa", "neutra", [{ en: "Le recortan", pose: "senala", cara: "preocupada" }]) },
       html: `
         <div class="kicker">Ejemplo · Luis se jubila a los 63</div>

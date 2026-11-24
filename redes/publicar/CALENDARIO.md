@@ -31,7 +31,7 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 
 ## Reels de Instagram y Facebook
 
-🧸 = muñecos 3D · M = sale solo desde Metricool.
+🧸 = muñecos 3D · 🎙️ = formato presentador (Rosa o Luis sobre vídeo real, desde el 24/11) · M = sale solo desde Metricool.
 
 | Día | Reel |
 |---|---|
@@ -55,7 +55,9 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 | Jue 17/12 | SMS 017 |
 | Dom 20/12 | Teleasistencia |
 | Mar 22/12 | Vender la casa |
-| Desde el 23/12 | 🧸 15 complemento a mínimos y 🧸 17 60.000 € v2 (cuando tengan voz), y los nuevos de muñecos |
+| Mié 23/12 | 🎙️ 15 complemento a mínimos (Rosa presenta) |
+| Dom 27/12 | 🎙️ 17 60.000 € (Rosa presenta) |
+| Desde el 29/12 | Los nuevos con Rosa o Luis presentando |
 
 ## Shorts de YouTube (17:00)
 
@@ -71,10 +73,12 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 | Mié 9, vie 11 y dom 13/12 | M · Tarjeta Dorada, R5 y vender la casa |
 | Mié 16/12 | 🧸 R8 |
 | Vie 18/12 | 🧸 R9 |
+| Mié 23/12 | 🎙️ 15 complemento a mínimos |
+| Sáb 26/12 | 🎙️ 17 60.000 € |
 
 ## Por qué
 
 - **Frecuencia.** En Instagram, 3 a 5 reels a la semana: con más, cada reel rinde menos (Buffer, Dash Social, Kontentino). En YouTube, 2 a 4 Shorts a la semana (Metricool, 800.000 vídeos; vidIQ recomienda 3 o más). En Facebook, 1 o 2 publicaciones al día. En X, como mínimo 1 al día.
 - **Hora.** Los reels de Instagram y Facebook funcionan mejor por la tarde-noche (de 18:00 a 21:00), y en España el pico es de 19:00 a 22:00. Los posts de texto de Facebook y X van mejor por la mañana (de 9:00 a 11:00). Los Shorts, el viernes de 16:00 a 19:00 (Buffer, 1,8 M de vídeos).
 - **Nuestros datos.** El reel de los 60.000 € salió a las 20:43 y es el que más ha llegado: 419 reproducciones en Facebook.
-- El 24/11 se revisa con los datos de la cuenta.
+- **Revisión del 24/11** (datos del 16 al 24/11, detalle en `../reels/README.md`): manda el tema, no el formato ni la hora. Los avances cortos de guías (SMS 017, teleasistencia, baja, Tarjeta Dorada) apenas llegan a nadie como reel: mejor como carrusel o post. Las horas se mantienen hasta tener más datos de Instagram por la tarde.
