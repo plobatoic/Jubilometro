@@ -48,12 +48,14 @@ export function tokenizar(guion) {
   const palabras = [];
   // Las indicaciones de entonación de ElevenLabs v4 ([warmly], [curious]…) no se dicen: fuera de los subtítulos.
   guion = guion.replace(/(^|[^\[])\[[^\[\]|]+\](?!\])\s*/g, "$1");
-  const protegido = guion.replace(MARCA, (_, cifra, dicho) => `[[${cifra}|${dicho.replace(/\s+/g, "_")}]]`);
+  // Los espacios dentro de la marca (también en la parte visible, p. ej. «15 %») no deben partir la palabra:
+  // en la parte visible se guardan como \u0007 (se vuelve espacio al mostrarla) y en la parte dicha como «_».
+  const protegido = guion.replace(MARCA, (_, cifra, dicho) => `[[${cifra.replace(/\s+/g, "\u0007")}|${dicho.replace(/\s+/g, "_")}]]`);
   const parrafos = protegido.trim().split(/\n\s*\n/);
   parrafos.forEach((par) => {
     const trozos = par.trim().split(/\s+/);
     trozos.forEach((t, i) => {
-      const texto = t.replace(MARCA, (_, cifra) => cifra);
+      const texto = t.replace(MARCA, (_, cifra) => cifra).replace(/\u0007/g, " ");
       const dicho = t.replace(MARCA, (_, cifra, d) => d.replace(/_/g, " "));
       let pausa = 0;
       if (/(\.\.\.|…)$/.test(texto)) pausa = 2;

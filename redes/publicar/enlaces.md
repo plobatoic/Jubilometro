@@ -17,7 +17,7 @@ Subidos el 14/11/2026 a la biblioteca de Orshot. Sirven para descargarlos y prog
 | 13 · convenio especial | https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_13_convenio-1CCNEVhZ0be.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-13jpg-Q2LMyI6i09h.jpg |
 
 ## Reels de partidos (19/11, vídeo real y voz Piper 1c)
-- 1-eh-bildu: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-1-eh-bildu-v2mp4-ZiQFEW1Nuzs.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-1jpg-mumcl0L2bSV.jpg
+- 1-eh-bildu: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-1-eh-bildu-v3mp4-cTNhv6gXEDy.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-1jpg-mumcl0L2bSV.jpg
 - 2-erc: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-2-erc-v2mp4-0GSkXwuUoLn.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-2jpg-RDX046ce3wv.jpg
 - 3-frente-amplio: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-3-frente-ampliomp4-6gdvi0rrtQ1.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-3jpg-uWEextWBJYG.jpg
 - 4-pnv: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-4-pnv-v2mp4-X1apHCcDHnn.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-4jpg-a7YP4bGijn2.jpg
