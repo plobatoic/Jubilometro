@@ -13,7 +13,7 @@
   },
   "/ayudas/complemento-alquiler/": {
     "id": 175,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/ayudas/descuentos-transporte/": {
     "id": 177,
@@ -253,7 +253,7 @@
   },
   "/dinero/irpf-pensiones/": {
     "id": 188,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/dinero/pension-extranjero/": {
     "id": 586,
@@ -441,7 +441,7 @@
   },
   "/jubilacion/despido-a-los-60/": {
     "id": 301,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/jubilacion/docentes/": {
     "id": 770,

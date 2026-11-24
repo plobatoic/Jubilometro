@@ -2,7 +2,7 @@
 
 La pensión de jubilación, la de viudedad y la de incapacidad total tributan en el IRPF como un sueldo: son rendimientos del trabajo. La Seguridad Social te retiene cada mes una parte según lo que cobras y tu situación personal, y lo que llega al banco es la pensión neta, que puedes calcular con la [calculadora de pensión neta](/calculadoras/pension-neta-irpf/). La incapacidad permanente absoluta, la gran incapacidad y las ayudas de dependencia, en cambio, no tributan.
 
-- **La retención**: si te retienen de más o de menos, puedes cambiarla comunicando tu situación familiar o pidiendo un tipo voluntario, como explicamos en [retención de IRPF en la pensión](/dinero/irpf-pensiones/).
+- **La retención**: si te retienen de más o de menos, puedes cambiarla comunicando tu situación familiar o pidiendo un tipo voluntario, como explicamos en [retención de IRPF en la pensión](/cuanto-cobrare/pension-bruta-y-neta/#como-cambiar-la-retencion-de-tu-pension).
 - **La declaración**: si solo cobras tu pensión de un único pagador, no estás obligado a declarar por debajo de **22.000 euros** al año; con dos pagadores, si el segundo te paga más de 1.500 euros, el límite baja a **15.876 euros**. Todos los casos, en [la renta de los jubilados](/dinero/declaracion-renta-jubilados/).
 - **Si vives fuera**: puedes seguir cobrando la pensión en otro país, pero cambian los impuestos y pierdes lo que exige vivir en España, como el complemento a mínimos. Lo vemos en [cobrar la pensión viviendo en el extranjero](/dinero/pension-extranjero/).
 

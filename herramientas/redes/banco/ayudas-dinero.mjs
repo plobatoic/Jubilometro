@@ -35,13 +35,13 @@ En 2026 es de hasta 628,80 euros al mes en 14 pagas, y como mínimo de 157,20. S
 Hay que vivir en España desde hace cinco años y no superar un límite de ingresos. Es compatible con un trabajo, con ciertos límites, y a los 65 años pasa a ser de jubilación. Se pide en los servicios sociales de tu comunidad. ${FB_WEB}`,
   },
   {
-    id: 'alquiler-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/ayudas/complemento-alquiler/',
+    id: 'alquiler-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/ayudas/pension-no-contributiva/',
     texto: `Si cobras una pensión no contributiva y vives de alquiler, puedes pedir un complemento de 525 € al año (2026). Tienes que ser el titular del contrato, no tener casa en propiedad y que el casero no sea familiar tuyo.
 
 ${L('alquiler', 'x')}`,
   },
   {
-    id: 'alquiler-fb', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/ayudas/complemento-alquiler/',
+    id: 'alquiler-fb', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/ayudas/pension-no-contributiva/',
     texto: `Una ayuda que se queda sin pedir muchos años: el complemento de alquiler de la pensión no contributiva. Son 525 euros al año en 2026, en un solo pago.
 
 Lo puedes cobrar si tienes una pensión no contributiva de jubilación o de invalidez, no tienes vivienda en propiedad y vives de alquiler como titular del contrato. El casero no puede ser tu cónyuge, tu pareja ni un familiar hasta el tercer grado.
@@ -182,7 +182,7 @@ Si tienes dos o más pagadores y el segundo te paga más de 1.500 euros al año 
 Aunque no estés obligado, a veces conviene presentarla: si te han retenido de más, Hacienda te lo devuelve. ${FB_WEB}`,
   },
   {
-    id: 'retencion-x', red: 'x', pilar: 'Trámites sin líos', fuente: '/dinero/irpf-pensiones/',
+    id: 'retencion-x', red: 'x', pilar: 'Trámites sin líos', fuente: '/cuanto-cobrare/pension-bruta-y-neta/',
     texto: `¿Te sale a pagar la renta cada año? Puedes pedir a la Seguridad Social una retención de IRPF más alta en tu pensión, desde la sede o en una oficina. Y si te casas, enviudas o te reconocen una discapacidad, comunícalo para que la ajusten.
 
 ${L('retencion', 'x')}`,

@@ -3,7 +3,7 @@
 Además de la pensión, las personas mayores con pocos ingresos tienen a su alcance varias ayudas públicas. Unas las paga el Estado, como la pensión no contributiva, el ingreso mínimo vital o el bono social de la luz; otras dependen de tu comunidad autónoma o de tu ayuntamiento. Estas son las principales, con enlace a la guía de cada una:
 
 - **Si no tienes pensión o es muy baja**: la [pensión no contributiva](/ayudas/pension-no-contributiva/), la de [invalidez no contributiva](/ayudas/pnc-invalidez/) y el [ingreso mínimo vital](/ayudas/ingreso-minimo-vital-mayores/).
-- **Si pagas alquiler**: el [complemento de alquiler](/ayudas/complemento-alquiler/) para pensionistas no contributivos.
+- **Si pagas alquiler**: el [complemento de alquiler](/ayudas/pension-no-contributiva/#el-complemento-de-alquiler-525-euros-al-ano) para pensionistas no contributivos.
 - **Para gastar menos**: el [bono social eléctrico](/ayudas/bono-social-electrico/) y los [descuentos en transporte](/ayudas/descuentos-transporte/).
 - **Para tu casa**: las [ayudas para adaptar la vivienda](/ayudas/ayudas-vivienda/) de una persona mayor.
 - **Lo que añade tu comunidad**: los complementos y ayudas de [cada comunidad autónoma](/ayudas/ayudas-autonomicas/).

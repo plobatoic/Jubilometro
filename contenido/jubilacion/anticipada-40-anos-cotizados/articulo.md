@@ -178,7 +178,7 @@ No hay fecha. Con las elecciones, la proposición ha decaído y tendría que emp
 
 - ¿Qué cambia con las elecciones del 29 de noviembre? Lo resumimos en [elecciones y pensiones](/cuanto-cobrare/elecciones-y-pensiones/).
 - ¿Cuánto perderías hoy? Mira los recortes mes a mes en la guía de [jubilación anticipada voluntaria](/jubilacion/anticipada-voluntaria/).
-- ¿Te han despedido? Lee la guía de [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/) y la de [despido a los 60](/jubilacion/despido-a-los-60/).
+- ¿Te han despedido? Lee la guía de [jubilación anticipada involuntaria](/jubilacion/anticipada-involuntaria/) y la de [despido a los 60](/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion).
 - ¿Cuándo es tu edad ordinaria? Calcúlala con la [calculadora de la edad de jubilación](/calculadoras/edad-jubilacion/).
 
 ---

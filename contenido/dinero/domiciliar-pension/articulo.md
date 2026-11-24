@@ -124,7 +124,7 @@ No, si no eres titular. Puede ser una cuenta conjunta con tu hijo, pero tú tien
 
 - ¿Qué día cobras? Consulta el [calendario de pago de las pensiones](/cuanto-cobrare/calendario-pago-pensiones/).
 - ¿Vives o vas a vivir fuera? Lee [cobrar la pensión en el extranjero](/dinero/pension-extranjero/).
-- ¿Te preocupa la retención? Mira cómo [cambiar la retención de IRPF](/dinero/irpf-pensiones/).
+- ¿Te preocupa la retención? Mira cómo [cambiar la retención de IRPF](/cuanto-cobrare/pension-bruta-y-neta/#como-cambiar-la-retencion-de-tu-pension).
 
 ---
 

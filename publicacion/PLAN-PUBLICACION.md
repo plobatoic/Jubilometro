@@ -549,6 +549,16 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Fusión de guías que se repiten, tanda 3 (24/11/2026, tema 2.11.44)
+
+Con el «hazlo todo» del titular, tercera tanda de `publicacion/seo/propuesta-fusiones-2026-11.md`:
+
+- `/jubilacion/despido-a-los-60/` → `/jubilacion/prejubilacion/` (apartado «Despido a los 60: paro, subsidio y jubilación»: duración y cuantía del paro con los artículos 269 y 270 de la Ley General de la Seguridad Social, subsidio, jubilación involuntaria, ejemplo de Pedro y pregunta frecuente).
+- `/ayudas/complemento-alquiler/` → `/ayudas/pension-no-contributiva/` (apartado «El complemento de alquiler: 525 euros al año»: requisitos del Real Decreto 1191/2012, cómo se pide, ejemplos y dos preguntas frecuentes).
+- `/dinero/irpf-pensiones/` → `/cuanto-cobrare/pension-bruta-y-neta/` (apartado «Cómo cambiar la retención de tu pensión»: modelo 145, tipo voluntario, modelo 146, regularización y cuatro preguntas frecuentes).
+
+Cómo: 301 en `inc/data.json` → `fusionadas`; entradas viejas a borrador; copias en `publicacion/fusionadas/`; enlaces internos de 9 guías, 3 portadas y la calculadora de la pensión neta cambiados a la sección nueva; enlaces cortos `despido-60`, `alquiler` y `retencion` a la sección nueva; `fuente` de las publicaciones de redes actualizada; guías pilar de Ayudas y Dinero en la portada (`historias.php`) sin las guías fusionadas. Comprobado: las tres direcciones viejas dan 301, los enlaces cortos llevan a su sección y `comprobar-web` sin fallos (315 enlaces internos).
+
 ### PDF nuevo de Frente Amplio (24/11/2026)
 
 Frente Amplio colgó el 23/11 en la misma dirección una versión de 158 páginas (antes 151), con 7 páginas nuevas después de la 42. Comprobadas otra vez todas las citas con `genera_verif.py` y `verif_tema.py` (que avisa si la página no coincide): el texto no cambia; las páginas a partir de la 43 suben 7. Corregidas la guía de Frente Amplio, la comparativa y las guías de dependencia, personas mayores, impuestos y paro y bajas. El PDF de referencia es ahora el nuevo (carpeta v3 del scratchpad).

@@ -19,3 +19,10 @@
 | 15 | Mínima con complemento a mínimos 2026 (65+, sin cónyuge): 936,20 €/mes | RD 241/2026, anexo I (ficha de «Pensión mínima») | — | Verificado |
 | 16 | Subida de 2026 de las PNC: 11,4 %; DA 53.ª.5 (0,75 × umbral de pobreza unipersonal); art. 62 LGSS | La Moncloa (10/02/2026); LGSS | — | Verificado |
 | 17 | Ejemplos (Carmen 9.328,20 €; Manuel 918,88 € de exceso, 7.884,32 € y 563,17 €/mes; Antonio y Lucía 534,48 € cada uno; Isabel exceso 1.389,60 €, 7.413,60 € y 529,54 €/mes) | — | Cálculo propio con las reglas anteriores | Cálculo propio |
+
+## 24/11/2026 · Fusión con «Complemento de alquiler»
+
+- Se incorpora la sección «El complemento de alquiler: 525 euros al año» con el contenido de /ayudas/complemento-alquiler/ (verificado el 29/09/2026 y revisado el 02/11/2026; copia en publicacion/fusionadas/ayudas/).
+- 525 €/año: Real Decreto 241/2026, artículo 21.2 (BOE-A-2026-6977).
+- Requisitos (titularidad del contrato, sin vivienda en propiedad, contrato de al menos un año, 180 días de residencia, casero no pariente hasta tercer grado), plazo de resolución de tres meses y no cómputo como ingreso (disposición adicional única): Real Decreto 1191/2012 (BOE-A-2012-10476).
+- Plazo anual 1/1-31/12 y exclusión de habitaciones en Madrid: sede electrónica de la Comunidad de Madrid.

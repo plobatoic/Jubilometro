@@ -94,7 +94,6 @@ export const IMAGENES_DESTACADAS = {
   '/jubilacion/autonomos/': { archivo: 'autonomos.webp', alt: 'Artesano con delantal en su taller', pie: 'Foto: StockSnap' },
   '/jubilacion/convenio-especial/': { archivo: 'convenio-especial.webp', alt: 'Persona firmando un documento', pie: 'Foto: rawpixel' },
   '/jubilacion/cuanto-tarda-jubilacion/': { archivo: 'cuanto-tarda-jubilacion.webp', alt: 'Hombre esperando con las manos junto al reloj', pie: 'Foto: StockSnap' },
-  '/jubilacion/despido-a-los-60/': { archivo: 'despido-a-los-60.webp', alt: 'Persona recogiendo sus cosas en una caja de cartón en la oficina', pie: 'Foto: StockSnap' },
   '/jubilacion/documentos-jubilacion/': { archivo: 'documentos-jubilacion.webp', alt: 'Carpetas colgantes con documentos en un archivador', pie: 'Foto: rawpixel' },
   '/jubilacion/faltan-anos-cotizados/': { archivo: 'faltan-anos-cotizados.webp', alt: 'Mujer mayor sonriente con una tableta en su trabajo', pie: 'Foto: StockSnap' },
   '/jubilacion/subsidio-mayores-52/': { archivo: 'subsidio-mayores-52.webp', alt: 'Hombre pensativo sentado junto a una ventana', pie: 'Foto: StockSnap' },

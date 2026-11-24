@@ -125,7 +125,7 @@ Mientras cobras el subsidio, el SEPE ya cotiza por ti para la jubilación. Consu
 ## Siguiente paso
 
 - ¿Te faltan años? Lee [me faltan años cotizados para jubilarme](/jubilacion/faltan-anos-cotizados/).
-- Si te han despedido: [despido a los 60, paro, subsidio y jubilación](/jubilacion/despido-a-los-60/).
+- Si te han despedido: [despido a los 60, paro, subsidio y jubilación](/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion).
 - ¿Cuándo te jubilas? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ---

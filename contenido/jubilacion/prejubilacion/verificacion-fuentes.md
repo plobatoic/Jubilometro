@@ -23,3 +23,5 @@
 | 17 | Ejemplo de Javier (36 años cotizados a los 57; paro 2 años; subsidio; convenio hasta 63; más de 38 años y 6 meses al cumplir 63) | — | Cálculo propio | Comprobado |
 
 **Para revisar cada año:** la cuantía del subsidio y la base mínima (cotización del SEPE), y las edades de la jubilación anticipada si cambia la ley.
+
+**24/11/2026 · Fusión con «Despido a los 60»:** paro de 120 días a 2 años, 2 años con 2.160 días cotizados en los 6 años previos, 70 % los primeros 180 días y 60 % después (LGSS arts. 269 y 270, texto consolidado del BOE); máximos 2026 de 1.225 / 1.400 / 1.575 € y mínimos de 560 / 749 € (175/200/225 % y 80/107 % del IPREM mensual de 600 € más la parte de pagas extra; mismos datos que la guía del subsidio); solicitud en 15 días hábiles (LGSS art. 268); subsidio de mayores de 52: 480 €/mes, rentas ≤ 915,75 €/mes, cotización por 1.780,50 € (de la guía del subsidio, verificada en BOE); anticipada involuntaria desde 61/63 en 2027 y recorte del 28 % con 48 meses en el tramo de 38 años y 6 meses a 41 años y 6 meses (LGSS art. 207, ver la guía de la anticipada involuntaria). Verificado.

@@ -8,9 +8,12 @@ miga: Pensión bruta y neta
 palabra_clave_principal: pensión neta IRPF
 palabras_clave_secundarias:
   - "calculadora pensión neta irpf"
+  - "retención irpf pensión"
+  - "cambiar retención irpf pensión"
+  - "retencion irpf pension de viudedad"
 intencion: informativa
 fase_plan: F2 (artículo n.º 31)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-24
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -21,7 +24,7 @@ fuentes_legales:
 
 # Pensión bruta y neta en 2026: cuánto IRPF te retienen y cuánto cobras limpio
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 24 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -77,12 +80,50 @@ A partir de **75 años** el mínimo personal sube y la retención baja un poco. 
 
 **Ejemplo: Carmen, 68 años, viuda, 1.500 euros al mes.** Retribución anual: 21.000 euros. Base: 19.000. Cuota por la escala: 2.664,50 euros; pero el tope del 43 % sobre lo que pasa de 16.476 euros es de 1.945,32. Tipo: 1.945,32 ÷ 21.000 = **9,26 %**: le retienen **138,90 euros al mes** y cobra **1.361,10 euros netos**.
 
-## Cómo pedir que te retengan más o menos
+## Cómo cambiar la retención de tu pensión
 
-- La Seguridad Social recalcula la retención **cada enero** y cuando cambian tus circunstancias.
-- Si tu situación familiar cambia (te casas, tu cónyuge deja de tener ingresos, tienes una discapacidad reconocida…), comunícalo con el **modelo 145** para que lo tengan en cuenta.
-- Puedes pedir un **porcentaje de retención mayor** del que te corresponde para no tener que pagar en la declaración, por ejemplo si tienes otras rentas.
-- Si cobras de **varios pagadores**, cada uno retiene como si fuera el único y es fácil que te salga a pagar. Mira el procedimiento especial del modelo 146 en [la renta de los jubilados](/dinero/declaracion-renta-jubilados/).
+La Seguridad Social recalcula la retención **cada enero** y cuando cambian tus circunstancias. Si te retienen poco, pagas la diferencia en la **declaración de la renta**; si te retienen de más, te la devuelven. Cambiarla tiene sentido sobre todo si:
+
+- **Cobras de dos pagadores**: por ejemplo, la pensión de la Seguridad Social y una renta de un **plan de pensiones**, una **mutualidad** o una **pensión de otro país**. Cada pagador te retiene como si fuera el único, y es habitual que **te salga a pagar**. (La jubilación y la viudedad de la Seguridad Social cuentan como **un solo pagador**.)
+- **Tienes otros ingresos**: alquileres, intereses o el rescate de un plan.
+- **Ha cambiado tu familia**: te has casado, has enviudado, tu cónyuge ha dejado de tener ingresos o te han reconocido una discapacidad.
+
+Hay tres formas de cambiarla: las dos primeras, en la **sede de la Seguridad Social** (con o sin certificado digital), por correo o en un centro de atención con cita previa; la tercera, en Hacienda.
+
+### Opción 1: comunicar tu situación personal y familiar (modelo 145)
+
+El [artículo 88 del Reglamento del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a88) obliga a comunicar al pagador los datos que influyen en la retención. Para la Seguridad Social, es el trámite **[«Comunicar datos que afectan al IRPF»](https://prestaciones.seg-social.es/servicio/comunicar-datos-afectan-irpf.html)** (formulario «Comunicación de datos al pagador», equivalente al modelo 145 de Hacienda). Se declara:
+
+- **Situación familiar**: soltero, viudo o separado con hijos que viven solo contigo; casado con un cónyuge que **no gana más de 1.500 euros al año**; u otra situación.
+- **Discapacidad** propia (33 % o 65 %, y si necesitas ayuda de otra persona o tienes movilidad reducida).
+- **Hijos y descendientes** menores de 25 años (o con discapacidad) que viven contigo y no ganan más de 8.000 euros.
+- **Ascendientes** mayores de 65 años (o con discapacidad) que viven contigo al menos medio año y no ganan más de 8.000 euros.
+- **Pensión compensatoria** o anualidades por alimentos que pagues por sentencia.
+
+**Plazos** ([artículo 88.4](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a88)): si el cambio te **baja** la retención (te casas con alguien sin ingresos, te reconocen una discapacidad), puedes comunicarlo cuando quieras y se aplica desde la comunicación. Si te la **sube** (enviudas, tu cónyuge empieza a tener ingresos), **debes** comunicarlo en **10 días**. No hace falta repetirlo cada año si nada cambia.
+
+Si das datos falsos o no comunicas un cambio que suponía más retención, Hacienda puede **multarte** con entre el 35 % y el 150 % de lo que se dejó de retener.
+
+### Opción 2: pedir un tipo de retención voluntario más alto
+
+Puedes pedir en cualquier momento que te retengan **un porcentaje superior** al que te corresponde ([artículo 88.5](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a88)). Según la [Seguridad Social](https://prestaciones.seg-social.es/servicio/modificar-retencion-irpf-pension.html):
+
+- El trámite se llama **«Modificar la retención del IRPF de la pensión»**. Puedes hacerlo en **Tu Seguridad Social** (con Cl@ve o certificado), **sin certificado** en su portal de trámites, con el formulario **«Solicitud/finalización de aplicación del tipo voluntario»** por correo o en un centro de atención con cita previa.
+- Indicas el **porcentaje** que quieres, que debe ser **mayor** que el actual.
+- Se aplica **al menos hasta el 31 de diciembre** y sigue los años siguientes hasta que lo cambies.
+- Puedes **subirlo** varias veces en el año. Pero si quieres **bajarlo o quitarlo**, no puedes hacerlo en el mismo año en que lo pediste: surte efecto desde el **1 de enero** siguiente.
+
+**Ejemplo:** Rosa cobra 1.600 euros de jubilación en 14 pagas (22.400 al año) y 4.000 euros al año de un plan de pensiones. La Seguridad Social le retiene según su pensión y el banco según el plan, pero en conjunto su retención se queda corta y en la declaración le salen **unos cientos de euros a pagar**. Si pide que la Seguridad Social le aplique, por ejemplo, **3 puntos más**, le retendrán unos 48 euros más al mes y la declaración le saldrá cerca de cero.
+
+### Opción 3: varios pagadores, procedimiento especial (modelo 146)
+
+Si cobras **varias pensiones de distintos pagadores** que en total **no pasan de 22.000 euros**, puedes pedir a la Agencia Tributaria, en **enero o febrero**, que calcule una retención conjunta con el **modelo 146** ([artículo 89.A del Reglamento](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820)). Hacienda te da una comunicación para cada pagador, que les entregas antes del 30 de abril. Así cada uno te retiene lo correcto y, además, el **límite para no declarar** vuelve a ser de 22.000 euros. Lo detallamos en [la renta de los jubilados](/dinero/declaracion-renta-jubilados/).
+
+### Cuándo recalcula la Seguridad Social tu retención
+
+Además de cada **enero**, el pagador **regulariza** la retención durante el año ([artículo 87](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a87)) cuando empiezas a cobrar **otra pensión** o sube la que tenías, cuando aumenta el número de **descendientes** o te reconocen una **discapacidad** o un grado mayor, o cuando un juez te obliga a pagar una **pensión compensatoria** o **alimentos**. Por eso es normal notar un **cambio en la pensión neta** algún mes, aunque el bruto no cambie.
+
+Para la declaración, descarga el **certificado de retenciones e ingresos a cuenta del IRPF**, que recoge lo que cobraste y lo que te retuvieron en el año; te explicamos cómo en [certificado de pensión](/cuanto-cobrare/certificado-pension/).
 
 ## Preguntas frecuentes
 
@@ -106,10 +147,28 @@ No. De la pensión solo se descuenta la retención de IRPF. Los pensionistas no 
 
 Porque en enero se recalcula la retención con la pensión revalorizada. Si la subida te lleva a un tramo más alto, la retención puede subir algo más que la pensión.
 
+### ¿Cómo cambio la retención de IRPF de mi pensión?
+
+En la sede de la Seguridad Social: con el trámite «Comunicar datos que afectan al IRPF», si ha cambiado tu situación familiar, o con «Modificar la retención del IRPF de la pensión», si quieres un porcentaje más alto. También en papel, por correo o en un centro de atención con cita previa.
+
+### ¿Puedo pedir que me retengan menos IRPF de la pensión?
+
+No por debajo de lo que te corresponde según la ley. Sí puedes comunicar cambios que lo reduzcan (una discapacidad, un cónyuge sin ingresos) o quitar un tipo voluntario que pediste un año anterior.
+
+### ¿Cuándo se aplica el nuevo porcentaje de retención?
+
+En la primera nómina que se prepare después de tu solicitud, siempre que falten al menos cinco días para hacerla.
+
+### ¿Por qué me sale a pagar la renta si me retienen de la pensión?
+
+Normalmente porque tienes otro pagador (un plan de pensiones, una mutualidad, una pensión extranjera) u otras rentas. Cada pagador retiene como si fuera el único.
+
 ## Fuentes oficiales
 
-- [Reglamento del IRPF (Real Decreto 439/2007): artículos 81 a 86 (retenciones sobre rendimientos del trabajo)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820) (BOE).
+- [Reglamento del IRPF (Real Decreto 439/2007): artículos 81 a 86 (retenciones sobre rendimientos del trabajo) y 87 a 89.A (regularización, comunicación de datos, tipo voluntario y varios pagadores)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820) (BOE).
 - [Ley del IRPF: artículos 19, 20, 57 y 7](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764) (BOE).
+- [Seguridad Social: modificar la retención del IRPF de la pensión](https://prestaciones.seg-social.es/servicio/modificar-retencion-irpf-pension.html).
+- [Seguridad Social: comunicar datos que afectan al IRPF](https://prestaciones.seg-social.es/servicio/comunicar-datos-afectan-irpf.html).
 
 ## Siguiente paso
 
@@ -122,4 +181,4 @@ Porque en enero se recalcula la retención con la pensión revalorizada. Si la s
 
 *Este artículo es informativo y no sustituye el asesoramiento fiscal profesional. Las retenciones de la tabla son un cálculo de ejemplo con las normas vigentes en 2026; tu retención exacta la calcula la Seguridad Social con tus datos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, corregido un redondeo. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 24 de noviembre de 2026, se suma la guía «Cómo cambiar la retención de IRPF de tu pensión» (modelo 145, tipo voluntario y varios pagadores). 20 de octubre de 2026, corregido un redondeo. 28 de septiembre de 2026, primera versión.*

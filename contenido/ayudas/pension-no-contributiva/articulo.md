@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "como solicitar pension no contributiva por jubilacion"
 intencion: informativa
 fase_plan: F1 (artículo n.º 55)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-11-24
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -25,7 +25,7 @@ fuentes_legales:
 
 # Pensión no contributiva de jubilación en 2026: requisitos, cuánto se cobra y cómo pedirla
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
+*Actualizado el 24 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y el Imserso*
 
 > **Respuesta rápida**
 >
@@ -75,13 +75,13 @@ La cuantía la fija cada año la revalorización: para 2026, el [Real Decreto 24
 | Pensión mínima (25 %) | 2.200,80 € | 157,20 € |
 | Dos pensionistas en la misma casa (cada uno) | 7.482,72 € | 534,48 € |
 | Tres pensionistas en la misma casa (cada uno) | 7.042,56 € | 503,04 € |
-| [Complemento si vives de alquiler](/ayudas/complemento-alquiler/) | 525 € | — |
+| [Complemento si vives de alquiler](#el-complemento-de-alquiler-525-euros-al-ano) | 525 € | — |
 
 **Si tienes algún ingreso propio**, no lo pierdes todo: la pensión es compatible con ingresos de hasta el **35 % de la pensión**, **3.081,12 euros al año**. Lo que pase de esa cifra se descuenta de la pensión, que nunca baja del 25 % ([artículo 364](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a364)).
 
 **Si vives con familiares que tienen ingresos**, la pensión se reduce lo necesario para que la suma de los ingresos de la casa más la pensión no supere el límite de la tabla anterior.
 
-**El complemento de alquiler** (525 euros al año) es para quien no tiene vivienda en propiedad y vive de alquiler en una casa cuyo dueño no es pariente hasta tercer grado ni su pareja. Si en la casa hay varios pensionistas, solo lo cobra el titular del contrato.
+**Si vives de alquiler**, puedes sumar un complemento de 525 euros al año: te contamos los requisitos y cómo pedirlo en [el complemento de alquiler](#el-complemento-de-alquiler-525-euros-al-ano).
 
 Además, la pensión incluye **asistencia médica y farmacéutica gratuita** y acceso a servicios sociales complementarios.
 
@@ -97,6 +97,29 @@ Además, la pensión incluye **asistencia médica y farmacéutica gratuita** y a
 **Antonio y Lucía, de 70 y 67 años, casados y sin ingresos.** Los dos tienen derecho y viven juntos, así que cada uno cobra **534,48 euros al mes**: 1.068,96 euros entre los dos.
 
 **Isabel, 68 años, vive con su hijo, que gana 30.000 euros brutos al año.** Al convivir con un hijo, el límite para dos personas es de 37.413,60 euros, y 30.000 está por debajo: cumple el requisito. Pero los ingresos de la casa más la pensión íntegra (30.000 + 8.803,20 = 38.803,20) pasan del límite en 1.389,60 euros, que se descuentan: cobra 7.413,60 euros al año, **529,54 euros al mes**. Si su hijo ganara más de 37.413,60 euros, no tendría derecho.
+
+## El complemento de alquiler: 525 euros al año
+
+Si cobras la no contributiva de jubilación o de [invalidez](/ayudas/pnc-invalidez/) y vives de alquiler, puedes cobrar además **525 euros al año** en 2026 ([artículo 21.2 del Real Decreto 241/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977)), la misma cuantía que en 2012, cuando se creó. Se cobra **de una vez**, no repartido en la pensión mensual, y **no cuenta como ingreso** para mantener la pensión ni para calcular su cuantía (disposición adicional única del [Real Decreto 1191/2012](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-10476)).
+
+**Requisitos**, según el Real Decreto 1191/2012, que sigue regulándolo cada año:
+
+1. **Cobrar una pensión no contributiva** de jubilación o de invalidez, cuando pides el complemento y cuando te lo resuelven.
+2. **No tener vivienda en propiedad.**
+3. **Ser titular del contrato de alquiler.** Si en la casa viven dos o más pensionistas no contributivos, solo lo cobra el titular del contrato o, si son varios, **el primero que figure**.
+4. **Que la vivienda alquilada sea tu domicilio habitual**: el contrato tiene que durar al menos **un año** y tienes que haber vivido en ella los **180 días anteriores** a la solicitud.
+5. **Que el casero no sea tu cónyuge o pareja ni un pariente hasta el tercer grado** (padres, hijos, hermanos, abuelos, nietos, tíos o sobrinos, también por afinidad o adopción).
+
+Los pensionistas de una pensión **contributiva** no lo cobran, aunque vivan de alquiler, ni quien cobra solo el ingreso mínimo vital.
+
+**Cómo se pide:**
+
+- **Dónde**: en el mismo organismo de tu comunidad autónoma que gestiona la no contributiva (en Ceuta y Melilla, el Imserso), en su sede electrónica o en un registro público.
+- **Documentos**: el contrato de alquiler (con la dirección, el casero, el inquilino y la duración) y una **declaración responsable** de que el casero no es familiar ni pareja. La administración comprueba por su cuenta el **catastro** (que no tienes vivienda) y el **padrón** (que vives allí).
+- **Plazo para resolver**: **tres meses**. Si no contestan, se entiende denegado y puedes presentar una reclamación previa.
+- **Cada año**: la ayuda es anual. En la Comunidad de Madrid, por ejemplo, [se solicita](https://sede.comunidad.madrid/ayudas-becas-subvenciones/complemento-alquiler-pnc) del **1 de enero al 31 de diciembre** del año de la ayuda, y no se admite el alquiler de una habitación, un local o un garaje. Pregunta en tu comunidad si tienes que pedirlo de nuevo cada año.
+
+**Ejemplos:** Carmen, del ejemplo anterior, vive en un piso alquilado a una inmobiliaria desde hace tres años y no tiene casa en propiedad: cobra los 525 euros en un pago. **Luis y Ana**, matrimonio, cobran los dos la no contributiva y el contrato está a nombre de los dos, con Luis en primer lugar: **solo Luis** cobra el complemento. **Pilar** alquila el piso de su sobrino, pariente de tercer grado: **no tiene derecho**.
 
 ## Cómo se pide
 
@@ -148,12 +171,22 @@ Sí, pero sin pasar de 90 días en el año natural, salvo por enfermedad justifi
 
 No. Es una pensión para quien no ha cotizado o no llega al mínimo de 15 años. Lo que se exige es la edad, la residencia y la falta de ingresos.
 
+### ¿Cuánto es el complemento de alquiler de la pensión no contributiva?
+
+525 euros al año en 2026, en un solo pago, si vives de alquiler como titular del contrato y no tienes casa en propiedad. No cuenta como ingreso para mantener la pensión.
+
+### ¿Tengo que pedir el complemento de alquiler todos los años?
+
+Es una ayuda anual. En comunidades como Madrid hay que solicitarla cada año, entre el 1 de enero y el 31 de diciembre del año de la ayuda, y no vale el alquiler de una habitación. Consulta el procedimiento de tu comunidad.
+
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social: artículos 363, 364 y 367 a 373](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
 - [Real Decreto 357/1991, de pensiones no contributivas](https://www.boe.es/buscar/act.php?id=BOE-A-1991-7270) (BOE).
 - [Orden PRE/3113/2009, sobre el cómputo de rentas](https://www.boe.es/buscar/act.php?id=BOE-A-2009-18478) (BOE).
 - [Real Decreto 241/2026, de revalorización para 2026 (artículo 21)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-6977) (BOE).
+- [Real Decreto 1191/2012, normas para el reconocimiento del complemento de alquiler](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2012-10476) (BOE).
+- [Comunidad de Madrid: complemento de alquiler de vivienda para titulares de pensión no contributiva](https://sede.comunidad.madrid/ayudas-becas-subvenciones/complemento-alquiler-pnc) (sede electrónica).
 - [Imserso: pensión no contributiva de jubilación, formularios y folleto informativo de 2026](https://imserso.es/pnc-prestaciones-subvenciones/pnc-jubilacion).
 - [Imserso: dónde solicitar la pensión no contributiva en cada comunidad](https://imserso.es/pnc-prestaciones-subvenciones/donde-solicitar-pension-no-contributiva-pnc).
 
@@ -167,4 +200,4 @@ No. Es una pensión para quien no ha cotizado o no llega al mínimo de 15 años.
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del organismo de tu comunidad autónoma, que es quien reconoce la pensión no contributiva. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, enlace a la pensión asistencial para emigrantes retornados. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 24 de noviembre de 2026, se suma la guía «Complemento de alquiler de la pensión no contributiva», con sus requisitos, cómo pedirlo y ejemplos. 12 de octubre de 2026, enlace a la pensión asistencial para emigrantes retornados. 28 de septiembre de 2026, primera versión.*

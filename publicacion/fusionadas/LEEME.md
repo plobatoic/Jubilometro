@@ -15,3 +15,6 @@ Guías que se juntaron con otra más completa (propuesta en `publicacion/seo/pro
 | /cuanto-cobrare/pagas-extra/ | /cuanto-cobrare/calendario-pago-pensiones/ | 17/11/2026 |
 | /dependencia/residencias-publicas/ | /dependencia/precio-residencias/ | 17/11/2026 |
 | /jubilacion/compensa-jubilarse-antes/ | /jubilacion/anticipada-voluntaria/ | 17/11/2026 |
+| /jubilacion/despido-a-los-60/ | /jubilacion/prejubilacion/ | 24/11/2026 |
+| /ayudas/complemento-alquiler/ | /ayudas/pension-no-contributiva/ | 24/11/2026 |
+| /dinero/irpf-pensiones/ | /cuanto-cobrare/pension-bruta-y-neta/ | 24/11/2026 |

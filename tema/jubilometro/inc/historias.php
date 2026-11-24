@@ -364,9 +364,9 @@ function jm_pilares() {
 		'cuanto-cobrare' => array( 'como-se-calcula-la-pension', 'pension-minima', 'revalorizacion-pensiones', 'pension-maxima' ),
 		'viudedad'       => array( 'requisitos', 'cuantia', 'solicitar-viudedad', 'pareja-de-hecho' ),
 		'incapacidad'    => array( 'grados-incapacidad', 'incapacidad-total', 'incapacidad-absoluta', 'solicitar' ),
-		'ayudas'         => array( 'pension-no-contributiva', 'bono-social-electrico', 'ingreso-minimo-vital-mayores', 'complemento-alquiler' ),
+		'ayudas'         => array( 'pension-no-contributiva', 'bono-social-electrico', 'ingreso-minimo-vital-mayores', 'pnc-invalidez' ),
 		'dependencia'    => array( 'ley-dependencia', 'grados', 'prestacion-cuidados-familiares', 'solicitar-dependencia' ),
-		'dinero'         => array( 'declaracion-renta-jubilados', 'rescate-plan-pensiones', 'hipoteca-inversa', 'irpf-pensiones' ),
+		'dinero'         => array( 'declaracion-renta-jubilados', 'rescate-plan-pensiones', 'hipoteca-inversa', 'ahorro-jubilacion' ),
 		'imserso'        => array( 'viajes-imserso', 'termalismo', 'requisitos-viajes', 'tarjeta-mayores' ),
 	);
 }

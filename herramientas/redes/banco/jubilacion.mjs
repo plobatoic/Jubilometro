@@ -398,13 +398,13 @@ En la web tienes la lista para imprimir e ir marcando lo que ya tienes. El enlac
 ${L('cuanto-tarda', 'x')}`,
   },
   {
-    id: 'despido-60-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/jubilacion/despido-a-los-60/',
+    id: 'despido-60-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/jubilacion/prejubilacion/',
     texto: `Despedido a los 60: lo habitual es encadenar el paro (hasta 2 años), el subsidio para mayores de 52 (480 € al mes en 2026, que además cotiza para tu jubilación) y la jubilación, ordinaria o anticipada.
 
 ${L('despido-60', 'x')}`,
   },
   {
-    id: 'despido-60-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/jubilacion/despido-a-los-60/',
+    id: 'despido-60-fb', red: 'facebook', pilar: 'Calcula tu caso', fuente: '/jubilacion/prejubilacion/',
     texto: `Qué hacer si te despiden a los 60 años. Lo habitual es encadenar tres etapas.
 
 Primero, el paro: hasta 2 años, según lo que hayas cotizado en los últimos 6.

@@ -49,4 +49,4 @@ Sí, como el resto de la pensión. La retención se reparte entre las 14 pagas.
 
 ## Guía completa
 
-Cómo tributa cada tipo de pensión, en [el IRPF de las pensiones](/dinero/irpf-pensiones/). La diferencia entre lo que figura en tu resolución y lo que cobras, en [pensión bruta y neta](/cuanto-cobrare/pension-bruta-y-neta/).
+La diferencia entre lo que figura en tu resolución y lo que cobras, y cómo pedir que te retengan más o menos, en [pensión bruta y neta](/cuanto-cobrare/pension-bruta-y-neta/).

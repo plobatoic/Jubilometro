@@ -646,7 +646,7 @@ export const PUBLICACIONES = [
   "id": "alquiler-x",
   "red": "x",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/ayudas/complemento-alquiler/",
+  "fuente": "/ayudas/pension-no-contributiva/#el-complemento-de-alquiler-525-euros-al-ano",
   "texto": "Si cobras una pensión no contributiva y vives de alquiler, puedes pedir un complemento de 525 € al año (2026). Tienes que ser el titular del contrato, no tener casa en propiedad y que el casero no sea familiar tuyo.\n\njubilometro.com/alquiler/x",
   "fecha": "2026-11-21",
   "hora": "10:00"
@@ -922,7 +922,7 @@ export const PUBLICACIONES = [
   "id": "despido-60-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/despido-a-los-60/",
+  "fuente": "/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion",
   "texto": "Despedido a los 60: lo habitual es encadenar el paro (hasta 2 años), el subsidio para mayores de 52 (480 € al mes en 2026, que además cotiza para tu jubilación) y la jubilación, ordinaria o anticipada.\n\njubilometro.com/despido-60/x",
   "fecha": "2026-11-30",
   "hora": "09:00"
@@ -981,7 +981,7 @@ export const PUBLICACIONES = [
   "id": "alquiler-fb",
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/ayudas/complemento-alquiler/",
+  "fuente": "/ayudas/pension-no-contributiva/#el-complemento-de-alquiler-525-euros-al-ano",
   "texto": "Una ayuda que se queda sin pedir muchos años: el complemento de alquiler de la pensión no contributiva. Son 525 euros al año en 2026, en un solo pago.\n\nLo puedes cobrar si tienes una pensión no contributiva de jubilación o de invalidez, no tienes vivienda en propiedad y vives de alquiler como titular del contrato. El casero no puede ser tu cónyuge, tu pareja ni un familiar hasta el tercer grado.\n\nSe pide en los servicios sociales de tu comunidad autónoma, los mismos que gestionan tu pensión, y no cuenta como ingreso para seguir cobrando la no contributiva.\n\nSi tienes una vecina o un familiar en esta situación, cuéntaselo. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "fecha": "2026-12-01",
   "hora": "11:00"
@@ -1216,7 +1216,7 @@ export const PUBLICACIONES = [
   "id": "despido-60-fb",
   "red": "facebook",
   "pilar": "Calcula tu caso",
-  "fuente": "/jubilacion/despido-a-los-60/",
+  "fuente": "/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion",
   "texto": "Qué hacer si te despiden a los 60 años. Lo habitual es encadenar tres etapas.\n\nPrimero, el paro: hasta 2 años, según lo que hayas cotizado en los últimos 6.\n\nDespués, el subsidio para mayores de 52 años: 480 euros al mes en 2026, hasta tu edad de jubilación. Mientras lo cobras, el SEPE cotiza por ti para la jubilación.\n\nPor último, la jubilación: la ordinaria o, si te interesa, la anticipada involuntaria, que en 2027 se puede pedir desde los 61 o los 63 años, con recorte.\n\nLo que más conviene depende de tus años cotizados, de tu base de cotización y de si puedes volver a trabajar. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "fecha": "2026-12-08",
   "hora": "11:00"
@@ -1225,7 +1225,7 @@ export const PUBLICACIONES = [
   "id": "retencion-x",
   "red": "x",
   "pilar": "Trámites sin líos",
-  "fuente": "/dinero/irpf-pensiones/",
+  "fuente": "/cuanto-cobrare/pension-bruta-y-neta/#como-cambiar-la-retencion-de-tu-pension",
   "texto": "¿Te sale a pagar la renta cada año? Puedes pedir a la Seguridad Social una retención de IRPF más alta en tu pensión, desde la sede o en una oficina. Y si te casas, enviudas o te reconocen una discapacidad, comunícalo para que la ajusten.\n\njubilometro.com/retencion/x",
   "fecha": "2026-12-08",
   "hora": "13:30"

@@ -59,7 +59,7 @@ Hoy, si tienes 52 años o más y se te acaba el paro, puede corresponderte el [s
 - **EH Bildu**: «Indemnización por despido improcedente de al menos 45 días» (página 6) y «Recuperar en el Estatuto de los Trabajadores la necesaria autorización previa de la autoridad laboral en los Expedientes de Regulación de Empleo» (página 6).
 - **PP, Vox y PNV**: no lo mencionan.
 
-Si te despiden pasados los 55 o los 60, lo que pasa con tu jubilación lo explicamos en [despido a los 60 años](/jubilacion/despido-a-los-60/).
+Si te despiden pasados los 55 o los 60, lo que pasa con tu jubilación lo explicamos en [despido a los 60 años](/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion).
 
 ## Salario mínimo y jornada
 

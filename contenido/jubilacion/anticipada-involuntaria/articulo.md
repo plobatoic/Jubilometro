@@ -94,7 +94,7 @@ Los ejemplos usan bases reguladoras redondas para que se vea el efecto del recor
 
 ## ¿Jubilarte ya o seguir en el paro?
 
-Si te despiden con 52 años o más, quizá tengas derecho al [subsidio para mayores de 52 años](/jubilacion/subsidio-mayores-52/), que se cobra hasta la edad ordinaria de jubilación y cotiza para tu pensión. A veces compensa agotar el paro y el subsidio y jubilarte más tarde con menos recorte, o sin ninguno. Otras veces, la jubilación anticipada da más ingresos desde el primer día. Lo analizamos en [despido a los 60: paro, subsidio y jubilación](/jubilacion/despido-a-los-60/).
+Si te despiden con 52 años o más, quizá tengas derecho al [subsidio para mayores de 52 años](/jubilacion/subsidio-mayores-52/), que se cobra hasta la edad ordinaria de jubilación y cotiza para tu pensión. A veces compensa agotar el paro y el subsidio y jubilarte más tarde con menos recorte, o sin ninguno. Otras veces, la jubilación anticipada da más ingresos desde el primer día. Lo analizamos en [despido a los 60: paro, subsidio y jubilación](/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion).
 
 Antes de decidir, compara:
 
@@ -146,7 +146,7 @@ Sí, como máximo un año, para completar los 33 años cotizados.
 ## Siguiente paso
 
 - ¿Te compensa? Mira la [comparativa de jubilarse a los 63, 64 o 65 años](/jubilacion/anticipada-voluntaria/#compensa-jubilarse-antes).
-- ¿Te han despedido a los 60? Lee [despido a los 60: paro, subsidio y jubilación](/jubilacion/despido-a-los-60/).
+- ¿Te han despedido a los 60? Lee [despido a los 60: paro, subsidio y jubilación](/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion).
 - ¿Te despiden en un ERE con 55 años o más? Mira [prejubilación: el convenio especial que paga la empresa](/jubilacion/prejubilacion/).
 - ¿Cuándo es tu edad ordinaria? Consulta la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 

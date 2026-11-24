@@ -125,7 +125,7 @@ Además del dinero, las comunidades gestionan casi todos los servicios para mayo
 - **Dependencia**: la valoración y los servicios de [teleasistencia](/dependencia/teleasistencia/), [ayuda a domicilio](/dependencia/ayuda-a-domicilio/), [centro de día](/dependencia/centro-de-dia/) y [residencias públicas](/dependencia/precio-residencias/#publica-concertada-o-privada-las-diferencias), o la [prestación para cuidados en el entorno familiar](/dependencia/prestacion-cuidados-familiares/). Empieza por [cómo solicitar la dependencia](/dependencia/solicitar-dependencia/).
 - **Tarjetas y descuentos**: las [tarjetas de mayores de cada comunidad](/imserso/tarjeta-mayores/) y los [descuentos en transporte](/ayudas/descuentos-transporte/).
 - **Vacaciones y balnearios**: los [viajes y el termalismo de las comunidades](/imserso/turismo-autonomico/), aparte de los del Imserso.
-- **Vivienda**: las [ayudas para adaptar la casa](/ayudas/ayudas-vivienda/) de una persona mayor y el [complemento de alquiler](/ayudas/complemento-alquiler/) de 525 euros para pensionistas no contributivos, que también tramita tu comunidad.
+- **Vivienda**: las [ayudas para adaptar la casa](/ayudas/ayudas-vivienda/) de una persona mayor y el [complemento de alquiler](/ayudas/pension-no-contributiva/#el-complemento-de-alquiler-525-euros-al-ano) de 525 euros para pensionistas no contributivos, que también tramita tu comunidad.
 
 ## Dónde preguntar
 

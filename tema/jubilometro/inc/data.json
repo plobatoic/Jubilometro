@@ -161,7 +161,7 @@
   "sistema-dual",
   "cuantia",
   "grados",
-  "irpf-pensiones",
+  "pension-bruta-y-neta",
   "revalorizacion-pensiones"
  ],
  "mostread": [
@@ -230,7 +230,7 @@
   "ayuda-domicilio": "/dependencia/ayuda-a-domicilio/",
   "teleasistencia": "/dependencia/teleasistencia/",
   "banco": "/dinero/domiciliar-pension/",
-  "retencion": "/dinero/irpf-pensiones/",
+  "retencion": "/cuanto-cobrare/pension-bruta-y-neta/#como-cambiar-la-retencion-de-tu-pension",
   "bruta-neta": "/cuanto-cobrare/pension-bruta-y-neta/",
   "15-anos": "/jubilacion/15-anos-cotizados/",
   "anticipada-voluntaria": "/jubilacion/anticipada-voluntaria/",
@@ -261,7 +261,7 @@
   "pedir-jubilacion": "/jubilacion/solicitar-jubilacion-internet/",
   "documentos": "/jubilacion/documentos-jubilacion/",
   "cuanto-tarda": "/jubilacion/cuanto-tarda-jubilacion/",
-  "despido-60": "/jubilacion/despido-a-los-60/",
+  "despido-60": "/jubilacion/prejubilacion/#despido-a-los-60-paro-subsidio-y-jubilacion",
   "como-se-calcula": "/cuanto-cobrare/como-se-calcula-la-pension/",
   "base-reguladora": "/cuanto-cobrare/como-se-calcula-la-pension/",
   "complemento-minimos": "/cuanto-cobrare/complemento-a-minimos/",
@@ -291,7 +291,7 @@
   "calcula-incapacidad": "/calculadoras/incapacidad-permanente/",
   "imv": "/ayudas/ingreso-minimo-vital-mayores/",
   "pnc-invalidez": "/ayudas/pnc-invalidez/",
-  "alquiler": "/ayudas/complemento-alquiler/",
+  "alquiler": "/ayudas/pension-no-contributiva/#el-complemento-de-alquiler-525-euros-al-ano",
   "ayudas-comunidad": "/ayudas/ayudas-autonomicas/",
   "ayudas-vivienda": "/ayudas/ayudas-vivienda/",
   "tramites": "/ayudas/tramites-online/",
@@ -357,7 +357,10 @@
   "/jubilacion/flexible-activa-o-parcial/": "/jubilacion/flexible/",
   "/cuanto-cobrare/pagas-extra/": "/cuanto-cobrare/calendario-pago-pensiones/",
   "/dependencia/residencias-publicas/": "/dependencia/precio-residencias/",
-  "/jubilacion/compensa-jubilarse-antes/": "/jubilacion/anticipada-voluntaria/"
+  "/jubilacion/compensa-jubilarse-antes/": "/jubilacion/anticipada-voluntaria/",
+  "/jubilacion/despido-a-los-60/": "/jubilacion/prejubilacion/",
+  "/ayudas/complemento-alquiler/": "/ayudas/pension-no-contributiva/",
+  "/dinero/irpf-pensiones/": "/cuanto-cobrare/pension-bruta-y-neta/"
  },
  "cortos_retirados": {
   "elecciones": "/cuanto-cobrare/elecciones-y-pensiones/"
