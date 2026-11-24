@@ -175,6 +175,8 @@ Todo lo que lleva `en` se sincroniza con la frase del guion, igual que los texto
 
 ## Formato «presentador» (19/11/2026): el modelo de los reels nuevos
 
+> **24/11: Pau lo confirma.** Todos los reels nuevos, con los muñecos de abuelos como presentadores, profesionales y con nuestra voz (Piper 1c). Sustituye al formato de solo vídeo real.
+
 Rosa (o Luis) presenta a cámara, abajo a la derecha, con la **boca sincronizada con la voz**. Detrás va **vídeo real** (B-roll de Pixabay, un clip por escena) y encima los **gráficos animados** del estilo dinámico. Modelo: `base/01-sesenta-mil/reel.mjs`.
 
 - Cada escena lleva `fondo` (vídeo real) y `animacion` con `set: "presentador"` (sin decorado, fondo transparente). El render monta vídeo → muñeco → gráficos.
