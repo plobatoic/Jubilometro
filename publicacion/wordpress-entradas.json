@@ -261,7 +261,7 @@
   },
   "/dinero/renta-vitalicia/": {
     "id": 191,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/dinero/rescate-aportaciones-10-anos/": {
     "id": 439,
@@ -297,7 +297,7 @@
   },
   "/imserso/tarjeta-mayores/": {
     "id": 558,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/imserso/termalismo/": {
     "id": 199,
@@ -317,7 +317,7 @@
   },
   "/incapacidad/abogado/": {
     "id": 582,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/incapacidad/baja-menopausia/": {
     "id": 1013,

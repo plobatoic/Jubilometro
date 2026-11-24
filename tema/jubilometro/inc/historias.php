@@ -367,7 +367,7 @@ function jm_pilares() {
 		'ayudas'         => array( 'pension-no-contributiva', 'bono-social-electrico', 'ingreso-minimo-vital-mayores', 'pnc-invalidez' ),
 		'dependencia'    => array( 'ley-dependencia', 'grados', 'prestacion-cuidados-familiares', 'solicitar-dependencia' ),
 		'dinero'         => array( 'declaracion-renta-jubilados', 'rescate-plan-pensiones', 'hipoteca-inversa', 'ahorro-jubilacion' ),
-		'imserso'        => array( 'viajes-imserso', 'termalismo', 'requisitos-viajes', 'tarjeta-mayores' ),
+		'imserso'        => array( 'viajes-imserso', 'termalismo', 'requisitos-viajes', 'universidad-mayores' ),
 	);
 }
 

@@ -120,7 +120,7 @@ El INSS tiene 135 días para resolver. Si no contesta, se entiende denegada y pu
 
 - ¿Qué grado te corresponde ahora? Repasa los [grados de incapacidad permanente](/incapacidad/grados-incapacidad/).
 - ¿Quieres volver a trabajar? Lee [trabajar con una incapacidad permanente](/incapacidad/incapacidad-y-trabajo/).
-- ¿Necesitas ayuda profesional? Mira cuándo conviene un [abogado de incapacidad permanente](/incapacidad/abogado/).
+- ¿Necesitas ayuda profesional? Mira cuándo conviene un [abogado de incapacidad permanente](/incapacidad/denegada/#abogado-cuando-hace-falta-y-cuanto-cuesta).
 
 ---
 

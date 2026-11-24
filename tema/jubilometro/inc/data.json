@@ -216,7 +216,7 @@
   "para-tu-web": "/calculadoras/para-tu-web/",
   "boletin": "/#newsletter",
   "balnearios": "/imserso/termalismo/",
-  "tarjeta-dorada": "/imserso/tarjeta-mayores/",
+  "tarjeta-dorada": "/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe",
   "pareja-de-hecho": "/viudedad/pareja-de-hecho/",
   "fallecimiento": "/viudedad/fallecimiento-pensionista/",
   "auxilio-defuncion": "/viudedad/auxilio-por-defuncion/",
@@ -285,7 +285,7 @@
   "enfermedades": "/incapacidad/enfermedades/",
   "pedir-incapacidad": "/incapacidad/solicitar/",
   "incapacidad-denegada": "/incapacidad/denegada/",
-  "abogado-incapacidad": "/incapacidad/abogado/",
+  "abogado-incapacidad": "/incapacidad/denegada/#abogado-cuando-hace-falta-y-cuanto-cuesta",
   "revision-grado": "/incapacidad/revision-grado/",
   "incapacidad-jubilacion": "/incapacidad/incapacidad-y-jubilacion/",
   "calcula-incapacidad": "/calculadoras/incapacidad-permanente/",
@@ -301,7 +301,7 @@
   "renta": "/dinero/declaracion-renta-jubilados/",
   "vender-casa": "/dinero/vender-vivienda-65/",
   "hipoteca-inversa": "/dinero/hipoteca-inversa/",
-  "renta-vitalicia": "/dinero/renta-vitalicia/",
+  "renta-vitalicia": "/dinero/hipoteca-inversa/#renta-vitalicia",
   "herencias": "/dinero/herencias-donaciones/",
   "rescate-10-anos": "/dinero/rescate-plan-pensiones/",
   "calcula-ahorro": "/calculadoras/cuanto-ahorrar-jubilacion/",
@@ -360,7 +360,10 @@
   "/jubilacion/compensa-jubilarse-antes/": "/jubilacion/anticipada-voluntaria/",
   "/jubilacion/despido-a-los-60/": "/jubilacion/prejubilacion/",
   "/ayudas/complemento-alquiler/": "/ayudas/pension-no-contributiva/",
-  "/dinero/irpf-pensiones/": "/cuanto-cobrare/pension-bruta-y-neta/"
+  "/dinero/irpf-pensiones/": "/cuanto-cobrare/pension-bruta-y-neta/",
+  "/dinero/renta-vitalicia/": "/dinero/hipoteca-inversa/",
+  "/incapacidad/abogado/": "/incapacidad/denegada/",
+  "/imserso/tarjeta-mayores/": "/ayudas/descuentos-transporte/"
  },
  "cortos_retirados": {
   "elecciones": "/cuanto-cobrare/elecciones-y-pensiones/"

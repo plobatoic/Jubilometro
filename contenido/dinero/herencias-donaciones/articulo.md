@@ -162,7 +162,7 @@ En el Código Civil común, no: dos tercios son la legítima de los hijos, aunqu
 
 - ¿Ha fallecido un familiar? Sigue los pasos de [qué hacer cuando fallece un pensionista](/viudedad/fallecimiento-pensionista/).
 - ¿Vas a vender tu casa en lugar de donarla? Mira [vender la vivienda con más de 65 años](/dinero/vender-vivienda-65/).
-- ¿Quieres una renta con tu patrimonio? Compara la [renta vitalicia](/dinero/renta-vitalicia/) y la [hipoteca inversa](/dinero/hipoteca-inversa/).
+- ¿Quieres una renta con tu patrimonio? Compara la [hipoteca inversa, la nuda propiedad y la renta vitalicia](/dinero/hipoteca-inversa/).
 
 ---
 

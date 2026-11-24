@@ -139,10 +139,8 @@ export const IMAGENES_DESTACADAS = {
   '/cuanto-cobrare/mei-cuota-solidaridad/': { archivo: 'mei-cuota-solidaridad.webp', alt: 'Cartuchos de monedas de 1 y 2 euros', pie: 'Foto: rawpixel' },
   '/dinero/domiciliar-pension/': { archivo: 'domiciliar-pension.webp', alt: 'Hucha de cerdito rosa sobre un fondo blanco', pie: 'Foto: rawpixel' },
   '/dinero/pension-extranjero/': { archivo: 'pension-extranjero.webp', alt: 'Detalle de un globo terráqueo con los países coloreados', pie: 'Foto: rawpixel' },
-  '/incapacidad/abogado/': { archivo: 'incapacidad-abogado.webp', alt: 'Vitrina de madera con libros antiguos encuadernados en piel', pie: 'Foto: rawpixel' },
   '/dependencia/reclamar-dependencia/': { archivo: 'reclamar-dependencia.webp', alt: 'Manos de una persona mayor con anillos escribiendo en una libreta sobre una carpeta azul', pie: 'Foto: rawpixel' },
   '/imserso/universidad-mayores/': { archivo: 'universidad-mayores.webp', alt: 'Profesor escribiendo en una pizarra verde ante un aula con estudiantes tomando apuntes', pie: 'Foto: rawpixel' },
-  '/imserso/tarjeta-mayores/': { archivo: 'tarjeta-mayores.webp', alt: 'Andén de una estación de tren con dos trenes regionales parados', pie: 'Foto: rawpixel' },
 };
 
 // Archivos propios que los artículos enlazan y hay que subir a la biblioteca de medios.

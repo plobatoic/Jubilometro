@@ -767,7 +767,7 @@ export const PUBLICACIONES = [
   "id": "renta-vitalicia-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/dinero/renta-vitalicia/",
+  "fuente": "/dinero/hipoteca-inversa/#renta-vitalicia",
   "texto": "Con más de 65 años, si vendes un piso que no es tu vivienda, acciones o fondos con ganancia, no pagas IRPF por ella si metes el dinero en una renta vitalicia asegurada en seis meses. Máximo, 240.000 € en toda tu vida.\n\njubilometro.com/renta-vitalicia/x",
   "fecha": "2026-11-12",
   "hora": "13:30"
@@ -804,7 +804,7 @@ export const PUBLICACIONES = [
   "red": "video",
   "tipo": "Vídeo (listo)",
   "pilar": "Calendario y avisos",
-  "fuente": "/imserso/tarjeta-mayores/",
+  "fuente": "/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe",
   "archivo": "video-11-tarjeta-dorada.mp4",
   "titulo": "Tarjeta Dorada de Renfe: 6 € al año",
   "texto": "Desde los 60 años, la Tarjeta Dorada de Renfe cuesta 6 € al año y da hasta un 40 % de descuento. jubilometro.com/tarjeta-dorada/yt",
@@ -1008,7 +1008,7 @@ export const PUBLICACIONES = [
   "id": "renta-vitalicia-li",
   "red": "linkedin",
   "pilar": "Profesionales",
-  "fuente": "/dinero/renta-vitalicia/",
+  "fuente": "/dinero/hipoteca-inversa/#renta-vitalicia",
   "texto": "Para asesores financieros y fiscales con clientes mayores de 65 años: la reinversión en renta vitalicia sigue siendo una de las exenciones más útiles del IRPF, y de las menos explicadas.\n\nEl artículo 38.3 de la Ley del IRPF exime la ganancia patrimonial obtenida por un mayor de 65 años en la transmisión de cualquier elemento patrimonial si el importe se destina, en seis meses, a constituir una renta vitalicia asegurada a su favor, con un límite de 240.000 euros en toda su vida. Después, la renta tributa como rendimiento del capital mobiliario solo en un porcentaje que depende de la edad al constituirla: el 8 % desde los 70 años.\n\nEl coste es la indisponibilidad: el rescate o la anticipación de la renta hace perder la exención.\n\nEjemplos en el enlace del primer comentario.",
   "comentario": "Renta vitalicia para mayores de 65: jubilometro.com/renta-vitalicia/in",
   "fecha": "2026-11-17",
@@ -1649,7 +1649,7 @@ export const PUBLICACIONES = [
  {
   "red": "x",
   "pilar": "Calendario y avisos",
-  "fuente": "/imserso/tarjeta-mayores/",
+  "fuente": "/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe",
   "texto": "Tarjeta Dorada de Renfe: 6 € al año desde los 60 años.\n\n40 % de descuento en Cercanías y Media Distancia y 25 % en AVE y Larga Distancia. Se saca en la taquilla o en una agencia y se renueva por internet.\n\njubilometro.com/tarjeta-dorada/x",
   "id": "mes1-47",
   "fecha": "2026-11-27",
@@ -1840,7 +1840,7 @@ export const PUBLICACIONES = [
  {
   "red": "facebook",
   "pilar": "Calendario y avisos",
-  "fuente": "/imserso/tarjeta-mayores/",
+  "fuente": "/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe",
   "texto": "La Tarjeta Dorada de Renfe cuesta 6 euros al año y se puede sacar desde los 60 años.\n\nDa un 40 % de descuento en Cercanías y Media Distancia y un 25 % en AVE y Larga Distancia. Se saca en la taquilla de la estación o en una agencia de viajes, y se renueva por internet.\n\nAdemás, varias comunidades tienen su propia tarjeta gratuita para mayores, como la Andalucía Junta 65 o el Carné +65 de Galicia, que llega a casa sin pedirlo. Tienes la guía completa en la web de Jubilómetro: el enlace está en la información de esta página.",
   "id": "mes1-17",
   "fecha": "2026-12-01",
@@ -3580,7 +3580,7 @@ export const PUBLICACIONES = [
   "id": "abogado-x",
   "red": "x",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/abogado/",
+  "fuente": "/incapacidad/denegada/#abogado-cuando-hace-falta-y-cuanto-cuesta",
   "texto": "Para pedir la incapacidad y para la reclamación previa no necesitas abogado. Para el juicio no es obligatorio, pero el INSS va con el suyo. Como beneficiario de la Seguridad Social tienes justicia gratuita, sin importar tus ingresos.\n\njubilometro.com/abogado-incapacidad/x",
   "fecha": "2026-12-31",
   "hora": "13:30"

@@ -549,6 +549,16 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Fusión de guías que se repiten, tanda 4 (24/11/2026, tema 2.11.45)
+
+Adelantada del 30/11 para preparar la nueva solicitud de AdSense (`publicacion/seo/plan-adsense-2026-12.md`):
+
+- `/dinero/renta-vitalicia/` → `/dinero/hipoteca-inversa/` (apartado «Renta vitalicia» ampliado: reinversión sin IRPF, 240.000 euros, ejemplo de Pedro e inconvenientes, y dos preguntas frecuentes).
+- `/incapacidad/abogado/` → `/incapacidad/denegada/` (apartado «Abogado: cuándo hace falta y cuánto cuesta»: tabla por fases, abogado de oficio, honorarios, ejemplo de Rosa y dos preguntas frecuentes).
+- `/imserso/tarjeta-mayores/` → `/ayudas/descuentos-transporte/` (apartados «La Tarjeta Dorada de Renfe» y «Tarjetas de mayores de las comunidades», y tres preguntas frecuentes).
+
+Igual que la tanda 3: 301, borradores, copias en `publicacion/fusionadas/`, enlaces de 8 guías, 3 portadas y la calculadora de ahorro, enlaces cortos `renta-vitalicia`, `abogado-incapacidad` y `tarjeta-dorada`, `fuente` de redes y guía pilar de Imserso en la portada (ahora `universidad-mayores`). Comprobado: 301 y enlaces cortos en vivo, `comprobar-web` sin fallos (309 enlaces internos). Con esto están hechas las 13 fusiones aprobadas.
+
 ### Fusión de guías que se repiten, tanda 3 (24/11/2026, tema 2.11.44)
 
 Con el «hazlo todo» del titular, tercera tanda de `publicacion/seo/propuesta-fusiones-2026-11.md`:

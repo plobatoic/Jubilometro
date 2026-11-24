@@ -78,7 +78,7 @@ Dos ejemplos:
 | Dónde | Quién puede pedirla | Precio |
 |---|---|---|
 | Madrid capital | Mayores de 65 años (o menores con dependencia reconocida), empadronados; quien vive solo puede pedirla en el 010 | De 72 a 144 € al año según renta. Gratis con más de 87 años (más de 85 desde 2027) o con renta per cápita inferior a 614 € al mes |
-| Andalucía | Titulares de la [Tarjeta Andalucía Junta 65](/imserso/tarjeta-mayores/), entre otros | Servicio Andaluz de Teleasistencia: condiciones y cuota en la Agencia de Servicios Sociales y Dependencia |
+| Andalucía | Titulares de la [Tarjeta Andalucía Junta 65](/ayudas/descuentos-transporte/#tarjetas-de-mayores-de-las-comunidades), entre otros | Servicio Andaluz de Teleasistencia: condiciones y cuota en la Agencia de Servicios Sociales y Dependencia |
 
 En tu municipio, pregunta en los servicios sociales o en el centro de mayores: las condiciones y el precio cambian de un sitio a otro.
 

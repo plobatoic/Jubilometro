@@ -50,6 +50,6 @@
 | 1 | 13/11 | 1, 2 y 3 | Hecha el 13/11 (tema 2.11.30) |
 | 2 | 16-20/11 | 4, 5, 6 y 7 | Hecha el 17/11 (tema 2.11.37) |
 | 3 | 23-27/11 | 8, 9 y 10 | Hecha el 24/11 (tema 2.11.44) |
-| 4 | 30/11-4/12 | 11, 12 y 13 | Pendiente |
+| 4 | 30/11-4/12 | 11, 12 y 13 | Hecha el 24/11, adelantada (tema 2.11.45) |
 
 Ojo con la 5 (pagas extra): `/cuanto-cobrare/como-se-calcula-la-pension/` enlaza a `/cuanto-cobrare/pagas-extra/`; al fusionarla, cambiar ese enlace.

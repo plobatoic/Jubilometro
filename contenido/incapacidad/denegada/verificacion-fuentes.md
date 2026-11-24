@@ -16,3 +16,8 @@
 | 12 | Revisión por agravación desde el plazo fijado en la resolución | LGSS, art. 200.2; RD 1300/1995, art. 6.2 | Texto del BOE | Verificado en BOE |
 | 13 | Contingencias profesionales sin carencia; base reguladora distinta | LGSS, art. 195; mismo dato que en «Grados de incapacidad» | Texto del BOE | Verificado en BOE |
 | 14 | Total 55 %; cualificada 75 % desde 55 años sin trabajar | Mismo dato que en «Grados de incapacidad» (Orden de 15/04/1969 y Decreto 1646/1972, art. 6) | Texto del BOE | Verificado en BOE |
+
+## 24/11/2026 · Fusión con «Abogado para la incapacidad»
+
+- Se incorpora el apartado «Abogado: cuándo hace falta y cuánto cuesta» con el contenido de /incapacidad/abogado/ (verificado el 29/09/2026; copia en publicacion/fusionadas/incapacidad/).
+- Abogado no obligatorio en la instancia y aviso en la demanda: LRJS art. 21.1 y 21.2; obligatorio en suplicación (abogado o graduado social, art. 18) y casación. Justicia gratuita de trabajadores y beneficiarios: Ley 1/1996 art. 2.d y LRJS art. 21.4. Sin costas en recursos: LRJS art. 235.1. Total cualificada del 75 % con 55 años o más: LGSS art. 196.

@@ -243,7 +243,7 @@ export const PUBLICACIONES = [
   "red": "video",
   "tipo": "Vídeo (listo)",
   "pilar": "Calendario y avisos",
-  "fuente": "/imserso/tarjeta-mayores/",
+  "fuente": "/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe",
   "archivo": "video-11-tarjeta-dorada.mp4",
   "titulo": "Tarjeta Dorada de Renfe: 6 € al año",
   "texto": "Desde los 60 años, la Tarjeta Dorada de Renfe cuesta 6 € al año y da hasta un 40 % de descuento. jubilometro.com/tarjeta-dorada/yt",

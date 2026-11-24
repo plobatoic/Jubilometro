@@ -492,7 +492,7 @@ export const PUBLICACIONES = [
   "id": "renta-vitalicia-x",
   "red": "x",
   "pilar": "Calcula tu caso",
-  "fuente": "/dinero/renta-vitalicia/",
+  "fuente": "/dinero/hipoteca-inversa/#renta-vitalicia",
   "texto": "Con más de 65 años, si vendes un piso que no es tu vivienda, acciones o fondos con ganancia, no pagas IRPF por ella si metes el dinero en una renta vitalicia asegurada en seis meses. Máximo, 240.000 € en toda tu vida.\n\njubilometro.com/renta-vitalicia/x",
   "fecha": "2026-11-17",
   "hora": "09:00"
@@ -1064,7 +1064,7 @@ export const PUBLICACIONES = [
  {
   "red": "x",
   "pilar": "Calendario y avisos",
-  "fuente": "/imserso/tarjeta-mayores/",
+  "fuente": "/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe",
   "texto": "Tarjeta Dorada de Renfe: 6 € al año desde los 60 años.\n\n40 % de descuento en Cercanías y Media Distancia y 25 % en AVE y Larga Distancia. Se saca en la taquilla o en una agencia y se renueva por internet.\n\njubilometro.com/tarjeta-dorada/x",
   "id": "mes1-47",
   "fecha": "2026-12-03",
@@ -1385,7 +1385,7 @@ export const PUBLICACIONES = [
  {
   "red": "facebook",
   "pilar": "Calendario y avisos",
-  "fuente": "/imserso/tarjeta-mayores/",
+  "fuente": "/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe",
   "texto": "La Tarjeta Dorada de Renfe cuesta 6 euros al año y se puede sacar desde los 60 años.\n\nDa un 40 % de descuento en Cercanías y Media Distancia y un 25 % en AVE y Larga Distancia. Se saca en la taquilla de la estación o en una agencia de viajes, y se renueva por internet.\n\nAdemás, varias comunidades tienen su propia tarjeta gratuita para mayores, como la Andalucía Junta 65 o el Carné +65 de Galicia, que llega a casa sin pedirlo. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "id": "mes1-17",
   "fecha": "2026-12-13",
@@ -2170,7 +2170,7 @@ export const PUBLICACIONES = [
   "id": "abogado-x",
   "red": "x",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/incapacidad/abogado/",
+  "fuente": "/incapacidad/denegada/#abogado-cuando-hace-falta-y-cuanto-cuesta",
   "texto": "Para pedir la incapacidad y para la reclamación previa no necesitas abogado. Para el juicio no es obligatorio, pero el INSS va con el suyo. Como beneficiario de la Seguridad Social tienes justicia gratuita, sin importar tus ingresos.\n\njubilometro.com/abogado-incapacidad/x",
   "fecha": "2027-01-05",
   "hora": "13:30"

@@ -16,3 +16,9 @@
 | 12 | Ejemplos: 3 € × 17 viajes = 51 €; con Tarjeta Dorada 51 × 0,60 = 30,60 €; abono 20 €. Matrimonio con 18.000 € ÷ 2 = 9.000 € ≤ 9.240 € | — | Cálculo propio | Cálculo propio |
 
 Fuentes no accesibles desde el entorno de trabajo (no se ha forzado el acceso): transportes.gob.es (403) y sede.madrid.es (403). Se han usado en su lugar la sede electrónica del Ministerio de Transportes, la resolución firmada y el Consorcio Regional de Transportes de Madrid.
+
+## 24/11/2026 · Fusión con «Tarjeta Dorada y tarjetas de mayores»
+
+- Se incorporan «La Tarjeta Dorada de Renfe» y «Tarjetas de mayores de las comunidades» con el contenido de /imserso/tarjeta-mayores/ (verificado el 29/09/2026 y revisado el 20/10/2026; copia en publicacion/fusionadas/imserso/).
+- Tarjeta Dorada (quién, descuentos por tren, precios 6/12/15 €, renovación): web de Renfe «mayores de 60». Junta 65: Agencia de Servicios Sociales y Dependencia de Andalucía. Tarjeta del Mayor: Generalitat Valenciana (Decreto 39/2012). Carné +65: Xunta de Galicia (012).
+- Ejemplos: 20 € − 40 % = 12 €; 60 € − 25 % = 45 €.

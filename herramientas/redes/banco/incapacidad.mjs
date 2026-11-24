@@ -214,7 +214,7 @@ Para el juicio no es obligatorio ir con abogado, aunque el INSS siempre va con e
 Paso a paso: ${L('incapacidad-denegada', 'wa')}`,
   },
   {
-    id: 'abogado-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/incapacidad/abogado/',
+    id: 'abogado-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/incapacidad/denegada/',
     texto: `Para pedir la incapacidad y para la reclamación previa no necesitas abogado. Para el juicio no es obligatorio, pero el INSS va con el suyo. Como beneficiario de la Seguridad Social tienes justicia gratuita, sin importar tus ingresos.
 
 ${L('abogado-incapacidad', 'x')}`,

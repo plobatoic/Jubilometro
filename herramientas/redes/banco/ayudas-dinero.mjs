@@ -216,13 +216,13 @@ ${L('hipoteca-inversa', 'x')}`,
 #jubilacion #vivienda #hipotecainversa #ahorro`,
   },
   {
-    id: 'renta-vitalicia-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/dinero/renta-vitalicia/',
+    id: 'renta-vitalicia-x', red: 'x', pilar: 'Calcula tu caso', fuente: '/dinero/hipoteca-inversa/',
     texto: `Con más de 65 años, si vendes un piso que no es tu vivienda, acciones o fondos con ganancia, no pagas IRPF por ella si metes el dinero en una renta vitalicia asegurada en seis meses. Máximo, 240.000 € en toda tu vida.
 
 ${L('renta-vitalicia', 'x')}`,
   },
   {
-    id: 'renta-vitalicia-li', red: 'linkedin', pilar: 'Profesionales', fuente: '/dinero/renta-vitalicia/',
+    id: 'renta-vitalicia-li', red: 'linkedin', pilar: 'Profesionales', fuente: '/dinero/hipoteca-inversa/',
     texto: `Para asesores financieros y fiscales con clientes mayores de 65 años: la reinversión en renta vitalicia sigue siendo una de las exenciones más útiles del IRPF, y de las menos explicadas.
 
 El artículo 38.3 de la Ley del IRPF exime la ganancia patrimonial obtenida por un mayor de 65 años en la transmisión de cualquier elemento patrimonial si el importe se destina, en seis meses, a constituir una renta vitalicia asegurada a su favor, con un límite de 240.000 euros en toda su vida. Después, la renta tributa como rendimiento del capital mobiliario solo en un porcentaje que depende de la edad al constituirla: el 8 % desde los 70 años.

@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "resolución incapacidad permanente denegada"
 intencion: transaccional
 fase_plan: F2 (artículo n.º 50)
-fecha_actualizacion: 2026-09-28
+fecha_actualizacion: 2026-11-24
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -25,7 +25,7 @@ fuentes_legales:
 
 # Incapacidad permanente denegada: reclamación previa, demanda en el Juzgado de lo Social y otras opciones
 
-*Actualizado el 28 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 24 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -45,7 +45,7 @@ Es obligatoria antes de ir al juzgado ([artículo 71 de la Ley reguladora de la 
 ## Paso 2: la demanda en el Juzgado de lo Social
 
 - **Plazo**: **30 días** desde que te notifican el rechazo de la reclamación previa o desde que se entiende rechazada por silencio.
-- **[Abogado](/incapacidad/abogado/)**: en esta primera instancia **no es obligatorio** ([artículo 21](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a21)), pero sí muy recomendable. Como trabajador o beneficiario de la Seguridad Social, tienes derecho a **asistencia jurídica gratuita** ([artículo 2.d de la Ley 1/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-750)).
+- **[Abogado](#abogado-cuando-hace-falta-y-cuanto-cuesta)**: en esta primera instancia **no es obligatorio** ([artículo 21](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a21)), pero sí muy recomendable. Como trabajador o beneficiario de la Seguridad Social, tienes derecho a **asistencia jurídica gratuita** ([artículo 2.d de la Ley 1/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-750)).
 - **Pruebas**: el juzgado pide al INSS el expediente completo. Puedes aportar informes médicos y la declaración de un **perito médico**. Ojo: **no se pueden alegar hechos distintos de los del expediente**, salvo los nuevos o los que no pudieron conocerse antes ([artículo 143.4](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a143)).
 - **Sentencia**: el juez decide si tienes incapacidad y en qué grado. En esta primera instancia la ley no prevé condena en costas, aunque el juez puede multar a quien actúe con mala fe o temeridad ([artículo 97.3](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a97)).
 
@@ -60,6 +60,38 @@ Contra la sentencia cabe **recurso de suplicación** ante el Tribunal Superior d
 | Respuesta a la reclamación | 45 días (si no, se entiende rechazada) | INSS |
 | Demanda | 30 días desde el rechazo de la reclamación | Juzgado de lo Social |
 | Anuncio del recurso de suplicación | 5 días desde la sentencia | Juzgado de lo Social, para el Tribunal Superior de Justicia |
+
+## Abogado: cuándo hace falta y cuánto cuesta
+
+<!-- tabla: Cuándo hace falta abogado en la incapacidad permanente -->
+| Fase | ¿Abogado obligatorio? | Comentario |
+|---|---|---|
+| Solicitud ante el INSS | No | Te explicamos cómo en [solicitar la incapacidad permanente](/incapacidad/solicitar/) |
+| Reclamación previa (30 días) | No | Es un escrito ante el propio INSS; se puede hacer solo |
+| Juicio en el Juzgado de lo Social | No | Puedes ir por tu cuenta, con abogado o con graduado social ([LRJS, artículo 21.1](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a21)) |
+| Recurso de suplicación (Tribunal Superior de Justicia) | Sí | Abogado o graduado social |
+| Recurso de casación (Tribunal Supremo) | Sí | Solo abogado |
+
+**Por qué conviene ir acompañado al juicio:** se discute con **informes médicos**, a veces con **peritos**, y el INSS acude con un **letrado** especializado. Un profesional te ayuda a preparar la prueba (por ejemplo, un **informe pericial** de un médico independiente que relacione tus limitaciones con las **tareas de tu profesión**) y a pedir el grado adecuado y, de forma subsidiaria, otro inferior. **Ojo:** si quieres ir al juicio con abogado, tienes que **indicarlo en la demanda** con sus datos de contacto; si no, renuncias a llevarlo, salvo que sea la otra parte la que anuncie que va con abogado ([artículo 21.2 de la LRJS](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a21)).
+
+### El abogado de oficio, gratis sin mirar tus ingresos
+
+En el **orden social**, los **trabajadores y beneficiarios de la Seguridad Social** tienen derecho a la justicia gratuita **por ley**, sin importar sus ingresos ([artículo 2.d de la Ley 1/1996](https://www.boe.es/buscar/act.php?id=BOE-A-1996-750#a2) y [artículo 21.4 de la LRJS](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a21)). Qué implica:
+
+1. **Puedes pedir un abogado del turno de oficio** en el **colegio de abogados** de tu provincia o en el propio juzgado.
+2. Pedirlo **suspende los plazos**: no pierdes el de la demanda mientras te designan abogado.
+3. **No pagas costas** si pierdes un recurso ([LRJS, artículo 235.1](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936#a235)).
+4. Si el abogado designado cree que tu reclamación **no tiene fundamento**, debe seguir el procedimiento de «insostenibilidad» de la Ley 1/1996, y la comisión puede designarte otro.
+
+Los **sindicatos** suelen dar asesoría jurídica a sus afiliados, y muchas **asociaciones de pacientes** orientan sobre la incapacidad en su enfermedad.
+
+### Si eliges un abogado particular
+
+No hay tarifas oficiales. Lo habitual es un **fijo por fase**, un **porcentaje de lo que consigas** (normalmente sobre los **atrasos** y a veces sobre algunos meses de pensión) o una **mezcla**. Antes de firmar, pide una **hoja de encargo** por escrito que diga qué **fases** incluye (¿también el recurso si el INSS recurre?), sobre qué cantidades se calcula el porcentaje, si **peritos** e **informes** se pagan aparte y qué cobra si **pierdes**. Desconfía de quien **garantiza el resultado**.
+
+Para la primera cita lleva la **resolución del INSS**, el **dictamen del EVI** (pídelo si no lo tienes), **todos tus informes médicos** ordenados por fecha, una lista de las **tareas** de tu profesión habitual y las **fechas** de notificación.
+
+**Ejemplo: Rosa, 56 años, limpiadora**, presenta ella misma la reclamación previa por una lesión de hombro, que el INSS rechaza. Para el juicio pide un **abogado de oficio** sin tener que acreditar sus ingresos. El juez le reconoce la **total**; como tiene 56 años, cobra la total cualificada (75 %) si no trabaja. Si el INSS recurre y ella pierde, **no pagará costas**.
 
 ## Qué pasa con tu baja y tu trabajo
 
@@ -100,10 +132,18 @@ Si no resuelve en 135 días, se entiende denegada y puedes presentar la reclamac
 
 Sí. Puedes presentar una nueva solicitud con informes médicos nuevos, por ejemplo si tu estado empeora.
 
+### ¿Cuánto cobra un abogado por una incapacidad permanente?
+
+No hay tarifas oficiales: suele cobrar un fijo, un porcentaje de lo que consigas (sobre todo de los atrasos) o una mezcla. Pide siempre un presupuesto por escrito. Como beneficiario de la Seguridad Social, también puedes pedir uno de oficio, gratis.
+
+### ¿Un graduado social puede llevar mi incapacidad?
+
+Sí, en el juicio y en el recurso de suplicación. En el recurso de casación ante el Tribunal Supremo hace falta abogado.
+
 ## Fuentes oficiales
 
-- [Ley 36/2011, reguladora de la jurisdicción social: artículos 21, 71, 97, 140, 143, 194 y 235](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936) (BOE).
-- [Ley 1/1996, de asistencia jurídica gratuita: artículo 2](https://www.boe.es/buscar/act.php?id=BOE-A-1996-750) (BOE).
+- [Ley 36/2011, reguladora de la jurisdicción social: artículos 18, 21, 71, 97, 140, 143, 194 y 235](https://www.boe.es/buscar/act.php?id=BOE-A-2011-15936) (BOE).
+- [Ley 1/1996, de asistencia jurídica gratuita: artículos 2 y 6](https://www.boe.es/buscar/act.php?id=BOE-A-1996-750) (BOE).
 - [Real Decreto 1300/1995, sobre incapacidades laborales: artículo 6](https://www.boe.es/buscar/act.php?id=BOE-A-1995-19848) (BOE).
 - [Ley General de la Seguridad Social: artículos 174 y 200](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
 
@@ -117,4 +157,4 @@ Sí. Puedes presentar una nueva solicitud con informes médicos nuevos, por ejem
 
 *Este artículo es informativo y no sustituye el asesoramiento de un abogado o graduado social ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 24 de noviembre de 2026, se suma la guía «Abogado para la incapacidad permanente» (cuándo hace falta, abogado de oficio, honorarios y ejemplo). 28 de septiembre de 2026, primera versión.*

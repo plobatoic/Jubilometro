@@ -121,7 +121,7 @@ Sí. Estudiar no afecta a tu pensión de jubilación. Solo afectaría si empezar
 ## Siguiente paso
 
 - ¿Quieres viajar además de estudiar? Lee la guía de los [viajes del Imserso](/imserso/viajes-imserso/).
-- ¿Buscas descuentos por ser mayor? Consulta la [Tarjeta Dorada y las tarjetas de mayores](/imserso/tarjeta-mayores/).
+- ¿Buscas descuentos por ser mayor? Consulta la [Tarjeta Dorada y las tarjetas de mayores](/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe).
 - ¿Aún no te has jubilado? Calcula tu [edad de jubilación](/jubilacion/edad-de-jubilacion/).
 
 ---

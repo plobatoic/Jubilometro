@@ -35,7 +35,7 @@ El grado tampoco es para siempre: puede subir si empeoras o bajar si mejoras, co
 
 ## Si te la deniegan
 
-Tienes **30 días** desde la notificación para presentar una reclamación previa ante el INSS y, si la rechaza o no contesta en 45 días, otros 30 días para demandar en el Juzgado de lo Social. Todos los pasos están en [incapacidad permanente denegada](/incapacidad/denegada/). No necesitas abogado para reclamar, y en el juicio tienes derecho a la asistencia jurídica gratuita: cuándo conviene contratar uno lo vemos en [abogado de incapacidad permanente](/incapacidad/abogado/).
+Tienes **30 días** desde la notificación para presentar una reclamación previa ante el INSS y, si la rechaza o no contesta en 45 días, otros 30 días para demandar en el Juzgado de lo Social. Todos los pasos están en [incapacidad permanente denegada](/incapacidad/denegada/). No necesitas abogado para reclamar, y en el juicio tienes derecho a la asistencia jurídica gratuita: cuándo conviene contratar uno lo vemos en [abogado de incapacidad permanente](/incapacidad/denegada/#abogado-cuando-hace-falta-y-cuanto-cuesta).
 
 ## Incapacidad permanente y jubilación
 

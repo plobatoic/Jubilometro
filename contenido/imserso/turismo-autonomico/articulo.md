@@ -141,7 +141,7 @@ Sí. Son programas distintos, de administraciones distintas, y ninguno excluye a
 
 - Los viajes del Estado: [viajes del Imserso 2026-2027](/imserso/viajes-imserso/).
 - Los balnearios del Estado: [termalismo del Imserso](/imserso/termalismo/).
-- Descuentos para viajar en tren y autobús: [Tarjeta Dorada y tarjetas de mayores](/imserso/tarjeta-mayores/).
+- Descuentos para viajar en tren y autobús: [Tarjeta Dorada y tarjetas de mayores](/ayudas/descuentos-transporte/#la-tarjeta-dorada-de-renfe).
 
 ---
 

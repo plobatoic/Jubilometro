@@ -32,4 +32,4 @@ Todo va en euros de hoy: suponemos que la pensión y tus gastos suben con la inf
 
 ## Guía completa
 
-Cómo calcular tu hueco, dónde ahorrar y cuánto, en [cuánto ahorrar para la jubilación](/dinero/ahorro-jubilacion/). Otras formas de convertir ahorro en ingresos: [la renta vitalicia](/dinero/renta-vitalicia/) y [la hipoteca inversa](/dinero/hipoteca-inversa/).
+Cómo calcular tu hueco, dónde ahorrar y cuánto, en [cuánto ahorrar para la jubilación](/dinero/ahorro-jubilacion/). Otras formas de convertir ahorro en ingresos: [la hipoteca inversa y la renta vitalicia](/dinero/hipoteca-inversa/).

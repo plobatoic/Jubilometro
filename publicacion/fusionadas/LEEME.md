@@ -18,3 +18,6 @@ Guías que se juntaron con otra más completa (propuesta en `publicacion/seo/pro
 | /jubilacion/despido-a-los-60/ | /jubilacion/prejubilacion/ | 24/11/2026 |
 | /ayudas/complemento-alquiler/ | /ayudas/pension-no-contributiva/ | 24/11/2026 |
 | /dinero/irpf-pensiones/ | /cuanto-cobrare/pension-bruta-y-neta/ | 24/11/2026 |
+| /dinero/renta-vitalicia/ | /dinero/hipoteca-inversa/ | 24/11/2026 |
+| /incapacidad/abogado/ | /incapacidad/denegada/ | 24/11/2026 |
+| /imserso/tarjeta-mayores/ | /ayudas/descuentos-transporte/ | 24/11/2026 |

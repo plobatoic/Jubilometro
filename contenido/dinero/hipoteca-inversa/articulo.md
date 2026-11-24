@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "como es hipoteca inversa"
 intencion: informativa
 fase_plan: F2 (artículo n.º 82)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-24
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -25,7 +25,7 @@ fuentes_legales:
 
 # Hipoteca inversa, venta de la nuda propiedad o renta vitalicia: cómo sacar dinero de tu casa sin dejar de vivir en ella
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
+*Actualizado el 24 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Agencia Tributaria*
 
 > **Respuesta rápida**
 >
@@ -74,10 +74,50 @@ Vendes la **nuda propiedad** (la casa sin el derecho a usarla) y te reservas el 
 
 Una **renta vitalicia asegurada** es un contrato con una aseguradora: le entregas un capital y te paga una cantidad **cada mes mientras vivas**. Se puede combinar con la venta de la casa o de la nuda propiedad.
 
-- **Tributa poco**: de cada pago, solo se considera rendimiento un porcentaje fijo según tu edad al contratarla: **24 %** entre 60 y 65 años, **20 %** entre 66 y 69 y **8 %** con 70 o más ([artículo 25.3 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a25)).
-- **Si vendes otros bienes** (una segunda vivienda, acciones) con más de 65 años y reinviertes el dinero en una renta vitalicia asegurada **en seis meses**, la ganancia no tributa, con un máximo de **240.000 euros** reinvertidos ([artículo 38.3](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38)).
+**Tributa poco**: de cada pago, solo se considera rendimiento del capital un porcentaje fijo según tu edad al contratarla, que no cambia nunca ([artículo 25.3 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a25)):
+
+<!-- tabla: Parte de la renta vitalicia que tributa según la edad al contratarla -->
+| Edad al contratar la renta | Parte de cada pago que tributa |
+|---|---|
+| 60 a 65 años | 24 % |
+| 66 a 69 años | 20 % |
+| 70 años o más | 8 % |
 
 **Ejemplo**: Pilar contrata a los 72 años una renta vitalicia de **6.000 euros al año**. Solo **480 euros** (el 8 %) cuentan como rendimiento en su declaración de la renta.
+
+### Vender otro bien sin pagar IRPF si reinviertes en una renta vitalicia
+
+Si tienes **más de 65 años** y vendes con beneficio **un bien que no es tu vivienda habitual** (un piso heredado, acciones, fondos, un local, un terreno), la **ganancia no paga IRPF** si reinviertes el dinero en una renta vitalicia asegurada ([artículo 38.3 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a38) y [artículo 42 del Reglamento](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a42)). Los requisitos:
+
+1. Tener **más de 65 años** cuando vendes.
+2. Reinvertir el **importe total obtenido** (no solo la ganancia) en **seis meses** desde la venta. Si la venta tuvo **retención** (por ejemplo, en fondos), el importe retenido puede reinvertirse **hasta el final del año siguiente**.
+3. Contratarla con una **aseguradora**, siendo **tú el beneficiario**, y **comunicarle** que la contratas como reinversión.
+4. Que la renta sea **periódica** (al menos anual), empiece a cobrarse **en el plazo de un año** y no baje más de un **5 % anual**.
+
+El máximo es de **240.000 euros en toda tu vida**, sumando todas las reinversiones. Si reinviertes menos de lo obtenido, la exención es **proporcional**: si vendes unas acciones por 300.000 euros con una ganancia de 90.000 y reinviertes 240.000 (el 80 %), queda exento el 80 % de la ganancia (72.000 euros) y tributas por 18.000. Si la venta es en un año y la renta la contratas en el siguiente, indica en la declaración del año de la venta que **vas a reinvertir**.
+
+**Ejemplo: Pedro, 72 años**, vende un piso heredado por **200.000 euros**, con una ganancia de **80.000 euros**. Sin reinvertir, pagaría en la base del ahorro de 2026 ([artículos 66 y 76 de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764#a66)):
+
+<!-- tabla: IRPF de una ganancia patrimonial de 80.000 euros en 2026 (escala del ahorro, estatal más autonómica) -->
+| Tramo de la ganancia | Tipo | Impuesto |
+|---|---|---|
+| Hasta 6.000 € | 19 % | 1.140 € |
+| De 6.000 a 50.000 € | 21 % | 9.240 € |
+| De 50.000 a 80.000 € | 23 % | 6.900 € |
+| **Total** | | **17.280 €** |
+
+Si reinvierte los 200.000 euros en una renta vitalicia en seis meses, **no paga nada por la ganancia** (la **plusvalía municipal** del piso sí se paga). Si después cobrara **900 euros al mes** (10.800 al año), solo tributarían **864 euros al año** (el 8 %). Lo que ofrece cada aseguradora depende de tu edad, de los tipos de interés y de si pactas un contraseguro: **compara varias ofertas por escrito**.
+
+Si vendes tu **vivienda habitual** con más de 65 años, la ganancia ya está exenta sin reinvertir: lo explicamos en [vender la vivienda con más de 65 años](/dinero/vender-vivienda-65/).
+
+### Los inconvenientes de la renta vitalicia
+
+- **Es irreversible.** Si **rescatas o adelantas** la renta, total o parcialmente, **pierdes la exención**: tendrás que declarar la ganancia en una **autoliquidación complementaria** del año de la venta, con **intereses de demora**.
+- **Si falleces pronto, el capital puede perderse.** Puedes pactar un **contraseguro** (tus herederos recuperan una parte), un **periodo cierto** de pagos o que la renta **revierta** en tu pareja, pero todo eso **reduce la renta mensual**.
+- **La inflación.** Muchas rentas son fijas: pregunta si la tuya se revaloriza.
+- **Liquidez.** Ese dinero ya no estará disponible para imprevistos, como una residencia o una reforma.
+
+Una alternativa es el **PIAS** (plan individual de ahorro sistemático): aportas hasta **8.000 euros al año** (240.000 en total) a un seguro de vida y, si al cabo de **cinco años** lo conviertes en una renta vitalicia, la rentabilidad acumulada **no tributa** ([disposición adicional tercera de la Ley del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764)).
 
 ## Antes de firmar
 
@@ -112,10 +152,19 @@ Tú, como usufructuario: el IBI lo paga el titular del usufructo antes que el pr
 
 Depende de lo que quieras para tu casa y tus herederos. Con la hipoteca inversa sigues siendo el dueño, tus hijos heredan la casa con la deuda (pueden pagarla o vender) y lo que cobras no es renta en el IRPF. Con la venta de la nuda propiedad cobras el precio y vives en la casa de por vida, pero tus hijos no heredan nada de ella; la ganancia está exenta si es tu vivienda habitual y tienes más de 65 años.
 
+### ¿Cuánto se puede reinvertir en una renta vitalicia sin pagar IRPF?
+
+Hasta 240.000 euros en total a lo largo de tu vida, en los seis meses siguientes a la venta. Si obtienes más en la venta, la exención es proporcional.
+
+### ¿Puedo recuperar el dinero de la renta vitalicia?
+
+Depende del contrato, pero si rescatas o adelantas la renta, pierdes la exención y pagas el IRPF de la ganancia con intereses de demora.
+
 ## Fuentes oficiales
 
 - [Ley 41/2007, disposición adicional primera (hipoteca inversa)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-21086) (BOE).
-- [Ley del IRPF: artículos 25.3, 33.4 y 38.3 y disposición adicional 15.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764) (BOE).
+- [Ley del IRPF: artículos 25.3, 33.4, 38.3, 66 y 76 y disposiciones adicionales 3.ª y 15.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2006-20764) (BOE).
+- [Reglamento del IRPF, artículo 42 (reinversión en rentas vitalicias)](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820) (BOE).
 - [Ley del Impuesto sobre Sucesiones y Donaciones: artículo 26 (valor del usufructo)](https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141) (BOE).
 - [Ley de Haciendas Locales: artículo 61 (IBI)](https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214) (BOE).
 - [Agencia Tributaria: transmisión de la vivienda habitual por mayores de 65 años](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/manual-especifico-irpf-2025-personas-anos/rentas-que-no-se-declaran-irpf/transmision-vivienda-habitual-mayores-65-anos.html).
@@ -130,4 +179,4 @@ Depende de lo que quieras para tu casa y tus herederos. Con la hipoteca inversa 
 
 *Este artículo es informativo y no sustituye el asesoramiento financiero, fiscal o legal independiente, obligatorio en la hipoteca inversa. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, precisada la edad del 8 % de la renta vitalicia. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 24 de noviembre de 2026, se suma la guía «Renta vitalicia asegurada para mayores de 65» (reinversión sin IRPF, límite de 240.000 euros, ejemplo e inconvenientes). 3 de noviembre de 2026, pregunta frecuente nueva. 20 de octubre de 2026, precisada la edad del 8 % de la renta vitalicia. 28 de septiembre de 2026, primera versión.*

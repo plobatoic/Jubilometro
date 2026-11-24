@@ -12,7 +12,7 @@ Cumplir 65 años tiene premio en el IRPF:
 
 - **Mínimo personal más alto**: la parte de tu renta que no tributa pasa de 5.550 euros a **6.700** desde los 65 años y a **8.100** desde los 75.
 - **Vender tu vivienda habitual**: si tienes más de 65 años, la ganancia está **exenta**, sin límite y hagas lo que hagas con el dinero. Solo pagas la plusvalía municipal. Lo explicamos en [vender la vivienda con más de 65 años](/dinero/vender-vivienda-65/).
-- **Vender otros bienes y contratar una renta vitalicia**: si vendes con beneficio un piso que no es tu vivienda, acciones o fondos, y reinviertes el dinero en una [renta vitalicia](/dinero/renta-vitalicia/) en seis meses, la ganancia no tributa, hasta 240.000 euros en toda tu vida.
+- **Vender otros bienes y contratar una renta vitalicia**: si vendes con beneficio un piso que no es tu vivienda, acciones o fondos, y reinviertes el dinero en una [renta vitalicia](/dinero/hipoteca-inversa/#renta-vitalicia) en seis meses, la ganancia no tributa, hasta 240.000 euros en toda tu vida.
 
 ## Planes de pensiones: rescate e impuestos
 

@@ -182,7 +182,7 @@ Ojo: 2 de esos 15 años tienen que estar dentro de los 15 anteriores a jubilarte
 ${L('15-anos', 'x')}`,
   },
   {
-    fecha: '2026-10-15', banco: 'perenne', red: 'facebook', pilar: 'Calendario y avisos', fuente: '/imserso/tarjeta-mayores/',
+    fecha: '2026-10-15', banco: 'perenne', red: 'facebook', pilar: 'Calendario y avisos', fuente: '/ayudas/descuentos-transporte/',
     texto: `La Tarjeta Dorada de Renfe cuesta 6 euros al año y se puede sacar desde los 60 años.
 
 Da un 40 % de descuento en Cercanías y Media Distancia y un 25 % en AVE y Larga Distancia. Se saca en la taquilla de la estación o en una agencia de viajes, y se renueva por internet.
@@ -472,7 +472,7 @@ La convocatoria de 2027 sale en el BOE hacia finales de año. ${FB_WEB}`,
 Qué día paga cada banco y el calendario hasta 2027: ${L('cobro', 'wa')}`,
   },
   {
-    fecha: '2026-10-24', banco: 'perenne', red: 'x', pilar: 'Calendario y avisos', fuente: '/imserso/tarjeta-mayores/',
+    fecha: '2026-10-24', banco: 'perenne', red: 'x', pilar: 'Calendario y avisos', fuente: '/ayudas/descuentos-transporte/',
     texto: `Tarjeta Dorada de Renfe: 6 € al año desde los 60 años.
 
 40 % de descuento en Cercanías y Media Distancia y 25 % en AVE y Larga Distancia. Se saca en la taquilla o en una agencia y se renueva por internet.
@@ -843,7 +843,7 @@ Las auxiliares ayudan con el aseo, la comida, vestirse y moverse, y con las tare
 ${FB_WEB}`,
   },
   {
-    fecha: '2026-11-05', banco: 'perenne', red: 'video', tipo: 'Vídeo (listo)', pilar: 'Calendario y avisos', fuente: '/imserso/tarjeta-mayores/',
+    fecha: '2026-11-05', banco: 'perenne', red: 'video', tipo: 'Vídeo (listo)', pilar: 'Calendario y avisos', fuente: '/ayudas/descuentos-transporte/',
     archivo: 'video-11-tarjeta-dorada.mp4',
     titulo: 'Tarjeta Dorada de Renfe: 6 € al año',
     texto: `Desde los 60 años, la Tarjeta Dorada de Renfe cuesta 6 € al año y da hasta un 40 % de descuento. ${L('tarjeta-dorada', 'yt')}`,

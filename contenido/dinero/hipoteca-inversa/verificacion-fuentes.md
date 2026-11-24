@@ -14,3 +14,8 @@
 | 10 | Rentas vitalicias inmediatas: rendimiento = 24 % (60-65), 20 % (66-69), 8 % (más de 70), según la edad al constituirla | Ley del IRPF, art. 25.3.a.2.º | Texto consolidado del BOE | Verificado en BOE |
 | 11 | Exclusión de la ganancia de mayores de 65 que reinvierten en renta vitalicia asegurada en 6 meses; máximo 240.000 €; proporcional si se reinvierte menos | Ley del IRPF, art. 38.3 | Texto del BOE | Verificado en BOE |
 | 12 | Ejemplo: 6.000 € × 8 % = 480 € | — | Cálculo propio | Cálculo propio |
+
+## 24/11/2026 · Fusión con «Renta vitalicia»
+
+- Se amplía el apartado «Renta vitalicia» con el contenido de /dinero/renta-vitalicia/ (verificado el 29/09/2026 y revisado el 20/10/2026; copia en publicacion/fusionadas/dinero/).
+- Porcentajes 24/20/8 %: Ley del IRPF art. 25.3. Exención por reinversión, seis meses, 240.000 € y proporcionalidad: art. 38.3 de la Ley y art. 42 del Reglamento (BOE-A-2007-6820). Escala del ahorro 19/21/23 %: arts. 66 y 76 (6.000 × 19 % = 1.140; 44.000 × 21 % = 9.240; 30.000 × 23 % = 6.900; total 17.280). 10.800 × 8 % = 864. PIAS: disposición adicional tercera.
