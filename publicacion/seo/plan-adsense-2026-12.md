@@ -10,6 +10,21 @@
 
 - [x] 24/11: tandas 3 y 4 de fusiones; ya están hechas las 13 fusiones aprobadas (hoy, 6 guías menos).
 
+## Calendario hasta la nueva solicitud
+
+| Fecha | Qué | Quién |
+|---|---|---|
+| 25-28/11 | Mejorar las 9 guías sin lectores (unas 3 al día): un ejemplo con números y un dato propio en cada una, con su fuente oficial | Claude |
+| 25-28/11 | Exportar Search Console (Rendimiento 3 meses + «Rastreada: actualmente sin indexar») y decidir la tanda 5 y lo de dependencia por comunidades | Titular |
+| 27/11 | IPC adelantado de noviembre: poner al día la subida de 2027 | Claude |
+| 28/11 | Tablas de datos con la nómina de noviembre | Claude |
+| 30/11-2/12 | Elecciones: resumen con los resultados y qué cambia para las pensiones en la comparativa; las 9 guías de partidos a borrador con 301; quitar el aviso de la portada | Claude |
+| 1-3/12 | Tanda 5 (si se aprueba) y dependencia por comunidades (según lo que decida el titular) | Claude |
+| 2-5/12 | Con los datos de Search Console: juntar o mejorar las guías «sin indexar» | Claude |
+| 8-12/12 | Repaso final para AdSense: páginas legales y de autor, menú, ninguna página vacía o a medias, ads.txt, velocidad y enlaces rotos | Claude |
+| 12/12 aprox. | IPC definitivo de noviembre: cerrar la subida de 2027 en las guías (contenido fresco y útil justo antes de la revisión) | Claude |
+| 15/12 | Pedir de nuevo la revisión en AdSense (Sitios → jubilometro.com → «Solicitar revisión») | Titular |
+
 ## Pendiente
 
 1. **Elecciones (después del 29/11):** una página resumen con los resultados y lo que cambia para las pensiones; las 9 páginas de partidos a borrador con 301 a la comparativa.
