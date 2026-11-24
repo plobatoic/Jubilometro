@@ -8,7 +8,7 @@
 
 ## Hecho
 
-- [x] 24/11: tandas 3 y 4 de fusiones (13 de 13 hechas; de 146 guías a 144 publicadas tras las nuevas de elecciones; 6 menos hoy).
+- [x] 24/11: tandas 3 y 4 de fusiones; ya están hechas las 13 fusiones aprobadas (hoy, 6 guías menos).
 
 ## Pendiente
 
