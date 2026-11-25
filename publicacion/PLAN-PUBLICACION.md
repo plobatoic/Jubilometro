@@ -549,6 +549,10 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Auditoría de SEO y rastreo (25/11/2026, tema 2.11.47)
+
+Detalle en `publicacion/seo/auditoria-seo-2026-11-25.md`. Arreglado: feeds de guías, categorías y comentarios con 301 a su página y noindex en /feed/; sin enlace corto ?p= ni feeds extra en la cabecera; mayúsculas con 301 a minúsculas; títulos acortados en las cuatro tablas de /datos/ y en Dependencia, título nuevo en /elecciones/ (Rank Math, y en los programas de herramientas/datos/); enlace de eSTADISS en https; enlaces a las tablas de datos desde cuatro guías.
+
 ### Plan AdSense: tanda 5 y primeras mejoras (25/11/2026, tema 2.11.46)
 
 El titular delega el plan de AdSense («ves haciéndolo tú todo»). Hecho hoy:

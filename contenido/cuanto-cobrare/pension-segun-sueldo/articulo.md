@@ -122,9 +122,10 @@ No necesariamente. Cuenta la media de las bases de los últimos 25 años, así q
 - ¿Cómo se hace la media? Mira la [base reguladora de la jubilación](/cuanto-cobrare/como-se-calcula-la-pension/#paso-1-la-base-reguladora-con-el-sistema-dual).
 - ¿Cuánto te quedará en el bolsillo? Consulta la [pensión bruta y neta](/cuanto-cobrare/pension-bruta-y-neta/).
 - ¿Te llegará para tus gastos? Calcula [cuánto dinero necesitas ahorrado para jubilarte](/dinero/ahorro-jubilacion/).
+- ¿Cómo queda frente a la de los demás? Compárala con la [pensión media de jubilación de tu provincia](/datos/pension-media-provincia/) y con su [evolución desde 2010](/datos/evolucion-pension-media/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, enlace a las tablas de datos propios. 28 de septiembre de 2026, primera versión.*

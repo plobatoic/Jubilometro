@@ -258,11 +258,11 @@ console.log(`${mesTxt}: brecha ${num(T.num)} (media ${eur(T.valor)}; mujeres ${p
 
 const PAGINAS = [
   { slug: 'complemento-minimos-provincia', title: 'Complemento a mínimos por provincia', html: htmlMin,
-    seo: { rank_math_title: `Pensiones con complemento a mínimos por provincia (${MESES[M]} ${ANIO}) %sep% %sitename%`,
+    seo: { rank_math_title: `Complemento a mínimos por provincia (${MESES[M]} ${ANIO})`,
       rank_math_description: `${num(MIN.total.num)} pensiones cobran complemento a mínimos, el ${pct(MIN.total.valor)}. Porcentaje por provincia, por sexo y por clase de pensión, con datos oficiales de ${mesTxt}.`,
       rank_math_focus_keyword: 'complemento a mínimos por provincia' } },
   { slug: 'complemento-brecha-genero-provincia', title: 'Complemento de brecha de género por provincia', html: htmlBre,
-    seo: { rank_math_title: `Complemento de brecha de género por provincia (${MESES[M]} ${ANIO}) %sep% %sitename%`,
+    seo: { rank_math_title: `Complemento de brecha de género por provincia (${MESES[M]} ${ANIO})`,
       rank_math_description: `${num(T.num)} pensiones cobran el complemento de brecha de género, con ${eur(T.valor)} de media. Datos por provincia y por número de hijos, de ${mesTxt}.`,
       rank_math_focus_keyword: 'complemento brecha de género por provincia' } }
 ];

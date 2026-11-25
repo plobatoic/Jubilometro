@@ -139,9 +139,10 @@ Se pide junto con la pensión: en la solicitud declaras los ingresos que prevés
 - ¿Cuál es tu mínima? Mira todas las cuantías en [pensión mínima de jubilación en 2026](/cuanto-cobrare/pension-minima/).
 - ¿No tienes pensión contributiva? Consulta la [pensión no contributiva](/ayudas/pension-no-contributiva/).
 - ¿Cuánto subirá en 2027? Lee la [revalorización de las pensiones](/cuanto-cobrare/revalorizacion-pensiones/).
+- ¿Y el complemento de las madres pensionistas? Mira cuántas personas lo cobran [en cada provincia](/datos/complemento-brecha-genero-provincia/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 3 de noviembre de 2026, pregunta frecuente nueva. 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, quitado un enlace repetido. 14 de octubre de 2026, enlaces a la pensión a favor de familiares y a lo que pagan los mayores en la farmacia. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*
+*Historial de cambios: 25 de noviembre de 2026, enlace a las tablas de datos propios. 3 de noviembre de 2026, pregunta frecuente nueva. 1 de noviembre de 2026, cuántas pensiones lo cobran y enlace a los datos por provincia. 20 de octubre de 2026, quitado un enlace repetido. 14 de octubre de 2026, enlaces a la pensión a favor de familiares y a lo que pagan los mayores en la farmacia. 28 de septiembre de 2026, primera versión; 29 de septiembre de 2026, exención del copago farmacéutico (Real Decreto-ley 11/2026).*

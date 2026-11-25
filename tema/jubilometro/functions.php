@@ -6,7 +6,7 @@
 if ( ! defined( 'ABSPATH' ) ) { exit; }
 
 define( 'JM_THEME', true );
-define( 'JM_THEME_VER', '2.11.46' );
+define( 'JM_THEME_VER', '2.11.47' );
 define( 'JM_THEME_DIR', get_stylesheet_directory() );
 define( 'JM_THEME_URI', get_stylesheet_directory_uri() );
 
@@ -91,6 +91,31 @@ add_action( 'init', function () {
 add_filter( 'wp_img_tag_add_auto_sizes', '__return_false' );
 // Los comentarios están cerrados: sin enlace al feed de comentarios
 add_filter( 'feed_links_show_comments_feed', '__return_false' );
+
+// Rastreo de Google (auditoría del 25/11/2026). Solo se mantiene el feed general /feed/ (lo usan lectores de RSS).
+// Los feeds de cada guía, de las categorías y de comentarios salen vacíos y gastan rastreo: llevan a su página.
+// Y ningún feed se indexa.
+remove_action( 'wp_head', 'feed_links_extra', 3 );
+remove_action( 'wp_head', 'wp_shortlink_wp_head', 10 );
+remove_action( 'template_redirect', 'wp_shortlink_header', 11 );
+add_action( 'template_redirect', function () {
+	if ( ! is_feed() ) { return; }
+	if ( is_singular() ) { wp_safe_redirect( get_permalink( get_queried_object_id() ), 301 ); exit; }
+	if ( is_comment_feed() || is_category() || is_tag() || is_author() || is_search() ) {
+		wp_safe_redirect( home_url( '/' ), 301 ); exit;
+	}
+}, 1 );
+add_action( 'send_headers', function () { if ( is_feed() ) { header( 'X-Robots-Tag: noindex, follow' ); } } );
+
+// Direcciones con mayúsculas (/JUBILACION/...) daban la misma página con código 200: ahora llevan a la buena en minúsculas
+add_action( 'template_redirect', function () {
+	$uri  = isset( $_SERVER['REQUEST_URI'] ) ? (string) wp_unslash( $_SERVER['REQUEST_URI'] ) : '';
+	$path = (string) wp_parse_url( $uri, PHP_URL_PATH );
+	if ( '' === $path || $path === strtolower( $path ) || is_admin() || false !== strpos( $path, '/wp-' ) ) { return; }
+	$query = (string) wp_parse_url( $uri, PHP_URL_QUERY );
+	wp_safe_redirect( home_url( strtolower( $path ) ) . ( $query ? '?' . $query : '' ), 301 );
+	exit;
+}, 0 );
 
 // Navegación instantánea: el navegador precarga la guía al dejar el ratón encima (reglas de especulación de WordPress)
 add_filter( 'wp_speculation_rules_configuration', function ( $config ) {

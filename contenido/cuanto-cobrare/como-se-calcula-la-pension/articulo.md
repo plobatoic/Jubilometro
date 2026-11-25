@@ -206,9 +206,10 @@ Si la subida de los dos últimos años supera la media de tu convenio y no se de
 - ¿Cuántos años te faltan para el 100 %? Consulta el [porcentaje de la pensión según los años cotizados](/cuanto-cobrare/porcentaje-anos-cotizados/).
 - ¿Cuándo te puedes jubilar? Mira la [tabla de edad de jubilación](/jubilacion/edad-de-jubilacion/).
 - ¿Te quedarás cerca del mínimo? Lee cómo funciona el [complemento a mínimos](/cuanto-cobrare/complemento-a-minimos/).
+- ¿Cuánto se cobra de media? Mira la [pensión media de jubilación por provincia](/datos/pension-media-provincia/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 13 de noviembre de 2026, se incorpora la guía de la base reguladora (bases de cotización, subidas de los dos últimos años, pluriempleo y paro). 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, enlace a las tablas de datos propios. 13 de noviembre de 2026, se incorpora la guía de la base reguladora (bases de cotización, subidas de los dos últimos años, pluriempleo y paro). 28 de septiembre de 2026, primera versión.*

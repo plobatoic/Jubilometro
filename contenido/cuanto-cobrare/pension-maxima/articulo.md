@@ -124,9 +124,10 @@ Lo que suban las pensiones, más 0,115 puntos adicionales acumulativos cada año
 - ¿Y por abajo? Consulta la [pensión mínima de jubilación en 2026](/cuanto-cobrare/pension-minima/).
 - ¿Cuánto te quedará limpio? Calcula tu [pensión neta con la retención de IRPF](/calculadoras/pension-neta-irpf/).
 - ¿Cómo se llega a la base reguladora? Lee [cómo se calcula la pensión de jubilación](/cuanto-cobrare/como-se-calcula-la-pension/).
+- ¿Cuánto ha subido la pensión media? Mira su [evolución desde 2010](/datos/evolucion-pension-media/).
 
 ---
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS), que es quien calcula y reconoce tu pensión. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, corrección gramatical. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, enlace a las tablas de datos propios. 20 de octubre de 2026, corrección gramatical. 28 de septiembre de 2026, primera versión.*
