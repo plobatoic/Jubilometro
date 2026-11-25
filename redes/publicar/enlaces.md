@@ -28,4 +28,4 @@ Subidos el 14/11/2026 a la biblioteca de Orshot. Sirven para descargarlos y prog
 ## Formato presentador (24/11)
 
 - Reel 15 · Complemento a mínimos (salón 3D, voz Chatterbox, 25/11): https://storage.orshot.com/cloud/w-31139/renders/videos/reel-15-complemento-minimos-salon3dmp4-xO1EliQxyl5.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-15jpg-HN0TR9OqCU2.jpg
-- Reel 17 · 60.000 €: https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-presentadormp4-MO4sXiXKAME.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17jpg-6sewTsaO6U6.jpg
+- Reel 17 · 60.000 €: https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-munecosmp4-7aegRkNTGTJ.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17-munecosjpg-fo7d7hxi2qO.jpg

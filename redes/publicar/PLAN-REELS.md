@@ -21,7 +21,7 @@ Excepción ya acordada: los reels de partidos del 25 al 27/11 (y E3 el 26/11) se
 | SV | SOVI | https://static.metricool.com/planner/202611/7853768-file-15412600655792981491.mp4 | — |
 | 15A | 15 años cotizados (versión anterior) | https://storage.orshot.com/cloud/w-31139/renders/videos/tiktok-15-anos-cotizadosmp4-hX8Gjvrwd6W.mp4 | — |
 | 15 | Complemento a mínimos (nuevo, voz nueva) | VIDEO15 (lo pongo cuando acabe el render) | — |
-| 17 | 60.000 € (nuevo) | VIDEO17 (lo pongo cuando acabe el render) | — |
+| 17 | 60.000 € (nuevo) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-munecosmp4-7aegRkNTGTJ.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17-munecosjpg-fo7d7hxi2qO.jpg |
 | 18 | 15 años cotizados (nuevo) | VIDEO18 (lo pongo cuando acabe el render) | — |
 | 19 | Despido: jubilación involuntaria (nuevo) | VIDEO19 (lo pongo cuando acabe el render) | — |
 | N1, N2, N3 | Reels nuevos de la tarea del miércoles 2/12 | Te los paso el 2/12 por la noche | — |

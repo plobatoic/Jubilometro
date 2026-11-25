@@ -18,7 +18,7 @@ Los reels 17, 18 y 19 son nuevos, con los muñecos mejorados en el salón y la o
 
 ## Vídeos
 
-- 17 · 60.000 €: VIDEO17 · portada PORTADA17
+- 17 · 60.000 €: https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-munecosmp4-7aegRkNTGTJ.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17-munecosjpg-fo7d7hxi2qO.jpg
 - 18 · 15 años cotizados: VIDEO18 · portada PORTADA18
 - 19 · despido: VIDEO19 · portada PORTADA19
 - R1 nacidos en 1960: https://static.metricool.com/planner/202611/7853768-file-4353315889440953158.mp4
