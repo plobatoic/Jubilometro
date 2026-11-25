@@ -2,12 +2,13 @@
 // Piper con la voz «davefx» (español de España, licencia CC0) y un repaso de sonido para que no suene metálica:
 // sin recortes, menos agudos, más cuerpo, un poco de sala y volumen de redes (−16 LUFS).
 //
-// 25/11: Pau pide una voz menos robótica y que Rosa hable con voz de mujer. Motor por defecto: Chatterbox
-// multilingüe (voz_chatterbox.py), con voz de mujer para Rosa y de hombre para Luis. Piper queda con --piper.
+// 25/11: Pau pide una voz de hombre, natural y con buena entonación. Motor por defecto: Chatterbox multilingüe
+// (voz_chatterbox.py) con el timbre de voces/ref-hombre.wav: un lector voluntario de LibriVox (Multilingual
+// LibriSpeech, hablante 8304, CC BY 4.0), elegido entre 22 lectores por claridad, entonación y grabación limpia.
+// Con --mujer habla la voz de mujer (voces/ref-rosa.wav). Piper queda con --piper.
 //
-// Uso: node herramientas/reels/voz.mjs <carpeta-del-reel> [<carpeta> …] [--luis] [--piper]
+// Uso: node herramientas/reels/voz.mjs <carpeta-del-reel> [<carpeta> …] [--mujer] [--piper]
 //   Lee voz.txt de cada carpeta y escribe voz-original.mp3. Si ya existe, la rehace.
-//   Habla Rosa salvo que pases --luis.
 // Requisitos: pip install piper-tts (una vez). El modelo se descarga solo a herramientas/reels/.cache/.
 import { execFileSync } from "node:child_process";
 import { existsSync, mkdirSync, readFileSync, writeFileSync, rmSync } from "node:fs";
@@ -38,9 +39,9 @@ function modelo() {
 }
 
 // Repaso de sonido para Chatterbox: ya suena natural, solo limpieza y volumen de redes
-const FILTRO_CB = ["highpass=f=70", "deesser=i=0.3", "acompressor=threshold=-20dB:ratio=2:attack=10:release=120:makeup=1.5", "loudnorm=I=-16:TP=-2:LRA=7", "aresample=44100"].join(",");
+const FILTRO_CB = ["atempo=1.08", "highpass=f=70", "deesser=i=0.3", "acompressor=threshold=-20dB:ratio=2:attack=10:release=120:makeup=1.5", "loudnorm=I=-16:TP=-2:LRA=7", "aresample=44100"].join(",");
 
-export function generarVoz(carpeta, { quien = "rosa", motor = "chatterbox" } = {}) {
+export function generarVoz(carpeta, { quien = "hombre", motor = "chatterbox" } = {}) {
   const txt = join(carpeta, "voz.txt");
   if (!existsSync(txt)) throw new Error(`Falta ${txt}`);
   if (motor === "chatterbox") {
@@ -48,7 +49,7 @@ export function generarVoz(carpeta, { quien = "rosa", motor = "chatterbox" } = {
     execFileSync("python3", [join(AQUI, "voz_chatterbox.py"), txt, crudo, quien], { stdio: "inherit", env: { ...process.env, HF_HUB_DISABLE_XET: "1" } });
     execFileSync("ffmpeg", ["-loglevel", "error", "-y", "-i", crudo, "-af", FILTRO_CB, "-b:a", "160k", salida], { stdio: "inherit" });
     rmSync(crudo);
-    writeFileSync(join(carpeta, "voz.info"), `Chatterbox multilingüe (MIT) · voz de ${quien === "luis" ? "hombre (Luis)" : "mujer (Rosa)"} · herramientas/reels/voz.mjs\n`);
+    writeFileSync(join(carpeta, "voz.info"), `Chatterbox multilingüe (MIT) · ${quien === "rosa" ? "voz de mujer" : "voz de hombre: timbre de un lector de LibriVox (Multilingual LibriSpeech, hablante 8304, CC BY 4.0)"} · herramientas/reels/voz.mjs\n`);
     return salida;
   }
   modelo();
@@ -64,7 +65,7 @@ export function generarVoz(carpeta, { quien = "rosa", motor = "chatterbox" } = {
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
   const args = process.argv.slice(2), carpetas = args.filter((a) => !a.startsWith("--"));
-  const op = { quien: args.includes("--luis") ? "luis" : "rosa", motor: args.includes("--piper") ? "piper" : "chatterbox" };
+  const op = { quien: args.includes("--mujer") ? "rosa" : "hombre", motor: args.includes("--piper") ? "piper" : "chatterbox" };
   if (!carpetas.length) { console.error("Uso: node herramientas/reels/voz.mjs <carpeta> [<carpeta> …]"); process.exit(1); }
   for (const c of carpetas) console.log("Voz:", generarVoz(resolve(c), op));
 }

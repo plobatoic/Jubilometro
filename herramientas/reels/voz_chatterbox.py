@@ -1,6 +1,6 @@
 # Voz de los reels con Chatterbox multilingüe (Resemble AI, licencia MIT), en español.
-# Timbre de referencia: voces/ref-rosa.wav (mujer) o voces/ref-luis.wav (hombre), sacadas de Kokoro (Apache 2.0).
-# Uso: python3 voz_chatterbox.py <texto.txt> <salida.wav> <rosa|luis>
+# Timbre de referencia: voces/ref-hombre.wav (lector de LibriVox, MLS hablante 8304, CC BY 4.0) o voces/ref-rosa.wav (mujer, Kokoro).
+# Uso: python3 voz_chatterbox.py <texto.txt> <salida.wav> <hombre|rosa>
 import re, sys, os
 import torch, torchaudio
 from chatterbox.mtl_tts import ChatterboxMultilingualTTS
@@ -19,7 +19,7 @@ for p in parrafos:
     for i, f in enumerate(frases): trozos.append((f, 0.45 if i == len(frases) - 1 else 0.2))
 partes = []
 for t, pausa in trozos:
-    w = m.generate(t, language_id="es", audio_prompt_path=ref, exaggeration=0.45, cfg_weight=0.5)
+    w = m.generate(t, language_id="es", audio_prompt_path=ref, exaggeration=0.6, cfg_weight=0.4)
     partes += [w, torch.zeros(1, int(m.sr * pausa))]
     print("  ·", t[:60], flush=True)
 torchaudio.save(salida, torch.cat(partes, dim=1), m.sr)
