@@ -185,6 +185,13 @@ Rosa (o Luis) presenta a cámara, abajo a la derecha, con la **boca sincronizada
 - Voz: `node herramientas/reels/voz.mjs <carpeta>` (Piper 1c). Ningún clip de vídeo se repite entre reels.
 - Si el ejemplo del guion es Luis, presenta Rosa, y al revés.
 
+## Voz (25/11)
+
+**Pau elige «Gonzalo Varela» de ElevenLabs** (voice_id `eHAEFkimnYz57pupUMcq`): locutor de España, natural y con buena entonación.
+- Se genera con el conector de ElevenLabs de la sesión (modelo multilingüe v2), con el texto de `voz.txt`, y se guarda como `voz-original.mp3`.
+- Gasta unos 450 créditos por reel. Los créditos se renuevan el 5/12 (unos 10.000, para unos 20 reels al mes).
+- De reserva, gratis y sin límite: `node herramientas/reels/voz.mjs <carpeta>`. Usa Chatterbox con el timbre de un hombre de España (VoxPopuli, hablante 1973, CC0) y tarda unos 16 minutos por reel.
+
 ## Lo que funciona (datos del 16 al 24/11/2026, Metricool)
 
 Alcance en Instagram y reproducciones en Facebook de cada reel publicado entre el 16 y el 24/11.
