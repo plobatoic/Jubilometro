@@ -3,8 +3,8 @@
 // sin recortes, menos agudos, más cuerpo, un poco de sala y volumen de redes (−16 LUFS).
 //
 // 25/11: Pau pide una voz de hombre, natural y con buena entonación. Motor por defecto: Chatterbox multilingüe
-// (voz_chatterbox.py) con el timbre de voces/ref-hombre.wav: un lector voluntario de LibriVox (Multilingual
-// LibriSpeech, hablante 8304, CC BY 4.0), elegido entre 22 lectores por claridad, entonación y grabación limpia.
+// (voz_chatterbox.py) con el timbre de voces/ref-hombre.wav: un hombre de España del Parlamento Europeo (VoxPopuli,
+// hablante 1973, dominio público CC0), elegido entre 60 voces por acento español, entonación y grabación limpia.
 // Con --mujer habla la voz de mujer (voces/ref-rosa.wav). Piper queda con --piper.
 //
 // Uso: node herramientas/reels/voz.mjs <carpeta-del-reel> [<carpeta> …] [--mujer] [--piper]
@@ -39,7 +39,7 @@ function modelo() {
 }
 
 // Repaso de sonido para Chatterbox: ya suena natural, solo limpieza y volumen de redes
-const FILTRO_CB = ["atempo=1.08", "highpass=f=70", "deesser=i=0.3", "acompressor=threshold=-20dB:ratio=2:attack=10:release=120:makeup=1.5", "loudnorm=I=-16:TP=-2:LRA=7", "aresample=44100"].join(",");
+const FILTRO_CB = ["atempo=1.05", "highpass=f=70", "deesser=i=0.3", "acompressor=threshold=-20dB:ratio=2:attack=10:release=120:makeup=1.5", "loudnorm=I=-16:TP=-2:LRA=7", "aresample=44100"].join(",");
 
 export function generarVoz(carpeta, { quien = "hombre", motor = "chatterbox" } = {}) {
   const txt = join(carpeta, "voz.txt");
@@ -49,7 +49,7 @@ export function generarVoz(carpeta, { quien = "hombre", motor = "chatterbox" } =
     execFileSync("python3", [join(AQUI, "voz_chatterbox.py"), txt, crudo, quien], { stdio: "inherit", env: { ...process.env, HF_HUB_DISABLE_XET: "1" } });
     execFileSync("ffmpeg", ["-loglevel", "error", "-y", "-i", crudo, "-af", FILTRO_CB, "-b:a", "160k", salida], { stdio: "inherit" });
     rmSync(crudo);
-    writeFileSync(join(carpeta, "voz.info"), `Chatterbox multilingüe (MIT) · ${quien === "rosa" ? "voz de mujer" : "voz de hombre: timbre de un lector de LibriVox (Multilingual LibriSpeech, hablante 8304, CC BY 4.0)"} · herramientas/reels/voz.mjs\n`);
+    writeFileSync(join(carpeta, "voz.info"), `Chatterbox multilingüe (MIT) · ${quien === "rosa" ? "voz de mujer" : "voz de hombre de España: timbre de VoxPopuli, hablante 1973 (CC0)"} · herramientas/reels/voz.mjs\n`);
     return salida;
   }
   modelo();

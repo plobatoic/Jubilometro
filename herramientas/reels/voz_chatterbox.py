@@ -1,5 +1,5 @@
 # Voz de los reels con Chatterbox multilingüe (Resemble AI, licencia MIT), en español.
-# Timbre de referencia: voces/ref-hombre.wav (lector de LibriVox, MLS hablante 8304, CC BY 4.0) o voces/ref-rosa.wav (mujer, Kokoro).
+# Timbre de referencia: voces/ref-hombre.wav (hombre de España, VoxPopuli hablante 1973, CC0) o voces/ref-rosa.wav (mujer, Kokoro).
 # Uso: python3 voz_chatterbox.py <texto.txt> <salida.wav> <hombre|rosa>
 import re, sys, os
 import torch, torchaudio
