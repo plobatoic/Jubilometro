@@ -41,7 +41,9 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 
 - 20/11: corregidos EH Bildu, ERC, PNV y PSOE (la voz decía «de el IRPF»; EH Bildu: «al menos un 15 %»). Vídeos nuevos en Orshot y en la hoja `2026-11-25_27-partidos.md`.
 
-## Reels de Instagram y Facebook
+## Reels de Instagram y Facebook (tabla antigua)
+
+> Desde el 30/11 el reel de cada día está en `AAAA-MM-DD_DD/reels.md` de cada semana. Esta tabla queda como referencia de lo que ya estaba en Metricool (M).
 
 🧸 = muñecos 3D · 🎙️ = formato presentador (Rosa o Luis sobre vídeo real, desde el 24/11) · M = sale solo desde Metricool.
 

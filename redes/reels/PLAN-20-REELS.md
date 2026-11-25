@@ -2,6 +2,8 @@
 
 > **Calendario vigente: `../publicar/CALENDARIO.md`.**
 >
+> **25/11 (plan de Pau):** 1 reel al día en Instagram, Facebook y X y 4 a la semana en YouTube y TikTok. Reels nuevos con los muñecos en el salón y la oficina 3D y la voz de hombre de España. Hechos: 17 (60.000 €, sale el 30/11 en IG y el 5/12 en FB), 18 (15 años cotizados, 2/12) y 19 (despido: jubilación involuntaria, 6/12); el 15 se rehace con la voz nueva. Los siguientes los hacen las tareas del miércoles y del sábado.
+>
 > **24/11:** los reels nuevos van en formato presentador (Rosa o Luis sobre vídeo real, voz Piper «1c» con `herramientas/reels/voz.mjs`). Hechos así: 15 complemento a mínimos (`nuevos/15-complemento-a-minimos`, sale el 23/12) y 17 60.000 € (`base/01-sesenta-mil`, sale el 27/12 en IG y FB y el 26/12 en YouTube). Hoja de publicación: `../publicar/2026-12-23_27-reels-15-17.md`.
 
 **Formato:** solo reels nuevos con muñecos 3D (Rosa y Luis) hechos con código, con la voz «Chris» (`iP95p4xoKVk53GoZ742B`, la de los primeros reels: más humana) y la etiqueta de IA activada. Los reels ya hechos con «Eric» se quedan como están.
