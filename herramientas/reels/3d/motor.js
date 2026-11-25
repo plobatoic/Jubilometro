@@ -1,6 +1,7 @@
 // Motor de las escenas 3D de un reel. Lo carga motor.html; fondo3d.mjs llama a __init3d(datos) y luego a __frame3d(t)
 // para cada fotograma. Cada escena del reel puede llevar `animacion` (ver herramientas/reels/README.md, «Muñecos 3D»).
 import * as THREE from "three";
+import { RoomEnvironment } from "three/addons/environments/RoomEnvironment.js";
 import { crearPersonaje, aplicar, POSES, CARAS, mezclarPose, mezclarCara } from "./personajes.js";
 import { salon, oficina, movil, calendarioPared, bocadillo, lluviaMonedas, carpeta, sello } from "./escenarios.js";
 
@@ -25,8 +26,10 @@ window.__init3d = (datos) => {
   r.toneMapping = THREE.ACESFilmicToneMapping; r.toneMappingExposure = 1.05; r.outputColorSpace = THREE.SRGBColorSpace;
   document.body.appendChild(r.domElement);
   mundo = new THREE.Scene();
+  // Luz de ambiente de estudio: reflejos suaves en piel, gafas y tela
+  const pm = new THREE.PMREMGenerator(r); mundo.environment = pm.fromScene(new RoomEnvironment(), 0.04).texture; mundo.environmentIntensity = 0.22;
   cam = new THREE.PerspectiveCamera(30, W / H, 0.1, 200);
-  mundo.add(new THREE.HemisphereLight("#fff7ec", "#b9a58c", 1.25));
+  mundo.add(new THREE.HemisphereLight("#fff7ec", "#b9a58c", 1.0));
   sol = new THREE.DirectionalLight("#fff0d8", 2.6); sol.castShadow = true; sol.shadow.mapSize.set(2048, 2048);
   Object.assign(sol.shadow.camera, { left: -7, right: 7, top: 7, bottom: -3, near: 0.5, far: 40 }); sol.shadow.radius = 5; sol.shadow.bias = -0.0004;
   mundo.add(sol, sol.target);

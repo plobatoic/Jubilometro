@@ -4,13 +4,27 @@
 import * as THREE from "three";
 
 const mat = (color, rough = 0.6, extra = {}) => new THREE.MeshStandardMaterial({ color, roughness: rough, ...extra });
+// Piel: algo de terciopelo (sheen) para que no parezca plástico
+const matPiel = (color) => new THREE.MeshPhysicalMaterial({ color, roughness: 0.52, sheen: 0.5, sheenRoughness: 0.6, sheenColor: new THREE.Color("#ffd2bf"), clearcoat: 0.04 });
+// Punto de rebeca: canalé vertical como relieve
+let _punto = null;
+const punto = () => {
+  if (_punto) return _punto;
+  const c = document.createElement("canvas"); c.width = c.height = 128; const x = c.getContext("2d");
+  x.fillStyle = "#808080"; x.fillRect(0, 0, 128, 128);
+  for (let i = 0; i < 128; i += 8) { const g = x.createLinearGradient(i, 0, i + 8, 0); g.addColorStop(0, "#5a5a5a"); g.addColorStop(0.5, "#c8c8c8"); g.addColorStop(1, "#5a5a5a"); x.fillStyle = g; x.fillRect(i, 0, 8, 128); }
+  for (let j = 0; j < 128; j += 6) { x.fillStyle = "rgba(0,0,0,0.12)"; x.fillRect(0, j, 128, 1); }
+  _punto = new THREE.CanvasTexture(c); _punto.wrapS = _punto.wrapT = THREE.RepeatWrapping; _punto.repeat.set(10, 6);
+  return _punto;
+};
+const matTela = (color) => new THREE.MeshStandardMaterial({ color, roughness: 0.92, bumpMap: punto(), bumpScale: 1.2, sheen: 0 });
 const sombra = (m) => { m.castShadow = true; m.receiveShadow = true; return m; };
 const esfera = (r, m, ws = 32, hs = 24) => sombra(new THREE.Mesh(new THREE.SphereGeometry(r, ws, hs), m));
 const capsula = (r, l, m) => sombra(new THREE.Mesh(new THREE.CapsuleGeometry(r, l, 10, 24), m));
 
 export const REPARTO = {
-  rosa: { tipo: "mujer", piel: "#f2c7a5", mejillas: "#f09a88", pelo: "#e6e1d8", ropa: "#d4574e", ropa2: "#34445f", cuello: "#fbf6ee", zapato: "#4a2f25", gafas: "#8a5a3a", bolsa: false },
-  luis: { tipo: "hombre", piel: "#e8b993", mejillas: "#e59a82", pelo: "#c9c4bc", ropa: "#d9a441", ropa2: "#4a5568", cuello: "#f4f7fb", zapato: "#2f2a28", gafas: "#2f3540", bigote: true },
+  rosa: { tipo: "mujer", piel: "#f2c7a5", mejillas: "#f09a88", pelo: "#ece8e1", ropa: "#c9524b", ropa2: "#34445f", cuello: "#fbf6ee", zapato: "#4a2f25", gafas: "#8a5a3a", iris: "#5b7a99", bolsa: false },
+  luis: { tipo: "hombre", piel: "#e8b993", mejillas: "#e59a82", pelo: "#d6d2cb", ropa: "#c99a3e", ropa2: "#4a5568", cuello: "#eef3fa", zapato: "#2f2a28", gafas: "#2f3540", iris: "#6b4a2e", bigote: true },
 };
 
 // Ángulos de cada pose: hombros (x adelante, z hacia fuera), codos (x), cabeza y torso.
@@ -42,7 +56,7 @@ export const CARAS = {
 export function crearPersonaje(nombre) {
   const c = REPARTO[nombre];
   const raiz = new THREE.Group(); raiz.name = nombre;
-  const piel = mat(c.piel, 0.55), ropa = mat(c.ropa, 0.85), ropa2 = mat(c.ropa2, 0.85), pelo = mat(c.pelo, 0.75), oscuro = mat("#1f1a17", 0.3);
+  const piel = matPiel(c.piel), ropa = matTela(c.ropa), ropa2 = mat(c.ropa2, 0.85), pelo = mat(c.pelo, 0.75), oscuro = mat("#1f1a17", 0.3);
   const cadera = new THREE.Group(); cadera.position.y = 0.92; raiz.add(cadera);
 
   // Piernas
@@ -69,8 +83,9 @@ export function crearPersonaje(nombre) {
   tira.position.set(0, 0.48, 0.42); torso.add(tira);
   if (c.tipo === "mujer") for (const y of [0.25, 0.48, 0.71]) { const b = esfera(0.035, mat("#f3e3c3", 0.3), 12, 8); b.position.set(0, y, 0.45); torso.add(b); }
   for (const s of [-1, 1]) {
-    const solapa = sombra(new THREE.Mesh(new THREE.ConeGeometry(0.13, 0.22, 3), mat(c.cuello, 0.6)));
-    solapa.rotation.set(Math.PI, 0, s * 0.5); solapa.position.set(s * 0.1, 0.98, 0.31); torso.add(solapa);
+    const solapa = esfera(0.13, mat(c.cuello, 0.6), 24, 16); solapa.scale.set(0.9, 0.28, 0.6);
+    solapa.rotation.set(0.5, 0, s * 0.6); solapa.position.set(s * 0.12, 0.97, 0.33); torso.add(solapa);
+    const hom = esfera(0.2, ropa, 24, 16); hom.position.set(0.44 * s, 0.86, 0); torso.add(hom);
   }
   const cuello = sombra(new THREE.Mesh(new THREE.CylinderGeometry(0.15, 0.17, 0.2, 24), piel)); cuello.position.y = 1.08; torso.add(cuello);
 
@@ -84,6 +99,7 @@ export function crearPersonaje(nombre) {
     const mano = new THREE.Group(); mano.position.y = -0.5; codo.add(mano);
     const palma = esfera(0.14, piel); palma.scale.set(1, 1.08, 0.82); mano.add(palma);
     const pulgar = capsula(0.045, 0.08, piel); pulgar.position.set(-0.1 * lado, 0.05, 0.06); pulgar.rotation.z = 0.6 * lado; mano.add(pulgar);
+    for (let i = 0; i < 3; i++) { const d = capsula(0.036, 0.09, piel); d.position.set((i - 1) * 0.07, -0.15, 0.01); d.rotation.x = 0.15; mano.add(d); }
     return { hombro, codo, mano, pulgar };
   };
   const bI = brazo(-1), bD = brazo(1);
@@ -98,30 +114,43 @@ export function crearPersonaje(nombre) {
     const nuca = esfera(0.55, pelo); nuca.scale.set(1.08, 0.95, 0.7); nuca.position.set(0, -0.08, -0.22); cabeza.add(nuca);
     const mono = esfera(0.25, pelo); mono.position.set(0, 0.55, -0.3); cabeza.add(mono);
     const goma = sombra(new THREE.Mesh(new THREE.TorusGeometry(0.15, 0.035, 10, 24), mat("#c24b43", 0.5))); goma.position.set(0, 0.42, -0.24); goma.rotation.x = 1.0; cabeza.add(goma);
-    for (let i = -2; i <= 2; i++) { const f = esfera(0.16, pelo, 20, 14); f.scale.set(1.2, 0.7, 0.8); f.position.set(i * 0.17, 0.4 - Math.abs(i) * 0.05, 0.4 - Math.abs(i) * 0.05); cabeza.add(f); }
+    // Permanente: dos filas de rizos que tapan la frente y rizos por los lados y la nuca
+    for (let i = -3; i <= 3; i++) { const f = esfera(0.14, pelo, 20, 14); f.scale.set(1.1, 0.8, 0.85); f.position.set(i * 0.135, 0.36 - Math.abs(i) * 0.035, 0.44 - Math.abs(i) * 0.06); cabeza.add(f); }
+    for (let i = -2; i <= 2; i++) { const f = esfera(0.13, pelo, 20, 14); f.position.set(i * 0.16 + 0.08, 0.5 - Math.abs(i) * 0.03, 0.34 - Math.abs(i) * 0.05); cabeza.add(f); }
+    for (let k = 0; k < 14; k++) { const a = (k / 13) * Math.PI * 1.25 - Math.PI * 0.125, f = esfera(0.15, pelo, 18, 12); f.position.set(Math.cos(a) * 0.6, 0.12 + 0.06 * Math.sin(k * 1.7), -Math.sin(a) * 0.45 - 0.05); cabeza.add(f); }
   } else {
-    const lados = sombra(new THREE.Mesh(new THREE.TorusGeometry(0.5, 0.13, 16, 40, Math.PI * 1.25), pelo));
-    lados.rotation.set(Math.PI / 2 + 0.25, 0, Math.PI * 0.375 + Math.PI); lados.position.set(0, -0.05, -0.05); lados.rotation.z = -Math.PI * 0.125; cabeza.add(lados);
-    lados.rotation.set(Math.PI / 2 + 0.1, 0, Math.PI - Math.PI * 0.125 + Math.PI * 0.5);
+    craneo.material = new THREE.MeshPhysicalMaterial({ color: c.piel, roughness: 0.38, sheen: 0.4, sheenColor: new THREE.Color("#ffd2bf"), clearcoat: 0.25, clearcoatRoughness: 0.4 });
+    for (let k = 0; k < 12; k++) { const a = (k / 11) * Math.PI * 1.1 - Math.PI * 0.05, m = esfera(0.14, pelo, 18, 12); m.scale.set(1, 0.85, 1); m.position.set(Math.cos(a) * 0.56, 0.02 + 0.04 * Math.sin(k * 2.3), -Math.sin(a) * 0.5 - 0.04); cabeza.add(m); }
     for (const s of [-1, 1]) { const p = esfera(0.17, pelo, 20, 14); p.scale.set(0.7, 1.1, 1); p.position.set(0.52 * s, 0.05, -0.08); cabeza.add(p); }
   }
   // Ojos, cejas, nariz, mejillas, boca y gafas
   const ojos = [], cejas = [];
   for (const s of [-1, 1]) {
-    const ojo = esfera(0.075, oscuro, 24, 16); ojo.position.set(0.19 * s, 0.04, 0.53); cabeza.add(ojo); ojos.push(ojo);
-    const brillo = new THREE.Mesh(new THREE.SphereGeometry(0.022, 12, 8), mat("#ffffff", 0.1)); brillo.position.set(0.19 * s + 0.025, 0.075, 0.598); cabeza.add(brillo); ojos.push(brillo);
-    const ceja = capsula(0.025, 0.12, mat(new THREE.Color(c.pelo).multiplyScalar(0.72), 0.7)); ceja.rotation.z = Math.PI / 2;
+    const ojo = new THREE.Group(); ojo.position.set(0.19 * s, 0.04, 0.47); cabeza.add(ojo); ojos.push(ojo);
+    const blanco = esfera(0.092, mat("#fbf8f3", 0.25), 32, 24); ojo.add(blanco);
+    const iris = new THREE.Mesh(new THREE.SphereGeometry(0.058, 28, 20), mat(c.iris, 0.3)); iris.scale.set(1, 1, 0.35); iris.position.z = 0.072; ojo.add(iris);
+    const pupila = new THREE.Mesh(new THREE.SphereGeometry(0.03, 20, 14), oscuro); pupila.scale.set(1, 1, 0.3); pupila.position.z = 0.088; ojo.add(pupila);
+    const brillo = new THREE.Mesh(new THREE.SphereGeometry(0.016, 12, 8), new THREE.MeshBasicMaterial({ color: "#ffffff" })); brillo.position.set(0.022, 0.026, 0.094); ojo.add(brillo);
+    // Párpado de arriba, algo caído: mirada de abuelo
+    const parp = sombra(new THREE.Mesh(new THREE.SphereGeometry(0.1, 28, 14, 0, Math.PI * 2, 0, Math.PI * 0.3), piel)); parp.rotation.x = -0.15; parp.position.set(0.19 * s, 0.045, 0.47); cabeza.add(parp);
+    // Patas de gallo
+    for (const k of [0, 1]) { const ar = new THREE.Mesh(new THREE.TorusGeometry(0.05 + k * 0.025, 0.006, 6, 12, Math.PI * 0.5), mat(new THREE.Color(c.piel).multiplyScalar(0.62), 0.7)); ar.position.set(0.3 * s, 0.03, 0.47 - k * 0.02); ar.rotation.set(0, s * 0.9, s > 0 ? -Math.PI * 0.25 : Math.PI * 0.75); cabeza.add(ar); }
+    const ceja = capsula(c.tipo === "hombre" ? 0.04 : 0.025, 0.12, mat(new THREE.Color(c.pelo).multiplyScalar(c.tipo === "hombre" ? 0.85 : 0.72), 0.8)); ceja.rotation.z = Math.PI / 2;
     const cg = new THREE.Group(); cg.position.set(0.19 * s, 0.24, 0.53); cg.add(ceja); cg.userData.s = s; cabeza.add(cg); cejas.push(cg);
     const mej = new THREE.Mesh(new THREE.SphereGeometry(0.09, 16, 12), mat(c.mejillas, 0.9)); mej.scale.set(1, 0.6, 0.25); mej.position.set(0.31 * s, -0.12, 0.49); cabeza.add(mej);
-    const lente = sombra(new THREE.Mesh(new THREE.TorusGeometry(0.135, 0.017, 10, 36), mat(c.gafas, 0.35))); lente.position.set(0.19 * s, 0.05, 0.57); cabeza.add(lente);
+    const lente = sombra(new THREE.Mesh(new THREE.TorusGeometry(0.135, 0.017, 10, 36), mat(c.gafas, 0.35))); lente.position.set(0.19 * s, 0.05, 0.59); cabeza.add(lente);
+    const cristal = new THREE.Mesh(new THREE.CircleGeometry(0.132, 36), new THREE.MeshStandardMaterial({ color: "#ffffff", roughness: 0.05, metalness: 0.3, transparent: true, opacity: 0.1 })); cristal.position.set(0.19 * s, 0.05, 0.595); cabeza.add(cristal);
     const patilla = new THREE.Mesh(new THREE.CylinderGeometry(0.012, 0.012, 0.5, 6), mat(c.gafas, 0.35)); patilla.rotation.x = Math.PI / 2; patilla.position.set(0.32 * s, 0.07, 0.33); cabeza.add(patilla);
   }
-  const puente = new THREE.Mesh(new THREE.CylinderGeometry(0.013, 0.013, 0.11, 8), mat(c.gafas, 0.35)); puente.rotation.z = Math.PI / 2; puente.position.set(0, 0.08, 0.6); cabeza.add(puente);
+  const puente = new THREE.Mesh(new THREE.CylinderGeometry(0.013, 0.013, 0.11, 8), mat(c.gafas, 0.35)); puente.rotation.z = Math.PI / 2; puente.position.set(0, 0.08, 0.61); cabeza.add(puente);
   const nariz = esfera(0.075, mat(new THREE.Color(c.piel).multiplyScalar(0.93), 0.55), 20, 14); nariz.position.set(0, -0.06, 0.58); cabeza.add(nariz);
-  if (c.bigote) { const big = capsula(0.06, 0.2, pelo); big.rotation.z = Math.PI / 2; big.position.set(0, -0.17, 0.55); cabeza.add(big); }
+  if (c.bigote) for (const s of [-1, 1]) { const big = esfera(0.075, pelo, 20, 14); big.scale.set(1.35, 0.6, 0.6); big.position.set(0.075 * s, -0.165, 0.565); big.rotation.z = -0.3 * s; cabeza.add(big); }
+  // Surco de la sonrisa
+  for (const s of [-1, 1]) { const surco = new THREE.Mesh(new THREE.TorusGeometry(0.12, 0.006, 6, 14, Math.PI * 0.35), mat(new THREE.Color(c.piel).multiplyScalar(0.66), 0.7)); surco.position.set(0.1 * s, -0.17, 0.53); surco.rotation.set(0, 0, s > 0 ? -0.35 : Math.PI - 0.35 + 0.7); cabeza.add(surco); }
   const boca = new THREE.Group(); boca.position.set(0, c.bigote ? -0.29 : -0.25, 0.535); cabeza.add(boca);
   const sonrisa = new THREE.Mesh(new THREE.TorusGeometry(0.09, 0.018, 8, 24, Math.PI), mat("#7a2a2a", 0.5)); sonrisa.rotation.z = Math.PI; boca.add(sonrisa);
   const abierta = new THREE.Mesh(new THREE.SphereGeometry(0.085, 24, 16), mat("#6e1f22", 0.5)); abierta.scale.set(1, 0.01, 0.4); boca.add(abierta);
+  const dientes = new THREE.Mesh(new THREE.BoxGeometry(0.11, 0.025, 0.02), mat("#fbf7ee", 0.3)); dientes.position.set(0, 0.06, 0.03); abierta.add(dientes);
   const lengua = new THREE.Mesh(new THREE.SphereGeometry(0.05, 16, 12), mat("#d9706d", 0.6)); lengua.scale.set(1, 0.5, 0.4); lengua.position.set(0, -0.035, 0.015); abierta.add(lengua);
 
   return { nombre, raiz, cadera, torso, cabeza, piernas, bI, bD, ojos, cejas, boca, sonrisa, abierta, cfg: c };
@@ -157,7 +186,7 @@ export function aplicar(p, pose, cara, t, extra = {}) {
   p.sonrisa.scale.set(0.7 + 0.5 * Math.abs(cara.sonrisa), 0.4 + 0.8 * Math.abs(cara.sonrisa), 1);
   p.sonrisa.position.y = cara.sonrisa >= 0 ? 0.03 : -0.06;
   const ciclo = (t + sem) % 3.7, parpado = ciclo < 0.13 ? 0.12 : 1;
-  for (let i = 0; i < p.ojos.length; i += 2) p.ojos[i].scale.y = parpado;
+  for (const o of p.ojos) o.scale.y = parpado;
   // Pasos al andar
   const paso = extra.anda ? Math.sin(t * 9) * 0.45 : 0;
   p.piernas[0].rotation.x = paso; p.piernas[1].rotation.x = -paso;
