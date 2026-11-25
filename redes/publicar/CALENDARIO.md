@@ -2,17 +2,24 @@
 
 Decidido el 18/11 a partir de los estudios de Buffer, Metricool, Sprout Social, SocialPilot y vidIQ (ver «Por qué» al final).
 
-## Ritmo y horas (hora de Madrid)
+## Ritmo y horas (hora de Madrid) · revisado el 25/11 con los estudios de 2025-2026
 
-| Red | Cuántas | Días | Hora |
+| Red | Cuántas a la semana | Días | Hora |
 |---|---|---|---|
-| Instagram | 4 reels a la semana | Martes, miércoles, jueves y domingo, si se puede | **19:30** |
-| Facebook | Los mismos 4 reels, el mismo día, y 1 post de texto o imagen al día | Igual que Instagram | Reels a las **20:43** · posts de 10:00 a 11:00 |
-| YouTube | 3 Shorts a la semana | Miércoles, viernes y sábado | **17:00** |
-| X | 1 o 2 al día | Todos los días | Texto a las **09:43** · vídeo a las **20:43** |
-| TikTok | 1 al día | Todos los días | **18:00** (vidIQ, con la extensión; ver `tiktok.md`) |
+| Instagram | **6**: 4 reels y 2 carruseles, más 1 historia al día (compartir el reel o el post del día) | Reels mar, mié, jue y dom · carruseles lun y vie | Reels **19:30** · carruseles 19:00 · historia 13:00 |
+| Facebook | **11**: los 4 reels más 1 post de texto o imagen al día | Reels igual que Instagram · posts todos los días | Reels **20:43** · posts **10:00** |
+| YouTube | **4 Shorts**: los mismos 4 reels | Mar, mié, jue y sáb | **17:00** |
+| TikTok | **5** | De lunes a viernes | **18:00** (vidIQ, con la extensión; ver `tiktok.md`) |
+| X | **21**: 3 al día | Todos los días | Texto **09:43** · texto o imagen **13:43** · vídeo **20:43** |
 
-Los carruseles de Instagram siguen a las 19:00. Excepción: E2 (paga extra) sale el lunes 23/11, porque la paga se cobra del 22 al 26/11.
+Por qué estas cifras (detalle en «Por qué», al final):
+- **Instagram:** el estudio de Buffer con 2,1 millones de posts encuentra que pasar de 1-2 a 3-5 posts a la semana da un 12 % más de alcance por post, y de 6 a 9 un 18 %, con 3,7 veces más crecimiento de seguidores. Con 6 entramos en esa franja sin hacer más reels: los carruseles salen de las guías.
+- **Facebook:** Buffer y HubSpot recomiendan 1-2 posts al día en páginas; seguimos con 1 post al día más los reels.
+- **YouTube:** Metricool, con unos 800.000 vídeos, sitúa el punto óptimo en 2-4 Shorts a la semana. Subimos de 3 a 4 con los mismos vídeos de Instagram, sin trabajo extra.
+- **TikTok:** Buffer, con 11,4 millones de vídeos, ve el salto más rentable en 2-5 a la semana. Publicar más sube las opciones de un vídeo viral, pero no el vídeo típico, y nuestro banco de vídeos se acabaría en 3 semanas. Bajamos de 7 a 5.
+- **X:** la guía de Buffer de 2026 pide de 3 a 5 al día, y 3-4 es lo sostenible. Subimos de 1-2 a 3.
+
+Capacidad: cada reel nuevo tarda unos 60 minutos (voz y render 3D), así que caben 4 reels nuevos a la semana sin problema. El resto de redes reutiliza esos 4 vídeos y las guías de la web.
 
 ## Semana electoral: un reel por partido (excepción al ritmo)
 
@@ -80,6 +87,15 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 | Sáb 26/12 | 🎙️ 17 60.000 € |
 
 ## Por qué
+
+**Revisión del 25/11 (estudios de 2025-2026):**
+- Instagram: [Buffer, 2,1 M de posts](https://buffer.com/resources/how-often-to-post-on-instagram/) y [Buffer, mejor hora (9,6 M)](https://buffer.com/resources/when-is-the-best-time-to-post-on-instagram/): 3-5 a la semana es el mínimo eficaz y 6-9 da más alcance y crecimiento; 1-2 historias al día.
+- TikTok: [Buffer, 11,4 M de vídeos](https://buffer.com/resources/how-often-should-you-post-on-tiktok/) y [Search Engine Journal](https://www.searchenginejournal.com/study-shows-2-5-weekly-tiktoks-deliver-biggest-view-increase/558641/): 2-5 a la semana da el mayor salto; la mediana de visualizaciones no cambia con la frecuencia.
+- YouTube Shorts: [Metricool, ~800.000 vídeos](https://metricool.com/youtube-shorts/): 2-4 a la semana; [SocialPilot, 301.000 vídeos](https://www.socialpilot.co/insights/best-time-to-post-on-youtube) propone 5-7, con poca ganancia extra.
+- Facebook: [guía de frecuencia de Buffer](https://buffer.com/resources/social-media-frequency-guide/): 1-2 al día en páginas.
+- X: [Buffer, guía de crecimiento 2026](https://buffer.com/resources/creator-growth-playbook/): de 3 a 5 al día, y 3-4 es lo sostenible.
+
+**Estudio inicial del 18/11:**
 
 - **Frecuencia.** En Instagram, 3 a 5 reels a la semana: con más, cada reel rinde menos (Buffer, Dash Social, Kontentino). En YouTube, 2 a 4 Shorts a la semana (Metricool, 800.000 vídeos; vidIQ recomienda 3 o más). En Facebook, 1 o 2 publicaciones al día. En X, como mínimo 1 al día.
 - **Hora.** Los reels de Instagram y Facebook funcionan mejor por la tarde-noche (de 18:00 a 21:00), y en España el pico es de 19:00 a 22:00. Los posts de texto de Facebook y X van mejor por la mañana (de 9:00 a 11:00). Los Shorts, el viernes de 16:00 a 19:00 (Buffer, 1,8 M de vídeos).
