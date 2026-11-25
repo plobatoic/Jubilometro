@@ -67,6 +67,8 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 | Dom 27/12 | 🎙️ 17 60.000 € (Rosa presenta) |
 | Desde el 29/12 | Los nuevos con Rosa o Luis presentando |
 
+**Semanas preparadas para la extensión:** del 30/11 al 6/12 (`2026-11-30_12-06/`, hecha el 25/11). La siguiente la prepara la tarea del sábado 5/12.
+
 **Ojo (25/11):** de esta tabla, lo marcado con M ya está programado en Metricool. Lo demás de diciembre (R8 el 8/12, lagunas el 16/12, SMS 017 el 17/12, teleasistencia el 20/12, vender la casa el 22/12, y los reels 15 y 17) **todavía no está programado en ningún sitio**: lo prepara la tarea de los sábados, semana a semana, en carpetas para la extensión.
 
 ## Shorts de YouTube (17:00)
