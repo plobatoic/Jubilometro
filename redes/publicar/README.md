@@ -21,12 +21,9 @@ Cada archivo trae, para cada publicación: día, hora, texto exacto, primer come
 
 ## Ritmo y horas
 
-Están en `CALENDARIO.md` (revisados el 25/11 con los estudios de 2025-2026):
-- Instagram: 6 a la semana (4 reels a las 19:30 y 2 carruseles a las 19:00) y 1 historia al día.
-- Facebook: los 4 reels a las 20:43 y 1 post al día a las 10:00.
-- YouTube: 4 Shorts a la semana a las 17:00.
-- TikTok: 5 a la semana, de lunes a viernes, a las 18:00.
-- X: 5 a la semana, de lunes a viernes, a las 20:43 (como TikTok, decisión de Pau).
+Están en `CALENDARIO.md` (plan de Pau del 25/11):
+- Reels: 1 al día en Instagram (19:30), Facebook (20:43) y X (20:43), y 4 a la semana en YouTube (17:00, mar, jue, vie y sáb) y TikTok (18:00, mar, jue, sáb y dom).
+- Además: Instagram 2 carruseles a la semana y 1 historia al día; Facebook 1 post al día a las 10:00.
 
 ## Paso a paso (unos 10 minutos por red)
 

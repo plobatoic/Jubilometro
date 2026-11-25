@@ -2,15 +2,19 @@
 
 Decidido el 18/11 a partir de los estudios de Buffer, Metricool, Sprout Social, SocialPilot y vidIQ (ver «Por qué» al final).
 
-## Ritmo y horas (hora de Madrid) · revisado el 25/11 con los estudios de 2025-2026
+## Ritmo y horas (hora de Madrid) · plan de Pau del 25/11
 
-| Red | Cuántas a la semana | Días | Hora |
+**Reels: 1 al día en Instagram, Facebook y X (7 a la semana), y 4 a la semana en TikTok y YouTube** (los 4 mejores de la semana).
+
+| Red | A la semana | Días | Hora |
 |---|---|---|---|
-| Instagram | **6**: 4 reels y 2 carruseles, más 1 historia al día (compartir el reel o el post del día) | Reels mar, mié, jue y dom · carruseles lun y vie | Reels **19:30** · carruseles 19:00 · historia 13:00 |
-| Facebook | **11**: los 4 reels más 1 post de texto o imagen al día | Reels igual que Instagram · posts todos los días | Reels **20:43** · posts **10:00** |
-| YouTube | **4 Shorts**: los mismos 4 reels | Mar, mié, jue y sáb | **17:00** |
-| TikTok | **5** | De lunes a viernes | **18:00** (vidIQ, con la extensión; ver `tiktok.md`) |
-| X | **5**, como TikTok (Pau, 25/11) | De lunes a viernes | **20:43**, con el vídeo del día o un texto con cifra |
+| Instagram | **7 reels** + 2 carruseles + 1 historia al día | Reels todos los días · carruseles lun y vie | Reels **19:30** · carruseles 19:00 · historia 13:00 |
+| Facebook | **7 reels** + 1 post de texto o imagen al día | Todos los días | Reels **20:43** · posts **10:00** |
+| X | **7 reels** (vídeo con texto corto) | Todos los días | **20:43** |
+| YouTube | **4 Shorts** | Mar, jue, vie y sáb | **17:00** |
+| TikTok | **4** | Mar, jue, sáb y dom | **18:00** (vidIQ, con la extensión; ver `tiktok.md`) |
+
+Producción: 7 reels nuevos a la semana con los muñecos (salón y oficina 3D) y la voz nueva. Cada reel tarda unos 60 minutos (16 de voz y 45 de render), así que se reparten en dos tandas: miércoles (3-4 reels) y sábado (el resto y las hojas de la semana). En diciembre, los reels que ya están en Metricool cuentan como reels del día.
 
 Por qué estas cifras (detalle en «Por qué», al final):
 - **Instagram:** el estudio de Buffer con 2,1 millones de posts encuentra que pasar de 1-2 a 3-5 posts a la semana da un 12 % más de alcance por post, y de 6 a 9 un 18 %, con 3,7 veces más crecimiento de seguidores. Con 6 entramos en esa franja sin hacer más reels: los carruseles salen de las guías.
