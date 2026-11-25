@@ -2,7 +2,7 @@
 
 | | |
 |---|---|
-| Archivo | `reel.mp4` (1080×1920, 30 fps, 37 s) · formato presentador: Rosa sobre vídeo real, voz Piper «1c» |
+| Archivo | `reel.mp4` (1080×1920, 30 fps, 41 s) · muñecos 3D en el salón hecho con código, voz de Rosa con Chatterbox |
 | Fuente | `contenido/cuanto-cobrare/complemento-a-minimos/articulo.md (rama claude/keen-mccarthy-i7kn75)` |
 | Voz | `voz.txt` (el guion tal y como se lee) |
 
