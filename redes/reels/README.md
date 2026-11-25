@@ -209,7 +209,11 @@ Alcance en Instagram y reproducciones en Facebook de cada reel publicado entre e
 - **Se pierde a la gente en los 5 primeros segundos.** El visionado medio está entre 5 y 17 s en reels de 30 a 40 s, y entre el 40 % y el 80 % pasa de largo antes de los 3 s. El gancho tiene que ser la pregunta y la cifra a la vez.
 - **Casi nadie comparte ni guarda** (0 compartidos y de 0 a 4 guardados por reel). El «guárdatelo» final no basta: hay que dar un motivo («para cuando te toque pedirla»).
 - **Seguidores de Instagram:** de 5 a 9 en la semana (8 el 23/11).
-- **YouTube:** Metricool no devuelve datos de los Shorts. Hay que mirarlos en YouTube Studio.
+- **YouTube** (YouTube Studio, últimos 28 días, lo trajo la extensión el 25/11):
+  - Totales: 2.700 visualizaciones; se quedó viendo el 36 % y pasó de largo el 64 %.
+  - De dónde vienen: el 87 % del feed de Shorts y el 10 % de la búsqueda.
+  - Por vídeo: 15 años cotizados (1.160), jubilación 2027 (429) y cobrar la pensión y trabajar (421). Los avances de guías, como Tarjeta Dorada (55) o teleasistencia (70), quedan muy por debajo.
+  - Lo mismo que en Instagram y Facebook: una pregunta con una cifra concreta multiplica por 3 a 10.
 
 ## Lo que funciona (datos del 1 al 15/11/2026)
 
