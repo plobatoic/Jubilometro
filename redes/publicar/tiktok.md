@@ -10,14 +10,14 @@ Lo publica la extensión desde vidIQ: Studio web no acepta archivos de fuera, Or
 
 Jubilación 2027 · Jubilación activa · E1 subida de 2027 · E3 leyes que decaen · E2 paga extra · Demorada · Subsidio de 52 · R8 despido a los 60 · R9 otro país.
 
-## Del 5 al 20/12 (martes, jueves, sábado y domingo, 18:00)
+## Del 8 al 20/12 (martes, jueves, sábado y domingo, 18:00)
+
+La semana del 30/11 al 6/12 ya tiene sus 4 (30/11, 1, 2 y 3/12, programados por la extensión). El 28/11 se quita E3 para que la semana del 23 al 29/11 se quede en 4 más la excepción de partidos. Plan completo: `PLAN-REELS.md`.
 
 Orden: primero lo que mejor ha funcionado en YouTube, Instagram y Facebook. Desde el 22/12 entran los reels nuevos de la semana (los 4 mejores).
 
 | Día | Vídeo | Texto |
 |---|---|---|
-| Sáb 5/12 | 15 años cotizados · https://storage.orshot.com/cloud/w-31139/renders/videos/tiktok-15-anos-cotizadosmp4-hX8Gjvrwd6W.mp4 | ¿Con 15 años cotizados tienes pensión? Ojo: 2 de ellos tienen que estar en los últimos 15. #pensiones #jubilacion #seguridadsocial #españa |
-| Dom 6/12 | Nacidos en 1960 · https://storage.orshot.com/cloud/w-31139/renders/videos/tiktok-nacidos-1960mp4-YYqTYd3nHZD.mp4 | ¿Naciste en 1960? Si es entre marzo y diciembre te jubilas a los 67, no a los 66 y 8 meses. #jubilacion #nacidosen1960 #pensiones |
 | Mar 8/12 | 11 Jubilación parcial · https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_11_parcial-hIZzL3gGDdA.mp4 | Puedes jubilarte poco a poco hasta 3 años antes: reduces jornada y cobras parte de la pensión. #jubilacionparcial #pensiones #trabajo |
 | Jue 10/12 | 60.000 € · https://storage.orshot.com/cloud/w-31139/renders/videos/tiktok-60000-eurosmp4-9gn0Attz6WE.mp4 | Jubilarte 2 años antes te puede costar 60.000 €. Te hago la cuenta. ¿Tú esperarías? #jubilacionanticipada #pensiones #jubilacion |
 | Sáb 12/12 | 13 Convenio especial · https://storage.orshot.com/cloud/w-31139/renders/videos/Jubilmetro_13_convenio-1CCNEVhZ0be.mp4 | ¿Te faltan años para jubilarte y ya no trabajas? Puedes seguir cotizando tú desde unos 392 € al mes. #convenioespecial #pensiones |

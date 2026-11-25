@@ -1,5 +1,7 @@
 # Reels · Semana del 30 de noviembre al 6 de diciembre
 
+> El plan de todas las semanas está en `../PLAN-REELS.md`, que manda.
+
 Plan de Pau (25/11): **1 reel al día en Instagram (19:30), Facebook (20:43) y X (20:43)**, y 4 a la semana en YouTube (17:00) y TikTok (18:00). Etiqueta de IA: sí en todos (voz y muñecos generados).
 
 Los reels 17, 18 y 19 son nuevos, con los muñecos mejorados en el salón y la oficina 3D y la voz nueva. Sus textos están en su `publicacion.md` (`redes/reels/nuevos/<carpeta>/`).
@@ -11,8 +13,8 @@ Los reels 17, 18 y 19 son nuevos, con los muñecos mejorados en el salón y la o
 | Mié 2/12 | **18 · 15 años cotizados** (nuevo) | **18 · 15 años cotizados** | **18 · 15 años cotizados** | — | ya programado |
 | Jue 3/12 | R6 demorada (Metricool) | R1 nacidos en 1960 (Metricool) | R6 demorada | R6 (Metricool) | ya programado |
 | Vie 4/12 | R4 tres cifras (Metricool) | R4 tres cifras (ver `facebook.md`) | R4 tres cifras | R4 (Metricool) | — |
-| Sáb 5/12 | R7 activa (Metricool) | **17 · 60.000 €** | R7 activa | R7 (Metricool) | 15 años (ver `../tiktok.md`) |
-| Dom 6/12 | **19 · despido: jubilación involuntaria** (nuevo) | **19 · despido** | **19 · despido** | — | Nacidos en 1960 (ver `../tiktok.md`) |
+| Sáb 5/12 | R7 activa (Metricool) | **17 · 60.000 €** | R7 activa | R7 (Metricool) | — |
+| Dom 6/12 | **19 · despido: jubilación involuntaria** (nuevo) | **19 · despido** | **19 · despido** | — | — |
 
 ## Vídeos
 
