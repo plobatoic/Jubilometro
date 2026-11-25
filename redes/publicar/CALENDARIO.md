@@ -10,6 +10,7 @@ Decidido el 18/11 a partir de los estudios de Buffer, Metricool, Sprout Social, 
 | Facebook | Los mismos 4 reels, el mismo día, y 1 post de texto o imagen al día | Igual que Instagram | Reels a las **20:43** · posts de 10:00 a 11:00 |
 | YouTube | 3 Shorts a la semana | Miércoles, viernes y sábado | **17:00** |
 | X | 1 o 2 al día | Todos los días | Texto a las **09:43** · vídeo a las **20:43** |
+| TikTok | 1 al día | Todos los días | **18:00** (vidIQ, con la extensión; ver `tiktok.md`) |
 
 Los carruseles de Instagram siguen a las 19:00. Excepción: E2 (paga extra) sale el lunes 23/11, porque la paga se cobra del 22 al 26/11.
 
@@ -58,6 +59,8 @@ X: el mismo día que cada reel, uno detrás de otro a las 20:43, 21:13 y 21:43, 
 | Mié 23/12 | 🎙️ 15 complemento a mínimos (Rosa presenta) |
 | Dom 27/12 | 🎙️ 17 60.000 € (Rosa presenta) |
 | Desde el 29/12 | Los nuevos con Rosa o Luis presentando |
+
+**Ojo (25/11):** de esta tabla, lo marcado con M ya está programado en Metricool. Lo demás de diciembre (R8 el 8/12, lagunas el 16/12, SMS 017 el 17/12, teleasistencia el 20/12, vender la casa el 22/12, y los reels 15 y 17) **todavía no está programado en ningún sitio**: lo prepara la tarea de los sábados, semana a semana, en carpetas para la extensión.
 
 ## Shorts de YouTube (17:00)
 

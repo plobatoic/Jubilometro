@@ -13,4 +13,4 @@ Para la extensión de Claude. Metricool gratis llegó al límite de 20 publicaci
 
 Después de publicarlas a mano, bórralas del planificador de Metricool para que no salgan dos veces si el cupo se libera.
 
-**Diciembre:** hay 22 programadas y el cupo es de 20. Las que salgan por encima del límite fallarán: revisa el estado en Metricool cada mañana y publica a mano las que marquen error.
+**Diciembre:** hay 18 programadas (corregido el 25/11: antes ponía 22 por error) y el cupo es de 20, así que salen solas. No añadas nada más a Metricool en diciembre.

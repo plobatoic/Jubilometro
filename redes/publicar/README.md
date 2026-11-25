@@ -12,7 +12,8 @@ Desde el 13/11/2026 se programa a mano, porque el plan gratuito de Metricool sol
 | Instagram | Meta Business Suite: business.facebook.com → Planificador | `instagram.md` |
 | Facebook | Meta Business Suite (el mismo sitio) | `facebook.md` |
 | YouTube | YouTube Studio: studio.youtube.com → Crear → Subir vídeos | `youtube.md` |
-| X | Buffer: lo cargo yo, no tienes que hacer nada | — |
+| X | x.com con la extensión (posts nativos con vídeo) o Buffer, que cargo yo | `x.md` |
+| TikTok | vidIQ, con la extensión (1 al día a las 18:00; nunca en Metricool) | `tiktok.md` |
 
 3. **Cuando termines, me dices «hecho»** y lo apunto en el calendario.
 
@@ -20,7 +21,7 @@ Cada archivo trae, para cada publicación: día, hora, texto exacto, primer come
 
 ## Ritmo y horas
 
-Están en `CALENDARIO.md` (desde el 19/11): Instagram 4 reels a la semana a las 19:30 · Facebook los mismos a las 20:43 y posts a las 10:00-11:00 · YouTube 3 Shorts a la semana a las 17:00 · X texto a las 09:43 y vídeo a las 20:43.
+Están en `CALENDARIO.md` (desde el 19/11): Instagram 4 reels a la semana a las 19:30 · Facebook los mismos a las 20:43 y posts a las 10:00-11:00 · YouTube 3 Shorts a la semana a las 17:00 · X texto a las 09:43 y vídeo a las 20:43 · TikTok 1 al día a las 18:00 (desde el 25/11).
 
 ## Paso a paso (unos 10 minutos por red)
 
@@ -49,4 +50,5 @@ Al final, dame la lista de lo programado y de lo que haya quedado pendiente.
 ## Metricool
 
 - Lo que queda en Metricool para noviembre ya no saldrá: está todo copiado en estas carpetas. Cuando me digas «hecho» con cada semana, lo borro de Metricool para que no queden errores.
-- En diciembre hay 18 publicaciones ya programadas en Metricool y el plan gratuito publica 20, así que esas salen solas y no hay que pasarlas a mano. Lo nuevo de diciembre va por estas carpetas.
+- En diciembre hay 18 publicaciones ya programadas en Metricool (comprobado el 25/11) y el plan gratuito publica 20, así que esas salen solas y no hay que pasarlas a mano. **No se añade nada más a Metricool en diciembre**: con dos más se acaba el cupo y lo siguiente falla. Lo nuevo de diciembre va por estas carpetas.
+- Noviembre en Metricool: el post de Facebook del 25/11 se quedó en error (ya publicado a mano) y los 5 siguientes están en borrador para que no salgan dos veces.
