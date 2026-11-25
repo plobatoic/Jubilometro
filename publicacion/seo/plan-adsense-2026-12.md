@@ -9,6 +9,8 @@
 ## Hecho
 
 - [x] 24/11: tandas 3 y 4 de fusiones; ya están hechas las 13 fusiones aprobadas (hoy, 6 guías menos).
+- [x] 25/11: el titular delega todo el plan («ves haciéndolo tú todo para mejorar la web de cara a AdSense»). Tanda 5 hecha: seguro de decesos → auxilio por defunción y domiciliar la pensión → calendario de pago (tema 2.11.46).
+- [x] 25/11: mejoradas 2 de las 9 guías sin lectores: empleadas de hogar (escala de bases de 2026 y ejemplo) y anticipada por discapacidad (ejemplos, tiempo trabajado y dos preguntas).
 
 ## Calendario hasta la nueva solicitud
 
@@ -28,10 +30,10 @@
 ## Pendiente
 
 1. **Elecciones (después del 29/11):** una página resumen con los resultados y lo que cambia para las pensiones; las 9 páginas de partidos a borrador con 301 a la comparativa.
-2. **Tanda 5 de fusiones (necesita el visto bueno del titular):**
+2. **Tanda 5 de fusiones (hecha el 25/11):**
    - `/dinero/seguro-decesos/` (0 vistas) → `/viudedad/auxilio-por-defuncion/` (los gastos del entierro, en un solo sitio).
    - `/dinero/domiciliar-pension/` (0 vistas) → `/cuanto-cobrare/calendario-pago-pensiones/` (cobro, banco y regalos, en un solo sitio).
-3. **Mejorar, no juntar** (0 vistas, pero tema propio): anticipada por discapacidad, empleadas de hogar, divorcio y viudedad, seguro de salud para mayores, vender la vivienda con más de 65, gran incapacidad, teleasistencia, ayuda a domicilio, grado de discapacidad. A cada una, un ejemplo con números y un dato propio que no tengan otras webs.
-4. **Dependencia por comunidades (17 guías):** pendiente de que el titular decida si se juntan en una guía con una tabla por comunidad.
+3. **Mejorar, no juntar** (0 vistas, pero tema propio; hechas anticipada por discapacidad y empleadas de hogar): divorcio y viudedad, seguro de salud para mayores, vender la vivienda con más de 65, gran incapacidad, teleasistencia, ayuda a domicilio, grado de discapacidad. A cada una, un ejemplo con números y un dato propio que no tengan otras webs.
+4. **Dependencia por comunidades (17 guías):** decisión delegada. Plan: antes del 3/12, mirar qué comunidades tienen visitas y datos propios; las que no aporten nada distinto, a una guía común con una tabla por comunidad (301 a su apartado); las que sí, se quedan y se mejoran.
 5. **Search Console:** el titular exporta Rendimiento (3 meses) y la lista «Rastreada: actualmente sin indexar». Con eso se eligen las siguientes guías a juntar o mejorar.
 6. **Nueva solicitud a AdSense** (titular), hacia el 15/12, cuando estén hechos los puntos 1 a 3.

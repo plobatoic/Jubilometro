@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "jubilación anticipada empleadas de hogar"
 intencion: informativa
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-20
+fecha_actualizacion: 2026-11-25
 publicacion: 2026-10-06
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Jubilación de las empleadas de hogar: requisitos, cómo se calcula la pensión y qué pasa con los años sin cotizar
 
-*Actualizado el 20 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 25 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -64,7 +64,25 @@ El cambio de 2024 beneficia sobre todo a quien tuvo **épocas sin trabajo** en l
 
 ## Por qué importa cotizar por el salario real
 
-Tu pensión depende de lo que se haya cotizado por ti. Para las empleadas de hogar se cotiza con una **escala de tramos según el salario mensual**: cuanto más alto sea el salario declarado, más alta la base y mejor la pensión. Comprueba en tu [vida laboral](/cuanto-cobrare/informe-vida-laboral/) que constan todos tus trabajos y que el salario declarado es el que cobras.
+Tu pensión depende de lo que se haya cotizado por ti. Para las empleadas de hogar se cotiza con una **escala de tramos según el salario mensual** (incluida la parte proporcional de las pagas extra): cuanto más alto sea el salario declarado, más alta la base y mejor la pensión. Esta es la escala de 2026 ([Orden PJC/297/2026, artículo 15](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296)):
+
+<!-- tabla: Bases de cotización de las empleadas de hogar en 2026 según el salario mensual -->
+| Tramo | Salario mensual (con pagas extra prorrateadas) | Base de cotización |
+|---|---|---|
+| 1.º | Hasta 329 € | 306 € |
+| 2.º | De 329,01 a 510 € | 436 € |
+| 3.º | De 510,01 a 693 € | 602 € |
+| 4.º | De 693,01 a 877 € | 785 € |
+| 5.º | De 877,01 a 1.061 € | 970 € |
+| 6.º | De 1.061,01 a 1.242 € | 1.151 € |
+| 7.º | De 1.242,01 a 1.424,40 € | 1.424,40 € |
+| 8.º | Desde 1.424,41 € | El salario real |
+
+La base nunca puede ser inferior a la del tramo que corresponde al **salario mínimo** según tus horas: a jornada completa, el salario mínimo con las pagas extra; si trabajas por horas, el salario mínimo por hora multiplicado por tus horas al mes.
+
+**Ejemplo:** Ana trabaja 20 horas a la semana y cobra **820 euros al mes** con las pagas extra prorrateadas: le corresponde el tramo 4.º, con una base de **785 euros**. Si la familia la diera de alta declarando solo 500 euros, cotizaría en el tramo 2.º, con **436 euros**: **349 euros menos de base cada mes**, 4.188 euros menos al año, que luego bajan la media con la que se calcula su pensión.
+
+Comprueba en tu [vida laboral](/cuanto-cobrare/informe-vida-laboral/) que constan todos tus trabajos y que el salario declarado es el que cobras.
 
 **Si trabajaste sin estar dada de alta**, ese tiempo **no cuenta** para tu pensión. Puedes reclamarlo ante la Inspección de Trabajo o en el juzgado para que se reconozca la relación laboral y se paguen las cotizaciones.
 
@@ -98,9 +116,14 @@ Sí, con las mismas reglas que el resto: la anticipada voluntaria exige 35 años
 
 La familia que te contrata, siempre, desde el 1 de enero de 2023, aunque trabajes menos de 60 horas al mes.
 
+### ¿Por cuánto cotiza una empleada de hogar en 2026?
+
+Depende de su salario mensual con las pagas extra prorrateadas: hay ocho tramos, desde una base de 306 euros (salarios de hasta 329 euros) hasta el salario real a partir de 1.424,41 euros. Con un salario de 820 euros, por ejemplo, la base es de 785 euros.
+
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social, artículos 250 y 251 y disposición transitoria 16.ª](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
+- [Orden PJC/297/2026, de cotización a la Seguridad Social en 2026: artículo 15 (escala del Sistema Especial para Empleados de Hogar)](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296) (BOE).
 - [Real Decreto-ley 16/2022, de 6 de septiembre, para la mejora de las condiciones de trabajo y de Seguridad Social de las personas trabajadoras al servicio del hogar](https://www.boe.es/buscar/act.php?id=BOE-A-2022-14680) (BOE).
 
 ## Siguiente paso
@@ -114,4 +137,4 @@ La familia que te contrata, siempre, desde el 1 de enero de 2023, aunque trabaje
 
 *Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 20 de octubre de 2026, frase más clara. 14 de octubre de 2026, enlace a la guía de la cuidadora interna o externa. 6 de octubre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, escala de bases de cotización de 2026, ejemplo con números y pregunta frecuente nueva. 20 de octubre de 2026, frase más clara. 14 de octubre de 2026, enlace a la guía de la cuidadora interna o externa. 6 de octubre de 2026, primera versión.*

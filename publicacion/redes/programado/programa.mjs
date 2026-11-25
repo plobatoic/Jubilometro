@@ -1047,7 +1047,7 @@ export const PUBLICACIONES = [
   "id": "decesos-x",
   "red": "x",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/dinero/seguro-decesos/",
+  "fuente": "/viudedad/auxilio-por-defuncion/#si-tenia-un-seguro-de-decesos",
   "texto": "A partir de los 60 te interesa saberlo: la aseguradora no puede negarse a renovar tu seguro de decesos, ni por la edad ni por ningún otro motivo. Lo que sí puede es subir la prima, avisándote con dos meses de antelación.\n\njubilometro.com/decesos/x",
   "fecha": "2026-12-03",
   "hora": "09:00"
@@ -1319,7 +1319,7 @@ export const PUBLICACIONES = [
   "id": "decesos-fb",
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/dinero/seguro-decesos/",
+  "fuente": "/viudedad/auxilio-por-defuncion/#si-tenia-un-seguro-de-decesos",
   "texto": "Tres cosas del seguro de decesos que muchas familias descubren tarde.\n\nSi el entierro cuesta menos que la suma asegurada, la diferencia es para los herederos. Si la familia prefiere otra funeraria, la aseguradora tiene que pagarles la suma asegurada. Y si tienes dos seguros de decesos con la misma compañía, puedes anular uno y te devuelven las primas desde que coincidieron.\n\nAdemás, a partir de los 60 años, la aseguradora no puede negarse a renovarlo. Solo tú puedes darlo de baja. La prima sí puede subir, pero te tienen que avisar con dos meses de antelación. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "fecha": "2026-12-11",
   "hora": "11:00"
@@ -1855,7 +1855,7 @@ export const PUBLICACIONES = [
  {
   "red": "facebook",
   "pilar": "Errores que cuestan dinero",
-  "fuente": "/dinero/domiciliar-pension/",
+  "fuente": "/cuanto-cobrare/calendario-pago-pensiones/#cambiar-la-pension-de-banco",
   "texto": "Antes de cambiar la pensión de banco por un regalo, tres cosas.\n\nPuedes cobrar la pensión en el banco que elijas y cambiarlo cuando quieras. Lo más fácil es pedirlo en el banco nuevo, que lo tramita. El cambio se aplica desde el primer día hábil del segundo mes, así que no cierres la cuenta antigua hasta cobrar en la nueva.\n\nEl ingreso de la pensión no te puede costar nada. Si te ofrecen un regalo o dinero por domiciliarla, lee la permanencia y recuerda que tributa en la declaración de la renta. Tienes la guía completa en la web de Jubilómetro: el enlace, en el primer comentario.",
   "id": "mes1-76",
   "fecha": "2026-12-27",

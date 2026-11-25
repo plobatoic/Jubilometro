@@ -136,7 +136,7 @@ Sí, con el formulario S1 que expide la Seguridad Social, en las mismas condicio
 
 - ¿Trabajaste en varios países? Lee cómo se suman los años en [he trabajado en otro país](/jubilacion/trabajado-en-otro-pais/).
 - ¿Cobras el complemento a mínimos? Revisa sus reglas en [complemento a mínimos](/cuanto-cobrare/complemento-a-minimos/).
-- ¿Quieres cambiar de banco? Lee [domiciliar la pensión](/dinero/domiciliar-pension/).
+- ¿Quieres cambiar de banco? Lee [domiciliar la pensión](/cuanto-cobrare/calendario-pago-pensiones/#cambiar-la-pension-de-banco).
 - ¿Vuelves a vivir a España? Lee la guía de [emigrantes retornados](/ayudas/emigrantes-retornados/).
 
 ---

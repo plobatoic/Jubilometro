@@ -1771,7 +1771,7 @@
 <td>Cl@ve o certificado, o sin certificado con correo, foto del DNI y selfi</td>
 </tr>
 <tr>
-<th scope="row"><a href="/dinero/domiciliar-pension/">Cambiar la cuenta donde cobras la pensión</a> o tu domicilio</th>
+<th scope="row"><a href="/cuanto-cobrare/calendario-pago-pensiones/#cambiar-la-pension-de-banco">Cambiar la cuenta donde cobras la pensión</a> o tu domicilio</th>
 <td>Portal de prestaciones</td>
 <td>Con o sin certificado</td>
 </tr>
@@ -2272,7 +2272,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-11-17">17 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social</p>
+<p class="meta">Actualizado el <time datetime="2026-11-25">25 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -2445,10 +2445,46 @@
 </ul>
 <h2 id="otras-situaciones">Otras situaciones</h2>
 <ul>
-<li><strong>Si cambias de banco</strong>: puedes elegir libremente el banco en el que cobras y cambiarlo cuando quieras. La mayoría de bancos comunican el cambio a la Seguridad Social por ti; también puedes hacerlo tú en Tu Seguridad Social o en la web del INSS. El pago de la pensión en España <strong>no puede tener ningún coste</strong> para ti (artículo 24.4 del reglamento).</li>
+<li><strong>Si cambias de banco</strong>: la pensión llega al nuevo desde el primer día hábil del <strong>segundo mes</strong> siguiente a la solicitud. Cómo hacerlo, los regalos y la cuenta gratuita, en <a href="#cambiar-la-pension-de-banco">cambiar la pensión de banco</a>.</li>
 <li><strong>Si <a href="/dinero/pension-extranjero/">vives en el extranjero</a></strong>: puedes pedir cobrar la pensión por trimestres o semestres vencidos, aunque se siga generando mes a mes.</li>
 <li><strong>Si fallece el pensionista</strong>: la pensión se genera hasta el último día del mes del fallecimiento y se abona el primer día hábil del mes siguiente (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">Orden de 22 de febrero de 1996, artículo 24</a>). El mes del fallecimiento se cobra entero.</li>
 </ul>
+<h2 id="cambiar-la-pension-de-banco">Cambiar la pensión de banco</h2>
+<p>Puedes cobrar la pensión en <strong>el banco que elijas</strong> y <strong>cambiarlo cuando quieras</strong>, siempre que seas <strong>titular de la cuenta</strong>, sola o con otras personas (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">Orden de 22 de febrero de 1996, artículos 16 y 17</a>). El ingreso de la pensión <strong>no puede costarte nada</strong> (artículo 24.4 del reglamento), aunque la cuenta tenga sus propias comisiones de mantenimiento o de tarjetas: compáralas.</p>
+<p><strong>Cómo se hace:</strong></p>
+<ol>
+<li><strong>En el banco nuevo</strong> (lo más cómodo): abres la cuenta, firmas la orden de traslado y el banco se lo comunica a la Seguridad Social.</li>
+<li><strong>Tú mismo</strong>, con el trámite <strong>«Modificar los datos bancarios del pensionista»</strong>: en Tu Seguridad Social (con Cl@ve o certificado), <strong>sin certificado</strong> en su portal de trámites o en un centro de atención con cita previa (<a href="https://prestaciones.seg-social.es/servicio/modificar-datos-bancarios-pensionista.html" rel="noopener">Seguridad Social</a>).</li>
+</ol>
+<p><strong>Cuándo llega al banco nuevo:</strong> a partir del <strong>primer día hábil del segundo mes</strong> siguiente a la solicitud (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">artículo 16.4.2 de la Orden</a>). Si lo pides el 15 de octubre, la pensión de octubre aún llega al banco antiguo y la de noviembre, ya al nuevo. <strong>No cierres la cuenta antigua</strong> hasta ver la pensión en la nueva: si la cierras antes, el pago se devuelve y se retrasa.</p>
+<h3 id="los-regalos-por-domiciliar-la-pension">Los regalos por domiciliar la pensión</h3>
+<p>Antes de aceptar dinero, un electrodoméstico o más rentabilidad, lee la <strong>permanencia</strong> (si te vas antes, pueden cobrarte el regalo) y las <strong>comisiones</strong> (un regalo de 200 euros no compensa una cuenta de 10 euros al mes). Y recuerda que <strong>tributa</strong>: es <strong>rendimiento del capital mobiliario</strong>, en la base del ahorro (<a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2025/7-cumplimentacion-irpf/7_2-rendimientos-capital-mobiliario/7_2_3-rendimientos-capital-mobiliario-integrar-imponible/7_2_3_1-intereses-cuentas-depositos_.html" rel="noopener">Manual de la Renta de la Agencia Tributaria</a>). Si es <strong>dinero</strong>, el banco retiene el <strong>19 %</strong>: de 200 euros recibes 162 y el banco ingresa 38 a Hacienda. Si es un <strong>objeto</strong>, el banco hace un ingreso a cuenta sobre su coste <strong>más un 20 %</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a103" rel="noopener">artículo 103 del Reglamento del IRPF</a>): con una televisión de 400 euros, ingresa 91,20 (el 19 % de 480), tú declaras 491,20 y, al 19 %, pagas unos 2 euros más en la renta.</p>
+<h3 id="la-cuenta-de-pago-basica-gratis-con-ingresos-bajos">La cuenta de pago básica, gratis con ingresos bajos</h3>
+<p>Cualquier residente legal en la Unión Europea tiene derecho a una <strong>cuenta de pago básica</strong> (tarjeta, transferencias y domiciliaciones) por <strong>3 euros al mes</strong> como máximo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-3113" rel="noopener">Orden ECE/228/2019, artículo 4</a>), y es <strong>gratuita</strong> si los ingresos brutos anuales de tu unidad familiar no pasan de estas cifras (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-4906" rel="noopener">Real Decreto 164/2019, artículo 3</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-3" tabindex="0">
+<table><caption id="tabla-3">Ingresos máximos para tener una cuenta de pago básica gratuita en 2026</caption>
+<thead>
+<tr>
+<th scope="col">Tu situación</th>
+<th scope="col">Ingresos brutos anuales, como máximo</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">Vives solo</th>
+<td>21.600 € (3 veces el IPREM)</td>
+</tr>
+<tr>
+<th scope="row">Unidad familiar de menos de 4 personas</th>
+<td>25.200 € (3,5 veces el IPREM)</td>
+</tr>
+<tr>
+<th scope="row">Familia de 4 o más, numerosa o con una persona con discapacidad del 33 % o más</th>
+<td>28.800 € (4 veces el IPREM)</td>
+</tr>
+</tbody></table>
+</div>
+<p>Además, nadie de la unidad familiar puede tener <strong>otros inmuebles</strong> aparte de la vivienda habitual ni ser titular real de sociedades. La gratuidad dura <strong>dos años</strong> y se prorroga si sigues cumpliendo. <strong>Ejemplo:</strong> Julia vive sola y cobra 1.400 euros en 14 pagas (19.600 al año); si no tiene otra vivienda, puede pedir que su cuenta sea gratuita.</p>
+<p><strong>Cuentas conjuntas:</strong> se puede cobrar en una cuenta compartida con tu pareja o un hijo si figuras como titular. Si falleces, el banco tiene que devolver a la Seguridad Social las pensiones ingresadas después del mes del fallecimiento y se las puede reclamar a quien las retire (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">artículo 17.1.b</a>). Si solo necesitas que alguien te ayude con el dinero, es mejor darle una <strong>autorización</strong> que hacerle cotitular.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="que-dia-cobran-los-pensionistas">¿Qué día cobran los pensionistas?</h3>
 <p>La fecha legal es el primer día hábil del mes siguiente, como tarde el día 4. Pero la mayoría de bancos adelantan el ingreso y la pensión llega entre el 22 y el 26 de cada mes.</p>
@@ -2464,10 +2500,18 @@
 <p>Con la pensión de enero de 2027, que llega a finales de enero o, como tarde, a primeros de febrero.</p>
 <h3 id="todas-las-pensiones-tienen-14-pagas">¿Todas las pensiones tienen 14 pagas?</h3>
 <p>Las de la Seguridad Social, sí, salvo las que vienen de un accidente de trabajo o una enfermedad profesional, que se cobran en 12 pagas con las extra prorrateadas.</p>
+<h3 id="cuanto-tarda-en-llegar-la-pension-al-banco-nuevo">¿Cuánto tarda en llegar la pensión al banco nuevo?</h3>
+<p>Desde el primer día hábil del segundo mes siguiente a la solicitud. Si lo pides en octubre, la cobrarás en la cuenta nueva a primeros de diciembre, o antes si tu banco adelanta el ingreso.</p>
+<h3 id="hay-que-declarar-el-regalo-del-banco-por-domiciliar-la-pensi">¿Hay que declarar el regalo del banco por domiciliar la pensión?</h3>
+<p>Sí. Es un rendimiento del capital mobiliario y se declara en la base del ahorro. El banco retiene el 19 % si es dinero, o hace un ingreso a cuenta si es un objeto, y te lo indica en su certificado fiscal.</p>
 <h2 id="fuentes-oficiales">Fuentes oficiales</h2>
 <ul>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2018-9030" rel="noopener">Real Decreto 696/2018, Reglamento general de la gestión financiera de la Seguridad Social, artículo 24</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">Orden de 22 de febrero de 1996, de desarrollo del reglamento de gestión financiera, artículos 23 y 24</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">Orden de 22 de febrero de 1996, de desarrollo del reglamento de gestión financiera, artículos 16, 17, 23 y 24</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-4906" rel="noopener">Real Decreto 164/2019, régimen gratuito de cuentas de pago básicas, artículo 3</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-3113" rel="noopener">Orden ECE/228/2019, sobre cuentas de pago básicas, artículo 4</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820" rel="noopener">Reglamento del IRPF, artículo 103</a> (BOE).</li>
+<li><a href="https://prestaciones.seg-social.es/servicio/modificar-datos-bancarios-pensionista.html" rel="noopener">Seguridad Social: modificar los datos bancarios del pensionista</a>.</li>
 <li><a href="https://revista.seg-social.es/-/20220610-cobro-pensiones" rel="noopener">Revista de la Seguridad Social: ¿Cuándo y cómo se cobran las pensiones?</a></li>
 <li><a href="https://www.seg-social.es/wps/portal/wss/internet/FAQ/48456/49300/49083/49090?view=FAQs_detalle_tema" rel="noopener">Seguridad Social: devengo y pago de la pensión (preguntas frecuentes)</a>.</li>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social, artículos 46 (catorce pagas) y 58 (revalorización)</a> (BOE).</li>
@@ -2483,13 +2527,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la información de la Seguridad Social o de tu banco. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 17 de noviembre de 2026, se incorpora la guía de las pagas extra (cuánto son, ejemplos de noviembre, finiquito, retención y paga compensatoria), que ahora lleva aquí. 28 de septiembre de 2026, primera versión.</p>
+<p>Historial de cambios: 25 de noviembre de 2026, se suma la guía «Domiciliar la pensión o cambiarla de banco» (cómo, cuándo llega, regalos, cuenta gratuita y cuentas conjuntas). 17 de noviembre de 2026, se incorpora la guía de las pagas extra (cuánto son, ejemplos de noviembre, finiquito, retención y paga compensatoria), que ahora lleva aquí. 28 de septiembre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La Seguridad Social paga la pensión entre el día 1 y el 4 del mes siguiente, pero los bancos suelen adelantarla al 22-26. Calendario 2026-2027 y pagas extra.]]></excerpt:encoded>
     <wp:post_id>9010</wp:post_id>
-    <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
+    <wp:post_date><![CDATA[2026-11-25 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[calendario-pago-pensiones]]></wp:post_name>
@@ -11102,131 +11146,6 @@
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
-    <title><![CDATA[Domiciliar la pensión o cambiarla de banco: cómo se hace, cuándo llega y qué tener en cuenta con los regalos]]></title>
-    <link>https://jubilometro.com/dinero/domiciliar-pension/</link>
-    <dc:creator><![CDATA[admin]]></dc:creator>
-    <description></description>
-    <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-10-20">20 de octubre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE, la Seguridad Social y la Agencia Tributaria</p>
-</header>
-<aside class="respuesta-rapida" aria-label="Respuesta rápida">
-<p class="etiqueta">Respuesta rápida</p>
-<p>Puedes cobrar la pensión en <strong>el banco que elijas</strong> y <strong>cambiarlo cuando quieras</strong>. Lo más fácil es pedirlo en el <strong>banco nuevo</strong>, que lo tramita por ti; también puedes hacerlo tú en la <strong>sede de la Seguridad Social</strong>. El cambio se aplica desde el <strong>primer día hábil del segundo mes</strong> siguiente a la solicitud, así que <strong>no cierres la cuenta antigua</strong> hasta cobrar en la nueva.</p>
-<p>El ingreso de la pensión <strong>no puede costarte nada</strong>. Si el banco te ofrece un <strong>regalo</strong> o dinero por domiciliarla, lee la <strong>permanencia</strong> y recuerda que <strong>tributa</strong> en la declaración de la renta. Y si tienes ingresos bajos (menos de <strong>21.600 euros al año</strong> si vives solo), tienes derecho a una <strong>cuenta de pago básica gratuita</strong>.</p>
-</aside>
-<h2 id="tu-derecho-a-elegir-banco">Tu derecho a elegir banco</h2>
-<p>Los pensionistas pueden <strong>elegir libremente</strong> la entidad financiera que les paga la pensión y <strong>cambiarla en cualquier momento</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">Orden de 22 de febrero de 1996, artículo 16</a>). Solo tienes que ser <strong>titular de la cuenta</strong>, en solitario o junto con otras personas.</p>
-<p>Puedes cobrarla de dos formas (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">artículo 17</a>):</p>
-<ul>
-<li><strong>Abono en cuenta</strong>: lo habitual. La cuenta puede ser <strong>individual</strong> o <strong>conjunta</strong>, siempre que tú figures como titular.</li>
-<li><strong>Cobro en ventanilla</strong> en la oficina del banco pagador.</li>
-</ul>
-<p>Y una garantía importante: <strong>el ingreso de la pensión no puede generarte ningún gasto</strong>, ni intereses negativos por la fecha valor. Eso no impide que la cuenta tenga sus propias comisiones de mantenimiento o por tarjetas: <strong>compáralas</strong> antes de elegir.</p>
-<h2 id="como-cambiar-la-pension-de-banco">Cómo cambiar la pensión de banco</h2>
-<p>Hay dos caminos:</p>
-<ol>
-<li><strong>En el banco nuevo</strong> (lo más cómodo): abres la cuenta, firmas la orden de traslado de la pensión y el banco comunica el cambio a la Seguridad Social. La Seguridad Social recuerda que puedes cambiar la cuenta <strong>directamente en la entidad</strong> en la que quieras cobrar, sin hacer ningún trámite más.</li>
-<li><strong>Tú mismo, en la Seguridad Social</strong>, con el trámite <strong>«Modificar los datos bancarios del pensionista»</strong>: en <strong>Tu Seguridad Social</strong> (con Cl@ve o certificado digital), <strong>sin certificado</strong> desde su portal de trámites, o con el formulario de modificación de datos bancarios en un centro de atención con cita previa (<a href="https://prestaciones.seg-social.es/servicio/modificar-datos-bancarios-pensionista.html" rel="noopener">Seguridad Social</a>).</li>
-</ol>
-<h3 id="cuando-empiezas-a-cobrar-en-la-cuenta-nueva">Cuándo empiezas a cobrar en la cuenta nueva</h3>
-<p>La pensión se paga en el banco nuevo <strong>a partir del primer día hábil del segundo mes siguiente</strong> a la solicitud del cambio (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">artículo 16.4.2</a>).</p>
-<p><strong>Ejemplo:</strong> si pides el cambio el <strong>15 de octubre</strong>, la pensión de octubre (que se paga a primeros de noviembre) aún llega a tu banco antiguo, y la de noviembre, que se paga el <strong>primer día hábil de diciembre</strong>, ya llega al nuevo. Como muchos bancos <strong>adelantan</strong> el ingreso a finales de mes, la fecha real depende también de tu banco: lo explicamos en el <a href="/cuanto-cobrare/calendario-pago-pensiones/">calendario de pago de las pensiones</a>.</p>
-<div class="aviso-caja">
-<p><strong>No canceles la cuenta antigua</strong> hasta que veas la pensión ingresada en la nueva. Si la cierras antes, el pago puede ser devuelto y retrasarse.</p>
-</div>
-<h2 id="los-regalos-por-domiciliar-la-pension">Los regalos por domiciliar la pensión</h2>
-<p>Muchos bancos ofrecen <strong>dinero</strong>, <strong>electrodomésticos</strong> o <strong>una rentabilidad mayor</strong> a cambio de domiciliar la pensión. Antes de aceptar:</p>
-<ul>
-<li><strong>Lee la permanencia</strong>: casi siempre te obligan a mantener la pensión domiciliada durante un tiempo (uno o dos años, por ejemplo). Si te vas antes, pueden <strong>cobrarte el regalo</strong> o una penalización.</li>
-<li><strong>Revisa las comisiones</strong>: un regalo de 200 euros no compensa si la cuenta te cuesta 10 euros al mes.</li>
-<li><strong>Tributa en el IRPF</strong>: la Agencia Tributaria considera <strong>rendimiento del capital mobiliario</strong> cualquier contraprestación derivada de cuentas y depósitos, «cualquiera que sea su denominación o naturaleza» (<a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2025/7-cumplimentacion-irpf/7_2-rendimientos-capital-mobiliario/7_2_3-rendimientos-capital-mobiliario-integrar-imponible/7_2_3_1-intereses-cuentas-depositos_.html" rel="noopener">Manual de la Renta, apartado 7.2.3.1</a>). Si el regalo es <strong>dinero</strong>, el banco te retiene el <strong>19 %</strong>. Si es un <strong>objeto</strong>, declaras su <strong>valor de mercado</strong> más el <strong>ingreso a cuenta</strong> que hace el banco, que se calcula sobre su coste <strong>incrementado en un 20 %</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a103" rel="noopener">artículo 103 del Reglamento del IRPF</a>), salvo que te lo haya cobrado a ti. Tributa en la <strong>base del ahorro</strong>, desde el 19 %.</li>
-</ul>
-<p><strong>Ejemplo:</strong> te regalan una televisión que al banco le cuesta 400 euros, su valor de mercado. El banco ingresa a Hacienda <strong>91,20 euros</strong> a cuenta (el 19 % de 480 euros). En tu declaración pones <strong>491,20 euros</strong> de rendimiento (400 + 91,20); al 19 %, la cuota es de 93,33 euros, y como ya se ingresaron 91,20, <strong>pagas unos 2 euros más</strong>. Si el regalo es de <strong>200 euros en dinero</strong>, recibes 162 euros y el banco ingresa 38 a Hacienda. El banco te indica estas cantidades en su certificado fiscal anual.</p>
-<h2 id="la-cuenta-de-pago-basica-gratis-si-tus-ingresos-son-bajos">La cuenta de pago básica: gratis si tus ingresos son bajos</h2>
-<p>Cualquier persona que resida legalmente en la Unión Europea tiene derecho a una <strong>cuenta de pago básica</strong>, con tarjeta, transferencias y domiciliaciones, por una comisión máxima de <strong>3 euros al mes</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-3113" rel="noopener">Orden ECE/228/2019, artículo 4</a>). Y es <strong>gratuita</strong> para las personas en situación de vulnerabilidad (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-4906" rel="noopener">Real Decreto 164/2019, artículo 3</a>):</p>
-<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
-<table><caption id="tabla-1">Ingresos máximos para tener una cuenta de pago básica gratuita en 2026</caption>
-<thead>
-<tr>
-<th scope="col">Tu situación</th>
-<th scope="col">Ingresos brutos anuales de la unidad familiar, como máximo</th>
-</tr>
-</thead>
-<tbody><tr>
-<th scope="row">Vives solo (sin unidad familiar)</th>
-<td>21.600 € (3 veces el IPREM)</td>
-</tr>
-<tr>
-<th scope="row">Unidad familiar de menos de 4 personas</th>
-<td>25.200 € (3,5 veces el IPREM)</td>
-</tr>
-<tr>
-<th scope="row">Familia de 4 o más, familia numerosa o con una persona con discapacidad del 33 % o más</th>
-<td>28.800 € (4 veces el IPREM)</td>
-</tr>
-</tbody></table>
-</div>
-<p>Además, <strong>ningún miembro de la unidad familiar</strong> puede tener <strong>otros inmuebles</strong> aparte de la vivienda habitual ni ser titular real de sociedades. La gratuidad dura <strong>dos años</strong> y se prorroga si sigues cumpliendo los requisitos.</p>
-<p><strong>Ejemplo:</strong> Julia vive sola y cobra 1.400 euros al mes en 14 pagas: <strong>19.600 euros al año</strong>. No tiene otras viviendas. Puede pedir en su banco que su cuenta sea una <strong>cuenta de pago básica gratuita</strong>, con la pensión domiciliada.</p>
-<h2 id="cuentas-conjuntas-lo-que-conviene-saber">Cuentas conjuntas: lo que conviene saber</h2>
-<p>Muchos pensionistas cobran en una cuenta <strong>compartida</strong> con su pareja o un hijo. Es posible, siempre que figures como titular. Pero ten en cuenta que, si falleces, el banco debe <strong>devolver a la Seguridad Social</strong> las pensiones que se ingresen después del mes del fallecimiento, y se las puede reclamar a quien las haya retirado (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">artículo 17.1.b</a>). Lo explicamos en <a href="/viudedad/fallecimiento-pensionista/">qué hacer cuando fallece un pensionista</a>.</p>
-<p>Si necesitas que alguien te ayude a gestionar tu dinero, es mejor darle una <strong>autorización</strong> en la cuenta que hacerle cotitular, porque la cotitularidad puede tener efectos en la herencia y en los embargos.</p>
-<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
-<h3 id="como-cambio-la-pension-de-banco">¿Cómo cambio la pensión de banco?</h3>
-<p>Pídelo en el banco nuevo, que se encarga del trámite, o hazlo tú en la sede de la Seguridad Social con el trámite «Modificar los datos bancarios del pensionista».</p>
-<h3 id="cuanto-tarda-en-llegar-la-pension-al-banco-nuevo">¿Cuánto tarda en llegar la pensión al banco nuevo?</h3>
-<p>Se paga en el banco nuevo a partir del primer día hábil del segundo mes siguiente a la solicitud. Si lo pides en octubre, la cobrarás en la cuenta nueva a primeros de diciembre (o antes, si tu banco adelanta el ingreso).</p>
-<h3 id="me-pueden-cobrar-comisiones-por-ingresarme-la-pension">¿Me pueden cobrar comisiones por ingresarme la pensión?</h3>
-<p>Por el ingreso de la pensión, no. Otra cosa son las comisiones de la cuenta (mantenimiento, tarjetas), que dependen de tu contrato.</p>
-<h3 id="hay-que-declarar-el-regalo-del-banco-por-domiciliar-la-pensi">¿Hay que declarar el regalo del banco por domiciliar la pensión?</h3>
-<p>Sí. Es un rendimiento del capital mobiliario y se declara en la base del ahorro. El banco retiene el 19 % si es dinero, o hace un ingreso a cuenta si es un objeto, y te lo indica en su certificado fiscal.</p>
-<h3 id="puedo-cobrar-la-pension-en-una-cuenta-a-nombre-de-mi-hijo">¿Puedo cobrar la pensión en una cuenta a nombre de mi hijo?</h3>
-<p>No, si no eres titular. Puede ser una cuenta conjunta con tu hijo, pero tú tienes que figurar como titular.</p>
-<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
-<ul>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581" rel="noopener">Orden de 22 de febrero de 1996, de gestión financiera de la Seguridad Social, artículos 16 y 17</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-4906" rel="noopener">Real Decreto 164/2019, régimen gratuito de cuentas de pago básicas, artículo 3</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2019-3113" rel="noopener">Orden ECE/228/2019, sobre cuentas de pago básicas, artículo 4</a> (BOE).</li>
-<li><a href="https://prestaciones.seg-social.es/servicio/modificar-datos-bancarios-pensionista.html" rel="noopener">Seguridad Social: modificar los datos bancarios del pensionista</a>.</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820" rel="noopener">Reglamento del IRPF, artículo 103</a> (BOE).</li>
-<li><a href="https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2025/7-cumplimentacion-irpf/7_2-rendimientos-capital-mobiliario/7_2_3-rendimientos-capital-mobiliario-integrar-imponible/7_2_3_1-intereses-cuentas-depositos_.html" rel="noopener">Agencia Tributaria: Manual de la Renta, intereses de cuentas y depósitos</a>.</li>
-</ul>
-<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
-<h2 id="siguiente-paso">Siguiente paso</h2>
-<ul>
-<li>¿Qué día cobras? Consulta el <a href="/cuanto-cobrare/calendario-pago-pensiones/">calendario de pago de las pensiones</a>.</li>
-<li>¿Vives o vas a vivir fuera? Lee <a href="/dinero/pension-extranjero/">cobrar la pensión en el extranjero</a>.</li>
-<li>¿Te preocupa la retención? Mira cómo <a href="/cuanto-cobrare/pension-bruta-y-neta/#como-cambiar-la-retencion-de-tu-pension">cambiar la retención de IRPF</a>.</li>
-</ul>
-</nav>
-<footer class="descargo">
-<p>Este artículo es informativo. Las condiciones de cada cuenta y de cada promoción las fija el banco: léelas antes de firmar. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 20 de octubre de 2026, corrección de estilo. 29 de septiembre de 2026, primera versión.</p>
-</footer>
-]]></content:encoded>
-    <excerpt:encoded><![CDATA[Domiciliar la pensión en otro banco: cómo cambiarla, cuándo llega a la cuenta nueva, qué pasa con los regalos y tu derecho a una cuenta gratuita.]]></excerpt:encoded>
-    <wp:post_id>9057</wp:post_id>
-    <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[domiciliar-pension]]></wp:post_name>
-    <wp:status><![CDATA[draft]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[post]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Domiciliar la pensión: cómo cambiar de banco y qué exigir]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Domiciliar la pensión en otro banco: cómo cambiarla, cuándo llega a la cuenta nueva, qué pasa con los regalos y tu derecho a una cuenta gratuita.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[domiciliar la pensión]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Domiciliar la pensión: cómo cambiar de banco y qué exigir]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Domiciliar la pensión en otro banco: cómo cambiarla, cuándo llega a la cuenta nueva, qué pasa con los regalos y tu derecho a una cuenta gratuita.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[domiciliar la pensión, domiciliar la pension en otro banco, donde domiciliar la pension, como domiciliar la pension en otro banco, como domiciliar la pension]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
-  </item>
-  <item>
     <title><![CDATA[Herencia o donación en vida: qué impuestos se pagan en 2026 y qué conviene más a padres e hijos]]></title>
     <link>https://jubilometro.com/dinero/herencias-donaciones/</link>
     <dc:creator><![CDATA[admin]]></dc:creator>
@@ -11440,7 +11359,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Donar en vida puede costar al que dona un IRPF que la herencia no tiene. Cómo tributan herencias y donaciones en 2026, plazos y bonificaciones por comunidad.]]></excerpt:encoded>
-    <wp:post_id>9058</wp:post_id>
+    <wp:post_id>9057</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11665,7 +11584,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Hipoteca inversa, nuda propiedad o renta vitalicia: tres formas de sacar dinero de tu vivienda después de los 65 sin dejar de vivir en ella. Cómo tributan.]]></excerpt:encoded>
-    <wp:post_id>9059</wp:post_id>
+    <wp:post_id>9058</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -11832,7 +11751,7 @@
 <ul>
 <li>¿Trabajaste en varios países? Lee cómo se suman los años en <a href="/jubilacion/trabajado-en-otro-pais/">he trabajado en otro país</a>.</li>
 <li>¿Cobras el complemento a mínimos? Revisa sus reglas en <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
-<li>¿Quieres cambiar de banco? Lee <a href="/dinero/domiciliar-pension/">domiciliar la pensión</a>.</li>
+<li>¿Quieres cambiar de banco? Lee <a href="/cuanto-cobrare/calendario-pago-pensiones/#cambiar-la-pension-de-banco">domiciliar la pensión</a>.</li>
 <li>¿Vuelves a vivir a España? Lee la guía de <a href="/ayudas/emigrantes-retornados/">emigrantes retornados</a>.</li>
 </ul>
 </nav>
@@ -11842,7 +11761,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cobrar la pensión viviendo en el extranjero: la contributiva se cobra aunque vivas fuera, pero pierdes el complemento a mínimos. Fe de vida, sanidad e IRPF.]]></excerpt:encoded>
-    <wp:post_id>9060</wp:post_id>
+    <wp:post_id>9059</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12041,7 +11960,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></excerpt:encoded>
-    <wp:post_id>9061</wp:post_id>
+    <wp:post_id>9060</wp:post_id>
     <wp:post_date><![CDATA[2026-11-13 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-13 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12060,131 +11979,6 @@
     <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Rescatar el plan de pensiones al jubilarse: cómo pagar menos]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[El plan de pensiones se rescata al jubilarte en capital, renta o mixto y tributa en el IRPF. La reducción del 40 % y cómo repartir el cobro para pagar menos.]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[rescate plan de pensiones, rescate plan de pensiones 10 años, rescatar plan de pensiones sin jubilarse, rescate plan de pensiones 2026, rescate plan de pensiones aportaciones anteriores a 2006, rescate plan de pensiones aportaciones anteriores a 2007]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
-  </item>
-  <item>
-    <title><![CDATA[Seguro de decesos a partir de los 60: qué cubre, qué pasa con las primas y los derechos que te da la ley]]></title>
-    <link>https://jubilometro.com/dinero/seguro-decesos/</link>
-    <dc:creator><![CDATA[admin]]></dc:creator>
-    <description></description>
-    <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-10-20">20 de octubre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
-</header>
-<aside class="respuesta-rapida" aria-label="Respuesta rápida">
-<p class="etiqueta">Respuesta rápida</p>
-<p>Con un <strong>seguro de decesos</strong>, la aseguradora se compromete a <strong>prestar el servicio funerario</strong> pactado en la póliza cuando falleces. Si el servicio cuesta menos que la suma asegurada, <strong>la diferencia es para ti o para tus herederos</strong>, y si tu familia contrata el entierro con otra funeraria, la aseguradora les tiene que <strong>pagar la suma asegurada</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">artículo 106 bis de la Ley de Contrato de Seguro</a>).</p>
-<p>Lo más importante a partir de los 60: <strong>la aseguradora no puede negarse a renovar tu seguro de decesos</strong>, ni por la edad ni por ningún otro motivo; solo tú puedes darlo de baja. Pero la prima puede subir: te tienen que avisar <strong>con dos meses de antelación</strong>.</p>
-</aside>
-<h2 id="que-cubre">Qué cubre</h2>
-<ul>
-<li><strong>El servicio funerario pactado</strong>: lo que diga tu póliza (traslado, féretro, velatorio, inhumación o incineración, trámites…). Revisa bien qué incluye y qué no.</li>
-<li><strong>Libertad para elegir funeraria</strong>: la aseguradora debe darte una <strong>lista de prestadores</strong> para que elijas, salvo que el contrato prevea uno solo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">artículo 106 quáter</a>).</li>
-<li><strong>Si tu familia elige otra funeraria</strong> o la aseguradora no puede prestar el servicio, esta debe <strong>pagar la suma asegurada a tus herederos</strong>.</li>
-<li><strong>Lo que sobre</strong> entre la suma asegurada y el coste del servicio es tuyo o de tus herederos.</li>
-</ul>
-<p><strong>Ejemplo</strong>: si la suma asegurada es de 4.000 euros y el servicio que presta la aseguradora cuesta 3.500, los 500 euros restantes corresponden a tus herederos. Tus herederos pueden reclamarlos si no se los ofrecen.</p>
-<p>Muchas pólizas añaden otras coberturas (repatriación, asistencia en viaje, gestiones tras el fallecimiento). Son parte del contrato: compruébalas en las condiciones.</p>
-<h2 id="tus-derechos-segun-la-ley">Tus derechos, según la ley</h2>
-<div class="tabla-scroll" role="region" aria-labelledby="tabla-1" tabindex="0">
-<table><caption id="tabla-1">Derechos del asegurado en el seguro de decesos según la Ley de Contrato de Seguro</caption>
-<thead>
-<tr>
-<th scope="col">Situación</th>
-<th scope="col">Qué dice la ley</th>
-</tr>
-</thead>
-<tbody><tr>
-<th scope="row">¿Me pueden dar de baja por la edad?</th>
-<td>No: en el seguro de decesos, <strong>solo el tomador</strong> puede oponerse a la renovación (artículo 106 bis.5)</td>
-</tr>
-<tr>
-<th scope="row">La prima o las condiciones cambian</th>
-<td>La aseguradora debe comunicarte cualquier modificación <strong>al menos dos meses antes</strong> del vencimiento (artículo 22.3)</td>
-</tr>
-<tr>
-<th scope="row">Quiero darlo de baja</th>
-<td>Comunícalo por escrito <strong>al menos un mes antes</strong> del vencimiento (artículo 22.2)</td>
-</tr>
-<tr>
-<th scope="row">Dejo de pagar un recibo</th>
-<td>La cobertura se <strong>suspende un mes</strong> después del vencimiento; si la aseguradora no reclama el pago en seis meses, el contrato se extingue (artículo 15)</td>
-</tr>
-<tr>
-<th scope="row">Tengo dos seguros de decesos con la misma aseguradora</th>
-<td>Puedes anular uno y te devuelven las primas pagadas desde que coincidieron (artículo 106 bis.3)</td>
-</tr>
-<tr>
-<th scope="row">Tengo seguros con dos aseguradoras</th>
-<td>La que no haya podido prestar el servicio paga la suma asegurada a tus herederos (artículo 106 bis.4)</td>
-</tr>
-</tbody></table>
-</div>
-<p>Artículos de la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">Ley 50/1980 de Contrato de Seguro</a>.</p>
-<h2 id="antes-de-contratarlo-con-mas-de-60-anos">Antes de contratarlo con más de 60 años</h2>
-<ol>
-<li><strong>Mira cómo evolucionará la prima</strong>. Hay pólizas cuya prima <strong>sube con la edad</strong> cada año y otras con una prima calculada para mantenerse más estable. Pide por escrito una <strong>proyección de lo que pagarás</strong> en los próximos años.</li>
-<li><strong>Compara lo que pagarás con lo que cubre</strong>. Si contratas tarde, puedes acabar pagando en primas más de lo que cuesta el servicio. Pide presupuesto a un par de funerarias de tu zona para saber cuánto cuesta un servicio como el de la póliza.</li>
-<li><strong>Contesta con la verdad el cuestionario de salud</strong>, si te lo piden: si ocultas algo, la aseguradora puede rescindir el contrato o reducir la prestación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">artículo 10</a>).</li>
-<li><strong>Pregunta por los plazos de carencia</strong> y por las exclusiones, si las hay.</li>
-<li><strong>Evita duplicar</strong>: revisa si ya tienes un seguro de decesos (a veces viene incluido en otras pólizas o lo contrataron tus padres o tus hijos).</li>
-</ol>
-<h2 id="si-no-tienes-seguro-de-decesos">Si no tienes seguro de decesos</h2>
-<ul>
-<li><strong>El entierro se puede pagar con la herencia</strong>, y los gastos de entierro y funeral son <strong>deducibles en el Impuesto sobre Sucesiones</strong>, si se justifican y guardan proporción con la herencia (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141#a14" rel="noopener">artículo 14 de la Ley del Impuesto sobre Sucesiones</a>).</li>
-<li><strong>La Seguridad Social da un auxilio por defunción</strong> de 46,50 euros a quien pague el sepelio de un pensionista o trabajador. Lo explicamos en <a href="/viudedad/fallecimiento-pensionista/">qué hacer cuando fallece un pensionista</a>.</li>
-<li><strong>Ahorrar tú mismo</strong> esa cantidad en una cuenta es otra opción: el dinero sigue siendo tuyo y forma parte de la herencia.</li>
-</ul>
-<h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
-<h3 id="me-pueden-dar-de-baja-del-seguro-de-decesos-por-ser-mayor">¿Me pueden dar de baja del seguro de decesos por ser mayor?</h3>
-<p>No. En el seguro de decesos, solo el tomador puede oponerse a la renovación del contrato. La aseguradora no puede darte de baja por la edad, aunque sí puede subir la prima avisándote con dos meses de antelación.</p>
-<h3 id="que-pasa-si-mi-familia-contrata-otra-funeraria">¿Qué pasa si mi familia contrata otra funeraria?</h3>
-<p>La aseguradora debe pagar la suma asegurada a tus herederos, aunque no responde de la calidad del servicio que contraten.</p>
-<h3 id="y-si-sobra-dinero-de-la-suma-asegurada">¿Y si sobra dinero de la suma asegurada?</h3>
-<p>El exceso de la suma asegurada sobre el coste del servicio corresponde al tomador o, en su defecto, a los herederos.</p>
-<h3 id="que-pasa-si-dejo-de-pagar-el-seguro-de-decesos">¿Qué pasa si dejo de pagar el seguro de decesos?</h3>
-<p>La cobertura se suspende un mes después del vencimiento del recibo impagado. Si la aseguradora no reclama el pago en seis meses, el contrato se extingue.</p>
-<h3 id="merece-la-pena-un-seguro-de-decesos-a-partir-de-los-60">¿Merece la pena un seguro de decesos a partir de los 60?</h3>
-<p>Depende de lo que vayas a pagar en primas durante los años que te quedan frente a lo que cuesta el servicio. Pide una proyección de primas por escrito y compárala con el presupuesto de una funeraria de tu zona.</p>
-<h2 id="fuentes-oficiales">Fuentes oficiales</h2>
-<ul>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">Ley 50/1980 de Contrato de Seguro: artículos 10, 15, 22, 106 bis y 106 quáter</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141" rel="noopener">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones: artículo 14</a> (BOE).</li>
-<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social: artículo 218 (auxilio por defunción)</a> (BOE).</li>
-</ul>
-<nav class="siguiente-paso" aria-labelledby="siguiente-paso">
-<h2 id="siguiente-paso">Siguiente paso</h2>
-<ul>
-<li>¿Qué hacer cuando fallece un familiar? Sigue los pasos de <a href="/viudedad/fallecimiento-pensionista/">qué hacer cuando fallece un pensionista</a>.</li>
-<li>¿Pagaste el entierro? Pide el <a href="/viudedad/auxilio-por-defuncion/">auxilio por defunción</a> de la Seguridad Social.</li>
-<li>¿Cuánto ahorro te hace falta? Consulta <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas para jubilarte</a>.</li>
-<li>¿Cómo tributan tus ahorros? Repasa la <a href="/dinero/declaracion-renta-jubilados/">declaración de la renta de los jubilados</a>.</li>
-</ul>
-</nav>
-<footer class="descargo">
-<p>Este artículo es informativo y no sustituye la lectura de tu póliza ni el asesoramiento profesional. Si tienes un conflicto con tu aseguradora, empieza por reclamar ante su servicio de atención al cliente. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 20 de octubre de 2026, frase más precisa. 29 de septiembre de 2026, primera versión.</p>
-</footer>
-]]></content:encoded>
-    <excerpt:encoded><![CDATA[Seguro de decesos para mayores de 60: paga el funeral pactado, no pueden darte de baja por la edad y el dinero sobrante es de tus herederos. Qué mirar.]]></excerpt:encoded>
-    <wp:post_id>9062</wp:post_id>
-    <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
-    <wp:comment_status><![CDATA[closed]]></wp:comment_status>
-    <wp:ping_status><![CDATA[closed]]></wp:ping_status>
-    <wp:post_name><![CDATA[seguro-decesos]]></wp:post_name>
-    <wp:status><![CDATA[draft]]></wp:status>
-    <wp:post_parent>0</wp:post_parent>
-    <wp:menu_order>0</wp:menu_order>
-    <wp:post_type><![CDATA[post]]></wp:post_type>
-    <wp:post_password><![CDATA[]]></wp:post_password>
-    <wp:is_sticky>0</wp:is_sticky>
-    <category domain="category" nicename="dinero"><![CDATA[Dinero]]></category>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_title</wp:meta_key><wp:meta_value><![CDATA[Seguro de decesos a partir de los 60: qué cubre y tus derechos]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_metadesc</wp:meta_key><wp:meta_value><![CDATA[Seguro de decesos para mayores de 60: paga el funeral pactado, no pueden darte de baja por la edad y el dinero sobrante es de tus herederos. Qué mirar.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>_yoast_wpseo_focuskw</wp:meta_key><wp:meta_value><![CDATA[seguro de decesos mayores de 60]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_title</wp:meta_key><wp:meta_value><![CDATA[Seguro de decesos a partir de los 60: qué cubre y tus derechos]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_description</wp:meta_key><wp:meta_value><![CDATA[Seguro de decesos para mayores de 60: paga el funeral pactado, no pueden darte de baja por la edad y el dinero sobrante es de tus herederos. Qué mirar.]]></wp:meta_value></wp:postmeta>
-    <wp:postmeta><wp:meta_key>rank_math_focus_keyword</wp:meta_key><wp:meta_value><![CDATA[seguro de decesos mayores de 60, seguro de decesos mayores de 60 años, cuanto cuesta un seguro de decesos para mayores de 60 años]]></wp:meta_value></wp:postmeta>
     <wp:postmeta><wp:meta_key>jubilometro_estado</wp:meta_key><wp:meta_value><![CDATA[publicado]]></wp:meta_value></wp:postmeta>
   </item>
   <item>
@@ -12313,7 +12107,7 @@
 <h2 id="siguiente-paso">Siguiente paso</h2>
 <ul>
 <li>¿Cobras poca pensión? Mira si tienes derecho al <a href="/cuanto-cobrare/complemento-a-minimos/">complemento a mínimos</a>.</li>
-<li>¿Y el seguro de decesos? Lee <a href="/dinero/seguro-decesos/">seguro de decesos a partir de los 60</a>.</li>
+<li>¿Y el seguro de decesos? Lee <a href="/viudedad/auxilio-por-defuncion/#si-tenia-un-seguro-de-decesos">seguro de decesos a partir de los 60</a>.</li>
 <li>¿Cuánto te hace falta ahorrar? Consulta <a href="/dinero/ahorro-jubilacion/">cuánto dinero necesitas para jubilarte</a>.</li>
 </ul>
 </nav>
@@ -12323,7 +12117,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Seguro de salud para mayores de 65: qué cubre la sanidad pública (pagas el 10 % de los medicamentos, con tope) y qué mirar en un seguro privado.]]></excerpt:encoded>
-    <wp:post_id>9063</wp:post_id>
+    <wp:post_id>9061</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12449,7 +12243,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con más de 65 años, la ganancia al vender tu vivienda habitual no paga IRPF ni se declara. Requisitos, qué pasa si tu pareja es menor y plusvalía municipal.]]></excerpt:encoded>
-    <wp:post_id>9064</wp:post_id>
+    <wp:post_id>9062</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12629,7 +12423,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Ayuda a domicilio, residencias, copago y personas cuidadoras: lo que dicen de la dependencia los programas oficiales de los siete partidos para el 29N.]]></excerpt:encoded>
-    <wp:post_id>9065</wp:post_id>
+    <wp:post_id>9063</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12751,7 +12545,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Mayores de 45 y 52 en paro, despido, salario mínimo, bajas por cáncer, incapacidad y discapacidad: lo que dicen los programas oficiales del 29N.]]></excerpt:encoded>
-    <wp:post_id>9066</wp:post_id>
+    <wp:post_id>9064</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12859,7 +12653,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[IRPF, herencias, patrimonio, IBI, plusvalía, IVA de los alimentos y de la luz: lo que dicen de impuestos los programas oficiales del 29N.]]></excerpt:encoded>
-    <wp:post_id>9067</wp:post_id>
+    <wp:post_id>9065</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -12952,7 +12746,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Soledad no deseada, atención presencial sin cita, efectivo y oficinas bancarias: lo que dicen de los mayores los programas oficiales de los partidos del 29N.]]></excerpt:encoded>
-    <wp:post_id>9068</wp:post_id>
+    <wp:post_id>9066</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13034,7 +12828,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dice el programa oficial de EH Bildu para el 29N sobre pensiones: mínimas de 1.220 €, viudedad un 15 % más y anticipada sin recorte, con su página.]]></excerpt:encoded>
-    <wp:post_id>9069</wp:post_id>
+    <wp:post_id>9067</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13116,7 +12910,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dice el programa oficial de ERC para el 29N sobre pensiones: subida con la inflación, IPC de cada territorio y anticipada por profesión, con su página.]]></excerpt:encoded>
-    <wp:post_id>9070</wp:post_id>
+    <wp:post_id>9068</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13198,7 +12992,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dice el programa oficial de Frente Amplio para el 29N sobre pensiones: jubilación a los 65, mínima igual al SMI y anticipada sin recorte, con su cita.]]></excerpt:encoded>
-    <wp:post_id>9071</wp:post_id>
+    <wp:post_id>9069</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13280,7 +13074,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dice el programa oficial del PNV para el 29N sobre pensiones: subida con el IPC, mínimas y anticipada sin recorte con 40 años cotizados, con su página.]]></excerpt:encoded>
-    <wp:post_id>9072</wp:post_id>
+    <wp:post_id>9070</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13362,7 +13156,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dice el programa oficial del PP para el 29N sobre pensiones: subida con el IPC, Pacto de Toledo, jubilación activa y dependencia, con su página.]]></excerpt:encoded>
-    <wp:post_id>9073</wp:post_id>
+    <wp:post_id>9071</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13444,7 +13238,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dice el programa oficial del PSOE para el 29N sobre pensiones: subida con el IPC en la Constitución, mínimas, anticipada y orfandad, con su página.]]></excerpt:encoded>
-    <wp:post_id>9074</wp:post_id>
+    <wp:post_id>9072</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13526,7 +13320,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dice el programa oficial de Vox para el 29N sobre pensiones: sostenibilidad del sistema, cotización por criar a los hijos y dependencia, con su página.]]></excerpt:encoded>
-    <wp:post_id>9075</wp:post_id>
+    <wp:post_id>9073</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13750,7 +13544,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Lo que dicen de pensiones los programas oficiales de PP, PSOE, Vox, Frente Amplio, ERC, EH Bildu y PNV para el 29N: subida, edad, mínimas y anticipada.]]></excerpt:encoded>
-    <wp:post_id>9076</wp:post_id>
+    <wp:post_id>9074</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13868,7 +13662,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Listas de espera, médico de familia, dentista público, gafas, audífonos y paliativos: lo que dicen de sanidad los programas oficiales de los partidos del 29N.]]></excerpt:encoded>
-    <wp:post_id>9077</wp:post_id>
+    <wp:post_id>9075</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -13972,7 +13766,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Ascensores y casas adaptadas para mayores, alquiler, okupación, desahucios y vivienda pública: lo que dicen los programas oficiales de los partidos del 29N.]]></excerpt:encoded>
-    <wp:post_id>9078</wp:post_id>
+    <wp:post_id>9076</wp:post_id>
     <wp:post_date><![CDATA[2026-11-19 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-19 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14081,7 +13875,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Plazas libres del Imserso: cada semana vuelven a la venta plazas por cancelaciones e impagos. Cuándo salen, cómo reservar en otra provincia y la espera.]]></excerpt:encoded>
-    <wp:post_id>9079</wp:post_id>
+    <wp:post_id>9077</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14247,7 +14041,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Requisitos de los viajes del Imserso 2026: jubilados a cualquier edad, viudos desde los 55 y otros pensionistas o parados desde los 60. Con quién ir.]]></excerpt:encoded>
-    <wp:post_id>9080</wp:post_id>
+    <wp:post_id>9078</wp:post_id>
     <wp:post_date><![CDATA[2026-11-01 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-01 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14435,7 +14229,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Reservar un viaje del Imserso: con tu DNI y la clave de 4 dígitos, en turismosocial.es, mundicolor.es o una agencia. Plazos de pago y cancelación.]]></excerpt:encoded>
-    <wp:post_id>9081</wp:post_id>
+    <wp:post_id>9079</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14744,7 +14538,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Termalismo del Imserso 2027: 199.000 plazas, 10 días de balneario desde 322,45 €. Para febrero-agosto se pide hasta el 4 de diciembre. Requisitos y baremo.]]></excerpt:encoded>
-    <wp:post_id>9082</wp:post_id>
+    <wp:post_id>9080</wp:post_id>
     <wp:post_date><![CDATA[2026-11-04 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-04 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -14948,7 +14742,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Viajes para mayores de las comunidades autónomas: Castilla-La Mancha, Madrid, Castilla y León, Valencia y Galicia tienen viajes o balnearios propios.]]></excerpt:encoded>
-    <wp:post_id>9083</wp:post_id>
+    <wp:post_id>9081</wp:post_id>
     <wp:post_date><![CDATA[2026-11-04 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-04 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15103,7 +14897,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Universidad para mayores: desde los 50 o 55 años estudias sin título previo, y con 25, 40 o 45 años puedes entrar en un grado oficial. Cada opción explicada.]]></excerpt:encoded>
-    <wp:post_id>9084</wp:post_id>
+    <wp:post_id>9082</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15447,7 +15241,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Viajes del Imserso 2026-2027: 879.213 plazas de octubre a junio, desde 132,91 €. Quién puede ir, cuánto cuesta cada viaje y cómo conseguir plaza.]]></excerpt:encoded>
-    <wp:post_id>9085</wp:post_id>
+    <wp:post_id>9083</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15611,7 +15405,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Desde el 1 de diciembre de 2026, la baja por una patología de la menopausia no pide cotización previa y se cobra desde el día siguiente. Requisitos y ejemplo.]]></excerpt:encoded>
-    <wp:post_id>9086</wp:post_id>
+    <wp:post_id>9084</wp:post_id>
     <wp:post_date><![CDATA[2026-11-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15799,7 +15593,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[De baja por enfermedad cobras el 60 % de tu base del día 4 al 20 y el 75 % desde el 21; por accidente laboral, el 75 % desde el día siguiente. Con ejemplo.]]></excerpt:encoded>
-    <wp:post_id>9087</wp:post_id>
+    <wp:post_id>9085</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -15983,7 +15777,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si te deniegan la incapacidad permanente, tienes 30 días para la reclamación previa y otros 30 para demandar. Plazos, pruebas y qué pasa con tu baja.]]></excerpt:encoded>
-    <wp:post_id>9088</wp:post_id>
+    <wp:post_id>9086</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16174,7 +15968,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Enfermedades que dan incapacidad permanente: no hay una lista cerrada, se valoran tus limitaciones para trabajar. Cómo decide el tribunal médico.]]></excerpt:encoded>
-    <wp:post_id>9089</wp:post_id>
+    <wp:post_id>9087</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16393,7 +16187,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente tiene 4 grados: parcial (24 mensualidades), total (55 %), absoluta (100 %) y gran incapacidad (100 % y complemento). Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9090</wp:post_id>
+    <wp:post_id>9088</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16540,7 +16334,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La gran incapacidad da el 100 % de la base reguladora más un complemento para quien te cuida. Cálculo del complemento, mínima de 1.404,30 € y dependencia.]]></excerpt:encoded>
-    <wp:post_id>9091</wp:post_id>
+    <wp:post_id>9089</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16682,7 +16476,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente absoluta da el 100 % de tu base reguladora, sin IRPF, si no puedes trabajar en nada. Requisitos, cálculo, mínimas 2026 y trabajo.]]></excerpt:encoded>
-    <wp:post_id>9092</wp:post_id>
+    <wp:post_id>9090</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16801,7 +16595,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad parcial se reconoce si rindes al menos un 33 % menos. Cobras 24 mensualidades de una vez y sigues en tu trabajo. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9093</wp:post_id>
+    <wp:post_id>9091</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -16964,7 +16758,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La baja dura hasta 365 días, prorrogables a 545. Después sigues cobrando hasta que el INSS decide si tienes incapacidad permanente, con un máximo de 730 días.]]></excerpt:encoded>
-    <wp:post_id>9094</wp:post_id>
+    <wp:post_id>9092</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17196,7 +16990,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la incapacidad permanente total cobras el 55 % de tu base reguladora, o el 75 % desde los 55 años sin trabajo, y puedes trabajar en otro puesto. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9095</wp:post_id>
+    <wp:post_id>9093</wp:post_id>
     <wp:post_date><![CDATA[2026-11-13 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-13 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17312,7 +17106,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[A los 67 la incapacidad permanente pasa a llamarse jubilación sin cambiar. Si ya puedes jubilarte no hay incapacidad común, y las dos pensiones no se suman.]]></excerpt:encoded>
-    <wp:post_id>9096</wp:post_id>
+    <wp:post_id>9094</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17444,7 +17238,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Trabajar con incapacidad permanente: con la total puedes trabajar en otra profesión; con la absoluta, desde 2024, se suspende la pensión si te das de alta.]]></excerpt:encoded>
-    <wp:post_id>9097</wp:post_id>
+    <wp:post_id>9095</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17574,7 +17368,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Revisión del grado de incapacidad permanente: si empeoras puedes pedir un grado mayor y si mejoras el INSS puede bajarlo. Plazos, cómo prepararla y riesgos.]]></excerpt:encoded>
-    <wp:post_id>9098</wp:post_id>
+    <wp:post_id>9096</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17707,7 +17501,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La incapacidad permanente se pide al INSS o la inicia él tras la baja. Documentos, el tribunal médico, 10 días para alegar y 135 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9099</wp:post_id>
+    <wp:post_id>9097</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17848,7 +17642,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con 15 años cotizados cobras el 50 % de tu base reguladora a los 67 años, y el complemento a mínimos puede subirla hasta 936,20 € al mes. Requisitos y casos.]]></excerpt:encoded>
-    <wp:post_id>9100</wp:post_id>
+    <wp:post_id>9098</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -17986,7 +17780,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Con la jubilación activa cobras entre el 45 % y el 100 % de tu pensión mientras trabajas, según cuánto hayas retrasado la jubilación. Requisitos y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9101</wp:post_id>
+    <wp:post_id>9099</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18123,7 +17917,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de los trabajadores agrarios: igual que en el Régimen General, con reglas propias de cotización y lagunas y 6 años en el campo para la anticipada.]]></excerpt:encoded>
-    <wp:post_id>9102</wp:post_id>
+    <wp:post_id>9100</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18357,7 +18151,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada con 40 años cotizados sin penalización: la ley decayó al disolverse las Cortes el 6 de octubre. Qué proponía y cuánto pierdes hoy.]]></excerpt:encoded>
-    <wp:post_id>9103</wp:post_id>
+    <wp:post_id>9101</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18384,7 +18178,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-09-27">27 de septiembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
+<p class="meta">Actualizado el <time datetime="2026-11-25">25 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -18423,7 +18217,9 @@
 <li>Luis tiene reconocido un 70 % de discapacidad y ha trabajado 20 años con ella: 20 × 0,25 = 5 años. Puede jubilarse <strong>a los 62</strong>.</li>
 <li>Elena tiene un 75 % y necesita ayuda de otra persona; ha trabajado 20 años con esa situación: 20 × 0,50 = 10 años. Puede jubilarse <strong>a los 57</strong>.</li>
 </ul>
-<p>Los años que se adelantan <strong>cuentan como cotizados para calcular el porcentaje</strong> de tu pensión, pero no para completar los 15 años mínimos, que tienes que haber cotizado de verdad.</p>
+<p>Los años que se adelantan <strong>cuentan como cotizados para calcular el porcentaje</strong> de tu pensión (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23401#a5" rel="noopener">artículo 5 del Real Decreto 1539/2003</a>), pero no para completar los 15 años mínimos, que tienes que haber cotizado de verdad.</p>
+<p><strong>Ejemplo del porcentaje:</strong> Luis, el del ejemplo anterior, tiene <strong>32 años cotizados</strong> cuando se jubila a los 62 en 2027. Los 5 años que adelanta se suman solo para el porcentaje: 32 + 5 = <strong>37 años</strong>, que en 2027 dan el <strong>100 % de su base reguladora</strong> (con 32 años, sin esa suma, no llegaría). La escala completa está en <a href="/cuanto-cobrare/porcentaje-anos-cotizados/">el porcentaje según los años cotizados</a>.</p>
+<p><strong>Qué cuenta como tiempo trabajado</strong> (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2003-23401#a4" rel="noopener">artículo 4</a>): se descuentan las faltas al trabajo, <strong>salvo</strong> las bajas médicas (por enfermedad o accidente, sea o no de trabajo), los permisos por nacimiento, adopción, acogimiento o riesgo durante el embarazo y los permisos retribuidos. Es decir, una baja no te resta tiempo para el coeficiente.</p>
 <h2 id="via-2-discapacidad-igual-o-superior-al-45-por-determinadas-e">Vía 2: discapacidad igual o superior al 45 % por determinadas enfermedades</h2>
 <p>Regulada en el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2009-20652" rel="noopener">Real Decreto 1851/2009</a>. Puedes jubilarte <strong>a los 56 años</strong> si:</p>
 <ul>
@@ -18431,6 +18227,7 @@
 <li>Has trabajado <strong>al menos 5 años con esa discapacidad</strong> (desde 2023; antes se exigían 15).</li>
 <li>Tienes el periodo mínimo de cotización de <strong>15 años</strong> para la pensión de jubilación.</li>
 </ul>
+<p><strong>Ejemplo:</strong> María tiene reconocido un <strong>47 % de discapacidad por párkinson</strong> desde 2020 y ha seguido trabajando desde entonces: en 2026 suma 6 años trabajados con esa discapacidad y 30 años cotizados en total. Desde el 31 de julio de 2026, cuando el párkinson entró en la lista, puede jubilarse <strong>a los 56 años</strong> sin recorte por adelantar la edad. Su pensión se calcula con los 30 años que tiene: el 50 % por los primeros 15 y lo que sumen los meses siguientes.</p>
 <h3 id="las-11-patologias-anadidas-en-2026">Las 11 patologías añadidas en 2026</h3>
 <p>El <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16548" rel="noopener">Real Decreto 632/2026</a>, aprobado el 28 de julio y en vigor desde el 31 de julio de 2026, amplió la lista. El Ministerio de Inclusión calcula que beneficiará a unas <strong>50.000 personas</strong> (<a href="https://www.inclusion.gob.es/en/w/el-gobierno-amplia-el-acceso-a-la-jubilacion-anticipada-por-razon-de-discapacidad-a-los-afectados-por-11-nuevas-patologias" rel="noopener">nota del Ministerio</a>):</p>
 <ul>
@@ -18470,9 +18267,13 @@
 <p>Desde el 31 de julio de 2026, sí, si además has trabajado al menos 5 años con esa discapacidad y tienes 15 años cotizados.</p>
 <h3 id="puedo-sumar-la-reduccion-por-discapacidad-y-la-jubilacion-an">¿Puedo sumar la reducción por discapacidad y la jubilación anticipada voluntaria?</h3>
 <p>Son regímenes distintos con reglas propias. Si te planteas combinarlos, consulta tu caso con la Seguridad Social o con un graduado social.</p>
+<h3 id="cuentan-las-bajas-medicas-como-tiempo-trabajado-con-discapac">¿Cuentan las bajas médicas como tiempo trabajado con discapacidad?</h3>
+<p>Sí. Para la vía del 65 %, del tiempo trabajado solo se descuentan las faltas al trabajo, salvo las bajas médicas, los permisos por nacimiento, adopción, acogimiento o riesgo durante el embarazo y los permisos retribuidos.</p>
+<h3 id="los-anos-que-adelanto-cuentan-para-la-pension">¿Los años que adelanto cuentan para la pensión?</h3>
+<p>En la vía del 65 %, sí, pero solo para el porcentaje de la pensión: se suman a tus años cotizados para llegar antes al 100 %. No sirven para completar los 15 años mínimos.</p>
 <h2 id="fuentes-oficiales">Fuentes oficiales</h2>
 <ul>
-<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23401" rel="noopener">Real Decreto 1539/2003, coeficientes reductores de la edad por discapacidad del 65 %</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23401" rel="noopener">Real Decreto 1539/2003, coeficientes reductores de la edad por discapacidad del 65 %: artículos 3, 4 y 5</a> (BOE).</li>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2009-20652" rel="noopener">Real Decreto 1851/2009, jubilación de personas con discapacidad del 45 %</a> (BOE).</li>
 <li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16548" rel="noopener">Real Decreto 632/2026, que añade nuevas patologías</a> (BOE).</li>
 <li><a href="https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-11644" rel="noopener">Real Decreto 370/2023, que redujo a 5 los años trabajados con discapacidad</a> (BOE).</li>
@@ -18488,13 +18289,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 27 de septiembre de 2026, primera versión.</p>
+<p>Historial de cambios: 25 de noviembre de 2026, ejemplo del porcentaje con los años adelantados, qué cuenta como tiempo trabajado, ejemplo de la vía del 45 % y dos preguntas frecuentes. 27 de septiembre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada por discapacidad: con un 65 % puedes jubilarte desde los 52 años, y con un 45 % y ciertas enfermedades, a los 56, sin recorte.]]></excerpt:encoded>
-    <wp:post_id>9104</wp:post_id>
-    <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
+    <wp:post_id>9102</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[anticipada-discapacidad]]></wp:post_name>
@@ -18675,7 +18476,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada involuntaria por despido o ERE: hasta 4 años antes con 33 años cotizados y 6 meses en el paro, con un recorte de hasta el 30 %.]]></excerpt:encoded>
-    <wp:post_id>9105</wp:post_id>
+    <wp:post_id>9103</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -18832,7 +18633,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Coeficientes reductores de la edad de jubilación por profesión: bomberos, policías locales, mineros o trabajadores del mar se jubilan antes sin recorte.]]></excerpt:encoded>
-    <wp:post_id>9106</wp:post_id>
+    <wp:post_id>9104</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19163,7 +18964,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación anticipada voluntaria: hasta 2 años antes con 35 años cotizados, perdiendo entre un 2,81 % y un 21 % de pensión para siempre. Ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9107</wp:post_id>
+    <wp:post_id>9105</wp:post_id>
     <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19337,7 +19138,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de autónomos: la misma edad que los asalariados, al corriente de cuotas y 672 € menos de pensión media. Cómo mejorar la pensión de un autónomo.]]></excerpt:encoded>
-    <wp:post_id>9108</wp:post_id>
+    <wp:post_id>9106</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19488,7 +19289,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los bomberos adelantan la jubilación 0,20 años por año trabajado, sin recorte de pensión, hasta los 60 o los 59 con 35 años de servicio. También forestales.]]></excerpt:encoded>
-    <wp:post_id>9109</wp:post_id>
+    <wp:post_id>9107</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19658,7 +19459,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cita previa en la Seguridad Social: teléfonos del INSS (24 horas), cómo pedirla por internet con o sin certificado y qué trámites haces sin ir a la oficina.]]></excerpt:encoded>
-    <wp:post_id>9110</wp:post_id>
+    <wp:post_id>9108</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19813,7 +19614,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Convenio especial con la Seguridad Social: si dejas de trabajar antes de jubilarte, sigues cotizando desde unos 392 € al mes en 2026. Cuándo compensa.]]></excerpt:encoded>
-    <wp:post_id>9111</wp:post_id>
+    <wp:post_id>9109</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -19913,7 +19714,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[¿Cuánto tarda en resolverse la jubilación? Unos 10 días de media (9,63 en septiembre de 2026), con un máximo de 90. Qué hacer si se retrasa y cómo reclamar.]]></excerpt:encoded>
-    <wp:post_id>9112</wp:post_id>
+    <wp:post_id>9110</wp:post_id>
     <wp:post_date><![CDATA[2026-10-30 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-30 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20083,7 +19884,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación demorada: si retrasas la jubilación ganas un 4 % más por cada año, un pago único de hasta 13.500 € o una mezcla. Requisitos y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9113</wp:post_id>
+    <wp:post_id>9111</wp:post_id>
     <wp:post_date><![CDATA[2026-09-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20231,7 +20032,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de docentes: los funcionarios se jubilan a los 65 o al acabar el curso, y en la universidad a los 70. Clases Pasivas o Seguridad Social y pensión.]]></excerpt:encoded>
-    <wp:post_id>9114</wp:post_id>
+    <wp:post_id>9112</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -20361,7 +20162,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Qué papeles necesitas para pedir la jubilación según tu caso: DNI, libro de familia, certificados de empresa, despido o discapacidad. Con lista en PDF.]]></excerpt:encoded>
-    <wp:post_id>9115</wp:post_id>
+    <wp:post_id>9113</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21011,7 +20812,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Edad de jubilación 2027: a los 67 años, o a los 65 con 38 años y 6 meses cotizados. Tabla por año y mes de nacimiento, ejemplos y errores frecuentes.]]></excerpt:encoded>
-    <wp:post_id>9116</wp:post_id>
+    <wp:post_id>9114</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21038,7 +20839,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-10-20">20 de octubre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
+<p class="meta">Actualizado el <time datetime="2026-11-25">25 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -21079,7 +20880,61 @@
 </div>
 <p>El cambio de 2024 beneficia sobre todo a quien tuvo <strong>épocas sin trabajo</strong> en los años que se usan para calcular la pensión.</p>
 <h2 id="por-que-importa-cotizar-por-el-salario-real">Por qué importa cotizar por el salario real</h2>
-<p>Tu pensión depende de lo que se haya cotizado por ti. Para las empleadas de hogar se cotiza con una <strong>escala de tramos según el salario mensual</strong>: cuanto más alto sea el salario declarado, más alta la base y mejor la pensión. Comprueba en tu <a href="/cuanto-cobrare/informe-vida-laboral/">vida laboral</a> que constan todos tus trabajos y que el salario declarado es el que cobras.</p>
+<p>Tu pensión depende de lo que se haya cotizado por ti. Para las empleadas de hogar se cotiza con una <strong>escala de tramos según el salario mensual</strong> (incluida la parte proporcional de las pagas extra): cuanto más alto sea el salario declarado, más alta la base y mejor la pensión. Esta es la escala de 2026 (<a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, artículo 15</a>):</p>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Bases de cotización de las empleadas de hogar en 2026 según el salario mensual</caption>
+<thead>
+<tr>
+<th scope="col">Tramo</th>
+<th scope="col">Salario mensual (con pagas extra prorrateadas)</th>
+<th scope="col">Base de cotización</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">1.º</th>
+<td>Hasta 329 €</td>
+<td>306 €</td>
+</tr>
+<tr>
+<th scope="row">2.º</th>
+<td>De 329,01 a 510 €</td>
+<td>436 €</td>
+</tr>
+<tr>
+<th scope="row">3.º</th>
+<td>De 510,01 a 693 €</td>
+<td>602 €</td>
+</tr>
+<tr>
+<th scope="row">4.º</th>
+<td>De 693,01 a 877 €</td>
+<td>785 €</td>
+</tr>
+<tr>
+<th scope="row">5.º</th>
+<td>De 877,01 a 1.061 €</td>
+<td>970 €</td>
+</tr>
+<tr>
+<th scope="row">6.º</th>
+<td>De 1.061,01 a 1.242 €</td>
+<td>1.151 €</td>
+</tr>
+<tr>
+<th scope="row">7.º</th>
+<td>De 1.242,01 a 1.424,40 €</td>
+<td>1.424,40 €</td>
+</tr>
+<tr>
+<th scope="row">8.º</th>
+<td>Desde 1.424,41 €</td>
+<td>El salario real</td>
+</tr>
+</tbody></table>
+</div>
+<p>La base nunca puede ser inferior a la del tramo que corresponde al <strong>salario mínimo</strong> según tus horas: a jornada completa, el salario mínimo con las pagas extra; si trabajas por horas, el salario mínimo por hora multiplicado por tus horas al mes.</p>
+<p><strong>Ejemplo:</strong> Ana trabaja 20 horas a la semana y cobra <strong>820 euros al mes</strong> con las pagas extra prorrateadas: le corresponde el tramo 4.º, con una base de <strong>785 euros</strong>. Si la familia la diera de alta declarando solo 500 euros, cotizaría en el tramo 2.º, con <strong>436 euros</strong>: <strong>349 euros menos de base cada mes</strong>, 4.188 euros menos al año, que luego bajan la media con la que se calcula su pensión.</p>
+<p>Comprueba en tu <a href="/cuanto-cobrare/informe-vida-laboral/">vida laboral</a> que constan todos tus trabajos y que el salario declarado es el que cobras.</p>
 <p><strong>Si trabajaste sin estar dada de alta</strong>, ese tiempo <strong>no cuenta</strong> para tu pensión. Puedes reclamarlo ante la Inspección de Trabajo o en el juzgado para que se reconozca la relación laboral y se paguen las cotizaciones.</p>
 <h2 id="lo-que-cambio-en-2022-y-2023">Lo que cambió en 2022 y 2023</h2>
 <p>Según el <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-14680" rel="noopener">Real Decreto-ley 16/2022</a>:</p>
@@ -21099,9 +20954,12 @@
 <p>Sí, con las mismas reglas que el resto: la anticipada voluntaria exige 35 años cotizados y recorta la pensión, y la involuntaria exige 33 años y un despido por causas ajenas a tu voluntad.</p>
 <h3 id="quien-tiene-que-darme-de-alta-si-trabajo-pocas-horas">¿Quién tiene que darme de alta si trabajo pocas horas?</h3>
 <p>La familia que te contrata, siempre, desde el 1 de enero de 2023, aunque trabajes menos de 60 horas al mes.</p>
+<h3 id="por-cuanto-cotiza-una-empleada-de-hogar-en-2026">¿Por cuánto cotiza una empleada de hogar en 2026?</h3>
+<p>Depende de su salario mensual con las pagas extra prorrateadas: hay ocho tramos, desde una base de 306 euros (salarios de hasta 329 euros) hasta el salario real a partir de 1.424,41 euros. Con un salario de 820 euros, por ejemplo, la base es de 785 euros.</p>
 <h2 id="fuentes-oficiales">Fuentes oficiales</h2>
 <ul>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724" rel="noopener">Ley General de la Seguridad Social, artículos 250 y 251 y disposición transitoria 16.ª</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2026-7296" rel="noopener">Orden PJC/297/2026, de cotización a la Seguridad Social en 2026: artículo 15 (escala del Sistema Especial para Empleados de Hogar)</a> (BOE).</li>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2022-14680" rel="noopener">Real Decreto-ley 16/2022, de 6 de septiembre, para la mejora de las condiciones de trabajo y de Seguridad Social de las personas trabajadoras al servicio del hogar</a> (BOE).</li>
 </ul>
 <nav class="siguiente-paso" aria-labelledby="siguiente-paso">
@@ -21115,13 +20973,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye la información de la Seguridad Social. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 20 de octubre de 2026, frase más clara. 14 de octubre de 2026, enlace a la guía de la cuidadora interna o externa. 6 de octubre de 2026, primera versión.</p>
+<p>Historial de cambios: 25 de noviembre de 2026, escala de bases de cotización de 2026, ejemplo con números y pregunta frecuente nueva. 20 de octubre de 2026, frase más clara. 14 de octubre de 2026, enlace a la guía de la cuidadora interna o externa. 6 de octubre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Las empleadas de hogar se jubilan con las reglas del Régimen General: 15 años cotizados y la misma edad. Qué cambió con las lagunas en 2024 y por qué cotizar.]]></excerpt:encoded>
-    <wp:post_id>9117</wp:post_id>
-    <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
+    <wp:post_id>9115</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[empleadas-de-hogar]]></wp:post_name>
@@ -21250,7 +21108,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si no llegas a 15 años cotizados, o a 38 años y 6 meses para jubilarte a los 65, hay vías legales: convenio especial, becas antiguas o días por parto.]]></excerpt:encoded>
-    <wp:post_id>9118</wp:post_id>
+    <wp:post_id>9116</wp:post_id>
     <wp:post_date><![CDATA[2026-10-14 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-14 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21444,7 +21302,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación flexible 2026: desde el 28 de agosto puedes volver a trabajar entre el 33 % y el 80 % de la jornada y cobrar hasta un 25 % más. Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9119</wp:post_id>
+    <wp:post_id>9117</wp:post_id>
     <wp:post_date><![CDATA[2026-11-17 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-17 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21702,7 +21560,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cómo se jubila un funcionario en 2026: forzosa a los 65, voluntaria a los 60 con 30 años, haberes reguladores de Clases Pasivas, ejemplos y MUFACE.]]></excerpt:encoded>
-    <wp:post_id>9120</wp:post_id>
+    <wp:post_id>9118</wp:post_id>
     <wp:post_date><![CDATA[2026-10-15 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-15 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -21854,7 +21712,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los guardias civiles pasan a la reserva a los 58 (oficiales, 61) y se retiran a los 65. Cómo se calcula su pensión en Clases Pasivas o Seguridad Social.]]></excerpt:encoded>
-    <wp:post_id>9121</wp:post_id>
+    <wp:post_id>9119</wp:post_id>
     <wp:post_date><![CDATA[2026-10-15 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-15 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22018,7 +21876,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación de militares: reserva a los 61 (tropa permanente, 58) y retiro a los 65. Qué pasa con la tropa a los 45 años y cuánto se cobra de pensión.]]></excerpt:encoded>
-    <wp:post_id>9122</wp:post_id>
+    <wp:post_id>9120</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22156,7 +22014,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El número de la Seguridad Social es único y para toda la vida. Cómo consultarlo en Import@ss o en tu vida laboral y cómo pedirlo sin certificado digital.]]></excerpt:encoded>
-    <wp:post_id>9123</wp:post_id>
+    <wp:post_id>9121</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22282,7 +22140,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación parcial 2026: hasta 3 años antes con 33 años cotizados y un contrato de relevo indefinido. Requisitos, reducción de jornada y ejemplos.]]></excerpt:encoded>
-    <wp:post_id>9124</wp:post_id>
+    <wp:post_id>9122</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22445,7 +22303,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El SOVI paga 599,60 € al mes en 14 pagas a quien cotizó 1.800 días antes de 1967 y no tiene otra pensión. Requisitos, partos que suman y cómo pedirla.]]></excerpt:encoded>
-    <wp:post_id>9125</wp:post_id>
+    <wp:post_id>9123</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22585,7 +22443,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías locales adelantan la jubilación 0,20 años por año de servicio, hasta 5 o 6 años y sin recorte de pensión: a los 59 o 60 con carrera larga.]]></excerpt:encoded>
-    <wp:post_id>9126</wp:post_id>
+    <wp:post_id>9124</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22745,7 +22603,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Los policías nacionales pueden pasar a segunda actividad desde los 58 y se jubilan a los 65. Cómo se calcula la pensión en Clases Pasivas o Seguridad Social.]]></excerpt:encoded>
-    <wp:post_id>9127</wp:post_id>
+    <wp:post_id>9125</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -22906,7 +22764,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Mossos, ertzainas y policías forales adelantan la jubilación 0,20 años por año de servicio, sin recorte de pensión: desde los 60, o los 59 con 35 años.]]></excerpt:encoded>
-    <wp:post_id>9128</wp:post_id>
+    <wp:post_id>9126</wp:post_id>
     <wp:post_date><![CDATA[2026-10-27 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-27 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23137,7 +22995,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Prejubilación: en un despido colectivo con 55 años o más, la empresa paga tu convenio especial hasta los 63 (61 por causas económicas). Cómo funciona.]]></excerpt:encoded>
-    <wp:post_id>9129</wp:post_id>
+    <wp:post_id>9127</wp:post_id>
     <wp:post_date><![CDATA[2026-11-24 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-24 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23295,7 +23153,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Marinos, pescadores, estibadores y mariscadoras adelantan la jubilación hasta 10 años según el barco o la actividad, sin recorte de pensión. Tabla oficial.]]></excerpt:encoded>
-    <wp:post_id>9130</wp:post_id>
+    <wp:post_id>9128</wp:post_id>
     <wp:post_date><![CDATA[2026-10-06 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-06 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23413,7 +23271,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Puedes pedir la jubilación por internet con Cl@ve o certificado, o sin certificado con una foto de tu DNI. Te explicamos cada paso, los plazos y qué revisar.]]></excerpt:encoded>
-    <wp:post_id>9131</wp:post_id>
+    <wp:post_id>9129</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23547,7 +23405,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El subsidio para mayores de 52 años paga 480 € al mes hasta tu jubilación y cotiza por ti. Requisitos de 2026, límite de rentas y efecto en tu pensión.]]></excerpt:encoded>
-    <wp:post_id>9132</wp:post_id>
+    <wp:post_id>9130</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23648,7 +23506,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Jubilación con años trabajados en otro país: lo cotizado en la UE o en países con convenio se suma para jubilarte y cada país paga su parte. Dónde pedirla.]]></excerpt:encoded>
-    <wp:post_id>9133</wp:post_id>
+    <wp:post_id>9131</wp:post_id>
     <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -23675,7 +23533,7 @@
     <dc:creator><![CDATA[admin]]></dc:creator>
     <description></description>
     <content:encoded><![CDATA[<header>
-<p class="meta">Actualizado el <time datetime="2026-10-12">12 de octubre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Datos del BOE y de la Seguridad Social</p>
+<p class="meta">Actualizado el <time datetime="2026-11-25">25 de noviembre de 2026</time> · Por Pau Lobato, editor de Jubilómetro · Datos del BOE y de la Seguridad Social</p>
 </header>
 <aside class="respuesta-rapida" aria-label="Respuesta rápida">
 <p class="etiqueta">Respuesta rápida</p>
@@ -23684,7 +23542,7 @@
 </aside>
 <h2 id="cuanto-es-y-para-que-sirve">Cuánto es y para qué sirve</h2>
 <p>Son <strong>46,50 euros</strong> (<a href="https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45659/45676/45677" rel="noopener">Seguridad Social, auxilio por defunción</a>), una cantidad fija que no sube con las pensiones (el decreto de revalorización de 2026 no lo menciona). La ley lo define como una ayuda «para hacer frente a los gastos de sepelio a quien los haya soportado» (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>).</p>
-<p>No cubre el entierro, pero pedirlo es sencillo y conviene no dejarlo pasar. Si la persona tenía un <a href="/dinero/seguro-decesos/">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</p>
+<p>No cubre el entierro, pero pedirlo es sencillo y conviene no dejarlo pasar. Si la persona tenía un <a href="#si-tenia-un-seguro-de-decesos">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</p>
 <h2 id="quien-lo-cobra">Quién lo cobra</h2>
 <p>Lo cobra <strong>quien pagó el entierro</strong>. Salvo que se demuestre otra cosa, la ley da por hecho que lo pagó, por este orden:</p>
 <ol>
@@ -23763,6 +23621,50 @@
 <p><strong>Ejemplo:</strong> el padre de Ana, jubilado, falleció en marzo de 2023. Ana pagó el entierro y nunca pidió el auxilio. Hasta <strong>marzo de 2028</strong> puede pedirlo con la factura de la funeraria, el certificado de defunción y su DNI, y cobrará los 46,50 euros.</p>
 <h2 id="si-la-muerte-fue-por-un-accidente-de-trabajo">Si la muerte fue por un accidente de trabajo</h2>
 <p>Además del auxilio, el cónyuge, la pareja de hecho y los huérfanos tienen derecho a una <strong>indemnización a tanto alzado</strong>, en un solo pago, que paga la mutua o el INSS. Si no hay ningún familiar con derecho a pensión, la cobran el padre o la madre que vivían a cargo del trabajador (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a227" rel="noopener">artículo 227</a>).</p>
+<h2 id="si-tenia-un-seguro-de-decesos">Si tenía un seguro de decesos</h2>
+<p>Con un <strong>seguro de decesos</strong>, la aseguradora se compromete a <strong>prestar el servicio funerario</strong> pactado en la póliza (traslado, féretro, velatorio, inhumación o incineración, trámites…). Lo que dice la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">Ley 50/1980 de Contrato de Seguro</a>:</p>
+<ul>
+<li><strong>Libertad para elegir funeraria</strong>: la aseguradora debe dar una <strong>lista de prestadores</strong> para elegir, salvo que el contrato prevea uno solo (artículo 106 quáter).</li>
+<li><strong>Si la familia elige otra funeraria</strong> o la aseguradora no puede prestar el servicio, tiene que <strong>pagar la suma asegurada a los herederos</strong>, aunque no responde de la calidad del servicio que contraten (artículo 106 bis).</li>
+<li><strong>Lo que sobre</strong> entre la suma asegurada y el coste del servicio es para el tomador o sus herederos. Por ejemplo, con una suma asegurada de 4.000 euros y un servicio de 3.500, los 500 euros restantes son de los herederos, que pueden reclamarlos si no se los ofrecen.</li>
+</ul>
+<p>El auxilio de la Seguridad Social se pide igual aunque hubiera seguro: lo cobra quien pagó el sepelio. Y si no había seguro, los gastos de entierro y funeral <strong>se descuentan en el Impuesto sobre Sucesiones</strong>, si se justifican y guardan proporción con la herencia (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141#a14" rel="noopener">artículo 14 de la Ley del Impuesto sobre Sucesiones</a>).</p>
+<h3 id="si-tienes-o-vas-a-contratar-un-seguro-de-decesos">Si tienes o vas a contratar un seguro de decesos</h3>
+<div class="tabla-scroll" role="region" aria-labelledby="tabla-2" tabindex="0">
+<table><caption id="tabla-2">Derechos del asegurado en el seguro de decesos según la Ley de Contrato de Seguro</caption>
+<thead>
+<tr>
+<th scope="col">Situación</th>
+<th scope="col">Qué dice la ley</th>
+</tr>
+</thead>
+<tbody><tr>
+<th scope="row">¿Me pueden dar de baja por la edad?</th>
+<td>No: en el seguro de decesos, <strong>solo el tomador</strong> puede oponerse a la renovación (artículo 106 bis.5)</td>
+</tr>
+<tr>
+<th scope="row">La prima o las condiciones cambian</th>
+<td>La aseguradora debe comunicarte cualquier modificación <strong>al menos dos meses antes</strong> del vencimiento (artículo 22.3)</td>
+</tr>
+<tr>
+<th scope="row">Quiero darlo de baja</th>
+<td>Comunícalo por escrito <strong>al menos un mes antes</strong> del vencimiento (artículo 22.2)</td>
+</tr>
+<tr>
+<th scope="row">Dejo de pagar un recibo</th>
+<td>La cobertura se <strong>suspende un mes</strong> después del vencimiento; si la aseguradora no reclama el pago en seis meses, el contrato se extingue (artículo 15)</td>
+</tr>
+<tr>
+<th scope="row">Tengo dos seguros de decesos con la misma aseguradora</th>
+<td>Puedes anular uno y te devuelven las primas pagadas desde que coincidieron (artículo 106 bis.3)</td>
+</tr>
+<tr>
+<th scope="row">Tengo seguros con dos aseguradoras</th>
+<td>La que no haya podido prestar el servicio paga la suma asegurada a tus herederos (artículo 106 bis.4)</td>
+</tr>
+</tbody></table>
+</div>
+<p><strong>Antes de contratarlo con más de 60 años:</strong> pide por escrito una <strong>proyección de las primas</strong> (en muchas pólizas suben cada año con la edad) y compárala con el presupuesto de un par de funerarias de tu zona: si contratas tarde, puedes acabar pagando más de lo que cuesta el servicio. Contesta con la verdad el cuestionario de salud, si te lo piden, porque si ocultas algo la aseguradora puede rescindir el contrato o reducir la prestación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">artículo 10</a>). Pregunta por las <strong>carencias</strong> y las <strong>exclusiones</strong>, y revisa que no tengas ya otro seguro de decesos. Ahorrar tú mismo esa cantidad en una cuenta es otra opción: el dinero sigue siendo tuyo.</p>
 <h2 id="preguntas-frecuentes">Preguntas frecuentes</h2>
 <h3 id="cuanto-paga-la-seguridad-social-por-un-fallecimiento">¿Cuánto paga la Seguridad Social por un fallecimiento?</h3>
 <p>El auxilio por defunción son 46,50 euros en un solo pago, para quien pagó el entierro. Aparte están la pensión de viudedad, la de orfandad y la pensión en favor de familiares, si se cumplen sus requisitos.</p>
@@ -23776,9 +23678,15 @@
 <p>Solo si además trabajaba o cobraba una jubilación o una incapacidad permanente contributiva. La viudedad sola no está entre los casos que lo generan.</p>
 <h3 id="cuanto-tarda-en-cobrarse">¿Cuánto tarda en cobrarse?</h3>
 <p>El INSS tiene 90 días para resolver; la media es de unos 13 días.</p>
+<h3 id="me-pueden-dar-de-baja-del-seguro-de-decesos-por-ser-mayor">¿Me pueden dar de baja del seguro de decesos por ser mayor?</h3>
+<p>No. En el seguro de decesos, solo el tomador puede oponerse a la renovación del contrato. La aseguradora no puede darte de baja por la edad, aunque sí puede subir la prima avisándote con dos meses de antelación.</p>
+<h3 id="que-pasa-si-la-familia-contrata-otra-funeraria-que-la-del-se">¿Qué pasa si la familia contrata otra funeraria que la del seguro de decesos?</h3>
+<p>La aseguradora debe pagar la suma asegurada a los herederos, aunque no responde de la calidad del servicio que contraten.</p>
 <h2 id="fuentes-oficiales">Fuentes oficiales</h2>
 <ul>
 <li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">Ley General de la Seguridad Social: artículos 216, 217, 218, 227 y 230</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501" rel="noopener">Ley 50/1980 de Contrato de Seguro: artículos 10, 15, 22, 106 bis y 106 quáter</a> (BOE).</li>
+<li><a href="https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141" rel="noopener">Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones: artículo 14</a> (BOE).</li>
 <li><a href="https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45659/45676/45677" rel="noopener">Seguridad Social: trámite del auxilio por defunción (cuantía, plazos y dónde se pide)</a>.</li>
 <li><a href="https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10964/10966/28558/192413" rel="noopener">Seguridad Social: requisitos y documentos del auxilio por defunción</a>.</li>
 <li><a href="https://www.seg-social.es/wps/wcm/connect/wss/20b4a871-c9a0-4192-9e85-cb42ca008348/MS-5_Castellano_14.pdf?MOD=AJPERES" rel="noopener">INSS: modelo de solicitud MS-5, auxilio por defunción</a>.</li>
@@ -23793,13 +23701,13 @@
 </nav>
 <footer class="descargo">
 <p>Este artículo es informativo y no sustituye la resolución del INSS. Cuantía y requisitos según la Seguridad Social a 12 de octubre de 2026. Si detectas un error, escríbenos a <a href="mailto:plobatoic@gmail.com">plobatoic@gmail.com</a>.</p>
-<p>Historial de cambios: 12 de octubre de 2026, primera versión.</p>
+<p>Historial de cambios: 25 de noviembre de 2026, se suma la guía «Seguro de decesos a partir de los 60» (qué cubre, derechos del asegurado y qué mirar antes de contratarlo). 12 de octubre de 2026, primera versión.</p>
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[El auxilio por defunción son 46,50 € en un solo pago para quien pagó el entierro. Quién lo genera, documentos, plazo de 5 años y cómo pedirlo por internet.]]></excerpt:encoded>
-    <wp:post_id>9134</wp:post_id>
-    <wp:post_date><![CDATA[2026-10-12 09:00:00]]></wp:post_date>
-    <wp:post_date_gmt><![CDATA[2026-10-12 09:00:00]]></wp:post_date_gmt>
+    <wp:post_id>9132</wp:post_id>
+    <wp:post_date><![CDATA[2026-11-25 09:00:00]]></wp:post_date>
+    <wp:post_date_gmt><![CDATA[2026-11-25 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
     <wp:ping_status><![CDATA[closed]]></wp:ping_status>
     <wp:post_name><![CDATA[auxilio-por-defuncion]]></wp:post_name>
@@ -23914,7 +23822,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad es compatible con cualquier sueldo, pero trabajar puede quitarte el complemento a mínimos, el 60 % o el 70 %. Paro, IRPF y ejemplos de 2026.]]></excerpt:encoded>
-    <wp:post_id>9135</wp:post_id>
+    <wp:post_id>9133</wp:post_id>
     <wp:post_date><![CDATA[2026-09-29 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-29 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24116,7 +24024,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuantía de la pensión de viudedad 2026: el 52 % de la base reguladora, el 60 % desde los 65 sin otros ingresos o el 70 % con cargas. Cálculo y mínimas.]]></excerpt:encoded>
-    <wp:post_id>9136</wp:post_id>
+    <wp:post_id>9134</wp:post_id>
     <wp:post_date><![CDATA[2026-11-02 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-02 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24201,7 +24109,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Si estabas divorciado o separado, cobras viudedad si tenías pensión compensatoria, con ese tope. Violencia de género, divorcios anteriores a 2008 y reparto.]]></excerpt:encoded>
-    <wp:post_id>9137</wp:post_id>
+    <wp:post_id>9135</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24300,7 +24208,7 @@
 <ul>
 <li><strong>Pensión de viudedad</strong>, para el cónyuge o la pareja de hecho. Repasa los <a href="/viudedad/requisitos/">requisitos</a> y los <a href="/viudedad/solicitar-viudedad/">pasos para pedirla</a>.</li>
 <li><strong><a href="/viudedad/pension-orfandad/">Pensión de orfandad</a></strong>, para los hijos menores de 21 años (o de 25 si no trabajan o ganan menos del salario mínimo) y los incapacitados para el trabajo (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a224" rel="noopener">artículo 224</a>).</li>
-<li><strong><a href="/viudedad/auxilio-por-defuncion/">Auxilio por defunción</a></strong>: 46,50 euros para quien haya pagado el entierro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>). No llega para cubrirlo: si había un <a href="/dinero/seguro-decesos/">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</li>
+<li><strong><a href="/viudedad/auxilio-por-defuncion/">Auxilio por defunción</a></strong>: 46,50 euros para quien haya pagado el entierro (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218" rel="noopener">artículo 218 de la Ley General de la Seguridad Social</a>). No llega para cubrirlo: si había un <a href="/viudedad/auxilio-por-defuncion/#si-tenia-un-seguro-de-decesos">seguro de decesos</a>, es la aseguradora la que paga el servicio funerario contratado.</li>
 <li><strong><a href="/viudedad/favor-de-familiares/">Pensión en favor de familiares</a></strong>, por ejemplo para los hijos o hermanos de 45 años o más, solteros, divorciados o viudos, que convivían con el pensionista y a su cargo, lo cuidaron durante mucho tiempo y no tienen medios de vida (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a226" rel="noopener">artículo 226</a>).</li>
 </ul>
 <p>Todas se piden en la <strong>misma solicitud</strong> al INSS. El derecho no caduca, pero <strong>solo se cobran tres meses hacia atrás</strong> desde que se pide (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a230" rel="noopener">artículo 230</a>), salvo el auxilio por defunción, que sí prescribe.</p>
@@ -24346,7 +24254,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Cuando fallece un pensionista se cobra su mes completo y parte de la paga extra. Qué pedir a la Seguridad Social, qué hacer con el banco y plazos de herencia.]]></excerpt:encoded>
-    <wp:post_id>9138</wp:post_id>
+    <wp:post_id>9136</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24495,7 +24403,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Pensión en favor de familiares: hijos, hermanos, nietos, padres o abuelos a cargo del fallecido cobran el 20 % de su base reguladora. Requisitos 2026.]]></excerpt:encoded>
-    <wp:post_id>9139</wp:post_id>
+    <wp:post_id>9137</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24601,7 +24509,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Pensión de viudedad y nuevo matrimonio: se pierde al casarte o formar pareja de hecho, salvo con más de 61 años y si es tu principal ingreso. Requisitos.]]></excerpt:encoded>
-    <wp:post_id>9140</wp:post_id>
+    <wp:post_id>9138</wp:post_id>
     <wp:post_date><![CDATA[2026-10-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24713,7 +24621,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pareja de hecho cobra viudedad si estaba inscrita 2 años antes y convivió 5 años. Con hijos comunes bastan 2 años de convivencia, sin inscripción.]]></excerpt:encoded>
-    <wp:post_id>9141</wp:post_id>
+    <wp:post_id>9139</wp:post_id>
     <wp:post_date><![CDATA[2026-11-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24831,7 +24739,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La pensión de orfandad es el 20 % de la base reguladora por hijo, con un mínimo de 286,50 € al mes en 2026. Edad límite, orfandad absoluta y límites.]]></excerpt:encoded>
-    <wp:post_id>9142</wp:post_id>
+    <wp:post_id>9140</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -24945,7 +24853,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Prestación temporal de viudedad: si no llegabais a un año de matrimonio o a dos de pareja de hecho, cobras lo mismo que la viudedad durante dos años.]]></excerpt:encoded>
-    <wp:post_id>9143</wp:post_id>
+    <wp:post_id>9141</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -25138,7 +25046,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Para cobrar la viudedad, el fallecido debía tener 500 días cotizados en 5 años o 15 años en total. Requisitos de matrimonios, parejas de hecho y divorciados.]]></excerpt:encoded>
-    <wp:post_id>9144</wp:post_id>
+    <wp:post_id>9142</wp:post_id>
     <wp:post_date><![CDATA[2026-11-20 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-11-20 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -25244,7 +25152,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[Solicitar la pensión de viudedad: se pide al INSS por internet o en un CAISS con cita previa. Documentos, plazos (3 meses de atrasos) y 90 días para resolver.]]></excerpt:encoded>
-    <wp:post_id>9145</wp:post_id>
+    <wp:post_id>9143</wp:post_id>
     <wp:post_date><![CDATA[2026-10-21 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-10-21 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>
@@ -25361,7 +25269,7 @@
 </footer>
 ]]></content:encoded>
     <excerpt:encoded><![CDATA[La viudedad y la jubilación se cobran a la vez, pero la suma no puede pasar de 3.359,60 € al mes en 2026. Qué pasa con el 60 %, los mínimos y el IRPF.]]></excerpt:encoded>
-    <wp:post_id>9146</wp:post_id>
+    <wp:post_id>9144</wp:post_id>
     <wp:post_date><![CDATA[2026-09-28 09:00:00]]></wp:post_date>
     <wp:post_date_gmt><![CDATA[2026-09-28 09:00:00]]></wp:post_date_gmt>
     <wp:comment_status><![CDATA[closed]]></wp:comment_status>

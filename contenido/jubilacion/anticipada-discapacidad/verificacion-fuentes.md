@@ -11,3 +11,9 @@
 | 7 | Patologías previas del anexo (discapacidad intelectual, parálisis cerebral, anomalías genéticas, TEA, polio, daño cerebral adquirido, esquizofrenia, trastorno bipolar, ELA, esclerosis múltiple…) | Anexo RD 1851/2009 | Conocimiento del anexo | Verificado en BOE (27/09/2026): anexo actualizado por el RD 632/2026, que añade más patologías (la lista del artículo acaba en «…») |
 | 8 | Sin coeficientes reductores sobre la pensión | RD 1539/2003 y RD 1851/2009 | Resultado de búsqueda | Verificado |
 | 9 | Ejemplos: 20 × 0,25 = 5 → 62; 20 × 0,50 = 10 → 57 | — | Cálculo propio (con edad ordinaria de 67) | Cálculo propio |
+
+## 25/11/2026 · Ejemplos y tiempo trabajado
+
+- Real Decreto 1539/2003 (BOE-A-2003-23401), leído en el BOE: art. 3 (coeficientes 0,25 y 0,50 sobre el tiempo efectivamente trabajado), art. 4 (se descuentan las faltas salvo bajas médicas, maternidad, adopción, acogimiento, riesgo en el embarazo y permisos retribuidos) y art. 5 (el periodo reducido cuenta como cotizado solo para el porcentaje).
+- Ejemplo de Luis: 32 + 5 = 37 años → 100 % en 2027 (escala de la guía «porcentaje según los años cotizados»: 37 años desde 2027).
+- Ejemplo de María: requisitos de la vía del 45 % (RD 1851/2009 con RD 370/2023: 5 años trabajados con la discapacidad) y párkinson incluido por el RD 632/2026 desde el 31/07/2026. Porcentaje: 50 % por 15 años más los meses siguientes.

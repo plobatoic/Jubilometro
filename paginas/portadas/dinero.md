@@ -26,7 +26,7 @@ Desde 2025 también puedes sacar, sin estar jubilado, el dinero de las [aportaci
 
 Si tienes 65 años o más y tu casa en propiedad, puedes convertirla en ingresos sin dejar de vivir en ella: con una **hipoteca inversa** (un préstamo que cobras de una vez o cada mes y que no tributa), vendiendo la **nuda propiedad** y quedándote el usufructo, o usando el dinero de esa venta para contratar una **renta vitalicia** con una aseguradora. Comparamos las tres opciones en [hipoteca inversa y nuda propiedad](/dinero/hipoteca-inversa/).
 
-En el día a día, conviene revisar dónde cobras la pensión: puedes cambiar de banco cuando quieras y el ingreso no puede costarte nada, como explicamos en [domiciliar la pensión](/dinero/domiciliar-pension/). Y dos seguros que preocupan a partir de cierta edad: el [seguro de decesos](/dinero/seguro-decesos/), que la aseguradora no puede negarse a renovar por la edad, y el [seguro de salud para mayores](/dinero/seguro-salud-mayores/), que conviene elegir mirando sobre todo las condiciones de renovación.
+En el día a día, conviene revisar dónde cobras la pensión: puedes cambiar de banco cuando quieras y el ingreso no puede costarte nada, como explicamos en [domiciliar la pensión](/cuanto-cobrare/calendario-pago-pensiones/#cambiar-la-pension-de-banco). Y dos seguros que preocupan a partir de cierta edad: el [seguro de decesos](/viudedad/auxilio-por-defuncion/#si-tenia-un-seguro-de-decesos), que la aseguradora no puede negarse a renovar por la edad, y el [seguro de salud para mayores](/dinero/seguro-salud-mayores/), que conviene elegir mirando sobre todo las condiciones de renovación.
 
 ## Herencias y donaciones en vida
 

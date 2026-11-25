@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "jubilacion anticipada por discapacidad superior al 65"
 intencion: informativa
 fase_plan: F3 (artículo n.º 11)
-fecha_actualizacion: 2026-09-27
+fecha_actualizacion: 2026-11-25
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
 fuentes_legales:
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Jubilación anticipada por discapacidad: grados y edades mínimas
 
-*Actualizado el 27 de septiembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
+*Actualizado el 25 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE*
 
 > **Respuesta rápida**
 >
@@ -50,7 +50,11 @@ La edad resultante **no puede ser inferior a 52 años**.
 - Luis tiene reconocido un 70 % de discapacidad y ha trabajado 20 años con ella: 20 × 0,25 = 5 años. Puede jubilarse **a los 62**.
 - Elena tiene un 75 % y necesita ayuda de otra persona; ha trabajado 20 años con esa situación: 20 × 0,50 = 10 años. Puede jubilarse **a los 57**.
 
-Los años que se adelantan **cuentan como cotizados para calcular el porcentaje** de tu pensión, pero no para completar los 15 años mínimos, que tienes que haber cotizado de verdad.
+Los años que se adelantan **cuentan como cotizados para calcular el porcentaje** de tu pensión ([artículo 5 del Real Decreto 1539/2003](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23401#a5)), pero no para completar los 15 años mínimos, que tienes que haber cotizado de verdad.
+
+**Ejemplo del porcentaje:** Luis, el del ejemplo anterior, tiene **32 años cotizados** cuando se jubila a los 62 en 2027. Los 5 años que adelanta se suman solo para el porcentaje: 32 + 5 = **37 años**, que en 2027 dan el **100 % de su base reguladora** (con 32 años, sin esa suma, no llegaría). La escala completa está en [el porcentaje según los años cotizados](/cuanto-cobrare/porcentaje-anos-cotizados/).
+
+**Qué cuenta como tiempo trabajado** ([artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2003-23401#a4)): se descuentan las faltas al trabajo, **salvo** las bajas médicas (por enfermedad o accidente, sea o no de trabajo), los permisos por nacimiento, adopción, acogimiento o riesgo durante el embarazo y los permisos retribuidos. Es decir, una baja no te resta tiempo para el coeficiente.
 
 ## Vía 2: discapacidad igual o superior al 45 % por determinadas enfermedades
 
@@ -59,6 +63,8 @@ Regulada en el [Real Decreto 1851/2009](https://www.boe.es/buscar/act.php?id=BOE
 - Tienes reconocido un **grado de discapacidad del 45 % o más**, derivado de alguna de las patologías del anexo del real decreto.
 - Has trabajado **al menos 5 años con esa discapacidad** (desde 2023; antes se exigían 15).
 - Tienes el periodo mínimo de cotización de **15 años** para la pensión de jubilación.
+
+**Ejemplo:** María tiene reconocido un **47 % de discapacidad por párkinson** desde 2020 y ha seguido trabajando desde entonces: en 2026 suma 6 años trabajados con esa discapacidad y 30 años cotizados en total. Desde el 31 de julio de 2026, cuando el párkinson entró en la lista, puede jubilarse **a los 56 años** sin recorte por adelantar la edad. Su pensión se calcula con los 30 años que tiene: el 50 % por los primeros 15 y lo que sumen los meses siguientes.
 
 ### Las 11 patologías añadidas en 2026
 
@@ -112,9 +118,17 @@ Desde el 31 de julio de 2026, sí, si además has trabajado al menos 5 años con
 
 Son regímenes distintos con reglas propias. Si te planteas combinarlos, consulta tu caso con la Seguridad Social o con un graduado social.
 
+### ¿Cuentan las bajas médicas como tiempo trabajado con discapacidad?
+
+Sí. Para la vía del 65 %, del tiempo trabajado solo se descuentan las faltas al trabajo, salvo las bajas médicas, los permisos por nacimiento, adopción, acogimiento o riesgo durante el embarazo y los permisos retribuidos.
+
+### ¿Los años que adelanto cuentan para la pensión?
+
+En la vía del 65 %, sí, pero solo para el porcentaje de la pensión: se suman a tus años cotizados para llegar antes al 100 %. No sirven para completar los 15 años mínimos.
+
 ## Fuentes oficiales
 
-- [Real Decreto 1539/2003, coeficientes reductores de la edad por discapacidad del 65 %](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23401) (BOE).
+- [Real Decreto 1539/2003, coeficientes reductores de la edad por discapacidad del 65 %: artículos 3, 4 y 5](https://www.boe.es/buscar/doc.php?id=BOE-A-2003-23401) (BOE).
 - [Real Decreto 1851/2009, jubilación de personas con discapacidad del 45 %](https://www.boe.es/buscar/act.php?id=BOE-A-2009-20652) (BOE).
 - [Real Decreto 632/2026, que añade nuevas patologías](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-16548) (BOE).
 - [Real Decreto 370/2023, que redujo a 5 los años trabajados con discapacidad](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-11644) (BOE).
@@ -130,4 +144,4 @@ Son regímenes distintos con reglas propias. Si te planteas combinarlos, consult
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la resolución del Instituto Nacional de la Seguridad Social (INSS). Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 27 de septiembre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, ejemplo del porcentaje con los años adelantados, qué cuenta como tiempo trabajado, ejemplo de la vía del 45 % y dos preguntas frecuentes. 27 de septiembre de 2026, primera versión.*

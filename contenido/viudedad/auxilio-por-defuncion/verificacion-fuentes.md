@@ -21,3 +21,8 @@
 | 15 | Ejemplo (fallecimiento en marzo de 2023 → hasta marzo de 2028) | — | Cálculo propio con el plazo de 5 años | Comprobado |
 
 **Para revisar cada año:** la cuantía en la ficha de la Seguridad Social y la versión del modelo MS-5.
+
+## 25/11/2026 · Fusión con «Seguro de decesos»
+
+- Se incorpora el apartado «Si tenía un seguro de decesos» con el contenido de /dinero/seguro-decesos/ (verificado el 29/09/2026 y revisado el 20/10/2026; copia en publicacion/fusionadas/dinero/).
+- Ley 50/1980 de Contrato de Seguro (BOE-A-1980-22501): artículos 10, 15, 22.2, 22.3, 106 bis (3, 4 y 5) y 106 quáter. Gastos de entierro deducibles: Ley 29/1987, artículo 14.

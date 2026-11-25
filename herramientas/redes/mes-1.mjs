@@ -752,7 +752,7 @@ ${FB_WEB}`,
     ],
   },
   {
-    fecha: '2026-11-03', banco: 'perenne', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/dinero/domiciliar-pension/',
+    fecha: '2026-11-03', banco: 'perenne', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/cuanto-cobrare/calendario-pago-pensiones/',
     texto: `Antes de cambiar la pensión de banco por un regalo, tres cosas.
 
 Puedes cobrar la pensión en el banco que elijas y cambiarlo cuando quieras. Lo más fácil es pedirlo en el banco nuevo, que lo tramita. El cambio se aplica desde el primer día hábil del segundo mes, así que no cierres la cuenta antigua hasta cobrar en la nueva.

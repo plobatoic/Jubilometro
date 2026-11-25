@@ -150,13 +150,13 @@ ${L('seguro-salud', 'x')}`,
 ${L('seguro-salud', 'wa')}`,
   },
   {
-    id: 'decesos-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/dinero/seguro-decesos/',
+    id: 'decesos-x', red: 'x', pilar: 'Errores que cuestan dinero', fuente: '/viudedad/auxilio-por-defuncion/',
     texto: `A partir de los 60 te interesa saberlo: la aseguradora no puede negarse a renovar tu seguro de decesos, ni por la edad ni por ningún otro motivo. Lo que sí puede es subir la prima, avisándote con dos meses de antelación.
 
 ${L('decesos', 'x')}`,
   },
   {
-    id: 'decesos-fb', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/dinero/seguro-decesos/',
+    id: 'decesos-fb', red: 'facebook', pilar: 'Errores que cuestan dinero', fuente: '/viudedad/auxilio-por-defuncion/',
     texto: `Tres cosas del seguro de decesos que muchas familias descubren tarde.
 
 Si el entierro cuesta menos que la suma asegurada, la diferencia es para los herederos. Si la familia prefiere otra funeraria, la aseguradora tiene que pagarles la suma asegurada. Y si tienes dos seguros de decesos con la misma compañía, puedes anular uno y te devuelven las primas desde que coincidieron.

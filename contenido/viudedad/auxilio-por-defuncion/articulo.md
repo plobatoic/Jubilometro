@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "auxilio por defuncion prescribe"
 intencion: transaccional
 fase_plan: F3 (artículo extra)
-fecha_actualizacion: 2026-10-12
+fecha_actualizacion: 2026-11-25
 publicacion: 2026-10-12
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,7 +24,7 @@ fuentes_legales:
 
 # Auxilio por defunción de la Seguridad Social: quién lo cobra, en qué casos se da y cómo pedirlo
 
-*Actualizado el 12 de octubre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos del BOE y de la Seguridad Social*
+*Actualizado el 25 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Datos del BOE y de la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -36,7 +36,7 @@ fuentes_legales:
 
 Son **46,50 euros** ([Seguridad Social, auxilio por defunción](https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45659/45676/45677)), una cantidad fija que no sube con las pensiones (el decreto de revalorización de 2026 no lo menciona). La ley lo define como una ayuda «para hacer frente a los gastos de sepelio a quien los haya soportado» ([artículo 218 de la Ley General de la Seguridad Social](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218)).
 
-No cubre el entierro, pero pedirlo es sencillo y conviene no dejarlo pasar. Si la persona tenía un [seguro de decesos](/dinero/seguro-decesos/), es la aseguradora la que paga el servicio funerario contratado.
+No cubre el entierro, pero pedirlo es sencillo y conviene no dejarlo pasar. Si la persona tenía un [seguro de decesos](#si-tenia-un-seguro-de-decesos), es la aseguradora la que paga el servicio funerario contratado.
 
 ## Quién lo cobra
 
@@ -100,6 +100,30 @@ Hay **cinco años** desde el fallecimiento para pedirlo: después, el derecho **
 
 Además del auxilio, el cónyuge, la pareja de hecho y los huérfanos tienen derecho a una **indemnización a tanto alzado**, en un solo pago, que paga la mutua o el INSS. Si no hay ningún familiar con derecho a pensión, la cobran el padre o la madre que vivían a cargo del trabajador ([artículo 227](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a227)).
 
+## Si tenía un seguro de decesos
+
+Con un **seguro de decesos**, la aseguradora se compromete a **prestar el servicio funerario** pactado en la póliza (traslado, féretro, velatorio, inhumación o incineración, trámites…). Lo que dice la [Ley 50/1980 de Contrato de Seguro](https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501):
+
+- **Libertad para elegir funeraria**: la aseguradora debe dar una **lista de prestadores** para elegir, salvo que el contrato prevea uno solo (artículo 106 quáter).
+- **Si la familia elige otra funeraria** o la aseguradora no puede prestar el servicio, tiene que **pagar la suma asegurada a los herederos**, aunque no responde de la calidad del servicio que contraten (artículo 106 bis).
+- **Lo que sobre** entre la suma asegurada y el coste del servicio es para el tomador o sus herederos. Por ejemplo, con una suma asegurada de 4.000 euros y un servicio de 3.500, los 500 euros restantes son de los herederos, que pueden reclamarlos si no se los ofrecen.
+
+El auxilio de la Seguridad Social se pide igual aunque hubiera seguro: lo cobra quien pagó el sepelio. Y si no había seguro, los gastos de entierro y funeral **se descuentan en el Impuesto sobre Sucesiones**, si se justifican y guardan proporción con la herencia ([artículo 14 de la Ley del Impuesto sobre Sucesiones](https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141#a14)).
+
+### Si tienes o vas a contratar un seguro de decesos
+
+<!-- tabla: Derechos del asegurado en el seguro de decesos según la Ley de Contrato de Seguro -->
+| Situación | Qué dice la ley |
+|---|---|
+| ¿Me pueden dar de baja por la edad? | No: en el seguro de decesos, **solo el tomador** puede oponerse a la renovación (artículo 106 bis.5) |
+| La prima o las condiciones cambian | La aseguradora debe comunicarte cualquier modificación **al menos dos meses antes** del vencimiento (artículo 22.3) |
+| Quiero darlo de baja | Comunícalo por escrito **al menos un mes antes** del vencimiento (artículo 22.2) |
+| Dejo de pagar un recibo | La cobertura se **suspende un mes** después del vencimiento; si la aseguradora no reclama el pago en seis meses, el contrato se extingue (artículo 15) |
+| Tengo dos seguros de decesos con la misma aseguradora | Puedes anular uno y te devuelven las primas pagadas desde que coincidieron (artículo 106 bis.3) |
+| Tengo seguros con dos aseguradoras | La que no haya podido prestar el servicio paga la suma asegurada a tus herederos (artículo 106 bis.4) |
+
+**Antes de contratarlo con más de 60 años:** pide por escrito una **proyección de las primas** (en muchas pólizas suben cada año con la edad) y compárala con el presupuesto de un par de funerarias de tu zona: si contratas tarde, puedes acabar pagando más de lo que cuesta el servicio. Contesta con la verdad el cuestionario de salud, si te lo piden, porque si ocultas algo la aseguradora puede rescindir el contrato o reducir la prestación ([artículo 10](https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501)). Pregunta por las **carencias** y las **exclusiones**, y revisa que no tengas ya otro seguro de decesos. Ahorrar tú mismo esa cantidad en una cuenta es otra opción: el dinero sigue siendo tuyo.
+
 ## Preguntas frecuentes
 
 ### ¿Cuánto paga la Seguridad Social por un fallecimiento?
@@ -126,9 +150,19 @@ Solo si además trabajaba o cobraba una jubilación o una incapacidad permanente
 
 El INSS tiene 90 días para resolver; la media es de unos 13 días.
 
+### ¿Me pueden dar de baja del seguro de decesos por ser mayor?
+
+No. En el seguro de decesos, solo el tomador puede oponerse a la renovación del contrato. La aseguradora no puede darte de baja por la edad, aunque sí puede subir la prima avisándote con dos meses de antelación.
+
+### ¿Qué pasa si la familia contrata otra funeraria que la del seguro de decesos?
+
+La aseguradora debe pagar la suma asegurada a los herederos, aunque no responde de la calidad del servicio que contraten.
+
 ## Fuentes oficiales
 
 - [Ley General de la Seguridad Social: artículos 216, 217, 218, 227 y 230](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724#a218) (BOE).
+- [Ley 50/1980 de Contrato de Seguro: artículos 10, 15, 22, 106 bis y 106 quáter](https://www.boe.es/buscar/act.php?id=BOE-A-1980-22501) (BOE).
+- [Ley 29/1987 del Impuesto sobre Sucesiones y Donaciones: artículo 14](https://www.boe.es/buscar/act.php?id=BOE-A-1987-28141) (BOE).
 - [Seguridad Social: trámite del auxilio por defunción (cuantía, plazos y dónde se pide)](https://www.seg-social.es/wps/portal/wss/internet/InformacionUtil/44539/45659/45676/45677).
 - [Seguridad Social: requisitos y documentos del auxilio por defunción](https://www.seg-social.es/wps/portal/wss/internet/Trabajadores/PrestacionesPensionesTrabajadores/10964/10966/28558/192413).
 - [INSS: modelo de solicitud MS-5, auxilio por defunción](https://www.seg-social.es/wps/wcm/connect/wss/20b4a871-c9a0-4192-9e85-cb42ca008348/MS-5_Castellano_14.pdf?MOD=AJPERES).
@@ -143,4 +177,4 @@ El INSS tiene 90 días para resolver; la media es de unos 13 días.
 
 *Este artículo es informativo y no sustituye la resolución del INSS. Cuantía y requisitos según la Seguridad Social a 12 de octubre de 2026. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 12 de octubre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, se suma la guía «Seguro de decesos a partir de los 60» (qué cubre, derechos del asegurado y qué mirar antes de contratarlo). 12 de octubre de 2026, primera versión.*

@@ -10,7 +10,7 @@ palabras_clave_secundarias:
   - "calendario pago pensiones 2026"
 intencion: informativa
 fase_plan: F1 (artículo n.º 35)
-fecha_actualizacion: 2026-11-17
+fecha_actualizacion: 2026-11-25
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -21,7 +21,7 @@ fuentes_legales:
 
 # Calendario de pago de las pensiones: qué día se cobra cada mes, las pagas extra y el primer pago
 
-*Actualizado el 17 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
+*Actualizado el 25 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y la Seguridad Social*
 
 > **Respuesta rápida**
 >
@@ -101,9 +101,39 @@ Si empezaste a cobrar a mitad de semestre, cobras **una sexta parte por cada mes
 
 ## Otras situaciones
 
-- **Si cambias de banco**: puedes elegir libremente el banco en el que cobras y cambiarlo cuando quieras. La mayoría de bancos comunican el cambio a la Seguridad Social por ti; también puedes hacerlo tú en Tu Seguridad Social o en la web del INSS. El pago de la pensión en España **no puede tener ningún coste** para ti (artículo 24.4 del reglamento).
+- **Si cambias de banco**: la pensión llega al nuevo desde el primer día hábil del **segundo mes** siguiente a la solicitud. Cómo hacerlo, los regalos y la cuenta gratuita, en [cambiar la pensión de banco](#cambiar-la-pension-de-banco).
 - **Si [vives en el extranjero](/dinero/pension-extranjero/)**: puedes pedir cobrar la pensión por trimestres o semestres vencidos, aunque se siga generando mes a mes.
 - **Si fallece el pensionista**: la pensión se genera hasta el último día del mes del fallecimiento y se abona el primer día hábil del mes siguiente ([Orden de 22 de febrero de 1996, artículo 24](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). El mes del fallecimiento se cobra entero.
+
+## Cambiar la pensión de banco
+
+Puedes cobrar la pensión en **el banco que elijas** y **cambiarlo cuando quieras**, siempre que seas **titular de la cuenta**, sola o con otras personas ([Orden de 22 de febrero de 1996, artículos 16 y 17](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). El ingreso de la pensión **no puede costarte nada** (artículo 24.4 del reglamento), aunque la cuenta tenga sus propias comisiones de mantenimiento o de tarjetas: compáralas.
+
+**Cómo se hace:**
+
+1. **En el banco nuevo** (lo más cómodo): abres la cuenta, firmas la orden de traslado y el banco se lo comunica a la Seguridad Social.
+2. **Tú mismo**, con el trámite **«Modificar los datos bancarios del pensionista»**: en Tu Seguridad Social (con Cl@ve o certificado), **sin certificado** en su portal de trámites o en un centro de atención con cita previa ([Seguridad Social](https://prestaciones.seg-social.es/servicio/modificar-datos-bancarios-pensionista.html)).
+
+**Cuándo llega al banco nuevo:** a partir del **primer día hábil del segundo mes** siguiente a la solicitud ([artículo 16.4.2 de la Orden](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). Si lo pides el 15 de octubre, la pensión de octubre aún llega al banco antiguo y la de noviembre, ya al nuevo. **No cierres la cuenta antigua** hasta ver la pensión en la nueva: si la cierras antes, el pago se devuelve y se retrasa.
+
+### Los regalos por domiciliar la pensión
+
+Antes de aceptar dinero, un electrodoméstico o más rentabilidad, lee la **permanencia** (si te vas antes, pueden cobrarte el regalo) y las **comisiones** (un regalo de 200 euros no compensa una cuenta de 10 euros al mes). Y recuerda que **tributa**: es **rendimiento del capital mobiliario**, en la base del ahorro ([Manual de la Renta de la Agencia Tributaria](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-ayuda-presentacion/irpf-2025/7-cumplimentacion-irpf/7_2-rendimientos-capital-mobiliario/7_2_3-rendimientos-capital-mobiliario-integrar-imponible/7_2_3_1-intereses-cuentas-depositos_.html)). Si es **dinero**, el banco retiene el **19 %**: de 200 euros recibes 162 y el banco ingresa 38 a Hacienda. Si es un **objeto**, el banco hace un ingreso a cuenta sobre su coste **más un 20 %** ([artículo 103 del Reglamento del IRPF](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820#a103)): con una televisión de 400 euros, ingresa 91,20 (el 19 % de 480), tú declaras 491,20 y, al 19 %, pagas unos 2 euros más en la renta.
+
+### La cuenta de pago básica, gratis con ingresos bajos
+
+Cualquier residente legal en la Unión Europea tiene derecho a una **cuenta de pago básica** (tarjeta, transferencias y domiciliaciones) por **3 euros al mes** como máximo ([Orden ECE/228/2019, artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2019-3113)), y es **gratuita** si los ingresos brutos anuales de tu unidad familiar no pasan de estas cifras ([Real Decreto 164/2019, artículo 3](https://www.boe.es/buscar/act.php?id=BOE-A-2019-4906)):
+
+<!-- tabla: Ingresos máximos para tener una cuenta de pago básica gratuita en 2026 -->
+| Tu situación | Ingresos brutos anuales, como máximo |
+|---|---|
+| Vives solo | 21.600 € (3 veces el IPREM) |
+| Unidad familiar de menos de 4 personas | 25.200 € (3,5 veces el IPREM) |
+| Familia de 4 o más, numerosa o con una persona con discapacidad del 33 % o más | 28.800 € (4 veces el IPREM) |
+
+Además, nadie de la unidad familiar puede tener **otros inmuebles** aparte de la vivienda habitual ni ser titular real de sociedades. La gratuidad dura **dos años** y se prorroga si sigues cumpliendo. **Ejemplo:** Julia vive sola y cobra 1.400 euros en 14 pagas (19.600 al año); si no tiene otra vivienda, puede pedir que su cuenta sea gratuita.
+
+**Cuentas conjuntas:** se puede cobrar en una cuenta compartida con tu pareja o un hijo si figuras como titular. Si falleces, el banco tiene que devolver a la Seguridad Social las pensiones ingresadas después del mes del fallecimiento y se las puede reclamar a quien las retire ([artículo 17.1.b](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581)). Si solo necesitas que alguien te ayude con el dinero, es mejor darle una **autorización** que hacerle cotitular.
 
 ## Preguntas frecuentes
 
@@ -135,10 +165,22 @@ Con la pensión de enero de 2027, que llega a finales de enero o, como tarde, a 
 
 Las de la Seguridad Social, sí, salvo las que vienen de un accidente de trabajo o una enfermedad profesional, que se cobran en 12 pagas con las extra prorrateadas.
 
+### ¿Cuánto tarda en llegar la pensión al banco nuevo?
+
+Desde el primer día hábil del segundo mes siguiente a la solicitud. Si lo pides en octubre, la cobrarás en la cuenta nueva a primeros de diciembre, o antes si tu banco adelanta el ingreso.
+
+### ¿Hay que declarar el regalo del banco por domiciliar la pensión?
+
+Sí. Es un rendimiento del capital mobiliario y se declara en la base del ahorro. El banco retiene el 19 % si es dinero, o hace un ingreso a cuenta si es un objeto, y te lo indica en su certificado fiscal.
+
 ## Fuentes oficiales
 
 - [Real Decreto 696/2018, Reglamento general de la gestión financiera de la Seguridad Social, artículo 24](https://www.boe.es/buscar/act.php?id=BOE-A-2018-9030) (BOE).
-- [Orden de 22 de febrero de 1996, de desarrollo del reglamento de gestión financiera, artículos 23 y 24](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581) (BOE).
+- [Orden de 22 de febrero de 1996, de desarrollo del reglamento de gestión financiera, artículos 16, 17, 23 y 24](https://www.boe.es/buscar/act.php?id=BOE-A-1996-4581) (BOE).
+- [Real Decreto 164/2019, régimen gratuito de cuentas de pago básicas, artículo 3](https://www.boe.es/buscar/act.php?id=BOE-A-2019-4906) (BOE).
+- [Orden ECE/228/2019, sobre cuentas de pago básicas, artículo 4](https://www.boe.es/buscar/act.php?id=BOE-A-2019-3113) (BOE).
+- [Reglamento del IRPF, artículo 103](https://www.boe.es/buscar/act.php?id=BOE-A-2007-6820) (BOE).
+- [Seguridad Social: modificar los datos bancarios del pensionista](https://prestaciones.seg-social.es/servicio/modificar-datos-bancarios-pensionista.html).
 - [Revista de la Seguridad Social: ¿Cuándo y cómo se cobran las pensiones?](https://revista.seg-social.es/-/20220610-cobro-pensiones)
 - [Seguridad Social: devengo y pago de la pensión (preguntas frecuentes)](https://www.seg-social.es/wps/portal/wss/internet/FAQ/48456/49300/49083/49090?view=FAQs_detalle_tema).
 - [Ley General de la Seguridad Social, artículos 46 (catorce pagas) y 58 (revalorización)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724) (BOE).
@@ -154,4 +196,4 @@ Las de la Seguridad Social, sí, salvo las que vienen de un accidente de trabajo
 
 *Este artículo es informativo y no sustituye el asesoramiento profesional ni la información de la Seguridad Social o de tu banco. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 17 de noviembre de 2026, se incorpora la guía de las pagas extra (cuánto son, ejemplos de noviembre, finiquito, retención y paga compensatoria), que ahora lleva aquí. 28 de septiembre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, se suma la guía «Domiciliar la pensión o cambiarla de banco» (cómo, cuándo llega, regalos, cuenta gratuita y cuentas conjuntas). 17 de noviembre de 2026, se incorpora la guía de las pagas extra (cuánto son, ejemplos de noviembre, finiquito, retención y paga compensatoria), que ahora lleva aquí. 28 de septiembre de 2026, primera versión.*

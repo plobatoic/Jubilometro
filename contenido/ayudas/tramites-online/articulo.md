@@ -72,7 +72,7 @@ Al terminar recibes un **SMS de bienvenida**, y ya puedes usar la app Cl@ve o ac
 | [Informe de vida laboral](/cuanto-cobrare/informe-vida-laboral/) | Import@ss, de la Tesorería de la Seguridad Social | Cl@ve, certificado o SMS; también puedes pedir que te lo manden a casa |
 | [Certificado de tu pensión](/cuanto-cobrare/certificado-pension/), de revalorización o de retenciones del IRPF | Tu Seguridad Social o portal de prestaciones | Cl@ve, certificado o SMS |
 | Pedir la jubilación, la viudedad u otra prestación | Portal de prestaciones de la Seguridad Social | Cl@ve o certificado, o sin certificado con correo, foto del DNI y selfi |
-| [Cambiar la cuenta donde cobras la pensión](/dinero/domiciliar-pension/) o tu domicilio | Portal de prestaciones | Con o sin certificado |
+| [Cambiar la cuenta donde cobras la pensión](/cuanto-cobrare/calendario-pago-pensiones/#cambiar-la-pension-de-banco) o tu domicilio | Portal de prestaciones | Con o sin certificado |
 | [Cambiar la retención del IRPF](/cuanto-cobrare/pension-bruta-y-neta/#como-cambiar-la-retencion-de-tu-pension) | Tu Seguridad Social o portal de prestaciones | Con o sin certificado |
 | Declaración de la renta | Agencia Tributaria | Cl@ve, certificado o número de referencia |
 

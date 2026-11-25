@@ -229,7 +229,7 @@
   "grados-dependencia": "/dependencia/grados/",
   "ayuda-domicilio": "/dependencia/ayuda-a-domicilio/",
   "teleasistencia": "/dependencia/teleasistencia/",
-  "banco": "/dinero/domiciliar-pension/",
+  "banco": "/cuanto-cobrare/calendario-pago-pensiones/#cambiar-la-pension-de-banco",
   "retencion": "/cuanto-cobrare/pension-bruta-y-neta/#como-cambiar-la-retencion-de-tu-pension",
   "bruta-neta": "/cuanto-cobrare/pension-bruta-y-neta/",
   "15-anos": "/jubilacion/15-anos-cotizados/",
@@ -297,7 +297,7 @@
   "tramites": "/ayudas/tramites-online/",
   "transporte": "/ayudas/descuentos-transporte/",
   "seguro-salud": "/dinero/seguro-salud-mayores/",
-  "decesos": "/dinero/seguro-decesos/",
+  "decesos": "/viudedad/auxilio-por-defuncion/#si-tenia-un-seguro-de-decesos",
   "renta": "/dinero/declaracion-renta-jubilados/",
   "vender-casa": "/dinero/vender-vivienda-65/",
   "hipoteca-inversa": "/dinero/hipoteca-inversa/",
@@ -363,7 +363,9 @@
   "/dinero/irpf-pensiones/": "/cuanto-cobrare/pension-bruta-y-neta/",
   "/dinero/renta-vitalicia/": "/dinero/hipoteca-inversa/",
   "/incapacidad/abogado/": "/incapacidad/denegada/",
-  "/imserso/tarjeta-mayores/": "/ayudas/descuentos-transporte/"
+  "/imserso/tarjeta-mayores/": "/ayudas/descuentos-transporte/",
+  "/dinero/seguro-decesos/": "/viudedad/auxilio-por-defuncion/",
+  "/dinero/domiciliar-pension/": "/cuanto-cobrare/calendario-pago-pensiones/"
  },
  "cortos_retirados": {
   "elecciones": "/cuanto-cobrare/elecciones-y-pensiones/"

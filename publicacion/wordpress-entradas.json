@@ -241,7 +241,7 @@
   },
   "/dinero/domiciliar-pension/": {
     "id": 588,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/dinero/herencias-donaciones/": {
     "id": 194,
@@ -273,7 +273,7 @@
   },
   "/dinero/seguro-decesos/": {
     "id": 442,
-    "estado": "publish"
+    "estado": "draft"
   },
   "/dinero/seguro-salud-mayores/": {
     "id": 444,

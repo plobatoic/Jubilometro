@@ -13,3 +13,8 @@
 | 7 | Cotización por desempleo desde el 1/10/2022 | RDL 16/2022 | Texto consolidado | Verificado en BOE |
 | 8 | Requisitos generales de jubilación (edad, 15 años con 2 en los últimos 15, anticipada 35 y 33 años) | LGSS, arts. 205, 207 y 208 (guías de la web) | Texto consolidado | Verificado en BOE |
 | 9 | Reclamación del tiempo trabajado sin alta ante la Inspección de Trabajo o los juzgados | — | Conocimiento general | Redacción prudente |
+
+## 25/11/2026 · Escala de 2026 y ejemplo
+
+- Escala de ocho tramos y bases mínimas según el salario mínimo: Orden PJC/297/2026, artículo 15.1 y 15.2 (BOE-A-2026-7296), leída en el texto del BOE.
+- Ejemplo de Ana: 820 € está en el tramo 4.º (693,01-877) → base 785 €; 500 € está en el tramo 2.º (329,01-510) → base 436 €. 785 − 436 = 349 € al mes; × 12 = 4.188 € al año.

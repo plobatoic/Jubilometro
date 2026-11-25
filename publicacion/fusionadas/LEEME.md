@@ -21,3 +21,5 @@ Guías que se juntaron con otra más completa (propuesta en `publicacion/seo/pro
 | /dinero/renta-vitalicia/ | /dinero/hipoteca-inversa/ | 24/11/2026 |
 | /incapacidad/abogado/ | /incapacidad/denegada/ | 24/11/2026 |
 | /imserso/tarjeta-mayores/ | /ayudas/descuentos-transporte/ | 24/11/2026 |
+| /dinero/seguro-decesos/ | /viudedad/auxilio-por-defuncion/ | 25/11/2026 |
+| /dinero/domiciliar-pension/ | /cuanto-cobrare/calendario-pago-pensiones/ | 25/11/2026 |

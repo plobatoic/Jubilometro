@@ -115,7 +115,7 @@ En el IRPF estatal, no. La deducción es para autónomos en activo (hasta 500 eu
 ## Siguiente paso
 
 - ¿Cobras poca pensión? Mira si tienes derecho al [complemento a mínimos](/cuanto-cobrare/complemento-a-minimos/).
-- ¿Y el seguro de decesos? Lee [seguro de decesos a partir de los 60](/dinero/seguro-decesos/).
+- ¿Y el seguro de decesos? Lee [seguro de decesos a partir de los 60](/viudedad/auxilio-por-defuncion/#si-tenia-un-seguro-de-decesos).
 - ¿Cuánto te hace falta ahorrar? Consulta [cuánto dinero necesitas para jubilarte](/dinero/ahorro-jubilacion/).
 
 ---

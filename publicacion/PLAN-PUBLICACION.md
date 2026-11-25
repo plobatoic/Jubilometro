@@ -549,6 +549,16 @@ Para ganar enlaces y visitas: cualquier web puede insertar nuestras calculadoras
 - Debajo de cada calculadora y en el índice de calculadoras hay una invitación a ponerla en otra web.
 - Siguiente paso (punto 3c): ofrecerlas a asociaciones de mayores, sindicatos, gestorías y blogs de finanzas personales.
 
+### Plan AdSense: tanda 5 y primeras mejoras (25/11/2026, tema 2.11.46)
+
+El titular delega el plan de AdSense («ves haciéndolo tú todo»). Hecho hoy:
+
+- `/dinero/seguro-decesos/` → `/viudedad/auxilio-por-defuncion/` (apartado «Si tenía un seguro de decesos»: cobertura, derechos de la Ley de Contrato de Seguro, qué mirar antes de contratarlo y dos preguntas frecuentes).
+- `/dinero/domiciliar-pension/` → `/cuanto-cobrare/calendario-pago-pensiones/` (apartado «Cambiar la pensión de banco»: cómo, cuándo llega, regalos y su IRPF, cuenta de pago básica gratuita y cuentas conjuntas).
+- Igual que las tandas anteriores: 301, borradores, copias en `publicacion/fusionadas/`, enlaces de 4 guías y la portada de Dinero, enlaces cortos `decesos` y `banco`, `fuente` de redes. Comprobado en vivo.
+- Mejoradas: `/jubilacion/empleadas-de-hogar/` (escala de bases de 2026 de la Orden PJC/297/2026 y ejemplo) y `/jubilacion/anticipada-discapacidad/` (artículos 4 y 5 del RD 1539/2003, dos ejemplos y dos preguntas frecuentes).
+- Tarea diaria «Plan AdSense: tarea del día» a las 11:37 (Madrid) hasta el 15/12.
+
 ### Fusión de guías que se repiten, tanda 4 (24/11/2026, tema 2.11.45)
 
 Adelantada del 30/11 para preparar la nueva solicitud de AdSense (`publicacion/seo/plan-adsense-2026-12.md`):
