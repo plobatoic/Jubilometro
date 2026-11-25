@@ -153,29 +153,64 @@ export function salon() {
 
 // ---------- Oficina ----------
 export function oficina() {
-  const g = new THREE.Group();
-  const baldosa = lienzo(512, 512, (ctx, w, h) => { ctx.fillStyle = "#cfd8e3"; ctx.fillRect(0, 0, w, h); ctx.strokeStyle = "rgba(80,100,130,0.25)"; ctx.lineWidth = 4; for (let i = 0; i <= 4; i++) { ctx.beginPath(); ctx.moveTo(i * 128, 0); ctx.lineTo(i * 128, h); ctx.moveTo(0, i * 128); ctx.lineTo(w, i * 128); ctx.stroke(); } });
-  baldosa.tex.wrapS = baldosa.tex.wrapT = THREE.RepeatWrapping; baldosa.tex.repeat.set(6, 6);
-  const suelo = new THREE.Mesh(new THREE.PlaneGeometry(24, 24), new THREE.MeshStandardMaterial({ map: baldosa.tex, roughness: 0.6 })); suelo.rotation.x = -Math.PI / 2; suelo.receiveShadow = true; g.add(suelo);
-  const pared = sombra(new THREE.Mesh(new THREE.PlaneGeometry(24, 10), mat("#dfe9f2", 0.95))); pared.position.set(0, 5, -3.2); g.add(pared);
-  const franja = caja(24, 0.5, 0.06, mat("#7fb1ea", 0.7), 0); franja.position.set(0, 1.4, -3.15); g.add(franja);
+  // Oficina de atención al público (25/11): suelo de baldosa con veta, zócalo de madera, ventana con persianas y luz,
+  // mesa de madera con ordenador, sillas, archivadores, fluorescentes, reloj y planta. La mesa conserva su sitio
+  // (x 0.9, z −1.2, tablero a 1.36 m) porque la carpeta y el sello de los reels se colocan encima.
+  const g = new THREE.Group(), r = azar(21);
+  const baldosa = lienzo(1024, 1024, (ctx, w, h) => {
+    for (let y = 0; y < 4; y++) for (let x = 0; x < 4; x++) {
+      const tono = 0.93 + r() * 0.1, c = new THREE.Color("#d9d4c9").multiplyScalar(tono);
+      ctx.fillStyle = `#${c.getHexString()}`; ctx.fillRect(x * 256, y * 256, 256, 256);
+      for (let k = 0; k < 6; k++) { ctx.strokeStyle = `rgba(120,110,95,${0.06 + r() * 0.08})`; ctx.lineWidth = 1 + r() * 2; ctx.beginPath(); const sx = x * 256 + r() * 256, sy = y * 256 + r() * 256; ctx.moveTo(sx, sy); ctx.bezierCurveTo(sx + 60, sy + r() * 80 - 40, sx + 120, sy + r() * 80 - 40, sx + 200, sy + r() * 60 - 30); ctx.stroke(); }
+    }
+    ctx.strokeStyle = "rgba(90,80,70,0.35)"; ctx.lineWidth = 3; for (let i = 0; i <= 4; i++) { ctx.beginPath(); ctx.moveTo(i * 256, 0); ctx.lineTo(i * 256, h); ctx.moveTo(0, i * 256); ctx.lineTo(w, i * 256); ctx.stroke(); }
+  });
+  baldosa.tex.wrapS = baldosa.tex.wrapT = THREE.RepeatWrapping; baldosa.tex.repeat.set(5, 5);
+  const suelo = new THREE.Mesh(new THREE.PlaneGeometry(24, 24), new THREE.MeshStandardMaterial({ map: baldosa.tex, roughness: 0.28, metalness: 0.02 })); suelo.rotation.x = -Math.PI / 2; suelo.receiveShadow = true; g.add(suelo);
+  const mPared = mat("#e9eef2", 0.92);
+  const pared = sombra(new THREE.Mesh(new THREE.PlaneGeometry(24, 10), mPared)); pared.position.set(0, 5, -3.2); g.add(pared);
+  const lat = sombra(new THREE.Mesh(new THREE.PlaneGeometry(12, 10), mPared)); lat.rotation.y = Math.PI / 2; lat.position.set(-6.5, 5, 2.8); g.add(lat);
+  const mMadera = new THREE.MeshStandardMaterial({ map: texMadera(512, 512, 5, "#a77b52").tex, roughness: 0.4 });
+  const zoc = caja(24, 1.0, 0.06, mMadera, 0); zoc.position.set(0, 0.5, -3.16); g.add(zoc);
+  const mold = caja(24, 0.06, 0.1, mat("#ffffff", 0.5), 0.02); mold.position.set(0, 1.02, -3.13); g.add(mold);
+  // Ventana con persianas y luz de día
+  const cielo = lienzo(256, 320, (ctx, w, h) => { const gr = ctx.createLinearGradient(0, 0, 0, h); gr.addColorStop(0, "#9fc6ea"); gr.addColorStop(1, "#e4f0f8"); ctx.fillStyle = gr; ctx.fillRect(0, 0, w, h); ctx.fillStyle = "#b9c4cc"; ctx.fillRect(20, 190, 70, 130); ctx.fillRect(110, 160, 60, 160); ctx.fillRect(185, 210, 60, 110); });
+  const vid = new THREE.Mesh(new THREE.PlaneGeometry(2.0, 2.4), new THREE.MeshBasicMaterial({ map: cielo.tex })); vid.position.set(-3.4, 3.3, -3.14); g.add(vid);
+  for (const [w, h, x, y] of [[2.25, 0.12, -3.4, 4.56], [2.25, 0.12, -3.4, 2.04], [0.12, 2.6, -4.47, 3.3], [0.12, 2.6, -2.33, 3.3]]) { const b = caja(w, h, 0.12, mat("#f4f6f8", 0.4), 0.02); b.position.set(x, y, -3.08); g.add(b); }
+  for (let k = 0; k < 14; k++) { const l = caja(2.0, 0.035, 0.07, mat("#eef1f4", 0.5), 0.01); l.position.set(-3.4, 4.45 - k * 0.1, -3.02); l.rotation.x = -0.6; g.add(l); }
   // Cartel y pantalla de turnos
   const cartel = lienzo(1024, 256, (ctx, w, h) => { ctx.fillStyle = "#1f3a5f"; redondeado(ctx, 0, 0, w, h, 40); ctx.fill(); ctx.fillStyle = "#fff"; ctx.font = `800 96px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText("Atención al público", w / 2, h / 2 + 4); });
-  const cart = new THREE.Mesh(new THREE.PlaneGeometry(3.2, 0.8), new THREE.MeshStandardMaterial({ map: cartel.tex, transparent: true, roughness: 0.6 })); cart.position.set(-3.9, 3.0, -3.1); g.add(cart);
+  const cart = new THREE.Mesh(new THREE.PlaneGeometry(2.6, 0.65), new THREE.MeshStandardMaterial({ map: cartel.tex, transparent: true, roughness: 0.6 })); cart.position.set(0.9, 4.6, -3.1); g.add(cart);
   const turno = lienzo(512, 256, (ctx, w, h) => { ctx.fillStyle = "#0c1424"; redondeado(ctx, 0, 0, w, h, 30); ctx.fill(); ctx.fillStyle = "#6fd3a0"; ctx.font = `800 120px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText("A-27", w / 2, h / 2 + 6); });
-  const tur = new THREE.Mesh(new THREE.PlaneGeometry(1.3, 0.65), new THREE.MeshStandardMaterial({ map: turno.tex, emissive: "#ffffff", emissiveMap: turno.tex, emissiveIntensity: 0.6, transparent: true })); tur.position.set(2.9, 3.6, -3.1); g.add(tur);
-  // Mesa con ordenador, papeles y planta
-  const mesa = caja(3.6, 0.12, 1.5, mat("#f5f1ea", 0.5), 0.03); mesa.position.set(0.9, 1.3, -1.2); g.add(mesa);
-  const frente = caja(3.6, 1.2, 0.08, mat("#3d86e0", 0.7), 0.02); frente.position.set(0.9, 0.66, -0.47); g.add(frente);
-  for (const x of [-0.8, 2.6]) { const p = caja(0.1, 1.25, 1.4, mat("#c9d3df", 0.6), 0.02); p.position.set(x, 0.62, -1.2); g.add(p); }
-  const monitor = caja(1.2, 0.75, 0.08, mat("#1c2433", 0.4), 0.04); monitor.position.set(2.0, 2.0, -1.6); monitor.rotation.y = -0.35; g.add(monitor);
-  const pant = new THREE.Mesh(new THREE.PlaneGeometry(1.08, 0.63), new THREE.MeshStandardMaterial({ color: "#9cc5f0", emissive: "#6fa6e6", emissiveIntensity: 0.5 })); pant.position.set(1.985, 2.0, -1.55); pant.rotation.y = -0.35; g.add(pant);
-  const pieM = caja(0.1, 0.35, 0.1, mat("#1c2433", 0.4), 0); pieM.position.set(2.02, 1.53, -1.65); g.add(pieM);
+  const tur = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 0.55), new THREE.MeshStandardMaterial({ map: turno.tex, emissive: "#ffffff", emissiveMap: turno.tex, emissiveIntensity: 0.6, transparent: true })); tur.position.set(3.0, 3.7, -3.1); g.add(tur);
+  // Reloj
+  const reloj = sombra(new THREE.Mesh(new THREE.CylinderGeometry(0.36, 0.36, 0.07, 40), mat("#2b3440", 0.4))); reloj.rotation.x = Math.PI / 2; reloj.position.set(-1.0, 3.9, -3.12); g.add(reloj);
+  const caraR = lienzo(256, 256, (ctx) => { ctx.fillStyle = "#ffffff"; ctx.beginPath(); ctx.arc(128, 128, 126, 0, 7); ctx.fill(); ctx.fillStyle = "#2b3440"; for (let k = 0; k < 12; k++) { const a = (k / 12) * Math.PI * 2; ctx.fillRect(128 + Math.sin(a) * 100 - 4, 128 - Math.cos(a) * 100 - 4, 8, 8); } ctx.lineWidth = 8; ctx.lineCap = "round"; ctx.strokeStyle = "#2b3440"; ctx.beginPath(); ctx.moveTo(128, 128); ctx.lineTo(178, 108); ctx.moveTo(128, 128); ctx.lineTo(118, 45); ctx.stroke(); });
+  const disco = new THREE.Mesh(new THREE.CircleGeometry(0.31, 40), new THREE.MeshStandardMaterial({ map: caraR.tex, roughness: 0.5 })); disco.position.set(-1.0, 3.9, -3.08); g.add(disco);
+  // Mesa de madera (mismo sitio que antes) con faldón, ordenador, teclado, papeles y lámpara
+  const mesa = caja(3.6, 0.12, 1.5, mMadera, 0.03); mesa.position.set(0.9, 1.3, -1.2); g.add(mesa);
+  const frente = caja(3.6, 1.2, 0.08, mat("#2f5d8a", 0.65), 0.02); frente.position.set(0.9, 0.66, -0.47); g.add(frente);
+  for (const x of [-0.8, 2.6]) { const p = caja(0.1, 1.25, 1.4, mMadera, 0.02); p.position.set(x, 0.62, -1.2); g.add(p); }
+  const monitor = caja(1.2, 0.75, 0.06, mat("#1c2433", 0.35), 0.04); monitor.position.set(2.0, 2.0, -1.6); monitor.rotation.y = -0.35; g.add(monitor);
+  const ui = lienzo(512, 300, (ctx, w, h) => { ctx.fillStyle = "#eef4fb"; ctx.fillRect(0, 0, w, h); ctx.fillStyle = "#1f3a5f"; ctx.fillRect(0, 0, w, 40); ctx.fillStyle = "#cfdcea"; for (let k = 0; k < 6; k++) ctx.fillRect(30, 70 + k * 36, 300 + (k % 3) * 40, 16); ctx.fillStyle = "#6fd3a0"; ctx.fillRect(360, 230, 120, 40); });
+  const pant = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 0.65), new THREE.MeshStandardMaterial({ map: ui.tex, emissive: "#ffffff", emissiveMap: ui.tex, emissiveIntensity: 0.55 })); pant.position.set(1.99, 2.0, -1.56); pant.rotation.y = -0.35; g.add(pant);
+  const pieM = caja(0.08, 0.35, 0.08, mat("#1c2433", 0.4), 0); pieM.position.set(2.02, 1.53, -1.65); g.add(pieM);
+  const teclado = caja(0.8, 0.03, 0.26, mat("#2b3440", 0.5), 0.01); teclado.position.set(1.7, 1.38, -1.05); teclado.rotation.y = -0.3; g.add(teclado);
   for (let i = 0; i < 5; i++) { const h = caja(0.8, 0.02, 0.6, mat(i % 2 ? "#ffffff" : "#f3efe6", 0.9), 0); h.position.set(-0.2, 1.37 + i * 0.022, -1.5); h.rotation.y = 0.05 * (i - 2); g.add(h); }
-  const arch = caja(1.0, 2.2, 0.9, mat("#9aa8ba", 0.5), 0.03); arch.position.set(-3.6, 1.1, -2.6); g.add(arch);
-  for (const y of [0.55, 1.25, 1.95]) { const t = caja(0.4, 0.07, 0.05, mat("#e1e7ef", 0.3), 0.02); t.position.set(-3.6, y, -2.13); g.add(t); }
-  const maceta = sombra(new THREE.Mesh(new THREE.CylinderGeometry(0.3, 0.22, 0.5, 24), mat("#f3f3f3", 0.5))); maceta.position.set(4.6, 0.25, -2.2); g.add(maceta);
-  for (let i = 0; i < 8; i++) { const h = sombra(new THREE.Mesh(new THREE.SphereGeometry(0.3, 16, 12), mat("#4d8a49", 0.8))); h.scale.set(0.6, 1.5, 0.35); const a = (i / 8) * Math.PI * 2; h.position.set(4.6 + Math.cos(a) * 0.25, 0.95 + (i % 3) * 0.25, -2.2 + Math.sin(a) * 0.25); h.rotation.set(Math.sin(a) * 0.5, a, Math.cos(a) * 0.5); g.add(h); }
+  const taza = sombra(new THREE.Mesh(new THREE.CylinderGeometry(0.07, 0.06, 0.15, 20), mat("#c24b43", 0.4))); taza.position.set(2.4, 1.44, -0.75); g.add(taza);
+  // Silla del funcionario y dos sillas de espera
+  const silla = (x, z, giro, color) => { const s = new THREE.Group(); s.position.set(x, 0, z); s.rotation.y = giro; g.add(s); const as = caja(0.75, 0.1, 0.7, mat(color, 0.8), 0.04); as.position.y = 0.8; s.add(as); const rp = caja(0.75, 0.75, 0.08, mat(color, 0.8), 0.04); rp.position.set(0, 1.2, -0.32); s.add(rp); for (const [px, pz] of [[-0.3, -0.28], [0.3, -0.28], [-0.3, 0.28], [0.3, 0.28]]) { const pt = sombra(new THREE.Mesh(new THREE.CylinderGeometry(0.025, 0.025, 0.78, 8), mat("#9aa3ad", 0.3, { metalness: 0.7 }))); pt.position.set(px, 0.39, pz); s.add(pt); } };
+  silla(1.4, -2.3, 0, "#2b3440");
+  silla(4.3, -1.8, -0.5, "#3f6c99"); silla(5.2, -1.4, -0.5, "#3f6c99");
+  // Archivadores con carpetas de colores
+  const arch = caja(1.6, 2.6, 0.6, mat("#b8c2cd", 0.45), 0.03); arch.position.set(-3.3, 1.3, -2.85); g.add(arch);
+  for (let f = 0; f < 3; f++) { let x = -4.0; while (x < -2.65) { const an = 0.08 + r() * 0.05; const c = caja(an, 0.62, 0.42, mat(["#c24b43", "#3f6c99", "#e0b04a", "#4f8a46", "#efe7d8"][(r() * 5) | 0], 0.6), 0.01); c.position.set(x + an / 2, 0.45 + f * 0.82, -2.6); g.add(c); x += an + 0.015; } }
+  // Fluorescentes del techo y luz fría de oficina
+  for (const x of [-2, 1, 4]) { const t = new THREE.Mesh(new THREE.BoxGeometry(1.6, 0.05, 0.4), new THREE.MeshStandardMaterial({ color: "#ffffff", emissive: "#eef6ff", emissiveIntensity: 1.2 })); t.position.set(x, 6.8, -0.8); g.add(t); }
+  const techo = new THREE.PointLight("#eef4ff", 6, 12, 1.5); techo.position.set(1, 6.2, 0); g.add(techo);
+  const dia = new THREE.SpotLight("#e3f0ff", 24, 16, 0.6, 0.6, 1.2); dia.position.set(-3.4, 4.3, -1.2); dia.target.position.set(0.5, 0, 1.0); g.add(dia, dia.target);
+  // Planta
+  const p1 = planta(r); p1.position.set(4.9, 0, -2.6); g.add(p1);
   return g;
 }
 
