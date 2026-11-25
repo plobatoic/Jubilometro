@@ -2,20 +2,27 @@
 // para cada fotograma. Cada escena del reel puede llevar `animacion` (ver herramientas/reels/README.md, «Muñecos 3D»).
 import * as THREE from "three";
 import { RoomEnvironment } from "three/addons/environments/RoomEnvironment.js";
+import { EffectComposer } from "three/addons/postprocessing/EffectComposer.js";
+import { RenderPass } from "three/addons/postprocessing/RenderPass.js";
+import { BokehPass } from "three/addons/postprocessing/BokehPass.js";
+import { OutputPass } from "three/addons/postprocessing/OutputPass.js";
 import { crearPersonaje, aplicar, POSES, CARAS, mezclarPose, mezclarCara } from "./personajes.js";
 import { salon, oficina, movil, calendarioPared, bocadillo, lluviaMonedas, carpeta, sello } from "./escenarios.js";
 
 const W = 1080, H = 1920;
 const SETS = { salon: { x: 0, crear: salon, fondo: "#f4e4cf" }, oficina: { x: 60, crear: oficina, fondo: "#dfe9f2" },
   // «presentador»: sin decorado y con fondo transparente, para poner el muñeco encima de vídeo real
-  presentador: { x: 120, crear: () => new THREE.Group(), fondo: null } };
+  presentador: { x: 120, crear: () => new THREE.Group(), fondo: null },
+  // «real»: los muñecos de cuerpo entero dentro de un vídeo real (salón, cocina, oficina…). Fondo transparente
+  // y un suelo invisible que solo recoge las sombras, para que parezcan apoyados en el suelo del vídeo.
+  real: { x: 180, crear: () => { const g = new THREE.Group(); const suelo = new THREE.Mesh(new THREE.PlaneGeometry(40, 40), new THREE.ShadowMaterial({ opacity: 0.38 })); suelo.rotation.x = -Math.PI / 2; suelo.receiveShadow = true; g.add(suelo); return g; }, fondo: null } };
 const clamp = (x, a = 0, b = 1) => Math.min(b, Math.max(a, x));
 const suave = (x) => { x = clamp(x); return x * x * (3 - 2 * x); };
 const salida = (x) => { x = clamp(x); return 1 - Math.pow(1 - x, 3); };
 const rebote = (x) => { x = clamp(x); const c1 = 1.70158, c3 = c1 + 1; return 1 + c3 * Math.pow(x - 1, 3) + c1 * Math.pow(x - 1, 2); };
 const v3 = (a) => new THREE.Vector3(...a);
 
-let r, mundo, cam, sol, D, escenas = [], actores = {};
+let r, mundo, cam, sol, D, escenas = [], actores = {}, comp, bokeh;
 const tmp = new THREE.Vector3();
 
 window.__init3d = (datos) => {
@@ -65,6 +72,11 @@ window.__init3d = (datos) => {
     });
     return { ...e, ox, props };
   });
+  // Cámara de foto: desenfoque de fondo y del primer plano (solo en decorados 3D, no en fondo transparente)
+  comp = new EffectComposer(r); comp.setPixelRatio(1); comp.setSize(W, H);
+  comp.addPass(new RenderPass(mundo, cam));
+  bokeh = new BokehPass(mundo, cam, { focus: 10, aperture: 0.004, maxblur: 0.008 }); comp.addPass(bokeh);
+  comp.addPass(new OutputPass());
   window.__listo3d = true;
 };
 
@@ -161,5 +173,11 @@ window.__frame3d = (t) => {
       o.rotation.z = 0.12;
     }
   }
-  r.render(mundo, cam);
+  if (fondoSet && a.desenfoque !== false) {
+    // Enfoca a los actores (o al punto al que mira la cámara)
+    const vivos = Object.keys(a.actores || {}).map((n) => actores[n].cabeza.getWorldPosition(new THREE.Vector3()));
+    const foco = vivos.length ? vivos.reduce((m, v) => m + v.distanceTo(cam.position), 0) / vivos.length : pos.distanceTo(mira);
+    bokeh.uniforms.focus.value = foco;
+    comp.render();
+  } else r.render(mundo, cam);
 };

@@ -69,7 +69,11 @@ export function crearPersonaje(nombre) {
   }
   // Torso
   const torso = new THREE.Group(); cadera.add(torso);
-  const cuerpo = capsula(0.5, 0.5, ropa); cuerpo.scale.set(1, 1, 0.84); cuerpo.position.y = 0.5; torso.add(cuerpo);
+  // Tronco torneado: hombros caídos, cintura y, en Luis, algo de barriga
+  const perfil = (c.tipo === "hombre"
+    ? [[0, -0.1], [0.46, -0.08], [0.55, 0.15], [0.57, 0.38], [0.52, 0.62], [0.47, 0.8], [0.36, 0.95], [0.17, 1.03], [0, 1.05]]
+    : [[0, -0.1], [0.45, -0.08], [0.5, 0.12], [0.51, 0.36], [0.5, 0.6], [0.46, 0.8], [0.35, 0.95], [0.16, 1.03], [0, 1.05]]).map(([x, y]) => new THREE.Vector2(x, y));
+  const cuerpo = sombra(new THREE.Mesh(new THREE.LatheGeometry(new THREE.SplineCurve(perfil).getPoints(40), 48), ropa)); cuerpo.scale.set(1, 1, 0.84); torso.add(cuerpo);
   if (c.tipo === "mujer") {
     const falda = sombra(new THREE.Mesh(new THREE.CylinderGeometry(0.5, 0.66, 0.62, 40, 1, true), ropa2));
     falda.material.side = THREE.DoubleSide; falda.position.y = -0.08; torso.add(falda);
