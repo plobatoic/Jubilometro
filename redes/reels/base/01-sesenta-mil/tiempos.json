@@ -1,0 +1,435 @@
+{
+ "duracion": 26.84,
+ "escenas": [
+  {
+   "ini": -1,
+   "fin": 3.587
+  },
+  {
+   "ini": 3.587,
+   "fin": 11.426
+  },
+  {
+   "ini": 11.426,
+   "fin": 16.683
+  },
+  {
+   "ini": 16.683,
+   "fin": 23.656
+  },
+  {
+   "ini": 23.656,
+   "fin": 27.84
+  }
+ ],
+ "palabras": [
+  {
+   "texto": "Jubilarte",
+   "ini": 0.18,
+   "fin": 0.685,
+   "tramo": 0
+  },
+  {
+   "texto": "dos",
+   "ini": 0.685,
+   "fin": 0.887,
+   "tramo": 0
+  },
+  {
+   "texto": "años",
+   "ini": 0.887,
+   "fin": 1.139,
+   "tramo": 0
+  },
+  {
+   "texto": "antes",
+   "ini": 1.139,
+   "fin": 1.442,
+   "tramo": 0
+  },
+  {
+   "texto": "te",
+   "ini": 1.442,
+   "fin": 1.593,
+   "tramo": 0
+  },
+  {
+   "texto": "puede",
+   "ini": 1.593,
+   "fin": 1.896,
+   "tramo": 0
+  },
+  {
+   "texto": "costar",
+   "ini": 1.896,
+   "fin": 2.249,
+   "tramo": 0
+  },
+  {
+   "texto": "60.000",
+   "ini": 2.249,
+   "fin": 2.804,
+   "tramo": 0
+  },
+  {
+   "texto": "euros.",
+   "ini": 2.804,
+   "fin": 3.107,
+   "tramo": 0
+  },
+  {
+   "texto": "Pongamos",
+   "ini": 3.707,
+   "fin": 4.151,
+   "tramo": 1
+  },
+  {
+   "texto": "que",
+   "ini": 4.151,
+   "fin": 4.348,
+   "tramo": 1
+  },
+  {
+   "texto": "Luis",
+   "ini": 4.348,
+   "fin": 4.594,
+   "tramo": 1
+  },
+  {
+   "texto": "se",
+   "ini": 4.594,
+   "fin": 4.742,
+   "tramo": 1
+  },
+  {
+   "texto": "jubila",
+   "ini": 4.742,
+   "fin": 5.087,
+   "tramo": 1
+  },
+  {
+   "texto": "a",
+   "ini": 5.087,
+   "fin": 5.185,
+   "tramo": 1
+  },
+  {
+   "texto": "los",
+   "ini": 5.185,
+   "fin": 5.382,
+   "tramo": 1
+  },
+  {
+   "texto": "63.",
+   "ini": 5.382,
+   "fin": 6.023,
+   "tramo": 1
+  },
+  {
+   "texto": "Le",
+   "ini": 6.623,
+   "fin": 6.766,
+   "tramo": 2
+  },
+  {
+   "texto": "recortan",
+   "ini": 6.766,
+   "fin": 7.198,
+   "tramo": 2
+  },
+  {
+   "texto": "un",
+   "ini": 7.198,
+   "fin": 7.342,
+   "tramo": 2
+  },
+  {
+   "texto": "19%:",
+   "ini": 7.342,
+   "fin": 8.301,
+   "tramo": 2
+  },
+  {
+   "texto": "cobra",
+   "ini": 8.65,
+   "fin": 8.926,
+   "tramo": 3
+  },
+  {
+   "texto": "1.620",
+   "ini": 8.926,
+   "fin": 9.89,
+   "tramo": 3
+  },
+  {
+   "texto": "euros",
+   "ini": 9.89,
+   "fin": 10.165,
+   "tramo": 3
+  },
+  {
+   "texto": "en",
+   "ini": 10.165,
+   "fin": 10.303,
+   "tramo": 3
+  },
+  {
+   "texto": "vez",
+   "ini": 10.303,
+   "fin": 10.487,
+   "tramo": 3
+  },
+  {
+   "texto": "de",
+   "ini": 10.487,
+   "fin": 10.624,
+   "tramo": 3
+  },
+  {
+   "texto": "2.000.",
+   "ini": 10.624,
+   "fin": 10.946,
+   "tramo": 3
+  },
+  {
+   "texto": "Sí,",
+   "ini": 11.546,
+   "fin": 11.71,
+   "tramo": 4
+  },
+  {
+   "texto": "cobra",
+   "ini": 11.71,
+   "fin": 12.039,
+   "tramo": 4
+  },
+  {
+   "texto": "dos",
+   "ini": 12.039,
+   "fin": 12.258,
+   "tramo": 4
+  },
+  {
+   "texto": "años",
+   "ini": 12.258,
+   "fin": 12.532,
+   "tramo": 4
+  },
+  {
+   "texto": "más...",
+   "ini": 12.532,
+   "fin": 12.751,
+   "tramo": 4
+  },
+  {
+   "texto": "pero",
+   "ini": 12.751,
+   "fin": 13.025,
+   "tramo": 4
+  },
+  {
+   "texto": "pierde",
+   "ini": 13.025,
+   "fin": 13.409,
+   "tramo": 4
+  },
+  {
+   "texto": "380",
+   "ini": 13.409,
+   "fin": 14.45,
+   "tramo": 4
+  },
+  {
+   "texto": "euros",
+   "ini": 14.45,
+   "fin": 14.779,
+   "tramo": 4
+  },
+  {
+   "texto": "en",
+   "ini": 14.779,
+   "fin": 14.943,
+   "tramo": 4
+  },
+  {
+   "texto": "cada",
+   "ini": 14.943,
+   "fin": 15.217,
+   "tramo": 4
+  },
+  {
+   "texto": "paga,",
+   "ini": 15.217,
+   "fin": 15.491,
+   "tramo": 4
+  },
+  {
+   "texto": "para",
+   "ini": 15.491,
+   "fin": 15.765,
+   "tramo": 4
+  },
+  {
+   "texto": "siempre.",
+   "ini": 15.765,
+   "fin": 16.203,
+   "tramo": 4
+  },
+  {
+   "texto": "A",
+   "ini": 16.803,
+   "fin": 16.901,
+   "tramo": 5
+  },
+  {
+   "texto": "los",
+   "ini": 16.901,
+   "fin": 17.098,
+   "tramo": 5
+  },
+  {
+   "texto": "73",
+   "ini": 17.098,
+   "fin": 17.735,
+   "tramo": 5
+  },
+  {
+   "texto": "y",
+   "ini": 17.735,
+   "fin": 17.833,
+   "tramo": 5
+  },
+  {
+   "texto": "medio",
+   "ini": 17.833,
+   "fin": 18.127,
+   "tramo": 5
+  },
+  {
+   "texto": "ya",
+   "ini": 18.127,
+   "fin": 18.275,
+   "tramo": 5
+  },
+  {
+   "texto": "ha",
+   "ini": 18.275,
+   "fin": 18.422,
+   "tramo": 5
+  },
+  {
+   "texto": "perdido",
+   "ini": 18.422,
+   "fin": 18.814,
+   "tramo": 5
+  },
+  {
+   "texto": "lo",
+   "ini": 18.814,
+   "fin": 18.961,
+   "tramo": 5
+  },
+  {
+   "texto": "que",
+   "ini": 18.961,
+   "fin": 19.157,
+   "tramo": 5
+  },
+  {
+   "texto": "ganó.",
+   "ini": 19.157,
+   "fin": 19.403,
+   "tramo": 5
+  },
+  {
+   "texto": "Y",
+   "ini": 20.003,
+   "fin": 20.114,
+   "tramo": 6
+  },
+  {
+   "texto": "si",
+   "ini": 20.114,
+   "fin": 20.281,
+   "tramo": 6
+  },
+  {
+   "texto": "vive",
+   "ini": 20.281,
+   "fin": 20.559,
+   "tramo": 6
+  },
+  {
+   "texto": "hasta",
+   "ini": 20.559,
+   "fin": 20.893,
+   "tramo": 6
+  },
+  {
+   "texto": "los",
+   "ini": 20.893,
+   "fin": 21.116,
+   "tramo": 6
+  },
+  {
+   "texto": "85,",
+   "ini": 21.116,
+   "fin": 21.895,
+   "tramo": 6
+  },
+  {
+   "texto": "60.000",
+   "ini": 21.895,
+   "fin": 22.508,
+   "tramo": 6
+  },
+  {
+   "texto": "euros",
+   "ini": 22.508,
+   "fin": 22.842,
+   "tramo": 6
+  },
+  {
+   "texto": "menos.",
+   "ini": 22.842,
+   "fin": 23.176,
+   "tramo": 6
+  },
+  {
+   "texto": "Guárdatelo",
+   "ini": 23.776,
+   "fin": 24.467,
+   "tramo": 7
+  },
+  {
+   "texto": "antes",
+   "ini": 24.467,
+   "fin": 24.843,
+   "tramo": 7
+  },
+  {
+   "texto": "de",
+   "ini": 24.843,
+   "fin": 25.032,
+   "tramo": 7
+  },
+  {
+   "texto": "pedir",
+   "ini": 25.032,
+   "fin": 25.409,
+   "tramo": 7
+  },
+  {
+   "texto": "la",
+   "ini": 25.409,
+   "fin": 25.597,
+   "tramo": 7
+  },
+  {
+   "texto": "jubilación.",
+   "ini": 25.889,
+   "fin": 25.94,
+   "tramo": 8
+  }
+ ]
+}

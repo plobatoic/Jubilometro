@@ -1,0 +1,10 @@
+Presentador 3D: hecho con código (three.js).
+Vídeo de fondo: Pixabay (licencia de contenido de Pixabay, uso comercial sin atribución obligatoria)
+- https://pixabay.com/videos/id-51722
+- https://pixabay.com/videos/id-9091
+- https://pixabay.com/videos/id-14476
+- https://pixabay.com/videos/id-9728
+- https://pixabay.com/videos/id-5448
+- https://pixabay.com/videos/id-349087
+- https://pixabay.com/videos/id-365401
+Música: https://cdn.orshot.com/library/music/04ccbe32-a3e1-4c80-aa68-879342c36b94.m4a

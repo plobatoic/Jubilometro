@@ -24,3 +24,8 @@ Subidos el 14/11/2026 a la biblioteca de Orshot. Sirven para descargarlos y prog
 - 5-pp: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-5-ppmp4-YOKWYzSG53i.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-5jpg-QZ60OXcP4t2.jpg
 - 6-psoe: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-6-psoe-v2mp4-OneCHVW3Bkn.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-6jpg-YeMK7yFwKhV.jpg
 - 7-vox: vídeo https://storage.orshot.com/cloud/w-31139/renders/videos/partido-7-voxmp4-2uEr0sPQReN.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-partido-7jpg-umEshq4RGk5.jpg
+
+## Formato presentador (24/11)
+
+- Reel 15 · Complemento a mínimos: https://storage.orshot.com/cloud/w-31139/renders/videos/reel-15-complemento-minimos-presentadormp4-IDhQrTrLnxa.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-15jpg-HN0TR9OqCU2.jpg
+- Reel 17 · 60.000 €: https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-presentadormp4-MO4sXiXKAME.mp4 · portada https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17jpg-6sewTsaO6U6.jpg
