@@ -19,7 +19,7 @@ for p in parrafos:
     for i, f in enumerate(frases): trozos.append((f, 0.45 if i == len(frases) - 1 else 0.2))
 partes = []
 for t, pausa in trozos:
-    w = m.generate(t, language_id="es", audio_prompt_path=ref, exaggeration=0.6, cfg_weight=0.4)
+    w = m.generate(t, language_id="es", audio_prompt_path=ref, exaggeration=0.6 if quien != "rosa" else 0.45, cfg_weight=0.35 if quien != "rosa" else 0.5)
     partes += [w, torch.zeros(1, int(m.sr * pausa))]
     print("  ·", t[:60], flush=True)
 torchaudio.save(salida, torch.cat(partes, dim=1), m.sr)

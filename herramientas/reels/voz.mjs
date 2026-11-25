@@ -5,7 +5,8 @@
 // 25/11: Pau quiere la voz hecha aquí, sin ElevenLabs: hombre de España, natural, con buena entonación y
 // estilo de locutor. Motor por defecto: Chatterbox multilingüe
 // (voz_chatterbox.py) con el timbre de voces/ref-hombre.wav: un hombre de España del Parlamento Europeo (VoxPopuli,
-// hablante 1973, dominio público CC0), elegido entre 60 voces por acento español, entonación y grabación limpia.
+// hablante 1973, dominio público CC0), elegido entre 60 voces por acento español, entonación y grabación limpia
+// (fragmento de 14,5 s sin ruido; ajustes «natural»: expresividad 0,6 y ritmo 0,35).
 // Con --mujer habla la voz de mujer (voces/ref-rosa.wav). Piper queda con --piper.
 //
 // Uso: node herramientas/reels/voz.mjs <carpeta-del-reel> [<carpeta> …] [--mujer] [--piper]
@@ -40,7 +41,9 @@ function modelo() {
 }
 
 // Repaso de sonido para Chatterbox: ya suena natural, solo limpieza y volumen de redes
-const FILTRO_CB = ["atempo=1.05", "highpass=f=70", "deesser=i=0.3", "acompressor=threshold=-20dB:ratio=2:attack=10:release=120:makeup=1.5", "loudnorm=I=-16:TP=-2:LRA=7", "aresample=44100"].join(",");
+// Acabado de estudio: cuerpo en graves, presencia en medios, menos siseo, compresión suave y volumen de redes
+const FILTRO_CB = ["atempo=1.03", "highpass=f=70", "equalizer=f=140:t=q:w=1:g=2", "equalizer=f=3200:t=q:w=1.2:g=1.5", "equalizer=f=7500:t=q:w=1:g=-2",
+  "deesser=i=0.35", "acompressor=threshold=-22dB:ratio=2.5:attack=8:release=110:makeup=2", "loudnorm=I=-16:TP=-2:LRA=7", "aresample=44100"].join(",");
 
 export function generarVoz(carpeta, { quien = "hombre", motor = "chatterbox" } = {}) {
   const txt = join(carpeta, "voz.txt");
