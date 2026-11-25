@@ -187,10 +187,10 @@ Rosa (o Luis) presenta a cámara, abajo a la derecha, con la **boca sincronizada
 
 ## Voz (25/11)
 
-**Pau elige «Gonzalo Varela» de ElevenLabs** (voice_id `eHAEFkimnYz57pupUMcq`): locutor de España, natural y con buena entonación.
-- Se genera con el conector de ElevenLabs de la sesión (modelo multilingüe v2), con el texto de `voz.txt`, y se guarda como `voz-original.mp3`.
-- Gasta unos 450 créditos por reel. Los créditos se renuevan el 5/12 (unos 10.000, para unos 20 reels al mes).
-- De reserva, gratis y sin límite: `node herramientas/reels/voz.mjs <carpeta>`. Usa Chatterbox con el timbre de un hombre de España (VoxPopuli, hablante 1973, CC0) y tarda unos 16 minutos por reel.
+Pau quiere la voz **hecha aquí, con código, sin ElevenLabs**: un hombre de España, natural, con buena entonación y estilo de locutor (como «Gonzalo» de ElevenLabs, que le gustó, pero sin copiar su voz, que es la de un locutor real).
+- Se genera con `node herramientas/reels/voz.mjs <carpeta>`.
+- Usa Chatterbox (licencia MIT) con el timbre de un hombre de España sacado de VoxPopuli (hablante 1973, CC0), con un fragmento de referencia limpio y un acabado de estudio.
+- Tarda unos 16 minutos por reel y no tiene límite.
 
 ## Lo que funciona (datos del 16 al 24/11/2026, Metricool)
 
