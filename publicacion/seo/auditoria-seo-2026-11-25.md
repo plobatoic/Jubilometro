@@ -42,3 +42,24 @@ Pedida por el titular: «una extensa búsqueda de errores o cosas a mejorar. SEO
 ## Lo que necesita Search Console (titular)
 
 La auditoría no ve lo que Google ha decidido indexar. Para eso hacen falta los informes de **Indexación → Páginas** («Rastreada: actualmente sin indexar» y «Descubierta: actualmente sin indexar») y **Ajustes → Estadísticas de rastreo** (respuestas por tipo y tiempo medio de respuesta).
+
+## Search Console (exportado por el titular el 25/11/2026)
+
+**Cobertura** (datos hasta el 16/11):
+- **169 páginas indexadas** y 5 sin indexar. Antes del 19/10 eran 168 y 2.
+- Las 5 sin indexar son «Descubierta: actualmente sin indexar»: Google conoce la dirección, pero aún no la ha rastreado. La validación está iniciada.
+- «Rastreada: actualmente sin indexar»: **0**. Google no ha rechazado ninguna página después de leerla.
+- Problemas no críticos: ninguno.
+- La exportación no trae la lista de esas 5 direcciones; se ve pinchando en la fila.
+
+**Impresiones**: unas 1.000-1.500 al día hasta el 18/10, unas 30 entre el 19 y el 24/10 y entre 10 y 50 desde entonces (15 el 16/11).
+
+**Estadísticas de rastreo** (hasta el 24/11; 2.971 peticiones):
+- Respuestas: 98,8 % correctas (200), 0,7 % 404, 0,4 % 301 y 0,07 % 302.
+- Host «sin ningún problema».
+- Tiempo medio de respuesta: unos 130-250 ms en noviembre (bueno; Google considera lento pasar de 500-1.000 ms).
+- Para qué rastrea: actualizar lo ya conocido, 80 %, y descubrir páginas nuevas, 20 %.
+- Qué robot: smartphone, 33 %; imágenes, 32 %; AdsBot, 0,4 %.
+- El 19/10, el día de la caída, Google hizo un rastreo grande (227 peticiones en un solo día), y otro el 29-30/10. Desde mediados de noviembre rastrea poco: de 6 a 44 peticiones al día.
+
+**Conclusión**: no hay un problema técnico de rastreo ni de indexación. Google rastrea sin errores, indexa casi todo y no ha rechazado nada. La caída del 19/10 es una valoración de la web entera, no de páginas sueltas: Google la tiene indexada, pero la muestra muy poco. Coincide con el diagnóstico del 13/11 y con el rechazo de AdSense por «poco valor». El camino es el plan de `plan-adsense-2026-12.md`: menos páginas parecidas, más datos y ejemplos propios, y señales de autoría. Que Google rastree poco es una consecuencia de esa valoración baja, no su causa.
