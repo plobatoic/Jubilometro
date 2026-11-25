@@ -10,14 +10,14 @@ Decidido el 18/11 a partir de los estudios de Buffer, Metricool, Sprout Social, 
 | Facebook | **11**: los 4 reels más 1 post de texto o imagen al día | Reels igual que Instagram · posts todos los días | Reels **20:43** · posts **10:00** |
 | YouTube | **4 Shorts**: los mismos 4 reels | Mar, mié, jue y sáb | **17:00** |
 | TikTok | **5** | De lunes a viernes | **18:00** (vidIQ, con la extensión; ver `tiktok.md`) |
-| X | **21**: 3 al día | Todos los días | Texto **09:43** · texto o imagen **13:43** · vídeo **20:43** |
+| X | **5**, como TikTok (Pau, 25/11) | De lunes a viernes | **20:43**, con el vídeo del día o un texto con cifra |
 
 Por qué estas cifras (detalle en «Por qué», al final):
 - **Instagram:** el estudio de Buffer con 2,1 millones de posts encuentra que pasar de 1-2 a 3-5 posts a la semana da un 12 % más de alcance por post, y de 6 a 9 un 18 %, con 3,7 veces más crecimiento de seguidores. Con 6 entramos en esa franja sin hacer más reels: los carruseles salen de las guías.
 - **Facebook:** Buffer y HubSpot recomiendan 1-2 posts al día en páginas; seguimos con 1 post al día más los reels.
 - **YouTube:** Metricool, con unos 800.000 vídeos, sitúa el punto óptimo en 2-4 Shorts a la semana. Subimos de 3 a 4 con los mismos vídeos de Instagram, sin trabajo extra.
 - **TikTok:** Buffer, con 11,4 millones de vídeos, ve el salto más rentable en 2-5 a la semana. Publicar más sube las opciones de un vídeo viral, pero no el vídeo típico, y nuestro banco de vídeos se acabaría en 3 semanas. Bajamos de 7 a 5.
-- **X:** la guía de Buffer de 2026 pide de 3 a 5 al día, y 3-4 es lo sostenible. Subimos de 1-2 a 3.
+- **X:** la guía de Buffer de 2026 pide de 3 a 5 al día, pero Pau decide el 25/11 llevarlo como TikTok: 5 a la semana, de lunes a viernes.
 
 Capacidad: cada reel nuevo tarda unos 60 minutos (voz y render 3D), así que caben 4 reels nuevos a la semana sin problema. El resto de redes reutiliza esos 4 vídeos y las guías de la web.
 

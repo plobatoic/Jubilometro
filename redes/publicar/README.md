@@ -26,7 +26,7 @@ Están en `CALENDARIO.md` (revisados el 25/11 con los estudios de 2025-2026):
 - Facebook: los 4 reels a las 20:43 y 1 post al día a las 10:00.
 - YouTube: 4 Shorts a la semana a las 17:00.
 - TikTok: 5 a la semana, de lunes a viernes, a las 18:00.
-- X: 3 al día, a las 09:43, 13:43 y 20:43.
+- X: 5 a la semana, de lunes a viernes, a las 20:43 (como TikTok, decisión de Pau).
 
 ## Paso a paso (unos 10 minutos por red)
 
