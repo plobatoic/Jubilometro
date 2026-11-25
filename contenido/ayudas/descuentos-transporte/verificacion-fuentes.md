@@ -22,3 +22,7 @@ Fuentes no accesibles desde el entorno de trabajo (no se ha forzado el acceso): 
 - Se incorporan «La Tarjeta Dorada de Renfe» y «Tarjetas de mayores de las comunidades» con el contenido de /imserso/tarjeta-mayores/ (verificado el 29/09/2026 y revisado el 20/10/2026; copia en publicacion/fusionadas/imserso/).
 - Tarjeta Dorada (quién, descuentos por tren, precios 6/12/15 €, renovación): web de Renfe «mayores de 60». Junta 65: Agencia de Servicios Sociales y Dependencia de Andalucía. Tarjeta del Mayor: Generalitat Valenciana (Decreto 39/2012). Carné +65: Xunta de Galicia (012).
 - Ejemplos: 20 € − 40 % = 12 €; 60 € − 25 % = 45 €.
+
+## 25/11/2026 · Abonos de 2027
+
+- Real Decreto-ley 45/2026, de 24 de noviembre (BOE-A-2026-24703, BOE del 25/11/2026), artículo 3: del 1/1 al 31/12/2027, abono mensual nominativo de Cercanías y Rodalies de 20 € (3.2.a.2.º), abonos de Media Distancia con un 40 % de descuento (3.2.b) y abono nominativo de tarifa única de 30 días con tarifa que fijará resolución de la Secretaría de Estado (3.3.a). Leído en el texto del BOE.

@@ -13,7 +13,7 @@ palabras_clave_secundarias:
   - "tarjeta de mayores"
 intencion: informativa
 fase_plan: F3 (artículo n.º 60)
-fecha_actualizacion: 2026-11-24
+fecha_actualizacion: 2026-11-25
 publicacion: 2026-09-29
 autor: "Pau Lobato (editor de Jubilómetro)"
 estado: publicado
@@ -24,13 +24,13 @@ fuentes_legales:
 
 # Descuentos en transporte para pensionistas y mayores en 2026: tren, autobús y metro más baratos o gratis
 
-*Actualizado el 24 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y en los organismos de transporte*
+*Actualizado el 25 de noviembre de 2026 · Por Pau Lobato, editor de Jubilómetro · Fuentes verificadas en el BOE y en los organismos de transporte*
 
 > **Respuesta rápida**
 >
 > Los **descuentos en transporte para pensionistas** dependen de dónde vivas y de tu edad:
 >
-> - **En toda España (Renfe)**: la **Tarjeta Dorada** cuesta **6 euros al año** desde los 60 y rebaja un **40 %** Cercanías y Media Distancia y un **25 %** el AVE. Y hasta el 31 de diciembre de 2026 hay un **abono mensual de Cercanías de 20 euros** para todas las zonas de tu núcleo y un **Abono Único de 60 euros** para Cercanías, Media Distancia y autobuses estatales.
+> - **En toda España (Renfe)**: la **Tarjeta Dorada** cuesta **6 euros al año** desde los 60 y rebaja un **40 %** Cercanías y Media Distancia y un **25 %** el AVE. Hasta el 31 de diciembre de 2026 hay un **abono mensual de Cercanías de 20 euros** para todas las zonas de tu núcleo y un **Abono Único de 60 euros** para Cercanías, Media Distancia y autobuses estatales, y **los dos siguen en 2027** (el precio del Abono Único de 2027 está por fijar).
 > - **Madrid**: el **Abono +65** es **gratis** para todo el transporte público de la región.
 > - **Área de Barcelona**: la **Targeta Rosa** es **gratuita o reducida** desde los 60 años con ingresos bajos.
 > - **Galicia**: el **autobús interurbano es gratis** desde los 65 con la Tarjeta de Movilidad (Tarifa +65).
@@ -51,7 +51,7 @@ fuentes_legales:
 | Galicia | Tarifa +65: autobús interurbano gratis | Mayores de 65 con Tarjeta de Movilidad | Gratis (hasta 60 viajes al mes) |
 | Andalucía | 50 % en el autobús interurbano | Titulares de la Tarjeta Andalucía Junta 65 | Tarjeta gratuita |
 
-## Renfe: Tarjeta Dorada y abonos de 2026
+## Renfe: Tarjeta Dorada y abonos de 2026 y 2027
 
 La **Tarjeta Dorada** es la opción si viajas **de vez en cuando**: con 60 años (o por incapacidad permanente o discapacidad del 33 %) pagas 6 euros al año y te ahorras el **40 %** en Cercanías y Media Distancia, el **25 % o el 40 %** en Avant según el día y el **25 %** en AVE y Larga Distancia. Te lo explicamos todo [más abajo](#la-tarjeta-dorada-de-renfe).
 
@@ -60,6 +60,8 @@ Si usas el tren **con frecuencia**, en 2026 hay dos abonos que pueden salirte me
 - **Abono mensual de Cercanías y Rodalies de 20 euros**, nominativo, válido **un mes** en **todas las zonas** de tu núcleo.
 - **Abono Único**, nominativo, válido **30 días** en todos los trenes de **Media Distancia** y en los núcleos de **Cercanías y Rodalies**, y en los **autobuses de competencia estatal**, por **60 euros** desde el 19 de enero de 2026 ([Ministerio de Transportes](https://sede.transportes.gob.es/proc-servicios-comunes/abono-nominativo-tarifa-unica-servicios-publicos-transporte-regular-viajeros-carretera-durante-2026)).
 - En **Media Distancia**, también hay abonos mensuales y de 10 viajes con un **40 % de descuento** para un trayecto concreto.
+
+**En 2027 siguen.** El [Real Decreto-ley 45/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24703) (artículo 3), publicado en el BOE el 25 de noviembre de 2026, mantiene del 1 de enero al 31 de diciembre de 2027 el **abono mensual de Cercanías y Rodalies de 20 euros**, los abonos de **Media Distancia con un 40 % de descuento** y un **Abono Único** nominativo de 30 días para Media Distancia, Cercanías y Rodalies. El precio del Abono Único de 2027 lo fijará una resolución de la Secretaría de Estado de Transportes: lo añadiremos cuando se publique.
 
 ### La Tarjeta Dorada de Renfe
 
@@ -153,7 +155,7 @@ En algunos sitios, sí: en la Comunidad de Madrid con el Abono +65, en el autob�
 
 ### ¿Qué es el abono de Cercanías de 20 euros?
 
-Un abono mensual nominativo de Renfe, válido en todas las zonas de tu núcleo de Cercanías o Rodalies, que existe durante 2026 gracias al Real Decreto-ley 17/2025.
+Un abono mensual nominativo de Renfe, válido en todas las zonas de tu núcleo de Cercanías o Rodalies, que existe durante 2026 gracias al Real Decreto-ley 17/2025 y seguirá durante 2027 con el Real Decreto-ley 45/2026.
 
 ### ¿Cómo consigo el abono transporte gratis de mayores de 65 en Madrid?
 
@@ -178,6 +180,7 @@ No, es gratuita. Solo hay que tener 65 años y vivir en Andalucía. Con ingresos
 ## Fuentes oficiales
 
 - [Real Decreto-ley 17/2025, de medidas de promoción del uso del transporte público, artículo 3](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26459) (BOE).
+- [Real Decreto-ley 45/2026, de bonificación de abonos y títulos multiviaje en 2027, artículo 3](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-24703) (BOE).
 - [Ministerio de Transportes: abono nominativo de tarifa única en 2026](https://sede.transportes.gob.es/proc-servicios-comunes/abono-nominativo-tarifa-unica-servicios-publicos-transporte-regular-viajeros-carretera-durante-2026).
 - [Renfe: descuentos de la Tarjeta Dorada](https://www.renfe.com/es/es/viajar/prepara-tu-viaje/descuentos/mayores-de-60).
 - [Renfe: Tarjeta Dorada en Cercanías (Madrid)](https://www.renfe.com/es/es/cercanias/cercanias-madrid/tarifas/descuentos/mayores-de-60).
@@ -198,4 +201,4 @@ No, es gratuita. Solo hay que tener 65 años y vivir en Andalucía. Con ingresos
 
 *Este artículo es informativo. Los precios y condiciones de los abonos los fijan Renfe, el Ministerio de Transportes, las comunidades y los ayuntamientos, que pueden cambiarlos. Si detectas un error, escríbenos a [plobatoic@gmail.com](mailto:plobatoic@gmail.com).*
 
-*Historial de cambios: 24 de noviembre de 2026, se suma la guía «Tarjeta Dorada de Renfe y tarjetas de mayores de las comunidades». 29 de septiembre de 2026, primera versión.*
+*Historial de cambios: 25 de noviembre de 2026, los abonos de Renfe de 20 euros, de Media Distancia y el Abono Único siguen en 2027 (Real Decreto-ley 45/2026). 24 de noviembre de 2026, se suma la guía «Tarjeta Dorada de Renfe y tarjetas de mayores de las comunidades». 29 de septiembre de 2026, primera versión.*
