@@ -72,3 +72,12 @@ La pidió el titular el 3/11/2026: cada día, a la misma hora, revisar la web de
 - Si hay un conector de programación (Metricool u otro), se comprueba que haya publicaciones programadas para los próximos días según `publicacion/redes/programado/`. Antes de programar una, se comprueba que sus cifras coinciden con la guía de la que sale.
 
 **Velocidad real (desde el 18/11/2026):** las estadísticas (`/wp-json/jm/v1/estadisticas?dias=7`) traen `tipos.velocidad` con claves `lcp|movil|bueno`, `inp|…`, `cls|…`. En el informe, di qué parte de las visitas en móvil está en «bueno» para cada medida y avisa si «malo» pasa del 10 %. Para una revisión a fondo de todas las páginas con navegador: `herramientas/revision/barrido-navegador.cjs`.
+
+## Auditoría de SEO y rastreo (cada tres días)
+
+Pedida por el titular el 26/11/2026. La lanza la tarea «Auditoría SEO y rastreo cada 3 días». La primera está en `publicacion/seo/auditoria-seo-2026-11-25.md`; cada una se escribe en `publicacion/seo/auditoria-seo-AAAA-MM-DD.md`.
+
+1. `mkdir -p <carpeta>/html && node herramientas/revision/auditoria-bajar.mjs <carpeta>` (con run_in_background). Descarga las páginas del mapa del sitio y prueba unas 30 URL de WordPress: autor, etiquetas, categorías, feeds, búsquedas, paginación, fechas, mayúsculas, sin barra final, http y www.
+2. `python3 herramientas/revision/auditoria-analiza.py <carpeta>`. Revisa título (≤ 60 caracteres y sin duplicados), descripción, canonical, robots, H1 único y orden de encabezados, texto, datos estructurados, imágenes (alt y tamaño), http mixto, imagen para redes, páginas huérfanas y profundidad, enlaces fuera del mapa del sitio y anclas (#) rotas.
+3. Lighthouse en móvil en 6 páginas tipo: portada, una guía larga, el calendario de pago, una calculadora, una tabla de /datos/ y una portada de tema. Lighthouse se instala en el scratchpad (`npm i lighthouse@12.6.1`) y se lanza con `CHROME_PATH=/opt/pw-browsers/chromium/chrome-linux/chrome` y `--chrome-flags="--headless --no-sandbox"`.
+4. Se compara con la auditoría anterior. Se arregla lo que salga, sin tocar AdSense, y se apunta.
