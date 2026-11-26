@@ -1,575 +1,575 @@
 {
- "duracion": 41.133,
+ "duracion": 43.935,
  "escenas": [
   {
    "ini": -1,
-   "fin": 6.603
+   "fin": 7.445
   },
   {
-   "ini": 6.603,
-   "fin": 15.857
+   "ini": 7.445,
+   "fin": 16.015
   },
   {
-   "ini": 15.857,
-   "fin": 23.314
+   "ini": 16.015,
+   "fin": 23.102
   },
   {
-   "ini": 23.314,
-   "fin": 32.222
+   "ini": 23.102,
+   "fin": 33.841
   },
   {
-   "ini": 32.222,
-   "fin": 36.212
+   "ini": 33.841,
+   "fin": 38.175
   },
   {
-   "ini": 36.212,
-   "fin": 37.614
+   "ini": 38.175,
+   "fin": 40.025
   },
   {
-   "ini": 37.614,
-   "fin": 42.133
+   "ini": 40.025,
+   "fin": 44.935
   }
  ],
  "palabras": [
   {
    "texto": "¿Tu",
    "ini": 0.1,
-   "fin": 0.267,
+   "fin": 0.314,
    "tramo": 0
   },
   {
    "texto": "pensión",
-   "ini": 0.267,
-   "fin": 0.713,
+   "ini": 0.314,
+   "fin": 0.886,
    "tramo": 0
   },
   {
    "texto": "es",
-   "ini": 0.713,
-   "fin": 0.88,
+   "ini": 0.886,
+   "fin": 1.1,
    "tramo": 0
   },
   {
    "texto": "baja?",
-   "ini": 0.88,
-   "fin": 1.159,
+   "ini": 1.1,
+   "fin": 1.457,
    "tramo": 0
   },
   {
    "texto": "La",
-   "ini": 1.431,
-   "fin": 1.582,
+   "ini": 1.862,
+   "fin": 2.022,
    "tramo": 1
   },
   {
    "texto": "Seguridad",
-   "ini": 1.582,
-   "fin": 2.083,
+   "ini": 2.022,
+   "fin": 2.555,
    "tramo": 1
   },
   {
    "texto": "Social",
-   "ini": 2.083,
-   "fin": 2.434,
+   "ini": 2.555,
+   "fin": 2.928,
    "tramo": 1
   },
   {
    "texto": "puede",
-   "ini": 2.434,
-   "fin": 2.735,
+   "ini": 2.928,
+   "fin": 3.248,
    "tramo": 1
   },
   {
    "texto": "completarla",
-   "ini": 2.735,
-   "fin": 3.337,
+   "ini": 3.248,
+   "fin": 3.888,
    "tramo": 1
   },
   {
    "texto": "hasta",
-   "ini": 3.337,
-   "fin": 3.638,
+   "ini": 3.888,
+   "fin": 4.208,
    "tramo": 1
   },
   {
    "texto": "la",
-   "ini": 3.638,
-   "fin": 3.788,
+   "ini": 4.208,
+   "fin": 4.368,
    "tramo": 1
   },
   {
    "texto": "mínima.",
-   "ini": 3.788,
-   "fin": 4.139,
+   "ini": 4.368,
+   "fin": 4.741,
    "tramo": 1
   },
   {
    "texto": "Se",
-   "ini": 4.514,
-   "fin": 4.669,
+   "ini": 4.947,
+   "fin": 5.143,
    "tramo": 2
   },
   {
    "texto": "llama",
-   "ini": 4.669,
-   "fin": 4.981,
+   "ini": 5.143,
+   "fin": 5.533,
    "tramo": 2
   },
   {
    "texto": "complemento",
-   "ini": 4.981,
-   "fin": 5.604,
+   "ini": 5.533,
+   "fin": 6.314,
    "tramo": 2
   },
   {
    "texto": "a",
-   "ini": 5.604,
-   "fin": 5.707,
+   "ini": 6.314,
+   "fin": 6.444,
    "tramo": 2
   },
   {
    "texto": "mínimos.",
-   "ini": 5.707,
-   "fin": 6.123,
+   "ini": 6.444,
+   "fin": 6.965,
    "tramo": 2
   },
   {
    "texto": "En",
-   "ini": 6.723,
-   "fin": 6.951,
+   "ini": 7.565,
+   "fin": 7.766,
    "tramo": 3
   },
   {
    "texto": "2026,",
-   "ini": 6.951,
-   "fin": 8.247,
+   "ini": 7.766,
+   "fin": 8.906,
    "tramo": 3
   },
   {
    "texto": "la",
-   "ini": 8.604,
-   "fin": 8.803,
-   "tramo": 4
+   "ini": 8.906,
+   "fin": 9.107,
+   "tramo": 3
   },
   {
    "texto": "mínima",
-   "ini": 8.803,
-   "fin": 9.269,
-   "tramo": 4
+   "ini": 9.107,
+   "fin": 9.576,
+   "tramo": 3
   },
   {
    "texto": "con",
-   "ini": 9.269,
-   "fin": 9.536,
-   "tramo": 4
+   "ini": 9.576,
+   "fin": 9.845,
+   "tramo": 3
   },
   {
    "texto": "65",
-   "ini": 9.536,
-   "fin": 10.468,
-   "tramo": 4
+   "ini": 9.845,
+   "fin": 10.783,
+   "tramo": 3
   },
   {
    "texto": "años",
-   "ini": 10.468,
-   "fin": 10.801,
-   "tramo": 4
+   "ini": 10.783,
+   "fin": 11.119,
+   "tramo": 3
   },
   {
    "texto": "y",
-   "ini": 10.801,
-   "fin": 10.934,
-   "tramo": 4
+   "ini": 11.119,
+   "fin": 11.253,
+   "tramo": 3
   },
   {
    "texto": "sin",
-   "ini": 10.934,
-   "fin": 11.2,
-   "tramo": 4
+   "ini": 11.253,
+   "fin": 11.521,
+   "tramo": 3
   },
   {
    "texto": "cónyuge",
-   "ini": 11.2,
-   "fin": 11.733,
-   "tramo": 4
+   "ini": 11.521,
+   "fin": 12.058,
+   "tramo": 3
   },
   {
    "texto": "es",
-   "ini": 11.733,
-   "fin": 11.932,
-   "tramo": 4
+   "ini": 12.058,
+   "fin": 12.259,
+   "tramo": 3
   },
   {
    "texto": "de",
-   "ini": 11.932,
-   "fin": 12.132,
-   "tramo": 4
+   "ini": 12.259,
+   "fin": 12.46,
+   "tramo": 3
   },
   {
    "texto": "936,20",
-   "ini": 12.132,
-   "fin": 14.329,
-   "tramo": 4
+   "ini": 12.46,
+   "fin": 14.673,
+   "tramo": 3
   },
   {
    "texto": "euros",
-   "ini": 14.757,
-   "fin": 15.054,
-   "tramo": 5
+   "ini": 14.673,
+   "fin": 15.075,
+   "tramo": 3
   },
   {
    "texto": "al",
-   "ini": 15.054,
-   "fin": 15.203,
-   "tramo": 5
+   "ini": 15.075,
+   "fin": 15.276,
+   "tramo": 3
   },
   {
    "texto": "mes.",
-   "ini": 15.203,
-   "fin": 15.402,
-   "tramo": 5
+   "ini": 15.704,
+   "fin": 15.823,
+   "tramo": 4
   },
   {
    "texto": "Lo",
-   "ini": 15.977,
-   "fin": 16.166,
-   "tramo": 6
+   "ini": 16.135,
+   "fin": 16.24,
+   "tramo": 5
   },
   {
    "texto": "cobras",
-   "ini": 16.166,
-   "fin": 16.606,
+   "ini": 16.75,
+   "fin": 17.154,
    "tramo": 6
   },
   {
    "texto": "si",
-   "ini": 16.606,
-   "fin": 16.795,
+   "ini": 17.154,
+   "fin": 17.328,
    "tramo": 6
   },
   {
    "texto": "vives",
-   "ini": 16.795,
-   "fin": 17.172,
+   "ini": 17.328,
+   "fin": 17.674,
    "tramo": 6
   },
   {
    "texto": "en",
-   "ini": 17.172,
-   "fin": 17.361,
+   "ini": 17.674,
+   "fin": 17.847,
    "tramo": 6
   },
   {
    "texto": "España",
-   "ini": 17.361,
-   "fin": 17.801,
+   "ini": 17.847,
+   "fin": 18.252,
    "tramo": 6
   },
   {
    "texto": "y",
-   "ini": 17.801,
-   "fin": 17.927,
+   "ini": 18.252,
+   "fin": 18.367,
    "tramo": 6
   },
   {
    "texto": "tus",
-   "ini": 17.927,
-   "fin": 18.179,
+   "ini": 18.367,
+   "fin": 18.598,
    "tramo": 6
   },
   {
    "texto": "otros",
-   "ini": 18.179,
-   "fin": 18.556,
+   "ini": 18.598,
+   "fin": 18.945,
    "tramo": 6
   },
   {
    "texto": "ingresos",
-   "ini": 18.556,
-   "fin": 19.123,
+   "ini": 18.945,
+   "fin": 19.464,
    "tramo": 6
   },
   {
    "texto": "no",
-   "ini": 19.123,
-   "fin": 19.311,
+   "ini": 19.464,
+   "fin": 19.638,
    "tramo": 6
   },
   {
    "texto": "pasan",
-   "ini": 19.311,
-   "fin": 19.689,
-   "tramo": 6
+   "ini": 19.94,
+   "fin": 20.268,
+   "tramo": 7
   },
   {
    "texto": "de",
-   "ini": 19.689,
-   "fin": 19.877,
-   "tramo": 6
+   "ini": 20.268,
+   "fin": 20.432,
+   "tramo": 7
   },
   {
    "texto": "9.442",
-   "ini": 19.877,
-   "fin": 22.016,
-   "tramo": 6
+   "ini": 20.432,
+   "fin": 22.29,
+   "tramo": 7
   },
   {
    "texto": "euros",
-   "ini": 22.016,
-   "fin": 22.394,
-   "tramo": 6
+   "ini": 22.29,
+   "fin": 22.618,
+   "tramo": 7
   },
   {
    "texto": "al",
-   "ini": 22.394,
-   "fin": 22.583,
-   "tramo": 6
+   "ini": 22.618,
+   "fin": 22.782,
+   "tramo": 7
   },
   {
    "texto": "año.",
-   "ini": 22.583,
-   "fin": 22.834,
-   "tramo": 6
+   "ini": 22.782,
+   "fin": 23.001,
+   "tramo": 7
   },
   {
    "texto": "Pongamos",
-   "ini": 23.434,
-   "fin": 23.958,
-   "tramo": 7
+   "ini": 23.222,
+   "fin": 23.519,
+   "tramo": 8
   },
   {
    "texto": "que",
-   "ini": 23.958,
-   "fin": 24.191,
-   "tramo": 7
+   "ini": 23.519,
+   "fin": 23.651,
+   "tramo": 8
   },
   {
    "texto": "Luis",
-   "ini": 24.191,
-   "fin": 24.482,
-   "tramo": 7
+   "ini": 23.651,
+   "fin": 23.816,
+   "tramo": 8
   },
   {
    "texto": "vive",
-   "ini": 24.482,
-   "fin": 24.773,
-   "tramo": 7
+   "ini": 23.816,
+   "fin": 23.981,
+   "tramo": 8
   },
   {
    "texto": "solo,",
-   "ini": 24.773,
-   "fin": 25.065,
-   "tramo": 7
+   "ini": 23.981,
+   "fin": 24.146,
+   "tramo": 8
   },
   {
    "texto": "sin",
-   "ini": 25.065,
-   "fin": 25.297,
-   "tramo": 7
+   "ini": 24.672,
+   "fin": 25.051,
+   "tramo": 9
   },
   {
    "texto": "otros",
-   "ini": 25.297,
-   "fin": 25.647,
-   "tramo": 7
+   "ini": 25.051,
+   "fin": 25.62,
+   "tramo": 9
   },
   {
    "texto": "ingresos,",
-   "ini": 25.647,
-   "fin": 26.171,
-   "tramo": 7
+   "ini": 25.62,
+   "fin": 26.472,
+   "tramo": 9
   },
   {
    "texto": "y",
-   "ini": 26.171,
-   "fin": 26.287,
-   "tramo": 7
+   "ini": 26.472,
+   "fin": 26.662,
+   "tramo": 9
   },
   {
    "texto": "cobra",
-   "ini": 26.287,
-   "fin": 26.637,
-   "tramo": 7
+   "ini": 26.662,
+   "fin": 27.23,
+   "tramo": 9
   },
   {
    "texto": "750",
-   "ini": 26.637,
-   "fin": 27.859,
-   "tramo": 7
+   "ini": 27.23,
+   "fin": 29.22,
+   "tramo": 9
   },
   {
    "texto": "euros.",
-   "ini": 27.859,
-   "fin": 28.209,
-   "tramo": 7
+   "ini": 29.22,
+   "fin": 29.788,
+   "tramo": 9
   },
   {
    "texto": "Le",
-   "ini": 28.575,
-   "fin": 28.762,
-   "tramo": 8
+   "ini": 30.115,
+   "fin": 30.306,
+   "tramo": 10
   },
   {
    "texto": "añaden",
-   "ini": 28.762,
-   "fin": 29.196,
-   "tramo": 8
+   "ini": 30.306,
+   "fin": 30.752,
+   "tramo": 10
   },
   {
    "texto": "186,20",
-   "ini": 29.196,
-   "fin": 30.935,
-   "tramo": 8
+   "ini": 30.752,
+   "fin": 32.533,
+   "tramo": 10
   },
   {
    "texto": "euros",
-   "ini": 30.935,
-   "fin": 31.307,
-   "tramo": 8
+   "ini": 32.533,
+   "fin": 32.915,
+   "tramo": 10
   },
   {
    "texto": "al",
-   "ini": 31.307,
-   "fin": 31.493,
-   "tramo": 8
+   "ini": 32.915,
+   "fin": 33.106,
+   "tramo": 10
   },
   {
    "texto": "mes.",
-   "ini": 31.493,
-   "fin": 31.742,
-   "tramo": 8
+   "ini": 33.106,
+   "fin": 33.361,
+   "tramo": 10
   },
   {
    "texto": "Y",
-   "ini": 32.342,
-   "fin": 32.444,
-   "tramo": 9
+   "ini": 33.961,
+   "fin": 34.081,
+   "tramo": 11
   },
   {
    "texto": "con",
-   "ini": 32.444,
-   "fin": 32.649,
-   "tramo": 9
+   "ini": 34.081,
+   "fin": 34.322,
+   "tramo": 11
   },
   {
    "texto": "el",
-   "ini": 32.649,
-   "fin": 32.802,
-   "tramo": 9
+   "ini": 34.322,
+   "fin": 34.503,
+   "tramo": 11
   },
   {
    "texto": "complemento,",
-   "ini": 32.802,
-   "fin": 33.417,
-   "tramo": 9
+   "ini": 34.503,
+   "fin": 35.225,
+   "tramo": 11
   },
   {
    "texto": "los",
-   "ini": 33.662,
-   "fin": 33.864,
-   "tramo": 10
+   "ini": 35.225,
+   "fin": 35.466,
+   "tramo": 11
   },
   {
    "texto": "medicamentos",
-   "ini": 33.864,
-   "fin": 34.52,
-   "tramo": 10
+   "ini": 35.466,
+   "fin": 36.249,
+   "tramo": 11
   },
   {
    "texto": "con",
-   "ini": 34.52,
-   "fin": 34.722,
-   "tramo": 10
+   "ini": 36.249,
+   "fin": 36.49,
+   "tramo": 11
   },
   {
    "texto": "receta",
-   "ini": 34.722,
-   "fin": 35.076,
-   "tramo": 10
+   "ini": 36.49,
+   "fin": 36.912,
+   "tramo": 11
   },
   {
    "texto": "salen",
-   "ini": 35.076,
-   "fin": 35.379,
-   "tramo": 10
+   "ini": 36.912,
+   "fin": 37.273,
+   "tramo": 11
   },
   {
    "texto": "gratis.",
-   "ini": 35.379,
-   "fin": 35.732,
-   "tramo": 10
+   "ini": 37.273,
+   "fin": 37.695,
+   "tramo": 11
   },
   {
    "texto": "Se",
-   "ini": 36.332,
-   "fin": 36.515,
-   "tramo": 11
+   "ini": 38.295,
+   "fin": 38.464,
+   "tramo": 12
   },
   {
    "texto": "pide",
-   "ini": 36.515,
-   "fin": 36.82,
-   "tramo": 11
+   "ini": 38.464,
+   "fin": 38.745,
+   "tramo": 12
   },
   {
    "texto": "con",
-   "ini": 36.82,
-   "fin": 37.064,
-   "tramo": 11
+   "ini": 38.745,
+   "fin": 38.97,
+   "tramo": 12
   },
   {
    "texto": "la",
-   "ini": 37.064,
-   "fin": 37.247,
-   "tramo": 11
+   "ini": 38.97,
+   "fin": 39.139,
+   "tramo": 12
   },
   {
    "texto": "pensión.",
-   "ini": 37.247,
-   "fin": 37.734,
-   "tramo": 11
+   "ini": 39.139,
+   "fin": 39.59,
+   "tramo": 12
   },
   {
    "texto": "Guárdatelo,",
-   "ini": 37.734,
-   "fin": 38.405,
-   "tramo": 11
+   "ini": 40.145,
+   "fin": 40.92,
+   "tramo": 13
   },
   {
    "texto": "o",
-   "ini": 38.405,
-   "fin": 38.527,
-   "tramo": 11
+   "ini": 40.92,
+   "fin": 41.061,
+   "tramo": 13
   },
   {
    "texto": "pásaselo",
-   "ini": 38.527,
-   "fin": 39.075,
-   "tramo": 11
+   "ini": 41.061,
+   "fin": 41.696,
+   "tramo": 13
   },
   {
    "texto": "a",
-   "ini": 39.075,
-   "fin": 39.197,
-   "tramo": 11
+   "ini": 41.696,
+   "fin": 41.837,
+   "tramo": 13
   },
   {
    "texto": "quien",
-   "ini": 39.197,
-   "fin": 39.563,
-   "tramo": 11
+   "ini": 41.837,
+   "fin": 42.259,
+   "tramo": 13
   },
   {
    "texto": "cobre",
-   "ini": 39.563,
-   "fin": 39.929,
-   "tramo": 11
+   "ini": 42.259,
+   "fin": 42.682,
+   "tramo": 13
   },
   {
    "texto": "poco.",
-   "ini": 39.929,
-   "fin": 40.233,
-   "tramo": 11
+   "ini": 42.682,
+   "fin": 43.035,
+   "tramo": 13
   }
  ]
 }
