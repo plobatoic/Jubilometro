@@ -180,7 +180,7 @@ export function oficina() {
   for (let k = 0; k < 14; k++) { const l = caja(2.0, 0.035, 0.07, mat("#eef1f4", 0.5), 0.01); l.position.set(-3.4, 4.45 - k * 0.1, -3.02); l.rotation.x = -0.6; g.add(l); }
   // Cartel y pantalla de turnos
   const cartel = lienzo(1024, 256, (ctx, w, h) => { ctx.fillStyle = "#1f3a5f"; redondeado(ctx, 0, 0, w, h, 40); ctx.fill(); ctx.fillStyle = "#fff"; ctx.font = `800 96px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText("Atención al público", w / 2, h / 2 + 4); });
-  const cart = new THREE.Mesh(new THREE.PlaneGeometry(2.6, 0.65), new THREE.MeshStandardMaterial({ map: cartel.tex, transparent: true, roughness: 0.6 })); cart.position.set(0.9, 4.6, -3.1); g.add(cart);
+  const cart = new THREE.Mesh(new THREE.PlaneGeometry(2.2, 0.55), new THREE.MeshStandardMaterial({ map: cartel.tex, transparent: true, roughness: 0.6 })); cart.position.set(1.9, 3.3, -3.1); g.add(cart);
   const turno = lienzo(512, 256, (ctx, w, h) => { ctx.fillStyle = "#0c1424"; redondeado(ctx, 0, 0, w, h, 30); ctx.fill(); ctx.fillStyle = "#6fd3a0"; ctx.font = `800 120px ${FUENTE}`; ctx.textAlign = "center"; ctx.textBaseline = "middle"; ctx.fillText("A-27", w / 2, h / 2 + 6); });
   const tur = new THREE.Mesh(new THREE.PlaneGeometry(1.1, 0.55), new THREE.MeshStandardMaterial({ map: turno.tex, emissive: "#ffffff", emissiveMap: turno.tex, emissiveIntensity: 0.6, transparent: true })); tur.position.set(3.0, 3.7, -3.1); g.add(tur);
   // Reloj
