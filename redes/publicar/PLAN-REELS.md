@@ -1,4 +1,4 @@
-# Plan de reels del 28/11 al 13/12 (regla de Pau, 25/11)
+# Plan de reels del 26/11 al 13/12 (regla de Pau, 25/11)
 
 **Regla:** Instagram, Facebook y X: **1 reel al día** (7 a la semana). TikTok y YouTube: **4 reels a la semana**.
 Horas: Instagram 19:30 · Facebook 20:43 · X 20:43 · YouTube 17:00 · TikTok 18:00. Etiqueta de IA en todos.
@@ -24,33 +24,41 @@ Excepción ya acordada: los reels de partidos del 25 al 27/11 (y E3 el 26/11) se
 | 17 | 60.000 € (nuevo) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-munecosmp4-7aegRkNTGTJ.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17-munecosjpg-fo7d7hxi2qO.jpg |
 | 18 | 15 años cotizados (nuevo) | VIDEO18 (lo pongo cuando acabe el render) | — |
 | 19 | Despido: jubilación involuntaria (nuevo) | VIDEO19 (lo pongo cuando acabe el render) | — |
-| N1, N2, N3 | Reels nuevos de la tarea del miércoles 2/12 | Te los paso el 2/12 por la noche | — |
+| N1-N4 | Reels nuevos de las tareas del 2 y 5/12 | Se pasan en cuanto estén | — |
 
 Textos: los de cada reel en su `publicacion.md` (`redes/reels/nuevos/` o `redes/reels/semana-0N/`) y, para X, los de `2026-11-30_12-06/reels.md`.
 
 ## Día a día
 
-M = ya está en Metricool (sale solo; no programarlo en otro sitio).
+M = ya está en Metricool (sale solo; no programarlo en otro sitio). **Partidos** = reels de partidos del 25 al 27/11: van **además** del reel del día (excepción acordada).
 
-| Día | Instagram 19:30 | Facebook 20:43 | X 20:43 | YouTube 17:00 | TikTok 18:00 |
+| Día | Instagram | Facebook | X | YouTube 17:00 | TikTok 18:00 |
 |---|---|---|---|---|---|
-| Sáb 28/11 | R8 | R8 | 15A | E3 (ya programado) | — (quitar E3) |
-| Dom 29/11 | R9 | R9 | R8 (ya programado) | — | E2 (ya programado) |
+| **Semana 23-29/11** | | | | **4** + partidos | **4** |
+| Mié 25/11 | (ya publicado) + partidos | (ya publicado) + partidos | (ya publicado) + partidos | partidos | Jubilación 2027 (ya) |
+| Jue 26/11 | E3 19:30 (ya) + partidos | E3 20:43 (ya) + partidos | E3 21:43 + partidos · **quitar** el bono social de las 09:43 | partidos | Jubilación activa (ya) |
+| Vie 27/11 | **R8 a las 21:00** + partidos | **R8 a las 21:43** + partidos | **15A a las 21:43** + partidos | partidos | E1 (ya) |
+| Sáb 28/11 | R9 19:30 | R9 20:43 | 17 20:43 | E3 (ya) | **quitar E3** |
+| Dom 29/11 | 17 19:30 | 17 20:43 | R8 20:43 (ya) | **R8** | E2 (ya) |
 | **Semana 30/11-6/12** | | | | **4** | **4** |
-| Lun 30/11 | 17 | R6 (ya programado) | R9 (ya programado) | — | Demorada (ya programado) |
-| Mar 1/12 | R1 (M) | R7 (M) | R1 | R1 (M) | Subsidio de 52 (ya programado) |
-| Mié 2/12 | 18 | 18 | 18 | — | R8 (ya programado) |
-| Jue 3/12 | R6 (M) | R1 (M) | R6 | R6 (M) | R9 (ya programado) |
+| Lun 30/11 | 18 19:30 | R6 20:43 (ya) | R9 20:43 (ya) | — | Demorada (ya) |
+| Mar 1/12 | R1 (M) | R7 (M) | R1 | R1 (M) | Subsidio de 52 (ya) |
+| Mié 2/12 | 19 | 19 | 19 | — | R8 (ya) |
+| Jue 3/12 | R6 (M) | R1 (M) | R6 | R6 (M) | R9 (ya) |
 | Vie 4/12 | R4 (M) | R4 | R4 | R4 (M) | — |
-| Sáb 5/12 | R7 (M) | 17 | R7 | R7 (M) | — |
-| Dom 6/12 | 19 | 19 | 19 | — | — |
+| Sáb 5/12 | R7 (M) | 18 | R7 | R7 (M) | — |
+| Dom 6/12 | 15 | 15 | 15 | — | — |
 | **Semana 7-13/12** | | | | **4** | **4** |
-| Lun 7/12 | 15 | 15 | 15 | — | — |
-| Mar 8/12 | N1 | N1 | N1 | — | 11 Jubilación parcial |
+| Lun 7/12 | N1 | N1 | N1 | — | — |
+| Mar 8/12 | N2 | N2 | N2 | — | 11 Jubilación parcial |
 | Mié 9/12 | TD (M) | TD (M) | TD | TD (M) | — |
-| Jue 10/12 | N2 | N2 | N2 | N2 | 60.000 € (versión anterior) |
+| Jue 10/12 | N3 | N3 | N3 | N3 | 60.000 € (versión anterior) |
 | Vie 11/12 | R5 (M) | R5 | R5 | R5 (M) | — |
-| Sáb 12/12 | N3 | N3 | N3 | — | 13 Convenio especial |
+| Sáb 12/12 | N4 | N4 | N4 | — | 13 Convenio especial |
 | Dom 13/12 | SV (M) | SV | SV | Vender la casa (M) | 12 Jubilación flexible |
 
-Cuentas: Instagram, Facebook y X, 7 por semana. YouTube: 1, 3, 4 y 5/12 · 9, 10, 11 y 13/12. TikTok: 30/11, 1, 2 y 3/12 · 8, 10, 12 y 13/12.
+Horas si no se dice otra: Instagram 19:30 · Facebook 20:43 · X 20:43. El 27/11 el reel del día va después de los de partidos.
+
+Cuentas: Instagram, Facebook y X, 1 reel al día del 26/11 al 13/12 (más los de partidos del 25 al 27/11). YouTube: 23-29/11 E2, E1, E3 y R8 (más partidos) · 1, 3, 4 y 5/12 · 9, 10, 11 y 13/12. TikTok: 25, 26, 27 y 29/11 · 30/11, 1, 2 y 3/12 · 8, 10, 12 y 13/12.
+
+N1-N4: reels nuevos que hacen las tareas del miércoles 2/12 y del sábado 5/12.

@@ -1,6 +1,6 @@
 # Reels · Semana del 30 de noviembre al 6 de diciembre
 
-> El plan de todas las semanas está en `../PLAN-REELS.md`, que manda.
+> **Ojo: esta tabla está desactualizada. Manda `../PLAN-REELS.md`** (el 26/11 se cambió el orden: 17 el 29/11, 18 el 30/11, 19 el 2/12 y 15 el 6/12).
 
 Plan de Pau (25/11): **1 reel al día en Instagram (19:30), Facebook (20:43) y X (20:43)**, y 4 a la semana en YouTube (17:00) y TikTok (18:00). Etiqueta de IA: sí en todos (voz y muñecos generados).
 
