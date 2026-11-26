@@ -23,7 +23,7 @@ Excepción ya acordada: los reels de partidos del 25 al 27/11 (y E3 el 26/11) se
 | 15 | Complemento a mínimos (nuevo, voz nueva) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-15-complemento-minimos-voz-hombremp4-PMShKmhZras.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-15-munecosjpg-nNdxZxKVYLo.jpg |
 | 17 | 60.000 € (nuevo) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-munecosmp4-7aegRkNTGTJ.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17-munecosjpg-fo7d7hxi2qO.jpg |
 | 18 | 15 años cotizados (nuevo) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-18-quince-anos-munecosmp4-ng1iXPAoR3d.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-18jpg-keEDxig4Uhh.jpg |
-| 19 | Despido: jubilación involuntaria (nuevo) | VIDEO19 (lo pongo cuando acabe el render) | — |
+| 19 | Despido: jubilación involuntaria (nuevo) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-19-despido-involuntariamp4-h2OxkueQsQy.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-19jpg-omItj08Ewd0.jpg |
 | N1-N4 | Reels nuevos de las tareas del 2 y 5/12 | Se pasan en cuanto estén | — |
 
 Textos: los de cada reel en su `publicacion.md` (`redes/reels/nuevos/` o `redes/reels/semana-0N/`) y, para X, los de `2026-11-30_12-06/reels.md`.
