@@ -70,7 +70,7 @@ Guárdatelo, o pásaselo a quien acaben de despedir.`,
       },
       html: `
         <div class="kicker">El precio</div>
-        <div class="gigante relieve rojo" data-en="hasta un" data-a="golpe3d" style="font-size:170px">−30 %</div>
+        <div class="gigante relieve rojo" data-a="golpe3d" style="font-size:170px">−30 %</div>
         <div class="sub" data-en="para siempre" data-a="sube">de recorte, para siempre</div>`,
     },
     { en: "Guárdatelo", clase: "arriba", transicion: "sube",
