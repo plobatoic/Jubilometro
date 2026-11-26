@@ -20,7 +20,7 @@ Excepción ya acordada: los reels de partidos del 25 al 27/11 (y E3 el 26/11) se
 | TD | Tarjeta Dorada | https://static.metricool.com/planner/202611/7853768-file-8693612310319335643.mp4 | — |
 | SV | SOVI | https://static.metricool.com/planner/202611/7853768-file-15412600655792981491.mp4 | — |
 | 15A | 15 años cotizados (versión anterior) | https://storage.orshot.com/cloud/w-31139/renders/videos/tiktok-15-anos-cotizadosmp4-hX8Gjvrwd6W.mp4 | — |
-| 15 | Complemento a mínimos (nuevo, voz nueva) | VIDEO15 (lo pongo cuando acabe el render) | — |
+| 15 | Complemento a mínimos (nuevo, voz nueva) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-15-complemento-minimos-voz-hombremp4-PMShKmhZras.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-15-munecosjpg-nNdxZxKVYLo.jpg |
 | 17 | 60.000 € (nuevo) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-17-sesenta-mil-munecosmp4-7aegRkNTGTJ.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-17-munecosjpg-fo7d7hxi2qO.jpg |
 | 18 | 15 años cotizados (nuevo) | https://storage.orshot.com/cloud/w-31139/renders/videos/reel-18-quince-anos-munecosmp4-ng1iXPAoR3d.mp4 | https://storage.orshot.com/cloud/w-31139/renders/brand_assets/portada-reel-18jpg-keEDxig4Uhh.jpg |
 | 19 | Despido: jubilación involuntaria (nuevo) | VIDEO19 (lo pongo cuando acabe el render) | — |
