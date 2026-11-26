@@ -16,7 +16,7 @@ const { PUBLICACIONES } = await import(pathToFileURL(archivo).href);
 
 function guia(fuente) {
   if (!fuente) return null;
-  const ruta = fuente.replace(/^\/|\/$/g, '');
+  const ruta = fuente.split('#')[0].replace(/^\/|\/$/g, '');
   const ultimo = ruta.split('/').pop();
   const opciones = [
     join('contenido', ruta, 'articulo.md'),
